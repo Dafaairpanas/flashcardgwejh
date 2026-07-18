@@ -253,7 +253,7 @@ function showCard() {
   state.isFlipped = false;
 
   // Reset flip
-  $('flashcard').classList.remove('flipped');
+  $('card-back').classList.add('hidden');
   $('rating-area').classList.add('hidden');
 
   // Update progress
@@ -289,7 +289,6 @@ function renderCardFront(card) {
       html = `
         <div class="card-furigana">${card.hiragana}</div>
         <div class="card-kanji">${card.kanji}</div>
-        <div class="card-romaji">${card.romaji}</div>
       `;
       break;
 
@@ -297,7 +296,6 @@ function renderCardFront(card) {
       html = `
         <div class="card-furigana" id="hint-kana" style="opacity:0; transition:opacity 0.3s">${card.hiragana}</div>
         <div class="card-kanji">${card.kanji}</div>
-        <div class="card-romaji" id="hint-romaji" style="opacity:0; transition:opacity 0.3s">${card.romaji}</div>
         <button class="btn btn-ghost btn-sm" id="btn-show-hint" style="margin-top:12px; z-index:10" onclick="event.stopPropagation()">Reveal Hint</button>
       `;
       break;
@@ -337,9 +335,7 @@ function renderCardFront(card) {
     hintBtn.addEventListener('click', (e) => {
       e.stopPropagation();
       const kana = front.querySelector('#hint-kana');
-      const romaji = front.querySelector('#hint-romaji');
       if (kana) kana.style.opacity = '1';
-      if (romaji) romaji.style.opacity = '1';
       hintBtn.style.display = 'none';
       if (state.soundEnabled) {
         playCardSound(card);
@@ -357,23 +353,21 @@ function renderCardBack(card) {
     case 2:
       html = `
         <div class="card-meaning">${card.meaning}</div>
-        <div class="card-meaning-sub">${card.hiragana} — ${card.romaji}</div>
+        <div class="card-meaning-sub">${card.hiragana}</div>
       `;
       break;
-
+ 
     case 3: // Back: Kanji + Furigana
       html = `
         <div class="card-furigana">${card.hiragana}</div>
         <div class="card-kanji">${card.kanji}</div>
-        <div class="card-romaji">${card.romaji}</div>
       `;
       break;
-
+ 
     case 4: // Back: Arti
       html = `
         <div class="card-meaning">${card.meaning}</div>
         <div class="card-meaning-sub">${card.kanji} — ${card.hiragana}</div>
-        <div class="card-romaji">${card.romaji}</div>
       `;
       break;
   }
@@ -385,8 +379,15 @@ function renderCardBack(card) {
 function flipCard() {
   if (state.isFlipped) return;
   state.isFlipped = true;
-  $('flashcard').classList.add('flipped');
+  
+  // Reveal back and rating area
+  $('card-back').classList.remove('hidden');
   $('rating-area').classList.remove('hidden');
+  
+  // Scroll to rating area if needed
+  setTimeout(() => {
+    $('rating-area').scrollIntoView({ behavior: 'smooth', block: 'end' });
+  }, 50);
 
   // Show intervals
   const card = state.sessionCards[state.currentIndex];
