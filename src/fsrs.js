@@ -375,15 +375,18 @@ export class FSRSStateManager {
       }
     }
 
-    // Sort due cards by due date (earliest first)
-    due.sort((a, b) => {
-      const dueA = new Date(this.states[a.id]?.due || 0);
-      const dueB = new Date(this.states[b.id]?.due || 0);
-      return dueA - dueB;
-    });
+    // Helper to shuffle arrays
+    const shuffle = (arr) => {
+      const shuffled = [...arr];
+      for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+      }
+      return shuffled;
+    };
 
-    // Learning cards first (they have short intervals), then due, then new
-    return [...learning, ...due, ...newCards];
+    // Shuffle the categories so they don't appear in a predictable order
+    return [...shuffle(learning), ...shuffle(due), ...shuffle(newCards)];
   }
 
   /**

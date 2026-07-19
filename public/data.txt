@@ -236,9 +236,9 @@
 ずっと;ずっと;jauh lebih;Bab12
 初めて;はじめて;untuk pertama kali;Bab12
 ただいま。;ただいま。;Saya kembali./Saya pulang.;Bab12
-お帰りなさい。;お帰りなさい。;Sudah pulang ya.;Bab12
-わあ、すごい 人ですね。;わあ、すごい 人ですね。;Wah, banyak orang.;Bab12
-疲れました。;疲れました。;Lelah.;Bab12
+お帰りなさい。;おかえりなさい。;Sudah pulang ya.;Bab12
+わあ、すごい 人ですね。;わあ、すごい ひとですね。;Wah, banyak orang.;Bab12
+疲れました。;つかれました。;Lelah.;Bab12
 祇園祭;ぎおんまつり;Perayaan Gion (perayaan yang paling terkenal di Kyoto);Bab12
 ホンコン;ホンコン;Hong Kong (香港);Bab12
 シンガポール;シンガポール;Singapura;Bab12
@@ -267,15 +267,15 @@
 のどが かわきます;のどが かわきます;haus (jika menyatakan keadaan haus, digunakan bentuk た seperti のどが かわきました);Bab13
 おなかが すきます;おなかが すきます;lapar (jika menyatakan keadaan lapar, digunakan bentuk た seperti おなかが すきました);Bab13
 そう しましょう。;そう しましょう。;Ya, mari. (digunakan ketika menyetujui aksi yang disarankan oleh lawan bicara);Bab13
-ご注文は？;ご 注 文 は？;Mau pesan apa?;Bab13
+ご注文は？;ごちゅうもんは？;Mau pesan apa?;Bab13
 定食;ていしょく;menu paket;Bab13
 牛どん;ぎゅうどん;Gyudon;Bab13
-[少々] お待ち ください。;[ 少 々 ] お待ち ください。;Tunggu [sebentar].;Bab13
+[少々] お待ち ください。;[しょうしょう] おまちください。;Tunggu [sebentar].;Bab13
 〜で ございます。;〜で ございます。;(bentuk halus dari です);Bab13
 別々に;べつべつに;sendiri-sendiri, masing-masing;Bab13
 博物館;はくぶつかん;museum;Bab13extra
 美術館;びじゅつかん;gedung kesenian;Bab13extra
-図書館;toshoかん;perpustakaan;Bab13extra
+図書館;としょかん;perpustakaan;Bab13extra
 映画館;えいがかん;gedung bioskop;Bab13extra
 動物園;どうぶつえん;kebun binatang;Bab13extra
 植物園;しょくぶつえん;kebun raya;Bab13extra
@@ -349,9 +349,9 @@
 もう 〜;もう 〜;〜 lagi;Bab14
 さあ;さあ;mari (digunakan ketika mengajak atau menyuruh sesuatu kepada lawan bicara);Bab14
 あれ？;あれ？;Ah? (digunakan ketika heran atau merasa aneh);Bab14
-信号を 右へ 曲がって ください。;信号を 右へ 曲がって ください。;Tolong belok ke kanan di lampu lalu lintas.;Bab14
-これで お願いします。;これで お願いします。;Minta dengan ini.;Bab14
-お釣り;お釣り;uang kembalian;Bab14
+信号を 右へ 曲がって ください。;しんごうを みぎへ まがって ください。;Tolong belok ke kanan di lampu lalu lintas.;Bab14
+これで お願いします。;これで おねがいします。;Minta dengan ini.;Bab14
+お釣り;おつり;uang kembalian;Bab14
 駅;えき;Stasiun;Bab14extra
 切符売り場;きっぷうりば;loket penjualan karcis;Bab14extra
 自動券売機;じどうけんばいき;mesin karcis otomatis;Bab14extra
@@ -367,9 +367,9 @@
 [プラット]ホーム;[プラット]ホーム;peron;Bab14extra
 売店;ばいてん;kios, kedai;Bab14extra
 コインロッカー;コインロッカー;loker;Bab14extra
-タクシー乗り場;タクシー乗り場;tempat naik taksi;Bab14extra
+タクシー乗り場;タクシーのりば;tempat naik taksi;Bab14extra
 バスターミナル;バスターミナル;terminal bis;Bab14extra
-バス停;バス停;halte bis;Bab14extra
+バス停;バスてい;halte bis;Bab14extra
 特急;とっきゅう;kereta api super cepat;Bab14extra
 急行;きゅうこう;kereta api cepat;Bab14extra
 快速;かいそく;kereta api cepat yang melewati pinggiran kota;Bab14extra
@@ -479,27 +479,27 @@
 どれ;どれ;mana (mengungkapkan lebih dari tiga barang);Bab16
 すごいですね。;すごいですね。;Hebat.;Bab16
 [いいえ、] まだまだです。;[いいえ、] まだまだです。;[Tidak], belum memuaskan.;Bab16
-お引き出しですか。;お引き出しですか。;Mau menarik uang?;Bab16
+お引き出しですか。;おひきだしですか。;Mau menarik uang?;Bab16
 まず;まず;pertama-tama, terlebih dahulu;Bab16
-次に;次に;kemudian;Bab16
+次に;つぎに;kemudian;Bab16
 キャッシュカード;キャッシュカード;kartu ATM;Bab16
-暗証番号;暗証番号;PIN;Bab16
-金額;金額;jumlah uang;Bab16
-確認;確認;cek (〜します：mengecek, memastikan);Bab16
+暗証番号;あんしょうばんごう;PIN;Bab16
+金額;きんがく;jumlah uang;Bab16
+確認;かくにん;cek (〜します：mengecek, memastikan);Bab16
 ボタン;ボタン;tombol;Bab16
-JR;JR;JR (nama perusahaan rel kereta listrik);Bab16
-雪祭り;雪祭り;pesta salju;Bab16
+JR;ジェイアール;JR (nama perusahaan rel kereta listrik);Bab16
+雪祭り;ゆきまつり;pesta salju;Bab16
 バンドン;バンドン;Bandung (di Indonesia);Bab16
 フランケン;フランケン;Franken (di Jerman);Bab16
 ベラクルス;ベラクルス;Veracruz (di Meksiko);Bab16
-梅田;梅田;Umeda (nama daerah di Osaka);Bab16
-大学前;大学前;halte fiksi;Bab16extra
-お預け入れ;お預け入れ;menambahkan saldo;Bab16extra
-お振り込み;お振り込み;pembayaran;Bab16extra
-お振り替え;お振り替え;pengiriman;Bab16extra
-お引き出し;お引き出し;penarikan uang;Bab16extra
-通帳記入;通帳記入;pembaharuan buku catatan bank;Bab16extra
-残高照会;残高照会;cek saldo;Bab16extra
+梅田;うめだ;Umeda (nama daerah di Osaka);Bab16
+大学前;だいがくまえ;halte fiksi;Bab16extra
+お預け入れ;おあずけいれ;menambahkan saldo;Bab16extra
+お振り込み;おふりこみ;pembayaran;Bab16extra
+お振り替え;おふりかえ;pengiriman;Bab16extra
+お引き出し;おひきだし;penarikan uang;Bab16extra
+通帳記入;つうちょうきにゅう;pembaharuan buku catatan bank;Bab16extra
+残高照会;ざんだかしょうかい;cek saldo;Bab16extra
 覚えます;おぼえますⅡ;mengingat, menghafal;Bab17
 忘れます;わすれますⅡ;lupa;Bab17
 なくしますⅠ;なくしますⅠ;kehilangan;Bab17
@@ -531,10 +531,10 @@ JR;JR;JR (nama perusahaan rel kereta listrik);Bab16
 ですから;ですから;oleh karena itu;Bab17
 どう しましたか。;どう しましたか。;Kenapa?/Ada masalah apa?;Bab17
 のど;のど;kerongkongan;Bab17
-[〜が] 痛いです。;[〜が] 痛いです。;[〜] sakit;Bab17
+[〜が] 痛いです。;[〜が] いたいです。;[〜] sakit;Bab17
 かぜ;かぜ;masuk angin;Bab17
 それから;それから;dan, kemudian;Bab17
-お大事に。;お大事に。;Semoga lekas sembuh. (ekspresi yang diucapkan kepada orang yang sedang sakit);Bab17
+お大事に。;おだいじに。;Semoga lekas sembuh. (ekspresi yang diucapkan kepada orang yang sedang sakit);Bab17
 頭が 痛い;あたまが いたい;sakit kepala;Bab17extra
 おなかが いたい;おなかが いたい;sakit perut;Bab17extra
 歯が 痛い;はが いたい;sakit gigi;Bab17extra
@@ -776,18 +776,18 @@ JR;JR;JR (nama perusahaan rel kereta listrik);Bab16
 ほんとうに;ほんとうに;betul-betul;Bab21
 そんなに;そんなに;tidak begitu (diikuti bentuk negatif);Bab21
 〜に ついて;〜に ついて;tentang 〜, mengenai 〜;Bab21
-久しぶりですね。;久しぶりですね。;Sudah lama tidak bertemu ya.;Bab21
-〜でも 飲みませんか。;〜でも 飲みませんか。;Bagaimana kalau kita minum 〜, atau apa saja?;Bab21
+久しぶりですね。;ひさしぶりですね。;Sudah lama tidak bertemu ya.;Bab21
+〜でも 飲みませんか。;〜でも のみませんか。;Bagaimana kalau kita minum 〜, atau apa saja?;Bab21
 もちろん;もちろん;tentu saja;Bab21
-もう 帰らないと……。;もう 帰らないと……。;Saya harus pulang...;Bab21
+もう 帰らないと……。;もう かえらないと……。;Saya harus pulang...;Bab21
 アインシュタイン;アインシュタイン;Albert Einstein (1879-1955);Bab21extra
 ガガーリン;ガガーリン;Gagarin (1934-1968);Bab21extra
 ガリレオ;ガリレオ;Galileo Galilei (1564-1642);Bab21extra
-キング牧師;キング牧師;Martin Luther King, Jr. (1929-1968);Bab21extra
+キング牧師;キングぼくし;Martin Luther King, Jr. (1929-1968);Bab21extra
 フランクリン;フランクリン;Benjamin Franklin (1706-1790);Bab21extra
-かぐや姫;かぐや姫;Putri Kaguya (protagonis dari cerita dongeng Jepang "Taketori monogatari");Bab21extra
-天神祭;天神祭;Perayaan Tenjin (perayaan di Osaka);Bab21extra
-吉野山;吉野山;Gunung Yoshino (gunung yang ada di Nara);Bab21extra
+かぐや姫;かぐやひめ;Putri Kaguya (protagonis dari cerita dongeng Jepang "Taketori monogatari");Bab21extra
+天神祭;てんじんまつり;Perayaan Tenjin (perayaan di Osaka);Bab21extra
+吉野山;よしのやま;Gunung Yoshino (gunung yang ada di Nara);Bab21extra
 カンガルー;カンガルー;kanguru;Bab21extra
 キャプテン・クック;キャプテン・クック;Captain James Cook (1728-1779);Bab21extra
 ヨーネン;ヨーネン;perusahaan fiksi;Bab21extra
@@ -846,7 +846,7 @@ JR;JR;JR (nama perusahaan rel kereta listrik);Bab16
 よく;よく;sering kali;Bab22
 えーと;えーと;Itu...;Bab22
 おめでとう [ございます]。;おめでとう [ございます]。;Selamat. (digunakan untuk hari ulang tahu, upacara pernikahan, dan tahun baru);Bab22
-お探しですか。;お探しですか。;Mencari apa?;Bab22
+お探しですか。;おさがしですか。;Mencari apa?;Bab22
 では;では;Kalau begitu;Bab22
 こちら;こちら;ini (ungkapan sopan dari これ);Bab22
 家賃;やちん;biaya sewa rumah;Bab22
@@ -969,9 +969,9 @@ JR;JR;JR (nama perusahaan rel kereta listrik);Bab16
 転勤;てんきん;pindah ke kantor cabang lain atau jabatan lain (〜します：pindah kantor);Bab25
 こと;こと;hal (〜のこと：hal 〜);Bab25
 暇;ひま;waktu luang;Bab25
-[いろいろ] お世話に なりました。;[いろいろ] お世話に なりました。;Terima kasih banyak bantuan Anda yang telah diberikan.;Bab25
+[いろいろ] お世話に なりました。;[いろいろ] おせわに なりました。;Terima kasih banyak bantuan Anda yang telah diberikan.;Bab25
 頑張ります;がんばりますⅠ;berusaha, bekerja keras;Bab25
-どうぞ お元気で。;どうぞ お元気で。;Semoga sehat-sehat selalu. (digunakan ketika perpisahan dalam jangka waktu lama);Bab25
+どうぞ お元気で。;どうぞ おげんきで。;Semoga sehat-sehat selalu. (digunakan ketika perpisahan dalam jangka waktu lama);Bab25
 ベトナム;ベトナム;Vietnam;Bab25
 赤ちゃん;あかちゃん;bayi (0歳);Bab25extra
 子ども;こども;anak-anak (6歳);Bab25extra
@@ -3001,7 +3001,7 @@ JR;JR;JR (nama perusahaan rel kereta listrik);Bab16
 音楽;おんがく;Musik ( O Shimasu = Bermusik );Bab09
 歌;うた;Lagu ( Utaimasu = Bernyanyi );Bab09
 クラシック;クラシック;Klasik;Bab09
-ジャズ;ジャズ;Jaz;Bab09
+ジャズ;ジャズ;Jaz;Bab09x
 コンサート;コンサート;Konser;Bab09
 カラオケ;カラオケ;Karaoke;Bab09
 歌舞伎;かぶき;Kabuki (drama tradisional jepang);Bab09
