@@ -8,6 +8,9 @@ import { loadData, getChapters, getCardsByChapters, shuffleCards, chapterDisplay
 import { FSRSStateManager, Rating } from './fsrs.js';
 import { initTTS, speak, stopSpeech } from './tts.js';
 import { registerSW } from 'virtual:pwa-register';
+import { initDictionary } from './dictionary.js';
+import { initKanjiPage } from './kanji-page.js';
+import { initQuiz } from './quiz.js';
 
 // Register PWA Service Worker
 const updateSW = registerSW({
@@ -25,6 +28,7 @@ const state = {
   // Setup
   selectedChapters: [],
   filterMode: 'all',    // 'all' | 'main' | 'extra'
+  jlptFilter: 'all',    // 'all' | 'n5' | 'n4' | 'n3' | 'n2' | 'n1'
   studyMode: 1,          // 1-4
   soundEnabled: true,
 
@@ -52,12 +56,49 @@ const views = {
   setup: $('setup-view'),
   study: $('study-view'),
   complete: $('complete-view'),
+  dictionary: $('dictionary-view'),
+  kanji: $('kanji-view'),
+  quiz: $('quiz-view'),
 };
 
-// ── View Management ──
+// Track which pages have been initialized
+const pageInitialized = { dictionary: false, kanji: false, quiz: false };
+
 function showView(name) {
-  Object.values(views).forEach(v => v.classList.remove('active'));
-  views[name].classList.add('active');
+  Object.values(views).forEach(v => { if (v) v.classList.remove('active'); });
+  if (views[name]) views[name].classList.add('active');
+  
+  // Lazy-init pages on first visit
+  if (name === 'dictionary' && !pageInitialized.dictionary) {
+    initDictionary();
+    pageInitialized.dictionary = true;
+  }
+  if (name === 'kanji' && !pageInitialized.kanji) {
+    initKanjiPage();
+    pageInitialized.kanji = true;
+  }
+  if (name === 'quiz' && !pageInitialized.quiz) {
+    initQuiz();
+    pageInitialized.quiz = true;
+  }
+}
+
+// ── Hidden Menu ──
+function toggleHiddenMenu() {
+  const menu = $('hidden-menu');
+  const overlay = $('hidden-menu-overlay');
+  const isOpen = menu.classList.contains('active');
+  if (isOpen) {
+    closeHiddenMenu();
+  } else {
+    menu.classList.add('active');
+    overlay.classList.add('active');
+  }
+}
+
+function closeHiddenMenu() {
+  $('hidden-menu').classList.remove('active');
+  $('hidden-menu-overlay').classList.remove('active');
 }
 
 // ── Toast ──
@@ -123,6 +164,7 @@ function savePreferences() {
   localStorage.setItem('fcgw_prefs', JSON.stringify({
     selectedChapters: state.selectedChapters,
     filterMode: state.filterMode,
+    jlptFilter: state.jlptFilter,
     studyMode: state.studyMode,
     soundEnabled: state.soundEnabled,
   }));
@@ -134,6 +176,7 @@ function restorePreferences() {
     if (saved) {
       state.selectedChapters = saved.selectedChapters || [];
       state.filterMode = saved.filterMode || 'all';
+      state.jlptFilter = saved.jlptFilter || 'all';
       state.studyMode = saved.studyMode || 1;
       state.soundEnabled = saved.soundEnabled !== false;
     }
@@ -167,12 +210,24 @@ function buildChapterGrid() {
   });
 
   // Update filter & mode UI from state
-  document.querySelectorAll('.filter-btn').forEach(btn => {
+  document.querySelectorAll('#filter-group .filter-btn').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.filter === state.filterMode);
+  });
+  document.querySelectorAll('#jlpt-group .filter-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.jlpt === state.jlptFilter);
   });
   document.querySelectorAll('.mode-card').forEach(card => {
     card.classList.toggle('selected', parseInt(card.dataset.mode) === state.studyMode);
   });
+  
+  const jlptBento = document.getElementById('bento-jlpt');
+  if (jlptBento) {
+    if (state.studyMode === 2) {
+      jlptBento.classList.remove('hidden');
+    } else {
+      jlptBento.classList.add('hidden');
+    }
+  }
 
   updateChapterBadge();
   updateCardCount();
@@ -202,7 +257,7 @@ function updateChapterBadge() {
 }
 
 function updateCardCount() {
-  const cards = getCardsByChapters(state.selectedChapters, state.filterMode);
+  const cards = getCardsByChapters(state.selectedChapters, state.filterMode, state.jlptFilter, state.studyMode);
   const count = cards.length;
   $('card-count-label').textContent = count > 0
     ? `${count} kartu siap dipelajari`
@@ -211,7 +266,7 @@ function updateCardCount() {
 }
 
 function updateStats() {
-  const cards = getCardsByChapters(state.selectedChapters, state.filterMode);
+  const cards = getCardsByChapters(state.selectedChapters, state.filterMode, state.jlptFilter, state.studyMode);
   const stats = fsrs.getStats(cards);
   $('stat-total').textContent = stats.total;
   $('stat-new').textContent = stats.newCount;
@@ -224,7 +279,7 @@ function updateStats() {
 // ══════════════════════════════════
 
 function startStudy() {
-  const cards = getCardsByChapters(state.selectedChapters, state.filterMode);
+  const cards = getCardsByChapters(state.selectedChapters, state.filterMode, state.jlptFilter, state.studyMode);
   if (cards.length === 0) {
     showToast('Pilih minimal 1 bab!');
     return;
@@ -407,7 +462,7 @@ function rateCard(rating) {
   if (!state.isFlipped) return;
 
   const card = state.sessionCards[state.currentIndex];
-  const newState = fsrs.reviewCard(card.id, rating);
+  fsrs.reviewCard(card.id, rating);
 
   state.totalReviewed++;
   if (rating >= Rating.GOOD) state.totalCorrect++;
@@ -419,12 +474,25 @@ function rateCard(rating) {
     state.cardsUntilNextColor = Math.floor(Math.random() * 6) + 10;
   }
 
-  // If the card is in learning/relearning, re-add it to the queue
-  if (newState.scheduledDays === 0) {
-    // Card needs to be seen again soon — add it back into the queue
-    // Insert it a few cards ahead (but not at the end)
+  // Reinforcement repeats based on rating:
+  // Again = 3 repeats, Hard = 2, Good = 1, Easy = 0
+  const repeatMap = {
+    [Rating.AGAIN]: 3,
+    [Rating.HARD]: 2,
+    [Rating.GOOD]: 1,
+    [Rating.EASY]: 0,
+  };
+  const repeats = repeatMap[rating] ?? 0;
+
+  // Insert repeated copies at random positions ahead in the queue
+  const remaining = state.sessionCards.length - (state.currentIndex + 1);
+  for (let i = 0; i < repeats; i++) {
+    // Random offset: 3-8 cards ahead, capped to remaining queue length
+    const minOffset = 3;
+    const maxOffset = Math.max(minOffset + 1, Math.min(8, remaining + i + 1));
+    const offset = minOffset + Math.floor(Math.random() * (maxOffset - minOffset));
     const insertAt = Math.min(
-      state.currentIndex + 3 + Math.floor(Math.random() * 3),
+      state.currentIndex + 1 + offset,
       state.sessionCards.length
     );
     state.sessionCards.splice(insertAt, 0, card);
@@ -470,11 +538,30 @@ function finishSession() {
 // ══════════════════════════════════
 
 function setupEventListeners() {
-  // Navigation
+  // Navigation — Logo goes home
   $('nav-home-btn').addEventListener('click', () => {
     stopSpeech();
     updateStats();
     showView('setup');
+    closeHiddenMenu();
+  });
+
+  // Hidden Menu toggle
+  $('nav-menu-btn').addEventListener('click', (e) => {
+    e.stopPropagation();
+    toggleHiddenMenu();
+  });
+
+  // Hidden menu overlay close
+  $('hidden-menu-overlay').addEventListener('click', closeHiddenMenu);
+
+  // Hidden menu items
+  document.querySelectorAll('.menu-item').forEach(item => {
+    item.addEventListener('click', () => {
+      const page = item.dataset.page;
+      showView(page);
+      closeHiddenMenu();
+    });
   });
 
   // Sound toggle
@@ -518,11 +605,23 @@ function setupEventListeners() {
   });
 
   // Filter buttons
-  document.querySelectorAll('.filter-btn').forEach(btn => {
+  document.querySelectorAll('#filter-group .filter-btn').forEach(btn => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('#filter-group .filter-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       state.filterMode = btn.dataset.filter;
+      updateCardCount();
+      updateStats();
+      savePreferences();
+    });
+  });
+
+  // JLPT Filter buttons
+  document.querySelectorAll('#jlpt-group .filter-btn-sm').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('#jlpt-group .filter-btn-sm').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      state.jlptFilter = btn.dataset.jlpt;
       updateCardCount();
       updateStats();
       savePreferences();
@@ -533,14 +632,50 @@ function setupEventListeners() {
   document.querySelectorAll('.mode-card').forEach(card => {
     card.addEventListener('click', () => {
       document.querySelectorAll('.mode-card').forEach(c => c.classList.remove('selected'));
-      card.classList.add('selected');
-      state.studyMode = parseInt(card.dataset.mode);
+      const mode = parseInt(card.dataset.mode);
+      document.querySelectorAll(`.mode-card[data-mode="${mode}"]`).forEach(c => c.classList.add('selected'));
+      state.studyMode = mode;
+      
+      const jlptBento = document.getElementById('bento-jlpt');
+      if (jlptBento) {
+        if (state.studyMode === 2) {
+          jlptBento.classList.remove('hidden');
+        } else {
+          jlptBento.classList.add('hidden');
+        }
+      }
+      
+      updateCardCount();
+      updateStats();
       savePreferences();
     });
   });
 
+  // Mobile Modal Setup
+  const mobileSetupBtn = $('mobile-setup-btn');
+  const closeModalBtn = $('close-modal-btn');
+  const mobileModal = $('mobile-modal');
+  
+  if (mobileSetupBtn && closeModalBtn && mobileModal) {
+    mobileSetupBtn.addEventListener('click', () => {
+      mobileModal.classList.add('modal-active');
+      document.body.style.overflow = 'hidden';
+    });
+    
+    closeModalBtn.addEventListener('click', () => {
+      mobileModal.classList.remove('modal-active');
+      document.body.style.overflow = '';
+    });
+  }
+
   // Start study
-  $('start-btn').addEventListener('click', startStudy);
+  $('start-btn').addEventListener('click', () => {
+    if (mobileModal) {
+      mobileModal.classList.remove('modal-active');
+      document.body.style.overflow = '';
+    }
+    startStudy();
+  });
 
   // Flashcard flip
   $('flashcard-container').addEventListener('click', () => {

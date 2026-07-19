@@ -1,0 +1,354 @@
+--- KANJI DITEMUKAN: 350 ---
+私;わたし;Saya;Bab01
+あの人;あのひと;Orang itu (biasa);Bab01
+～人;～じん;Orang……. ( Orang dari negara....);Bab01
+先生;せんせい;Guru,dosen ( Tidak untuk menyebut pekerjaan sendiri );Bab01
+学生;がくせい;Siswa,murid;Bab01
+大学;だいがく;Universitas;Bab01
+～から来ました;～からきました;Datang dari…..;Bab01
+お名前は;おなまえは;Nama anda siapa?;Bab01
+中国;ちゅうごく;Cina;Bab01extra
+日本;にほん;Jepang;Bab01extra
+男の人;おとこのひと;Orang laki-laki;Bab10
+女の人;おんなのひと;Orang perempuan;Bab10
+男の子;おとこのこ;Anak laki-laki;Bab10
+女の子;おんなのこ;Anak perempuan;Bab10
+犬;いぬ;Anjing;Bab10
+木;き;Pohon;Bab10
+上;うえ;Atas;Bab10
+下;した;Bawah;Bab10
+前;まえ;Depan, Muka;Bab10
+後ろ;うしろ;Belakang;Bab10
+右;みぎ;Kanan;Bab10
+左;ひだり;Kiri;Bab10
+中;なか;Dalam;Bab10
+外;そと;Luar;Bab10
+間;あいだ;Antara;Bab10
+休みます;やすみます （を）;Tidak masuk kerja / libur;Bab11
+～人;～にん;~ orang;Bab11
+外国;がいこく;Luar negeri;Bab11
+～時間;～じかん;~ jam;Bab11
+～か月;～かげつ;~ bulan;Bab11
+～年;～ねん;~ tahun;Bab11
+いい天気ですね;いいてんきですね;Cuacanya bagus ya...;Bab11
+お出かけですか;おでかけですか;Mau keluar ?;Bab11
+行ってらっしゃい;いってらっしゃい;Hati-hati (berangkatnya);Bab11
+行ってきます;いってきます;Saya berangkat;Bab11
+天どん;てんどん;Semangkuk Nasi dan tempura;Bab11extra
+多い [人が〜];おおい [ひとが〜];banyak [orang];Bab12
+少ない [人が〜];すくない＊ [ひとが〜];sedikit [orang];Bab12
+天気;てんき;cuaca;Bab12
+雨;あめ;hujan;Bab12
+生け花;いけばな;seni merangkai bunga (〜を します：merangkai bunga);Bab12
+お帰りなさい。;おかえりなさい。;Sudah pulang ya.;Bab12
+わあ、すごい 人ですね。;わあ、すごい ひとですね。;Wah, banyak orang.;Bab12
+川;かわ;sungai;Bab13
+何か;なに か;sesuatu;Bab13
+教会;きょうかい;Gereja;Bab13extra
+大学;だいがく;universitas;Bab13extra
+高校;こうこう;SMA;Bab13extra
+中学校;ちゅうがっこう;SMP;Bab13extra
+小学校;しょうがっこう;SD;Bab13extra
+開けます;あけますⅡ;membuka;Bab14
+閉めます;しめますⅡ;menutup;Bab14
+持ちます;もちますⅠ;membawa;Bab14
+話します;はなしますⅠ;berbicara;Bab14
+見せます;みせますⅡ;memperlihatkan;Bab14
+立ちます;たちますⅠ＊;berdiri;Bab14
+電気;でんき;listrik, lampu;Bab14
+名前;なまえ;nama;Bab14
+もう 少し;もう すこし;sedikit lagi;Bab14
+駅;えき;Stasiun;Bab14extra
+出口;でぐち;pintu keluar;Bab14extra
+入口;いりぐち;pintu masuk;Bab14extra
+高校;こうこう;SMA;Bab15
+入れます;いれますⅡ;memasukkan;Bab16
+出します;だしますⅠ;mengeluarkan, menyerahkan, mengirim;Bab16
+下ろします [お金を〜];おろしますⅠ [おかねを〜];mengeluarkan/mengambil [uang];Bab16
+入ります [大学に〜];はいりますⅠ [だいがくに〜];masuk [universitas];Bab16
+出ます [大学を〜];でますⅡ [だいがくを〜];Keluar / tamat [dari universitas];Bab16
+飲みます;のみますⅠ;minum (minuman keras);Bab16
+見学します;けんがくしますⅢ;mengunjungi;Bab16
+電話します;でんわしますⅢ;menelepon;Bab16
+長い;ながい;panjang;Bab16
+目;め;mata;Bab16
+耳;みみ＊;telinga;Bab16
+口;くち＊;mulut;Bab16
+足;あし＊;kaki;Bab16
+大学前;だいがくまえ;halte fiksi;Bab16extra
+出かけます;でかけますⅡ;pergi, keluar, berangkat;Bab17
+持って 行きます;もって いきますⅠ;membawa pergi;Bab17
+持って 来ます;もって きますⅢ;membawa datang;Bab17
+入ります;はいりますⅠ [おふろに〜];mandi, masuk [ofuro];Bab17
+２、３日;２、３にち;dua atau tiga hari;Bab17
+せきが 出ます;せきが でます;batuk;Bab17extra
+社長;しゃちょう＊;direktur utama;Bab18
+走る;はしる;berlari;Bab18extra
+持ち上げる;もちあげる;mengangkat;Bab18extra
+日;ひ;hari;Bab19
+空手;からて;Karate (Olahraga Bela Diri Jepang);Bab19extra
+本;ほん;Buku;Bab02
+新聞;しんぶん;Koran, Surat Kabar;Bab02
+車;くるま;Mobil;Bab02
+何;なん;Apa;Bab02
+動きます;うごきますⅠ;pindah, bergerak;Bab21
+[会社を〜];やめますⅡ [かいしゃを〜];berhenti [kerja];Bab21
+気を つけます;きを つけますⅡ;berwaspada, berhati-hati;Bab21
+天才;てんさい;genius;Bab21
+話;はなし;cerita (〜を します：bercerita, berbicara);Bab21
+月;つき;bulan;Bab21
+〜でも 飲みませんか。;〜でも のみませんか。;Bagaimana kalau kita minum 〜, atau apa saja?;Bab21
+もう 帰らないと……。;もう かえらないと……。;Saya harus pulang...;Bab21
+国;くに;negara;Bab21extra
+大学;だいがく;Universitas;Bab21extra
+学長;がくちょう;Rektor;Bab21extra
+中学校;ちゅうがっこう;SMP;Bab21extra
+校長;こうちょう;Kepala Sekolah;Bab21extra
+小学校;しょうがっこう;SD;Bab21extra
+会社;かいしゃ;Perusahaan;Bab21extra
+会長;かいちょう;Ketua;Bab21extra
+社長;しゃちょう;Direktur Utama;Bab21extra
+駅;えき;Stasiun;Bab21extra
+駅長;えきちょう;Kepala Stasiun;Bab21extra
+生まれます;うまれますⅡ;lahir;Bab22
+聞きます [先生に〜];ききますⅠ [せんせいに〜];bertanya [kepada guru];Bab23
+歩きます;あるきますⅠ;berjalan kaki;Bab23
+ー目;ーめ;yang ke ー (mengungkapkan urutan);Bab23
+本田駅;ほんだえき;stasiun fiksi;Bab23extra
+母の日;ははのひ;hari Ibu;Bab24
+足ります;たりますⅡ;cukup;Bab25
+赤ちゃん;あかちゃん;bayi (0歳);Bab25extra
+子ども;こども;anak-anak (6歳);Bab25extra
+青年;せいねん;remaja (18歳);Bab25extra
+中年;ちゅうねん;setengah baya (40歳);Bab25extra
+生まれます;うまれます;lahir;Bab25extra
+学校に 入ります;がっこうに はいります;masuk sekolah;Bab25extra
+小学校;しょうがっこう;SD (6 tahun);Bab25extra
+中学校;ちゅうがっこう;SMP (3);Bab25extra
+大学;だいがく;universitas (S1) (4);Bab25extra
+学校を 出ます;がっこうを でます;tamat sekolah;Bab25extra
+子どもが 生まれます;こどもが うまれます;melahirkan anak;Bab25extra
+気分がいい;きぶんがいい;Kondisi badan / perasaan baik;Bab26
+新聞社;しんぶんしゃ;Perusahaan surat kabar;Bab26
+何でも;なんでも;Apapun;Bab26
+出します;だします;Membuang (sampah);Bab26
+月。水。金;げつ。すい。きん;Senin.rabu.jumat;Bab26
+生ごみ;なまごみ;Sampah dapur;Bab26
+空きびん;あきびん;Botol bekas;Bab26
+古新聞;ふるしんぶん;Koran bekas;Bab26
+走ります;はしります （を）;Berlari;Bab27
+見えます;みえます （が）;Kelihatan;Bab27
+聞こえます;きこえます （が）;Kedengaran;Bab27
+開きます;ひらきます （を）;Membuka (kursus);Bab27
+花火;はなび;Kembang api;Bab27
+～教室;～きょうしつ;Kursus ~;Bab27
+～後;～ご;Sedudah, setelah;Bab27
+空;そら;Langit;Bab27
+会話;かいわ;Percakapan;Bab28
+日にち;ひにち;Tanggal;Bab28
+力;ちから;Kekuatan , tenaga;Bab28
+人気;にんき;Popularitas;Bab28
+開きます;あきます （が）;Terbuka;Bab29
+閉まります;しまります;Tertutup;Bab29
+外れます;はずれます （が）;Terbuka;Bab29
+お先にどうぞ;おさきにどうぞ;Silakan duluan;Bab29
+駅前;えきまえ;Depan stasiun;Bab29
+教室;きょうしつ;Ruang kelas;Bab03
+電話;でんわ;Telepon;Bab03
+お国;おくに;Negara;Bab03
+会社;かいしゃ;Perusahaan;Bab03
+～円;～えん;～yen;Bab03
+百;ひゃく;Seratus;Bab03
+千;せん;Seribu;Bab03
+万;まん;Puluh ribu;Bab03
+見せてください;みせてください;Tolong perlihatkan;Bab03
+お子さん;おこさん;Anak (orang lain);Bab30
+月;つき;Bulan;Bab30
+手前;てまえ;Bagian depan;Bab30
+２行目;２ぎょうめ;Baris ke 2 (buku);Bab30
+見つけます;みつけます;Menemukan;Bab31
+入学します;にゅうがくします （に）;Masuk (universitas);Bab31
+本社;ほんしゃ;Kantor pusat;Bab31
+教会;きょうかい;Gereja;Bab31
+月に;つきに;Sebulan;Bab31
+空;そら;Langit;Bab31
+閉じます;とじます;Menutup, memejamkan;Bab31
+天文学;てんもんがく;Astronomi;Bab31
+社会学;しゃかいがく;Sosiologi;Bab31
+文学;ぶんがく;Sastra;Bab31
+十分な;じゅうぶんな;Cukup;Bab32
+空;そら;Langit;Bab32
+月;つき;Bulan;Bab32
+お金持ち;おかねもち;Orang kaya;Bab32
+上げます;あげます;Menaikkan;Bab33
+下げます;さげます;Menurunkan;Bab33
+外します;はずします （せきを）;Tidak ada (ditempat);Bab33
+入口;いりぐち;Pintu masuk;Bab33
+出口;でぐち;Pintu keluar;Bab33
+～中;～ちゅう;Sedang～/dalam ～;Bab33
+人々;ひとびと;Orang-orang;Bab33
+気がつきます;きがつきます （に）;Menyadari;Bab34
+見つかります;みつかります （が）;Ketemu,ditemukan;Bab34
+黒;くろ;Hitam;Bab34
+白;しろ;Putih;Bab34
+赤;あか;Merah;Bab34
+青;あお;Biru;Bab34
+先に;さきに;Terlebih dahulu, duluan;Bab34
+～分;～ぶん;Bagian, jatah (untuk kwantitas);Bab34
+火;ひ;Api;Bab34
+出ます;でます （に）;Ikut (pertandingan);Bab36
+電子～;でんし～;- elektronik;Bab36
+毎月;まいつき;Setiap bulan;Bab36
+毎年;まいとし／まいねん;Setiap tahun;Bab36
+上手に;じょうずに;Dengan pandai;Bab36
+気持ち;きもち;Keinginan,perasaan;Bab36
+行います;おこないます;Mengadakan, melangsungkan;Bab37
+～中;～じゅう;Seluruh -;Bab37
+入れます;いれます （を）;Menghidupkan (aliran listrik);Bab38
+気持ちがいい;きもちがいい;Senang, merasa enak;Bab38
+大きな～;おおきな～;Besar;Bab38
+小さな～;ちいさな～;Kecil;Bab38
+赤ちゃん;あかちゃん;Bayi;Bab38
+小学校;しょうがっこう;SD;Bab38
+中学校;ちゅうがっこう;SMP;Bab38
+駅前;えきまえ;Depan stasiun;Bab38
+５年生;５ねんせい;Kelas 5;Bab38
+時間がたちます;じかんがたちます;Waktu berlalu;Bab38
+お月見;おつきみ;Memandang bulan;Bab38
+大みそか;おおみそか;Hari terakhir tahun;Bab38
+安心します;あんしんします;Bersenang hati, merasa lega;Bab39
+大人;おとな;Orang dewasa;Bab39
+気持ち;きもち;Perasaan;Bab39
+休みます;やすみます;Beristirahat , libur;Bab04
+～時;～じ;Jam , pukul;Bab04
+～分;～ふん／ぶん;Menit;Bab04
+半;はん;Setengah;Bab04
+何時;なんんじ;Jam berapa?;Bab04
+何分;なんぷん;Berapa menit ?;Bab04
+午前;ごぜん;AM (waktu sebelum jam 12 siang);Bab04
+午後;ごご;PM (waktu setelah jam 12 siang);Bab04
+休み;やすみ;Istirahat, cuti, libur;Bab04
+毎日;まいにち;Setiap hari;Bab04
+月曜日;げつようび;Hari senin;Bab04
+火曜日;かようび;Hari selasa;Bab04
+水曜日;すいようび;Hari rabo;Bab04
+木曜日;もくようび;Hari kamis;Bab04
+金曜日;きんようび;Hari jumat;Bab04
+土曜日;どようび;Hari sabtu;Bab04
+日曜日;にちようび;Hari minggu;Bab04
+何曜日;なんようび;Hari apa?;Bab04
+新年会;しんねんかい;Pesta tahun baru;Bab40
+大会;たいかい;Pertemuan berikutnya;Bab40
+長さ;ながさ;Panjangnya;Bab40
+高さ;たかさ;Tingginya;Bab40
+大きさ;おおきさ;Besarnya;Bab40
+～本;～ほん、ぼん、ぽん;Satuan barang panjang;Bab40
+動かします;うごかします;Menjalankan;Bab40
+手に入れます;てにいれます;Mendapat, memperoleh;Bab40
+先日;せんじつ;Beberapa hari yang lalu;Bab41
+社会;しゃかい;Masyarakat;Bab42
+石;いし;Batu;Bab42
+金づち;かなづち;Palu besi;Bab42
+上がります;あがります （が）;Naik;Bab43
+下がります;さがります （が）;Turun;Bab43
+火;ひ;Api;Bab43
+気が長い;きがながい;Penyabar;Bab43
+空気;くうき;Udara;Bab44
+半分;はんぶん;Setengah;Bab44
+帰って来ます;かえってきます;Kembali lagi;Bab46
+出ます;でます （が）;Berangkat (bis);Bab46
+手に入ります;てにはいります （が）;Mendapatkan (informasi);Bab46
+入力します;にゅうりょくします;Memasukkan;Bab46
+長生きします;ながいきします;Berumur panjang;Bab47
+人口;じんこう;Jumlah penduduk;Bab47
+文学;ぶんがく;Kesusastraan;Bab47
+見る;きょろきょろ（みる）;Menoleh kanan kiri;Bab47
+食べる;ぱくぱく（たべる）;Makan dengan lahap;Bab47
+読む;すらすら（よむ）;Membaca dengan lancar;Bab47
+下ろします;おろします;Menurunkan;Bab48
+～間;～かん;Selama---;Bab48
+心;こころ;Hati;Bab48
+休みます;やすみます;Beristirahat;Bab49
+帰りに;かえりに;Pada waktu pulang;Bab49
+出します;だします （を）;Demam;Bab49
+多くの～;おおくの～;Banyak---;Bab49
+長男;ちょうなん;Anak laki-laki tertua;Bab49
+お持ちです;おもちです もっています);Mempunyai (bentuk hormat;Bab49
+行きます;いきます;Pergi;Bab05
+来ます;きます;Datang;Bab05
+帰ります;かえります;Pulang;Bab05
+学校;がっこう;Sekolah;Bab05
+駅;えき;Stasiun;Bab05
+電車;でんしゃ;Kereta listrik;Bab05
+歩いて;あるいて;Dengan Berjalan kaki;Bab05
+人;ひと;Orang;Bab05
+一人で;ひとりで;Sendirian, Dengan Sendiri;Bab05
+先月;せんげつ;Bulan lalu;Bab05
+来月;らいげつ;Bulan depan;Bab05
+来年;らいねん;Tahun depan;Bab05
+～年;～ねん;Tahun~;Bab05
+何年;なんねん;Tahun berapa?;Bab05
+～月;～がつ;Bulan~;Bab05
+何月;なんがつ;Bulan apa?;Bab05
+一日;ついたち;Tanggal 1;Bab05
+二日;ふつか;Tanggal 2 , 2 hari;Bab05
+三日;みっか;Tanggal 3 , 3 hari;Bab05
+四日;よっか;Tanggal 4 , 4 hari;Bab05
+五日;いつか;Tanggal 5 , 5 hari;Bab05
+六日;むいか;Tanggal 6 , 6 hari;Bab05
+七日;なのか;Tanggal 7 , 7 hari;Bab05
+八日;ようか;Tanggal 8, 8 hari;Bab05
+九日;ここのか;Tanggal 9 , 9 hari;Bab05
+十日;とおか;Tanggal 10, 10 hari;Bab05
+十四日;じゅうよっか;Tanggal 14 , 14 hari;Bab05
+二十日;はつか;Tanggal 20 , 20 hari;Bab05
+二十四日;にじゅうよっか;Tanggal 24 , 24 hari;Bab05
+～日;～にち;Tanggal ~, hari~;Bab05
+何日;なんにち;Tanggal berapa, berapa hari;Bab05
+山の日;やまのひ;Hari gunung;Bab05extra
+お目にかかります;おめにかかります あいます);Bertemu (bentuk merendah;Bab50
+私;わたくし わたし);Saya (bentuk merendah;Bab50
+半年;はんとし;Setengah tahun;Bab50
+心から;こころから;Setulusnya;Bab50
+生かします;いかします;Memanfaatkan;Bab50
+食べます;たべます;Makan;Bab06
+飲みます;のみます;Minum;Bab06
+見ます;みます;Melihat / menonton;Bab06
+聞きます;ききます;Mendengar;Bab06
+読みます;よみます;Membaca;Bab06
+書きます;かきます;Menulis / menggambar;Bab06
+買います;かいます;Membeli;Bab06
+会います;あいます;Bertemu;Bab06
+水;みず;Air;Bab06
+花見;はなみ;Hanami (menikmati bunga sakura);Bab06
+何;なに;Apa;Bab06
+時々;ときどき;Kadang-kadang;Bab06
+分かりました;わかりました;Mengerti / baik;Bab06
+教えます;おしえます;Mengajar;Bab07
+手;て;Tangan;Bab07
+花;はな;Bunga;Bab07
+お金;おかね;Uang;Bab07
+父;ちち;Ayah;Bab07
+母;はは;Ibu;Bab07
+お父さん;おとうさん;Ayah orang lain;Bab07
+お母さん;おかあさん;Ibu orang lain;Bab07
+大きい;おおきい;Besar;Bab08
+小さい;ちいさい;Kecil;Bab08
+新しい;あたらしい;Baru;Bab08
+古い;ふるい;Lama / tua;Bab08
+高い;たかい;Mahal / tinggi;Bab08
+安い;やすい;Murah;Bab08
+白い;しろい;Putih;Bab08
+黒い;くろい;Hitam;Bab08
+赤い;あかい;Merah;Bab08
+青い;あおい;Biru;Bab08
+山;やま;Gunung;Bab08
+分かります;わかります;Mengerti;Bab09
+上手な;じょうず（な）;Pandai , pintar;Bab09
+下手な;へた（な）;Tidak pandai , tidak pintar , bodoh;Bab09
+字;じ;Huruf;Bab09
+時間;じかん;Waktu;Bab09
+少し;すこし;Sedikit;Bab09
+
+
+** Process exited - Return Code: 0 **

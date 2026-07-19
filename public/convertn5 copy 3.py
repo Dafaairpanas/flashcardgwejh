@@ -1,3 +1,5 @@
+
+data_3000_anda = """
 私;わたし;Saya;Bab01
 あなた;あなた;Anda;Bab01
 あの人;あのひと;Orang itu (biasa);Bab01
@@ -3066,3 +3068,71 @@ JR;ジェイアール;JR (nama perusahaan rel kereta listrik);Bab16
 柔道;じゅうどう;Judo;Bab09extra
 剣道;けんどう;Kendo;Bab09extra
 水泳;すいえい;Renang;Bab09extra
+
+"""
+# ---------------------------------------------------
+
+def filter_kanji_anda(data_mentah):
+    # Set Kanji N5 sampai N2 (Total ~1000 kanji)
+# --- PANGKALAN DATA KANJI (Data Terpadu 2026) ---
+
+# N5: Basis Fundamental
+# --- Pangkalan Data Kanji (Tersinkronisasi & Diperluas) ---
+
+# N5: Fondasi Dasar
+    n5 = set("一七万三上下中九二五人今休何先入八六円出前北十千午半南友右名四国土外大天女子子学小山川左年後日時書月木本来東校母毎気水火父生男白百聞行西見話語読車金長間雨電食高")
+
+    # N4: Akumulasi N5 + Tambahan N4 (Ditambah: 医, 院, 答, 送, 漢, 験, dsb)
+    n4 = n5.union(set("不世主事京仕代以会住体作使借元兄公写冬切別力勉動医去口古台同味品員問図地堂場売夏夕多夜妹姉始字安室家少屋工帰広店度建弟強待心思急悪意手持教文料新方旅族早明映春昼曜有服朝業楽歌止正歩死注洋海漢牛物特犬理用田町画界病発目真着知研社私秋究空立答紙終習考者肉自色花英茶親言計試買貸質赤走起足転近送通週運道重野銀開院集青音題風飯飲館駅験魚鳥黒"))
+
+    # N3: Akumulasi N4 + Tambahan N3 (Ditambah: Kanji abstraksi dan istilah teknis sedang)
+    n3 = n4.union(set("与両乗予争互亡交他付件任伝似位余例供便係信倒候値偉側偶備働優光全共具内冷処列初判利到制刻割加助努労務勝勤化単危原参反収取受号合向君否吸吹告呼命和商喜回因困園在報増声変夢太夫失好妻娘婚婦存宅守完官定実客害容宿寄富寒寝察対局居差市師席常平幸幾座庭式引当形役彼徒得御必忘忙念怒怖性恐恥息悲情想感慣成戦戻所才打払投折抜抱押招指捕掛探支政敗散数断易昔昨晩景晴暗暮曲更最望期未末束杯果格構様権横機欠欲歯歳残段殺民求決治法泳洗活流浮消深済渡港満演点然煙熱犯状猫王現球産由申留番疑疲痛登皆盗直相眠石破確示礼祖神福科程種積突窓笑等箱米精約組経給絵絶続緒罪置美老耳職育背能腹舞船良若苦草落葉薬術表要規覚観解記訪許認誤説調談論識警議負財貧責費資賛越路辞込迎返迷追退逃途速連進遅遊過達違遠適選部都配酒閉関降限除険陽際雑難雪静非面靴頂頭頼顔願類飛首馬髪鳴響憲庁録演編版証例歴査評示術態型給預財収債績換貿拠範設揮導律責管顧監監愛放次"))
+
+    # N2: Akumulasi N3 + Tambahan N2 (Diperluas secara masif untuk mencakup 2.136 Joyo Kanji)
+    # Penambahan difokuskan pada: Istilah bisnis, medis, media massa, dan kata kerja/sifat level tinggi.
+    n2 = n3.union(set("並丸久乱乳乾了介仏令仲伸伺低依個倍停傾像億兆児党兵冊再凍刊刷券刺則副劇効勇募勢包匹区卒協占印卵厚双叫召史各含周咲喫営団囲固圧坂均型埋城域塔塗塩境央奥姓委季孫宇宝寺封専将尊導届層岩岸島州巨巻布希帯帽幅干幼庁床底府庫延弱律復快恋患悩憎戸承技担拝拾挟捜捨掃掘採接換損改敬旧昇星普暴曇替札机材村板林枚枝枯柔柱査栄根械棒森植極橋欧武歴殿毒比毛氷永汗汚池沈河沸油況泉泊波泥浅浴涙液涼混清減温測湖湯湾湿準溶滴漁濃濯灯灰炭焼照燃燥爆片版玉珍瓶甘畜略畳療皮皿省県短砂硬磨祈祝祭禁秒移税章童競竹符筆筒算管築簡籍粉粒糸紅純細紹絡綿総緑線編練績缶署群羽翌耕肌肩肯胃胸脂脳腕腰膚臓臣舟航般芸荒荷菓菜著蒸蔵薄虫血衣袋被装裏補複角触訓設詞詰誌課諸講谷豊象貝貨販貯貿賞賢贈超跡踊軍軒軟軽輪輸辛農辺述逆造郊郵量針鈍鉄鉱銅鋭録門防陸隅階隻雇雲零震革順預領額香駐骨麦黄鼻齢縮潔犠謙轄謹兼謹甚遡遡擁擁瞭礎窮甚遡矯綻懲遡擁瞭礎"))
+
+    # Urutan level dari yang paling dasar ke paling sulit.
+    # Level sebuah kata = level PERTAMA (paling dasar) yang sudah mencakup semua kanjinya.
+    levels_urut = [
+        ("n5", n5),
+        ("n4", n4),
+        ("n3", n3),
+        ("n2", n2),
+    ]
+
+    def tentukan_level(kata):
+        """
+        Cari level minimum yang mencakup semua kanji di kata.
+        Kalau tidak ada satupun level (n5-n2) yang cukup -> return "-" (di luar database).
+        """
+        for nama_level, set_level in levels_urut:
+            if all((not ('\u4e00' <= char <= '\u9faf')) or (char in set_level) for char in kata):
+                return nama_level
+        return "-"
+
+    hasil = []
+
+    for baris in data_mentah.strip().split('\n'):
+        if not baris.strip():
+            continue
+        bagian = baris.split(';')
+        kata_target = bagian[0]
+
+        # Kata tanpa kanji sama sekali (hiragana/katakana murni) -> level "-"
+        ada_kanji = any('\u4e00' <= char <= '\u9faf' for char in kata_target)
+        if not ada_kanji:
+            hasil.append(f"{baris};-")
+            continue
+
+        level = tentukan_level(kata_target)
+        hasil.append(f"{baris};{level}")
+
+    return hasil
+
+
+# Eksekusi
+hasil = filter_kanji_anda(data_3000_anda)
+
+for item in hasil:
+    print(item)

@@ -1,0 +1,3071 @@
+私;わたし;Saya;Bab01;n4
+あなた;あなた;Anda;Bab01;-
+あの人;あのひと;Orang itu (biasa);Bab01;n5
+あの方;あのかた;Orang itu / Beliau (sopan);Bab01;n4
+～さん;～さん;Saudara……. (Sopan ke lebih tua);Bab01;-
+～ちゃん;～ちゃん;Panggilan untuk anak laki/perempuan;Bab01;-
+～人;～じん;Orang……. ( Orang dari negara....);Bab01;n5
+先生;せんせい;Guru,dosen ( Tidak untuk menyebut pekerjaan sendiri );Bab01;n5
+教師;きょうし;Guru,dosen (dipakai untuk kalangan sendiri);Bab01;n3
+学生;がくせい;Siswa,murid;Bab01;n5
+会社員;かいしゃいん;Pegawai / Karyawan perusahaan;Bab01;n4
+社員;しゃいん;Pegawai / Karyawan perusahaan ( A の しゃいん);Bab01;n4
+銀行員;ぎんこういん;Pegawai bank;Bab01;n4
+医者;いしゃ;Dokter;Bab01;n4
+研究者;けんきゅうしゃ;Peneliti;Bab01;n4
+大学;だいがく;Universitas;Bab01;n5
+病院;びょういん;Rumah sakit;Bab01;n4
+だれ;だれ;Siapa (biasa);Bab01;-
+どなた;どなた;Siapa (sopan);Bab01;-
+～歳;～さい;Tahun….. ( Umur );Bab01;n3
+何歳;なんさい;Umur berapa?(biasa);Bab01;n3
+おいくつ;おいくつ;Umur berapa?(sopan);Bab01;-
+はい;はい;Iya;Bab01;-
+いいえ;いいえ;Tidak;Bab01;-
+はじめまして;はじめまして;Perkenalkan;Bab01;-
+～から来ました;～からきました;Datang dari…..;Bab01;n5
+どうぞよろしくお願します;どうぞよろしくおねがいします;Salam Kenal ( Terimalah perkenalan saya );Bab01;n3
+失礼ですが;しつれいですが;Permisi;Bab01;n3
+お名前は;おなまえは;Nama anda siapa?;Bab01;n5
+アメリカ;アメリカ;Amerika Serikat;Bab01;-
+イギリス;イギリス;Inggris;Bab01;-
+イタリア;イタリア;Italia;Bab01;-
+イラン;イラン;Iran;Bab01extra;-
+ペルシア;ペルシア;Persia;Bab01extra;-
+インド;インド;India;Bab01extra;-
+インドネシア;インドネシア;Indonesia;Bab01extra;-
+エジプト;エジプト;Mesir;Bab01extra;-
+オーストラリア;オーストラリア;Australia;Bab01extra;-
+カナダ;カナダ;Kanada;Bab01extra;-
+韓国;かんこく;Korea Selatan;Bab01extra;-
+サウジアラビア;サウジアラビア;Arab Saudi;Bab01extra;-
+シンガポール;シンガポール;Singapura;Bab01extra;-
+スペイン;スペイン;Spanyol;Bab01extra;-
+タイ;タイ;Thailand;Bab01extra;-
+中国;ちゅうごく;Cina;Bab01extra;n5
+ドイツ;ドイツ;Jerman;Bab01extra;-
+日本;にほん;Jepang;Bab01extra;n5
+フランス;フランス;Perancis;Bab01extra;-
+フィリピン;フィリピン;Filipina;Bab01extra;-
+ブラジル;ブラジル;Brazil;Bab01extra;-
+ベトナム;ベトナム;Vietnam;Bab01extra;-
+マレーシア;マレーシア;Malaysia;Bab01extra;-
+メキシコ;メキシコ;Meksiko;Bab01extra;-
+ロシア;ロシア;Rusia;Bab01extra;-
+あります;あります;Ada (benda mati);Bab10;-
+います;います;Ada (benda hidup);Bab10;-
+いろいろ（な）;いろいろ（な）;Berbagai / macam-macam;Bab10;-
+男の人;おとこのひと;Orang laki-laki;Bab10;n5
+女の人;おんなのひと;Orang perempuan;Bab10;n5
+男の子;おとこのこ;Anak laki-laki;Bab10;n5
+女の子;おんなのこ;Anak perempuan;Bab10;n5
+犬;いぬ;Anjing;Bab10;n4
+猫;ねこ;Kucing;Bab10;n3
+パンダ;パンダ;Panda;Bab10;-
+像;ぞう;Gajah;Bab10;n2
+木;き;Pohon;Bab10;n5
+物;もの;Barang;Bab10;n4
+電池;でんち;Baterai;Bab10;n2
+箱;はこ;Kotak;Bab10;n3
+スイッチ;スイッチ;Saklar, Tombol;Bab10;-
+冷蔵庫;れいぞうこ;Kulkas, Lemari Es;Bab10;n2
+テーブル;テーブル;Meja makan;Bab10;-
+ベッド;ベッド;Tempat tidur;Bab10;-
+棚;たな;Lemari;Bab10;-
+ドア;ドア;Pintu;Bab10;-
+窓;まど;Jendela;Bab10;n3
+ポスト;ポスト;Kotak surat;Bab10;-
+ビル;ビル;Gedung;Bab10;-
+ＡＴＭ;ＡＴＭ;ＡＴＭ / Anjungan Tunai Mandiri;Bab10;-
+コンビニ;コンビニ;Toko 24 jam;Bab10;-
+公園;こうえん;Taman;Bab10;n3
+喫茶店;きっさてん;Coffe shop / cafe;Bab10;n2
+～屋;～や;Toko ~;Bab10;n4
+乗り場;のりば;Tempat naik;Bab10;n3
+県;けん;Prefektur;Bab10;n2
+上;うえ;Atas;Bab10;n5
+下;した;Bawah;Bab10;n5
+前;まえ;Depan, Muka;Bab10;n5
+後ろ;うしろ;Belakang;Bab10;n5
+右;みぎ;Kanan;Bab10;n5
+左;ひだり;Kiri;Bab10;n5
+中;なか;Dalam;Bab10;n5
+外;そと;Luar;Bab10;n5
+隣;となり;Samping / sebelah;Bab10;-
+近く;ちかく;Dekat;Bab10;n4
+間;あいだ;Antara;Bab10;n5
+どうもすみません;どうもすみません;Maaf / terima kasih banyak;Bab10;-
+ナンプラー;ナンプラー;Kecap ikan;Bab10;-
+コーナー;コーナー;Tempat / bagian penjualan;Bab10;-
+一番下;いちばんした;Paling bawah;Bab10;n3
+東京ディズニーランド;とうきょうディズニーランド;Tokyo Disneyland;Bab10;n4
+玄関;げんかん;Pintu masuk;Bab10extra;-
+風呂場;ふろば;Kamar mandi;Bab10extra;-
+洗面所;せんめんじょ;Tempat cuci tangan;Bab10extra;n3
+台所;だいどころ;Dapur;Bab10extra;n3
+食堂;しょくどう;Kantin / ruang makan;Bab10extra;n4
+居間;いま;Ruang tamu;Bab10extra;n3
+寝室;しんしつ;Kamar tidur;Bab10extra;n3
+廊下;ろうか;Koridor;Bab10extra;-
+ベランダ;ベランダ;teras;Bab10extra;-
+います;います;Ada / mempunyai;Bab11;-
+かかります;かかります;Memerlukan ( Waktu, Uang );Bab11;-
+休みます;やすみます （を）;Tidak masuk kerja / libur;Bab11;n5
+ひとつ;ひとつ;1 buah;Bab11;-
+ふたつ;ふたつ;2 buah;Bab11;-
+みっつ;みっつ;3 buah;Bab11;-
+よっつ;よっつ;4 buah;Bab11;-
+いつつ;いつつ;5 buah;Bab11;-
+むっつ;むっつ;6 buah;Bab11;-
+ななつ;ななつ;7 buah;Bab11;-
+やっつ;やっつ;8 buah;Bab11;-
+ここのつ;ここのつ;9 buah;Bab11;-
+とお;とお;10 buah;Bab11;-
+いくつ;いくつ;Berapa buah ?;Bab11;-
+ひとり;ひとり;1 orang;Bab11;-
+ふたり;ふたり;2 orang;Bab11;-
+～人;～にん;~ orang;Bab11;n5
+～台;～だい;~ unit ( Mesin );Bab11;n4
+～枚;～まい;~ lembar ( Benda Tipis );Bab11;n2
+～回;～かい;~ kali ( Frekuensi );Bab11;n3
+りんご;りんご;Apel;Bab11;-
+みかん;みかん;Jeruk;Bab11;-
+サンドイッチ;サンドイッチ;Sandwich;Bab11;-
+カレー[ライス];カレー[ライス];[nasi dan] kare;Bab11;-
+アイスクリーム;アイスクリーム;Es krim;Bab11;-
+切手;きって;Perangko;Bab11;n4
+はがき;はがき;Kartu pos;Bab11;-
+封筒;ふうとう;Amplop;Bab11;n2
+外国;がいこく;Luar negeri;Bab11;n5
+留学生;りゅうがくせい;Pelajar asing;Bab11;n3
+クラス;クラス;Kelas;Bab11;-
+～時間;～じかん;~ jam;Bab11;n5
+～週間;～しゅうかん;~ minggu;Bab11;n4
+～か月;～かげつ;~ bulan;Bab11;n5
+～年;～ねん;~ tahun;Bab11;n5
+～ぐらい;～ぐらい;Kira-kira ~;Bab11;-
+どのくらい;どのくらい;Berapa lama ?;Bab11;-
+全部で;ぜんぶで;Semuanya;Bab11;n3
+みんな;みんな;Semua;Bab11;-
+～だけ;～だけ;Hanya ~;Bab11;-
+かしこまりました;かしこまりました;Baik / mengerti;Bab11;-
+いい天気ですね;いいてんきですね;Cuacanya bagus ya...;Bab11;n5
+お出かけですか;おでかけですか;Mau keluar ?;Bab11;n5
+行ってらっしゃい;いってらっしゃい;Hati-hati (berangkatnya);Bab11;n5
+行ってきます;いってきます;Saya berangkat;Bab11;n5
+船便;ふなびん;Pos laut;Bab11;n3
+航空便;こうくうびん;Pos udara;Bab11;n2
+エアメール;エアメール;Pos udara;Bab11;-
+オーストラリア;オーストラリア;Australia;Bab11;-
+定食;ていしょく;Makanan paket;Bab11extra;n3
+ランチ;ランチ;Makan siang;Bab11extra;-
+天どん;てんどん;Semangkuk Nasi dan tempura;Bab11extra;n5
+おやこどん;おやこどん;Semangkuk Nasi, daging ayam dan telur;Bab11extra;-
+牛どん;ぎゅうどん;Semangkuk nasi dan daging sapi;Bab11extra;n4
+焼肉;やきにく;Daging panggang;Bab11extra;n2
+野菜ため;やさいため;Sayur goreng;Bab11extra;n2
+漬物;つけもの;Asinan;Bab11extra;-
+みそ汁;みそしる;Sup miso;Bab11extra;-
+おにぎり;おにぎり;Nasi kepal;Bab11extra;-
+てんぷら;てんぷら;Tempura;Bab11extra;-
+すし;すし;Nasi dicampur cuka dan diberi ikan mentah;Bab11extra;-
+うどん;うどん;Mie jepang ukuran besar;Bab11extra;-
+そば;そば;Mie jepang warna abu-abu;Bab11extra;-
+ラーメン;ラーメン;Mie jepang ukuran biasa;Bab11extra;-
+焼きそば;やきそば;Mie goreng jepang;Bab11extra;n2
+お好み焼き;おこのみやき;Gorengan dicampur daging di loyang;Bab11extra;n2
+カレーライス;カレーライス;Nasi kare;Bab11extra;-
+ハンバーグ;ハンバーグ;hamburger;Bab11extra;-
+コロッケ;コロッケ;Kroket;Bab11extra;-
+えびフライ;えびフライ;Udang goreng tepung;Bab11extra;-
+フライドチキン;フライドチキン;Ayam goreng;Bab11extra;-
+サラダ;サラダ;Salad;Bab11extra;-
+スープ;スープ;Sup;Bab11extra;-
+スパゲッティ;スパゲッティ;Spageti;Bab11extra;-
+ピザ;ピザ;Pizza;Bab11extra;-
+トースト;トースト;Roti panggang;Bab11extra;-
+コーヒー;コーヒー;Kopi;Bab11extra;-
+紅茶;こうちゃ;Teh;Bab11extra;n2
+ココア;ココア;Minuman coklat;Bab11extra;-
+ジュース;ジュース;Jus;Bab11extra;-
+コーラ;コーラ;Coca cola;Bab11extra;-
+ハンバーガー;ハンバーガー;burger;Bab11extra;-
+サンドイッチ;サンドイッチ;sandwich;Bab11extra;-
+簡単[な];かんたん[な];mudah, gampang;Bab12;n2
+近い;ちかい;dekat;Bab12;n4
+遠い;とおい＊;jauh;Bab12;n3
+速い、早い;はやい;cepat;Bab12;n3
+遅い;おそい＊;lambat;Bab12;n3
+多い [人が〜];おおい [ひとが〜];banyak [orang];Bab12;n4
+少ない [人が〜];すくない＊ [ひとが〜];sedikit [orang];Bab12;n4
+暖かい、温かい;あたたかい;hangat;Bab12;-
+涼しい;すずしい;sejuk;Bab12;n2
+甘い;あまい;manis;Bab12;n2
+辛い;からい;pedas;Bab12;n2
+重い;おもい;berat;Bab12;n4
+軽い;かるい＊;ringan;Bab12;n2
+いい [コーヒーが〜];いい [コーヒーが〜];lebih baik [kopi];Bab12;-
+季節;きせつ;musim;Bab12;-
+春;はる;musim semi;Bab12;n4
+夏;なつ;musim panas;Bab12;n4
+秋;あき;musim gugur;Bab12;n4
+冬;ふゆ;musim dingin;Bab12;n4
+天気;てんき;cuaca;Bab12;n5
+雨;あめ;hujan;Bab12;n5
+雪;ゆき;salju;Bab12;n3
+曇り;くもり;mendung;Bab12;n2
+ホテル;ホテル;hotel;Bab12;-
+空港;くうこう;bandara;Bab12;n3
+海;うみ;laut;Bab12;n4
+世界;せかい;dunia;Bab12;n4
+パーティー;パーティー;pesta (〜を します：berpesta);Bab12;-
+[お]祭り;[お]まつり;perayaan;Bab12;n2
+すき焼き;すきやき＊;Sukiyaki (masakan yang dimasak daging sapi dan sayur dalam panci);Bab12;n2
+刺身;さしみ＊;Sashimi (ikan mentah yang dipotong tipis);Bab12;-
+[お]すし;[お]すし;Sushi (nasi dicampur cuka yang di atasnya diberi ikan mentah);Bab12;-
+てんぷら;てんぷら;Tempura (gorengan sari laut dan sayur yang dipakai tepung terigu);Bab12;-
+豚肉;ぶたにく＊;daging babi;Bab12;-
+とり肉;とりにく;daging ayam;Bab12;n4
+牛肉;ぎゅうにく;daging sapi;Bab12;n4
+レモン;レモン;lemon;Bab12;-
+生け花;いけばな;seni merangkai bunga (〜を します：merangkai bunga);Bab12;n4
+紅葉;もみじ;maple, daun yang berubah warna menjadi merah;Bab12;n2
+どちら;どちら;yang mana;Bab12;-
+どちらも;どちらも;dua-duanya, yang mana juga;Bab12;-
+いちばん;いちばん;paling;Bab12;-
+ずっと;ずっと;jauh lebih;Bab12;-
+初めて;はじめて;untuk pertama kali;Bab12;n3
+ただいま。;ただいま。;Saya kembali./Saya pulang.;Bab12;-
+お帰りなさい。;おかえりなさい。;Sudah pulang ya.;Bab12;n4
+わあ、すごい 人ですね。;わあ、すごい ひとですね。;Wah, banyak orang.;Bab12;n5
+疲れました。;つかれました。;Lelah.;Bab12;n3
+祇園祭;ぎおんまつり;Perayaan Gion (perayaan yang paling terkenal di Kyoto);Bab12;-
+ホンコン;ホンコン;Hong Kong (香港);Bab12;-
+シンガポール;シンガポール;Singapura;Bab12;-
+遊びます;あそびます;bermain;Bab13;n3
+泳ぎます;およぎます;berenang;Bab13;n3
+迎えます;むかえます;menjemput;Bab13;n3
+疲れます;つかれます;lelah (jika menyatakan keadaan lelah, digunakan bentuk た seperti つかれました);Bab13;n3
+結婚します;けっこんします;menikah;Bab13;-
+買い物します;かいものします;berbelanja;Bab13;n4
+食事します;しょくじします;makan;Bab13;n4
+散歩します [公園を〜];さんぽします [こうえんを〜];berjalan-jalan [di taman];Bab13;n3
+大変[な];たいへん[な];berat, susah;Bab13;n3
+欲しい;ほしい;ingin, mau;Bab13;n3
+広い;ひろい;luas;Bab13;n4
+狭い;せまい;sempit;Bab13;-
+プール;プール;kolam renang;Bab13;-
+川;かわ;sungai;Bab13;n5
+美術;びじゅつ;seni;Bab13;n3
+釣り;つり;pancing (〜を します：memancing);Bab13;-
+スキー;スキー;ski (〜を します：bermain ski);Bab13;-
+週末;しゅうまつ;akhir pekan;Bab13;n3
+[お]正月;[お]しょうがつ;tahun baru;Bab13;n4
+〜ごろ;〜ごろ;sekitar 〜, kira-kira;Bab13;-
+何か;なに か;sesuatu;Bab13;n5
+どこか;どこか;suatu tempat;Bab13;-
+のどが かわきます;のどが かわきます;haus (jika menyatakan keadaan haus, digunakan bentuk た seperti のどが かわきました);Bab13;-
+おなかが すきます;おなかが すきます;lapar (jika menyatakan keadaan lapar, digunakan bentuk た seperti おなかが すきました);Bab13;-
+そう しましょう。;そう しましょう。;Ya, mari. (digunakan ketika menyetujui aksi yang disarankan oleh lawan bicara);Bab13;-
+ご注文は？;ごちゅうもんは？;Mau pesan apa?;Bab13;n4
+定食;ていしょく;menu paket;Bab13;n3
+牛どん;ぎゅうどん;Gyudon;Bab13;n4
+[少々] お待ち ください。;[しょうしょう] おまちください。;Tunggu [sebentar].;Bab13;n4
+〜で ございます。;〜で ございます。;(bentuk halus dari です);Bab13;-
+別々に;べつべつに;sendiri-sendiri, masing-masing;Bab13;n4
+博物館;はくぶつかん;museum;Bab13extra;-
+美術館;びじゅつかん;gedung kesenian;Bab13extra;n3
+図書館;としょかん;perpustakaan;Bab13extra;n4
+映画館;えいがかん;gedung bioskop;Bab13extra;n4
+動物園;どうぶつえん;kebun binatang;Bab13extra;n3
+植物園;しょくぶつえん;kebun raya;Bab13extra;n2
+遊園地;ゆうえんち;taman bermain;Bab13extra;n3
+お寺;おてら;Kuil, Wihara (Budha);Bab13extra;n2
+神社;じんじゃ;Kuil (Shinto);Bab13extra;n3
+教会;きょうかい;Gereja;Bab13extra;n4
+モスク;モスク;Masjid;Bab13extra;-
+体育館;たいいくかん;gedung olahraga;Bab13extra;n3
+公園;こうえん;taman;Bab13extra;n3
+大使館;たいしかん;Kedutaan Besar;Bab13extra;n4
+入国管理局;にゅうこくかんりきょく;Kantor Imigrasi;Bab13extra;n3
+市役所;しやくしょ;kantor balai kota;Bab13extra;n3
+警察署;けいさつしょ;kantor polisi;Bab13extra;n2
+交番;こうばん;pos polisi;Bab13extra;n3
+消防署;しょうぼうしょ;kantor pemadam kebakaran;Bab13extra;n2
+駐車場;ちゅうしゃじょう;tempat parkir;Bab13extra;n2
+大学;だいがく;universitas;Bab13extra;n5
+高校;こうこう;SMA;Bab13extra;n5
+中学校;ちゅうがっこう;SMP;Bab13extra;n5
+小学校;しょうがっこう;SD;Bab13extra;n5
+幼稚園;ようちえん;TK;Bab13extra;-
+肉屋;にくや;toko daging;Bab13extra;n4
+パン屋;パンや;toko roti;Bab13extra;n4
+魚屋;さかなや;toko ikan;Bab13extra;n4
+酒屋;さかや;toko minuman keras;Bab13extra;n3
+八百屋;やおや;toko sayur;Bab13extra;n4
+喫茶店;きっさてん;coffee shop;Bab13extra;n2
+コンビニ;コンビニ;toko 24 jam;Bab13extra;-
+スーパー;スーパー;supermarket, pasar swalayan;Bab13extra;-
+デパート;デパート;toko serba ada;Bab13extra;-
+つけますⅡ;つけますⅡ;menyalakan, memasang, menghidupkan;Bab14;-
+消します;けしますⅠ;mematikan, memadamkan;Bab14;n3
+開けます;あけますⅡ;membuka;Bab14;n4
+閉めます;しめますⅡ;menutup;Bab14;n3
+急ぎます;いそぎますⅠ;buru-buru;Bab14;n4
+待ちます;まちますⅠ;menunggu;Bab14;n4
+持ちます;もちますⅠ;membawa;Bab14;n4
+取ります;とりますⅠ;mengambil;Bab14;n3
+手伝います;てつだいますⅠ;membantu;Bab14;n3
+呼びます;よびますⅠ;memanggil;Bab14;n3
+話します;はなしますⅠ;berbicara;Bab14;n5
+使います;つかいますⅠ;memakai;Bab14;n4
+止めます;とめますⅡ;menghentikan, memarkir;Bab14;n4
+見せます;みせますⅡ;memperlihatkan;Bab14;n5
+教えます [住所を〜];おしえますⅡ [じゅうしょを〜];memberitahukan [alamat];Bab14;n3
+座ります;すわりますⅠ;duduk;Bab14;n3
+立ちます;たちますⅠ＊;berdiri;Bab14;n4
+入ります [喫茶店に〜];はいりますⅠ [きっさてんに〜];masuk [ke coffee shop];Bab14;n2
+出ます [喫茶店を〜];でますⅡ＊ [きっさてんを〜];keluar [dari coffee shop];Bab14;n2
+降ります [雨が〜];ふりますⅠ [あめが〜];turun [hujan];Bab14;n3
+コピーしますⅢ;コピーしますⅢ;memfotokopi;Bab14;-
+電気;でんき;listrik, lampu;Bab14;n5
+エアコン;エアコン;AC;Bab14;-
+パスポート;パスポート;paspor;Bab14;-
+名前;なまえ;nama;Bab14;n5
+住所;じゅうしょ;alamat;Bab14;n3
+地図;ちず;peta;Bab14;n4
+塩;しお;garam;Bab14;n2
+砂糖;さとう;gula;Bab14;-
+問題;もんだい;masalah, soal;Bab14;n4
+答え;こたえ;jawaban;Bab14;n4
+読み方;よみかた;cara membaca;Bab14;n4
+〜方;〜かた;cara 〜;Bab14;n4
+まっすぐ;まっすぐ;lurus;Bab14;-
+ゆっくり;ゆっくり;pelan-pelan, istirahat dengan baik;Bab14;-
+すぐ;すぐ;segera, langsung;Bab14;-
+また;また;lagi;Bab14;-
+あとで;あとで;nanti;Bab14;-
+もう 少し;もう すこし;sedikit lagi;Bab14;n4
+もう 〜;もう 〜;〜 lagi;Bab14;-
+さあ;さあ;mari (digunakan ketika mengajak atau menyuruh sesuatu kepada lawan bicara);Bab14;-
+あれ？;あれ？;Ah? (digunakan ketika heran atau merasa aneh);Bab14;-
+信号を 右へ 曲がって ください。;しんごうを みぎへ まがって ください。;Tolong belok ke kanan di lampu lalu lintas.;Bab14;n3
+これで お願いします。;これで おねがいします。;Minta dengan ini.;Bab14;n3
+お釣り;おつり;uang kembalian;Bab14;-
+駅;えき;Stasiun;Bab14extra;n4
+切符売り場;きっぷうりば;loket penjualan karcis;Bab14extra;n2
+自動券売機;じどうけんばいき;mesin karcis otomatis;Bab14extra;n2
+精算機;せいさんき;alat penghitung otomatis;Bab14extra;n2
+改札口;かいさつぐち;pintu pemeriksaan karcis;Bab14extra;n2
+出口;でぐち;pintu keluar;Bab14extra;n4
+入口;いりぐち;pintu masuk;Bab14extra;n4
+東口;ひがしぐち;pintu Timur;Bab14extra;n4
+西口;にしぐち;pintu Barat;Bab14extra;n4
+南口;みなみぐち;pintu Selatan;Bab14extra;n4
+北口;きたぐち;pintu Utara;Bab14extra;n4
+中央口;ちゅうおうぐち;pintu Tengah;Bab14extra;n2
+[プラット]ホーム;[プラット]ホーム;peron;Bab14extra;-
+売店;ばいてん;kios, kedai;Bab14extra;n4
+コインロッカー;コインロッカー;loker;Bab14extra;-
+タクシー乗り場;タクシーのりば;tempat naik taksi;Bab14extra;n3
+バスターミナル;バスターミナル;terminal bis;Bab14extra;-
+バス停;バスてい;halte bis;Bab14extra;n2
+特急;とっきゅう;kereta api super cepat;Bab14extra;n4
+急行;きゅうこう;kereta api cepat;Bab14extra;n4
+快速;かいそく;kereta api cepat yang melewati pinggiran kota;Bab14extra;n2
+準急;じゅんきゅう;kereta semi cepat;Bab14extra;n2
+普通;ふつう;kereta api biasa;Bab14extra;n2
+時刻表;じこくひょう;jadwal keberangkatan kereta api, bis, dll;Bab14extra;n3
+〜発;〜はつ;berangkat dari 〜, berangkat pukul 〜;Bab14extra;n4
+〜着;〜ちゃく;berangkat ke 〜, tiba pukul 〜;Bab14extra;n4
+[東京]行き;とうきょういき;berangkat ke, tujuan [Tokyo];Bab14extra;n4
+定期券;ていきけん;kartu langganan berjangka;Bab14extra;n2
+回数券;かいすうけん;karcis kupon;Bab14extra;n2
+片道;かたみち;sekali jalan;Bab14extra;n2
+往復;おうふく;pulang pergi;Bab14extra;-
+置きます;おきますⅠ;meletakkan, menaruh;Bab15;n3
+作ります、造ります;つくりますⅠ;membuat, membangun, memproduksi;Bab15;n2
+売ります;うりますⅠ;menjual;Bab15;n4
+知ります;しりますⅠ;mengetahui, mengenal;Bab15;n4
+住みます;すみますⅠ;tinggal;Bab15;n4
+研究します;けんきゅうしますⅢ;meneliti;Bab15;n4
+資料;しりょう;data, bahan;Bab15;n3
+カタログ;カタログ;katalog;Bab15;-
+時刻表;じこくひょう;jadwal;Bab15;n3
+服;ふく;baju;Bab15;n4
+製品;せいひん;produk;Bab15;-
+ソフト;ソフト;perangkat lunak;Bab15;-
+電子辞書;でんしじしょ;kamus elektronik;Bab15;n3
+経済;けいざい;ekonomi;Bab15;n3
+市役所;しやくしょ;kantor wali kota;Bab15;n3
+高校;こうこう;SMA;Bab15;n5
+歯医者;はいしゃ;dokter gigi;Bab15;n3
+独身;どくしん;bujangan, belum berkeluarga;Bab15;-
+すみません;すみません;Maaf.;Bab15;-
+皆さん;みなさん;semuanya, bapak-bapak dan ibu-ibu sekalian;Bab15;n3
+思い出します;おもいだしますⅠ;teringat;Bab15;n4
+いらっしゃいますⅠ;いらっしゃいますⅠ;bentuk hormat dari います;Bab15;-
+日本橋;にっぽんばし;nama daerah perbelanjaan di Osaka;Bab15extra;n2
+みんなの インタビュー;みんなの インタビュー;acara televisi fiksi;Bab15extra;-
+職業;しょくぎょう;Pekerjaan;Bab15extra;n3
+会社員;かいしゃいん;pegawai perusahaan;Bab15extra;n4
+公務員;こうむいん;pegawai negeri;Bab15extra;n3
+駅員;えきいん;pegawai stasiun;Bab15extra;n4
+銀行員;ぎんこういん;pegawai bank;Bab15extra;n4
+郵便局員;ゆうびんきょくいん;pegawai kantor pos;Bab15extra;n2
+店員;てんいん;pegawai toko;Bab15extra;n4
+調理師;ちょうりし;tukang masak;Bab15extra;n3
+理容師;りようし;tukang potong rambut;Bab15extra;n3
+美容師;びようし;ahli kecantikan;Bab15extra;n3
+教師;きょうし;guru;Bab15extra;n3
+弁護士;べんごし;pengacara;Bab15extra;-
+研究者;けんきゅうしゃ;peneliti;Bab15extra;n4
+医者;いしゃ;dokter;Bab15extra;n4
+看護師;かんごし;perawat;Bab15extra;-
+運転手;うんてんしゅ;sopir;Bab15extra;n4
+警察官;けいさつかん;polisi;Bab15extra;n3
+外交官;がいこうかん;diplomat;Bab15extra;n3
+政治家;せいじか;politikus;Bab15extra;n3
+画家;がか;pelukis;Bab15extra;n4
+作家;さっか;pengarang;Bab15extra;n4
+音楽家;おんがくか;musisi;Bab15extra;n4
+建築家;けんちくか;arsitek;Bab15extra;n2
+エンジニア;エンジニア;insinyur;Bab15extra;-
+デザイナー;デザイナー;perancang busana;Bab15extra;-
+ジャーナリスト;ジャーナリスト;wartawan;Bab15extra;-
+歌手;かしゅ;penyanyi;Bab15extra;n4
+俳優;はいゆう;aktor aktris;Bab15extra;-
+スポーツ選手;スポーツせんしゅ;olahragawan;Bab15extra;n3
+乗ります [電車に〜];のりますⅠ [でんしゃに〜];naik [kereta rel listrik];Bab16;n3
+降ります [電車を〜];おりますⅡ [でんしゃを〜];turun [kereta rel listrik];Bab16;n3
+乗り換えます;のりかえますⅡ;ganti, pindah;Bab16;n3
+浴びます;あびますⅡ [シャワーを〜];mandi;Bab16;n2
+入れます;いれますⅡ;memasukkan;Bab16;n5
+出します;だしますⅠ;mengeluarkan, menyerahkan, mengirim;Bab16;n5
+下ろします [お金を〜];おろしますⅠ [おかねを〜];mengeluarkan/mengambil [uang];Bab16;n5
+入ります [大学に〜];はいりますⅠ [だいがくに〜];masuk [universitas];Bab16;n5
+出ます [大学を〜];でますⅡ [だいがくを〜];Keluar / tamat [dari universitas];Bab16;n5
+押します;おしますⅠ;menekan;Bab16;n3
+飲みます;のみますⅠ;minum (minuman keras);Bab16;n4
+始めます;はじめますⅡ;mulai;Bab16;n4
+見学します;けんがくしますⅢ;mengunjungi;Bab16;n5
+電話します;でんわしますⅢ;menelepon;Bab16;n5
+若い;わかい;muda;Bab16;n3
+長い;ながい;panjang;Bab16;n5
+短い;みじかい;pendek;Bab16;n2
+明るい;あかるい;terang;Bab16;n4
+暗い;くらい;gelap;Bab16;n3
+体;からだ＊;badan;Bab16;n4
+頭;あたま;kepala;Bab16;n3
+髪;かみ;rambut;Bab16;n3
+顔;かお＊;muka;Bab16;n3
+目;め;mata;Bab16;n4
+耳;みみ＊;telinga;Bab16;n3
+鼻;はな＊;hidung;Bab16;n2
+口;くち＊;mulut;Bab16;n4
+歯;は＊;gigi;Bab16;n3
+おなか＊;おなか＊;perut;Bab16;-
+足;あし＊;kaki;Bab16;n4
+背;せ;punggung;Bab16;n3
+サービス;サービス;pelayanan;Bab16;-
+ジョギング;ジョギング;joging, lari pelan-pelan (〜を します：berlari pelan-pelan);Bab16;-
+シャワー;シャワー;*shower*;Bab16;-
+緑;みどり;hijau, tumbuhan hijau;Bab16;n2
+[お]寺;[お]てら;wihara;Bab16;n2
+神社;じんじゃ;kuil Shinto;Bab16;n3
+ー番;ーばん;nomor ー;Bab16;n3
+どうやって;どうやって;dengan cara bagaimana;Bab16;-
+どの 〜;どの 〜;〜 yang mana (mengungkapkan lebih dari tiga barang);Bab16;-
+どれ;どれ;mana (mengungkapkan lebih dari tiga barang);Bab16;-
+すごいですね。;すごいですね。;Hebat.;Bab16;-
+[いいえ、] まだまだです。;[いいえ、] まだまだです。;[Tidak], belum memuaskan.;Bab16;-
+お引き出しですか。;おひきだしですか。;Mau menarik uang?;Bab16;n3
+まず;まず;pertama-tama, terlebih dahulu;Bab16;-
+次に;つぎに;kemudian;Bab16;n3
+キャッシュカード;キャッシュカード;kartu ATM;Bab16;-
+暗証番号;あんしょうばんごう;PIN;Bab16;n3
+金額;きんがく;jumlah uang;Bab16;n2
+確認;かくにん;cek (〜します：mengecek, memastikan);Bab16;n3
+ボタン;ボタン;tombol;Bab16;-
+JR;ジェイアール;JR (nama perusahaan rel kereta listrik);Bab16;-
+雪祭り;ゆきまつり;pesta salju;Bab16;n2
+バンドン;バンドン;Bandung (di Indonesia);Bab16;-
+フランケン;フランケン;Franken (di Jerman);Bab16;-
+ベラクルス;ベラクルス;Veracruz (di Meksiko);Bab16;-
+梅田;うめだ;Umeda (nama daerah di Osaka);Bab16;-
+大学前;だいがくまえ;halte fiksi;Bab16extra;n5
+お預け入れ;おあずけいれ;menambahkan saldo;Bab16extra;n3
+お振り込み;おふりこみ;pembayaran;Bab16extra;-
+お振り替え;おふりかえ;pengiriman;Bab16extra;-
+お引き出し;おひきだし;penarikan uang;Bab16extra;n3
+通帳記入;つうちょうきにゅう;pembaharuan buku catatan bank;Bab16extra;-
+残高照会;ざんだかしょうかい;cek saldo;Bab16extra;n2
+覚えます;おぼえますⅡ;mengingat, menghafal;Bab17;n3
+忘れます;わすれますⅡ;lupa;Bab17;n3
+なくしますⅠ;なくしますⅠ;kehilangan;Bab17;-
+払います;はらいますⅠ;membayar;Bab17;n3
+返します;かえしますⅠ;mengembalikan;Bab17;n3
+出かけます;でかけますⅡ;pergi, keluar, berangkat;Bab17;n5
+脱ぎます;ぬぎますⅠ;buka (baju, sepatu dan lain-lain);Bab17;-
+持って 行きます;もって いきますⅠ;membawa pergi;Bab17;n4
+持って 来ます;もって きますⅢ;membawa datang;Bab17;n4
+心配します;しんぱいしますⅢ;mengkhawatirkan;Bab17;n3
+残業します;ざんぎょうしますⅢ;melembur;Bab17;n3
+出張します;しゅっちょうしますⅢ;dinas;Bab17;-
+飲みます [薬を〜];のみますⅠ [くすりを〜];minum [obat];Bab17;n3
+入ります;はいりますⅠ [おふろに〜];mandi, masuk [ofuro];Bab17;n5
+大切[な];たいせつ[な];penting, bernilai, berharga;Bab17;n4
+大丈夫[な];だいじょうぶ[な];tidak apa-apa, tidak masalah;Bab17;-
+危ない;あぶない;berbahaya;Bab17;n3
+禁煙;きんえん;dilarang merokok;Bab17;n2
+[健康]保険証;[けんこう]ほけんしょう;kartu asuransi [kesehatan];Bab17;-
+熱;ねつ;demam;Bab17;n3
+病気;びょうき;sakit;Bab17;n4
+薬;くすり;obat;Bab17;n3
+[お]ふろ;[お]ふろ;mandi, kamar mandi;Bab17;-
+上着;うわぎ;baju, jaket;Bab17;n4
+下着;したぎ;pakaian dalam;Bab17;n4
+２、３日;２、３にち;dua atau tiga hari;Bab17;n5
+２、３〜;２、３〜;dua atau tiga (digunakan kata bilangan di bagian 〜);Bab17;-
+〜までに;〜までに;sampai dengan (menyatakan batas waktu);Bab17;-
+ですから;ですから;oleh karena itu;Bab17;-
+どう しましたか。;どう しましたか。;Kenapa?/Ada masalah apa?;Bab17;-
+のど;のど;kerongkongan;Bab17;-
+[〜が] 痛いです。;[〜が] いたいです。;[〜] sakit;Bab17;n3
+かぜ;かぜ;masuk angin;Bab17;-
+それから;それから;dan, kemudian;Bab17;-
+お大事に。;おだいじに。;Semoga lekas sembuh. (ekspresi yang diucapkan kepada orang yang sedang sakit);Bab17;n4
+頭が 痛い;あたまが いたい;sakit kepala;Bab17extra;n3
+おなかが いたい;おなかが いたい;sakit perut;Bab17extra;-
+歯が 痛い;はが いたい;sakit gigi;Bab17extra;n3
+熱が あります;ねつが あります;demam;Bab17extra;n3
+せきが 出ます;せきが でます;batuk;Bab17extra;n5
+鼻水が 出ます;はなみずが でます;pilek;Bab17extra;n2
+血が 出ます;ちが でます;berdarah;Bab17extra;n2
+吐き気が します;はきけが します;mual, mau muntah;Bab17extra;-
+寒気が します;さむけが します;kedinginan;Bab17extra;n3
+めまいが します;めまいが します;pening, pusing;Bab17extra;-
+下痢を します;げりを します;diare;Bab17extra;-
+便秘を します;べんぴを します;sembelit;Bab17extra;-
+けがを します;けがを します;terluka;Bab17extra;-
+やけどを します;やけどを します;terbakar;Bab17extra;-
+食欲が ありません;しょくよくが ありません;tidak nafsu makan;Bab17extra;n3
+肩が こります;かたが こります;bahu pegal;Bab17extra;n2
+体が だるい;からだが だるい;badan lemas;Bab17extra;n4
+かゆい;かゆい;gatal;Bab17extra;-
+かお;かお;muka;Bab17extra;-
+あたま;あたま;kepala;Bab17extra;-
+め;め;mata;Bab17extra;-
+はな;はな;hidung;Bab17extra;-
+みみ;みみ;telinga;Bab17extra;-
+かみ;かみ;rambut;Bab17extra;-
+くち;くち;mulut;Bab17extra;-
+あご;あご;dagu;Bab17extra;-
+のど;のど;kerongkongan;Bab17extra;-
+くび;くび;leher;Bab17extra;-
+むね;むね;dada;Bab17extra;-
+かた;かた;bahu;Bab17extra;-
+うで;うで;lengan;Bab17extra;-
+せなか;せなか;punggung;Bab17extra;-
+て;て;tangan;Bab17extra;-
+ゆび;ゆび;jari;Bab17extra;-
+おなか;おなか;perut;Bab17extra;-
+こし;こし;pinggang;Bab17extra;-
+つめ;つめ;kuku;Bab17extra;-
+ひざ;ひざ;lutut;Bab17extra;-
+あし;あし;kaki;Bab17extra;-
+ほね;ほね;tulang;Bab17extra;-
+しり;しり;pantat;Bab17extra;-
+インフルエンザ;インフルエンザ;flu, influenza;Bab17extra;-
+盲腸;もうちょう;usus buntu;Bab17extra;-
+ぎっくり腰;ぎっくりごし;sakit pinggang;Bab17extra;n2
+ねんざ;ねんざ;keseleo;Bab17extra;-
+骨折;こっせつ;patah tulang;Bab17extra;n2
+二日酔い;ふつかよい;efek sesudah minum;Bab17extra;-
+できますⅡ;できますⅡ;dapat, bisa, mampu;Bab18;-
+洗います;あらいますⅠ;mencuci;Bab18;n3
+弾きます;ひきますⅠ;bermain (bermaksud untuk bermain alat musik senar dan piano);Bab18;-
+歌います;うたいますⅠ;bernyanyi, menyanyi;Bab18;n4
+集めます;あつめますⅡ;mengumpulkan;Bab18;n4
+捨てます;すてますⅡ;membuang;Bab18;n2
+換えます;かえますⅡ;mengganti, menukar;Bab18;n3
+運転します;うんてんしますⅢ;menyetir, mengendarai;Bab18;n4
+予約します;よやくしますⅢ;memesan;Bab18;n3
+ピアノ;ピアノ;piano;Bab18;-
+ーメートル;ーメートル;ー meter;Bab18;-
+現金;げんきん;uang tunai;Bab18;n3
+趣味;しゅみ;hobi, kegemaran;Bab18;-
+日記;にっき;catatan harian;Bab18;n3
+お祈り;おいのり;doa (〜を します：berdoa);Bab18;n2
+課長;かちょう;kepala seksi;Bab18;n2
+部長;ぶちょう;kepala bagian;Bab18;n3
+社長;しゃちょう＊;direktur utama;Bab18;n4
+動物;どうぶつ;hewan, binatang;Bab18;n4
+馬;うま;kuda;Bab18;n3
+インターネット;インターネット;internet;Bab18;-
+特に;とくに;terutama, khususnya;Bab18;n4
+へえ;へえ;Betul ya?/Benar ya?/Masa! (digunakan ketika terkagum atau terkejut);Bab18;-
+それは おもしろいですね。;それは おもしろいですね。;Itu menarik ya.;Bab18;-
+なかなか;なかなか;jarang, tidak mudah (diikuti bentuk negatif);Bab18;-
+ほんとうですか。;ほんとうですか。;Betul?/Benar?;Bab18;-
+ぜひ;ぜひ;benar-benar, mesti;Bab18;-
+故郷;ふるさと;Furusato (judul lagu. Artinya kampung halaman);Bab18;-
+ビートルズ;ビートルズ;The Beatles;Bab18;-
+秋葉原;あきはばら;nama daerah di Tokyo;Bab18;n3
+飛ぶ;とぶ;terbang;Bab18extra;n3
+跳ぶ;とぶ;meloncat;Bab18extra;-
+登る;のぼる;memanjat;Bab18extra;n3
+走る;はしる;berlari;Bab18extra;n4
+泳ぐ;およぐ;berenang;Bab18extra;n3
+もぐる;もぐる;menyelam;Bab18extra;-
+飛び込む;とびこむ;terjun;Bab18extra;n3
+逆立ちする;さかだちする;berjungkir balik;Bab18extra;n2
+はう;はう;merayap;Bab18extra;-
+ける;ける;menendang;Bab18extra;-
+振る;ふる;melambaikan;Bab18extra;-
+持ち上げる;もちあげる;mengangkat;Bab18extra;n4
+投げる;なげる;melempar;Bab18extra;n3
+たたく;たたく;memukul;Bab18extra;-
+引く;ひく;menarik;Bab18extra;n3
+押す;おす;mendorong;Bab18extra;n3
+曲げる;まげる;membengkokkan;Bab18extra;n3
+伸ばす;のばす;meluruskan;Bab18extra;n2
+転ぶ;ころぶ;jatuh;Bab18extra;n4
+振り向く;ふりむく;menengok ke belakang;Bab18extra;-
+登ります、上ります;のぼりますⅠ;naik;Bab19;n3
+泊まります;とまりますⅠ [ホテルに〜];menginap [di hotel];Bab19;n2
+掃除します;そうじしますⅢ;membersihkan;Bab19;n2
+洗濯します;せんたくしますⅢ;mencuci pakaian;Bab19;n2
+なりますⅠ;なりますⅠ;menjadi;Bab19;-
+眠い;ねむい;mengantuk;Bab19;n3
+強い;つよい;kuat;Bab19;n4
+弱い;よわい＊;lemah;Bab19;n2
+練習;れんしゅう;latihan (〜[を] します：berlatih);Bab19;n2
+ゴルフ;ゴルフ;golf (〜[を] します：bermain golf);Bab19;-
+相撲;すもう;sumo (〜[を] します：bermain sumo);Bab19;-
+お茶;おちゃ;upacara minum teh;Bab19;n4
+日;ひ;hari;Bab19;n5
+調子;ちょうし;kondisi;Bab19;n3
+一度;いちど;sekali;Bab19;n4
+一度も;いちども;sekali-kali, satu kali pun (diikuti bentuk negatif);Bab19;n4
+だんだん;だんだん;berangsur-angsuran, lama-kelamaan;Bab19;-
+もうすぐ;もうすぐ;tidak lama lagi;Bab19;-
+おかげさまで;おかげさまで;atas berkat (ucapan yang digunakan ketika menyatakan rasa terima kasih atas bantuan atau kebaikan hati dari orang);Bab19;-
+でも;でも;tetapi;Bab19;-
+乾杯;かんぱい;toast;Bab19;n2
+ダイエット;ダイエット;diet (〜を します：berdiet);Bab19;-
+無理[な];むり[な];paksa, berlebihan;Bab19;-
+体に いい;からだに いい;baik untuk tubuh;Bab19;n4
+東京スカイツリー;とうきょうスカイツリー;Tokyo Sky Tree (menara gelombang radio yang lengkap dengan pelataran puncak yang ada di Tokyo);Bab19;n4
+葛飾北斎;かつしかほくさい;nama pelukis Ukiyoe yang terkenal pada zaman Edo, pelukis (1760~1849);Bab19extra;-
+茶道 (お茶);さどう;Upacara Minum Teh;Bab19extra;n4
+華道 (生け花);かどう;Seni Merangkai Bunga;Bab19extra;-
+書道;しょどう;Seni Menulis Huruf Jepang;Bab19extra;n4
+歌舞伎;かぶき;Kabuki (Drama Tradisional Jepang);Bab19extra;-
+能;のう;Noh (Drama Topeng Tradisional Jepang);Bab19extra;n3
+文楽;ぶんらく;Bunraku (Wayang Golek Tradisional Jepang);Bab19extra;n4
+相撲;すもう;Sumo (Gulat Tradisional Jepang);Bab19extra;-
+柔道;じゅうどう;Judo (Olahraga Tradisional Jepang);Bab19extra;n2
+剣道;けんどう;Kendo (Olahraga Tradisional Jepang);Bab19extra;-
+空手;からて;Karate (Olahraga Bela Diri Jepang);Bab19extra;n4
+漫才・落語;まんざい・らくご;Lelucon, Komedi;Bab19extra;-
+囲碁・将棋;いご・しょうぎ;Catur Jepang;Bab19extra;-
+パチンコ;パチンコ;Pacinko;Bab19extra;-
+カラオケ;カラオケ;Karaoke;Bab19extra;-
+盆踊り;ぼんおどり;Tarian Bon;Bab19extra;-
+これ;これ;Ini;Bab02;-
+それ;それ;Itu (dekat);Bab02;-
+あれ;あれ;Itu (jauh);Bab02;-
+この～;この～;～ini;Bab02;-
+その～;その～;～itu (dekat);Bab02;-
+あの～;あの～;～itu (jauh);Bab02;-
+本;ほん;Buku;Bab02;n5
+辞書;じしょ;Kamus;Bab02;n3
+雑誌;ざっし;Majalah;Bab02;n2
+新聞;しんぶん;Koran, Surat Kabar;Bab02;n4
+ノート;ノート;Buku catatan, Buku Tulis;Bab02;-
+手帳;てちょう;Buku agenda;Bab02;-
+名刺;めいし;Kartu nama;Bab02;n2
+カード;カード;Kartu;Bab02;-
+鉛筆;えんぴつ;Pensil;Bab02;-
+ボールペン;ボールペン;Bolpoin;Bab02;-
+シャープペンシル;シャープペンシル;Pensil mekanik, Pensil Isi Ulang;Bab02;-
+鍵;かぎ;Kunci;Bab02;-
+時計;とけい;Jam , arloji;Bab02;n4
+傘;かさ;Payung;Bab02;-
+鞄;かばん;Tas;Bab02;-
+テレビ;テレビ;Televisi;Bab02;-
+ラジオ;ラジオ;Radio;Bab02;-
+カメラ;カメラ;Kamera;Bab02;-
+コンピューター;コンピューター;Komputer, PC;Bab02;-
+車;くるま;Mobil;Bab02;n5
+机;つくえ;Meja, Meja Tulis;Bab02;n2
+椅子;いす;Kursi;Bab02;-
+チョコレート;チョコレート;Coklat;Bab02;-
+コーヒー;コーヒー;Kopi;Bab02;-
+お土産;おみやげ;Oleh-oleh;Bab02;n3
+英語;えいご;Bahasa inggris;Bab02;n4
+日本語;にほんご;Bahasa jepang;Bab02;n5
+～語;～ご;Bahasa ～;Bab02;n5
+何;なん;Apa;Bab02;n5
+そう;そう;Begitu;Bab02;-
+あのう;あのう;Eee ...(ungkapan ketika ragu);Bab02;-
+えっ;えっ;Eh (diucapkan ketika mendengar sesuatu diluar dugaan);Bab02;-
+どうぞ;どうぞ;Silakan ( Meawarkan );Bab02;-
+[ どうも ]ありがとうございます;[ どうも ]ありがとうございます;Terima kasih (Banyak);Bab02;-
+そうですか;そうですか;O,begitu / benarkah?;Bab02;-
+違います;ちがいます;Bukan , Tidak , Salah;Bab02;n3
+あ;あ;O,eh (dipakai ketika sadar);Bab02;-
+これからお世話になります;これからおせわになります;Mulai sekarang saya akan meminta bantuannya;Bab02;n4
+こちらこそよろしくおねがいします;こちらこそよろしくおねがいします;Ya sama-sama ( Jawaban untuk Douzou Yoroshiku Onegaishimasu);Bab02;-
+要ります;いりますⅠ [ビザが〜];memerlukan [VISA];Bab20;n3
+調べます;しらべますⅡ;memeriksa, meneliti, mengecek;Bab20;n3
+修理します;しゅうりしますⅢ;memperbaiki;Bab20;-
+僕;ぼく;aku (dipakai oleh laki-laki, kata ganti informal dari わたし);Bab20;-
+君;きみ＊;kamu (bentuk informal untuk あなた, digunakan terhadap orang yang setaraf atau di bawah si pembicara);Bab20;n3
+〜君;〜くん;Sdr. 〜 (bentuk informal untuk さん, digunakan terhadap orang yang setaraf atau di bawah si pembicara, sering digunakan untuk nama anak laki-laki);Bab20;n3
+うん;うん;ya (bentuk informal dari はい);Bab20;-
+ううん;ううん;tidak, bukan (bentuk informal dari いいえ);Bab20;-
+ことば;ことば;kata, bahasa;Bab20;-
+着物;きもの;kimono (pakaian tradisional Jepang);Bab20;n4
+ビザ;ビザ;VISA;Bab20;-
+初め;はじめ;awal, mula-mula;Bab20;n3
+終わり;おわり;akhir;Bab20;n4
+こっち＊;こっち＊;sini (ungkapan informal dari kata こちら);Bab20;-
+そっち;そっち;situ (ungkapan informal dari kata そちら);Bab20;-
+あっち＊;あっち＊;sana (ungkapan informal dari kata あちら);Bab20;-
+どっち;どっち;mana (ungkapan informal untuk kata どちら);Bab20;-
+みんなで;みんなで;kita semua, kita sama-sama;Bab20;-
+〜けど;〜けど;〜 tetapi (ungkapan informal dari が);Bab20;-
+おなかが いっぱいです;おなかが いっぱいです;sudah kenyang;Bab20;-
+よかったら;よかったら;kalau mau, kalau suka;Bab20;-
+いろいろ;いろいろ;macam-macam;Bab20;-
+思います;おもいますⅠ;mengira, berpikir;Bab21;n4
+言います;いいますⅠ;mengatakan, berkata;Bab21;n4
+勝ちます;かちますⅠ;menang;Bab21;n3
+負けます;まけますⅡ＊;kalah;Bab21;n3
+[お祭りが〜];ありますⅠ [おまつりが〜];ada, diadakan [pesta perayaan];Bab21;n2
+役に 立ちます;やくに たちますⅠ;berguna, bermanfaat;Bab21;n3
+動きます;うごきますⅠ;pindah, bergerak;Bab21;n4
+[会社を〜];やめますⅡ [かいしゃを〜];berhenti [kerja];Bab21;n4
+気を つけます;きを つけますⅡ;berwaspada, berhati-hati;Bab21;n5
+留学します;りゅうがくしますⅢ;studi di luar negeri;Bab21;n3
+むだ[な];むだ[な];sia-sia, tidak berguna;Bab21;-
+不便[な];ふべん[な];tidak praktis;Bab21;n3
+すごい;すごい;hebat, bukan main (digunakan ketika menyatakan kejutan atau kekaguman);Bab21;-
+ほんとう;ほんとう;betul, benar;Bab21;-
+うそ＊;うそ＊;bohong;Bab21;-
+自動車;じどうしゃ;mobil;Bab21;n4
+交通;こうつう;lalu lintas;Bab21;n3
+物価;ぶっか;harga barang;Bab21;-
+放送;ほうそう;siaran, pengumuman;Bab21;n3
+ニュース;ニュース;warta berita;Bab21;-
+アニメ;アニメ;animasi;Bab21;-
+マンガ;マンガ;*manga*, komik;Bab21;-
+デザイン;デザイン;desain, model;Bab21;-
+夢;ゆめ;mimpi;Bab21;n3
+天才;てんさい;genius;Bab21;n3
+試合;しあい;pertandingan (〜を します：bertanding);Bab21;n3
+意見;いけん;pendapat;Bab21;n4
+話;はなし;cerita (〜を します：bercerita, berbicara);Bab21;n5
+地球;ちきゅう;bumi;Bab21;n3
+月;つき;bulan;Bab21;n5
+最近;さいきん;akhir-akhir ini;Bab21;n3
+たぶん;たぶん;mungkin, barangkali;Bab21;-
+きっと;きっと;pasti;Bab21;-
+ほんとうに;ほんとうに;betul-betul;Bab21;-
+そんなに;そんなに;tidak begitu (diikuti bentuk negatif);Bab21;-
+〜に ついて;〜に ついて;tentang 〜, mengenai 〜;Bab21;-
+久しぶりですね。;ひさしぶりですね。;Sudah lama tidak bertemu ya.;Bab21;n2
+〜でも 飲みませんか。;〜でも のみませんか。;Bagaimana kalau kita minum 〜, atau apa saja?;Bab21;n4
+もちろん;もちろん;tentu saja;Bab21;-
+もう 帰らないと……。;もう かえらないと……。;Saya harus pulang...;Bab21;n4
+アインシュタイン;アインシュタイン;Albert Einstein (1879-1955);Bab21extra;-
+ガガーリン;ガガーリン;Gagarin (1934-1968);Bab21extra;-
+ガリレオ;ガリレオ;Galileo Galilei (1564-1642);Bab21extra;-
+キング牧師;キングぼくし;Martin Luther King, Jr. (1929-1968);Bab21extra;-
+フランクリン;フランクリン;Benjamin Franklin (1706-1790);Bab21extra;-
+かぐや姫;かぐやひめ;Putri Kaguya (protagonis dari cerita dongeng Jepang "Taketori monogatari");Bab21extra;-
+天神祭;てんじんまつり;Perayaan Tenjin (perayaan di Osaka);Bab21extra;n2
+吉野山;よしのやま;Gunung Yoshino (gunung yang ada di Nara);Bab21extra;-
+カンガルー;カンガルー;kanguru;Bab21extra;-
+キャプテン・クック;キャプテン・クック;Captain James Cook (1728-1779);Bab21extra;-
+ヨーネン;ヨーネン;perusahaan fiksi;Bab21extra;-
+国;くに;negara;Bab21extra;n5
+都道府県;とどうふけん;prefektur;Bab21extra;n2
+市;し;kota;Bab21extra;n3
+町;まち;distrik, daerah;Bab21extra;n4
+村;むら;desa;Bab21extra;n2
+首相（内閣総理大臣）;しゅしょう（ないかくそうりだいじん）;Perdana Menteri;Bab21extra;-
+知事;ちじ;Gubernur;Bab21extra;n4
+市長;しちょう;Wali Kota;Bab21extra;n3
+町長;ちょうちょう;Kepala Daerah;Bab21extra;n4
+村長;そんちょう;Kepala Desa;Bab21extra;n2
+大学;だいがく;Universitas;Bab21extra;n5
+学長;がくちょう;Rektor;Bab21extra;n5
+高等学校;こうとうがっこう;SMA;Bab21extra;n3
+中学校;ちゅうがっこう;SMP;Bab21extra;n5
+校長;こうちょう;Kepala Sekolah;Bab21extra;n5
+小学校;しょうがっこう;SD;Bab21extra;n5
+幼稚園;ようちえん;TK;Bab21extra;-
+園長;えんちょう;Kepala TK;Bab21extra;n3
+会社;かいしゃ;Perusahaan;Bab21extra;n4
+会長;かいちょう;Ketua;Bab21extra;n4
+社長;しゃちょう;Direktur Utama;Bab21extra;n4
+重役;じゅうやく;Direktur;Bab21extra;n3
+部長;ぶちょう;Kepala Bagian;Bab21extra;n3
+課長;かちょう;Kepala Seksi;Bab21extra;n2
+銀行;ぎんこう;Bank;Bab21extra;n4
+頭取;とうどり;Direktur Bank;Bab21extra;n3
+支店長;してんちょう;Kepala Kantor Cabang;Bab21extra;n3
+駅;えき;Stasiun;Bab21extra;n4
+駅長;えきちょう;Kepala Stasiun;Bab21extra;n4
+病院;びょういん;Rumah Sakit;Bab21extra;n4
+院長;いんちょう;Direktur Rumah Sakit;Bab21extra;n4
+部長;ぶちょう;Kepala Bagian;Bab21extra;n3
+看護師長;かんごしちょう;Kepala Perawat;Bab21extra;-
+警察;けいさつ;Kantor Polisi;Bab21extra;n3
+署長;しょちょう;Kepala Kantor Polisi;Bab21extra;n2
+着ます;きますⅡ;memakai (kemeja);Bab22;n4
+はきますⅠ;はきますⅠ;memakai (sepatu, celana);Bab22;-
+かぶりますⅠ;かぶりますⅠ;memakai (topi);Bab22;-
+[眼鏡を〜];かけますⅡ [めがねを〜];memakai [kaca mata];Bab22;-
+しますⅢ [ネクタイを〜];しますⅢ [ネクタイを〜];memakai [dasi];Bab22;-
+生まれます;うまれますⅡ;lahir;Bab22;n5
+わたしたち;わたしたち;kami, kita;Bab22;-
+コート;コート;mantal;Bab22;-
+セーター;セーター;sweater, baju hangat;Bab22;-
+スーツ＊;スーツ＊;pakaian setelan;Bab22;-
+帽子;ぼうし;topi;Bab22;n2
+眼鏡;めがね;kaca mata;Bab22;-
+ケーキ;ケーキ;kue;Bab22;-
+[お]弁当;[お]べんとう;bekal;Bab22;-
+ロボット;ロボット;robot;Bab22;-
+ユーモア;ユーモア;humor;Bab22;-
+都合;つごう;kondisi;Bab22;n3
+よく;よく;sering kali;Bab22;-
+えーと;えーと;Itu...;Bab22;-
+おめでとう [ございます]。;おめでとう [ございます]。;Selamat. (digunakan untuk hari ulang tahu, upacara pernikahan, dan tahun baru);Bab22;-
+お探しですか。;おさがしですか。;Mencari apa?;Bab22;n3
+では;では;Kalau begitu;Bab22;-
+こちら;こちら;ini (ungkapan sopan dari これ);Bab22;-
+家賃;やちん;biaya sewa rumah;Bab22;-
+ダイニングキッチン;ダイニングキッチン;ruang makan dengan dapur;Bab22;-
+和室;わしつ;kamar ala Jepang;Bab22;n3
+押し入れ;おしいれ;lemari dinding ala Jepang;Bab22;n3
+布団;ふとん;selimut dan kasur berisi kapas ala Jepang;Bab22;n2
+パリ;パリ;Paris;Bab22;-
+万里の長城;ばんりのちょうじょう;Tembok Besar Cina;Bab22;-
+みんなの アンケート;みんなの アンケート;angket fiksi;Bab22extra;-
+スーツ;スーツ;pakaian setelan;Bab22extra;-
+ワンピース;ワンピース;terusan;Bab22extra;-
+上着;うわぎ;jas;Bab22extra;n4
+ズボン／パンツ;ズボン／パンツ;celana panjang;Bab22extra;-
+ジーンズ;ジーンズ;celana jeans;Bab22extra;-
+スカート;スカート;rok;Bab22extra;-
+ブラウス;ブラウス;blus;Bab22extra;-
+ワイシャツ;ワイシャツ;kemeja;Bab22extra;-
+セーター;セーター;sweater, baju hangat;Bab22extra;-
+マフラー;マフラー;shal, selendang;Bab22extra;-
+手袋;てぶくろ;sarung tangan;Bab22extra;n2
+下着;したぎ;pakaian dalam;Bab22extra;n4
+くつした;くつした;kaos kaki;Bab22extra;-
+（パンティー）;（パンティー）;;Bab22extra;-
+ストッキング;ストッキング;stoking;Bab22extra;-
+着物;きもの;Kimono (pakaian tradisional Jepang);Bab22extra;n4
+帯;おび;Obi (ikat pinggang tradisional Jepang, digunakan bersamaan dengan Kimono);Bab22extra;n2
+（オーバー）コート;（オーバー）コート;mantel;Bab22extra;-
+レインコート;レインコート;jas hujan;Bab22extra;-
+ネクタイ;ネクタイ;dasi;Bab22extra;-
+ベルト;ベルト;ikat pinggang;Bab22extra;-
+ハイヒール;ハイヒール;sepatu berhak tinggi;Bab22extra;-
+ブーツ;ブーツ;sepatu bot;Bab22extra;-
+運動靴;うんどうぐつ;sepatu olah raga;Bab22extra;n3
+ぞうり;ぞうり;Zori (sandal tradisional Jepang);Bab22extra;-
+たび;たび;Tabi (kaos kaki tradisional Jepang);Bab22extra;-
+聞きます [先生に〜];ききますⅠ [せんせいに〜];bertanya [kepada guru];Bab23;n5
+回します;まわしますⅠ;memutar;Bab23;n3
+引きます;ひきますⅠ;tarik;Bab23;n3
+変えます;かえますⅡ;mengubah;Bab23;n3
+触ります;さわりますⅠ [ドアに〜];menyentuh [pintu];Bab23;n2
+出ます [お釣りが〜];でますⅡ [おつりが〜];keluar [uang kembalian];Bab23;-
+歩きます;あるきますⅠ;berjalan kaki;Bab23;n4
+渡ります [橋を〜];わたりますⅠ [はしを〜];menyeberang [jembatan];Bab23;n2
+曲がります [右へ〜];まがりますⅠ [みぎへ〜];belok [ke kanan];Bab23;n3
+寂しい;さびしい;sepi;Bab23;-
+[お]湯;[お]ゆ;air panas;Bab23;n2
+音;おと;bunyi, suara;Bab23;n4
+サイズ;サイズ;ukuran;Bab23;-
+故障;こしょう;kerusakan (〜します：rusak);Bab23;-
+道;みち;jalan;Bab23;n4
+交差点;こうさてん;perempatan;Bab23;n3
+信号;しんごう;lampu lalu lintas;Bab23;n3
+角;かど;sudut;Bab23;n2
+橋;はし;jembatan;Bab23;n2
+駐車場;ちゅうしゃじょう;tempat parkir;Bab23;n2
+建物;たてもの;gedung;Bab23;n4
+何回も;なんかいも;berkali-kali;Bab23;n3
+ー目;ーめ;yang ke ー (mengungkapkan urutan);Bab23;n4
+聖徳太子;しょうとくたいし;Pangeran Shotoku (574-622);Bab23extra;-
+法隆寺;ほうりゅうじ;nama wihara yang dibagun oleh Pangeran Shotoku pada awal abad ke tujuh di Nara;Bab23extra;-
+元気茶;げんきちゃ;teh fiksi;Bab23extra;n4
+本田駅;ほんだえき;stasiun fiksi;Bab23extra;n4
+図書館前;としょかんまえ;halte bus fiksi;Bab23extra;n4
+道路・交通;どうろ・こうつう;Jalan, Lalu Lintas;Bab23extra;n3
+歩道;ほどう;trotoar (tempat pejalan kaki);Bab23extra;n4
+車道;しゃどう;jalan mobil;Bab23extra;n4
+高速道路;こうそくどうろ;jalan tol;Bab23extra;n3
+通り;とおり;jalan;Bab23extra;n4
+交差点;こうさてん;perempatan;Bab23extra;n3
+横断歩道;おうだんほどう;tempat menyeberang;Bab23extra;n3
+歩道橋;ほどうきょう;jembatan penyeberangan;Bab23extra;n2
+角;かど;belokan, pengkolan, tikungan;Bab23extra;n2
+信号;しんごう;lampu lalu lintas;Bab23extra;n3
+坂;さか;lereng;Bab23extra;n2
+踏切;ふみきり;lintasan kereta api;Bab23extra;-
+ガソリンスタンド;ガソリンスタンド;pompa bensin;Bab23extra;-
+止まれ;とまれ;berhenti;Bab23extra;n4
+進入禁止;しんにゅうきんし;dilarang masuk;Bab23extra;n2
+一方通行;いっぽうつうこう;satu arah;Bab23extra;n4
+駐車禁止;ちゅうしゃきんし;dilarang parkir;Bab23extra;n2
+右折禁止;うせつきんし;dilarang belok kanan;Bab23extra;n2
+くれますⅡ;くれますⅡ;diberikan;Bab24;-
+直します;なおしますⅠ;mengoreksi;Bab24;n3
+連れて 行きます;つれて いきますⅠ;membawa, mengajak pergi;Bab24;n3
+連れて 来ます;つれて きますⅢ＊;membawa datang, mengajak datang;Bab24;n3
+送ります [人を〜];おくりますⅠ [ひとを〜];mengantar [orang];Bab24;n4
+紹介します;しょうかいしますⅢ;memperkenalkan;Bab24;n2
+案内します;あんないしますⅢ;mengantarkan;Bab24;-
+説明します;せつめいしますⅢ;menjelaskan, menerangkan;Bab24;n3
+おじいさん／おじいちゃん;おじいさん／おじいちゃん;kakek;Bab24;-
+おばあさん／おばあちゃん;おばあさん／おばあちゃん;nenek;Bab24;-
+準備;じゅんび;persiapan (〜[を] します：mempersiapkan, menyiapkan);Bab24;n2
+引っ越し;ひっこし;pindah rumah (〜[を] します：pindah, memindahkan);Bab24;n3
+[お]菓子;[お]かし;kue;Bab24;n2
+ホームステイ;ホームステイ;homestay;Bab24;-
+全部;ぜんぶ;semua;Bab24;n3
+自分で;じぶんで;dengan sendiri;Bab24;-
+ほかに;ほかに;selain, yang lain;Bab24;-
+母の日;ははのひ;hari Ibu;Bab24;n5
+お年玉;おとしだま;Hadiah kecil berupa uang yang diberikan orang tua dan keluarga kepada anak-anak pada Hari Tahun Baru.;Bab24extra;n2
+入学祝い;にゅうがくいわい;Hadiah yang diberikan kepada anak yang masuk sekolah (uang, perlengkapan sekolah, buku, dll.).;Bab24extra;n2
+卒業祝い;そつぎょういわい;Hadiah yang diberikan kepada anak yang tamat sekolah (uang, perlengkapan sekolah, buku, dll.).;Bab24extra;n2
+結婚祝い;けっこんいわい;Hadiah perkawinan (uang, perlengkapan rumah tangga, dll.).;Bab24extra;-
+出産祝い;しゅっさんいわい;Hadiah yang diberikan kepada orang yang melahirkan (pakaian bayi, mainan bayi, dll.).;Bab24extra;n2
+お中元;おちゅうげん;[Juli atau Agustus] Hadiah yang diberikan kepada orang yang telah memberi bantuan, seperti dokter, guru, atasan, dll. (makanan, dll.).;Bab24extra;n4
+お歳暮;おせいぼ;[Desember] Hadiah yang diberikan kepada orang yang telah memberi bantuan, seperti dokter, guru, atasan, dll. (makanan, dll.).;Bab24extra;n3
+お香典;おこうでん;Uang yang diberikan kepada keluarga yang berduka;Bab24extra;-
+お見舞い;おみまい;Hadiah yang diberikan kepada orang yang sedang sakit (bunga, buah-buahan, dll.).;Bab24extra;n3
+考えます;かんがえますⅡ;berpikir, memikirkan;Bab25;n4
+着きます;つきますⅠ;tiba, sampai;Bab25;n4
+取ります [年を〜];とりますⅠ [としを〜];berumur, lanjut usia;Bab25;n3
+足ります;たりますⅡ;cukup;Bab25;n4
+田舎;いなか;desa, kampung halaman;Bab25;-
+チャンス;チャンス;kesempatan;Bab25;-
+億;おく;ratus juta;Bab25;n2
+もし [〜たら];もし [〜たら];kalau;Bab25;-
+意味;いみ;arti, makna;Bab25;n4
+もしもし;もしもし;halo (digunakan ketika menelepon);Bab25;-
+転勤;てんきん;pindah ke kantor cabang lain atau jabatan lain (〜します：pindah kantor);Bab25;n3
+こと;こと;hal (〜のこと：hal 〜);Bab25;-
+暇;ひま;waktu luang;Bab25;-
+[いろいろ] お世話に なりました。;[いろいろ] おせわに なりました。;Terima kasih banyak bantuan Anda yang telah diberikan.;Bab25;n4
+頑張ります;がんばりますⅠ;berusaha, bekerja keras;Bab25;-
+どうぞ お元気で。;どうぞ おげんきで。;Semoga sehat-sehat selalu. (digunakan ketika perpisahan dalam jangka waktu lama);Bab25;n4
+ベトナム;ベトナム;Vietnam;Bab25;-
+赤ちゃん;あかちゃん;bayi (0歳);Bab25extra;n4
+子ども;こども;anak-anak (6歳);Bab25extra;n5
+青年;せいねん;remaja (18歳);Bab25extra;n4
+中年;ちゅうねん;setengah baya (40歳);Bab25extra;n5
+老人;ろうじん;orang tua (70歳);Bab25extra;n3
+生まれます;うまれます;lahir;Bab25extra;n5
+保育園;ほいくえん;*playgroup*;Bab25extra;-
+幼稚園;ようちえん;TK;Bab25extra;-
+学校に 入ります;がっこうに はいります;masuk sekolah;Bab25extra;n5
+小学校;しょうがっこう;SD (6 tahun);Bab25extra;n5
+中学校;ちゅうがっこう;SMP (3);Bab25extra;n5
+高等学校;こうとうがっこう;SMA (3);Bab25extra;n3
+大学;だいがく;universitas (S1) (4);Bab25extra;n5
+短大;たんだい;akademi (2);Bab25extra;n2
+専門学校;せんもんがっこう;sekolah tinggi keahlian (2);Bab25extra;n2
+大学院;だいがくいん;universitas (S2) (2~6);Bab25extra;n4
+学校を 出ます;がっこうを でます;tamat sekolah;Bab25extra;n5
+就職します;しゅうしょくします;mendapat pekerjaan;Bab25extra;-
+結婚します;けっこんします;menikah;Bab25extra;-
+子どもが 生まれます;こどもが うまれます;melahirkan anak;Bab25extra;n5
+（離婚します）;（りこんします）;bercerai;Bab25extra;-
+（再婚します）;（さいこんします）;menikah lagi;Bab25extra;n2
+仕事を やめます;しごとを やめます;mengundurkan diri dari pekerjaan;Bab25extra;n4
+死にます;しにます;meninggal;Bab25extra;n4
+見ます。診ます;みます;Melihat , memeriksa;Bab26;-
+探します;さがします;Mencari;Bab26;n3
+遅れます;おくれます （じかん に）;Terlambat;Bab26;n3
+間に合います;まにあいます（じかん に）;Tepat waktu;Bab26;n3
+やります;やります;Melakukan, mengerjakan;Bab26;-
+参加します;さんかします（パーティーに）;Turut serta, ikut , berpartisipasi;Bab26;n3
+申し込みます;もうしこみます;Mendaftar;Bab26;n3
+都合がいい;つごうがいい;Tidak ada halangan;Bab26;n3
+都合が悪い;つごうがわるい;Ada halangan;Bab26;n3
+気分がいい;きぶんがいい;Kondisi badan / perasaan baik;Bab26;-
+気分が悪い;きぶんがわるい;Tidak enak badan;Bab26;-
+新聞社;しんぶんしゃ;Perusahaan surat kabar;Bab26;n4
+柔道;じゅうどう;Judo(olahraga tradisional jepang);Bab26;n2
+運動会;うんどうかい;Pesta olahraga, pertandingan olahraga;Bab26;n4
+場所;ばしょ;Tempat;Bab26;n3
+ボランティア;ボランティア;Volunteer, sukarelawan;Bab26;-
+～弁;～べん;Logat ~, dialek~;Bab26;-
+今度;こんど;Berikutnya, lain kali;Bab26;n4
+ずいぶん;ずいぶん;Cukup (lebih dari perkiraan);Bab26;-
+直接;ちょくせつ;Langsung;Bab26;n2
+いつでも;いつでも;Kapanpun;Bab26;-
+どこでも;どこでも;Dimanapun;Bab26;-
+だれでも;だれでも;Siapapun;Bab26;-
+何でも;なんでも;Apapun;Bab26;n5
+こんな～;こんな～;~seperti ini;Bab26;-
+そんな～;そんな～;~seperti itu;Bab26;-
+あんな～;あんな～;Seperti yang di sana;Bab26;-
+片付きます;かたづきます（にもつが）;Dibereskan, dirapikan;Bab26;n2
+ごみ;ごみ;Sampah;Bab26;-
+出します;だします;Membuang (sampah);Bab26;n5
+燃えます;もえます;Dapat dibakar;Bab26;n2
+月。水。金;げつ。すい。きん;Senin.rabu.jumat;Bab26;n5
+置き場;おきば;Tempat pembuangan;Bab26;n3
+横;よこ;Sebelah;Bab26;n3
+瓶;びん;Botol;Bab26;n2
+缶;かん;Kaleng;Bab26;n2
+お湯;おゆ;Air panas;Bab26;n2
+ガス;ガス;Gas;Bab26;-
+連絡します;れんらくします;Menghubungi;Bab26;n2
+困ったなあ;こまったなあ;Payah ya. Gawat;Bab26;n3
+でんしメール;でんしメール;Email;Bab26;-
+宇宙;うちゅう;Luar angkasa;Bab26;-
+怖い;こわい;Takut;Bab26;n3
+宇宙船;うちゅうせん;Pesawat ruang angkasa;Bab26;-
+別の;べつの;Yang lain;Bab26;n4
+宇宙飛行士;うちゅうひこうし;Astronot;Bab26;-
+ごみの出し方;ごみのだしかた;Cara membuang sampah;Bab26;n4
+ごみ収集日のお知らせ;ごみしゅうしゅうびのおしらせ;Pemberitahuan hari pembuangan sampah;Bab26;n3
+可燃ごみ／燃えるごみ;かねんごみ／もえるごみ;Sampah yang dapat dibakar;Bab26;-
+収集日;しゅうしゅうび;Hari pengumpulan sampah;Bab26;n3
+紙くず;かみくず;Sampah kertas;Bab26;n4
+生ごみ;なまごみ;Sampah dapur;Bab26;n5
+不燃ごみ／燃えないごみ;ふねんごみ／もえないごみ;Sampah yang tidak dapat dibakar;Bab26;n2
+ガラス製品;ガラスせいひん;Barang-barang yang terbuat dari kaca;Bab26;-
+金属製台所用品;きんぞくせいだいだいどころようひん;Barang yang dipakai di dapur dan terbuat dari logam;Bab26;-
+粗大ごみ;そだいごみ;Sampah besar;Bab26;-
+家具;かぐ;Perabot rumah tangga;Bab26;n3
+家庭電化製品;かていでんかせいひん;Barang-barang elektronik rumah tangga;Bab26;-
+資源ごみ;しげんごみ;Sampah yang bisa didaur ulang;Bab26;-
+空き缶;あきかん;Kaleng bekas;Bab26;n2
+空きびん;あきびん;Botol bekas;Bab26;n4
+古新聞;ふるしんぶん;Koran bekas;Bab26;n4
+プラスチック製品;プラスチックせいひん;Barang-barang yang terbuat dari plastik;Bab26;-
+第 火曜日;だい３かようび;3 Hari selasa minggu ke 3;Bab26;-
+飼います;かいます;Memelihara (binatang);Bab27;-
+建てます;たてます;Membangun, mendirikan;Bab27;n4
+走ります;はしります （を）;Berlari;Bab27;n4
+取ります;とります （を）;Mengambil, cuti;Bab27;n3
+見えます;みえます （が）;Kelihatan;Bab27;n5
+聞こえます;きこえます （が）;Kedengaran;Bab27;n5
+できます;できます;Rampung, sudah jadi;Bab27;-
+開きます;ひらきます （を）;Membuka (kursus);Bab27;n4
+ペット;ペット;Binatang peliharaan;Bab27;-
+鳥;とり;Burung;Bab27;n4
+声;こえ;Suara;Bab27;n3
+波;なみ;Ombak;Bab27;n2
+花火;はなび;Kembang api;Bab27;n4
+景色;けしき;Pemandangan;Bab27;n3
+昼間;ひるま;Waktu siang;Bab27;n4
+昔;むかし;Masa lampau, dahulu kala;Bab27;n3
+道具;どうぐ;Perkakas, alat;Bab27;n3
+自動販売機;じどうはんばいき;Mesin penjual otomatis;Bab27;n2
+通信販売;つうしんはんばい;Penjualan memalui pos;Bab27;n2
+クリーニング;クリーニング;Pembersihan,pencucian;Bab27;-
+マンション;マンション;Kondominium, apartemen;Bab27;-
+台所;だいどころ;Dapur;Bab27;n3
+～教室;～きょうしつ;Kursus ~;Bab27;n4
+パーティールーム;パーティールーム;Tempat/ruang untuk pesta;Bab27;-
+～後;～ご;Sedudah, setelah;Bab27;n5
+～しか;～しか;Hanya;Bab27;-
+ほかの;ほかの;Lain;Bab27;-
+はっきり;はっきり;Dengan jelas;Bab27;-
+ほとんど;ほとんど;Hampir;Bab27;-
+日曜大工;にちようだいく;Bertukang dihari minggu;Bab27;n4
+本棚;ほんだな;Lemari buku;Bab27;-
+夢;ゆめ;Mimpi, impian;Bab27;n3
+いつか;いつか;Suatu saat, suatu hari,kapan-kapan;Bab27;-
+家;いえ;Rumah;Bab27;n4
+すばらしい;すばらしい;Sangat menarik,cemerlang,hebat;Bab27;-
+子供たち;こどもたち;Anak-anak;Bab27;n3
+大好きな;だいすきな;Suka sekali;Bab27;n3
+漫画;まんが;Komik,kartun;Bab27;-
+主人公;しゅじんこう;Peran utama, tokoh utama;Bab27;n4
+形;かたち;Bentuk;Bab27;n3
+ロボット;ロボット;Robot;Bab27;-
+不思議な;ふしぎな;Luar biasa, aneh;Bab27;n3
+ポケット;ポケット;Saku, kantong;Bab27;-
+例えば;たとえば;Misalnya, contohnya;Bab27;n3
+付けます;つけます;Menyematkan, memakai,memasang;Bab27;n3
+自由に;じゆうに;Dengan bebas;Bab27;n3
+空;そら;Langit;Bab27;n4
+飛びます;とびます;Terbang;Bab27;n3
+自分;じぶん;Sendiri;Bab27;-
+将来;しょうらい;Masa depan;Bab27;n2
+写真屋;しゃしんや;Tempat cuci cetak foto;Bab27;n4
+現像;げんぞう;Cuci film;Bab27;n2
+プリント;プリント;Cetak;Bab27;-
+焼き増し;やきまし;Cetak tambah;Bab27;n2
+引き伸ばし;ひきのばし;Cetak perbesar;Bab27;n2
+ネガ;ネガ;Klise;Bab27;-
+スライド;スライド;Slide;Bab27;-
+サービスサイズ;サービスサイズ;Ukuran servis;Bab27;-
+パノラマサイズ;パノラマサイズ;Ukuran panorama;Bab27;-
+クリーニング屋;クリーニングや;Binatu;Bab27;n4
+ドライクリーニング;ドライクリーニング;Dry cleaning;Bab27;-
+水洗い;みずあらい;Mencuci;Bab27;n3
+染み抜き;しみぬき;Menghilangkan noda;Bab27;-
+防水加工;ぼうすいかこう;Tahan air;Bab27;n2
+サイズ直し;サイズなおし;Perbaikan ukuran;Bab27;n3
+縮む;ちぢむ;Menyusut;Bab27;n2
+伸びる;のびる;Melebar;Bab27;n2
+コンビニ;コンビニ;Minimarket;Bab27;-
+宅配便の受付;たくはいびんのうけつけ;Jasa pengantaran barang/paket;Bab27;n3
+写真現像;しゃしんげんぞう;Cuci cetak foto;Bab27;n2
+公共料金振り込み;こうきょうりょうきんふりこみ;Pembayaran rekening listrik,air ledeng,telpon,tarif jasa-jasa pemerintah dll;Bab27;-
+コピー;コピー;Fotocopi;Bab27;-
+ファックス;ファックス;Faks;Bab27;-
+はがき、切手の販売;はがき、きってのはんばい;Penjualan kartu pos dan perangko;Bab27;n2
+コンサートチケットのはんばい;コンサートチケットのはんばい;Penjualan tiket konser;Bab27;-
+売れます;うれます （が）;Terjual;Bab28;n4
+踊ります;おどります;Menari;Bab28;n2
+かみます;かみます;Mengunyah, menggigit;Bab28;-
+選びます;えらびます;Memilih;Bab28;n3
+違います;ちがいます;Berbeda;Bab28;n3
+通います;かよいます （に）;Pulang pergi;Bab28;n4
+メモします;メモします;Membuat catatan;Bab28;-
+まじめな;まじめな;Rajin,sungguh-sungguh;Bab28;-
+熱心な;ねっしんな;Tekun;Bab28;n3
+優しい;やさしい;Lemah lembut, baik hati;Bab28;n3
+偉い;えらい;Hebat;Bab28;n3
+ちょうどいい;ちょうどいい;Pas benar, cocok betul;Bab28;-
+週間;しゅうかん;kebiasaan;Bab28;n4
+経験;けいけん;Pengalaman;Bab28;n3
+給料;きゅうりょう;Gaji;Bab28;n3
+ボーナス;ボーナス;Bonus;Bab28;-
+番組;ばんぐみ;Acara, program;Bab28;n3
+ドラマ;ドラマ;Drama;Bab28;-
+小説;しょうせつ;Roman,novel;Bab28;n3
+小説家;しょうせつか;Pengarang cerita novel;Bab28;n3
+歌手;かしゅ;Penyanyi;Bab28;n4
+管理人;かんりにん;Pengawas, penjaga;Bab28;n3
+息子;むすこ;Putra (sendiri);Bab28;n3
+息子さん;むすこさん;Putra (orang lain);Bab28;n3
+娘;むすめ;Putri sendiri;Bab28;n3
+娘さん;むすめさん;Putri (orang lain);Bab28;n3
+自分;じぶん;Sendiri;Bab28;-
+将来;しょうらい;Masa depan, hari depan;Bab28;n2
+しばらく;しばらく;Sementara,sementara waktu,sebentar;Bab28;-
+たいてい;たいてい;Biasanya, kebanyakan;Bab28;-
+それに;それに;Dan lagi;Bab28;-
+それで;それで;Jadi,lalu;Bab28;-
+ちょっとおねがいがある;ちょっとおねがいがある;Ada sedikit permintaan;Bab28;-
+ホームステイ;ホームステイ;Homestay;Bab28;-
+会話;かいわ;Percakapan;Bab28;n4
+おしゃべりします;おしゃべりします;Ngobrol;Bab28;-
+お知らせ;おしらせ;Pengumuman, pemberitahuan;Bab28;n4
+日にち;ひにち;Tanggal;Bab28;n5
+体育館;たいいくかん;Ruang/gedung olahraga;Bab28;n3
+無料;むりょう;Gratis;Bab28;-
+力;ちから;Kekuatan , tenaga;Bab28;n4
+人気;にんき;Popularitas;Bab28;n5
+形;かたち;Bentuk;Bab28;n3
+色;いろ;Warna;Bab28;n4
+味;あじ;Rasa;Bab28;n4
+ガム;ガム;Permen karet;Bab28;-
+品物;しなもの;Barang;Bab28;n4
+値段;ねだん;Harga;Bab28;n3
+開きます;あきます （が）;Terbuka;Bab29;n4
+閉まります;しまります;Tertutup;Bab29;n3
+つきます;つきます;Menyala;Bab29;-
+消えます;きえます;Mati,padam;Bab29;n3
+込みます;こみます;Ramai, macet;Bab29;n3
+すきます;すきます;Sepi;Bab29;-
+壊れます;こわれます;Rusak;Bab29;-
+割れます;われます;Pecah;Bab29;n3
+折れます;おれます;Patah;Bab29;n3
+破れます;やぶれます;Sobek;Bab29;n3
+汚れます;よごれます;Menjadi kotor;Bab29;n2
+付きます;つきます （が）;Ada;Bab29;n3
+外れます;はずれます （が）;Terbuka;Bab29;n5
+止まれます;とまります （が）;Berhenti;Bab29;n4
+間違えます;まちがえます;Berbuat salah, keliru;Bab29;n3
+落とします;おとします;Menjatuhkan, kehilangan;Bab29;n3
+掛かります;かかります （が）;Terkunci;Bab29;n3
+お皿;おさら;Piring;Bab29;n2
+おちゃわん;おちゃわん;Mangkuk;Bab29;-
+コップ;コップ;Gelas;Bab29;-
+ガラス;ガラス;Kaca;Bab29;-
+袋;ふくろ;Kantong;Bab29;n2
+財布;さいふ;Dompet;Bab29;n2
+枝;えだ;Cabang, ranting pohon;Bab29;n2
+駅員;えきいん;Pegawai stasiun;Bab29;n4
+この辺;このへん;Sekitar sini;Bab29;n2
+～辺;～へん;Sekitar ~;Bab29;n2
+このくらい;このくらい;Kira-kira sebesar ini;Bab29;-
+お先にどうぞ;おさきにどうぞ;Silakan duluan;Bab29;n5
+よかった;よかった;Syukurlah;Bab29;-
+忘れ物;わすれもの;Barang yang ketinggalan;Bab29;n3
+～側;～がわ;Sebelah~;Bab29;n3
+ポケット;ポケット;Saku;Bab29;-
+網棚;あみだな;Rak (dalam kereta api);Bab29;-
+確か;たしか;Kalau tidak salah, pasti;Bab29;n3
+地震;じしん;Gempa bumi;Bab29;n2
+壁;かべ;Dinding;Bab29;-
+針;はり;Jarum;Bab29;n2
+指します;さします;Menunjukkan;Bab29;n3
+駅前;えきまえ;Depan stasiun;Bab29;n4
+倒れます;たおれます;Jatuh,roboh;Bab29;n3
+西;にし;Barat;Bab29;n5
+方;ほう;Arah;Bab29;n4
+状態;じょうたい;Keadaan;Bab29;n3
+様子;ようす;Penampilan;Bab29;n3
+太ってる;ふとってる;Gemuk;Bab29;n3
+やせている;やせている;Kurus;Bab29;-
+膨らんでいる;ふくらんでいる;Gembung;Bab29;-
+穴が開いている;あながあいている;Berlubang;Bab29;-
+曲がっている;まがっている;Bengkok;Bab29;n3
+ゆがんでいる;ゆがんでいる;Mencong;Bab29;-
+へこんでいる;へこんでいる;Penyok;Bab29;-
+ねじれている;ねじれている;Berbelit;Bab29;-
+かけている;かけている;Pecah pinggirnya;Bab29;-
+ひびがはいっている;ひびがはいっている;Retak;Bab29;-
+腐っている;くさっている;Busuk;Bab29;-
+乾いている;かわいている;Kering;Bab29;n2
+ぬれている;ぬれている;Basah;Bab29;-
+凍っている;こおっている;Beku;Bab29;n2
+ここ;ここ;Disini;Bab03;-
+そこ;そこ;Disitu;Bab03;-
+あそこ;あそこ;Disana;Bab03;-
+どこ;どこ;Dimana?;Bab03;-
+こちら;こちら;Disini;Bab03;-
+そちら;そちら;Disitu;Bab03;-
+あちら;あちら;Disana;Bab03;-
+どちら;どちら;Dimana ?;Bab03;-
+教室;きょうしつ;Ruang kelas;Bab03;n4
+食堂;しょくどう;Ruang makan, Kantin, Rumah Makan;Bab03;n4
+事務所;じむしょ;Kantor, Ruang Guru;Bab03;n3
+会議室;かいぎしつ;Ruang rapat;Bab03;n3
+受付;うけつけ;Meja informasi;Bab03;n3
+ロビー;ロビー;Ruang tunggu, lobi;Bab03;-
+部屋;へや;Kamar;Bab03;n3
+お手洗い;おてあらい;Kamar kecil, WC;Bab03;n3
+トイレ;トイレ;Toilet;Bab03;-
+階段;かいだん;Tangga;Bab03;n2
+エレベーター;エレベーター;Lift;Bab03;-
+エスカレーター;エスカレーター;Eskalator, tangga berjalan;Bab03;-
+自動販売機;じどうはんばいき;Mesin jual otomatis;Bab03;n2
+電話;でんわ;Telepon;Bab03;n5
+お国;おくに;Negara;Bab03;n5
+会社;かいしゃ;Perusahaan;Bab03;n4
+家;うち;Rumah;Bab03;n4
+靴;くつ;Sepatu;Bab03;n3
+ネクタイ;ネクタイ;Dasi;Bab03;-
+ワイン;ワイン;Anggur (putih);Bab03;-
+売り場;うりば;Tempat penjualan;Bab03;n4
+地下;ちか;Bawah tanah , basement;Bab03;n4
+～階;～かい;lantai～/ tingkat～;Bab03;n2
+何階;なんがい;Lantai berapa?;Bab03;n2
+～円;～えん;～yen;Bab03;n5
+いくら;いくら;Berapa?;Bab03;-
+百;ひゃく;Seratus;Bab03;n5
+千;せん;Seribu;Bab03;n5
+万;まん;Puluh ribu;Bab03;n5
+すみません;すみません;Maaf / Permisi;Bab03;-
+どうも;どうも;Terima kasih;Bab03;-
+いらっしゃいませ;いらっしゃいませ;Selamat datang / Bisa Saya Bantu?;Bab03;-
+見せてください;みせてください;Tolong perlihatkan;Bab03;n5
+じゃ;じゃ;Kalau begitu;Bab03;-
+～をください;～をください;Tolong ～;Bab03;-
+イタリア;イタリア;Italia;Bab03;-
+スイス;スイス;Swis;Bab03;-
+フランス;フランス;Perancis;Bab03;-
+ジャカルタ;ジャカルタ;Jakarta;Bab03;-
+バンコク;バンコク;Bangkok;Bab03;-
+ベルリン;ベルリン;Berlin;Bab03;-
+屋上;おくじょう;Lantai atas;Bab03extra;n4
+レストラン;レストラン;Restoran;Bab03extra;-
+遊園地;ゆうえんち;Tempat hiburan;Bab03extra;n3
+催し物会場;もよおしものかいじょう;Tempat pertunjukan;Bab03extra;-
+眼鏡;めがね;Kacamata;Bab03extra;-
+スポーツ用品;スポーツようひん;Peralatan olahraga;Bab03extra;n4
+旅行用品;りょこうようひん;Peralatan wisata / berpergian;Bab03extra;n4
+子供の服;こどものふく;Pakaian anak;Bab03extra;n3
+おもちゃ;おもちゃ;Mainan;Bab03extra;-
+文房具;ぶんぼうぐ;Alat tulis;Bab03extra;-
+家具;かぐ;Perlengkapan rumah;Bab03extra;n3
+食器;しょっき;Peralatan makan;Bab03extra;-
+電化製品;でんかせいひん;Barang elektronik;Bab03extra;-
+紳士服;しんしふく;Pakaian pria;Bab03extra;-
+婦人服;ふじんふく;Pakaian wanita;Bab03extra;n3
+アクセサリー;アクセサリー;Perhiasan, aksesoris;Bab03extra;-
+化粧品;けしょうひん;Kosmetik;Bab03extra;-
+食品;しょくひん;Makanan;Bab03extra;n4
+駐車場;ちゅうしゃじょう;tempat parkir;Bab03extra;n2
+はります;はります;Menempelkan;Bab30;-
+掛けます;かけます;Menggantungkan;Bab30;n3
+飾ります;かざります;Menghias,mendekor;Bab30;-
+並べます;ならべます;Menjajarkan, meletakkan (secara teratur);Bab30;n2
+植えます;うえます;Menanam;Bab30;n2
+戻します;もどします;Mengembalikan;Bab30;n3
+まとめます;まとめます;Menyusun;Bab30;-
+片づけます;かたづけます;Membereskan;Bab30;n2
+しまいます;しまいます;Memasukkan, menyimpan;Bab30;-
+決めます;きめます;Menentukan;Bab30;n3
+知らせます;しらせます;Memberitahukan, mengumumkan;Bab30;n4
+相談します;そうだんします;Berunding, membicarakan;Bab30;n3
+予習します;よしゅうします;Mempersiapkan pelajaran;Bab30;n3
+復習します;ふくしゅうします;Mengulang pelajaran kembali;Bab30;n2
+そのままにします;そのままにします;Membiarkan begitu saja;Bab30;-
+お子さん;おこさん;Anak (orang lain);Bab30;n5
+授業;じゅぎょう;Pelajaran di sekolah;Bab30;-
+講義;こうぎ;Kuliah;Bab30;-
+ミーティング;ミーティング;Rapat, pertemuan;Bab30;-
+予定;よてい;Acara, rencana;Bab30;n3
+お知らせ;おしらせ;Pemberitahuan, berita;Bab30;n4
+案内書;あんないしょ;Buku/lembaran panduan;Bab30;-
+カレンダー;カレンダー;Kalender;Bab30;-
+ポスター;ポスター;Poster;Bab30;-
+ごみ箱;ごみばこ;Tempat sampah;Bab30;n3
+人形;にんぎょう;Boneka;Bab30;n3
+花瓶;かびん;Jambangan, vas bunga;Bab30;n2
+鏡;かがみ;Cermin, kaca;Bab30;-
+引き出し;ひきだし;Laci;Bab30;n3
+玄関;げんかん;Pintu masuk, ruang muka;Bab30;-
+廊下;ろうか;Lorong, koridor, gang;Bab30;-
+壁;かべ;Dinding;Bab30;-
+池;いけ;Kolam;Bab30;n2
+交番;こうばん;Pos polisi;Bab30;n3
+元の所;もとのところ;Tempat semula;Bab30;n3
+周り;まわり;Sekitar, keliling;Bab30;n2
+真ん中;まんなか;Di tengah-tengah;Bab30;n4
+隅;すみ;Pojok,sudut;Bab30;n2
+まだ（＋）;まだ（＋）;Masih;Bab30;-
+～ほど;～ほど;Kira-kira;Bab30;-
+予定表;よていひょう;Daftar/rencana;Bab30;n3
+ご苦労様です;ごくろうさまです;Terima kasih atas jerih payah anda (diucapkan atasan kepada bawahan);Bab30;n3
+希望;きぼう;Keinginan, permintaan;Bab30;n2
+なにかごきぼうがありますか;なにかごきぼうがありますか;Apakah ada sesuatu keinginan?;Bab30;-
+ミュージカル;ミュージカル;Drama musik;Bab30;-
+丸い;まるい;Bulat;Bab30;n2
+月;つき;Bulan;Bab30;n5
+地球;ちきゅう;Bumi;Bab30;n3
+うれしい;うれしい;Senang, gembira;Bab30;-
+嫌な;いやな;Tidak suka;Bab30;-
+すると;すると;Jadi,lalu;Bab30;-
+目が覚めます;めがさめます;Terbangun;Bab30;n3
+上から 段目;うえから２だんめ;2 Ke 2 dari atas;Bab30;n3
+奥;おく;Bagian dalam;Bab30;n2
+手前;てまえ;Bagian depan;Bab30;n4
+前から２列目;まえから２れつめ;Baris ke 2 dari depan (barisan orang);Bab30;n3
+斜め後ろ;ななめうしろ;Samping belakang;Bab30;-
+斜め前;ななめまえ;Samping depan;Bab30;-
+そば そば;そば そば;Samping,sebelah;Bab30;-
+位置;いち;Letak , arah;Bab30;n3
+２行目;２ぎょうめ;Baris ke 2 (buku);Bab30;n4
+始まります;はじまります （が）;Mulai, dimulai;Bab31;n4
+続けます;つづけます;Meneruskan, melanjutkan;Bab31;n3
+見つけます;みつけます;Menemukan;Bab31;n5
+受けます;うけます （を）;Menempuh , mengikuti (ujian);Bab31;n3
+入学します;にゅうがくします （に）;Masuk (universitas);Bab31;n5
+卒業します;そつぎょうします （を）;Lulus (universitas);Bab31;n2
+出席します;しゅっせきします （に）;Menghadiri;Bab31;n3
+休憩します;きゅうけいします;Beristirahat, istirahat sebentar;Bab31;-
+連休;れんきゅう;Hari-hari libur yang berurutan;Bab31;n3
+作文;さくぶん;Karangan;Bab31;n4
+展覧会;てんらんかい;Pameran;Bab31;-
+結婚式;けっこんしき;Upacara perkawinan;Bab31;-
+お葬式;おそうしき;Upacara kematian;Bab31;-
+式;しき;Upacara;Bab31;n3
+本社;ほんしゃ;Kantor pusat;Bab31;n4
+支店;してん;Kantor cabang;Bab31;n3
+教会;きょうかい;Gereja;Bab31;n4
+大学院;だいがくいん;Pasca sarjana;Bab31;n4
+動物園;どうぶつえん;Kebun binatang;Bab31;n3
+温泉;おんせん;Sumber air panas, pemandian air panas;Bab31;n2
+お客;おきゃく;Tamu, langganan;Bab31;n3
+だれか;だれか;Seseorang;Bab31;-
+方;～のほう ～の;(tempat duduk) bagian;Bab31;n4
+ずっと;ずっと;Terus menerus, selamanya;Bab31;-
+残ります;のこります;Tinggal, sisa;Bab31;n3
+月に;つきに;Sebulan;Bab31;n5
+普通の;ふつうの;Umum, biasa;Bab31;n2
+インターネット;インターネット;Internet;Bab31;-
+村;むら;Kampung, desa;Bab31;n2
+映画館;えいがかん;Gedung bioskop;Bab31;n4
+空;そら;Langit;Bab31;n4
+閉じます;とじます;Menutup, memejamkan;Bab31;n3
+都会;とかい;Kota;Bab31;n3
+子供たち;こどもたち;Anak-anak;Bab31;n3
+自由に;じゆうに;Dengan bebas;Bab31;n3
+世界中;せかいじゅう;Seluruh dunia;Bab31;n4
+集まります;あつまります;Berkumpul;Bab31;n4
+美しい;うつくしい;Indah;Bab31;n3
+自然;しぜん;Alam;Bab31;n3
+すばらしさ;すばらしさ;Kebaikan,kenijakan;Bab31;-
+気が付きます;きがつきます;Menyadari;Bab31;n3
+専門;せんもん;Bidang keilmuan;Bab31;n2
+医学;いがく;Kedokteran;Bab31;n4
+薬学;やくがく;Farmasi;Bab31;n3
+化学;かがく;Kimia;Bab31;n3
+生化学;せいかがく;Biokimia;Bab31;n3
+生物学;せいぶつがく;Biologi;Bab31;n4
+農学;のうがく;Pertanian;Bab31;n2
+地学;ちがく;Geologi;Bab31;n4
+地理学;ちりがく;Geografi;Bab31;n4
+数学;すうがく;Matematika;Bab31;n3
+物理学;ぶつりがく;Fisika;Bab31;n4
+工学;こうがく;Teknik;Bab31;n4
+土木工学;どぼくこうがく;Teknik sipil;Bab31;n4
+電子工学;でんしこうがく;Elektronika;Bab31;n4
+電気工学;でんきこうがく;Teknik listrik;Bab31;n4
+機械工学;きかいこうがく;Teknik mesin;Bab31;n2
+コンピューターこうがく;コンピューターこうがく;Informatika;Bab31;-
+遺伝子工学;いでんしこうがく;Genetika;Bab31;-
+建築学;けんちくがく;Arsitektur;Bab31;n2
+天文学;てんもんがく;Astronomi;Bab31;n4
+環境科学;かんきょうかがく;Ilmu tata lingkungan;Bab31;-
+政治学;せいじがく;Ilmu politik;Bab31;n3
+国際関係学;こくさいかんけいがく;Hubungan internasional;Bab31;n3
+法律学;ほうりつがく;Hukum;Bab31;n3
+経済学;けいざいがく;Ekonomi;Bab31;n3
+経営学;けいえいがく;Manajemen bisnis;Bab31;n2
+社会学;しゃかいがく;Sosiologi;Bab31;n4
+教育学;きょういくがく;Kependidikan;Bab31;n3
+文学;ぶんがく;Sastra;Bab31;n4
+言語学;げんごがく;Linguistik;Bab31;n4
+心理学;しんりがく;Psikologi;Bab31;n4
+哲学;てつがく;Filsafat;Bab31;-
+宗教学;しゅうきょうがく;Teologi;Bab31;-
+芸術;げいじゅつ;Seni;Bab31;n2
+美術;びじゅつ;Seni murni;Bab31;n3
+音楽;おんがく;Seni musik;Bab31;n4
+体育学;たいいくがく;Pendidikan jasmani;Bab31;n3
+運動します;うんどうします;Berolahraga;Bab32;n4
+成功します;せいこうします;Berhasil;Bab32;-
+失敗します;しっぱいします （に）;Mengalami kegagalan /gagal;Bab32;n3
+合格します;ごうかくします （に）;Lulus;Bab32;n3
+戻ります;もどります;Kembali;Bab32;n3
+やみます （が）;やみます （が）;Berhenti (hujan);Bab32;-
+晴れます;はれます;Menjadi cerah;Bab32;n3
+曇ります;くもります;Menjadi mendung;Bab32;n2
+吹きます;ふきます （が）;Bertiup(angin);Bab32;n3
+治ります;なおります （が）;Sembuh (dari penyakit);Bab32;n3
+直ります;なおります （が）;Diperbaiki (mesin);Bab32;n3
+続きます;つづきます （が）;Berlanjut (demam);Bab32;n3
+ひきます （を）;ひきます （を）;Masuk angin;Bab32;-
+冷やします;ひやします;Mendinginkan;Bab32;n3
+心配な;しんぱいな;Khawatir;Bab32;n3
+十分な;じゅうぶんな;Cukup;Bab32;-
+おかしい;おかしい;Lucu, aneh;Bab32;-
+うるさい;うるさい;Berisik, cerewet;Bab32;-
+やけど （を）します;やけど （を）します;Luka bakar;Bab32;-
+けが （を）します;けが （を）します;Luka,cedera;Bab32;-
+せき （が）でます;せき （が）でます;Batuk;Bab32;-
+インフルエンザ;インフルエンザ;Influenza;Bab32;-
+空;そら;Langit;Bab32;n4
+太陽;たいよう;Matahari;Bab32;n3
+星;ほし;Bintang;Bab32;n2
+月;つき;Bulan;Bab32;n5
+風;かぜ;Angin;Bab32;n4
+北;きた;Utara;Bab32;n5
+南;みなみ;Selatan;Bab32;n5
+西;にし;Barat;Bab32;n5
+東;ひがし;Timur;Bab32;n5
+水道;すいどう;Air ledeng;Bab32;n4
+エンジン;エンジン;Mesin,motor;Bab32;-
+チーム;チーム;Tim;Bab32;-
+今夜;こんや;Malam ini;Bab32;n4
+夕方;ゆうがた;Sore;Bab32;n4
+まえ;まえ;Sebelumnya;Bab32;-
+遅く;おそく;Malam sekali/telat;Bab32;n3
+こんな;こんな;Seperti ini;Bab32;-
+そんな;そんな;Seperti itu;Bab32;-
+あんな;あんな;Seperti itu;Bab32;-
+もしかしたら;もしかしたら;Kemungkinannya;Bab32;-
+それはいけませんね;それはいけませんね;Kasihan ya.;Bab32;-
+元気;げんき;Sehat;Bab32;n4
+胃;い;Lambung;Bab32;n2
+働きすぎ;はたらきすぎ;Terlalu banyak bekerja;Bab32;n3
+ストレス;ストレス;Stress;Bab32;-
+無理をします;むりをします;Dipaksakan;Bab32;-
+ゆっくりします;ゆっくりします;Beristirahat;Bab32;-
+星占い;ほしうらない;Primbon, ramalan zodiak;Bab32;n2
+牡牛座;おうしざ;Bintang taurus;Bab32;-
+困ります;こまります;Mengalami kesulitan;Bab32;n3
+宝くじ;たからくじ;Lotre;Bab32;n2
+当たります;あたります （が）;Menang (lotre) , nembus (lotre);Bab32;n3
+健康;けんこう;Kesehatan;Bab32;-
+恋愛;れんあい;Percintaan;Bab32;n2
+お金持ち;おかねもち;Orang kaya;Bab32;n4
+天気予報;てんきよほう;Prakiraan cuaca;Bab32;n3
+降水確率;こうすいかくりつ;Kemungkinan hujan;Bab32;-
+最高気温;さいこうきおん;Suhu tertinggi;Bab32;n2
+最低気温;さいていきおん;Suhu terendah;Bab32;n2
+晴れのち曇り;はれのちくもり;Cerah kemudian berawan;Bab32;n2
+曇り所によって雨;くもりところによってあめ;Berawan dan hujan di beberapa tempat;Bab32;n2
+地方;ちほう;Wilayah;Bab32;n4
+にわか雨／夕立;にわかあめ／ゆうだち;Hujan mendadak;Bab32;n4
+台風;たいふう;Topan;Bab32;n4
+虹;にじ;Pelangi;Bab32;-
+湿度;しつど;Kelembaban;Bab32;n2
+蒸し暑い;むしあつい;Panas lembab;Bab32;-
+さわやかな;さわやかな;Segar;Bab32;-
+雷;かみなり;Petir;Bab32;-
+逃げます;にげます;Melarikan diri;Bab33;n3
+騒ぎます;さわぎます;Berbuat gaduh, ribut;Bab33;-
+あきらめます;あきらめます;Menerima nasib, putus asa;Bab33;-
+投げます;なげます;Melempar;Bab33;n3
+守ります;まもります;Mematuhi;Bab33;n3
+上げます;あげます;Menaikkan;Bab33;n5
+下げます;さげます;Menurunkan;Bab33;n5
+伝えます;つたえます;Menyampaikan;Bab33;n3
+注意します;ちゅういします （に）;Memperhatikan;Bab33;n4
+外します;はずします （せきを）;Tidak ada (ditempat);Bab33;n5
+だめな;だめな;Jangan,tidak boleh,tidak bisa;Bab33;-
+席;せき;Tempat duduk;Bab33;n3
+ファイト;ファイト;Berjuang;Bab33;-
+マーク;マーク;Tanda;Bab33;-
+ボール;ボール;Bola;Bab33;-
+洗濯機;せんたくき;Mesin cuci;Bab33;n2
+～機;～き;Mesin ～;Bab33;n3
+規則;きそく;Peraturan;Bab33;n2
+使用禁止;しようきんし;Dilarang pakai;Bab33;n2
+立入禁止;たちいりきんし;Dilarang masuk;Bab33;n2
+入口;いりぐち;Pintu masuk;Bab33;n4
+出口;でぐち;Pintu keluar;Bab33;n4
+非常口;ひじょうぐち;Pintu darurat;Bab33;n3
+無料;むりょう;Gratis;Bab33;-
+本日休業;ほんじつきゅうぎょう;Hari ini tutup;Bab33;n4
+営業中;えいぎょうちゅう;Buka;Bab33;n2
+使用中;しようちゅう;Sedang dipakai;Bab33;n4
+～中;～ちゅう;Sedang～/dalam ～;Bab33;n5
+どういう～;どういう～;Apa ～/ bagaimana ～;Bab33;-
+もう;もう;Tidak ～lagi (diikuti dengan bentuk negatif);Bab33;-
+あと～;あと～;Tinggal ～lagi;Bab33;-
+駐車違反;ちゅうしゃいはん;Pelanggaran parkir;Bab33;n2
+そりゃあ;そりゃあ;Hal itu;Bab33;-
+～以内;～いない;Dalam ～;Bab33;n3
+警察;けいさつ;Polisi;Bab33;n3
+罰金;ばっきん;Denda;Bab33;-
+電報;でんぽう;Telegram;Bab33;n3
+人々;ひとびと;Orang-orang;Bab33;n5
+急用;きゅうよう;Urusan/tugas mendadak;Bab33;n4
+打ちます;うちます （を）;Mengirim (telegram);Bab33;n3
+電報代;でんぽうだい;Biaya telegram;Bab33;n3
+できるだけ;できるだけ;Sebisa mungkin / sedapat mungkin;Bab33;-
+短く;みじかく;Dengan pendek/singkat;Bab33;n2
+また;また;Dan;Bab33;-
+例えば;たとえば;Misalnya,contohnya;Bab33;n3
+キトク;キトク;Yang gawat, koma;Bab33;-
+重い病気;おもいびょうき;Sakit keras/parah;Bab33;n4
+明日;あす;Besok;Bab33;n4
+留守;るす;Tidak ada di rumah;Bab33;n3
+留守番;るすばん;Penjaga rumah (ketika yang punya rumah bepergian);Bab33;n3
+お祝い;おいわい;Perayaan;Bab33;n2
+亡くなります;なくなります;Meninggal;Bab33;n3
+悲しみ;かなしみ;Kesedihan,rasa sedih;Bab33;n3
+利用します;りようします;Memakai,menggunakan;Bab33;n3
+標識;ひょうしき;Petunjuk;Bab33;-
+準備中;じゅんびちゅう;Dalam persiapan;Bab33;n2
+閉店;へいてん;Tutup;Bab33;n3
+定休日;ていきゅうび;Hari libur tetap;Bab33;n3
+化粧室;けしょうしつ;Kamar kecil;Bab33;-
+禁煙席;きんえんせき;Tempat duduk bebas rokok;Bab33;n2
+予約席;よやくせき;Tempat duduk yang telah dipesan;Bab33;n3
+火気厳禁;かきげんきん;Mudah terbakar, larangan menyalakan api;Bab33;-
+割れ物注意;われものちゅうい;;Bab33;n3
+運転初心者注意;うんてんしょしんしゃちゅうい;Tanda bagi pengemudi yang baru mendapatkan SIM;Bab33;n3
+工事中;こうじちゅう;Dalam perbaikan;Bab33;n4
+塩素系漂白剤不可;えんそけいひょうはくざいふか;Jangan gunakan pemutih;Bab33;-
+手洗い;てあらい;Cuci dengan tangan;Bab33;n3
+アイロン（低温）;アイロン（ていおん）;Harus disetrika dalam suhu rendah;Bab33;n2
+ドライクリーニング;ドライクリーニング;Hanya untuk di dry cleaning;Bab33;-
+磨きます;みがきます （を）;Menggosok (gigi);Bab34;n2
+組み立てます;くみたてます;Merakit;Bab34;n3
+折ります;おります;Melipat,mematahkan;Bab34;n3
+気がつきます;きがつきます （に）;Menyadari;Bab34;n5
+つけます;つけます;Membubuhi;Bab34;-
+見つかります;みつかります （が）;Ketemu,ditemukan;Bab34;n5
+します （を）;します （を）;Memakai (aksesoris);Bab34;-
+質問します;しつもんします;Bertanya;Bab34;n4
+細い;ほそい;Tipis;Bab34;n2
+太い;ふとい;Tebal;Bab34;n3
+盆踊り;ぼんおどり;Tarian pada festifal bon;Bab34;-
+スポーツクラブ;スポーツクラブ;Klup olahraga;Bab34;-
+家具;かぐ;Perabot rumah tangga;Bab34;n3
+キー;キー;Tombol jari, tuts;Bab34;-
+シートベルト;シートベルト;Sabuk pengaman;Bab34;-
+説明書;せつめいしょ;Lembaran/buku petunjuk;Bab34;n3
+図;ず;Gambar;Bab34;n4
+線;せん;Garis;Bab34;n2
+矢印;やじるし;Tanda panah;Bab34;-
+黒;くろ;Hitam;Bab34;n4
+白;しろ;Putih;Bab34;n5
+赤;あか;Merah;Bab34;n4
+青;あお;Biru;Bab34;n4
+紺;こん;Biru tua;Bab34;-
+黄色;きいろ;Kuning;Bab34;n2
+茶色;ちゃいろ;Coklat;Bab34;n4
+しょうゆ;しょうゆ;Kecap asin jepang;Bab34;-
+ソース;ソース;Saus;Bab34;-
+～か～;～か～;Atau;Bab34;-
+昨夜;ゆうべ;Tadi malam;Bab34;n3
+さっき;さっき;Tadi;Bab34;-
+茶道;さどう;Upacara minum teh;Bab34;n4
+お茶をたてます;おちゃをたてます;Membuat teh jepang;Bab34;n4
+先に;さきに;Terlebih dahulu, duluan;Bab34;n5
+載せます;のせます;Menaruh;Bab34;-
+これでいいですか;これでいいですか;Ini sudah benarkan ?;Bab34;-
+苦い;にがい;Pahit;Bab34;n3
+親子どんぶり;おやこどんぶり;Nasi yang atasanya daging ayam dan telur;Bab34;n4
+材料;ざいりょう;Bahan,material;Bab34;n2
+～分;～ぶん;Bagian, jatah (untuk kwantitas);Bab34;-
+鶏肉;とりにく;Daging ayam;Bab34;-
+～グラム;～グラム;Gram;Bab34;-
+～個;～こ;～Buah (benda yang kecil);Bab34;n2
+たまねぎ;たまねぎ;Bawang bombai;Bab34;-
+よんぶんのいち;よんぶんのいち;Seperempat, satu per empat;Bab34;-
+調味料;ちょうみりょう;Bumbu masak;Bab34;n3
+なべ;なべ;Panci;Bab34;-
+火;ひ;Api;Bab34;n5
+ひにかけます;ひにかけます;Meletakkan di atas api;Bab34;-
+どんぶり;どんぶり;Mangkok besar;Bab34;-
+煮る;にる;Merebus;Bab34;-
+焼く;やく;Memanggang, membakar;Bab34;n2
+揚げる;あげる;Menggoreng;Bab34;-
+いためる;いためる;Menumis;Bab34;-
+ゆでる;ゆでる;Merebus;Bab34;-
+蒸す;むす;Mengukus;Bab34;n2
+炊く;たく;Menanak (nasi);Bab34;-
+むく;むく;Mengupas;Bab34;-
+刻む;きざむ;Mencincang;Bab34;n3
+かき混ぜる;かきまぜる;Mengaduk;Bab34;n2
+酢;す;Cuka;Bab34;-
+みそ;みそ;Miso (tauco jepang);Bab34;-
+油;あぶら;Minyak;Bab34;n2
+マヨネーズ;マヨネーズ;Mayones;Bab34;-
+ケチャップ;ケチャップ;Saus tomat;Bab34;-
+からし（マスタード）;からし（マスタード）;Mustard;Bab34;-
+こしょう;こしょう;Merica;Bab34;-
+とうがらし;とうがらし;Cabe merah;Bab34;-
+わさび;わさび;Wasabi;Bab34;-
+しょうが;しょうが;Jahe;Bab34;-
+カレー粉;カレーこ;Tepung kari;Bab34;n2
+台所用品;だいどころようひん;Perabot dapur;Bab34;n3
+やかん;やかん;Ceret, teko;Bab34;-
+ふた;ふた;Tutup gelas,panci,dll;Bab34;-
+おたま;おたま;Sendok sayur;Bab34;-
+まな板;まないた;Talenan;Bab34;n2
+包丁;ほうちょう;Pisau dapur;Bab34;-
+ふきん;ふきん;Kain lap dapur;Bab34;-
+フライパン;フライパン;Wajan;Bab34;-
+でんしオープンレンジ;でんしオープンレンジ;Oven microwave;Bab34;-
+炊飯器;すいはんき;Rice cooker;Bab34;-
+しゃもじ;しゃもじ;Sendok nasi;Bab34;-
+缶切り;かんきり;Pembuka kaleng;Bab34;n2
+栓抜き;せんぬき;Pembuka botol;Bab34;-
+ざる;ざる;Saringan bambu;Bab34;-
+ポット;ポット;Termos;Bab34;-
+ガス台;ガスだい;Kompor gas;Bab34;n4
+流し台;ながしだい;Bak untuk cuci piring;Bab34;n3
+換気扇;かんきせん;Kipas ventilasi;Bab34;-
+咲きます;さきます （が）;Mekar (bunga);Bab35;n2
+変わります;かわります （が）;Berubah;Bab35;n3
+困ります;こまります;Mengalami kesulitan;Bab35;n3
+付けます;つけます;Memberi tanda;Bab35;n3
+拾います;ひろいます;Memungut,mengambil;Bab35;n2
+かかります （が）;かかります （が）;Ada (telpon);Bab35;-
+楽な;らくな;Mudah,ringan;Bab35;n4
+正しい;ただしい;Betul,benar;Bab35;n4
+珍しい;めずらしい;Aneh,langka;Bab35;n2
+方;かた;Orang;Bab35;n4
+向こう;むこう;Di sebelah sana;Bab35;n3
+島;しま;Pulau;Bab35;n2
+村;むら;Kampung,desa;Bab35;n2
+港;みなと;Pelabuhan;Bab35;n3
+近所;きんじょ;Tetangga;Bab35;n3
+屋上;おくじょう;Atap,lantai puncak;Bab35;n4
+海外;かいがい;Luar negri;Bab35;n4
+山登り;やまのぼり;Pendakian gunung;Bab35;n3
+ハイキング;ハイキング;Hiking, piknik;Bab35;-
+機会;きかい;Kesempatan;Bab35;n3
+許可;きょか;Ijin;Bab35;-
+丸;まる;Lingkaran;Bab35;n2
+操作;そうさ;Pengoperasian;Bab35;-
+方法;ほうほう;Cara;Bab35;n3
+設備;せつび;Peralatan, fasilitas;Bab35;n3
+カーテン;カーテン;Korden;Bab35;-
+ひも;ひも;Tali;Bab35;-
+ふた;ふた;Penutup,tutup;Bab35;-
+葉;は;Daun;Bab35;n3
+曲;きょく;Lagu,musik;Bab35;n3
+楽しみ;たのしみ;Kesenangan;Bab35;n4
+もっと;もっと;Lebih;Bab35;-
+初めに;はじめに;Awal, pertama-tama;Bab35;n3
+これでおわります;これでおわります;Kita akhiri sampai di sini;Bab35;-
+アフリカ;アフリカ;Afrika;Bab35;-
+それなら;それなら;Kalau begitu;Bab35;-
+夜行バス;やこうバス;Bis malam;Bab35;n4
+旅行社;りょこうしゃ;Agen perjalanan;Bab35;n4
+詳しい;くわしい;Terperinci,detail;Bab35;-
+スキー場;スキーじょう;Tempat bermain ski;Bab35;n4
+朱;しゅ;Warna merah terang;Bab35;-
+交わります;まじわります;Bergaul;Bab35;n3
+ことわざ;ことわざ;Peribahasa;Bab35;-
+仲よくします;なかよくします;Hidup rukun , hubungannya akrab;Bab35;n2
+必要な;ひつような;Perlu;Bab35;n3
+届きます;とどきます （が）;Sampai (barang);Bab36;n2
+出ます;でます （に）;Ikut (pertandingan);Bab36;n5
+打ちます;うちます （を）;Mengetik;Bab36;n3
+貯金します;ちょきんします;Menabung;Bab36;n2
+太ります;ふとります;Menjadi gemuk;Bab36;n3
+やせます;やせます;Menjadi kurus;Bab36;-
+過ぎます;すぎます （７じを）;Berlalu,melewati (pukul 7);Bab36;n3
+慣れます;なれます （に）;Terbiasa;Bab36;n3
+硬い;かたい;Keras;Bab36;n2
+軟らかい;やわらかい;Lunak;Bab36;n2
+電子～;でんし～;- elektronik;Bab36;n5
+携帯～;けいたい～;- yang mudah dibawa;Bab36;-
+工場;こうじょう;Pabrik;Bab36;n4
+健康;けんこう;Kesehatan;Bab36;-
+剣道;けんどう;Kendo;Bab36;-
+毎週;まいしゅう;Setiap minggu;Bab36;n4
+毎月;まいつき;Setiap bulan;Bab36;n5
+毎年;まいとし／まいねん;Setiap tahun;Bab36;n5
+やっと;やっと;Akhirnya;Bab36;-
+かなり;かなり;Lumayan, agak;Bab36;-
+必ず;かならず;Selalu,pasti;Bab36;n3
+絶対に;ぜったいに;Sama sekali,bagaimanapun (diikuti bentuk negatif);Bab36;n3
+上手に;じょうずに;Dengan pandai;Bab36;n4
+できるだけ;できるだけ;Sedapat mungkin, sebisa mungkin,sebisanya;Bab36;-
+このごろ;このごろ;Akhir-akhir ini;Bab36;-
+～ずつ;～ずつ;- demi -;Bab36;-
+そのほうが～;そのほうが～;Yang itu lebih -;Bab36;-
+お客様;おきゃくさま;Langganan, tamu;Bab36;n3
+特別な;とくべつな;Istimewa, khusus;Bab36;n4
+していらっしゃいます;していらっしゃいます;Sedang melakukan (hormat);Bab36;-
+水泳;すいえい;Renang;Bab36;n3
+～とか～とか;～とか～とか;Atau,atau dan lain-lain;Bab36;-
+タンゴ;タンゴ;Tango(tarian argentina);Bab36;-
+チャレンジします;チャレンジします;Menantang;Bab36;-
+気持ち;きもち;Keinginan,perasaan;Bab36;n4
+乗り物;のりもの;Kendaraan;Bab36;n3
+歴史;れきし;Sejarah;Bab36;n2
+～世紀;～せいき;Abad;Bab36;-
+遠く;とおく;Jauh, tempat yang jauh;Bab36;n3
+汽車;きしゃ;Kereta api;Bab36;-
+汽船;きせん;Kapal api;Bab36;-
+大勢の～;おおぜいの～;Banyak (orang);Bab36;n2
+運びます;はこびます;Membawa, mengangkut;Bab36;n4
+飛びます;とびます;Terbang;Bab36;n3
+安全な;あんぜんな;Aman;Bab36;n3
+宇宙;うちゅう;Luar angkasa;Bab36;-
+地球;ちきゅう;Bumi;Bab36;n3
+きそくただしいせいかつをする;きそくただしいせいかつをする;Hidup secara teratur;Bab36;-
+はやね、はやおきをする;はやね、はやおきをする;Cepat tidur dan bangun lebih awal;Bab36;-
+うんどうする;うんどうする;Berolahraga;Bab36;-
+よくあるく;よくあるく;Banyak berjalan kaki;Bab36;-
+すききらいがない;すききらいがない;Tidak pilih-pilih makanan;Bab36;-
+えいようのバランスをかんがえて たべる;えいようのバランスをかんがえて たべる;Makan dengan mempertimbangkan keseimbangan gizi;Bab36;-
+けんこうしだんをうける;けんこうしだんをうける;Memeriksa kesehatan;Bab36;-
+よふかしをする;よふかしをする;Sering bergadang;Bab36;-
+あまりうんどうしない;あまりうんどうしない;Kurang berolahraga;Bab36;-
+すききらいがある;すききらいがある;Pilih-pilih makanan;Bab36;-
+よくインスタントしょくひんを たべる;よくインスタントしょくひんを たべる;Sering mengkonsumsi makanan instan;Bab36;-
+がいしょくがおおい;がいしょくがおおい;Sering makan di luar;Bab36;-
+たばこをすう;たばこをすう;Banyak merokok;Bab36;-
+よくおさけをのむ;よくおさけをのむ;Sering minum-minuman keras;Bab36;-
+栄養素;えいようそ;Nutrisi;Bab36;-
+含む;ふくむ;mengandung;Bab36;n2
+炭水化物;たんすいかぶつ;Karbohidrat;Bab36;n2
+いも;いも;Lemak;Bab36;-
+脂肪;しぼう;Umbi-umbian;Bab36;-
+とうふ;とうふ;Tahu;Bab36;-
+たんぱく質;たんぱくしつ;Protein;Bab36;n4
+豆;まめ;Kacang-kacangan;Bab36;-
+のり;のり;Rumput laut kering;Bab36;-
+カルシウム;カルシウム;Kalsium;Bab36;-
+海草;かいそう;Rumput laut basah;Bab36;n3
+ビタミン;ビタミン;Vitamin;Bab36;-
+褒めます;ほめます;Memuji;Bab37;-
+しかります;しかります;Memarahi;Bab37;-
+誘います;さそいます;Mengajak;Bab37;-
+起こします;おこします;Membangunkan (orang);Bab37;n4
+招待します;しょうたいします;Mengundang;Bab37;n3
+頼みます;たのみます;Meminta;Bab37;n3
+注意します;ちゅういします;Memberi peringatan,memperingatkan;Bab37;n4
+とります;とります;Mencuri;Bab37;-
+踏みます;ふみます;Menginjak;Bab37;-
+壊します;こわします;Memecahkan,merusakkan;Bab37;-
+汚します;よごします;Mengotori;Bab37;n2
+行います;おこないます;Mengadakan, melangsungkan;Bab37;n5
+輸出します;ゆしゅつします;Mengekspor;Bab37;n2
+輸入します;ゆにゅうします;Mengimpor;Bab37;n2
+翻訳します;ほんやくします;Menerjemahkan;Bab37;-
+発明します;はつめいします;Menciptakan;Bab37;n4
+発見します;はっけんします;Menemukan;Bab37;n4
+設計します;せっけいします;Merancang, mendesain;Bab37;n3
+米;こめ;Beras;Bab37;n3
+麦;むぎ;Gandum;Bab37;n2
+石油;せきゆ;Minyak tanah;Bab37;n2
+原料;げんりょう;Bahan mentah;Bab37;n3
+デート;デート;Kencan,pacaran;Bab37;-
+泥棒;どろぼう;Pencuri;Bab37;n2
+警官;けいかん;Polisi;Bab37;n3
+建築家;けんちくか;Arsitek;Bab37;n2
+科学者;かがくしゃ;Ahli ilmu pengetahuan;Bab37;n3
+漫画;まんが;Komik, kartun;Bab37;-
+世界中;せかいじゅう;Seluruh dunia;Bab37;n4
+～中;～じゅう;Seluruh -;Bab37;n5
+～によって;～によって;Oleh -;Bab37;-
+埋め立てます;うめたてます;Menimbun, menimbuni;Bab37;n2
+技術;ぎじゅつ;Teknik, teknologi;Bab37;n2
+土地;とち;Tanah;Bab37;n4
+騒音;そうおん;Suara bising;Bab37;-
+利用します;りようします;Memakai, memanfaatkan;Bab37;n3
+アクセス;アクセス;Jalan masuk, akses;Bab37;-
+～世紀;～せいき;Abad -;Bab37;-
+豪華な;ごうかな;Megah;Bab37;-
+彫刻;ちょうこく;Seni ukir, seni pahat;Bab37;-
+眠ります;ねむります;Tidur;Bab37;n3
+彫ります;ほります;Memahat;Bab37;-
+仲間;なかま;Teman, kawan;Bab37;n2
+そのあと;そのあと;Sesudah itu;Bab37;-
+一生懸命;いっしょうけんめい;Dengan sekuat tenaga;Bab37;-
+ねずみ;ねずみ;Tikus;Bab37;-
+一匹もいません;いっぴきもいません;Seekorpun tidak ada;Bab37;n2
+眠り猫;ねむりねこ;Kucing tidur;Bab37;n3
+殺す;ころす;Membunuh;Bab37;n3
+撃つ;うつ;Menembak;Bab37;-
+刺す;さす;Menusuk;Bab37;n2
+かむ;かむ;Menggigit;Bab37;-
+ひく;ひく;Menggilas;Bab37;-
+はねる;はねる;Menabrak;Bab37;-
+衝突する;しょうとつする;Tabrakan;Bab37;-
+追突する;ついとつする;Menabrak dari belakang;Bab37;n3
+盗む;ぬすむ;Mencuri;Bab37;n3
+誘拐する;ゆうかいする;Menculik;Bab37;-
+ハイジャックする;ハイジャックする;Membajak;Bab37;-
+墜落する;ついらくする;Jatuh (kecelakaan);Bab37;-
+運ぶ;はこぶ;Membawa;Bab37;n4
+助ける;たすける;Meledak;Bab37;n3
+爆発する;ばくはつする;Menolong;Bab37;n2
+沈没する;ちんぼつする;Tenggelam;Bab37;-
+育てます;そだてます;Memelihara, membesarkan;Bab38;n3
+運びます;はこびます;Membawa, mengangkut;Bab38;n4
+亡くなります;なくなります;Meninggal (hormat);Bab38;n3
+入院します;にゅういんします;Masuk rumah sakit;Bab38;n4
+退院します;たいいんします;Keluar dari rumah sakit;Bab38;n3
+入れます;いれます （を）;Menghidupkan (aliran listrik);Bab38;n5
+切ります;きります （を）;Mematikan (aliran listrik);Bab38;n4
+掛けます;かけます （を）;Mengunci;Bab38;n3
+気持ちがいい;きもちがいい;Senang, merasa enak;Bab38;n4
+気持ちが悪い;きもちがわるい;Jijik, merasa tidak enak;Bab38;n4
+大きな～;おおきな～;Besar;Bab38;n5
+小さな～;ちいさな～;Kecil;Bab38;n5
+赤ちゃん;あかちゃん;Bayi;Bab38;n4
+小学校;しょうがっこう;SD;Bab38;n5
+中学校;ちゅうがっこう;SMP;Bab38;n5
+駅前;えきまえ;Depan stasiun;Bab38;n4
+海岸;かいがん;Pantai;Bab38;n2
+うそ;うそ;Bohong, kebohongan;Bab38;-
+書類;しょるい;Dokumen , surat;Bab38;n3
+電源;でんげん;Aliran listrik;Bab38;-
+～製;～せい;Buatan -;Bab38;-
+あ、いけない;あ、いけない;Aduh celaka (dipakai saat keliru/gagal);Bab38;-
+お先に失礼します;おさきにしつれいします;Saya permisi duluan;Bab38;n3
+回覧;かいらん;Edaran;Bab38;-
+研究室;けんきゅうしつ;Ruang penelitian;Bab38;n4
+きちんと;きちんと;Dengan rapi;Bab38;-
+整理します;せいりします;Merapikan;Bab38;-
+～冊;～さつ;Buah (satuan untuk buku);Bab38;n2
+はんこ;はんこ;Cap/stempel;Bab38;-
+押します;おします （を）;Mencap/menyetempel;Bab38;n3
+双子;ふたご;Kembar;Bab38;n2
+姉妹;しまい;Saudara perempuan;Bab38;n4
+５年生;５ねんせい;Kelas 5;Bab38;n5
+似ています;にています;Mirip, menyerupai;Bab38;n3
+性格;せいかく;Sifat, tabiat;Bab38;n3
+おとなしい;おとなしい;Pendiam, patuh;Bab38;-
+世話をします;せわをします;Mengurus;Bab38;n4
+時間がたちます;じかんがたちます;Waktu berlalu;Bab38;n5
+大好きな;だいすきな;Suka sekali;Bab38;n3
+～点;～てん;Angka- , skor -;Bab38;n3
+クラス;クラス;Kelas;Bab38;-
+けんかします;けんかします;Bertengkar, berkelahi;Bab38;-
+不思議な;ふしぎな;Luar biasa, aneh;Bab38;n3
+年中行事;ねんちゅうぎょうじ;Acara tahunan di jepang;Bab38;n4
+お正月;おしょうがつ;Tahun baru;Bab38;n4
+ひなまつり;ひなまつり;Festival anak perempuan;Bab38;-
+七夕;たなばた;Festival bintang;Bab38;n4
+お盆;おぼん;Festival bon;Bab38;-
+お月見;おつきみ;Memandang bulan;Bab38;n5
+大みそか;おおみそか;Hari terakhir tahun;Bab38;n5
+答えます;こたえます （に）;Menjawab (pertanyaan);Bab39;n4
+倒れます;たおれます （が）;Roboh, tumbang;Bab39;n3
+焼けます;やけます （が）;Terbakar, dipanggang;Bab39;n2
+通ります;とおります （を）;Lewat (jalan);Bab39;n4
+死にます;しにます;Meninggal, mati;Bab39;n4
+びっくりします;びっくりします;Terkejut;Bab39;-
+がっかりします;がっかりします;Kecewa;Bab39;-
+安心します;あんしんします;Bersenang hati, merasa lega;Bab39;n4
+遅刻します;ちこくします;Terlambat;Bab39;n3
+早退します;そうたいします;Pulang sebelum waktunya;Bab39;n3
+離婚します;りこんします;Bercerai;Bab39;-
+けんかします;けんかします;Bertengkar;Bab39;-
+複雑な;ふくざつな;Rumit;Bab39;n2
+邪魔な;じゃまな;Gangguan;Bab39;-
+汚い;きたない;Kotor;Bab39;n2
+うれしい;うれしい;Senang;Bab39;-
+悲しい;かなしい;Sedih;Bab39;n3
+恥ずかしい;はずかしい;Malu;Bab39;n3
+地震;じしん;Gampe bumi;Bab39;n2
+台風;たいふう;Topan, taifun;Bab39;n4
+火事;かじ;Kebakaran;Bab39;n4
+事故;じこ;Kecelakaan;Bab39;-
+お見合い;おみあい;Pertemuan pertama perjodohan;Bab39;n3
+電話代;でんわだい;Rekening telepon, biaya telepon;Bab39;n4
+～代;～だい;Rekening, ongkos, tarif, sewa, biaya;Bab39;n4
+フロント;フロント;Bagian resepsionis di hotel;Bab39;-
+～号室;～ごうしつ;Nomor kamar -;Bab39;n3
+汗;あせ （あせをかきます）;Keringat (berkeringat);Bab39;n2
+タオル;タオル;Handuk;Bab39;-
+せっけん;せっけん;Sabun;Bab39;-
+大勢;おおぜい;Banyak orang;Bab39;n2
+お疲れさまでした;おつかれさまでした;Terima kasih atas kerjasamanya;Bab39;n3
+伺います;うかがいます いきます);Saya akan datang (bentuk hormat;Bab39;n2
+途中;とちゅう;Ditengah perjalanan;Bab39;n3
+トラック;トラック;Truk;Bab39;-
+ぶつかります;ぶつかります;Bertubrukan;Bab39;-
+並びます;ならびます;Antre;Bab39;n2
+大人;おとな;Orang dewasa;Bab39;n5
+洋服;ようふく;Pakaian ala barat;Bab39;n4
+西洋化します;せいようかします;Westernisasi;Bab39;n3
+合います;あいます;Cocok, sesuai;Bab39;n3
+今では;いまでは;Sekarang;Bab39;n5
+成人式;せいじんしき;Upacara hari dewasa;Bab39;n3
+気持ち;きもち;Perasaan;Bab39;n4
+楽しい;たのしい;Senang, gembira;Bab39;n4
+寂しい;さびしい;Kesepian;Bab39;-
+うらやましい;うらやましい;Iri;Bab39;-
+懐かしい;なつかしい;Rindu,kangen;Bab39;-
+うっとりする;うっとりする;Terpesona;Bab39;-
+いらいらする;いらいらする;Gelisah, kesal;Bab39;-
+どきどきする;どきどきする;Berdebar-debar, dag dig dug;Bab39;-
+はらはらする;はらはらする;Hati berdebar-debar dan merasa khawatir;Bab39;-
+わくわくする;わくわくする;Tidak sabar menunggu;Bab39;-
+起きます;おきます;Bangun ( tidur );Bab04;n4
+寝ます;ねます;Tidur;Bab04;n3
+働きます;はたらきます;Bekerja;Bab04;n3
+休みます;やすみます;Beristirahat , libur;Bab04;n5
+勉強します;べんきょうします;Belajar;Bab04;n4
+終わります;おわります;Selesai;Bab04;n4
+デパート;デパート;Departemen store / Toserba;Bab04;-
+銀行;ぎんこう;Bank;Bab04;n4
+郵便局;ゆうびんきょく;Kantor pos;Bab04;n2
+図書館;としょかん;Perpustakaan;Bab04;n4
+美術館;びじゅつかん;Gedung kesenian;Bab04;n3
+今;いま;Sekarang;Bab04;n5
+～時;～じ;Jam , pukul;Bab04;n5
+～分;～ふん／ぶん;Menit;Bab04;-
+半;はん;Setengah;Bab04;n5
+何時;なんんじ;Jam berapa?;Bab04;n5
+何分;なんぷん;Berapa menit ?;Bab04;-
+午前;ごぜん;AM (waktu sebelum jam 12 siang);Bab04;n5
+午後;ごご;PM (waktu setelah jam 12 siang);Bab04;n5
+朝;あさ;Pagi;Bab04;n4
+昼;ひる;Siang;Bab04;n4
+晩;ばん;Malam;Bab04;n3
+夜;よる;Malam;Bab04;n4
+一昨日;おととい;2 hari yang lalu , kemarin lusa;Bab04;n3
+昨日;きのう;Kemarin;Bab04;n3
+今日;きょう;Hari ini;Bab04;n5
+明日;あした;Besok;Bab04;n4
+明後日;あさって;Besok lusa;Bab04;n4
+今朝;けさ;Tadi pagi, Pagi ini;Bab04;n4
+今晩;こんばん;Malam ini, Nanti malam;Bab04;n3
+休み;やすみ;Istirahat, cuti, libur;Bab04;n5
+昼休み;ひるやすみ;Istirahat siang;Bab04;n4
+試験;しけん;Ujian;Bab04;n4
+会議;かいぎ;Rapat;Bab04;n3
+映画;えいが;Film;Bab04;n4
+毎朝;まいあさ;Setiap pagi;Bab04;n4
+毎晩;まいばん;Setiap malam;Bab04;n3
+毎日;まいにち;Setiap hari;Bab04;n5
+月曜日;げつようび;Hari senin;Bab04;n4
+火曜日;かようび;Hari selasa;Bab04;n4
+水曜日;すいようび;Hari rabo;Bab04;n4
+木曜日;もくようび;Hari kamis;Bab04;n4
+金曜日;きんようび;Hari jumat;Bab04;n4
+土曜日;どようび;Hari sabtu;Bab04;n4
+日曜日;にちようび;Hari minggu;Bab04;n4
+何曜日;なんようび;Hari apa?;Bab04;n4
+～から;～から;Dari~;Bab04;-
+～まで;～まで;Sampai~;Bab04;-
+～と～;～と～;~Dan~;Bab04;-
+大変ですね;たいへんですね;Berat ya,;Bab04;n3
+番号;ばんごう;Nomer;Bab04;n3
+何番;なんばん;Nomer berapa?;Bab04;n3
+ニューヨーク;ニューヨーク;New york;Bab04;-
+ペキン;ペキン;Beijing;Bab04;-
+ロサンゼルス;ロサンゼルス;Los angels;Bab04;-
+ロンドン;ロンドン;London;Bab04;-
+警察署;けいさつしょ;Kantor polisi;Bab04extra;n2
+消防署;しょうぼうしょ;Pemadam kebakaran;Bab04extra;n2
+時報;じほう;Pemberitahuan waktu;Bab04extra;n3
+天気予報;てんきよほう;Ramalan cuaca;Bab04extra;n3
+電話番号案内;でんわばんごうあんない;Petunjuk nomor telepon;Bab04extra;-
+数えます;かぞえます;Menghitung;Bab40;n3
+測ります、量ります;はかります;Mengukur, menimbang;Bab40;n2
+確かめます;たしかめます;Memastikan;Bab40;n3
+合います;あいます （が）;Tepat,cocok;Bab40;n3
+出発します;しゅっぱつします;Berangkat;Bab40;n4
+到着します;とうちゃくします;Tiba;Bab40;n3
+酔います;よいます;Mabuk;Bab40;-
+危険な;きけんな;Berbahaya;Bab40;n3
+必要な;ひつような;Perlu;Bab40;n3
+宇宙;うちゅう;Luar angkasa;Bab40;-
+地球;ちきゅう;Bumi;Bab40;n3
+忘年会;ぼうねんかい;Pesta akhir tahun;Bab40;n3
+新年会;しんねんかい;Pesta tahun baru;Bab40;n4
+二次会;にじかい;Perlombaan;Bab40;n3
+大会;たいかい;Pertemuan berikutnya;Bab40;n4
+マラソン;マラソン;Lari maraton;Bab40;-
+コンテスト;コンテスト;Lomba, kontes;Bab40;-
+表;おもて;Bagian muka/depan;Bab40;n3
+裏;うら;Bagian belakang;Bab40;n2
+返事;へんじ;Balasan, jawaban;Bab40;n3
+申し込み;もうしこみ;Lamaran, pendaftaran;Bab40;n3
+ほんとう;ほんとう;Kebenaran, fakta;Bab40;-
+まちがい;まちがい;Kesalahan;Bab40;-
+傷;きず;Luka;Bab40;-
+ズボン;ズボン;Celana panjang;Bab40;-
+長さ;ながさ;Panjangnya;Bab40;n5
+重さ;おもさ;Beratnya;Bab40;n4
+高さ;たかさ;Tingginya;Bab40;n5
+大きさ;おおきさ;Besarnya;Bab40;n5
+～便;～びん;Nomor pesawat terbang;Bab40;n3
+～号;～ごう;Nomor kereta api;Bab40;n3
+～個;～こ;Satuan benda kecil;Bab40;n2
+～本;～ほん、ぼん、ぽん;Satuan barang panjang;Bab40;n5
+～杯;～はい、ばい、ぱい;Satuan untuk cangkir, gelas;Bab40;n3
+～キロ;～キロ;Kg, km;Bab40;-
+～グラム;～グラム;Gram;Bab40;-
+～センチ;～センチ;Cm;Bab40;-
+～ミリ;～ミリ;Mm;Bab40;-
+～以上;～いじょう;Lebih dari;Bab40;n4
+～以下;～いか;Kurang dari;Bab40;n4
+さあ;さあ;Bagaimana ya?( jawaban yang belum pasti);Bab40;-
+どうでしょうか どうですか);どうでしょうか どうですか);Bagaimana ? (bentuk sopan dari;Bab40;-
+テスト;テスト;Ujian;Bab40;-
+成績;せいせき;Hasil, tanda prestasi;Bab40;n3
+ところで;ところで;Ngomong-ngomong;Bab40;-
+いらっしゃいます きます);いらっしゃいます きます);Datang (bentuk sopan dari;Bab40;-
+様子;ようす;Keadaan, sikap, tingkah laku;Bab40;n3
+事件;じけん;Peristiwa, perkara;Bab40;n3
+オートバイ;オートバイ;Sepeda motor;Bab40;-
+爆弾;ばくだん;Bom;Bab40;-
+積みます;つみます;Memuat;Bab40;n3
+運転手;うんてんしゅ;Supir;Bab40;n4
+離れた;はなれた;Terpencil, jauh;Bab40;-
+急に;きゅうに;Tiba-tiba;Bab40;n4
+動かします;うごかします;Menjalankan;Bab40;n4
+犯人;はんにん;Pelaku kejahatan;Bab40;n3
+手に入れます;てにいれます;Mendapat, memperoleh;Bab40;n4
+今でも;いまでも;Sekarangpun;Bab40;n5
+うわさします;うわさします;Menggunjing, menggosip;Bab40;-
+単位;たんい;Ukuran;Bab40;n3
+線;せん;Garis;Bab40;n2
+形;かたち;Bentuk;Bab40;n3
+模様;もよう;Pola;Bab40;-
+面積;めんせき;Luas;Bab40;n3
+平方;へいほうセンチメートル;Sentimeter persegi;Bab40;n3
+へいほうメートル;へいほうメートル;Meter persegi;Bab40;-
+へいほうキロメートル;へいほうキロメートル;Kilometer persegi;Bab40;-
+ミリメートル;ミリメートル;Milimeter;Bab40;-
+センチメートル;センチメートル;Centimeter;Bab40;-
+メートル;メートル;Meter;Bab40;-
+キロメートル;キロメートル;Kilometer;Bab40;-
+体積／容積;たいせき／ようせき;Volume;Bab40;n3
+立方;りっぽうセンチメートル;Sentimeter kubik;Bab40;n4
+りっぽうメートル;りっぽうメートル;Meter kubik;Bab40;-
+ミリリットル;ミリリットル;Mililiter;Bab40;-
+シーシー;シーシー;Cc;Bab40;-
+リットル;リットル;Liter;Bab40;-
+ミリグラム;ミリグラム;Miligram;Bab40;-
+グラム;グラム;Gram;Bab40;-
+キログラム;キログラム;Kilogram;Bab40;-
+トン;トン;Ton;Bab40;-
+計算;けいさん;Hitungan;Bab40;n2
+たす;たす;Tambah;Bab40;-
+ひく;ひく;Kurang;Bab40;-
+かける;かける;Kali;Bab40;-
+わる;わる;Bagi;Bab40;-
+は（イコール）;は（イコール）;Sama dengan;Bab40;-
+直線;ちょくせん;Garis lurus;Bab40;n2
+曲線;きょくせん;Garis lengkung;Bab40;n2
+点線;てんせん;Garis titik-titik;Bab40;n2
+円（丸）;えん（まる）;Lingkaran;Bab40;n2
+三角形;さんかくけい;Segitiga;Bab40;n2
+四角形;しかくけい;Segiempat;Bab40;n2
+縦じま;たてじま;Garis vertikal;Bab40;-
+横じま;よこじま;Garis horisontal;Bab40;n3
+チェック;チェック;Kotak-kotak;Bab40;-
+水玉;みずたま;Polkadot;Bab40;n2
+花柄;はながら;Motif bunga;Bab40;-
+無地;むじ;Polos;Bab40;-
+いただきます もらいます);いただきます もらいます);Menerima (kata merendah dari;Bab41;-
+くださいます くれます);くださいます くれます);Memberi (kata hormat untuk;Bab41;-
+やります;やります;Memberikan (bawahan,binatang,tanaman);Bab41;-
+呼びます;よびます;Memangil;Bab41;n3
+取り替えます;とりかえます;Mengganti, menukar;Bab41;n2
+親切にします;しんせつにします;Bersikap ramah;Bab41;n4
+かわいい;かわいい;Manis (wajah), cantik;Bab41;-
+お祝い;おいわい （を）します;Perayaan , hadiah , merayakan;Bab41;n2
+お年玉;おとしだま;Hadiah uang di tahun baru;Bab41;n2
+お見舞い;おみまい;Besuk, menengok orang sakit;Bab41;n3
+興味;きょうみ;Minat;Bab41;-
+情報;じょうほう;Penerangan, informasi;Bab41;n3
+文法;ぶんぽう;Tata bahasa;Bab41;n3
+発音;はつおん;Ucapan;Bab41;n4
+猿;さる;Monyet;Bab41;-
+えさ;えさ;Makanan hewan;Bab41;-
+おもちゃ;おもちゃ;Mainan;Bab41;-
+絵本;えほん;Buku bergambar;Bab41;n3
+絵はがき;えはがき;Kartu pos bergambar;Bab41;n3
+ドライバー;ドライバー;Obeng;Bab41;-
+ハンカチ;ハンカチ;Sapu tangan;Bab41;-
+靴下;くつした;Kaos kaki;Bab41;n3
+手袋;てぶくろ;Sarung tangan;Bab41;n2
+指輪;ゆびわ;Cincin;Bab41;n2
+バッグ;バッグ;Tas;Bab41;-
+祖父;そふ;Kakek ( sendiri);Bab41;n3
+祖母;そぼ;Nenek (sendiri);Bab41;n3
+孫;まご;Cucu;Bab41;n2
+おじ;おじ;Paman (sendiri);Bab41;-
+おじさん;おじさん;Paman (orang kain);Bab41;-
+おば;おば;Bibi (sendiri);Bab41;-
+おばさん;おばさん;Bibi (orang lain);Bab41;-
+おととし;おととし;2 tahun yang lalu;Bab41;-
+申し訳ありません;もうしわけありません;Maaf;Bab41;-
+預かります;あずかります;Menjagakan sesuatu, menitipkan;Bab41;n3
+先日;せんじつ;Beberapa hari yang lalu;Bab41;n5
+助かります;たすかります;Tertolong;Bab41;n3
+昔話;むかしはなし;Cerita zaman dahulu;Bab41;n3
+ある～;ある～;Sesuatu -;Bab41;-
+いじめます;いじめます;Menyakiti, menyiksa;Bab41;-
+かめ;かめ;Kura-kura;Bab41;-
+助けます;たすけます;Menolong;Bab41;n3
+お城;おしろ;Kastil, istana;Bab41;n2
+お姫様;おひめさま;Putri raja;Bab41;-
+楽しく;たのしく;Dengan gembira;Bab41;n4
+暮らします;くらします;Hidup;Bab41;n3
+陸;りく;Daratan;Bab41;n2
+すると;すると;Kemudian, lalu;Bab41;-
+煙;けむり;Asap;Bab41;n3
+真っ白な;まっしろな;Putih sekali;Bab41;n4
+中身;なかみ;Isi;Bab41;-
+包みます;つつみます;Membungkus;Bab42;n2
+沸かします;わかします;Merebus;Bab42;n2
+混ぜます;まぜます;Mencampur;Bab42;n2
+計算します;けいさんします;Menghitung;Bab42;n2
+厚い;あつい;Tebal;Bab42;n2
+薄い;うすい;Tipis;Bab42;n2
+弁護士;べんごし;Pengacara;Bab42;-
+音楽家;おんがくか;Ahli musik, pemusik;Bab42;n4
+教育;きょういく;Pendidikan;Bab42;n3
+歴史;れきし;Sejarah;Bab42;n2
+文化;ぶんか;Kebudayaan;Bab42;n3
+社会;しゃかい;Masyarakat;Bab42;n4
+法律;ほうりつ;Hukum;Bab42;n3
+戦争;せんそう;Perang;Bab42;n3
+平和;へいわ;Damai;Bab42;n3
+目的;もくてき;Tujuan,makud;Bab42;-
+安全;あんぜん;Keselamatan, keamanan;Bab42;n3
+論文;ろんぶん;Tesis, skripsi;Bab42;n3
+関係;かんけい;Hubungan;Bab42;n3
+ミキサー;ミキサー;Blender;Bab42;-
+やかん;やかん;Ceret, teko;Bab42;-
+栓抜き;せんぬき;Pembuka tutup botol;Bab42;-
+缶切り;かんきり;Pembuka kaleng;Bab42;n2
+缶詰;かんづめ;Makanan kaleng;Bab42;n2
+ふろしき;ふろしき;Kain pembungkus untuk membawa barang;Bab42;-
+そろばん;そろばん;Alat hitung cina, sempoa;Bab42;-
+体温計;たいおんけい;Termometer;Bab42;n2
+材料;ざいりょう;Bahan-bahan;Bab42;n2
+石;いし;Batu;Bab42;n3
+ピラミッド;ピラミッド;Piramida;Bab42;-
+データ;データ;Data;Bab42;-
+ファイル;ファイル;File;Bab42;-
+なぜ;なぜ;Mengapa, kenapa?;Bab42;-
+国連;こくれん;Negara kesatuan;Bab42;n3
+ローン;ローン;Kredit;Bab42;-
+セット;セット;Set;Bab42;-
+あと;あと;Sisa;Bab42;-
+カップラーメン;カップラーメン;Mie instan gelas;Bab42;-
+インスタントラーメン;インスタントラーメン;Mie instan;Bab42;-
+なべ;なべ;Panci;Bab42;-
+どんぶり;どんぶり;Mangkok besar;Bab42;-
+食品;しょくひん;Makanan;Bab42;n4
+調査;ちょうさ;Penyelidikan;Bab42;n3
+カップ;カップ;Gelas;Bab42;-
+～の代わりに;～のかわりに;Pengganti -;Bab42;n4
+とじる;とじる;Menjilid;Bab42;-
+ホッチキス;ホッチキス;Hekter/stapler;Bab42;-
+はさむ;はさむ;Menjepit;Bab42;-
+クリップ;クリップ;Klip;Bab42;-
+留める;とめる;Menyematkan;Bab42;n3
+画びょう／押しピン;がびょう／おしピン;Paku payung;Bab42;n3
+切る;きる;Memotong;Bab42;n4
+カッター;カッター;Cutter;Bab42;-
+鋏;はさみ;Gunting;Bab42;-
+はる;はる;Menempelkan;Bab42;-
+セロテープ;セロテープ;Selotip;Bab42;-
+ガムテープ;ガムテープ;Selotip kertas;Bab42;-
+のり;のり;Lem;Bab42;-
+削る;けずる;Meruncingkan;Bab42;-
+鉛筆削り;えんぴつけずり;Peruncing pensil;Bab42;-
+ファイルする;ファイルする;Mengarsipkan;Bab42;-
+消す;けす;Menghapus;Bab42;n3
+けしゴム;けしゴム;Penghapus karet;Bab42;-
+修正液;しゅうせいえき;Tip ex;Bab42;-
+パンチ;パンチ;Alat pelubang kertas;Bab42;-
+穴をあける;あなをあける;Melubangi;Bab42;-
+計算する;けいさんする;Menghitung;Bab42;n2
+電卓;でんたく;Kalkulator;Bab42;-
+のこぎり;のこぎり;Gergaji;Bab42;-
+くぎを打つ;くぎをうつ;Memaku;Bab42;n3
+金づち;かなづち;Palu besi;Bab42;n5
+線を引く;せんをひく;Membuat garis;Bab42;n2
+定規;じょうぎ;Penggaris;Bab42;n3
+ものさし;ものさし;Penggaris;Bab42;-
+ペンチ;ペンチ;Tang;Bab42;-
+ねじを締める;ねじをしめる;Memasang sekrup;Bab42;-
+緩める;ゆるめる;Melonggarkan;Bab42;-
+増えます;ふえます （が）;Meningkat;Bab43;n3
+減ります;へります （が）;Menurun;Bab43;n2
+上がります;あがります （が）;Naik;Bab43;n5
+下がります;さがります （が）;Turun;Bab43;n5
+切れます;きれます （が）;Putus;Bab43;n4
+とれます （が）;とれます （が）;Lepas;Bab43;-
+落ちます;おちます （が）;Jatuh;Bab43;n3
+なくなります （が）;なくなります （が）;Habis;Bab43;-
+丈夫な;じょうぶな;Kuat, sehat;Bab43;-
+変な;へんな;Aneh;Bab43;n3
+幸せな;しあわせな;Bahagia;Bab43;n3
+うまい;うまい;Enak, ahli dalam;Bab43;-
+まずい;まずい;Tidak enak;Bab43;-
+つまらない;つまらない;Bosan, tidak menarik;Bab43;-
+ガソリン;ガソリン;Bensin;Bab43;-
+火;ひ;Api;Bab43;n5
+暖房;だんぼう;Pemanas;Bab43;-
+冷房;れいぼう;AC;Bab43;-
+センス （ふくの～がある）;センス （ふくの～がある）;Selera (punya selera pakaian);Bab43;-
+今にも;いまにも;Sekarangpun;Bab43;n5
+会員;かいいん;Anggota;Bab43;n4
+適当な;てきとうな;Cocok;Bab43;n3
+年齢;ねんれい;Umur;Bab43;n2
+収入;しゅうにゅう;Pendapatan, penghasilan;Bab43;n3
+ぴったり;ぴったり;Pas sekali;Bab43;-
+そのうえ;そのうえ;Lagi pula;Bab43;-
+～といいます;～といいます;Bernama -;Bab43;-
+ばら;ばら;Bunga mawar;Bab43;-
+ドライブ;ドライブ;Bepergian naik mobil;Bab43;-
+明るい;あかるい;Ceria;Bab43;n4
+暗い;くらい;Muram;Bab43;n3
+活発な;かっぱつな;Aktif;Bab43;n3
+誠実な;せいじつな;Tulus;Bab43;-
+わがままな;わがままな;Egois;Bab43;-
+冷たい;つめたい;Kaku, dingin;Bab43;n3
+厳しい;きびしい;Keras, disiplin;Bab43;-
+気が長い;きがながい;Penyabar;Bab43;n5
+気が短い;きがみじかい;Cepat marah, tidak sabar;Bab43;n2
+頑固な;がんこな;Keras kepala;Bab43;-
+素直な;すなおな;Penurut;Bab43;-
+気が強い;きがつよい;Berkemauan keras;Bab43;n4
+気が弱い;きがよわい;Penakut, berjiwa lemah;Bab43;n2
+意地悪な;いじわるな;Jahat;Bab43;n4
+勝気な;かちきな;Tidak mau kalah;Bab43;n3
+神経質な;しんけいしつな;Penggugup, mudah gelisah;Bab43;n3
+泣きます;なきます;Menangis;Bab44;-
+笑います;わらいます;Tertawa;Bab44;n3
+乾きます;かわきます;Mengeringkan;Bab44;n2
+ぬれます;ぬれます;Basah;Bab44;-
+滑ります;すべります;Terpeleset;Bab44;-
+起きます;おきます （が）;Terjadi (kecelakaan);Bab44;n4
+調節します;ちょうせつします;Mencocokkan;Bab44;-
+安全な;あんぜんな;Tidak berbahaya, aman;Bab44;n3
+丁寧な;ていねいな;Sopan,hati-hati,rapi;Bab44;-
+細かい;こまかい;Kecil, receh;Bab44;n2
+濃い;こい;Kental (rasa), tua (warna);Bab44;n2
+薄い;うすい;Encer (rasa), tua (warna);Bab44;n2
+空気;くうき;Udara;Bab44;n4
+涙;なみだ;Air mata;Bab44;n2
+和食;わしょく;Makanan jepang;Bab44;n3
+洋食;ようしょく;Makanan barat;Bab44;n4
+おかず;おかず;Lauk pauk;Bab44;-
+量;りょう;Jumlah, kuantitas;Bab44;n2
+～倍;～ばい;- kali;Bab44;n2
+半分;はんぶん;Setengah;Bab44;-
+シングル;シングル;Kamar untuk seorang (di hotel);Bab44;-
+ツイン;ツイン;Kamar untuk dua orang (di hotel);Bab44;-
+たんす;たんす;Lemari;Bab44;-
+洗濯物;せんたくもの;Cucian;Bab44;n2
+理由;りゆう;Alasan;Bab44;n3
+どうなさいますか;どうなさいますか;Anda mau bagaimana ?;Bab44;-
+カット;カット;Potong (rambut);Bab44;-
+シャンプー;シャンプー;Shampo;Bab44;-
+どういうふうになさいますか;どういうふうになさいますか;Bagaimana modelnya?/mau model apa?;Bab44;-
+ショート;ショート;Potong pendek;Bab44;-
+～みたいにしてください;～みたいにしてください;Tolong buat seperti ----;Bab44;-
+これでよろしいでしょうか;これでよろしいでしょうか;Begini cocok ?;Bab44;-
+嫌がります;いやがります;Merasa keberatan;Bab44;-
+順序;じゅんじょ;Urutan;Bab44;-
+表現;ひょうげん;Ungkapan;Bab44;n3
+別れます;わかれます;Berpisah;Bab44;n4
+これら;これら;Kata-kata ini;Bab44;-
+縁起が悪い;えんぎがわるい;Membawa sial;Bab44;-
+美容院;びよういん;Salon;Bab44;n3
+理髪店;りはつてん;Pangkas rambut;Bab44;n3
+パーマ;パーマ;Keriting;Bab44;-
+セット;セット;Tata rambut (sanggul dll);Bab44;-
+リンス;リンス;Conditioner;Bab44;-
+トリートメント;トリートメント;Perawatan rambut;Bab44;-
+ブロー;ブロー;Blow;Bab44;-
+ヘアダイ;ヘアダイ;Pewarna rambut;Bab44;-
+そる;そる;Mencukur (jenggot/kumis);Bab44;-
+わける;わける;Membelah (rambut);Bab44;-
+ボブ;ボブ;Bob;Bab44;-
+レイヤーカット;レイヤーカット;Ditrap/dipotong trap;Bab44;-
+ソバージュ;ソバージュ;Keriting spiral;Bab44;-
+おかっぽ;おかっぽ;Bob lurus;Bab44;-
+三つ編み;みつあみ;Kepang tiga;Bab44;n3
+ポニーテール;ポニーテール;Buntut kuda;Bab44;-
+丸刈り;まるがり;Cepak;Bab44;-
+長髪;ちょうはつ;Rambut panjang;Bab44;n3
+リーゼント;リーゼント;Potongan jambul;Bab44;-
+謝ります;あやまります;Meminta maaf;Bab45;-
+あいます （に）;あいます （に）;Mendapat (kecelakaan);Bab45;-
+信じます;しんじます;Percaya;Bab45;n3
+用意します;よういします;Mempersiapkan;Bab45;n4
+キャンセルします;キャンセルします;Membatalkan;Bab45;-
+うまくいきます;うまくいきます;Berhasil dengan baik;Bab45;-
+保証書;ほしょうしょ;Garansi;Bab45;-
+領収書;りょうしゅうしょ;Kwitansi;Bab45;n2
+贈り物;おくりもの （を）します;Hadiah , memberikan hadiah;Bab45;n2
+間違い電話;まちがいでんわ;Salah sambung;Bab45;n3
+キャンプ;キャンプ;Camping, berkemah;Bab45;-
+係;かかり;Tugas, petugas;Bab45;n3
+中止;ちゅうし;Membatalkan;Bab45;n4
+点;てん;Angka,skor;Bab45;n3
+レバー;レバー;Pengungkit, tuas;Bab45;-
+～札;～さつ;Lembaran;Bab45;n2
+ちゃんと;ちゃんと;Secara teratur;Bab45;-
+たのしみにしています;たのしみにしています;Akan senang sekali;Bab45;-
+以上です;いじょうです;Sekian, selesai;Bab45;n4
+係員;かかりいん;Petugas;Bab45;n3
+コース;コース;Lintasan;Bab45;-
+スタート;スタート;Start;Bab45;-
+～位;～い;Ke— (urutan);Bab45;n3
+優勝します;ゆうしょうします;Menjadi juara;Bab45;n3
+悩み;なやみ;Kesusahan, kesulitan;Bab45;n2
+目覚まし時計;めざましとけい;Jam beker;Bab45;n3
+眠ります;ねむります;Tidur;Bab45;n3
+目が覚めます;めがさめます;Terbangun;Bab45;n3
+回答;かいとう;Jawaban;Bab45;n3
+鳴ります;なります;Berbunyi;Bab45;n3
+セットします;セットします;Menyetel;Bab45;-
+それでも;それでも;Meskipun demikian;Bab45;-
+非情の場合;ひじょうのばあい;Keadaan gempa;Bab45;n3
+備え;そなえ;Persiapan;Bab45;n3
+備える;そなえる;Menyediakan/menyiapkan;Bab45;n3
+家具;かぐ;Perabotan;Bab45;n3
+消火器;しょうかき;Alat pemadam kebakaran;Bab45;-
+貯える;たくわえる;Menyiapkan;Bab45;n2
+非常用;ひじょうよう;Keperluan darurat;Bab45;n3
+袋;ふくろ;Tas;Bab45;n2
+地域;ちいき;Tempat,lokasi;Bab45;n2
+避難場所;ひなんばしょ;Tempat mengungsi;Bab45;-
+避難する;ひなんする;Mengungsi;Bab45;-
+確認します;かくにんします;Memastikan;Bab45;n3
+知人;ちじん;Kenalan;Bab45;n4
+友人;ゆうじん;Teman;Bab45;n5
+連絡先;れんらくさき;alamat yang bisa dihubungi;Bab45;n2
+決めます;きめます;Menentukan;Bab45;n3
+すばやくひのしまつ;すばやくひのしまつ;Cepat-cepat matikan api;Bab45;-
+戸;と;Pintu;Bab45;n2
+慌てて;あわてて;Berebut;Bab45;-
+もぐる;もぐる;Berlindung;Bab45;-
+地震が収まる;じしんがおさまる;Gempanya berhenti;Bab45;n2
+崖崩れ;がけくずれ;Tanah longsor;Bab45;-
+山崩れ;やまくずれ;Gunung longsor;Bab45;-
+点検する;てんけんする;Memeriksa , mengecek;Bab45;-
+緊急;きんきゅう;Keadaan darurat;Bab45;-
+焼きます;やきます;Membakar;Bab46;n2
+渡します;わたします;Menyerahkan;Bab46;n3
+帰って来ます;かえってきます;Kembali lagi;Bab46;n4
+出ます;でます （が）;Berangkat (bis);Bab46;n5
+留守;るす;Tidak ada di rumah;Bab46;n3
+宅配便;たくはいびん;Jasa pengatnatan barang;Bab46;n3
+原因;げんいん;Penyebab;Bab46;n3
+注射;ちゅうしゃ;Suntikan;Bab46;-
+しょくよく;しょくよく;Nafsu makan;Bab46;-
+パンフレット;パンフレット;Pamflet, brosur;Bab46;-
+ステレオ;ステレオ;Stereo;Bab46;-
+こちら;こちら;Sebelah sini;Bab46;-
+～の所;～のところ;Sekitar---;Bab46;n3
+ちょうど;ちょうど;Pas, tepat;Bab46;-
+たった今;たったいま;Baru saja;Bab46;n5
+いまいいでしょうか;いまいいでしょうか;Bolehkah saya bicara sekarang;Bab46;-
+ガスサービスセンター;ガスサービスセンター;Pusat pelayanan gas;Bab46;-
+ガスレンジ;ガスレンジ;Tungku gas;Bab46;-
+具合;ぐあい;Keadaan;Bab46;n3
+どちらさまでしょうか;どちらさまでしょうか;Anda siapa?;Bab46;-
+向かいます;むかいます;Menuju ke;Bab46;n3
+お待たせしました;おまたせしました;Maaf anda telah menunggu lama;Bab46;n4
+知識;ちしき;Pengetahuan;Bab46;n3
+宝庫;ほうこ;Khazanah;Bab46;n2
+手に入ります;てにはいります （が）;Mendapatkan (informasi);Bab46;n4
+システム;システム;Sistem;Bab46;-
+キーワード;キーワード;Kata kunci;Bab46;-
+一部分;いちぶぶん;Satu bagian;Bab46;-
+入力します;にゅうりょくします;Memasukkan;Bab46;n4
+秒;びょう;Detik;Bab46;n2
+ジャム;ジャム;Selai;Bab46;-
+ハム;ハム;Ham;Bab46;-
+クッキー;クッキー;Biskuit;Bab46;-
+チーズ;チーズ;Keju;Bab46;-
+エプロン;エプロン;Celemek;Bab46;-
+スカート;スカート;Rok;Bab46;-
+スーツ;スーツ;Setelan;Bab46;-
+インフルエンザ;インフルエンザ;Flu;Bab46;-
+ストレス;ストレス;Stress;Bab46;-
+ドラマ;ドラマ;Drama;Bab46;-
+コーラス;コーラス;Paduan suara;Bab46;-
+メロディー;メロディー;Melodi;Bab46;-
+スケジュール;スケジュール;Jadwal;Bab46;-
+ティッシュペーパー;ティッシュペーパー;Tisu;Bab46;-
+トラブル;トラブル;Kesulitan;Bab46;-
+レジャー;レジャー;Waktu santai;Bab46;-
+コロッケ;コロッケ;Kroket;Bab46;-
+オムレツ;オムレツ;Telur dadar;Bab46;-
+ピーマン;ピーマン;Paprika;Bab46;-
+ズボン;ズボン;Celana;Bab46;-
+ランジェリー;ランジェリー;Pakaian dalam wanita;Bab46;-
+キュロット;キュロット;Kulot;Bab46;-
+バレエ;バレエ;Balet;Bab46;-
+シャンソン;シャンソン;Lagu rakyat perancis;Bab46;-
+アトリエ;アトリエ;Studio;Bab46;-
+アンケート;アンケート;Angket;Bab46;-
+コンクール;コンクール;Konkurensi;Bab46;-
+ピエロ;ピエロ;Badut;Bab46;-
+フランクフルト;フランクフルト;Frankurt;Bab46;-
+ソーセージ;ソーセージ;Sosis;Bab46;-
+レントゲン;レントゲン;Sinar rontgen;Bab46;-
+ノイローゼ;ノイローゼ;Sakit saraf;Bab46;-
+アレルギー;アレルギー;Alergi;Bab46;-
+メルヘン;メルヘン;Cerita dongeng;Bab46;-
+アルバイト;アルバイト;Kerja sambilan;Bab46;-
+エネルギー;エネルギー;Energi;Bab46;-
+ゲレンデ;ゲレンデ;Tempat bermain ski;Bab46;-
+テーマ;テーマ;Tema;Bab46;-
+ビール;ビール;Bir;Bab46;-
+コーヒー;コーヒー;Kopi;Bab46;-
+ズック;ズック;Sepatu karet;Bab46;-
+ホック;ホック;Kancing hak;Bab46;-
+メス;メス;Pisau bedah;Bab46;-
+ピンセット;ピンセット;Pinset;Bab46;-
+ゴム;ゴム;Karet;Bab46;-
+ペンキ;ペンキ;Cat;Bab46;-
+ガラス;ガラス;Kaca;Bab46;-
+コック;コック;Koki;Bab46;-
+パン;パン;Roti;Bab46;-
+カステラ;カステラ;Sponge cake;Bab46;-
+ビロード;ビロード;Beludru;Bab46;-
+チョッキ;チョッキ;Rompi;Bab46;-
+カルタ;カルタ;Kartu;Bab46;-
+マカロニ;マカロニ;Makaroni;Bab46;-
+スパゲッティ;スパゲッティ;Spageti;Bab46;-
+オペラ;オペラ;Opera;Bab46;-
+バレリーナ;バレリーナ;Ballerina;Bab46;-
+集まります;あつまります （が）;berkumpul;Bab47;n4
+別れます;わかれます （が）;Berpisah;Bab47;n4
+長生きします;ながいきします;Berumur panjang;Bab47;n5
+音がします;おとがします;Terdengar suara;Bab47;n4
+声がします;こえがします;Terdengar suara;Bab47;n3
+味がします;あじがします;Terasa;Bab47;n4
+においがします;においがします;Tercium, berbau;Bab47;-
+さします （を）;さします （を）;Membuka (payung);Bab47;-
+ひどい;ひどい;Luar biasa;Bab47;-
+怖い;こわい;Takut;Bab47;n3
+天気予報;てんきよほう;Prakiraan cuaca;Bab47;n3
+発表;はっぴょう;Pengumuman, presentasi;Bab47;n3
+実験;じっけん;Percobaan;Bab47;n3
+人口;じんこう;Jumlah penduduk;Bab47;n4
+におい;におい;Bau;Bab47;-
+科学;かがく;Ilmu pengetahuan;Bab47;n3
+医学;いがく;Ilmu kedokteran;Bab47;n4
+文学;ぶんがく;Kesusastraan;Bab47;n4
+パトカー;パトカー;Mobil patroli;Bab47;-
+救急車;きゅうきゅうしゃ;Mobil ambulans;Bab47;-
+賛成;さんせい;Setuju;Bab47;n3
+反対;はんたい;Tidak setuju;Bab47;n3
+男性;だんせい;Pria;Bab47;n3
+女性;じょせい;Wanita;Bab47;n3
+どうも;どうも;Kelihatannya(digunakan ketika menyatakan prakiraan);Bab47;-
+～によると;～によると;Menurut ----;Bab47;-
+バリ島;バリとう;Pulau bali;Bab47;n2
+婚約します;こんやくします;Bertunangan;Bab47;n3
+相手;あいて;Jodoh, pasangan;Bab47;n3
+知合います;しりあいます;Saling mengenal;Bab47;n3
+平均寿命;へいきんじゅみょう;Rata-rata usia lanjut;Bab47;-
+比べます;くらべます （と）;Dibandingkan dengan;Bab47;n2
+博士;はかせ;Doktor;Bab47;-
+脳;のう;Otak;Bab47;n2
+ホルモン;ホルモン;Hormon;Bab47;-
+化粧品;けしょうひん;Kosmetik;Bab47;-
+調べ;しらべ;Penelitian, pemeriksaan;Bab47;n3
+化粧;けしょう （を）します;Dandanan (berdandan);Bab47;-
+擬音語。擬態語;ぎおんご。ぎたいご;Onomatope;Bab47;-
+降る;ザーザー（ふる）;Hujan lebat;Bab47;n3
+吹く;ピューピュー（ふく）;Angin bertiup kencang;Bab47;n3
+鳴る;ゴロゴロ（なる）;Petir menggelegar;Bab47;n3
+ワンワン（ほえる）;ワンワン（ほえる）;Guk!guk! (menggonggong);Bab47;-
+鳴く;ニャーニャー（なく）;Meong! Meong!;Bab47;n3
+鳴く;カーカー（なく）;Gak! Gak!;Bab47;n3
+笑う;げらげら（わらう）;Tertawa terbahak-bahak;Bab47;n3
+泣く;しくしく（なく）;Menangis terisak-isak;Bab47;-
+見る;きょろきょろ（みる）;Menoleh kanan kiri;Bab47;n5
+食べる;ぱくぱく（たべる）;Makan dengan lahap;Bab47;n5
+寝る;ぐうぐう（ねる）;Tidur nyenyak;Bab47;n3
+読む;すらすら（よむ）;Membaca dengan lancar;Bab47;n5
+ざらざら（している）;ざらざら（している）;Terasa kasar;Bab47;-
+べたべた（している）;べたべた（している）;Terasa lengket;Bab47;-
+つるつる（している）;つるつる（している）;Terasa licin;Bab47;-
+下ろします;おろします;Menurunkan;Bab48;n5
+届けます;とどけます;Mengantarkan;Bab48;n2
+世話をします;せわをします;Mengurus;Bab48;n4
+嫌な;いやな;Tak suka, tak diingini;Bab48;-
+厳しい;きびしい;Disiplin,galak,keras;Bab48;-
+塾;じゅく;Les, kursus, bimbel;Bab48;-
+スケジュール;スケジュール;Jadwal,rencana,daftar;Bab48;-
+生徒;せいと;Murid;Bab48;n3
+者;もの;Orang (berhubungan dengan sanak,famili,bawahan);Bab48;n4
+入管;にゅうかん;Kantor imigrasi;Bab48;n3
+再入国ビザ;さいにゅうこくビザ;Visa masuk kembali;Bab48;n2
+自由に;じゆうに;Dengan bebas;Bab48;n3
+～間;～かん;Selama---;Bab48;n5
+いいことですね;いいことですね;Itu hal yang baik ya;Bab48;-
+久しぶり;ひさしぶり;Sudah lama tidak bertemu;Bab48;n2
+営業;えいぎょう;Bisnis, pemasaran;Bab48;n2
+それまでに;それまでに;Sampai pada waktu itu;Bab48;-
+かまいません;かまいません;Tidk apa-apa/boleh;Bab48;-
+楽しみます;たのしみます;Menikmati, bersenang-senang;Bab48;n4
+もともと;もともと;Dasarnya;Bab48;-
+代わりをします;かわりをします;Menggantikan;Bab48;n4
+スピード;スピード;kecepatan;Bab48;-
+競走します;きょうそうします;Berlomba lari;Bab48;n2
+サーカス;サーカス;Sirkus;Bab48;-
+芸;げい;Keahlian;Bab48;n2
+美しい;うつくしい;Indah;Bab48;n3
+姿;すがた;Penampilan;Bab48;-
+心;こころ;Hati;Bab48;n4
+とらえます;とらえます;Berkesan;Bab48;-
+～にとって;～にとって;Bagi;Bab48;-
+しつける;しつける;Mendidik;Bab48;-
+鍛える;きたえる;Melatih kedisiplinan;Bab48;-
+自然;しぜん;Alam;Bab48;n3
+経験をする;けいけんをする;Berpengalaman;Bab48;n3
+お年寄り;おとしより;Orang tua;Bab48;n3
+ボランティア;ボランティア;Sukarelawan;Bab48;-
+参加する;さんかする;Mengikuti;Bab48;n3
+自身;じしん;Percaya diri;Bab48;-
+責任を持つ;せきにんをもつ;Memiliki rasa tanggung jawab;Bab48;n3
+我慢する;がまんする;Bersabar;Bab48;-
+努めます;つとめます （に）;Bekerja (untuk perusahaan);Bab49;n3
+休みます;やすみます;Beristirahat;Bab49;n5
+掛けます;かけます （に）;Duduk (di kursi);Bab49;n3
+過ごします;すごします;Menghabiskan (waktu);Bab49;n3
+寄ります;よります （に）;Mampir (ke);Bab49;n3
+いらっしゃいます います、い きます、きます);いらっしゃいます います、い きます、きます);Ada,pergi,datang (bentuk hormat;Bab49;-
+召し上がります;めしあがります たべます、 のみます);Makan,minum (bentuk hormat;Bab49;n2
+おっしゃいます いいます);おっしゃいます いいます);Mengatakan (bentuk hormat;Bab49;-
+なさいます します);なさいます します);Melakukan (bentuk hormat;Bab49;-
+ご覧になります;ごらんになります みます);Melihat (bentuk hormat;Bab49;-
+ご存じです;ごぞんじです しっています);Mengetahui,kenal (bentuk hormat;Bab49;n3
+あいさつ;あいさつ;Salam;Bab49;-
+灰皿;はいざら;Asbak;Bab49;n2
+旅館;りょかん;Penginapan ala jepang;Bab49;n4
+会場;かいじょう;Tempat pertemuan;Bab49;n4
+バス停;バスてい;Halte bis;Bab49;n2
+貿易;ぼうえき;Perdagangan;Bab49;n3
+～様;～さま ～さん;Kata hormat;Bab49;n3
+帰りに;かえりに;Pada waktu pulang;Bab49;n4
+たまに;たまに;Sesekali;Bab49;-
+ちょっとも;ちょっとも;Sama sekali (diikuti bentuk negatif);Bab49;-
+遠慮なく;えんりょなく;Tanpa malu-malu;Bab49;-
+～年～組;～ねん～くみ;Kelas---,---;Bab49;n3
+では じゃ);では じゃ);Kalau begitu (bentuk hormat;Bab49;-
+出します;だします （を）;Demam;Bab49;n5
+よろしくおつたえてください;よろしくおつたえてください;Tolong sampaikan salam saya;Bab49;-
+失礼いたします;しつれいいたします しつれいします);Permisi (bentuk merendah;Bab49;n3
+講師;こうし;Pembicara;Bab49;n2
+多くの～;おおくの～;Banyak---;Bab49;n4
+作品;さくひん;Karya;Bab49;n4
+受賞します;じゅしょうします;Menerima hadiah;Bab49;n2
+世界的に;せかいてきに;Seluruh dunia;Bab49;-
+作家;さっか;Pengarang;Bab49;n4
+長男;ちょうなん;Anak laki-laki tertua;Bab49;n5
+障害;しょうがい;Cacat;Bab49;-
+お持ちです;おもちです もっています);Mempunyai (bentuk hormat;Bab49;n4
+作曲;さっきょく;Gubahan lagu, komposisi lagu;Bab49;n3
+活動;かつどう;Kegiatan;Bab49;n3
+それでは;それでは;Baiklah;Bab49;-
+お宅;おたく;Rumah;Bab49;n3
+～でございます です;～でございます です;Kata sopan;Bab49;-
+～ともうします です;～ともうします です;Kata merendah;Bab49;-
+～でいらっしゃいます です;～でいらっしゃいます です;Kata hormat;Bab49;-
+行きます;いきます;Pergi;Bab05;n5
+来ます;きます;Datang;Bab05;n5
+帰ります;かえります;Pulang;Bab05;n4
+学校;がっこう;Sekolah;Bab05;n5
+スーパー;スーパー;Supermarket / Pasar Swalayan;Bab05;-
+駅;えき;Stasiun;Bab05;n4
+飛行機;ひこうき;Pesawat terbang;Bab05;n3
+船;ふね;Kapal laut;Bab05;n3
+電車;でんしゃ;Kereta listrik;Bab05;n5
+地下鉄;ちかてつ;Kereta bawah tanah;Bab05;n2
+新幹線;しんかんせん;Shinkansen ( Kereta Cepat );Bab05;-
+バス;バス;Bus;Bab05;-
+タクシー;タクシー;Taksi;Bab05;-
+自転車;じてんしゃ;Sepeda;Bab05;n4
+歩いて;あるいて;Dengan Berjalan kaki;Bab05;n4
+人;ひと;Orang;Bab05;n5
+友達;ともだち;Teman;Bab05;n3
+彼;かれ;Dia, ia (laki-laki);Bab05;n3
+彼女;かのじょ;Dia, ia (perempuan);Bab05;n3
+家族;かぞく;Keluarga;Bab05;n4
+一人で;ひとりで;Sendirian, Dengan Sendiri;Bab05;n5
+先週;せんしゅう;Minggu lalu;Bab05;n4
+今週;こんしゅう;Minggu ini;Bab05;n4
+来週;らいしゅう;Minggu depan;Bab05;n4
+先月;せんげつ;Bulan lalu;Bab05;n5
+今月;こんげつ;Bulan ini;Bab05;n5
+来月;らいげつ;Bulan depan;Bab05;n5
+去年;きょねん;Tahun lalu;Bab05;n4
+今年;ことし;Tahun ini;Bab05;n5
+来年;らいねん;Tahun depan;Bab05;n5
+～年;～ねん;Tahun~;Bab05;n5
+何年;なんねん;Tahun berapa?;Bab05;n5
+～月;～がつ;Bulan~;Bab05;n5
+何月;なんがつ;Bulan apa?;Bab05;n5
+一日;ついたち;Tanggal 1;Bab05;n5
+二日;ふつか;Tanggal 2 , 2 hari;Bab05;n5
+三日;みっか;Tanggal 3 , 3 hari;Bab05;n5
+四日;よっか;Tanggal 4 , 4 hari;Bab05;n5
+五日;いつか;Tanggal 5 , 5 hari;Bab05;n5
+六日;むいか;Tanggal 6 , 6 hari;Bab05;n5
+七日;なのか;Tanggal 7 , 7 hari;Bab05;n5
+八日;ようか;Tanggal 8, 8 hari;Bab05;n5
+九日;ここのか;Tanggal 9 , 9 hari;Bab05;n5
+十日;とおか;Tanggal 10, 10 hari;Bab05;n5
+十四日;じゅうよっか;Tanggal 14 , 14 hari;Bab05;n5
+二十日;はつか;Tanggal 20 , 20 hari;Bab05;n5
+二十四日;にじゅうよっか;Tanggal 24 , 24 hari;Bab05;n5
+～日;～にち;Tanggal ~, hari~;Bab05;n5
+何日;なんにち;Tanggal berapa, berapa hari;Bab05;n5
+いつ;いつ;Kapan;Bab05;-
+誕生日;たんじょうび;Hari ulang tahun;Bab05;-
+そうですね;そうですね;Ya begitulah;Bab05;-
+どういたしまして;どういたしまして;Sama-sama;Bab05;-
+～番線;～ばんせん;Peron nomor , jalur nomor;Bab05;n2
+次の;つぎの;Yang berikutnya;Bab05;n3
+普通;ふつう;Biasa;Bab05;n2
+急行;きゅうこう;Ekspres;Bab05;n4
+特急;とっきゅう;Super ekspres;Bab05;n4
+祝祭日;しゅくさいじつ;Hari libur nasional;Bab05extra;n2
+元日;がんじつ;Tahun baru;Bab05extra;n4
+成人の日;せいじんのひ;Hari perayaan menjadi dewasa;Bab05extra;n3
+建国記念の日;けんこくきねんのひ;Hari pembangunan nasional;Bab05extra;n3
+春分の日;しゅんぶんのひ;Hari equinox pada musim semi;Bab05extra;-
+昭和の日;しょうわのひ;Hari showa;Bab05extra;-
+憲法記念日;けんぽうきねんび;Hari peringatan konstitusi;Bab05extra;n3
+みどりのひ;みどりのひ;Hari penghijauan;Bab05extra;-
+こどものひ;こどものひ;Hari anak;Bab05extra;-
+海の日;うみのひ;Hari bahari;Bab05extra;n4
+山の日;やまのひ;Hari gunung;Bab05extra;n5
+敬老の日;けいろうのひ;Hari hormat kepada orang tua;Bab05extra;n2
+秋分の日;しゅうぶんのひ;Hari equinox pada musim gugur;Bab05extra;-
+体育の日;たいいくのひ;Hari kesehatan olahraga;Bab05extra;n3
+文化の日;ぶんかのひ;Hari kebudayaan;Bab05extra;n3
+勤労感謝の日;きんろうかんしゃのひ;Hari bersyukur untuk pekerjaan;Bab05extra;-
+天皇誕生日;てんのうたんじょうび;Hari ulang tahun kaisar;Bab05extra;-
+参ります;まいります いきます、 きます);Pergi,datang (bentuk merendah;Bab50;n3
+おります います);おります います);Ada(bentuk merendah;Bab50;-
+いただきます たべます、のみます、もらいます);いただきます たべます、のみます、もらいます);Makan,minum,menerima (bentuk merendah;Bab50;-
+申します;もうします いいます);Mengatakan (bentuk merendah;Bab50;n3
+いたします します);いたします します);Melakukan (bentuk merendah;Bab50;-
+拝見します;はいけんします みます);Melihat(bentuk merendah;Bab50;n2
+存じます;ぞんじます しります);Mengetahui (bentuk merndah;Bab50;n3
+伺います;うかがいます ききます、いきます);Bertanya,mendengar,mengunjungi (bentuk merendah;Bab50;n2
+お目にかかります;おめにかかります あいます);Bertemu (bentuk merendah;Bab50;n4
+ございます あります);ございます あります);Ada (bentuk hormat;Bab50;-
+～でございます です;～でございます です;Bentuk hormat;Bab50;-
+私;わたくし わたし);Saya (bentuk merendah;Bab50;n4
+ガイド;ガイド;Pemandu,guide;Bab50;-
+お宅;おたく;Rumah (orang lain);Bab50;n3
+郊外;こうがい;Pinggiran kota, luar kota;Bab50;n2
+アルバム;アルバム;Album;Bab50;-
+再来週;さらいしゅう;Dua minggu lagi;Bab50;n2
+再来月;さらいげつ;Dua bulan lagi;Bab50;n2
+再来年;さらいねん;Dua tahun lagi;Bab50;n2
+半年;はんとし;Setengah tahun;Bab50;n5
+最初に;さいしょに;Pertama, mula-mula;Bab50;n3
+最後に;さいごに;Terakhir;Bab50;n3
+ただ今;ただいま いま いま);sekarang (bentuk hormat;Bab50;n5
+緊張します;きんちょうします;Grogi, gugup;Bab50;-
+放送します;ほうそうします;Menyiarkan;Bab50;n3
+撮ります;とります （に）;Merekam (video), membuat (video);Bab50;-
+賞金;しょうきん;Hadiah uang;Bab50;n2
+自然;しぜん;Alam;Bab50;n3
+きりん;きりん;Jerapah;Bab50;-
+象;ぞう;Gajah;Bab50;n2
+ころ;ころ;Masa;Bab50;-
+かないます （が）;かないます （が）;Menjadi kenyataan, terkabul;Bab50;-
+ひとことよろしいでしょうか;ひとことよろしいでしょうか;Bolehkah saya menyampaikan sesuatu?;Bab50;-
+協力します;きょうりょくします;Bekerja sama;Bab50;n2
+心から;こころから;Setulusnya;Bab50;n4
+感謝します;かんしゃします;Mengucapkan terima kasih;Bab50;-
+お礼;おれい;Ucapan terima kasih;Bab50;n3
+拝啓;はいけい;Dengan hormat;Bab50;-
+美しい;うつくしい;Indah;Bab50;n3
+おげんきでいらっしゃいますか おげんきですか);おげんきでいらっしゃいますか おげんきですか);Apa kabar ?(bentuk hormat;Bab50;-
+迷惑をかけます;めいわくをかけます;Merepotkan;Bab50;-
+生かします;いかします;Memanfaatkan;Bab50;n5
+お城;おしろ;Kastil ,istana;Bab50;n2
+敬具;けいぐ;Hormat saya;Bab50;n2
+食べます;たべます;Makan;Bab06;n5
+飲みます;のみます;Minum;Bab06;n4
+吸います;すいます;Menghisap / merokok;Bab06;n3
+見ます;みます;Melihat / menonton;Bab06;n5
+聞きます;ききます;Mendengar;Bab06;n5
+読みます;よみます;Membaca;Bab06;n5
+書きます;かきます;Menulis / menggambar;Bab06;n5
+買います;かいます;Membeli;Bab06;n4
+撮ります;とります;Mengambil (foto) / memotret;Bab06;-
+します;します;Melakukan / mengerjakan / berbuat;Bab06;-
+会います;あいます;Bertemu;Bab06;n4
+ご飯;ごはん;Nasi;Bab06;n4
+朝ご飯;あさごはん;Makan pagi / sarapan;Bab06;n4
+昼ご飯;ひるごはん;Makan siang;Bab06;n4
+晩ご飯;ばんごはん;Makan malam;Bab06;n3
+パン;パン;Roti;Bab06;-
+卵;たまご;Telur;Bab06;n2
+肉;にく;Daging;Bab06;n4
+魚;さかな;Ikan;Bab06;n4
+野菜;やさい;Sayuran;Bab06;n2
+果物;くだもの;Buah-buahan;Bab06;n3
+水;みず;Air;Bab06;n5
+お茶;おちゃ;Teh jepang / teh hijau;Bab06;n4
+紅茶;こうちゃ;Teh;Bab06;n2
+牛乳;ぎゅうにゅう;Susu;Bab06;n2
+ジュース;ジュース;Jus, Sari buah;Bab06;-
+ビール;ビール;Bir;Bab06;-
+お酒;おさけ;Minuman keras;Bab06;n3
+たばこ;たばこ;Rokok;Bab06;-
+手紙;てがみ;Surat;Bab06;n4
+レポート;レポート;Laporan;Bab06;-
+写真;しゃしん;Foto;Bab06;n4
+ビデオ;ビデオ;Kaset video, VHS;Bab06;-
+店;みせ;Toko;Bab06;n4
+庭;にわ;Halaman;Bab06;n3
+宿題;しゅくだい;Pekerjaan rumah / PR;Bab06;n3
+テニス;テニス;Tenis;Bab06;-
+サッカー;サッカー;Sepak bola;Bab06;-
+花見;はなみ;Hanami (menikmati bunga sakura);Bab06;n4
+何;なに;Apa;Bab06;n5
+いっしょに;いっしょに;Bersama-sama;Bab06;-
+ちょっと;ちょっと;Sebentar / sedikit;Bab06;-
+いつも;いつも;Selalu;Bab06;-
+時々;ときどき;Kadang-kadang;Bab06;n5
+それから;それから;Setelah itu / kemudian;Bab06;-
+ええ;ええ;Ya;Bab06;-
+いいですね;いいですね;Bagus ya / baik ya;Bab06;-
+分かりました;わかりました;Mengerti / baik;Bab06;-
+じゃ、また;じゃ、また;Ok, sampai jumpa besok;Bab06;-
+メキシコ;メキシコ;Meksiko;Bab06;-
+きゅうり;きゅうり;Timun;Bab06extra;-
+トマト;トマト;Tomat;Bab06extra;-
+なす;なす;Terong;Bab06extra;-
+まめ;まめ;Kacang-kacangan;Bab06extra;-
+キャベツ;キャベツ;Kol;Bab06extra;-
+ねぎ;ねぎ;Daun bawang;Bab06extra;-
+はくさい;はくさい;Sawi;Bab06extra;-
+ほうれんそう;ほうれんそう;Bayam;Bab06extra;-
+レタス;レタス;Letas;Bab06extra;-
+じゃがいも;じゃがいも;Kentang;Bab06extra;-
+だいこん;だいこん;Lobak;Bab06extra;-
+たまねぎ;たまねぎ;Bawang;Bab06extra;-
+にんじん;にんじん;Wortel;Bab06extra;-
+いちご;いちご;Stroberi;Bab06extra;-
+もも;もも;Buah peach;Bab06extra;-
+すいか;すいか;Semangka;Bab06extra;-
+ぶどう;ぶどう;Anggur;Bab06extra;-
+なし;なし;Pir;Bab06extra;-
+かき;かき;Kesemek;Bab06extra;-
+みかん;みかん;Jeruk;Bab06extra;-
+りんご;りんご;Apel;Bab06extra;-
+バナナ;バナナ;Pisang;Bab06extra;-
+ぎゅうにく;ぎゅうにく;Daging sapi;Bab06extra;-
+とりにく;とりにく;Daging ayam;Bab06extra;-
+ぶたにく;ぶたにく;Daging babi;Bab06extra;-
+ソーセージ;ソーセージ;Sosis;Bab06extra;-
+ハム;ハム;Ham;Bab06extra;-
+あじ;あじ;Ikan mackerel;Bab06extra;-
+いわし;いわし;Ikan sarden;Bab06extra;-
+さば;さば;Ikan kembung;Bab06extra;-
+さんま;さんま;Ikan sauri pasifik;Bab06extra;-
+さけ;さけ;Ikan salmon;Bab06extra;-
+まぐろ;まぐろ;Ikan tuna;Bab06extra;-
+たい;たい;Ikan kakap;Bab06extra;-
+たら;たら;Ikan gabus;Bab06extra;-
+えび;えび;Udang;Bab06extra;-
+かに;かに;Kepiting;Bab06extra;-
+いか;いか;Cumi-cumi;Bab06extra;-
+たこ;たこ;Gurita;Bab06extra;-
+こめ;こめ;Beras;Bab06extra;-
+切ります;きります;Memotong / menggunting;Bab07;n4
+送ります;おくります;Mengirim;Bab07;n4
+あげます;あげます;Memberikan;Bab07;-
+もらいます;もらいます;Menerima / mendapatkan;Bab07;-
+貸します;かします;Meminjamkan / menyewakan;Bab07;n4
+借ります;かります;Meminjam / menyewa;Bab07;n4
+教えます;おしえます;Mengajar;Bab07;n4
+習います;ならいます;Belajar (kepada);Bab07;n4
+かけます （を）;かけます （を）;Menelpon;Bab07;-
+手;て;Tangan;Bab07;n4
+はし;はし;Sumpit;Bab07;-
+スプーン;スプーン;Sendok;Bab07;-
+ナイフ;ナイフ;Pisau;Bab07;-
+フォーク;フォーク;Garpu;Bab07;-
+はさみ;はさみ;Gunting;Bab07;-
+パソコン;パソコン;Laptop;Bab07;-
+ケータイ;ケータイ;HP;Bab07;-
+メール;メール;Email;Bab07;-
+年賀状;ねんがじょう;Kartu tahun baru;Bab07;-
+パンチ;パンチ;Pelubang kertas;Bab07;-
+ホッチキス;ホッチキス;Stapler;Bab07;-
+セロテープ;セロテープ;Selotip;Bab07;-
+消しゴム;けしゴム;Penghapus karet;Bab07;n3
+紙;かみ;Kertas;Bab07;n4
+花;はな;Bunga;Bab07;n4
+シャツ;シャツ;Kemeja;Bab07;-
+プレゼント;プレゼント;Hadiah / kado;Bab07;-
+荷物;にもつ;Barang;Bab07;n2
+お金;おかね;Uang;Bab07;n5
+切符;きっぷ;Karcis;Bab07;n2
+クリスマス;クリスマス;Natal;Bab07;-
+父;ちち;Ayah;Bab07;n5
+母;はは;Ibu;Bab07;n5
+お父さん;おとうさん;Ayah orang lain;Bab07;n5
+お母さん;おかあさん;Ibu orang lain;Bab07;n5
+もう;もう;Sudah;Bab07;-
+まだ;まだ;Belum;Bab07;-
+これから;これから;Mulai dari sekarang;Bab07;-
+すてきですね;すてきですね;Bagus ya / indah ya;Bab07;-
+いらっしゃい;いらっしゃい;Selamat datang;Bab07;-
+どうぞおあがりください;どうぞおあがりください;Silakan masuk;Bab07;-
+失礼します;しつれいします;Permisi;Bab07;n3
+～いかがですか;～いかがですか;Bagaimana ? (menawarkan sesuatu kepada orang);Bab07;-
+いただきます;いただきます;Selamat makan;Bab07;-
+ごちそうさまでした;ごちそうさまでした;Terima kasih atas hidangannya;Bab07;-
+スペイン;スペイン;Spanyol;Bab07;-
+家族;かぞく;Keluarga;Bab07;n4
+祖母;そぼ;Nenek;Bab07extra;n3
+祖父;そふ;Kakek;Bab07extra;n3
+祖父母;そふぼ;Kakek nenek;Bab07extra;n3
+両親;りょうしん;Orang tua;Bab07extra;n3
+妹;いもうと;Adik perempuan;Bab07extra;n4
+弟;おとうと;Adik laki-laki;Bab07extra;n4
+姉;あね;Kakak perempuan;Bab07extra;n4
+兄;あに;Kakak laki-laki;Bab07extra;n4
+兄弟;きょうだい;Saudara kandung;Bab07extra;n4
+妻;つま;Istri;Bab07extra;n3
+夫;おっと;Suami;Bab07extra;n3
+夫婦;ふうふ;Pasangan suami istri;Bab07extra;n3
+娘;むすめ;Anak perempuan;Bab07extra;n3
+息子;むすこ;Anak laki-laki;Bab07extra;n3
+子供;こども;Anak;Bab07extra;n3
+おばあさん;おばあさん;Nenek (orang lain);Bab07extra;-
+おじいさん;おじいさん;Kakek (orang lain);Bab07extra;-
+ごりょうしん;ごりょうしん;Orang tua (orang lain);Bab07extra;-
+いもうとさん;いもうとさん;Adik perempuan (orang lain);Bab07extra;-
+おとうとさん;おとうとさん;Adik laki-laki (orang lain);Bab07extra;-
+おねえさん;おねえさん;Kakak perempuan (orang lain);Bab07extra;-
+おにいさん;おにいさん;Kakak laki-laki (orang lain);Bab07extra;-
+ごきょうだい;ごきょうだい;Saudara kandung (orang lain);Bab07extra;-
+おくさん;おくさん;Istri (orang lain);Bab07extra;-
+ごふうふ;ごふうふ;Pasangan suami istri (orang lain);Bab07extra;-
+むすめさん;むすめさん;Anak perempuan (orang lain);Bab07extra;-
+むすこさん;むすこさん;Anak laki-laki (orang lain);Bab07extra;-
+おこさん;おこさん;Anak (orang lain);Bab07extra;-
+ハンサム（な）;ハンサム（な）;Tampan / gagah / ganteng;Bab08;-
+きれい（な）;きれい（な）;Cantik / bersih;Bab08;-
+静香（な）;しずか（な）;Sunyi / tenang;Bab08;n2
+にぎやか（な）;にぎやか（な）;Ramai;Bab08;-
+有名（な）;ゆうめい（な）;Terkenal;Bab08;n4
+新設（な）;しんせつ（な）;Baik hati ( Tidak untuk sendiri );Bab08;n3
+元気（な）;げんき（な）;Sehat;Bab08;n4
+暇（な）;ひま（な）;Senggang;Bab08;-
+便利（な）;べんり（な）;Praktis;Bab08;n3
+すてき（な）;すてき（な）;Bagus;Bab08;-
+大きい;おおきい;Besar;Bab08;n5
+小さい;ちいさい;Kecil;Bab08;n5
+新しい;あたらしい;Baru;Bab08;n4
+古い;ふるい;Lama / tua;Bab08;n4
+いい（よい）;いい（よい）;Baik / bagus;Bab08;-
+悪い;わるい;Jelek;Bab08;n4
+暑い、熱い;あつい;Panas;Bab08;-
+寒い;さむい;Dingin suhu;Bab08;n3
+冷たい;つめたい;Dingin benda;Bab08;n3
+難しい;むずかしい;Sulit / susah;Bab08;n3
+易しい;やさしい;Mudah / gampang;Bab08;n3
+高い;たかい;Mahal / tinggi;Bab08;n5
+安い;やすい;Murah;Bab08;n4
+低い;ひくい;Rendah;Bab08;n2
+おもしろい;おもしろい;Menarik;Bab08;-
+おいしい;おいしい;Enak;Bab08;-
+忙しい;いそがしい;Sibuk;Bab08;n3
+楽しい;たのしい;Senang;Bab08;n4
+白い;しろい;Putih;Bab08;n5
+黒い;くろい;Hitam;Bab08;n4
+赤い;あかい;Merah;Bab08;n4
+青い;あおい;Biru;Bab08;n4
+桜;さくら;Sakura;Bab08;-
+山;やま;Gunung;Bab08;n5
+町;まち;Kota;Bab08;n4
+食べ物;たべもの;Makanan;Bab08;n4
+所;ところ;Tempat;Bab08;n3
+寮;りょう;Asrama;Bab08;-
+レストラン;レストラン;Restoran;Bab08;-
+生活;せいかつ;Kehidupan;Bab08;n3
+仕事;しごと;Pekerjaan;Bab08;n4
+どう;どう;Bagaimana?;Bab08;-
+どんな～;どんな～;Yang bagaimana ?;Bab08;-
+とても;とても;Sangat / ~sekali;Bab08;-
+あまり;あまり;Tidak begitu ~ / kurang begitu ~;Bab08;-
+そして;そして;Kemudian;Bab08;-
+～が～;～が～;Tetapi;Bab08;-
+お元気ですか;おげんきですか;Apa kabar ?;Bab08;n4
+そうですね;そうですね;Bagaimana ya?;Bab08;-
+～もういっぱいいかがですか;～もういっぱいいかがですか;Mau nambah secangkir lagi ?;Bab08;-
+（いいえ）けっこうです;（いいえ）けっこうです;Cukup;Bab08;-
+そろそろ失礼します;そろそろしつれいします;Maaf saya mau pamit dulu;Bab08;n3
+いいえ;いいえ;Sama-sama;Bab08;-
+またいらっしゃってください;またいらっしゃってください;Silakan datang lagi;Bab08;-
+シャンハイ;シャンハイ;Shanghai;Bab08;-
+みどり;みどり;Hijau;Bab08extra;-
+むらさき;むらさき;Ungu;Bab08extra;-
+きいろい;きいろい;Kuning;Bab08extra;-
+ちゃいろい;ちゃいろい;coklat;Bab08extra;-
+ピンク;ピンク;Merah muda;Bab08extra;-
+オレンジ;オレンジ;Oranye;Bab08extra;-
+グレー;グレー;Abu-abu;Bab08extra;-
+ベージュ;ベージュ;krem;Bab08extra;-
+春;はる;Musim semi;Bab08extra;n4
+夏;なつ;Musim panas;Bab08extra;n4
+秋;あき;Musim gugur;Bab08extra;n4
+冬;ふゆ;Musim dingin;Bab08extra;n4
+分かります;わかります;Mengerti;Bab09;-
+あります;あります;Ada / mempunyai;Bab09;-
+好きな;すき（な）;Suka , gemar;Bab09;n3
+嫌いな;きらい（な）;Benci;Bab09;-
+上手な;じょうず（な）;Pandai , pintar;Bab09;n4
+下手な;へた（な）;Tidak pandai , tidak pintar , bodoh;Bab09;n4
+飲み物;のみもの;Minuman;Bab09;n4
+料理;りょうり;Masakan ( O Shimasu = Memasak);Bab09;n4
+スポーツ;スポーツ;Olahraga ( O Shimasu = Berolahraga );Bab09;-
+野球;やきゅう;Baseball;Bab09;n3
+ダンス;ダンス;Dansa ( O Shimasu = Menari / Berdansa );Bab09;-
+旅行;りょこう;Tamasya ( Suru = Pergi Tamasya);Bab09;n4
+音楽;おんがく;Musik ( O Shimasu = Bermusik );Bab09;n4
+歌;うた;Lagu ( Utaimasu = Bernyanyi );Bab09;n4
+クラシック;クラシック;Klasik;Bab09;-
+ジャズ;ジャズ;Jaz;Bab09extra;-
+コンサート;コンサート;Konser;Bab09;-
+カラオケ;カラオケ;Karaoke;Bab09;-
+歌舞伎;かぶき;Kabuki (drama tradisional jepang);Bab09;-
+絵;え;Gambar;Bab09;n3
+字;じ;Huruf;Bab09;n4
+漢字;かんじ;Kanji;Bab09;n4
+ひらがな;ひらがな;Hiragana;Bab09;-
+かたかな;かたかな;Katakana;Bab09;-
+ローマじ;ローマじ;Huruf latin;Bab09;-
+細かいお金;こまかいおかね;Uang kecil, receh;Bab09;n2
+チケット;チケット;Tiket;Bab09;-
+時間;じかん;Waktu;Bab09;n5
+用事;ようじ;Urusan;Bab09;n4
+約束;やくそく;Janji;Bab09;n3
+アルバイト;アルバイト;Kerja paruh waktu;Bab09;-
+ご主人;ごしゅじん;Suami orang lain;Bab09;n4
+夫／主人;おっと／しゅじん;Suami;Bab09;n3
+奥さん;おくさん;Istri orang lain;Bab09;n2
+妻／家内;つま／かない;Istri;Bab09;n3
+子供;こども;Anak;Bab09;n3
+よく;よく;Dengan baik;Bab09;-
+だいたい;だいたい;Kira-kira;Bab09;-
+たくさん;たくさん;Banyak;Bab09;-
+少し;すこし;Sedikit;Bab09;n4
+全然;ぜんぜん;Sama sekali;Bab09;n3
+早く／速く;はやく;Dengan Cepat;Bab09;n3
+～から;～から;Karena;Bab09;-
+どうして;どうして;Kenapa;Bab09;-
+貸してください;かしてください;Tolong pinjamkan;Bab09;n4
+いいですよ;いいですよ;Boleh;Bab09;-
+残念です;ざんねんです;Sayang sekali;Bab09;n3
+いっしょにいかがですか;いっしょにいかがですか;Bagaimana kalau bersama-sama;Bab09;-
+～ちょっと。。。。;～ちょっと。。。。;Maaf, saya tidak bisa;Bab09;-
+だめですか;だめですか;Tidak bisa ya / tidak boleh ya;Bab09;-
+また今度お願いします;またこんどおねがいします;Maaf lain kali saja;Bab09;n3
+ポップス;ポップス;Pop;Bab09extra;-
+ロック;ロック;Rock;Bab09extra;-
+ラテン;ラテン;Musik latin;Bab09extra;-
+民謡;みんよう;Musik rakyat / nyanyian daerah;Bab09extra;-
+演歌;えんか;Lagu tradisional jepang populer;Bab09extra;n3
+ミュージカル;ミュージカル;Drama musikal;Bab09extra;-
+オペラ;オペラ;Opera;Bab09extra;-
+ホラー;ホラー;Film horor;Bab09extra;-
+アニメ;アニメ;Film kartun , animasi;Bab09extra;-
+ドキュメンタリー;ドキュメンタリー;Film dokumentasi;Bab09extra;-
+恋愛;れんあい;Film percintaan;Bab09extra;n2
+ミステリー;ミステリー;Film misteri;Bab09extra;-
+文芸;ぶんげい;Film kesusastraan;Bab09extra;n2
+戦争;せんそう;Film peperangan;Bab09extra;n3
+アクション;アクション;Film action;Bab09extra;-
+喜劇;きげき;Film komedi;Bab09extra;n2
+ソフトボール;ソフトボール;Softball;Bab09extra;-
+サッカー;サッカー;Sepak bola;Bab09extra;-
+ラグビー;ラグビー;Rugby;Bab09extra;-
+バレーボール;バレーボール;Voli;Bab09extra;-
+テニス;テニス;Tenis;Bab09extra;-
+ボウリング;ボウリング;Bowling;Bab09extra;-
+スキー;スキー;Sky;Bab09extra;-
+スケート;スケート;Skate;Bab09extra;-
+卓球;たっきゅう／ピンポン;Pingpong;Bab09extra;-
+相撲;すもう;Sumo;Bab09extra;-
+柔道;じゅうどう;Judo;Bab09extra;n2
+剣道;けんどう;Kendo;Bab09extra;-
+水泳;すいえい;Renang;Bab09extra;n3
+
+
+

@@ -14,7 +14,8 @@ function parseLine(line, index) {
   const kanji = parts[0].trim();
   const hiragana = parts[1].trim();
   const meaning = parts[2].trim();
-  const rawChapter = parts[3].trim();
+  const rawChapter = parts[3] ? parts[3].trim() : '';
+  const level = parts[4] ? parts[4].trim() : '-';
 
   // Determine if extra
   const isExtra = rawChapter.endsWith('extra');
@@ -33,6 +34,7 @@ function parseLine(line, index) {
     isExtra,
     romaji,
     cleanedHiragana,
+    level,
   };
 }
 
@@ -44,7 +46,7 @@ export async function loadData() {
   if (ALL_CARDS.length > 0) return ALL_CARDS;
 
   try {
-    const response = await fetch('/data.txt');
+    const response = await fetch('/datamatang.txt');
     const text = await response.text();
     const lines = text.split('\n').filter(l => l.trim().length > 0);
 
@@ -73,16 +75,38 @@ export function getChapters() {
 }
 
 /**
- * Get cards filtered by chapters and filter mode
+ * Get cards filtered by chapters, filter mode, and JLPT level
  * @param {string[]} chapters - Selected chapters
  * @param {'all'|'main'|'extra'} filter - Filter mode
+ * @param {string} jlpt - 'all', 'n5', 'n4', etc.
+ * @param {number} mode - study mode (2 = kanji only)
  * @returns {Array}
  */
-export function getCardsByChapters(chapters, filter = 'all') {
+export function getCardsByChapters(chapters, filter = 'all', jlpt = 'all', mode = 1) {
   return ALL_CARDS.filter(card => {
     if (!chapters.includes(card.chapter)) return false;
     if (filter === 'main' && card.isExtra) return false;
     if (filter === 'extra' && !card.isExtra) return false;
+    
+    // JLPT Filter logic (Only applicable if in Kanji mode i.e. Mode 2)
+    if (mode === 2) {
+      if (card.level === '-') return false; // Never show items with no JLPT level in Mode 2
+      
+      if (jlpt !== 'all') {
+        const jlptOrder = ['n5', 'n4', 'n3', 'n2', 'n1'];
+        const selectedIdx = jlptOrder.indexOf(jlpt);
+        const cardIdx = jlptOrder.indexOf(card.level.toLowerCase());
+        
+        // If card level is not recognized or is higher than selected JLPT level (e.g. n3 selected, but card is n2)
+        // Wait, n5 is lowest. If selected n3, show n5, n4, n3.
+        // indexOf('n5') = 0, indexOf('n3') = 2.
+        // We want cardIdx <= selectedIdx
+        if (cardIdx === -1 || cardIdx > selectedIdx) {
+          return false;
+        }
+      }
+    }
+    
     return true;
   });
 }
