@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Di dalam kotak ini ada apa saja?",
+    "answer": "この はこ の なか に なに が あります か"
+  },
+  {
+    "question": "やまださん の みせ は どこ に あります か",
+    "answer": "Toko Sdr. Yamada ada di mana?"
+  },
+  {
+    "question": "Di antara gedung bank dan supermarket ada toko buku.",
+    "answer": "ぎんこう と スーパー の あいだ に ほんや が あります"
+  },
+  {
+    "question": "あの はし の した に あります",
+    "answer": "Ada di bawah jembatan itu."
+  },
+  {
+    "question": "Di bawah meja ada kucing dan anjing tidur.",
+    "answer": "つくえ の した に ねこ と いぬ が います"
+  },
+  {
+    "question": "おとこのこ は ドア の まえ に います",
+    "answer": "Anak laki-laki ada di depan pintu masuk."
+  },
+  {
+    "question": "Tolong ambilkan buku yang ada di atas laci.",
+    "answer": "ひきだし の うえ に ある ほん を とって ください"
+  },
+  {
+    "question": "れいぞうこ の なか に なにも ありません",
+    "answer": "Di kulkas tidak ada apapun."
+  },
+  {
+    "question": "しんしつ に ベッド や つくえ や ほんだな など が あります",
+    "answer": "Di kamar tidur ada kasur, meja, rak buku, dsb."
+  },
+  {
+    "question": "あの しろい ねこ は へや の すみ に います",
+    "answer": "Kucing putih itu ada di pojok ruangan."
+  },
+  {
+    "question": "けんばいき の うしろ で まちます",
+    "answer": "Saya menunggu di belakang mesin tiket."
+  },
+  {
+    "question": "ロビー に だれか います か",
+    "answer": "Apakah di lobi ada siapa-siapa?"
+  },
+  {
+    "question": "Tempat pensil ada di mana? Ada di sebelah kanan kamus.",
+    "answer": "ふでばこ は どこ に あります か。じしょ の みぎ に あります"
+  },
+  {
+    "question": "Ada jam tangan antik, kacamata, dan lain-lain.",
+    "answer": "ふるい とけい や めがね など が あります"
+  },
+  {
+    "question": "Di taman ada banyak pohon dan bunga yang indah.",
+    "answer": "こうえん に き と きれいな はな が たくさん あります"
+  },
+  {
+    "question": "びょういん は ゆうびんきょく の となり に あります",
+    "answer": "Rumah sakit ada di sebelah kantor pos."
+  },
+  {
+    "question": "いいえ、だれも いません",
+    "answer": "Tidak, tidak ada siapa-siapa sama sekali."
+  },
+  {
+    "question": "Di dekat stasiun ada kedai kopi yang enak dan murah.",
+    "answer": "えき の ちかく に おいしくて やすい きっさてん が あります"
+  },
+  {
+    "question": "Sdr. Tanaka sedang berada di dalam ruang rapat.",
+    "answer": "たなかさん は かいぎしつ の なか に います"
+  },
+  {
+    "question": "Di luar jendela terlihat burung terbang.",
+    "answer": "まど の そと に とり が います"
+  }
+]

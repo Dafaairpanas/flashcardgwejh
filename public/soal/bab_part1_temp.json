@@ -1,0 +1,576 @@
+{
+  "bab02": [
+    {
+      "question": "Kunci ini milik siapa?",
+      "answer": "この かぎ は だれ の です か"
+    },
+    {
+      "question": "Ini adalah majalah mobil.",
+      "answer": "これ は くるま の ざっし です"
+    },
+    {
+      "question": "Apakah payung itu milik Sdr. Miller?",
+      "answer": "その かさ は ミラーさん の です か"
+    },
+    {
+      "question": "Bukan, buku catatan ini bukan milik saya.",
+      "answer": "いいえ、この ノート は わたし の じゃ ありません"
+    },
+    {
+      "question": "Kamus itu adalah milik saya.",
+      "answer": "あの じしょ は わたし の です"
+    },
+    {
+      "question": "Apakah ini kartu Sdr. Tanaka?",
+      "answer": "これ は たなかさん の カード です か"
+    },
+    {
+      "question": "Televisi itu buatan mana?",
+      "answer": "その テレビ は どこ の です か"
+    },
+    {
+      "question": "Ini adalah CD bahasa Jepang.",
+      "answer": "これ は にほんご の CD です"
+    },
+    {
+      "question": "Kamera ini bukan milik Sdr. Yamada.",
+      "answer": "この カメラ は やまださん の じゃ ありません"
+    },
+    {
+      "question": "Meja itu milik siapa?",
+      "answer": "あの つくえ は だれ の です か"
+    },
+    {
+      "question": "Apakah ini bolpoin atau pensil?",
+      "answer": "これ は ボールペン です か、 えんぴつ です か"
+    },
+    {
+      "question": "Apakah ini majalah komputer? Bukan, bukan majalah komputer.",
+      "answer": "これ は コンピューター の ざっし です か。いいえ、コンピューター の ざっし じゃ ありません"
+    },
+    {
+      "question": "Tas ini adalah milik saya.",
+      "answer": "この かばん は わたし の です"
+    },
+    {
+      "question": "Sepatu itu adalah buatan Italia.",
+      "answer": "その くつ は イタリア の です"
+    },
+    {
+      "question": "Itu (jauh) adalah kamus bahasa Inggris.",
+      "answer": "あれ は えいご の じしょ です"
+    },
+    {
+      "question": "Kaset ini milik siapa?",
+      "answer": "この カセットテープ は だれ の です か"
+    },
+    {
+      "question": "Itu (dekat kamu) adalah kunci mobil.",
+      "answer": "それ は くるま の かぎ です"
+    },
+    {
+      "question": "Buku ini adalah buku Sdr. Santos.",
+      "answer": "この ほん は サントスさん の ほん です"
+    },
+    {
+      "question": "Apakah itu (jauh) jam tangan?",
+      "answer": "あれ は とけい です か"
+    },
+    {
+      "question": "Bukan, itu bukan jam tangan. Itu kacamata.",
+      "answer": "いいえ、とけい じゃ ありません。めがね です"
+    }
+  ],
+  "bab03": [
+    {
+      "question": "Toilet ada di mana?",
+      "answer": "トイレ は どこ です か"
+    },
+    {
+      "question": "Mesin penjual otomatis ada di sana (jauh).",
+      "answer": "じどうはんばいき は あそこ です"
+    },
+    {
+      "question": "Kantin ada di lantai berapa?",
+      "answer": "しょくどう は なんがい です か"
+    },
+    {
+      "question": "Kantin ada di lantai bawah tanah.",
+      "answer": "しょくどう は ちか です"
+    },
+    {
+      "question": "Sepatu ini harganya berapa?",
+      "answer": "この くつ は いくら です か"
+    },
+    {
+      "question": "Kamera ini harganya 25.800 yen.",
+      "answer": "この カメラ は にまん ごせん はっぴゃく えん です"
+    },
+    {
+      "question": "Sdr. Miller ada di ruang rapat.",
+      "answer": "ミラーさん は かいぎしつ です"
+    },
+    {
+      "question": "Dasi ini buatan Italia lho.",
+      "answer": "この ネクタイ は イタリア の です よ"
+    },
+    {
+      "question": "Di manakah kantor?",
+      "answer": "じむしょ は どちら です か"
+    },
+    {
+      "question": "Kantor ada di lantai tiga.",
+      "answer": "じむしょ は さんがい です"
+    },
+    {
+      "question": "Tas ini buatan mana?",
+      "answer": "この かばん は どこ の です か"
+    },
+    {
+      "question": "Itu adalah tas buatan Jepang.",
+      "answer": "にほん の かばん です"
+    },
+    {
+      "question": "Ruang kelas ada di sebelah sini.",
+      "answer": "きょうしつ は こちら です"
+    },
+    {
+      "question": "Lift ada di sebelah mana?",
+      "answer": "エレベーター は どちら です か"
+    },
+    {
+      "question": "Kunci ini harganya 500 yen.",
+      "answer": "この かぎ は ごひゃく えん です"
+    },
+    {
+      "question": "Telepon ada di lantai dua.",
+      "answer": "でんわ は にかい です"
+    },
+    {
+      "question": "Anggur ini buatan Prancis.",
+      "answer": "この ワイン は フランス の です"
+    },
+    {
+      "question": "Negara Sdr. Tanaka di mana?",
+      "answer": "たなかさん の おくに は どちら です か"
+    },
+    {
+      "question": "Tangga ada di sebelah sana.",
+      "answer": "かいだん は あちら です"
+    },
+    {
+      "question": "Sepeda ini harganya mahal.",
+      "answer": "この じてんしゃ は たかい です"
+    }
+  ],
+  "bab04": [
+    {
+      "question": "Sekarang jam setengah sembilan.",
+      "answer": "いま くじ はん です"
+    },
+    {
+      "question": "Bank buka dari jam 9 sampai jam 3.",
+      "answer": "ぎんこう は ９じ から ３じ まで です"
+    },
+    {
+      "question": "Hari ini hari libur kantor.",
+      "answer": "きょう は かいしゃ の やすみ です"
+    },
+    {
+      "question": "Besok saya bangun jam 6 pagi.",
+      "answer": "あした わたし は あさ ６じ に おきます"
+    },
+    {
+      "question": "Kemarin malam saya tidak tidur.",
+      "answer": "きのう の ばん わたし は ねません でした"
+    },
+    {
+      "question": "Setiap hari saya bekerja dari jam 8 sampai jam 5.",
+      "answer": "まいにち ８じ から ５じ まで はたらきます"
+    },
+    {
+      "question": "Tadi malam saya tidur jam 11.",
+      "answer": "きのう の ばん １１じ に ねました"
+    },
+    {
+      "question": "Hari apa perpustakaan tutup?",
+      "answer": "としょかん は なんようび やすみ です か"
+    },
+    {
+      "question": "Hari ini hari Rabu.",
+      "answer": "きょう は すいようび です"
+    },
+    {
+      "question": "Kemarin saya belajar dari jam 7 sampai jam 10.",
+      "answer": "きのう ７じ から １０じ まで べんきょう しました"
+    },
+    {
+      "question": "Sekarang jam berapa di New York?",
+      "answer": "いま ニューヨーク は なんじ です か"
+    },
+    {
+      "question": "Tadi pagi saya tidak bangun jam 7.",
+      "answer": "けさ ７じ に おきません でした"
+    },
+    {
+      "question": "Minggu lalu saya beristirahat.",
+      "answer": "せんしゅう わたし は やすみました"
+    },
+    {
+      "question": "Setiap hari sabtu saya bermain tenis.",
+      "answer": "まいしゅう どようび に テニス を します"
+    },
+    {
+      "question": "Sdr. Miller bekerja hari ini.",
+      "answer": "ミラーさん は きょう はたらきます"
+    },
+    {
+      "question": "Jam berapa Sdr. Yamada pulang?",
+      "answer": "やまださん は なんじ に かえります か"
+    },
+    {
+      "question": "Ujiannya dari jam 1 sampai jam 3 siang.",
+      "answer": "しけん は ごご １じ から ３じ まで です"
+    },
+    {
+      "question": "Tadi pagi saya bekerja sampai jam setengah sebelas.",
+      "answer": "けさ １０じ はん まで はたらきました"
+    },
+    {
+      "question": "Saya tidur pada hari minggu.",
+      "answer": "にちようび に ねます"
+    },
+    {
+      "question": "Apakah kamu belajar setiap hari?",
+      "answer": "まいにち べんきょう します か"
+    }
+  ],
+  "bab05": [
+    {
+      "question": "Saya pergi ke Tokyo dengan kereta cepat (Shinkansen).",
+      "answer": "わたし は しんかんせん で とうきょう へ いきます"
+    },
+    {
+      "question": "Besok saya datang ke rumah teman sendirian.",
+      "answer": "あした ひとりで ともだち の うち へ きます"
+    },
+    {
+      "question": "Bulan lalu saya pulang ke kampung halaman dengan pesawat.",
+      "answer": "せんげつ ひこうき で くに へ かえりました"
+    },
+    {
+      "question": "Kemarin saya tidak pergi kemana-mana.",
+      "answer": "きのう どこ も いきません でした"
+    },
+    {
+      "question": "Kapan Sdr. Miller datang ke Jepang?",
+      "answer": "いつ ミラーさん は にほん へ きました か"
+    },
+    {
+      "question": "Saya pulang bersama keluarga.",
+      "answer": "かぞく と かえります"
+    },
+    {
+      "question": "Ulang tahun saya adalah tanggal 5 Mei.",
+      "answer": "わたし の たんじょうび は ５がつ いつか です"
+    },
+    {
+      "question": "Minggu depan saya pergi ke Kyoto dengan kereta biasa.",
+      "answer": "らいしゅう でんしゃ で きょうと へ いきます"
+    },
+    {
+      "question": "Dengan siapa kamu pergi ke stasiun?",
+      "answer": "だれ と えき へ いきます か"
+    },
+    {
+      "question": "Tahun lalu saya datang ke Jepang bulan Agustus.",
+      "answer": "きょねん ８がつ に にほん へ きました"
+    },
+    {
+      "question": "Besok saya pergi ke supermarket berjalan kaki.",
+      "answer": "あした あるいて スーパー へ いきます"
+    },
+    {
+      "question": "Hari libur saya pulang terlambat.",
+      "answer": "やすみ の ひ おそく かえります"
+    },
+    {
+      "question": "Kapan kamu pulang ke rumah?",
+      "answer": "いつ うち へ かえります か"
+    },
+    {
+      "question": "Hari ini saya akan pergi ke perusahaan.",
+      "answer": "きょう わたし は かいしゃ へ いきます"
+    },
+    {
+      "question": "Saya tidak datang dengan bis.",
+      "answer": "バス で きません でした"
+    },
+    {
+      "question": "Minggu lalu saya pergi ke pesta dengan taksi.",
+      "answer": "せんしゅう タクシー で パーティー へ いきました"
+    },
+    {
+      "question": "Saya pergi sendiri dengan kereta bawah tanah.",
+      "answer": "ひとりで ちかてつ で いきます"
+    },
+    {
+      "question": "Tahun depan, bulan 4 saya kembali ke negara asal.",
+      "answer": "らいねん ４がつ に くに へ かえります"
+    },
+    {
+      "question": "Apakah besok kamu ke bank?",
+      "answer": "あした ぎんこう へ いきます か"
+    },
+    {
+      "question": "Tidak, saya tidak ke mana-mana besok.",
+      "answer": "いいえ、あした は どこ も いきません"
+    }
+  ],
+  "bab06": [
+    {
+      "question": "Saya makan roti dan telur setiap pagi.",
+      "answer": "わたし は まいあさ パン と たまご を たべます"
+    },
+    {
+      "question": "Tadi malam saya tidak makan daging dan ikan.",
+      "answer": "きのう の ばん にく と さかな を たべません でした"
+    },
+    {
+      "question": "Ayo kita pergi menonton film bersama besok.",
+      "answer": "あした いっしょに えいが を み に いきましょう"
+    },
+    {
+      "question": "Maukah kamu minum bir bersamaku?",
+      "answer": "いっしょに ビール を のみません か"
+    },
+    {
+      "question": "Pagi ini saya tidak makan apapun.",
+      "answer": "けさ なにも たべません でした"
+    },
+    {
+      "question": "Di taman, saya mengambil foto bunga sakura.",
+      "answer": "こうえん で さくら の しゃしん を とりました"
+    },
+    {
+      "question": "Saya menulis surat untuk teman di perpustakaan.",
+      "answer": "としょかん で ともだち に てがみ を かきました"
+    },
+    {
+      "question": "Ayo kita bertemu jam 12 di depan stasiun.",
+      "answer": "１２じ に えき の まえ で あいましょう"
+    },
+    {
+      "question": "Kemarin saya membaca majalah dan mendengarkan musik.",
+      "answer": "きのう ざっし を よんで、 おんがく を ききました"
+    },
+    {
+      "question": "Apa yang kamu lakukan besok siang?",
+      "answer": "あした の ごご なに を します か"
+    },
+    {
+      "question": "Maukah kita bermain tenis minggu depan?",
+      "answer": "らいしゅう テニス を しません か"
+    },
+    {
+      "question": "Saya membeli sayuran di supermarket.",
+      "answer": "スーパー で やさい を かいました"
+    },
+    {
+      "question": "Kemarin saya mengerjakan PR di rumah.",
+      "answer": "きのう うち で しゅくだい を しました"
+    },
+    {
+      "question": "Tadi pagi saya membaca koran sambil minum kopi.",
+      "answer": "けさ コーヒー を のみながら しんぶん を よみました"
+    },
+    {
+      "question": "Bagus ya. Ayo lakukan.",
+      "answer": "いい です ね。そう しましょう"
+    },
+    {
+      "question": "Kamu minum minuman seperti apa?",
+      "answer": "どんな のみもの を のみます か"
+    },
+    {
+      "question": "Setiap hari saya merokok.",
+      "answer": "まいにち たばこ を すいます"
+    },
+    {
+      "question": "Saya tidak mendengarkan CD hari ini.",
+      "answer": "きょう ＣＤ を ききません"
+    },
+    {
+      "question": "Maukah minum teh di kedai kopi?",
+      "answer": "きっさてん で おちゃ を のみません か"
+    },
+    {
+      "question": "Saya makan buah setiap malam.",
+      "answer": "まいばん くだもの を たべます"
+    }
+  ],
+  "bab07": [
+    {
+      "question": "Saya menulis laporan menggunakan komputer pribadi (PC).",
+      "answer": "パソコン で レポート を かきました"
+    },
+    {
+      "question": "Saya mengirim hadiah menggunakan pos udara.",
+      "answer": "こうくうびん で プレゼント を おくりました"
+    },
+    {
+      "question": "Terima kasih banyak dalam bahasa Inggris adalah 'Thank you'.",
+      "answer": "ありがとう ございます は えいご で 「Thank you」 です"
+    },
+    {
+      "question": "Saya meminjamkan penghapus kepada Sdr. Miller.",
+      "answer": "ミラーさん に けしゴム を かしました"
+    },
+    {
+      "question": "Saya belajar bahasa Inggris dari Guru.",
+      "answer": "せんせい に えいご を ならいました"
+    },
+    {
+      "question": "Saya menelepon keluarga di Jepang.",
+      "answer": "にほん の かぞく に でんわ を かけました"
+    },
+    {
+      "question": "Apakah kamu sudah membeli tiket shinkansen?",
+      "answer": "もう しんかんせん の きっぷ を かいました か"
+    },
+    {
+      "question": "Belum, saya akan membelinya nanti.",
+      "answer": "いいえ、まだ です。これから かいます"
+    },
+    {
+      "question": "Saya memotong kertas menggunakan gunting.",
+      "answer": "はさみ で かみ を きります"
+    },
+    {
+      "question": "Saya memberi bunga kepada pacar.",
+      "answer": "こいびと に はな を あげました"
+    },
+    {
+      "question": "Saya menerima uang dari ayah.",
+      "answer": "ちち に おかね を もらいました"
+    },
+    {
+      "question": "Apakah kamu sudah mengirimkan bagasi?",
+      "answer": "もう にもつ を おくりました か"
+    },
+    {
+      "question": "Dengan apa kamu makan mie?",
+      "answer": "なん で ラーメン を たべます か"
+    },
+    {
+      "question": "Saya makan dengan sumpit dan sendok.",
+      "answer": "はし と スプーン で たべます"
+    },
+    {
+      "question": "Kapan kamu memberikan kado ulang tahun?",
+      "answer": "いつ たんじょうび の プレゼント を あげます か"
+    },
+    {
+      "question": "Besok saya mengajari Sdr. Yamada bahasa Spanyol.",
+      "answer": "あした やまださん に スペインご を おしえます"
+    },
+    {
+      "question": "Saya meminjam buku dari perpustakaan.",
+      "answer": "としょかん で ほん を かりました"
+    },
+    {
+      "question": "Sudahkah kamu menulis email ke perusahaan?",
+      "answer": "もう かいしゃ に メール を かきました か"
+    },
+    {
+      "question": "Saya memperbaiki sepeda menggunakan obeng.",
+      "answer": "ドライバー で じてんしゃ を なおします"
+    },
+    {
+      "question": "Apa yang kamu terima saat ulang tahun?",
+      "answer": "たんじょうび に なに を もらいました か"
+    }
+  ],
+  "bab08": [
+    {
+      "question": "Bunga sakura sangat indah dan terkenal.",
+      "answer": "さくら は とても きれいで ゆうめい です"
+    },
+    {
+      "question": "Gunung Fuji tinggi tapi tidak sepi.",
+      "answer": "ふじさん は たかい です が、しずか じゃ ありません"
+    },
+    {
+      "question": "Makanan di restoran itu enak tapi mahal.",
+      "answer": "あの レストラン の たべもの は おいしい です が、たかい です"
+    },
+    {
+      "question": "Kota Tokyo adalah kota yang sibuk dan meriah.",
+      "answer": "とうきょう は いそがしくて にぎやかな まち です"
+    },
+    {
+      "question": "Tugas bahasa Jepang hari ini cukup sulit.",
+      "answer": "きょう の にほんご の しゅくだい は かなり むずかしい です"
+    },
+    {
+      "question": "Kamar Sdr. Tanaka luas dan bersih.",
+      "answer": "たなかさん の へや は ひろくて きれい です"
+    },
+    {
+      "question": "Kehidupan di Jepang bagaimana? Sangat menyenangkan lho.",
+      "answer": "にほん の せいかつ は どう です か。とても たのしい です よ"
+    },
+    {
+      "question": "Film itu sama sekali tidak menarik.",
+      "answer": "あの えいが は ぜんぜん おもしろくない です"
+    },
+    {
+      "question": "Cuaca hari ini tidak begitu bagus ya.",
+      "answer": "きょう の てんき は あまり よくない です ね"
+    },
+    {
+      "question": "Kereta bawah tanah sangat praktis lho.",
+      "answer": "ちかてつ は とても べんり です よ"
+    },
+    {
+      "question": "Apakah pekerjaanmu sibuk? Ya, setiap hari sibuk.",
+      "answer": "しごと は いそがしい です か。はい、まいにち いそがしい です"
+    },
+    {
+      "question": "Sdr. Maria adalah orang yang baik hati.",
+      "answer": "マリアさん は しんせつな ひと です"
+    },
+    {
+      "question": "Tas Sdr. Santos yang mana? Yang merah itu.",
+      "answer": "サントスさん の かばん は どれ です か。あの あかい の です"
+    },
+    {
+      "question": "Ini adalah teh yang terkenal dari Inggris.",
+      "answer": "これ は イギリス の ゆうめいな おちゃ です"
+    },
+    {
+      "question": "Buku itu bagus tapi harganya sangat mahal.",
+      "answer": "あの ほん は いい です が、とても たかい です"
+    },
+    {
+      "question": "Bunga ini tidak indah sama sekali.",
+      "answer": "この はな は ぜんぜん きれい じゃ ありません"
+    },
+    {
+      "question": "Sekolah saya tidak baru dan tidak besar.",
+      "answer": "わたし の がっこう は あたらしくないし、おおきくない です"
+    },
+    {
+      "question": "Kota ini tidak sepi dan airnya tidak enak.",
+      "answer": "この まち は しずか じゃ ないし、 みず は おいしくない です"
+    },
+    {
+      "question": "Apakah mobil ini praktis? Tidak, tidak praktis.",
+      "answer": "この くるま は べんり です か。いいえ、べんり じゃ ありません"
+    },
+    {
+      "question": "Sdr. Watt adalah guru yang terkenal lho.",
+      "answer": "ワットさん は ゆうめいな せんせい です よ"
+    }
+  ]
+}

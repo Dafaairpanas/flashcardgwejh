@@ -1,0 +1,576 @@
+{
+  "bab09": [
+    {
+      "question": "Saya suka masakan Italia dan sering memakannya.",
+      "answer": "わたし は イタリアりょうり が すき で、 よく たべます"
+    },
+    {
+      "question": "Karena anak saya benci sayuran, dia sama sekali tidak makan.",
+      "answer": "こども は やさい が きらい です から、 ぜんぜん たべません"
+    },
+    {
+      "question": "Sdr. Miller pandai bernyanyi dan menari lho.",
+      "answer": "ミラーさん は うた と ダンス が じょうず です よ"
+    },
+    {
+      "question": "Saya tidak begitu pandai bahasa Inggris, tapi mengerti bahasa Jepang sedikit.",
+      "answer": "わたし は えいご が あまり じょうず じゃ ありません が、 にほんご が すこし わかります"
+    },
+    {
+      "question": "Saya tidak mengerti bahasa Prancis sama sekali.",
+      "answer": "フランスご が ぜんぜん わかりません"
+    },
+    {
+      "question": "Karena besok sibuk, saya tidak akan pergi ke pesta.",
+      "answer": "あした いそがしい です から、 パーティー へ いきません"
+    },
+    {
+      "question": "Apakah kamu punya banyak uang dan waktu?",
+      "answer": "おかね と じかん が たくさん あります か"
+    },
+    {
+      "question": "Saya ada janji menonton film hari ini.",
+      "answer": "きょう えいが を みる やくそく が あります"
+    },
+    {
+      "question": "Istri saya pandai memasak, tapi benci bersih-bersih.",
+      "answer": "つま は りょうり が じょうず です が、 そうじ が きらい です"
+    },
+    {
+      "question": "Kenapa kamu membaca koran setiap pagi?",
+      "answer": "どうして まいあさ しんぶん を よみます か"
+    },
+    {
+      "question": "Karena saya menyukai berita dan ingin belajar.",
+      "answer": "ニュース が すき です から、 そして べんきょう したい です から"
+    },
+    {
+      "question": "Apakah ada keperluan minggu depan?",
+      "answer": "らいしゅう ようじ が あります か"
+    },
+    {
+      "question": "Kamera ini murah dan bagus, makanya saya beli.",
+      "answer": "この カメラ は やすくて いい です から、 かいました"
+    },
+    {
+      "question": "Suami saya tidak punya hobi dan sering sakit.",
+      "answer": "おっと は しゅみ が ありません し、 よく びょうき に なります"
+    },
+    {
+      "question": "Apakah kamu suka minum bir? Tidak, saya benci.",
+      "answer": "ビール を のむ の が すき です か。いいえ、きらい です"
+    },
+    {
+      "question": "Karena tidak punya uang, saya tidak membeli kamera.",
+      "answer": "おかね が ありません から、 カメラ を かいません でした"
+    },
+    {
+      "question": "Bunga ini cantik tapi mahal ya.",
+      "answer": "この はな は きれい です が、たかい です ね"
+    },
+    {
+      "question": "Apa olahraga yang kamu paling sukai?",
+      "answer": "スポーツ で なに が いちばん すき です か"
+    },
+    {
+      "question": "Sdr. Yamada pandai olahraga tapi saya tidak pandai.",
+      "answer": "やまださん は スポーツ が じょうず です が、 わたし は へた です"
+    },
+    {
+      "question": "Kenapa kamu pulang cepat? Karena sakit.",
+      "answer": "どうして はやく かえります か。びょうき です から"
+    }
+  ],
+  "bab10": [
+    {
+      "question": "Di taman ada banyak pohon dan bunga yang indah.",
+      "answer": "こうえん に き と きれいな はな が たくさん あります"
+    },
+    {
+      "question": "Di bawah meja ada kucing dan anjing tidur.",
+      "answer": "つくえ の した に ねこ と いぬ が います"
+    },
+    {
+      "question": "Di antara gedung bank dan supermarket ada toko buku.",
+      "answer": "ぎんこう と スーパー の あいだ に ほんや が あります"
+    },
+    {
+      "question": "Tolong ambilkan buku yang ada di atas laci.",
+      "answer": "ひきだし の うえ に ある ほん を とって ください"
+    },
+    {
+      "question": "Di dalam kotak ini ada apa saja?",
+      "answer": "この はこ の なか に なに が あります か"
+    },
+    {
+      "question": "Ada jam tangan antik, kacamata, dan lain-lain.",
+      "answer": "ふるい とけい や めがね など が あります"
+    },
+    {
+      "question": "Sdr. Tanaka sedang berada di dalam ruang rapat.",
+      "answer": "たなかさん は かいぎしつ の なか に います"
+    },
+    {
+      "question": "Di dekat stasiun ada kedai kopi yang enak dan murah.",
+      "answer": "えき の ちかく に おいしくて やすい きっさてん が あります"
+    },
+    {
+      "question": "Tempat pensil ada di mana? Ada di sebelah kanan kamus.",
+      "answer": "ふでばこ は どこ に あります か。じしょ の みぎ に あります"
+    },
+    {
+      "question": "Di luar jendela terlihat burung terbang.",
+      "answer": "まど の そと に とり が います"
+    },
+    {
+      "question": "Apakah di lobi ada siapa-siapa?",
+      "answer": "ロビー に だれか います か"
+    },
+    {
+      "question": "Tidak, tidak ada siapa-siapa sama sekali.",
+      "answer": "いいえ、だれも いません"
+    },
+    {
+      "question": "Rumah sakit ada di sebelah kantor pos.",
+      "answer": "びょういん は ゆうびんきょく の となり に あります"
+    },
+    {
+      "question": "Saya menunggu di belakang mesin tiket.",
+      "answer": "けんばいき の うしろ で まちます"
+    },
+    {
+      "question": "Di kulkas tidak ada apapun.",
+      "answer": "れいぞうこ の なか に なにも ありません"
+    },
+    {
+      "question": "Kucing putih itu ada di pojok ruangan.",
+      "answer": "あの しろい ねこ は へや の すみ に います"
+    },
+    {
+      "question": "Anak laki-laki ada di depan pintu masuk.",
+      "answer": "おとこのこ は ドア の まえ に います"
+    },
+    {
+      "question": "Di kamar tidur ada kasur, meja, rak buku, dsb.",
+      "answer": "しんしつ に ベッド や つくえ や ほんだな など が あります"
+    },
+    {
+      "question": "Toko Sdr. Yamada ada di mana?",
+      "answer": "やまださん の みせ は どこ に あります か"
+    },
+    {
+      "question": "Ada di bawah jembatan itu.",
+      "answer": "あの はし の した に あります"
+    }
+  ],
+  "bab11": [
+    {
+      "question": "Saya ingin membeli tiga buah jeruk dan dua buah apel.",
+      "answer": "みかん を みっつ と りんご を ふたつ かいたい です"
+    },
+    {
+      "question": "Di meja ada lima lembar kertas, tolong ambilkan.",
+      "answer": "つくえ に かみ が ごまい あります、とって ください"
+    },
+    {
+      "question": "Di garasi ada 4 unit mobil buatan Jerman.",
+      "answer": "車庫 に ドイツ の くるま が よんだい あります"
+    },
+    {
+      "question": "Saya sudah belajar bahasa Jepang selama kurang lebih setengah tahun.",
+      "answer": "わたし は はんとし ぐらい にほんご を べんきょう しました"
+    },
+    {
+      "question": "Dari rumah ke universitas memakan waktu sekitar satu jam setengah.",
+      "answer": "うち から だいがく まで いちじかん はん ぐらい かかります"
+    },
+    {
+      "question": "Dalam seminggu, saya berolahraga sebanyak 3 kali.",
+      "answer": "いっしゅうかん に さんかい スポーツ を します"
+    },
+    {
+      "question": "Keluarga saya ada 6 orang, termasuk saya.",
+      "answer": "わたし の かぞく は わたし を いれて ろくにん います"
+    },
+    {
+      "question": "Tolong berikan tiket masuk ini sebanyak 8 lembar.",
+      "answer": "この きっぷ を はちまい ください"
+    },
+    {
+      "question": "Hanya butuh 5 menit berjalan kaki ke stasiun lho.",
+      "answer": "えき まで あるいて ごふん しか かかりません よ"
+    },
+    {
+      "question": "Berapa banyak kemeja putih yang kamu punya?",
+      "answer": "しろい シャツ が なんまい あります か"
+    },
+    {
+      "question": "Saya memesan dua porsi kari dan tiga buah roti.",
+      "answer": "カレー を ふたつ と パン を みっつ ちゅうもん します"
+    },
+    {
+      "question": "Sdr. Miller mempunyai dua orang anak laki-laki.",
+      "answer": "ミラーさん は おとこのこ が ふたり います"
+    },
+    {
+      "question": "Di taman ada berapa ekor anjing?",
+      "answer": "こうえん に いぬ が なんびき います か"
+    },
+    {
+      "question": "Dalam setahun kamu libur panjang berapa kali?",
+      "answer": "いちねん に なんかい ながい やすみ を とります か"
+    },
+    {
+      "question": "Saya pergi jalan-jalan bersama tiga orang teman.",
+      "answer": "ともだち さんにん と さんぽ し に いきました"
+    },
+    {
+      "question": "Saya makan sandwich satu saja tadi pagi.",
+      "answer": "けさ サンドイッチ を ひとつ だけ たべました"
+    },
+    {
+      "question": "Pengiriman barang ke Tokyo butuh berapa hari?",
+      "answer": "とうきょう まで にもつ は なんにち かかります か"
+    },
+    {
+      "question": "Dua hari saja sudah cukup.",
+      "answer": "ふつか だけで いい です"
+    },
+    {
+      "question": "Di kelas bahasa Jepang ada 10 mahasiswa asing.",
+      "answer": "にほんご の クラス に りゅうがくせい が じゅうにん います"
+    },
+    {
+      "question": "Kirim surat ini tolong bayar prangko 3 lembar.",
+      "answer": "この てがみ を おくる に きって が さんまい いります"
+    }
+  ],
+  "bab12": [
+    {
+      "question": "Ujian minggu lalu tidak begitu sulit, tapi panjang.",
+      "answer": "せんしゅう の しけん は あまり むずかしくない でした が、 ながかった です"
+    },
+    {
+      "question": "Kemarin cuacanya hujan lebat, jadi sangat dingin.",
+      "answer": "きのう は おおあめ でした から、 とても さむかった です"
+    },
+    {
+      "question": "Taman bermain di sana tidak terlalu ramai kemarin lusa.",
+      "answer": "おととい、 あそこ の ゆうえんち は あまり にぎやか じゃ ありません でした"
+    },
+    {
+      "question": "Pesawat lebih cepat daripada kapal, tetapi mahal.",
+      "answer": "ひこうき は ふね より はやい です が、 たかい です"
+    },
+    {
+      "question": "Di antara Tokyo dan Kyoto, kamu lebih suka tinggal di mana?",
+      "answer": "とうきょう と きょうと と どちら が すみたい です か"
+    },
+    {
+      "question": "Saya lebih suka di Kyoto, karena lebih tenang.",
+      "answer": "きょうと の ほう が すき です。しずか です から"
+    },
+    {
+      "question": "Di seluruh dunia, negara apa yang paling kamu sukai?",
+      "answer": "せかい で どの くに が いちばん すき です か"
+    },
+    {
+      "question": "Tentu saja negara sendiri yang paling indah.",
+      "answer": "もちろん じぶん の くに が いちばん きれい だ と おもいます"
+    },
+    {
+      "question": "Hotel tempat menginap kemarin kamarnya kecil dan tidak bagus.",
+      "answer": "きのう の ホテル は へや が ちいさくて、 よくない でした"
+    },
+    {
+      "question": "Film itu seru sekali! Dibandingkan film lain, ini yang terbaik.",
+      "answer": "あの えいが は とても おもしろかった です！ ほか の より いちばん いい です"
+    },
+    {
+      "question": "Dulu rambut saya panjang, tapi sekarang pendek.",
+      "answer": "むかし わたし の かみ は ながかった です が、 いま は みじかい です"
+    },
+    {
+      "question": "Kamera ini lebih ringan daripada kamus itu.",
+      "answer": "この カメラ は あの じしょ より かるい です"
+    },
+    {
+      "question": "Di antara musim, musim gugur adalah yang paling sejuk.",
+      "answer": "きせつ で あき が いちばん すずしい です"
+    },
+    {
+      "question": "Tas merek ini harganya mahal dan dulu berat sekali.",
+      "answer": "この かばん は たかくて、 むかし は とても おもかった です"
+    },
+    {
+      "question": "Apakah liburan panjang menyenangkan? Tidak, membosankan.",
+      "answer": "ながい やすみ は たのしかった です か。いいえ、つまらない でした"
+    },
+    {
+      "question": "Restoran kemarin pelayanannya buruk.",
+      "answer": "きのう の レストラン は サービス が わるい でした"
+    },
+    {
+      "question": "Makan di luar lebih mahal daripada makan di rumah.",
+      "answer": "そと で たべる ほう が うち で たべる より たかい です"
+    },
+    {
+      "question": "Pesta kemarin siapa yang paling sibuk?",
+      "answer": "きのう の パーティー は だれ が いちばん いそがしかった です か"
+    },
+    {
+      "question": "Ibu yang paling sibuk memasak masakan.",
+      "answer": "はは が りょうり で いちばん いそがしかった です"
+    },
+    {
+      "question": "Pemandangan dari sini luar biasa indah ya kemarin.",
+      "answer": "きのう ここ から の けしき は すばらしく きれい でした ね"
+    }
+  ],
+  "bab13": [
+    {
+      "question": "Setelah mendapat gaji, saya paling menginginkan komputer canggih.",
+      "answer": "きゅうりょう を もらってから、 いい コンピューター が いちばん ほしい です"
+    },
+    {
+      "question": "Karena hari ini panas, saya ingin makan es krim yang dingin.",
+      "answer": "きょう は あつい です から、 つめたい アイスクリーム が たべたい です"
+    },
+    {
+      "question": "Saat sedang lelah, saya tidak ingin melakukan apapun sama sekali.",
+      "answer": "つかれた とき、 なにも したくない です"
+    },
+    {
+      "question": "Besok saya pergi ke bandara untuk menjemput orang tua.",
+      "answer": "あした わたし は くうこう へ りょうしん を むかえ に いきます"
+    },
+    {
+      "question": "Teman saya datang ke Jepang untuk belajar ekonomi di universitas.",
+      "answer": "ともだち は にほん へ だいがく で けいざい を べんきょう し に きました"
+    },
+    {
+      "question": "Anak saya benci sayur, jadi dia tidak ingin memakannya.",
+      "answer": "こども は やさい が きらい です から、 たべたくない です"
+    },
+    {
+      "question": "Kamu paling ingin bertemu dengan siapa sekarang?",
+      "answer": "いま だれ に いちばん あいたい です か"
+    },
+    {
+      "question": "Saya masuk ke warung kopi itu untuk meminum teh hangat.",
+      "answer": "あの きっさてん へ あたたかい おちゃ を のみ に はいりました"
+    },
+    {
+      "question": "Sabtu depan, ayo kita pergi berbelanja di Ginza bersama.",
+      "answer": "らいしゅう の どようび、 いっしょに ぎんざ へ かいもの に いきましょう"
+    },
+    {
+      "question": "Saya mengundang teman ke rumah untuk bermain game bersama.",
+      "answer": "ともだち を うち へ ゲーム を し に よびました"
+    },
+    {
+      "question": "Kamu tidak lelah? Ingin beristirahat sebentar?",
+      "answer": "つかれない です か。すこし やすみたい です か"
+    },
+    {
+      "question": "Hari ini perut saya sakit, jadi tidak mau makan apapun.",
+      "answer": "きょう は おなか が いたい です から、 なにも たべたくない です"
+    },
+    {
+      "question": "Istri saya menginginkan tas baru yang mahal itu.",
+      "answer": "つま は あの たかい あたらしい かばん を ほしがって います"
+    },
+    {
+      "question": "Musim panas tahun depan, saya ingin pergi ke laut untuk berenang.",
+      "answer": "らいねん の なつ、 うみ へ およぎ に いきたい です"
+    },
+    {
+      "question": "Karena sudah lapar, saya mau mampir ke sana untuk makan ramen.",
+      "answer": "おなか が すきました から、 あそこ へ ラーメン を たべ に よりたい です"
+    },
+    {
+      "question": "Kamu haus? Ingin minum bir dingin?",
+      "answer": "のど が かわきました か。つめたい ビール を のみたい です か"
+    },
+    {
+      "question": "Bulan lalu saya kembali ke negara asal untuk menikah.",
+      "answer": "せんげつ くに へ けっこん し に かえりました"
+    },
+    {
+      "question": "Waktu luang kamu biasanya apa yang paling kamu inginkan?",
+      "answer": "ひまな とき なに が いちばん ほしい です か"
+    },
+    {
+      "question": "Saya cuma menginginkan ketenangan dan tidur.",
+      "answer": "しずか な じかん と すいみん だけ が ほしい です"
+    },
+    {
+      "question": "Guru datang ke perpustakaan untuk membaca buku sejarah.",
+      "answer": "せんせい は としょかん へ れきし の ほん を よみ に きました"
+    }
+  ],
+  "bab14": [
+    {
+      "question": "Karena sangat panas, tolong nyalakan AC sekarang.",
+      "answer": "とても あつい です から、 いま エアコン を つけて ください"
+    },
+    {
+      "question": "Jangan cepat-cepat! Tolong tunggu sebentar di sini.",
+      "answer": "いそがないで！ ここ で ちょっと まって ください"
+    },
+    {
+      "question": "Sdr. Miller sedang mengobrol dengan presiden direktur di ruang rapat.",
+      "answer": "ミラーさん は かいぎしつ で しゃちょう と はなして います"
+    },
+    {
+      "question": "Karena hujan mulai turun lebat, mari saya panggilkan taksi.",
+      "answer": "あめ が おおきく ふって います から、 タクシー を よびましょう か"
+    },
+    {
+      "question": "Bolehkah saya membawakan dua tas besar milik Anda ini?",
+      "answer": "この あなた の おおきな かばん を ふたつ もちましょう か"
+    },
+    {
+      "question": "Maaf, tolong pelankan suara radionya sedikit.",
+      "answer": "すみません、 ラジオ の おと を もう すこし ちいさく して ください"
+    },
+    {
+      "question": "Tolong buka pintu itu lebar-lebar karena udara gerah.",
+      "answer": "むしあつい です から、 あの ドア を おおきく あけて ください"
+    },
+    {
+      "question": "Sekarang kakak perempuan saya sedang membuat kue di dapur.",
+      "answer": "いま あね は だいどころ で ケーキ を つくって います"
+    },
+    {
+      "question": "Lihatlah ke sana! Ada burung yang sangat indah lho.",
+      "answer": "あそこ を みて ください！ とても きれいな とり が います よ"
+    },
+    {
+      "question": "Tolong belok ke kanan di perempatan lampu merah itu.",
+      "answer": "あの しんごう の こうさてん を みぎ へ まがって ください"
+    },
+    {
+      "question": "Di stasiun ini, tolong perlihatkan tiket kepada petugas.",
+      "answer": "この えき で、 えきいん に きっぷ を みせて ください"
+    },
+    {
+      "question": "Hati-hati ya saat menyeberang jalan ini.",
+      "answer": "この みち を わたる とき、 き を つけて ください"
+    },
+    {
+      "question": "Kakak laki-laki sedang berdiri membaca koran di lobi.",
+      "answer": "あに は ロビー で たって しんぶん を よんで います"
+    },
+    {
+      "question": "Waktu tidak cukup, jadi tolong cepat panggil taksi.",
+      "answer": "じかん が ありません から、 はやく タクシー を よんで ください"
+    },
+    {
+      "question": "Salju sedang turun dengan sangat lebat di luar.",
+      "answer": "そと で ゆき が とても おおく ふって います"
+    },
+    {
+      "question": "Mari saya pinjamkan payung ini kepadamu.",
+      "answer": "あなた に この かさ を かしましょう か"
+    },
+    {
+      "question": "Tolong tulis nama lengkapmu menggunakan huruf kanji.",
+      "answer": "なまえ を ぜんぶ かんじ で かいて ください"
+    },
+    {
+      "question": "Mohon ingat kosakata bahasa Jepang sebelum ujian.",
+      "answer": "しけん の まえ に、 にほんご の ことば を おぼえて ください"
+    },
+    {
+      "question": "Guru sedang menerangkan tata bahasa kepada siswa di kelas.",
+      "answer": "せんせい は きょうしつ で がくせい に ぶんぽう を おしえて います"
+    },
+    {
+      "question": "Aku mau mematikan TV, apakah kamu sedang menontonnya?",
+      "answer": "テレビ を けしましょう か。いま みて います か"
+    }
+  ],
+  "bab15": [
+    {
+      "question": "Bolehkah saya mengambil foto di dalam kuil ini? Tidak, tidak boleh.",
+      "answer": "この おてら の なか で しゃしん を とって も いい です か。いいえ、とって は いけません"
+    },
+    {
+      "question": "Di pameran ini, tolong jangan menyentuh barang buatan luar negeri.",
+      "answer": "この てんらんかい で、 がいこく の けんぶつ に さわって は いけません"
+    },
+    {
+      "question": "Bolehkah saya membawa pulang katalog ini ke rumah?",
+      "answer": "この カタログ を うち へ もって かえって も いい です か"
+    },
+    {
+      "question": "Apakah kamu kenal orang yang berdiri menggunakan kacamata hitam itu?",
+      "answer": "あの くろい めがね を かけて たって いる ひと を しって います か"
+    },
+    {
+      "question": "Kakak saya tinggal di Osaka dan bekerja memproduksi mobil.",
+      "answer": "あに は おおさか に すんで いて、 くるま を つくって います"
+    },
+    {
+      "question": "Ponsel saya rusak, bolehkah saya meminjam telepon di sini?",
+      "answer": "わたし の けいたい が こわれました、ここ の でんわ を つかって も いい です か"
+    },
+    {
+      "question": "Di perpustakaan dilarang makan dan minum dengan ribut.",
+      "answer": "としょかん で は うるさく のんで たべて は いけません"
+    },
+    {
+      "question": "Sdr. Miller tahu nomor telepon perusahaan taksi itu tidak?",
+      "answer": "ミラーさん は あの タクシー かいしゃ の でんわばんごう を しって います か"
+    },
+    {
+      "question": "Bolehkah saya menghisap rokok di bangku dekat jendela ini?",
+      "answer": "まど の ちかく の ベンチ で たばこ を すって も いい です か"
+    },
+    {
+      "question": "Mobil Sdr. Suzuki sangat unik, dia membelinya 10 tahun lalu lho.",
+      "answer": "すずきさん の くるま は ユニーク で、 １０ねん まえ に かって もちました よ"
+    },
+    {
+      "question": "Dilarang memarkir mobil di depan rumah sakit ini.",
+      "answer": "この びょういん の まえ に くるま を とめて は いけません"
+    },
+    {
+      "question": "Karena di luar hujan lebat, bolehkah tutup jendelanya?",
+      "answer": "そと は おおあめ です から、 まど を しめて も いい です か"
+    },
+    {
+      "question": "Di museum dilarang menggunakan lampu kilat kamera.",
+      "answer": "はくぶつかん で カメラ の フラッシュ を つかって は いけません"
+    },
+    {
+      "question": "Ayah saya menjual perangkat lunak komputer di Tokyo.",
+      "answer": "ちち は とうきょう で コンピューター の ソフト を うって います"
+    },
+    {
+      "question": "Saya tidak tahu jam berapa rapat akan dimulai hari ini.",
+      "answer": "きょう の かいぎ が なんじ に はじまる か しりません"
+    },
+    {
+      "question": "Guru sedang memegang kapur tulis di depan kelas.",
+      "answer": "せんせい は きょうしつ の まえ で チョーク を もって います"
+    },
+    {
+      "question": "Bolehkah saya masuk ruangan sekarang? Tolong tunggu di luar.",
+      "answer": "いま へや へ はいって も いい です か。そと で まって ください"
+    },
+    {
+      "question": "Menikah dengan warga asing adalah hal yang menarik.",
+      "answer": "がいこくじん と けっこん して いる の は おもしろい です"
+    },
+    {
+      "question": "Dilarang membuang sampah sembarangan di sungai ini.",
+      "answer": "この かわ に ごみ を すてて は いけません"
+    },
+    {
+      "question": "Bolehkah meminjam kamus Sdr. Kimura sebentar saja?",
+      "answer": "きむらさん の じしょ を ちょっと かりて も いい です か"
+    }
+  ]
+}

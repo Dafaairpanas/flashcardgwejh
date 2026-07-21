@@ -6,6 +6,7 @@
 import './style.css';
 import { loadData, getChapters, getCardsByChapters, shuffleCards, chapterDisplayName, getChapterStats } from './data.js';
 import { FSRSStateManager, Rating } from './fsrs.js';
+import { SessionQueue } from './session-queue.js';
 import { initTTS, speak, stopSpeech } from './tts.js';
 import { registerSW } from 'virtual:pwa-register';
 import { initDictionary } from './dictionary.js';
@@ -33,8 +34,8 @@ const state = {
   soundEnabled: true,
 
   // Study session
-  sessionCards: [],
-  currentIndex: 0,
+  sessionQueue: null,       // SessionQueue instance
+  currentCard: null,        // Current card being shown
   isFlipped: false,
   sessionStartTime: null,
   totalReviewed: 0,
@@ -285,10 +286,14 @@ function startStudy() {
     return;
   }
 
-  // Build queue: FSRS-sorted, then shuffle new cards
+  // Build queue: FSRS-sorted, then create SessionQueue for randomized repeats
   const sorted = fsrs.getSortedQueue(cards);
-  state.sessionCards = sorted;
-  state.currentIndex = 0;
+  state.sessionQueue = new SessionQueue(sorted, {
+    minCooldown: 3,
+    maxCooldown: 8,
+    repeatChance: 0.5,
+  });
+  state.currentCard = null;
   state.isFlipped = false;
   state.sessionStartTime = Date.now();
   state.totalReviewed = 0;
@@ -299,12 +304,20 @@ function startStudy() {
 }
 
 function showCard() {
-  if (state.currentIndex >= state.sessionCards.length) {
+  const queue = state.sessionQueue;
+  if (!queue || !queue.hasNext) {
     finishSession();
     return;
   }
 
-  const card = state.sessionCards[state.currentIndex];
+  // Get next card from the randomized queue
+  const card = queue.next();
+  if (!card) {
+    finishSession();
+    return;
+  }
+
+  state.currentCard = card;
   state.isFlipped = false;
 
   // Reset flip
@@ -312,15 +325,15 @@ function showCard() {
   $('rating-area').classList.add('hidden');
 
   // Update progress
-  const progress = state.sessionCards.length > 0
-    ? (state.currentIndex / state.sessionCards.length) * 100
-    : 0;
-  $('progress-fill').style.width = `${progress}%`;
-  $('progress-text').textContent = `${state.currentIndex + 1}/${state.sessionCards.length}`;
+  const served = queue.servedCount;
+  const total = queue.totalCount;
+  const progress = total > 0 ? (served / total) * 100 : 0;
+  $('progress-fill').style.width = `${Math.min(progress, 100)}%`;
+  $('progress-text').textContent = `${served}/${total}`;
 
   // Update study info
-  const remainingCards = state.sessionCards.slice(state.currentIndex);
-  const stats = fsrs.getStats(remainingCards);
+  const pendingCards = queue.getPendingCards();
+  const stats = fsrs.getStats(pendingCards);
   $('study-new').textContent = stats.newCount;
   $('study-learning').textContent = stats.learningCount;
   $('study-due').textContent = stats.dueCount;
@@ -445,7 +458,7 @@ function flipCard() {
   }, 50);
 
   // Show intervals
-  const card = state.sessionCards[state.currentIndex];
+  const card = state.currentCard;
   $('interval-again').textContent = fsrs.getIntervalText(card.id, Rating.AGAIN);
   $('interval-hard').textContent = fsrs.getIntervalText(card.id, Rating.HARD);
   $('interval-good').textContent = fsrs.getIntervalText(card.id, Rating.GOOD);
@@ -453,15 +466,14 @@ function flipCard() {
 
   // Play sound on flip for modes 1, 3
   if (state.soundEnabled && (state.studyMode === 1 || state.studyMode === 3)) {
-    const currentCard = state.sessionCards[state.currentIndex];
-    playCardSound(currentCard);
+    playCardSound(card);
   }
 }
 
 function rateCard(rating) {
   if (!state.isFlipped) return;
 
-  const card = state.sessionCards[state.currentIndex];
+  const card = state.currentCard;
   fsrs.reviewCard(card.id, rating);
 
   state.totalReviewed++;
@@ -484,21 +496,11 @@ function rateCard(rating) {
   };
   const repeats = repeatMap[rating] ?? 0;
 
-  // Insert repeated copies at random positions ahead in the queue
-  const remaining = state.sessionCards.length - (state.currentIndex + 1);
-  for (let i = 0; i < repeats; i++) {
-    // Random offset: 3-8 cards ahead, capped to remaining queue length
-    const minOffset = 3;
-    const maxOffset = Math.max(minOffset + 1, Math.min(8, remaining + i + 1));
-    const offset = minOffset + Math.floor(Math.random() * (maxOffset - minOffset));
-    const insertAt = Math.min(
-      state.currentIndex + 1 + offset,
-      state.sessionCards.length
-    );
-    state.sessionCards.splice(insertAt, 0, card);
+  // Add to SessionQueue's repeat pool — truly randomized reappearance
+  if (repeats > 0) {
+    state.sessionQueue.addRepeat(card, repeats);
   }
 
-  state.currentIndex++;
   stopSpeech();
   showCard();
 }
@@ -731,8 +733,8 @@ function setupEventListeners() {
       case 's':
       case 'S':
         // Replay sound
-        if (state.sessionCards[state.currentIndex]) {
-          playCardSound(state.sessionCards[state.currentIndex]);
+        if (state.currentCard) {
+          playCardSound(state.currentCard);
         }
         break;
     }

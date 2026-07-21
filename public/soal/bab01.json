@@ -1,10 +1,62 @@
 [
   {
-    "question": "わたし は 学生 です",
-    "answer": "Saya adalah seorang siswa"
+    "question": "Saya adalah Mike Miller",
+    "answer": "わたし は まいく・みらー です"
   },
   {
-    "question": "Saya makan apel",
-    "answer": "わたし は りんご を たべます"
+    "question": "Apakah Anda orang Jepang?",
+    "answer": "あなた は にほんじん です か"
+  },
+  {
+    "question": "いいえ、わたし は いしゃ じゃ ありません",
+    "answer": "Bukan, saya bukan dokter"
+  },
+  {
+    "question": "てれさちゃん は ９さい です",
+    "answer": "Teresa berusia 9 tahun"
+  },
+  {
+    "question": "あのひと は だれ です か",
+    "answer": "Siapakah orang itu?"
+  },
+  {
+    "question": "しつれい です が、 おなまえ は？",
+    "answer": "Permisi, nama Anda siapa?"
+  },
+  {
+    "question": "Apakah Sdr. Miller pegawai bank?",
+    "answer": "みらーさん は ぎんこういん です か"
+  },
+  {
+    "question": "Saya adalah pegawai perusahaan IMC",
+    "answer": "わたし は ＩＭＣ の しゃいん です"
+  },
+  {
+    "question": "Sdr. Santos bukan mahasiswa",
+    "answer": "さんとすさん は がくせい じゃ ありません"
+  },
+  {
+    "question": "たなかさん も けんきゅうしゃ です",
+    "answer": "Sdr. Tanaka juga peneliti"
+  },
+  {
+    "question": "わたし は インドネシア から きました",
+    "answer": "Saya datang dari Indonesia"
+  },
+  {
+    "question": "Sdr. Yamada bukan guru",
+    "answer": "やまださん は せんせい じゃ ありません"
+  },
+  {
+    "question": "あのかた は どなた です か",
+    "answer": "Siapakah beliau itu?"
+  },
+  {
+    "question": "どうぞ よろしく おねがいします",
+    "answer": "Senang berkenalan dengan Anda / Mohon bimbingannya"
+  },
+  {
+    "question": "Sdr. Gupta juga pegawai perusahaan",
+    "answer": "ぐぷたさん も かいしゃいん です"
   }
 ]
