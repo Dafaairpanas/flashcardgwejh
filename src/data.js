@@ -46,7 +46,18 @@ export async function loadData() {
   if (ALL_CARDS.length > 0) return ALL_CARDS;
 
   try {
-    const response = await fetch('/datamatang.txt');
+    let response = await fetch('/datamatang.txt');
+    
+    // If the cached response is bad (e.g. old SW served a 404), retry bypassing cache
+    if (!response.ok) {
+      console.warn(`[Data] First fetch failed (${response.status}), retrying with cache bust...`);
+      response = await fetch('/datamatang.txt?_t=' + Date.now(), { cache: 'no-store' });
+    }
+    
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+    }
+
     const text = await response.text();
     const lines = text.split('\n').filter(l => l.trim().length > 0);
 

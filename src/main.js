@@ -137,7 +137,8 @@ async function init() {
       <div class="loading-screen">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:48px; height:48px; color:var(--accent-rose);"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
         <p class="loading-text">Failed to initialize workspace.</p>
-        <p class="loading-text">Ensure <code>data.txt</code> exists in the <code>public/</code> directory.</p>
+        <p class="loading-text">Ensure <code>datamatang.txt</code> exists in the <code>public/</code> directory.</p>
+        <p class="loading-text" style="font-size:0.75rem; opacity:0.6; margin-top:8px;">Jika masalah berlanjut, hapus cache browser / reinstall PWA.</p>
       </div>
     `;
     return;
