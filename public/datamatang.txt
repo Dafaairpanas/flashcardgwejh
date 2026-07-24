@@ -3057,13 +3057,6 @@ JR;ジェイアール;JR (nama perusahaan rel kereta listrik);Bab16;-
 サッカー;サッカー;Sepak bola;Bab09extra;-
 ラグビー;ラグビー;Rugby;Bab09extra;-
 バレーボール;バレーボール;Voli;Bab09extra;-
-テニス;テニス;Tenis;Bab09extra;-
-ボウリング;ボウリング;Bowling;Bab09extra;-
-スキー;スキー;Sky;Bab09extra;-
-スケート;スケート;Skate;Bab09extra;-
-卓球;たっきゅう／ピンポン;Pingpong;Bab09extra;-
-相撲;すもう;Sumo;Bab09extra;-
-柔道;じゅうどう;Judo;Bab09extra;n2
 剣道;けんどう;Kendo;Bab09extra;-
 水泳;すいえい;Renang;Bab09extra;n3
 

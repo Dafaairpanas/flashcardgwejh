@@ -1803,3 +1803,219 @@ body {
   font-size: 1rem;
   color: var(--text-muted);
 }
+
+/* ══════════════════════════════════
+   KOTOBA LIST TABLE STYLES
+   ══════════════════════════════════ */
+.kotoba-table-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.kotoba-title-wrap {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.kotoba-bab-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: 0.5px;
+}
+
+.kotoba-table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-glass);
+  background: rgba(12, 12, 14, 0.7);
+  box-shadow: var(--shadow-sm);
+  touch-action: pan-x pan-y pinch-zoom;
+}
+
+.kotoba-table {
+  width: 100%;
+  min-width: 520px;
+  border-collapse: collapse;
+  text-align: left;
+  font-size: 0.95rem;
+}
+
+.kotoba-table th {
+  background: rgba(255, 255, 255, 0.07);
+  color: var(--text-secondary);
+  font-weight: 700;
+  font-size: 0.85rem;
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border-glass);
+  border-right: 1px solid rgba(255, 255, 255, 0.05);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  position: sticky;
+  top: 0;
+  backdrop-filter: blur(10px);
+}
+
+.kotoba-table th:last-child {
+  border-right: none;
+}
+
+.kotoba-table td {
+  padding: 12px 16px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+  border-right: 1px solid rgba(255, 255, 255, 0.04);
+  vertical-align: middle;
+}
+
+.kotoba-table td:last-child {
+  border-right: none;
+}
+
+.kotoba-table tbody tr {
+  transition: background 0.15s ease;
+}
+
+.kotoba-table tbody tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.kotoba-table tbody tr:hover {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.kotoba-table th .th-sub {
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.45);
+  text-transform: none;
+  font-weight: 400;
+  margin-left: 4px;
+}
+
+/* Column Widths & Specific User-Recommended Color Triad */
+.kotoba-table .col-kana {
+  width: 33%;
+}
+
+.kotoba-table .col-kanji {
+  width: 27%;
+}
+
+.kotoba-table .col-meaning {
+  width: 40%;
+}
+
+/* Smooth, high-contrast, non-glaring colors */
+.kana-text {
+  color: #4FD1C5; /* Soft aqua / cyan */
+  font-family: var(--font-jp);
+  font-weight: 500;
+  font-size: 1.05rem;
+}
+
+.kanji-text {
+  color: #F6AD55; /* Soft gold / orange for Kanji highlight */
+  font-family: var(--font-jp);
+  font-weight: 700;
+  font-size: 1.15rem;
+}
+
+.meaning-text {
+  color: #6EE7B7; /* Pale mint green for Meaning */
+  font-weight: 400;
+}
+
+.kotoba-badge-count {
+  position: static !important;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: 12px;
+  background: rgba(167, 139, 250, 0.15);
+  color: var(--accent-violet);
+  border: 1px solid rgba(167, 139, 250, 0.3);
+  white-space: nowrap;
+  display: inline-block;
+}
+
+@media (max-width: 640px) {
+  .kotoba-table-header {
+    gap: 8px;
+  }
+  .kotoba-bab-title {
+    font-size: 1.2rem;
+  }
+  
+  /* Mobile Kotoba Card Layout: Meaning stacked below Kana & Kanji */
+  .kotoba-table-wrapper {
+    overflow-x: visible;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+  }
+
+  .kotoba-table {
+    display: block;
+    min-width: 0;
+    width: 100%;
+  }
+
+  .kotoba-table thead {
+    display: none;
+  }
+
+  .kotoba-table tbody {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .kotoba-table tbody tr {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+      "kana kanji"
+      "meaning meaning";
+    align-items: center;
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid var(--border-glass);
+    border-radius: var(--radius-md);
+    padding: 12px 14px;
+    gap: 6px 10px;
+  }
+
+  .kotoba-table .col-kana {
+    grid-area: kana;
+    width: auto;
+  }
+
+  .kotoba-table .col-kanji {
+    grid-area: kanji;
+    width: auto;
+  }
+
+  .kotoba-table .col-meaning {
+    grid-area: meaning;
+    width: 100%;
+    margin-top: 2px;
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+    padding-top: 6px !important;
+    word-break: break-word;
+  }
+
+  .kotoba-table td {
+    padding: 0 !important;
+    border: none !important;
+  }
+
+  .kana-text { font-size: 1rem; }
+  .kanji-text { font-size: 1.05rem; }
+  .meaning-text { font-size: 0.95rem; line-height: 1.4; }
+}

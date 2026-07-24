@@ -12,6 +12,7 @@ import { registerSW } from 'virtual:pwa-register';
 import { initDictionary } from './dictionary.js';
 import { initKanjiPage } from './kanji-page.js';
 import { initQuiz } from './quiz.js';
+import { initKotobaList, showKotobaSelect } from './kotoba-list.js';
 
 // Register PWA Service Worker
 const updateSW = registerSW({
@@ -60,10 +61,11 @@ const views = {
   dictionary: $('dictionary-view'),
   kanji: $('kanji-view'),
   quiz: $('quiz-view'),
+  kotoba: $('kotoba-view'),
 };
 
 // Track which pages have been initialized
-const pageInitialized = { dictionary: false, kanji: false, quiz: false };
+const pageInitialized = { dictionary: false, kanji: false, quiz: false, kotoba: false };
 
 function showView(name) {
   Object.values(views).forEach(v => { if (v) v.classList.remove('active'); });
@@ -81,6 +83,12 @@ function showView(name) {
   if (name === 'quiz' && !pageInitialized.quiz) {
     initQuiz();
     pageInitialized.quiz = true;
+  }
+  if (name === 'kotoba') {
+    if (!pageInitialized.kotoba) {
+      initKotobaList();
+      pageInitialized.kotoba = true;
+    }
   }
 }
 

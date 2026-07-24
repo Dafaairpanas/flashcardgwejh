@@ -2,7 +2,7 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
   <meta name="description" content="Flashcard Bahasa Jepang dengan algoritma FSRS — belajar Kanji, Hiragana, dan kosakata dengan spaced repetition modern." />
   <meta name="theme-color" content="#07070b" />
   <link rel="apple-touch-icon" href="/favicon.svg" />
@@ -66,6 +66,12 @@
         <div class="menu-text">
           <span class="menu-label">Latihan Soal</span>
           <span class="menu-desc">Uji pemahaman per bab</span>
+        </div>
+      </a>
+      <a class="menu-item" data-page="kotoba">
+        <div class="menu-text">
+          <span class="menu-label">List Kotoba</span>
+          <span class="menu-desc">Tabel kosakata per bab</span>
         </div>
       </a>
     </div>
@@ -428,6 +434,54 @@
               <p class="quiz-score-pct" id="quiz-score-pct">0%</p>
               <button class="btn btn-primary" id="quiz-retry-btn">Ulangi</button>
               <button class="btn btn-ghost" id="quiz-home-btn">Kembali ke Menu</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ═══ KOTOBA LIST VIEW ═══ -->
+      <div class="view page-view" id="kotoba-view">
+        <div class="page-container">
+          <!-- Kotoba: Chapter Select Grid -->
+          <div id="kotoba-select">
+            <div class="page-header">
+              <h2 class="page-title">List Kotoba</h2>
+              <p class="page-subtitle">Pilih bab untuk melihat tabel kosakata lengkap</p>
+            </div>
+            <div class="quiz-bab-grid" id="kotoba-bab-grid"></div>
+          </div>
+
+          <!-- Kotoba: Table Area (hidden by default) -->
+          <div id="kotoba-table-area" style="display:none;">
+            <div class="kotoba-table-header">
+              <button class="btn btn-ghost btn-sm" id="kotoba-back-btn">← Pilih Bab</button>
+              <div class="kotoba-title-wrap">
+                <h2 class="kotoba-bab-title" id="kotoba-bab-title">BAB 1</h2>
+                <span class="kotoba-badge-count" id="kotoba-count">0 kata</span>
+              </div>
+              <select class="dict-select" id="kotoba-bab-select" style="max-width:110px; padding:6px 10px; font-size:0.85rem;"></select>
+            </div>
+
+            <!-- Search in Bab -->
+            <div class="dict-search-wrap" style="margin-bottom: 16px;">
+              <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+              <input type="text" class="dict-search" id="kotoba-search" placeholder="Cari kana, kanji, atau arti..." autocomplete="off" />
+            </div>
+
+            <!-- Responsive Zoomable Table -->
+            <div class="kotoba-table-wrapper">
+              <table class="kotoba-table">
+                <thead>
+                  <tr>
+                    <th class="col-kana">日本語 <span class="th-sub">Kana</span></th>
+                    <th class="col-kanji">漢字 <span class="th-sub">Kanji</span></th>
+                    <th class="col-meaning">インドネシア語 <span class="th-sub">Arti</span></th>
+                  </tr>
+                </thead>
+                <tbody id="kotoba-tbody">
+                  <!-- Rows inserted via JS -->
+                </tbody>
+              </table>
             </div>
           </div>
         </div>
