@@ -221,9 +221,11 @@ function buildChapterGrid() {
     chip.dataset.chapter = ch;
     chip.textContent = chapterDisplayName(ch);
     chip.title = `Utama: ${stats.main} | Extra: ${stats.extra}`;
-    chip.addEventListener('click', () => toggleChapter(ch));
     grid.appendChild(chip);
   });
+
+  // Drag-to-select setup
+  setupDragSelect(grid);
 
   // Update filter & mode UI from state
   document.querySelectorAll('#filter-group .filter-btn').forEach(btn => {
@@ -232,8 +234,8 @@ function buildChapterGrid() {
   document.querySelectorAll('#jlpt-group .filter-btn').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.jlpt === state.jlptFilter);
   });
-  document.querySelectorAll('.mode-card').forEach(card => {
-    card.classList.toggle('selected', parseInt(card.dataset.mode) === state.studyMode);
+  document.querySelectorAll('.mode-select-btn').forEach(btn => {
+    btn.classList.toggle('active', parseInt(btn.dataset.mode) === state.studyMode);
   });
   
   const jlptBento = document.getElementById('bento-jlpt');
@@ -247,6 +249,97 @@ function buildChapterGrid() {
 
   updateChapterBadge();
   updateCardCount();
+}
+
+// ── Drag-to-Select Logic ──
+function setupDragSelect(grid) {
+  let isDragging = false;
+  let dragAction = null; // 'select' or 'deselect'
+  let touchedChips = new Set(); // track chips already toggled in this drag
+
+  function getChipFromPoint(x, y) {
+    const el = document.elementFromPoint(x, y);
+    if (!el) return null;
+    return el.closest('.chapter-chip');
+  }
+
+  function applyDragToChip(chip) {
+    if (!chip || touchedChips.has(chip)) return;
+    touchedChips.add(chip);
+    const ch = chip.dataset.chapter;
+    if (!ch) return;
+
+    if (dragAction === 'select') {
+      if (!state.selectedChapters.includes(ch)) {
+        state.selectedChapters.push(ch);
+      }
+      chip.classList.add('selected');
+    } else {
+      const idx = state.selectedChapters.indexOf(ch);
+      if (idx !== -1) state.selectedChapters.splice(idx, 1);
+      chip.classList.remove('selected');
+    }
+  }
+
+  function finishDrag() {
+    if (isDragging) {
+      isDragging = false;
+      dragAction = null;
+      touchedChips.clear();
+      updateChapterBadge();
+      updateCardCount();
+      updateStats();
+      savePreferences();
+    }
+  }
+
+  // ── Mouse events (PC) ──
+  grid.addEventListener('mousedown', (e) => {
+    const chip = getChipFromPoint(e.clientX, e.clientY);
+    if (!chip) return;
+    e.preventDefault();
+    isDragging = true;
+    const ch = chip.dataset.chapter;
+    dragAction = state.selectedChapters.includes(ch) ? 'deselect' : 'select';
+    applyDragToChip(chip);
+  });
+
+  document.addEventListener('mousemove', (e) => {
+    if (!isDragging) return;
+    const chip = getChipFromPoint(e.clientX, e.clientY);
+    applyDragToChip(chip);
+  });
+
+  document.addEventListener('mouseup', () => {
+    finishDrag();
+  });
+
+  // ── Touch events (Mobile) ──
+  grid.addEventListener('touchstart', (e) => {
+    const touch = e.touches[0];
+    const chip = getChipFromPoint(touch.clientX, touch.clientY);
+    if (!chip) return;
+    isDragging = true;
+    const ch = chip.dataset.chapter;
+    dragAction = state.selectedChapters.includes(ch) ? 'deselect' : 'select';
+    applyDragToChip(chip);
+  }, { passive: true });
+
+  grid.addEventListener('touchmove', (e) => {
+    if (!isDragging) return;
+    e.preventDefault(); // prevent scrolling while dragging over chips
+    const touch = e.touches[0];
+    const chip = getChipFromPoint(touch.clientX, touch.clientY);
+    applyDragToChip(chip);
+  }, { passive: false });
+
+  grid.addEventListener('touchend', () => {
+    finishDrag();
+  });
+
+  grid.addEventListener('touchcancel', () => {
+    finishDrag();
+  });
 }
 
 function toggleChapter(ch) {
