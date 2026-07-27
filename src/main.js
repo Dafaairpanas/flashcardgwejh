@@ -31,8 +31,10 @@ const state = {
   selectedChapters: [],
   filterMode: 'all',    // 'all' | 'main' | 'extra'
   jlptFilter: 'all',    // 'all' | 'n5' | 'n4' | 'n3' | 'n2' | 'n1'
-  studyMode: 1,          // 1-4
+  studyMode: 1,         // 1-4
   soundEnabled: true,
+  // Font
+  jpFont: localStorage.getItem('gw_jp_font') || '"Noto Sans JP", sans-serif',
 
   // Study session
   sessionQueue: null,       // SessionQueue instance
@@ -48,6 +50,9 @@ const state = {
   chapters: [],
 };
 
+// Initialize Font
+document.documentElement.style.setProperty('--font-jp', state.jpFont);
+
 // FSRS manager
 const fsrs = new FSRSStateManager();
 
@@ -62,6 +67,7 @@ const views = {
   kanji: $('kanji-view'),
   quiz: $('quiz-view'),
   kotoba: $('kotoba-view'),
+  settings: $('settings-view'),
 };
 
 // Track which pages have been initialized
@@ -269,9 +275,12 @@ function updateChapterBadge() {
 function updateCardCount() {
   const cards = getCardsByChapters(state.selectedChapters, state.filterMode, state.jlptFilter, state.studyMode);
   const count = cards.length;
-  $('card-count-label').textContent = count > 0
-    ? `${count} kartu siap dipelajari`
-    : 'Pilih bab untuk mulai';
+  const label = $('card-count-label');
+  if (label) {
+    label.textContent = count > 0
+      ? `${count} kartu siap dipelajari`
+      : 'Pilih bab untuk mulai';
+  }
   $('start-btn').disabled = count === 0;
 }
 
@@ -357,22 +366,38 @@ function showCard() {
   }
 }
 
+function highlightKanji(text) {
+  if (!text) return '';
+  const hasKanji = /[\u4e00-\u9faf]/.test(text);
+  if (!hasKanji) return text;
+  
+  return text.split(/([\u4e00-\u9faf]+)/).map(part => {
+    if (!part) return '';
+    if (/[\u4e00-\u9faf]/.test(part)) {
+      return `<span class="kanji-focus">${part}</span>`;
+    }
+    return `<span class="okurigana-fade">${part}</span>`;
+  }).join('');
+}
+
 function renderCardFront(card) {
   const front = $('card-front');
   let html = '';
+  
+  const displayKanji = highlightKanji(card.kanji);
 
   switch (state.studyMode) {
     case 1: // Kanji + Furigana → Arti
       html = `
         <div class="card-furigana">${card.hiragana}</div>
-        <div class="card-kanji">${card.kanji}</div>
+        <div class="card-kanji">${displayKanji}</div>
       `;
       break;
 
     case 2: // Kanji (Recall)
       html = `
         <div class="card-furigana" id="hint-kana" style="opacity:0; transition:opacity 0.3s">${card.hiragana}</div>
-        <div class="card-kanji">${card.kanji}</div>
+        <div class="card-kanji">${displayKanji}</div>
         <button class="btn btn-ghost btn-sm" id="btn-show-hint" style="margin-top:12px; z-index:10" onclick="event.stopPropagation()">Reveal Hint</button>
       `;
       break;
@@ -424,6 +449,8 @@ function renderCardFront(card) {
 function renderCardBack(card) {
   const back = $('card-back');
   let html = '';
+  
+  const displayKanji = highlightKanji(card.kanji);
 
   switch (state.studyMode) {
     case 1: // Back: Arti
@@ -437,14 +464,14 @@ function renderCardBack(card) {
     case 3: // Back: Kanji + Furigana
       html = `
         <div class="card-furigana">${card.hiragana}</div>
-        <div class="card-kanji">${card.kanji}</div>
+        <div class="card-kanji">${displayKanji}</div>
       `;
       break;
  
     case 4: // Back: Arti
       html = `
         <div class="card-meaning">${card.meaning}</div>
-        <div class="card-meaning-sub">${card.kanji} — ${card.hiragana}</div>
+        <div class="card-meaning-sub">${displayKanji} — ${card.hiragana}</div>
       `;
       break;
   }
@@ -587,14 +614,34 @@ function setupEventListeners() {
     showToast(state.soundEnabled ? 'Audio Enabled' : 'Audio Disabled');
   });
 
-  // Reset
+  // Reset data logic
   $('nav-reset-btn').addEventListener('click', () => {
-    if (confirm('Reset semua progress belajar? Data FSRS akan dihapus.')) {
-      fsrs.reset();
-      updateStats();
-      showToast('Progress direset');
-    }
+    localStorage.removeItem('gw_fsrs_data');
+    fsrs.data = {};
+    loadData();
+    showToast('Progress belajar berhasil direset', 'success');
+    updateStats();
   });
+
+  // Settings Font Select
+  document.querySelectorAll('.font-select-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const font = btn.dataset.font;
+      state.jpFont = font;
+      localStorage.setItem('gw_jp_font', font);
+      document.documentElement.style.setProperty('--font-jp', font);
+      
+      // Update UI active state
+      document.querySelectorAll('.font-select-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      
+      showToast('Font berhasil diubah');
+    });
+  });
+
+  // Set initial active font button
+  const currentFontBtn = document.querySelector(`.font-select-btn[data-font='${state.jpFont}']`);
+  if (currentFontBtn) currentFontBtn.classList.add('active');
 
   // Select all / Deselect all
   $('select-all-btn').addEventListener('click', () => {
@@ -640,11 +687,12 @@ function setupEventListeners() {
   });
 
   // Mode selection
-  document.querySelectorAll('.mode-card').forEach(card => {
-    card.addEventListener('click', () => {
-      document.querySelectorAll('.mode-card').forEach(c => c.classList.remove('selected'));
-      const mode = parseInt(card.dataset.mode);
-      document.querySelectorAll(`.mode-card[data-mode="${mode}"]`).forEach(c => c.classList.add('selected'));
+  // Mode selection
+  document.querySelectorAll('.mode-select-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.mode-select-btn').forEach(c => c.classList.remove('active'));
+      const mode = parseInt(btn.dataset.mode);
+      btn.classList.add('active');
       state.studyMode = mode;
       
       const jlptBento = document.getElementById('bento-jlpt');

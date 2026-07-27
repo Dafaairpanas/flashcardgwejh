@@ -74,6 +74,12 @@
           <span class="menu-desc">Tabel kosakata per bab</span>
         </div>
       </a>
+      <a class="menu-item" data-page="settings">
+        <div class="menu-text">
+          <span class="menu-label">Pengaturan</span>
+          <span class="menu-desc">Sesuaikan tampilan & preferensi</span>
+        </div>
+      </a>
     </div>
 
     <!-- Main Content -->
@@ -90,27 +96,7 @@
       <!-- ═══ HOME / SETUP VIEW (BENTO GRID) ═══ -->
       <div class="view setup-view" id="setup-view">
 
-        <!-- FLOATING PROTOCOL DOCK (Desktop) -->
-        <div class="floating-dock desktop-only" id="protocol-dock">
-          <div class="mode-list" id="mode-grid">
-            <div class="mode-card selected" data-mode="1" title="Kanji to Meaning">
-              <div class="mode-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg></div>
-              <div class="mode-title">Standard</div>
-            </div>
-            <div class="mode-card" data-mode="2" title="Meaning to Kanji">
-              <div class="mode-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="3"></circle></svg></div>
-              <div class="mode-title">Kanji</div>
-            </div>
-            <div class="mode-card" data-mode="3" title="Meaning to Kanji (Reverse)">
-              <div class="mode-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="1 4 1 10 7 10"></polyline><polyline points="23 20 23 14 17 14"></polyline><path d="M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"></path></svg></div>
-              <div class="mode-title">Reverse</div>
-            </div>
-            <div class="mode-card" data-mode="4" title="Listening Only">
-              <div class="mode-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path></svg></div>
-              <div class="mode-title">Audio</div>
-            </div>
-          </div>
-        </div>
+
 
         <div class="bento-container">
 
@@ -121,30 +107,7 @@
               <button id="close-modal-btn" style="background:none; border:none; color:var(--text-secondary); font-size:1.5rem; cursor:pointer;">&times;</button>
             </div>
             
-            <!-- Protocol Selector (Mobile) -->
-            <div class="bento-card mobile-only" style="margin-bottom: 16px;">
-              <div class="bento-header">
-                <h3>Study Mode</h3>
-              </div>
-              <div class="mode-grid-2x2">
-                <div class="mode-card selected" data-mode="1">
-                  <div class="mode-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg></div>
-                  <div class="mode-title">Standard</div>
-                </div>
-                <div class="mode-card" data-mode="2">
-                  <div class="mode-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="3"></circle></svg></div>
-                  <div class="mode-title">Kanji</div>
-                </div>
-                <div class="mode-card" data-mode="3">
-                  <div class="mode-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="1 4 1 10 7 10"></polyline><polyline points="23 20 23 14 17 14"></polyline><path d="M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"></path></svg></div>
-                  <div class="mode-title">Reverse</div>
-                </div>
-                <div class="mode-card" data-mode="4">
-                  <div class="mode-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path></svg></div>
-                  <div class="mode-title">Audio</div>
-                </div>
-              </div>
-            </div>
+
             
             <!-- Filter -->
             <div class="bento-card bento-filter">
@@ -172,12 +135,24 @@
                 <button class="filter-btn-sm active" data-jlpt="all">All</button>
               </div>
             </div>
+            
+            <!-- Study Mode (Compact) -->
+            <div class="bento-card bento-mode">
+              <div class="bento-header">
+                <h3>Study Mode</h3>
+              </div>
+              <div class="filter-group-wrap" id="mode-group">
+                <button class="filter-btn-sm mode-select-btn active" data-mode="1">Standard</button>
+                <button class="filter-btn-sm mode-select-btn" data-mode="2">Kanji</button>
+                <button class="filter-btn-sm mode-select-btn" data-mode="3">Reverse</button>
+                <button class="filter-btn-sm mode-select-btn" data-mode="4">Audio</button>
+              </div>
+            </div>
             <div class="bento-card bento-actions" style="display:flex; flex-direction:column; gap:16px; align-items:center; justify-content:center; padding: 20px;">
               <div class="chapter-actions" style="width: 100%;">
                 <button class="btn btn-dark" id="select-all-btn">Select All</button>
                 <button class="btn btn-dark" id="deselect-all-btn">Clear</button>
               </div>
-              <div class="card-count-label" id="card-count-label">0 CARDS READY TO LEARN</div>
               <button class="btn btn-primary btn-start" id="start-btn">
                 START SESSION
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px; height:16px; margin-left:8px;"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
@@ -482,6 +457,42 @@
                   <!-- Rows inserted via JS -->
                 </tbody>
               </table>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ═══ SETTINGS VIEW ═══ -->
+      <div class="view page-view" id="settings-view">
+        <div class="page-container" style="max-width: 600px; margin: 0 auto;">
+          <div class="page-header">
+            <h2 class="page-title">Pengaturan</h2>
+            <p class="page-subtitle">Sesuaikan pengalaman belajar Anda</p>
+          </div>
+          
+          <div class="bento-card" style="margin-bottom: 24px;">
+            <div class="bento-header">
+              <h3>Font Huruf Jepang</h3>
+            </div>
+            <p style="color: var(--text-muted); font-size: 0.85rem; margin-bottom: 16px;">
+              Pilih gaya penulisan untuk Hiragana, Katakana, dan Kanji. Font yang berbeda dapat melatih Anda membaca berbagai gaya tulisan.
+            </p>
+            
+            <div class="filter-group" style="display: flex; flex-direction: column; gap: 12px;">
+              <button class="filter-btn font-select-btn" data-font="&quot;Noto Sans JP&quot;, sans-serif">
+                <span style="font-weight: 600; display: block; margin-bottom: 4px;">Noto Sans JP (Standar)</span>
+                <span style="font-family: 'Noto Sans JP', sans-serif; font-size: 1.2rem; color: var(--text-primary);">日本語の漢字とひらがな</span>
+              </button>
+              
+              <button class="filter-btn font-select-btn" data-font="&quot;Klee One&quot;, cursive">
+                <span style="font-weight: 600; display: block; margin-bottom: 4px;">Klee One (Gaya Tulis Tangan)</span>
+                <span style="font-family: 'Klee One', cursive; font-size: 1.2rem; color: var(--text-primary);">日本語の漢字とひらがな</span>
+              </button>
+              
+              <button class="filter-btn font-select-btn" data-font="&quot;Zen Maru Gothic&quot;, sans-serif">
+                <span style="font-weight: 600; display: block; margin-bottom: 4px;">Zen Maru Gothic (Membulat)</span>
+                <span style="font-family: 'Zen Maru Gothic', sans-serif; font-size: 1.2rem; color: var(--text-primary);">日本語の漢字とひらがな</span>
+              </button>
             </div>
           </div>
         </div>
