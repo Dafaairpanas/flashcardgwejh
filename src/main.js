@@ -709,11 +709,10 @@ function setupEventListeners() {
 
   // Reset data logic
   $('nav-reset-btn').addEventListener('click', () => {
-    localStorage.removeItem('gw_fsrs_data');
-    fsrs.data = {};
-    loadData();
+    fsrs.reset();
     showToast('Progress belajar berhasil direset', 'success');
     updateStats();
+    updateCardCount();
   });
 
   // Settings Font Select
