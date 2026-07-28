@@ -80,6 +80,12 @@
           <span class="menu-desc">Sesuaikan tampilan & preferensi</span>
         </div>
       </a>
+      <a class="menu-item" href="/tools/data-manager.html" target="_blank">
+        <div class="menu-text">
+          <span class="menu-label">Data Manager (GUI) 🛠️</span>
+          <span class="menu-desc">Kelola data & edit class/kategori</span>
+        </div>
+      </a>
     </div>
 
     <!-- Main Content -->
@@ -108,16 +114,15 @@
             </div>
             
 
-            
-            <!-- Filter -->
+            <!-- Filter by Grade (multi-select) -->
             <div class="bento-card bento-filter">
               <div class="bento-header">
-                <h3>Content Type</h3>
+                <h3>Grade</h3>
               </div>
-              <div class="filter-group-row" id="filter-group">
-                <button class="filter-btn active" data-filter="all">All</button>
-                <button class="filter-btn" data-filter="main">Main</button>
-                <button class="filter-btn" data-filter="extra">Extras</button>
+              <div class="filter-group-row" id="grade-group">
+                <button class="filter-btn active" data-grade="1">1 Wajib</button>
+                <button class="filter-btn active" data-grade="2">2 Extra</button>
+                <button class="filter-btn" data-grade="3">3 Trash</button>
               </div>
             </div>
 

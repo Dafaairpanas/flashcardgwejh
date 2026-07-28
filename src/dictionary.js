@@ -54,8 +54,9 @@ function applyFilter() {
     // Bab filter
     if (bab !== 'all' && card.chapter !== bab) return false;
     // Type filter
-    if (type === 'main' && card.isExtra) return false;
-    if (type === 'extra' && !card.isExtra) return false;
+    if (type === 'main' && (card.importantity || (card.isExtra ? 2 : 1)) !== 1) return false;
+    if (type === 'extra' && (card.importantity || (card.isExtra ? 2 : 1)) !== 2) return false;
+    if (card.importantity === 3) return false; // Hide unnecessary cards from kamus
     // JLPT filter
     if (jlpt !== 'all' && card.level.toLowerCase() !== jlpt) return false;
     // Search

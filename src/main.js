@@ -29,7 +29,7 @@ const updateSW = registerSW({
 const state = {
   // Setup
   selectedChapters: [],
-  filterMode: 'all',    // 'all' | 'main' | 'extra'
+  selectedGrades: [1, 2], // which grades to include (1=Wajib, 2=Extra, 3=Trash)
   jlptFilter: 'all',    // 'all' | 'n5' | 'n4' | 'n3' | 'n2' | 'n1'
   studyMode: 1,         // 1-4
   soundEnabled: true,
@@ -179,7 +179,7 @@ async function init() {
 function savePreferences() {
   localStorage.setItem('fcgw_prefs', JSON.stringify({
     selectedChapters: state.selectedChapters,
-    filterMode: state.filterMode,
+    selectedGrades: state.selectedGrades,
     jlptFilter: state.jlptFilter,
     studyMode: state.studyMode,
     soundEnabled: state.soundEnabled,
@@ -191,7 +191,7 @@ function restorePreferences() {
     const saved = JSON.parse(localStorage.getItem('fcgw_prefs'));
     if (saved) {
       state.selectedChapters = saved.selectedChapters || [];
-      state.filterMode = saved.filterMode || 'all';
+      state.selectedGrades = saved.selectedGrades || [1, 2];
       state.jlptFilter = saved.jlptFilter || 'all';
       state.studyMode = saved.studyMode || 1;
       state.soundEnabled = saved.soundEnabled !== false;
@@ -227,9 +227,10 @@ function buildChapterGrid() {
   // Drag-to-select setup
   setupDragSelect(grid);
 
-  // Update filter & mode UI from state
-  document.querySelectorAll('#filter-group .filter-btn').forEach(btn => {
-    btn.classList.toggle('active', btn.dataset.filter === state.filterMode);
+  // Update grade toggle UI from state
+  document.querySelectorAll('#grade-group .filter-btn').forEach(btn => {
+    const grade = parseInt(btn.dataset.grade);
+    btn.classList.toggle('active', state.selectedGrades.includes(grade));
   });
   document.querySelectorAll('#jlpt-group .filter-btn').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.jlpt === state.jlptFilter);
@@ -366,7 +367,7 @@ function updateChapterBadge() {
 }
 
 function updateCardCount() {
-  const cards = getCardsByChapters(state.selectedChapters, state.filterMode, state.jlptFilter, state.studyMode);
+  const cards = getCardsByChapters(state.selectedChapters, state.selectedGrades, state.jlptFilter, state.studyMode);
   const count = cards.length;
   const label = $('card-count-label');
   if (label) {
@@ -378,7 +379,7 @@ function updateCardCount() {
 }
 
 function updateStats() {
-  const cards = getCardsByChapters(state.selectedChapters, state.filterMode, state.jlptFilter, state.studyMode);
+  const cards = getCardsByChapters(state.selectedChapters, state.selectedGrades, state.jlptFilter, state.studyMode);
   const stats = fsrs.getStats(cards);
   $('stat-total').textContent = stats.total;
   $('stat-new').textContent = stats.newCount;
@@ -391,7 +392,7 @@ function updateStats() {
 // ══════════════════════════════════
 
 function startStudy() {
-  const cards = getCardsByChapters(state.selectedChapters, state.filterMode, state.jlptFilter, state.studyMode);
+  const cards = getCardsByChapters(state.selectedChapters, state.selectedGrades, state.jlptFilter, state.studyMode);
   if (cards.length === 0) {
     showToast('Pilih minimal 1 bab!');
     return;
@@ -754,12 +755,21 @@ function setupEventListeners() {
     savePreferences();
   });
 
-  // Filter buttons
-  document.querySelectorAll('#filter-group .filter-btn').forEach(btn => {
+  // Grade toggle buttons (multi-select)
+  document.querySelectorAll('#grade-group .filter-btn').forEach(btn => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('#filter-group .filter-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      state.filterMode = btn.dataset.filter;
+      const grade = parseInt(btn.dataset.grade);
+      const idx = state.selectedGrades.indexOf(grade);
+      if (idx >= 0) {
+        // Don't allow deselecting the last one
+        if (state.selectedGrades.length > 1) {
+          state.selectedGrades.splice(idx, 1);
+          btn.classList.remove('active');
+        }
+      } else {
+        state.selectedGrades.push(grade);
+        btn.classList.add('active');
+      }
       updateCardCount();
       updateStats();
       savePreferences();
