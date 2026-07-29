@@ -2029,3 +2029,23 @@ body {
   .kanji-text { font-size: 1.05rem; }
   .meaning-text { font-size: 0.95rem; line-height: 1.4; }
 }
+
+/* Table view modes */
+.kotoba-table.hide-jp .col-kana,
+.kotoba-table.hide-jp .col-kanji {
+  display: none !important;
+}
+
+.kotoba-table.hide-id .col-meaning {
+  display: none !important;
+}
+
+@media (max-width: 600px) {
+  .kotoba-table.hide-jp td.col-kana,
+  .kotoba-table.hide-jp td.col-kanji {
+    display: none !important;
+  }
+  .kotoba-table.hide-id td.col-meaning {
+    display: none !important;
+  }
+}

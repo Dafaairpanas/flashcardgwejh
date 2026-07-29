@@ -50,31 +50,31 @@
     <!-- Hidden Menu Popup -->
     <div class="hidden-menu-overlay" id="hidden-menu-overlay"></div>
     <div class="hidden-menu" id="hidden-menu">
-      <a class="menu-item" data-page="dictionary">
+      <a class="menu-item" href="#/dictionary" data-page="dictionary">
         <div class="menu-text">
           <span class="menu-label">Kamus</span>
           <span class="menu-desc">Cari kosakata lengkap</span>
         </div>
       </a>
-      <a class="menu-item" data-page="kanji">
+      <a class="menu-item" href="#/kanji" data-page="kanji">
         <div class="menu-text">
           <span class="menu-label">Kanji Tunggal</span>
           <span class="menu-desc">Jelajahi kanji N5–N1</span>
         </div>
       </a>
-      <a class="menu-item" data-page="quiz">
+      <a class="menu-item" href="#/quiz" data-page="quiz">
         <div class="menu-text">
           <span class="menu-label">Latihan Soal</span>
           <span class="menu-desc">Uji pemahaman per bab</span>
         </div>
       </a>
-      <a class="menu-item" data-page="kotoba">
+      <a class="menu-item" href="#/kotoba" data-page="kotoba">
         <div class="menu-text">
           <span class="menu-label">List Kotoba</span>
           <span class="menu-desc">Tabel kosakata per bab</span>
         </div>
       </a>
-      <a class="menu-item" data-page="settings">
+      <a class="menu-item" href="#/settings" data-page="settings">
         <div class="menu-text">
           <span class="menu-label">Pengaturan</span>
           <span class="menu-desc">Sesuaikan tampilan & preferensi</span>
@@ -360,6 +360,34 @@
               <span class="dict-count" id="kanji-count">0 kanji</span>
             </div>
           </div>
+
+          <div class="bento-card" style="margin-bottom: 16px; padding: 16px;">
+            <div class="bento-header" style="margin-bottom: 12px; border-bottom: none; padding-bottom: 0;">
+              <h3 style="font-size: 1.1rem; color: #fff;">Flashcard Setup</h3>
+            </div>
+            
+            <div style="margin-bottom: 16px;">
+              <label style="display:block; margin-bottom: 8px; color: var(--text-secondary); font-size: 0.9rem;">Level JLPT (Bisa pilih lebih dari satu)</label>
+              <div class="kanji-tabs" id="kanji-flashcard-jlpt-tabs" style="margin-bottom: 0; display: flex; flex-wrap: wrap; gap: 8px;">
+                <button class="kanji-tab active" data-level="5">N5</button>
+                <button class="kanji-tab active" data-level="4">N4</button>
+                <button class="kanji-tab active" data-level="3">N3</button>
+                <button class="kanji-tab active" data-level="2">N2</button>
+                <button class="kanji-tab active" data-level="1">N1</button>
+              </div>
+            </div>
+
+            <div style="margin-bottom: 16px;">
+              <label style="display:flex; justify-content: space-between; margin-bottom: 8px; color: var(--text-secondary); font-size: 0.9rem;">
+                <span>Jumlah Soal</span>
+                <span id="kanji-flashcard-count-label" style="color: #fff; font-weight: 600;">20</span>
+              </label>
+              <input type="range" id="kanji-flashcard-count-slider" min="5" max="100" step="5" value="20" style="width: 100%; accent-color: var(--accent-violet);">
+            </div>
+            
+            <button class="btn btn-primary" id="start-kanji-flashcard-btn" style="width: 100%;">Mulai Flashcard</button>
+          </div>
+
           <div class="kanji-grid" id="kanji-grid"></div>
         </div>
         <!-- Kanji Detail Modal -->
@@ -443,9 +471,16 @@
             </div>
 
             <!-- Search in Bab -->
-            <div class="dict-search-wrap" style="margin-bottom: 16px;">
+            <div class="dict-search-wrap" style="margin-bottom: 12px;">
               <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
               <input type="text" class="dict-search" id="kotoba-search" placeholder="Cari kana, kanji, atau arti..." autocomplete="off" />
+            </div>
+
+            <!-- View Controls -->
+            <div style="display: flex; gap: 8px; margin-bottom: 16px;">
+              <button class="btn btn-dark btn-sm active" id="btn-view-all">Tampil Semua</button>
+              <button class="btn btn-dark btn-sm" id="btn-view-jp">Hiragana, Kanji</button>
+              <button class="btn btn-dark btn-sm" id="btn-view-id">Arti</button>
             </div>
 
             <!-- Responsive Zoomable Table -->

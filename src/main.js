@@ -1,23 +1,26 @@
-/**
- * FlashcardGW — Main Application Controller
- * Handles all views, user interactions, and state management
- */
-
 import './style.css';
-import { loadData, getChapters, getCardsByChapters, shuffleCards, chapterDisplayName, getChapterStats } from './data.js';
-import { FSRSStateManager, Rating } from './fsrs.js';
-import { SessionQueue } from './session-queue.js';
-import { initTTS, speak, stopSpeech } from './tts.js';
+import { loadData } from './data.js';
+import { state, fsrs, $ } from './state.js';
+import { router } from './router.js';
+import { initTTS } from './tts.js';
 import { registerSW } from 'virtual:pwa-register';
-import { initDictionary } from './dictionary.js';
-import { initKanjiPage } from './kanji-page.js';
-import { initQuiz } from './quiz.js';
-import { initKotobaList, showKotobaSelect } from './kotoba-list.js';
 
-// Register PWA Service Worker
+// Layout & UI
+import { toggleHiddenMenu, closeHiddenMenu, showToast, changeThemeColor, setJapaneseFont } from './ui/layout.js';
+import { restorePreferences, savePreferences, buildChapterGrid, toggleChapter, updateCardCount, updateStats } from './ui/setup.js';
+import { startStudy, flipCard, rateCard, playCardSound, startCustomStudy } from './ui/study.js';
+
+// Expose functions globally for HTML onclick handlers
+window.toggleHiddenMenu = toggleHiddenMenu;
+window.closeHiddenMenu = closeHiddenMenu;
+window.startStudy = startStudy;
+window.startCustomStudy = startCustomStudy;
+window.flipCard = flipCard;
+window.rateCard = rateCard;
+window.toggleChapter = toggleChapter;
+
 const updateSW = registerSW({
   onNeedRefresh() {
-    // Optional: show a prompt to user to refresh for new version
     console.log('New content available, refresh to update.');
   },
   onOfflineReady() {
@@ -25,126 +28,7 @@ const updateSW = registerSW({
   },
 });
 
-// ── App State ──
-const state = {
-  // Setup
-  selectedChapters: [],
-  selectedGrades: [1, 2], // which grades to include (1=Wajib, 2=Extra, 3=Trash)
-  jlptFilter: 'all',    // 'all' | 'n5' | 'n4' | 'n3' | 'n2' | 'n1'
-  studyMode: 1,         // 1-4
-  soundEnabled: true,
-  // Font
-  jpFont: localStorage.getItem('gw_jp_font') || '"Noto Sans JP", sans-serif',
-
-  // Study session
-  sessionQueue: null,       // SessionQueue instance
-  currentCard: null,        // Current card being shown
-  isFlipped: false,
-  sessionStartTime: null,
-  totalReviewed: 0,
-  totalCorrect: 0,       // Good + Easy count
-  cardsUntilNextColor: Math.floor(Math.random() * 6) + 10, // 10 to 15
-
-  // Data
-  allCards: [],
-  chapters: [],
-};
-
-// Initialize Font
-document.documentElement.style.setProperty('--font-jp', state.jpFont);
-
-// FSRS manager
-const fsrs = new FSRSStateManager();
-
-// ── DOM Refs ──
-const $ = (id) => document.getElementById(id);
-const views = {
-  loading: $('loading-view'),
-  setup: $('setup-view'),
-  study: $('study-view'),
-  complete: $('complete-view'),
-  dictionary: $('dictionary-view'),
-  kanji: $('kanji-view'),
-  quiz: $('quiz-view'),
-  kotoba: $('kotoba-view'),
-  settings: $('settings-view'),
-};
-
-// Track which pages have been initialized
-const pageInitialized = { dictionary: false, kanji: false, quiz: false, kotoba: false };
-
-function showView(name) {
-  Object.values(views).forEach(v => { if (v) v.classList.remove('active'); });
-  if (views[name]) views[name].classList.add('active');
-  
-  // Lazy-init pages on first visit
-  if (name === 'dictionary' && !pageInitialized.dictionary) {
-    initDictionary();
-    pageInitialized.dictionary = true;
-  }
-  if (name === 'kanji' && !pageInitialized.kanji) {
-    initKanjiPage();
-    pageInitialized.kanji = true;
-  }
-  if (name === 'quiz' && !pageInitialized.quiz) {
-    initQuiz();
-    pageInitialized.quiz = true;
-  }
-  if (name === 'kotoba') {
-    if (!pageInitialized.kotoba) {
-      initKotobaList();
-      pageInitialized.kotoba = true;
-    }
-  }
-}
-
-// ── Hidden Menu ──
-function toggleHiddenMenu() {
-  const menu = $('hidden-menu');
-  const overlay = $('hidden-menu-overlay');
-  const isOpen = menu.classList.contains('active');
-  if (isOpen) {
-    closeHiddenMenu();
-  } else {
-    menu.classList.add('active');
-    overlay.classList.add('active');
-  }
-}
-
-function closeHiddenMenu() {
-  $('hidden-menu').classList.remove('active');
-  $('hidden-menu-overlay').classList.remove('active');
-}
-
-// ── Toast ──
-let toastTimer = null;
-function showToast(msg) {
-  const el = $('toast');
-  el.textContent = msg;
-  el.classList.add('show');
-  clearTimeout(toastTimer);
-  toastTimer = setTimeout(() => el.classList.remove('show'), 2500);
-}
-
-// ── Dynamic Theme Colors ──
-function changeThemeColor() {
-  const h1 = Math.floor(Math.random() * 360);
-  const h2 = (h1 + 30 + Math.floor(Math.random() * 60)) % 360;
-  const color1 = `hsl(${h1}, 85%, 65%)`;
-  const color2 = `hsl(${h2}, 85%, 60%)`;
-  
-  document.documentElement.style.setProperty('--accent-sakura', color1);
-  document.documentElement.style.setProperty('--accent-violet', color2);
-}
-
-// ══════════════════════════════════
-//  INITIALIZATION
-// ══════════════════════════════════
-
 async function init() {
-  showView('loading');
-
-  // Load data
   state.allCards = await loadData();
   if (state.allCards.length === 0) {
     $('loading-view').innerHTML = `
@@ -157,546 +41,41 @@ async function init() {
     `;
     return;
   }
-
+  
+  const { getChapters } = await import('./data.js');
   state.chapters = getChapters();
 
-  // Init TTS
   await initTTS();
-
-  // Restore saved preferences
   restorePreferences();
-
-  // Build UI
   buildChapterGrid();
   setupEventListeners();
-  updateStats();
 
-  // Show setup
-  showView('setup');
+  // Initialize router
+  router.init();
+  router.handleRouteChange();
 }
-
-// ── Preferences ──
-function savePreferences() {
-  localStorage.setItem('fcgw_prefs', JSON.stringify({
-    selectedChapters: state.selectedChapters,
-    selectedGrades: state.selectedGrades,
-    jlptFilter: state.jlptFilter,
-    studyMode: state.studyMode,
-    soundEnabled: state.soundEnabled,
-  }));
-}
-
-function restorePreferences() {
-  try {
-    const saved = JSON.parse(localStorage.getItem('fcgw_prefs'));
-    if (saved) {
-      state.selectedChapters = saved.selectedChapters || [];
-      state.selectedGrades = saved.selectedGrades || [1, 2];
-      state.jlptFilter = saved.jlptFilter || 'all';
-      state.studyMode = saved.studyMode || 1;
-      state.soundEnabled = saved.soundEnabled !== false;
-    }
-  } catch { /* ignore */ }
-
-  // Update sound icon
-  const svgs = {
-    on: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path><path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path></svg>',
-    off: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><line x1="23" y1="9" x2="17" y2="15"></line><line x1="17" y1="9" x2="23" y2="15"></line></svg>'
-  };
-  $('nav-sound-toggle').innerHTML = state.soundEnabled ? svgs.on : svgs.off;
-}
-
-// ══════════════════════════════════
-//  SETUP VIEW
-// ══════════════════════════════════
-
-function buildChapterGrid() {
-  const grid = $('chapter-grid');
-  grid.innerHTML = '';
-
-  state.chapters.forEach(ch => {
-    const stats = getChapterStats(ch);
-    const chip = document.createElement('div');
-    chip.className = 'chapter-chip' + (state.selectedChapters.includes(ch) ? ' selected' : '');
-    chip.dataset.chapter = ch;
-    chip.textContent = chapterDisplayName(ch);
-    chip.title = `Utama: ${stats.main} | Extra: ${stats.extra}`;
-    grid.appendChild(chip);
-  });
-
-  // Drag-to-select setup
-  setupDragSelect(grid);
-
-  // Update grade toggle UI from state
-  document.querySelectorAll('#grade-group .filter-btn').forEach(btn => {
-    const grade = parseInt(btn.dataset.grade);
-    btn.classList.toggle('active', state.selectedGrades.includes(grade));
-  });
-  document.querySelectorAll('#jlpt-group .filter-btn').forEach(btn => {
-    btn.classList.toggle('active', btn.dataset.jlpt === state.jlptFilter);
-  });
-  document.querySelectorAll('.mode-select-btn').forEach(btn => {
-    btn.classList.toggle('active', parseInt(btn.dataset.mode) === state.studyMode);
-  });
-  
-  const jlptBento = document.getElementById('bento-jlpt');
-  if (jlptBento) {
-    if (state.studyMode === 2) {
-      jlptBento.classList.remove('hidden');
-    } else {
-      jlptBento.classList.add('hidden');
-    }
-  }
-
-  updateChapterBadge();
-  updateCardCount();
-}
-
-// ── Drag-to-Select Logic ──
-function setupDragSelect(grid) {
-  let isDragging = false;
-  let dragAction = null; // 'select' or 'deselect'
-  let touchedChips = new Set(); // track chips already toggled in this drag
-
-  function getChipFromPoint(x, y) {
-    const el = document.elementFromPoint(x, y);
-    if (!el) return null;
-    return el.closest('.chapter-chip');
-  }
-
-  function applyDragToChip(chip) {
-    if (!chip || touchedChips.has(chip)) return;
-    touchedChips.add(chip);
-    const ch = chip.dataset.chapter;
-    if (!ch) return;
-
-    if (dragAction === 'select') {
-      if (!state.selectedChapters.includes(ch)) {
-        state.selectedChapters.push(ch);
-      }
-      chip.classList.add('selected');
-    } else {
-      const idx = state.selectedChapters.indexOf(ch);
-      if (idx !== -1) state.selectedChapters.splice(idx, 1);
-      chip.classList.remove('selected');
-    }
-  }
-
-  function finishDrag() {
-    if (isDragging) {
-      isDragging = false;
-      dragAction = null;
-      touchedChips.clear();
-      updateChapterBadge();
-      updateCardCount();
-      updateStats();
-      savePreferences();
-    }
-  }
-
-  // ── Mouse events (PC) ──
-  grid.addEventListener('mousedown', (e) => {
-    const chip = getChipFromPoint(e.clientX, e.clientY);
-    if (!chip) return;
-    e.preventDefault();
-    isDragging = true;
-    const ch = chip.dataset.chapter;
-    dragAction = state.selectedChapters.includes(ch) ? 'deselect' : 'select';
-    applyDragToChip(chip);
-  });
-
-  document.addEventListener('mousemove', (e) => {
-    if (!isDragging) return;
-    const chip = getChipFromPoint(e.clientX, e.clientY);
-    applyDragToChip(chip);
-  });
-
-  document.addEventListener('mouseup', () => {
-    finishDrag();
-  });
-
-  // ── Touch events (Mobile) ──
-  grid.addEventListener('touchstart', (e) => {
-    const touch = e.touches[0];
-    const chip = getChipFromPoint(touch.clientX, touch.clientY);
-    if (!chip) return;
-    isDragging = true;
-    const ch = chip.dataset.chapter;
-    dragAction = state.selectedChapters.includes(ch) ? 'deselect' : 'select';
-    applyDragToChip(chip);
-  }, { passive: true });
-
-  grid.addEventListener('touchmove', (e) => {
-    if (!isDragging) return;
-    e.preventDefault(); // prevent scrolling while dragging over chips
-    const touch = e.touches[0];
-    const chip = getChipFromPoint(touch.clientX, touch.clientY);
-    applyDragToChip(chip);
-  }, { passive: false });
-
-  grid.addEventListener('touchend', () => {
-    finishDrag();
-  });
-
-  grid.addEventListener('touchcancel', () => {
-    finishDrag();
-  });
-}
-
-function toggleChapter(ch) {
-  const idx = state.selectedChapters.indexOf(ch);
-  if (idx === -1) {
-    state.selectedChapters.push(ch);
-  } else {
-    state.selectedChapters.splice(idx, 1);
-  }
-
-  // Update chip UI
-  document.querySelectorAll('.chapter-chip').forEach(chip => {
-    chip.classList.toggle('selected', state.selectedChapters.includes(chip.dataset.chapter));
-  });
-
-  updateChapterBadge();
-  updateCardCount();
-  updateStats();
-  savePreferences();
-}
-
-function updateChapterBadge() {
-  $('chapter-count-badge').textContent = `${state.selectedChapters.length} dipilih`;
-}
-
-function updateCardCount() {
-  const cards = getCardsByChapters(state.selectedChapters, state.selectedGrades, state.jlptFilter, state.studyMode);
-  const count = cards.length;
-  const label = $('card-count-label');
-  if (label) {
-    label.textContent = count > 0
-      ? `${count} kartu siap dipelajari`
-      : 'Pilih bab untuk mulai';
-  }
-  $('start-btn').disabled = count === 0;
-}
-
-function updateStats() {
-  const cards = getCardsByChapters(state.selectedChapters, state.selectedGrades, state.jlptFilter, state.studyMode);
-  const stats = fsrs.getStats(cards);
-  $('stat-total').textContent = stats.total;
-  $('stat-new').textContent = stats.newCount;
-  $('stat-learning').textContent = stats.learningCount;
-  $('stat-due').textContent = stats.dueCount;
-}
-
-// ══════════════════════════════════
-//  STUDY SESSION
-// ══════════════════════════════════
-
-function startStudy() {
-  const cards = getCardsByChapters(state.selectedChapters, state.selectedGrades, state.jlptFilter, state.studyMode);
-  if (cards.length === 0) {
-    showToast('Pilih minimal 1 bab!');
-    return;
-  }
-
-  // Build queue: FSRS-sorted, then create SessionQueue for randomized repeats
-  const sorted = fsrs.getSortedQueue(cards);
-  state.sessionQueue = new SessionQueue(sorted, {
-    minCooldown: 3,
-    maxCooldown: 8,
-    repeatChance: 0.5,
-  });
-  state.currentCard = null;
-  state.isFlipped = false;
-  state.sessionStartTime = Date.now();
-  state.totalReviewed = 0;
-  state.totalCorrect = 0;
-
-  showView('study');
-  showCard();
-}
-
-function showCard() {
-  const queue = state.sessionQueue;
-  if (!queue || !queue.hasNext) {
-    finishSession();
-    return;
-  }
-
-  // Get next card from the randomized queue
-  const card = queue.next();
-  if (!card) {
-    finishSession();
-    return;
-  }
-
-  state.currentCard = card;
-  state.isFlipped = false;
-
-  // Reset flip
-  $('card-back').classList.add('hidden');
-  $('rating-area').classList.add('hidden');
-
-  // Update progress
-  const served = queue.servedCount;
-  const total = queue.totalCount;
-  const progress = total > 0 ? (served / total) * 100 : 0;
-  $('progress-fill').style.width = `${Math.min(progress, 100)}%`;
-  $('progress-text').textContent = `${served}/${total}`;
-
-  // Update study info
-  const pendingCards = queue.getPendingCards();
-  const stats = fsrs.getStats(pendingCards);
-  $('study-new').textContent = stats.newCount;
-  $('study-learning').textContent = stats.learningCount;
-  $('study-due').textContent = stats.dueCount;
-
-  // Render card faces based on mode
-  renderCardFront(card);
-  renderCardBack(card);
-
-  // Auto-play sound for mode 4 (Suara Saja)
-  if (state.soundEnabled && state.studyMode === 4) {
-    setTimeout(() => playCardSound(card), 400);
-  }
-}
-
-function highlightKanji(text) {
-  if (!text) return '';
-  const hasKanji = /[\u4e00-\u9faf]/.test(text);
-  if (!hasKanji) return text;
-  
-  return text.split(/([\u4e00-\u9faf]+)/).map(part => {
-    if (!part) return '';
-    if (/[\u4e00-\u9faf]/.test(part)) {
-      return `<span class="kanji-focus">${part}</span>`;
-    }
-    return `<span class="okurigana-fade">${part}</span>`;
-  }).join('');
-}
-
-function renderCardFront(card) {
-  const front = $('card-front');
-  let html = '';
-  
-  const displayKanji = highlightKanji(card.kanji);
-
-  switch (state.studyMode) {
-    case 1: // Kanji + Furigana → Arti
-      html = `
-        <div class="card-furigana">${card.hiragana}</div>
-        <div class="card-kanji">${displayKanji}</div>
-      `;
-      break;
-
-    case 2: // Kanji (Recall)
-      html = `
-        <div class="card-furigana" id="hint-kana" style="opacity:0; transition:opacity 0.3s">${card.hiragana}</div>
-        <div class="card-kanji">${displayKanji}</div>
-        <button class="btn btn-ghost btn-sm" id="btn-show-hint" style="margin-top:12px; z-index:10" onclick="event.stopPropagation()">Reveal Hint</button>
-      `;
-      break;
-
-    case 3: // Arti → Kanji + Furigana
-      html = `
-        <div class="card-meaning">${card.meaning}</div>
-      `;
-      break;
-
-    case 4: // Sound only → Arti
-      html = `
-        <button class="card-sound-btn" id="front-sound-btn" onclick="event.stopPropagation()">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path><path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path></svg>
-        </button>
-        <div class="card-romaji" style="margin-top:12px; font-size:0.85rem">Listen to the audio</div>
-      `;
-      break;
-  }
-
-  html += `<span class="card-chapter-tag">${chapterDisplayName(card.chapter)}${card.isExtra ? ' ✦' : ''}</span>`;
-  html += `<span class="card-tap-hint">Tap untuk membalik</span>`;
-  front.innerHTML = html;
-
-  // Rebind sound button for Mode 4
-  const soundBtn = front.querySelector('#front-sound-btn');
-  if (soundBtn) {
-    soundBtn.addEventListener('click', (e) => {
-      e.stopPropagation();
-      playCardSound(card);
-    });
-  }
-
-  // Handle hint button for Mode 2
-  const hintBtn = front.querySelector('#btn-show-hint');
-  if (hintBtn) {
-    hintBtn.addEventListener('click', (e) => {
-      e.stopPropagation();
-      const kana = front.querySelector('#hint-kana');
-      if (kana) kana.style.opacity = '1';
-      hintBtn.style.display = 'none';
-      if (state.soundEnabled) {
-        playCardSound(card);
-      }
-    });
-  }
-}
-
-function renderCardBack(card) {
-  const back = $('card-back');
-  let html = '';
-  
-  const displayKanji = highlightKanji(card.kanji);
-
-  switch (state.studyMode) {
-    case 1: // Back: Arti
-    case 2:
-      html = `
-        <div class="card-meaning">${card.meaning}</div>
-        <div class="card-meaning-sub">${card.hiragana}</div>
-      `;
-      break;
- 
-    case 3: // Back: Kanji + Furigana
-      html = `
-        <div class="card-furigana">${card.hiragana}</div>
-        <div class="card-kanji">${displayKanji}</div>
-      `;
-      break;
- 
-    case 4: // Back: Arti
-      html = `
-        <div class="card-meaning">${card.meaning}</div>
-        <div class="card-meaning-sub">${displayKanji} — ${card.hiragana}</div>
-      `;
-      break;
-  }
-
-  html += `<span class="card-chapter-tag">${chapterDisplayName(card.chapter)}${card.isExtra ? ' ✦' : ''}</span>`;
-  back.innerHTML = html;
-}
-
-function flipCard() {
-  if (state.isFlipped) return;
-  state.isFlipped = true;
-  
-  // Reveal back and rating area
-  $('card-back').classList.remove('hidden');
-  $('rating-area').classList.remove('hidden');
-  
-  // Scroll to rating area if needed
-  setTimeout(() => {
-    $('rating-area').scrollIntoView({ behavior: 'smooth', block: 'end' });
-  }, 50);
-
-  // Show intervals
-  const card = state.currentCard;
-  $('interval-again').textContent = fsrs.getIntervalText(card.id, Rating.AGAIN);
-  $('interval-hard').textContent = fsrs.getIntervalText(card.id, Rating.HARD);
-  $('interval-good').textContent = fsrs.getIntervalText(card.id, Rating.GOOD);
-  $('interval-easy').textContent = fsrs.getIntervalText(card.id, Rating.EASY);
-
-  // Play sound on flip for modes 1, 3
-  if (state.soundEnabled && (state.studyMode === 1 || state.studyMode === 3)) {
-    playCardSound(card);
-  }
-}
-
-function rateCard(rating) {
-  if (!state.isFlipped) return;
-
-  const card = state.currentCard;
-  fsrs.reviewCard(card.id, rating);
-
-  state.totalReviewed++;
-  if (rating >= Rating.GOOD) state.totalCorrect++;
-
-  // Handle dynamic colors
-  state.cardsUntilNextColor--;
-  if (state.cardsUntilNextColor <= 0) {
-    changeThemeColor();
-    state.cardsUntilNextColor = Math.floor(Math.random() * 6) + 10;
-  }
-
-  // Reinforcement repeats based on rating:
-  // Again = 3 repeats, Hard = 2, Good = 1, Easy = 0
-  const repeatMap = {
-    [Rating.AGAIN]: 3,
-    [Rating.HARD]: 2,
-    [Rating.GOOD]: 1,
-    [Rating.EASY]: 0,
-  };
-  const repeats = repeatMap[rating] ?? 0;
-
-  // Add to SessionQueue's repeat pool — truly randomized reappearance
-  if (repeats > 0) {
-    state.sessionQueue.addRepeat(card, repeats);
-  }
-
-  stopSpeech();
-  showCard();
-}
-
-async function playCardSound(card) {
-  const soundBtn = document.querySelector('.card-sound-btn');
-  if (soundBtn) {
-    soundBtn.classList.add('playing');
-  }
-
-  // Use the cleaned hiragana for better TTS
-  await speak(card.cleanedHiragana || card.hiragana);
-
-  if (soundBtn) {
-    soundBtn.classList.remove('playing');
-  }
-}
-
-function finishSession() {
-  const elapsed = Date.now() - state.sessionStartTime;
-  const minutes = Math.floor(elapsed / 60000);
-  const seconds = Math.floor((elapsed % 60000) / 1000);
-  const timeStr = minutes > 0 ? `${minutes}m ${seconds}s` : `${seconds}s`;
-  const accuracy = state.totalReviewed > 0
-    ? Math.round((state.totalCorrect / state.totalReviewed) * 100)
-    : 0;
-
-  $('complete-reviewed').textContent = state.totalReviewed;
-  $('complete-time').textContent = timeStr;
-  $('complete-correct').textContent = `${accuracy}%`;
-
-  showView('complete');
-}
-
-// ══════════════════════════════════
-//  EVENT LISTENERS
-// ══════════════════════════════════
 
 function setupEventListeners() {
-  // Navigation — Logo goes home
   $('nav-home-btn').addEventListener('click', () => {
-    stopSpeech();
+    import('./tts.js').then(m => m.stopSpeech());
     updateStats();
-    showView('setup');
+    router.navigate('/');
     closeHiddenMenu();
   });
 
-  // Hidden Menu toggle
   $('nav-menu-btn').addEventListener('click', (e) => {
     e.stopPropagation();
     toggleHiddenMenu();
   });
 
-  // Hidden menu overlay close
   $('hidden-menu-overlay').addEventListener('click', closeHiddenMenu);
 
-  // Hidden menu items
   document.querySelectorAll('.menu-item').forEach(item => {
     item.addEventListener('click', () => {
-      const page = item.dataset.page;
-      showView(page);
       closeHiddenMenu();
     });
   });
 
-  // Sound toggle
   $('nav-sound-toggle').addEventListener('click', () => {
     state.soundEnabled = !state.soundEnabled;
     const svgs = {
@@ -708,7 +87,6 @@ function setupEventListeners() {
     showToast(state.soundEnabled ? 'Audio Enabled' : 'Audio Disabled');
   });
 
-  // Reset data logic
   $('nav-reset-btn').addEventListener('click', () => {
     fsrs.reset();
     showToast('Progress belajar berhasil direset', 'success');
@@ -716,86 +94,74 @@ function setupEventListeners() {
     updateCardCount();
   });
 
-  // Settings Font Select
   document.querySelectorAll('.font-select-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       const font = btn.dataset.font;
-      state.jpFont = font;
-      localStorage.setItem('gw_jp_font', font);
-      document.documentElement.style.setProperty('--font-jp', font);
-      
-      // Update UI active state
+      setJapaneseFont(font);
       document.querySelectorAll('.font-select-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      
       showToast('Font berhasil diubah');
     });
   });
 
-  // Set initial active font button
   const currentFontBtn = document.querySelector(`.font-select-btn[data-font='${state.jpFont}']`);
   if (currentFontBtn) currentFontBtn.classList.add('active');
 
-  // Select all / Deselect all
   $('select-all-btn').addEventListener('click', () => {
     state.selectedChapters = [...state.chapters];
     document.querySelectorAll('.chapter-chip').forEach(c => c.classList.add('selected'));
-    updateChapterBadge();
-    updateCardCount();
-    updateStats();
-    savePreferences();
+    import('./ui/setup.js').then(m => {
+      m.updateChapterBadge();
+      m.updateCardCount();
+      m.updateStats();
+      m.savePreferences();
+    });
   });
 
   $('deselect-all-btn').addEventListener('click', () => {
     state.selectedChapters = [];
     document.querySelectorAll('.chapter-chip').forEach(c => c.classList.remove('selected'));
-    updateChapterBadge();
-    updateCardCount();
-    updateStats();
-    savePreferences();
+    import('./ui/setup.js').then(m => {
+      m.updateChapterBadge();
+      m.updateCardCount();
+      m.updateStats();
+      m.savePreferences();
+    });
   });
 
-  // Grade toggle buttons (multi-select)
   document.querySelectorAll('#grade-group .filter-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       const grade = parseInt(btn.dataset.grade);
       const idx = state.selectedGrades.indexOf(grade);
-      if (idx >= 0) {
-        // Don't allow deselecting the last one
-        if (state.selectedGrades.length > 1) {
-          state.selectedGrades.splice(idx, 1);
-          btn.classList.remove('active');
-        }
-      } else {
-        state.selectedGrades.push(grade);
-        btn.classList.add('active');
-      }
-      updateCardCount();
-      updateStats();
-      savePreferences();
+      if (idx === -1) state.selectedGrades.push(grade);
+      else state.selectedGrades.splice(idx, 1);
+      btn.classList.toggle('active', state.selectedGrades.includes(grade));
+      import('./ui/setup.js').then(m => {
+        m.updateCardCount();
+        m.updateStats();
+        m.savePreferences();
+      });
     });
   });
 
-  // JLPT Filter buttons
-  document.querySelectorAll('#jlpt-group .filter-btn-sm').forEach(btn => {
+  document.querySelectorAll('#jlpt-group .filter-btn').forEach(btn => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('#jlpt-group .filter-btn-sm').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('#jlpt-group .filter-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       state.jlptFilter = btn.dataset.jlpt;
-      updateCardCount();
-      updateStats();
-      savePreferences();
+      import('./ui/setup.js').then(m => {
+        m.updateCardCount();
+        m.updateStats();
+        m.savePreferences();
+      });
     });
   });
 
-  // Mode selection
-  // Mode selection
   document.querySelectorAll('.mode-select-btn').forEach(btn => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('.mode-select-btn').forEach(c => c.classList.remove('active'));
-      const mode = parseInt(btn.dataset.mode);
+      document.querySelectorAll('.mode-select-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      state.studyMode = mode;
+      state.studyMode = parseInt(btn.dataset.mode);
       
       const jlptBento = document.getElementById('bento-jlpt');
       if (jlptBento) {
@@ -806,113 +172,36 @@ function setupEventListeners() {
         }
       }
       
-      updateCardCount();
-      updateStats();
-      savePreferences();
+      import('./ui/setup.js').then(m => {
+        m.updateCardCount();
+        m.updateStats();
+        m.savePreferences();
+      });
     });
   });
 
-  // Mobile Modal Setup
-  const mobileSetupBtn = $('mobile-setup-btn');
-  const closeModalBtn = $('close-modal-btn');
-  const mobileModal = $('mobile-modal');
+  $('start-btn').addEventListener('click', startStudy);
+  $('flashcard-container').addEventListener('click', flipCard);
   
-  if (mobileSetupBtn && closeModalBtn && mobileModal) {
-    mobileSetupBtn.addEventListener('click', () => {
-      mobileModal.classList.add('modal-active');
-      document.body.style.overflow = 'hidden';
-    });
-    
-    closeModalBtn.addEventListener('click', () => {
-      mobileModal.classList.remove('modal-active');
-      document.body.style.overflow = '';
+  if ($('study-exit-btn')) {
+    $('study-exit-btn').addEventListener('click', () => {
+      import('./tts.js').then(m => m.stopSpeech());
+      updateStats();
+      router.navigate('/');
     });
   }
-
-  // Start study
-  $('start-btn').addEventListener('click', () => {
-    if (mobileModal) {
-      mobileModal.classList.remove('modal-active');
-      document.body.style.overflow = '';
-    }
-    startStudy();
-  });
-
-  // Flashcard flip
-  $('flashcard-container').addEventListener('click', () => {
-    if (!state.isFlipped) {
-      flipCard();
-    }
-  });
-
-  // Rating buttons
-  document.querySelectorAll('.rating-btn').forEach(btn => {
-    btn.addEventListener('click', (e) => {
-      e.stopPropagation();
-      rateCard(parseInt(btn.dataset.rating));
+  
+  document.querySelector('.rating-btn-again').addEventListener('click', (e) => { e.stopPropagation(); rateCard(1); });
+  document.querySelector('.rating-btn-hard').addEventListener('click', (e) => { e.stopPropagation(); rateCard(2); });
+  document.querySelector('.rating-btn-good').addEventListener('click', (e) => { e.stopPropagation(); rateCard(3); });
+  document.querySelector('.rating-btn-easy').addEventListener('click', (e) => { e.stopPropagation(); rateCard(4); });
+  
+  if ($('complete-home-btn')) {
+    $('complete-home-btn').addEventListener('click', () => {
+      updateStats();
+      router.navigate('/');
     });
-  });
-
-  // Exit study
-  $('study-exit-btn').addEventListener('click', () => {
-    stopSpeech();
-    updateStats();
-    showView('setup');
-  });
-
-  // Complete → home
-  $('complete-home-btn').addEventListener('click', () => {
-    updateStats();
-    showView('setup');
-  });
-
-  // Keyboard shortcuts
-  document.addEventListener('keydown', (e) => {
-    // Only in study view
-    if (!views.study.classList.contains('active')) return;
-
-    switch (e.key) {
-      case ' ':
-      case 'Enter':
-        e.preventDefault();
-        if (!state.isFlipped) flipCard();
-        break;
-      case '1':
-        if (state.isFlipped) rateCard(Rating.AGAIN);
-        break;
-      case '2':
-        if (state.isFlipped) rateCard(Rating.HARD);
-        break;
-      case '3':
-        if (state.isFlipped) rateCard(Rating.GOOD);
-        break;
-      case '4':
-        if (state.isFlipped) rateCard(Rating.EASY);
-        break;
-      case 's':
-      case 'S':
-        // Replay sound
-        if (state.currentCard) {
-          playCardSound(state.currentCard);
-        }
-        break;
-    }
-  });
-
-  // Touch swipe for mobile
-  let touchStartY = 0;
-  $('flashcard-container').addEventListener('touchstart', (e) => {
-    touchStartY = e.touches[0].clientY;
-  }, { passive: true });
-
-  $('flashcard-container').addEventListener('touchend', (e) => {
-    const touchEndY = e.changedTouches[0].clientY;
-    const diff = touchStartY - touchEndY;
-    if (Math.abs(diff) > 50 && !state.isFlipped) {
-      flipCard();
-    }
-  }, { passive: true });
+  }
 }
 
-// ── Bootstrap ──
-init();
+document.addEventListener('DOMContentLoaded', init);

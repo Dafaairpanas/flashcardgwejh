@@ -110,29 +110,3 @@ dipakai lagi, tetapi memanggil marga atau namanya yang dibubuhi dengan さん .
 [Perhatian] あな た digunakan terhadap orang yang berhubungan sangat dekat (suami
 istri, pacar dll.). Perlu hati-hati bahwa jika menggunakannya kepada lawan bicara
 yang hubungan tidak dekat maka akan memberi kesan yang kurang sopan.
-
-
-Bab ini memberikan fondasi paling mendasar mengenai struktur tata bahasa Jepang, secara spesifik berfokus pada identifikasi entitas dan parameter baku untuk perkenalan diri.
-
-Berikut adalah anatomi teknis dari materi yang dibahas:
-
-**1. Afirmasi dan Negasi Identitas**
-
-* **Pernyataan Positif:** Menggunakan pola `[Kata Benda 1] wa [Kata Benda 2] desu`. Partikel *wa* (ditulis は) berfungsi menetapkan subjek sebagai topik pembicaraan, sedangkan *desu* bertindak sebagai predikat yang menyatakan kepastian secara sopan.
-* **Pernyataan Negatif:** Menggunakan pola `... ja (dewa) arimasen` sebagai substitusi dari *desu* untuk menyangkal identitas atau profesi (contoh: bukan mahasiswa).
-
-**2. Formasi Interogasi (Kalimat Tanya)**
-Penambahan partikel *ka* pada akhir kalimat (`... desu ka`) secara otomatis mengubah pernyataan menjadi pertanyaan. Pola ini berlaku mutlak, baik untuk verifikasi faktual yang membutuhkan jawaban "Ya/Tidak" maupun untuk pertanyaan terbuka yang menggunakan kata tanya (seperti "siapa" / *donata*).
-
-**3. Partikel Penghubung Tambahan**
-
-* **Partikel *mo*:** Digunakan sebagai pengganti *wa* untuk menyatakan kesamaan atribut atau predikat dengan subjek sebelumnya ("juga").
-* **Partikel *no*:** Berfungsi sebagai modifikator yang mengikat dua kata benda. Kata benda pertama menerangkan afiliasi atau asal dari kata benda kedua (contoh: "pegawai *dari* perusahaan IMC").
-
-**4. Protokol Kesopanan Sosial**
-Bab ini secara kritis menekankan etiket pemanggilan:
-
-* Sufiks `~san` wajib digunakan di belakang nama orang lain sebagai bentuk penghormatan, namun **tidak boleh** digunakan untuk diri sendiri.
-* Penggunaan kata ganti *anata* (Anda) sangat dibatasi. Secara realita, pemakaian *anata* kepada orang yang tidak memiliki hubungan intim (seperti pasangan) justru dianggap tidak sopan. Nama lawan bicara yang ditambah `~san` adalah standar substitusi yang paling aman.
-
-Secara keseluruhan, bab ini melatih pembaca untuk membuat kalimat perkenalan diri, menanyakan asal, usia, dan profesi dengan tata bahasa yang presisi dan mematuhi norma hierarki kesopanan bahasa Jepang.

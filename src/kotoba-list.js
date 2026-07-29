@@ -48,6 +48,36 @@ export async function initKotobaList() {
       searchTimeout = setTimeout(renderKotobaTable, 150);
     });
   }
+
+  // View Controls
+  const btnAll = $('btn-view-all');
+  const btnJp = $('btn-view-jp');
+  const btnId = $('btn-view-id');
+  const table = document.querySelector('.kotoba-table');
+  
+  if (btnAll && btnJp && btnId && table) {
+    const btns = [btnAll, btnJp, btnId];
+    
+    btnAll.addEventListener('click', () => {
+      btns.forEach(b => b.classList.remove('active'));
+      btnAll.classList.add('active');
+      table.classList.remove('hide-jp', 'hide-id');
+    });
+    
+    btnJp.addEventListener('click', () => {
+      btns.forEach(b => b.classList.remove('active'));
+      btnJp.classList.add('active');
+      table.classList.remove('hide-jp', 'hide-id');
+      table.classList.add('hide-id');
+    });
+    
+    btnId.addEventListener('click', () => {
+      btns.forEach(b => b.classList.remove('active'));
+      btnId.classList.add('active');
+      table.classList.remove('hide-jp', 'hide-id');
+      table.classList.add('hide-jp');
+    });
+  }
 }
 
 function renderBabGrid() {
