@@ -61,6 +61,12 @@ function setupEventListeners() {
     updateStats();
     router.navigate('/');
     closeHiddenMenu();
+    
+    // Close mobile modal if open when navigating home
+    const mobileModal = $('mobile-modal');
+    if (mobileModal) {
+      mobileModal.classList.remove('modal-active');
+    }
   });
 
   $('nav-menu-btn').addEventListener('click', (e) => {
@@ -180,7 +186,29 @@ function setupEventListeners() {
     });
   });
 
-  $('start-btn').addEventListener('click', startStudy);
+  // Mobile Setup Modal Listeners
+  const mobileSetupBtn = $('mobile-setup-btn');
+  const closeModalBtn = $('close-modal-btn');
+  const mobileModal = $('mobile-modal');
+
+  if (mobileSetupBtn && mobileModal) {
+    mobileSetupBtn.addEventListener('click', () => {
+      mobileModal.classList.add('modal-active');
+    });
+  }
+
+  if (closeModalBtn && mobileModal) {
+    closeModalBtn.addEventListener('click', () => {
+      mobileModal.classList.remove('modal-active');
+    });
+  }
+
+  $('start-btn').addEventListener('click', () => {
+    if (mobileModal) {
+      mobileModal.classList.remove('modal-active');
+    }
+    startStudy();
+  });
   $('flashcard-container').addEventListener('click', flipCard);
   
   if ($('study-exit-btn')) {
