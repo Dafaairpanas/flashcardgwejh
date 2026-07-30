@@ -1,0 +1,51 @@
+body {
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-size: 14pt;
+    line-height: 1.7;
+    color: #2c3e50;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #2980b9;
+    font-size: 24pt;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 10px;
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: #16a085;
+    font-size: 18pt;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #a3e4d7;
+    padding-bottom: 5px;
+}
+
+ol {
+    padding-left: 25px;
+}
+
+li {
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+/* Pola tata bahasa akan di-bold, kita beri warna khusus biar menonjol */
+strong {
+    color: #c0392b;
+    background-color: #fadbd8;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-family: 'Consolas', monospace;
+    font-size: 13pt;
+}
+
+/* Contoh kalimat bahasa Jepang */
+li p {
+    margin: 0;
+}

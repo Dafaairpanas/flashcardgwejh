@@ -49,19 +49,56 @@ export async function initKotobaList() {
     });
   }
 
-  // View Controls
+  // View Controls (FAB Popup)
+  const fab = $('kotoba-view-fab');
+  const menu = $('kotoba-view-menu');
   const btnAll = $('btn-view-all');
   const btnJp = $('btn-view-jp');
   const btnId = $('btn-view-id');
   const table = document.querySelector('.kotoba-table');
   
+  if (fab && menu) {
+    // Toggle menu
+    fab.addEventListener('click', (e) => {
+      e.stopPropagation(); // Prevent closing immediately
+      const isOpen = menu.style.opacity === '1';
+      if (isOpen) {
+        menu.style.opacity = '0';
+        menu.style.pointerEvents = 'none';
+        menu.style.transform = 'translateY(10px)';
+      } else {
+        menu.style.opacity = '1';
+        menu.style.pointerEvents = 'auto';
+        menu.style.transform = 'translateY(0)';
+      }
+    });
+
+    // Close menu when clicking outside
+    document.addEventListener('click', (e) => {
+      if (menu.style.opacity === '1' && !menu.contains(e.target) && e.target !== fab) {
+        menu.style.opacity = '0';
+        menu.style.pointerEvents = 'none';
+        menu.style.transform = 'translateY(10px)';
+      }
+    });
+  }
+  
   if (btnAll && btnJp && btnId && table) {
     const btns = [btnAll, btnJp, btnId];
+    
+    const closeMenu = () => {
+      if (menu) {
+        menu.style.opacity = '0';
+        menu.style.pointerEvents = 'none';
+        menu.style.transform = 'translateY(10px)';
+      }
+    };
     
     btnAll.addEventListener('click', () => {
       btns.forEach(b => b.classList.remove('active'));
       btnAll.classList.add('active');
       table.classList.remove('hide-jp', 'hide-id');
+      closeMenu();
     });
     
     btnJp.addEventListener('click', () => {
@@ -69,6 +106,7 @@ export async function initKotobaList() {
       btnJp.classList.add('active');
       table.classList.remove('hide-jp', 'hide-id');
       table.classList.add('hide-id');
+      closeMenu();
     });
     
     btnId.addEventListener('click', () => {
@@ -76,6 +114,7 @@ export async function initKotobaList() {
       btnId.classList.add('active');
       table.classList.remove('hide-jp', 'hide-id');
       table.classList.add('hide-jp');
+      closeMenu();
     });
   }
 }

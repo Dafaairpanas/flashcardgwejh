@@ -476,11 +476,26 @@
               <input type="text" class="dict-search" id="kotoba-search" placeholder="Cari kana, kanji, atau arti..." autocomplete="off" />
             </div>
 
-            <!-- View Controls -->
-            <div style="display: flex; gap: 8px; margin-bottom: 16px;">
-              <button class="btn btn-dark btn-sm active" id="btn-view-all">Tampil Semua</button>
-              <button class="btn btn-dark btn-sm" id="btn-view-jp">Hiragana, Kanji</button>
-              <button class="btn btn-dark btn-sm" id="btn-view-id">Arti</button>
+            <!-- View Controls Floating Action Button -->
+            <div class="kotoba-view-fab-container">
+              <button class="btn btn-primary btn-icon kotoba-view-fab" id="kotoba-view-fab" title="Ubah Tampilan" style="position: fixed; bottom: 24px; right: 24px; width: 56px; height: 56px; border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.3); z-index: 1000; display: flex; align-items: center; justify-content: center;">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:24px;height:24px;"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg>
+              </button>
+              
+              <div class="kotoba-view-menu" id="kotoba-view-menu" style="position: fixed; bottom: 90px; right: 24px; background: rgba(20, 20, 22, 0.9); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 8px; display: flex; flex-direction: column; gap: 4px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); transform: translateY(10px); opacity: 0; pointer-events: none; transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1); z-index: 999; width: 180px;">
+                <button class="btn btn-ghost btn-sm active kotoba-view-item" id="btn-view-all" style="justify-content: flex-start; border: none; width: 100%; text-align: left; padding: 8px 12px; border-radius: 8px;">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px;margin-right:8px;"><path d="M4 6h16M4 12h16M4 18h16"></path></svg>
+                  Tampil Semua
+                </button>
+                <button class="btn btn-ghost btn-sm kotoba-view-item" id="btn-view-jp" style="justify-content: flex-start; border: none; width: 100%; text-align: left; padding: 8px 12px; border-radius: 8px;">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px;margin-right:8px;"><path d="M4 6h16M4 12h8M4 18h16"></path></svg>
+                  Hiragana, Kanji
+                </button>
+                <button class="btn btn-ghost btn-sm kotoba-view-item" id="btn-view-id" style="justify-content: flex-start; border: none; width: 100%; text-align: left; padding: 8px 12px; border-radius: 8px;">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px;margin-right:8px;"><path d="M4 6h16M12 12h8M4 18h16"></path></svg>
+                  Arti
+                </button>
+              </div>
             </div>
 
             <!-- Responsive Zoomable Table -->
