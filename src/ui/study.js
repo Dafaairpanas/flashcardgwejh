@@ -258,10 +258,12 @@ export async function playCardSound(card) {
     soundBtn.classList.add('playing');
   }
 
-  await speak(card.cleanedHiragana || card.hiragana);
-
-  if (soundBtn) {
-    soundBtn.classList.remove('playing');
+  try {
+    await speak(card.cleanedHiragana || card.hiragana);
+  } finally {
+    if (soundBtn) {
+      soundBtn.classList.remove('playing');
+    }
   }
 }
 

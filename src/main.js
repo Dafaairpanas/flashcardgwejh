@@ -150,9 +150,9 @@ function setupEventListeners() {
     });
   });
 
-  document.querySelectorAll('#jlpt-group .filter-btn').forEach(btn => {
+  document.querySelectorAll('#jlpt-group .filter-btn-sm').forEach(btn => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('#jlpt-group .filter-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('#jlpt-group .filter-btn-sm').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       state.jlptFilter = btn.dataset.jlpt;
       import('./ui/setup.js').then(m => {
@@ -230,6 +230,29 @@ function setupEventListeners() {
       router.navigate('/');
     });
   }
+
+  // Keyboard shortcuts for Study View
+  document.addEventListener('keydown', (e) => {
+    if (document.activeElement.tagName === 'INPUT' || document.activeElement.tagName === 'TEXTAREA') return;
+    if (!window.location.hash.includes('/study')) return;
+
+    if (e.code === 'Space') {
+      e.preventDefault(); // Prevent page scroll
+      if (!state.isFlipped) {
+        flipCard();
+      } else {
+        rateCard(3); // Default to Good on second space
+      }
+    } else if (e.key === '1') {
+      if (state.isFlipped) rateCard(1);
+    } else if (e.key === '2') {
+      if (state.isFlipped) rateCard(2);
+    } else if (e.key === '3') {
+      if (state.isFlipped) rateCard(3);
+    } else if (e.key === '4') {
+      if (state.isFlipped) rateCard(4);
+    }
+  });
 }
 
 document.addEventListener('DOMContentLoaded', init);
