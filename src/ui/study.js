@@ -87,7 +87,7 @@ function showCard() {
   renderCardFront(card);
   renderCardBack(card);
 
-  if (state.soundEnabled && state.studyMode === 4) {
+  if (state.soundEnabled && state.studyMode !== 3) {
     setTimeout(() => playCardSound(card), 400);
   }
 }

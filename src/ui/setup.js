@@ -78,6 +78,7 @@ function setupDragSelect(grid) {
   let isDragging = false;
   let dragAction = null; 
   let touchedChips = new Set();
+  let lastTouchTime = 0;
 
   function getChipFromPoint(x, y) {
     const el = document.elementFromPoint(x, y);
@@ -116,6 +117,7 @@ function setupDragSelect(grid) {
   }
 
   grid.addEventListener('mousedown', (e) => {
+    if (Date.now() - lastTouchTime < 500) return;
     const chip = getChipFromPoint(e.clientX, e.clientY);
     if (!chip) return;
     e.preventDefault();
@@ -134,6 +136,7 @@ function setupDragSelect(grid) {
   document.addEventListener('mouseup', finishDrag);
 
   grid.addEventListener('touchstart', (e) => {
+    lastTouchTime = Date.now();
     const touch = e.touches[0];
     const chip = getChipFromPoint(touch.clientX, touch.clientY);
     if (!chip) return;
