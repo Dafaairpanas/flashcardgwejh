@@ -257,6 +257,16 @@
             <div class="stat-label">Accuracy</div>
           </div>
         </div>
+
+        <div class="complete-analysis" id="complete-analysis" style="display:none; margin-top:32px; width:100%; max-width:500px; text-align:left;">
+          <h3 style="margin-bottom: 16px; font-size:1.1rem; color:var(--text-primary); display:flex; align-items:center; gap:8px;">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width:20px;height:20px;color:var(--color-again);"><path d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
+            Perlu Dipelajari Lagi
+          </h3>
+          <div class="weak-cards-list" id="weak-cards-list" style="display: flex; flex-direction: column; gap: 12px; max-height: 350px; overflow-y: auto; padding-right:8px;">
+          </div>
+        </div>
+
         <button class="btn btn-primary btn-lg" id="complete-home-btn" style="margin-top: 32px;">
           Return to Dashboard
         </button>
@@ -512,6 +522,128 @@
         </div>
       </div>
 
+      <!-- ═══ ADMIN VIEW ═══ -->
+      <div class="view page-view" id="admin-view">
+        <div class="page-container" style="max-width: 900px; margin: 0 auto;">
+          
+          <!-- Login Section -->
+          <div id="admin-login-section" style="max-width: 400px; margin: 40px auto;">
+            <div class="page-header" style="text-align: center;">
+              <h2 class="page-title">Admin Login</h2>
+              <p class="page-subtitle">Silakan login untuk mengelola flashcard</p>
+            </div>
+            <form id="admin-login-form" class="bento-card" style="gap: 16px;">
+              <div>
+                <label style="display:block; margin-bottom:8px; font-size:0.9rem; color:var(--text-secondary);">Email</label>
+                <input type="email" id="admin-email" required style="width:100%; padding:12px; border-radius:8px; background:var(--bg-input); border:1px solid var(--border-glass); color:white; outline:none;" />
+              </div>
+              <div>
+                <label style="display:block; margin-bottom:8px; font-size:0.9rem; color:var(--text-secondary);">Password</label>
+                <input type="password" id="admin-password" required style="width:100%; padding:12px; border-radius:8px; background:var(--bg-input); border:1px solid var(--border-glass); color:white; outline:none;" />
+              </div>
+              <button type="submit" class="btn btn-primary" style="margin-top: 8px;">Login</button>
+            </form>
+          </div>
+
+          <!-- Dashboard Section -->
+          <div id="admin-dashboard-section" style="display: none;">
+            <div class="page-header" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px;">
+              <div>
+                <h2 class="page-title">Admin Dashboard</h2>
+                <p class="page-subtitle">Kelola data kosakata (CRUD)</p>
+              </div>
+              <button class="btn btn-ghost btn-sm" id="admin-logout-btn">Logout</button>
+            </div>
+
+            <div class="admin-controls-wrapper" style="display: flex; gap: 12px; margin-bottom: 24px; flex-wrap: wrap;">
+              <div class="dict-search-wrap" style="flex: 1; min-width: 200px; margin-bottom: 0;">
+                <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                <input type="text" class="dict-search" id="admin-search" placeholder="Cari kartu..." autocomplete="off" style="width: 100%;" />
+              </div>
+              <select id="admin-filter-chapter" style="padding: 12px 16px; border-radius: 12px; background: var(--bg-card); border: 1px solid var(--border-glass); color: white; outline: none; min-width: 120px; cursor: pointer; font-family: inherit;">
+                <option value="all">Semua Bab</option>
+              </select>
+              <select id="admin-filter-tipe" style="padding: 12px 16px; border-radius: 12px; background: var(--bg-card); border: 1px solid var(--border-glass); color: white; outline: none; min-width: 120px; cursor: pointer; font-family: inherit;">
+                <option value="all">Semua Tipe</option>
+              </select>
+              <button class="btn btn-primary" id="admin-add-btn" style="white-space: nowrap; flex-shrink: 0; padding: 0 20px;">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width:18px;height:18px;margin-right:8px;"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+                <span class="btn-text">Tambah Baru</span>
+              </button>
+            </div>
+
+            <div class="kotoba-table-wrapper" style="max-height: 60vh; overflow-x: auto; overflow-y: auto; border-radius: 12px; border: 1px solid var(--border-glass);">
+              <table class="kotoba-table" id="admin-table" style="width: 100%; min-width: 600px; border-collapse: collapse;">
+                <thead style="position: sticky; top: 0; background: var(--bg-card); z-index: 10;">
+                  <tr>
+                    <th style="padding: 16px; text-align: left; border-bottom: 1px solid var(--border-glass);">Kanji</th>
+                    <th style="padding: 16px; text-align: left; border-bottom: 1px solid var(--border-glass);">Hiragana</th>
+                    <th style="padding: 16px; text-align: left; border-bottom: 1px solid var(--border-glass);">Arti</th>
+                    <th style="padding: 16px; text-align: left; border-bottom: 1px solid var(--border-glass);">Bab</th>
+                    <th style="padding: 16px; text-align: left; border-bottom: 1px solid var(--border-glass);">Tipe</th>
+                    <th style="padding: 16px; text-align: center; border-bottom: 1px solid var(--border-glass); width: 100px;">Aksi</th>
+                  </tr>
+                </thead>
+                <tbody id="admin-tbody">
+                  <!-- Rendered via JS -->
+                </tbody>
+              </table>
+            </div>
+            
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-top:16px;">
+              <button class="btn btn-ghost btn-sm" id="admin-prev-page">← Prev</button>
+              <span id="admin-page-info" style="font-size:0.9rem; color:var(--text-secondary);">Page 1</span>
+              <button class="btn btn-ghost btn-sm" id="admin-next-page">Next →</button>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Admin Form Modal -->
+      <div class="kanji-modal-overlay" id="admin-form-overlay">
+        <div class="bento-card" style="width:90%; max-width:500px; max-height:90vh; overflow-y:auto; background:var(--bg-secondary); border-color:var(--border-accent);">
+          <div class="bento-header" style="justify-content:space-between; margin-bottom:16px;">
+            <h3 id="admin-form-title">Tambah Kartu</h3>
+            <button class="kanji-modal-close" id="admin-form-close" style="position:static; width:32px; height:32px;">&times;</button>
+          </div>
+          <form id="admin-crud-form" style="display:flex; flex-direction:column; gap:16px;">
+            <input type="hidden" id="admin-form-id" />
+            <div>
+              <label style="display:block; margin-bottom:4px; font-size:0.85rem; color:var(--text-secondary);">Kanji (kosongkan jika tidak ada)</label>
+              <input type="text" id="admin-form-kanji" style="width:100%; padding:10px; border-radius:8px; background:var(--bg-input); border:1px solid var(--border-glass); color:white; outline:none;" />
+            </div>
+            <div>
+              <label style="display:block; margin-bottom:4px; font-size:0.85rem; color:var(--text-secondary);">Hiragana (wajib)</label>
+              <input type="text" id="admin-form-hiragana" required style="width:100%; padding:10px; border-radius:8px; background:var(--bg-input); border:1px solid var(--border-glass); color:white; outline:none;" />
+            </div>
+            <div>
+              <label style="display:block; margin-bottom:4px; font-size:0.85rem; color:var(--text-secondary);">Arti (wajib)</label>
+              <textarea id="admin-form-meaning" required rows="2" style="width:100%; padding:10px; border-radius:8px; background:var(--bg-input); border:1px solid var(--border-glass); color:white; outline:none; resize:vertical;"></textarea>
+            </div>
+            <div style="display:flex; gap:16px;">
+              <div style="flex:1;">
+                <label style="display:block; margin-bottom:4px; font-size:0.85rem; color:var(--text-secondary);">Bab</label>
+                <input type="text" id="admin-form-chapter" required placeholder="e.g. Bab01" style="width:100%; padding:10px; border-radius:8px; background:var(--bg-input); border:1px solid var(--border-glass); color:white; outline:none;" />
+              </div>
+              <div style="flex:1;">
+                <label style="display:block; margin-bottom:4px; font-size:0.85rem; color:var(--text-secondary);">JLPT Level</label>
+                <input type="text" id="admin-form-level" placeholder="e.g. n5 atau -" style="width:100%; padding:10px; border-radius:8px; background:var(--bg-input); border:1px solid var(--border-glass); color:white; outline:none;" />
+              </div>
+            </div>
+            <div>
+              <label style="display:block; margin-bottom:4px; font-size:0.85rem; color:var(--text-secondary);">Tipe (Importantity)</label>
+              <select id="admin-form-importantity" style="width:100%; padding:10px; border-radius:8px; background:var(--bg-input); border:1px solid var(--border-glass); color:white; outline:none;">
+                <option value="1">1 - Utama (Wajib)</option>
+                <option value="2">2 - Tambahan (Extra)</option>
+                <option value="3">3 - Tidak Berguna (Trash)</option>
+              </select>
+            </div>
+            <button type="submit" class="btn btn-primary" style="margin-top:8px;">Simpan</button>
+          </form>
+        </div>
+      </div>
+
     </main>
 
     <!-- Hidden Menu Popup -->
@@ -547,10 +679,10 @@
           <span class="menu-desc">Sesuaikan tampilan & preferensi</span>
         </div>
       </a>
-      <a class="menu-item" href="/tools/data-manager.html" target="_blank">
+      <a class="menu-item" href="#/admin" data-page="admin">
         <div class="menu-text">
-          <span class="menu-label">Data Manager (GUI) 🛠️</span>
-          <span class="menu-desc">Kelola data & edit class/kategori</span>
+          <span class="menu-label">Admin Dashboard</span>
+          <span class="menu-desc">Kelola (CRUD) database kartu</span>
         </div>
       </a>
     </div>

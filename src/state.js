@@ -18,6 +18,7 @@ export const state = {
   totalReviewed: 0,
   totalCorrect: 0,       
   cardsUntilNextColor: Math.floor(Math.random() * 6) + 10,
+  sessionWeakCards: new Map(), // Track missed cards during session
 
   // Data
   allCards: [],

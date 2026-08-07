@@ -24,6 +24,7 @@ export function startStudy() {
   state.sessionStartTime = Date.now();
   state.totalReviewed = 0;
   state.totalCorrect = 0;
+  state.sessionWeakCards.clear();
 
   router.navigate('/study');
   showCard();
@@ -48,6 +49,7 @@ export function startCustomStudy(customCards) {
   state.sessionStartTime = Date.now();
   state.totalReviewed = 0;
   state.totalCorrect = 0;
+  state.sessionWeakCards.clear();
 
   router.navigate('/study');
   showCard();
@@ -87,7 +89,7 @@ function showCard() {
   renderCardFront(card);
   renderCardBack(card);
 
-  if (state.soundEnabled && state.studyMode !== 3) {
+  if (state.soundEnabled && state.studyMode !== 3 && state.studyMode !== 2) {
     setTimeout(() => playCardSound(card), 400);
   }
 }
@@ -216,7 +218,7 @@ export function flipCard() {
   $('interval-good').textContent = fsrs.getIntervalText(card.id, Rating.GOOD);
   $('interval-easy').textContent = fsrs.getIntervalText(card.id, Rating.EASY);
 
-  if (state.soundEnabled && (state.studyMode === 1 || state.studyMode === 3)) {
+  if (state.soundEnabled && (state.studyMode === 1 || state.studyMode === 2 || state.studyMode === 3)) {
     playCardSound(card);
   }
 }
@@ -229,6 +231,11 @@ export function rateCard(rating) {
 
   state.totalReviewed++;
   if (rating >= Rating.GOOD) state.totalCorrect++;
+
+  if (rating === Rating.AGAIN || rating === Rating.HARD) {
+    const fails = state.sessionWeakCards.get(card.id)?.fails || 0;
+    state.sessionWeakCards.set(card.id, { card, fails: fails + 1 });
+  }
 
   state.cardsUntilNextColor--;
   if (state.cardsUntilNextColor <= 0) {
@@ -279,6 +286,40 @@ function finishSession() {
   $('complete-reviewed').textContent = state.totalReviewed;
   $('complete-time').textContent = timeStr;
   $('complete-correct').textContent = `${accuracy}%`;
+
+  const weakCardsContainer = $('complete-analysis');
+  const weakCardsList = $('weak-cards-list');
+  if (weakCardsContainer && weakCardsList) {
+    if (state.sessionWeakCards.size > 0) {
+      weakCardsContainer.style.display = 'block';
+      weakCardsList.innerHTML = '';
+      
+      const fragment = document.createDocumentFragment();
+      for (const [id, data] of state.sessionWeakCards) {
+        const c = data.card;
+        const item = document.createElement('div');
+        item.className = 'weak-card-item';
+        
+        const hasKanji = c.kanji !== c.hiragana;
+        const kanjiHtml = hasKanji ? `<div style="font-size:1.2rem; font-weight:700; color:var(--text-primary); margin-bottom:2px;">${c.kanji}</div>` : '';
+        
+        item.innerHTML = `
+          <div style="flex:1;">
+            <div style="font-size:0.85rem; color:var(--text-secondary); margin-bottom:2px;">${c.hiragana}</div>
+            ${kanjiHtml}
+            <div style="font-size:0.9rem; color:var(--text-muted);">${c.meaning}</div>
+          </div>
+          <div style="background:rgba(239, 68, 68, 0.15); color:var(--color-again); padding:4px 8px; border-radius:6px; font-size:0.75rem; font-weight:600; white-space:nowrap; height:fit-content; margin-top:4px;">
+            Salah ${data.fails}x
+          </div>
+        `;
+        fragment.appendChild(item);
+      }
+      weakCardsList.appendChild(fragment);
+    } else {
+      weakCardsContainer.style.display = 'none';
+    }
+  }
 
   router.navigate('/complete');
 }

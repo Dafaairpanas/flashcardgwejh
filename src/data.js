@@ -1,4 +1,5 @@
 import { toRomaji, cleanReading } from './romaji.js';
+import { supabase } from './supabaseClient.js';
 
 /** Raw data will be loaded at runtime */
 let ALL_CARDS = [];
@@ -46,37 +47,96 @@ function parseLine(line, index) {
 }
 
 /**
- * Load card data from dtmtjs.json
+ * Load card data from Supabase
  * @returns {Promise<Array>}
  */
-export async function loadData() {
-  if (ALL_CARDS.length > 0) return ALL_CARDS;
+export async function loadData(forceRefresh = false) {
+  if (ALL_CARDS.length > 0 && !forceRefresh) return ALL_CARDS;
+
+  const CACHE_KEY = 'FC_OFFLINE_CARDS';
+
+  // If browser explicitly says we are offline, skip network and load cache directly
+  if (!navigator.onLine) {
+    console.log('[Data] Device is offline, trying to load from local cache...');
+    return loadFromCache(CACHE_KEY);
+  }
 
   try {
-    let response = await fetch('/dtmtjs.json');
+    let allFetchedData = [];
+    let start = 0;
+    const PAGE_SIZE = 1000;
+    let hasMore = true;
 
-    if (!response.ok) {
-      console.warn(`[Data] First fetch failed (${response.status}), retrying with cache bust...`);
-      response = await fetch('/dtmtjs.json?_t=' + Date.now(), { cache: 'no-store' });
+    while (hasMore) {
+      const { data, error } = await supabase
+        .from('cards')
+        .select('*')
+        .range(start, start + PAGE_SIZE - 1);
+
+      if (error) throw error;
+      
+      if (data && data.length > 0) {
+        allFetchedData.push(...data);
+        if (data.length < PAGE_SIZE) {
+          hasMore = false; // no more data
+        } else {
+          start += PAGE_SIZE;
+        }
+      } else {
+        hasMore = false;
+      }
     }
-
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+    
+    if (allFetchedData.length > 0) {
+      ALL_CARDS = allFetchedData.map(c => ({
+        ...c,
+        importantity: c.importantity ?? 1,
+        get isExtra() { return this.importantity === 2; },
+        cleanedHiragana: cleanReading(c.hiragana),
+        romaji: toRomaji(cleanReading(c.hiragana)),
+      }));
+      console.log(`[Data] Loaded ${ALL_CARDS.length} cards from Supabase`);
+      
+      // Cache for offline use
+      try {
+        localStorage.setItem(CACHE_KEY, JSON.stringify(ALL_CARDS));
+      } catch (e) {
+        console.warn('[Data] Failed to cache data to localStorage:', e);
+      }
+      
+      return ALL_CARDS;
     }
-
-    const json = await response.json();
-    ALL_CARDS = json.cards.map(c => ({
-      ...c,
-      importantity: c.importantity ?? 1,
-      get isExtra() { return this.importantity === 2; },
-    }));
-
-    console.log(`[Data] Loaded ${ALL_CARDS.length} cards from dtmtjs.json`);
-    return ALL_CARDS;
   } catch (err) {
-    console.error('[Data] Failed to load data:', err);
-    return [];
+    console.error('[Data] Failed to load from Supabase:', err);
   }
+
+  // If Supabase failed (e.g. network error, server down), fallback to cache
+  console.warn('[Data] Fetch failed, falling back to local cache.');
+  return loadFromCache(CACHE_KEY);
+}
+
+/**
+ * Load cards from localStorage
+ */
+function loadFromCache(cacheKey) {
+  try {
+    const cached = localStorage.getItem(cacheKey);
+    if (cached) {
+      const parsed = JSON.parse(cached);
+      // We need to reattach the getter for isExtra since JSON stringify strips it
+      ALL_CARDS = parsed.map(c => ({
+        ...c,
+        get isExtra() { return this.importantity === 2; }
+      }));
+      console.log(`[Data] Loaded ${ALL_CARDS.length} cards from offline cache`);
+      return ALL_CARDS;
+    }
+  } catch (err) {
+    console.error('[Data] Failed to read from offline cache:', err);
+  }
+  
+  console.warn('[Data] No offline cache available.');
+  return [];
 }
 
 /**
@@ -151,6 +211,14 @@ export function shuffleCards(arr) {
 export function chapterDisplayName(chapter) {
   const num = chapter.replace('Bab', '');
   return `Bab ${num}`;
+}
+
+/**
+ * Get unique word classes from cards
+ */
+export function getWordClasses() {
+  const classes = new Set(ALL_CARDS.map(c => c.wordClass || 'Unclassified'));
+  return Array.from(classes).sort();
 }
 
 /**

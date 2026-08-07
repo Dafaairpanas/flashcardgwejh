@@ -17,6 +17,7 @@ const views = {
   quiz: $('quiz-view'),
   kotoba: $('kotoba-view'),
   settings: $('settings-view'),
+  admin: $('admin-view'),
 };
 
 export const router = {
@@ -37,6 +38,7 @@ export const router = {
     else if (hash === '/quiz') viewName = 'quiz';
     else if (hash === '/kotoba') viewName = 'kotoba';
     else if (hash === '/settings') viewName = 'settings';
+    else if (hash === '/admin') viewName = 'admin';
     
     // Protection: if no session is active and trying to access study/complete, redirect to setup
     if ((viewName === 'study' || viewName === 'complete') && !state.sessionStartTime) {
@@ -75,6 +77,11 @@ export const router = {
       const { initKotobaList } = await import('./kotoba-list.js');
       initKotobaList();
       pageInitialized.kotoba = true;
+    }
+    if (name === 'admin' && !pageInitialized.admin) {
+      const { initAdmin } = await import('./admin.js');
+      initAdmin();
+      pageInitialized.admin = true;
     }
   },
 

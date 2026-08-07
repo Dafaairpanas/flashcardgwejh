@@ -12,13 +12,6 @@ export default defineConfig({
       includeAssets: [
         'favicon.svg',
         'icons.svg',
-        'datamatang.txt',
-        'data.txt',
-        'datafilter.txt',
-        'n2.txt',
-        'n3.txt',
-        'n4.txt',
-        'n5.txt',
         'kanji_jlpt_only.json',
         'soal/*.json',
         'bunpou/**/*',

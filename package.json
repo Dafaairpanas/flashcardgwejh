@@ -13,7 +13,7 @@
     "vite-plugin-pwa": "^1.3.0"
   },
   "dependencies": {
-    "google-translate-api-x": "^10.7.3",
-    "tesseract.js": "^7.0.0"
+    "@supabase/supabase-js": "^2.112.2",
+    "dotenv": "^17.4.2"
   }
 }
