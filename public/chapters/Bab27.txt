@@ -1,0 +1,87 @@
+飼います;かいます;memelihara;Bab27;n4;1
+建てます;たてます;membangun;Bab27;n4;1
+走ります;はしります;berlari [jalan];Bab27;n4;1
+取ります;とります;mengambil, cuti;Bab27;n3;1
+見えます;みえます;[gunung] terlihat;Bab27;n4;1
+聞こえます;きこえます;[bunyi] terdengar;Bab27;n4;1
+できます;できます;[jalan] dibuat;Bab27;n4;1
+開きます;ひらきます;membuka/mengadakan [kelas];Bab27;n4;1
+心配な;しんぱいな;khawatir;Bab27;n4;1
+ペット;ペット;hewan peliharaan;Bab27;-;1
+鳥;とり;burung;Bab27;n4;1
+声;こえ;suara;Bab27;n4;1
+波;なみ;ombak, gelombang;Bab27;n3;1
+花火;はなび;kembang api;Bab27;n4;1
+景色;けしき;pemandangan;Bab27;n3;1
+昼間;ひるま;waktu siang;Bab27;n4;1
+昔;むかし;dulu;Bab27;n3;1
+道具;どうぐ;alat;Bab27;n3;1
+自動販売機;じどうはんばいき;mesin penjual otomatis;Bab27;n2;1
+通信販売;つうしんはんばい;penjualan memalui pos;Bab27;n2;1
+クリーニング;クリーニング;laundry;Bab27;-;1
+家;いえ;rumah;Bab27;n4;1
+マンション;マンション;apartemen;Bab27;-;1
+キッチン;キッチン;dapur;Bab27;n4;1
+～教室;～きょうしつ;les ~, kelas ~;Bab27;n4;1
+パーティールーム;パーティールーム;ruang pesta;Bab27;-;1
+方;かた;orang (Kata Hormat dari ひと);Bab27;n4;1
+～後;～ご;setelah ~, sesudah ~;Bab27;n4;1
+～しか;～しか;hanya ~;Bab27;n4;1
+ほかの;ほかの;lain;Bab27;n4;1
+はっきり;はっきり;jelas;Bab27;n4;1
+ほとんど;ほとんど;hampir;Bab27;n4;1
+日曜大工;にちようだいく;bertukang dihari minggu;Bab27;n4;1
+家具;かぐ;perabot rumah, mebel;Bab27;n4;1
+本棚;ほんだな;lemari buku;Bab27;-;1
+夢;ゆめ;mimpi, impian;Bab27;n3;1
+いつか;いつか;kapan-kapan;Bab27;n4;1
+すばらしい;すばらしい;bagus;Bab27;n4;1
+子どもたち;こどもたち;anak-anak;Bab27;n4;1
+大好きな;だいすきな;kesukaan;Bab27;n4;1
+漫画;まんが;komik, kartun;Bab27;n4;1
+主人公;しゅじんこう;pelaku utama;Bab27;n3;1
+形;かたち;sosok, bentuk;Bab27;n3;1
+ロボット;ロボット;robot;Bab27;-;1
+不思議な;ふしぎな;ajaib;Bab27;n4;1
+ポケット;ポケット;kantong;Bab27;-;1
+例えば;たとえば;misalnya;Bab27;n3;1
+付けます;つけます;memasang;Bab27;n4;1
+自由に;じゆうに;dengan bebas;Bab27;n4;1
+空;そら;langit;Bab27;n4;1
+飛びます;とびます;terbang;Bab27;n4;1
+自分;じぶん;diri sendiri;Bab27;n3;1
+将来;しょうらい;masa depan;Bab27;n3;1
+近くの店;ちかくのみせ;Toko Di Sekitar Lingkungan;Bab27;-;1
+靴・かばん修理;くつ・かばんしゅうり;Perbaikan Sepatu/Tas;Bab27;-;1
+合いかぎ;あいかぎ;Kunci Cadangan;Bab27;-;1
+ヒール・かかと修理;ヒール・かかとしゅうり;Perbaikan Hak/Sol;Bab27;-;1
+つま先修理;つまさきしゅうり;Perbaikan Ujung Sepatu;Bab27;-;1
+中敷き交換;なかじきこうかん;Ganti Pengalas Dalam;Bab27;-;1
+ファスナー交換;ファスナーこうかん;Ganti Ritsleting;Bab27;-;1
+ハンドル・持ち手交換;ハンドル・もちてこうかん;Ganti Setir/Pegangan;Bab27;-;1
+ほつれ・縫い目の修理;ほつれ・ぬいめのしゅうり;Perbaikan jahitan lepas/Mata Jahitan;Bab27;-;1
+クリーニング屋;クリーニングや;Laundry;Bab27;-;1
+ドライクリーニング;ドライクリーニング;Dry cleaning/Mencuci Tanpa Air;Bab27;-;1
+水洗い;みずあらい;Mencuci dengan Air;Bab27;-;1
+染み抜き;しみぬき;Menghilangkan Noda Bintik;Bab27;-;1
+はっ水加工;はっすいかこう;Pengolahan Anti Air;Bab27;-;1
+サイズ直し;サイズなおし;Permak Ukuran;Bab27;-;1
+縮む;ちぢむ;menyusut;Bab27;-;1
+伸びる;のびる;molor;Bab27;-;1
+コンビニ;コンビニ;Toko 24 Jam;Bab27;-;1
+宅配便の受け付け;たくはいびんのうけつけ;Jasa Penerimaan Titipan Kilat;Bab27;-;1
+ATM;ATM;ATM;Bab27;-;1
+公共料金等の支払い;こうきょうりょうきんとうのしはらい;Pembayaran Rekening Listrik, Air PAM dan lain-lain;Bab27;-;1
+コピー、ファクス;コピー、ファクス;Fotocopy, FAX;Bab27;-;1
+はがき・切手の販売;はがき・きってのはんばい;Penjualan Kartu Pos, perangko;Bab27;-;1
+コンサートチケットの販売;コンサートチケットのはんばい;Penjualan Karcis Konser;Bab27;-;1
+写真屋;しゃしんや;Tempat cuci cetak foto;Bab27;n4;1
+現像;げんぞう;Cuci film;Bab27;n2;1
+プリント;プリント;Cetak;Bab27;-;1
+焼き増し;やきまし;Cetak tambah;Bab27;n2;1
+引き伸ばし;ひきのばし;Cetak perbesar;Bab27;n2;1
+ネガ;ネガ;Klise;Bab27;-;1
+スライド;スライド;Slide;Bab27;-;1
+サービスサイズ;サービスサイズ;Ukuran servis;Bab27;-;1
+パノラマサイズ;パノラマサイズ;Ukuran panorama;Bab27;-;1
+写真現像;しゃしんげんぞう;Cuci cetak foto;Bab27;n2;1

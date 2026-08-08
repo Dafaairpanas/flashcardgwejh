@@ -55,6 +55,40 @@ export function startCustomStudy(customCards) {
   showCard();
 }
 
+export function startReviewWeakCards() {
+  const weakCards = Array.from(state.sessionWeakCards.values()).map(data => data.card);
+  if (weakCards.length === 0) {
+    showToast('Tidak ada kartu untuk dipelajari ulang!');
+    return;
+  }
+
+  let reviewCards = [];
+  for (let i = 0; i < 3; i++) {
+    reviewCards = reviewCards.concat(weakCards);
+  }
+
+  for (let i = reviewCards.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [reviewCards[i], reviewCards[j]] = [reviewCards[j], reviewCards[i]];
+  }
+
+  state.sessionQueue = new SessionQueue(reviewCards, {
+    minCooldown: 2,
+    maxCooldown: 5,
+    repeatChance: 0.5,
+  });
+  
+  state.currentCard = null;
+  state.isFlipped = false;
+  state.sessionStartTime = Date.now();
+  state.totalReviewed = 0;
+  state.totalCorrect = 0;
+  state.sessionWeakCards.clear();
+
+  router.navigate('/study');
+  showCard();
+}
+
 function showCard() {
   const queue = state.sessionQueue;
   if (!queue || !queue.hasNext) {
@@ -289,9 +323,13 @@ function finishSession() {
 
   const weakCardsContainer = $('complete-analysis');
   const weakCardsList = $('weak-cards-list');
+  const reviewAgainBtn = $('complete-review-again-btn');
+  const weakCardsCount = $('weak-cards-count');
   if (weakCardsContainer && weakCardsList) {
     if (state.sessionWeakCards.size > 0) {
       weakCardsContainer.style.display = 'block';
+      if (reviewAgainBtn) reviewAgainBtn.style.display = 'block';
+      if (weakCardsCount) weakCardsCount.textContent = `${state.sessionWeakCards.size} kartu`;
       weakCardsList.innerHTML = '';
       
       const fragment = document.createDocumentFragment();
@@ -318,6 +356,7 @@ function finishSession() {
       weakCardsList.appendChild(fragment);
     } else {
       weakCardsContainer.style.display = 'none';
+      if (reviewAgainBtn) reviewAgainBtn.style.display = 'none';
     }
   }
 

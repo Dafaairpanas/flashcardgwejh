@@ -1,0 +1,69 @@
+見ます、診ます;みます;Melihat, memeriksa;Bab26;-;1
+探します、捜します;さがします;Mencari;Bab26;N4;1
+遅れます;おくれます（時間に～）;Terlambat [pada waktu];Bab26;N4;1
+間に合います;まにあいます（時間に～）;Sempat [pada waktu], Tepat waktu;Bab26;N4;1
+やります;やります;Melakukan, mengerjakan;Bab26;N5;1
+拾います;ひろいます;Mendapat, mengambil;Bab26;N4;1
+参加します;さんかします（パーティーに）;Turut serta, ikut, berpartisipasi;Bab26;N3;1
+申し込みます;もうしこみます;Mendaftar;Bab26;N4;1
+連絡します;れんらくします;Menghubungi;Bab26;N4;1
+都合がいい;つごうがいい;Tidak ada halangan;Bab26;N4;1
+都合が悪い;つごうがわるい;Ada halangan;Bab26;N4;1
+気分がいい;きぶんがいい;Rasa enak, segar, kondisi badan baik;Bab26;N4;1
+気分が悪い;きぶんがわるい;Rasa tidak enak, tidak enak badan;Bab26;N4;1
+運動会;うんどうかい;Lomba olahraga, pesta olahraga;Bab26;N4;1
+盆踊り;ぼんおどり;Tarian Bon;Bab26;-;1
+フリーマーケット;フリーマーケット;Pasar rombengan;Bab26;-;1
+場所;ばしょ;Tempat;Bab26;N4;1
+ボランティア;ボランティア;Sukarelawan;Bab26;-;1
+財布;さいふ;Dompet;Bab26;N5;1
+ごみ;ごみ;Sampah;Bab26;N5;1
+国会議事堂;こっかいぎじどう;Gedung parlemen;Bab26;-;1
+平日;へいじつ;Hari kerja;Bab26;N4;1
+～弁;～べん;Dialek ~;Bab26;-;1
+今度;こんど;Kali ini, lain kali;Bab26;N4;1
+ずいぶん;ずいぶん;Sangat, amat (lebih dari perkiraan);Bab26;N3;1
+直接;ちょくせつ;Langsung;Bab26;N3;1
+いつでも;いつでも;Kapan saja;Bab26;N5;1
+どこでも;どこでも;Di mana-mana, dimanapun;Bab26;N5;1
+だれでも;だれでも;Siapa saja;Bab26;N5;1
+何でも;なんでも;Apa saja;Bab26;N5;1
+こんな～;こんな～;~ begini (seperti ini);Bab26;N4;1
+そんな～;そんな～;~ begitu (dekat dari lawan bicara);Bab26;N4;1
+あんな～;あんな～;~ begitu (jauh dari pembicara dan lawan bicara);Bab26;N4;1
+片づきます;かたづきます（荷物が～）;Membereskan [barang];Bab26;N3;1
+出します;だします（ごみを～）;Membuang [sampah], mengeluarkan;Bab26;N5;1
+燃えるごみ;もえるごみ;Sampah organik;Bab26;-;1
+置き場;おきば;Tempat meletakkan sampah, tempat pembuangan;Bab26;N3;1
+横;よこ;Sebelah, samping;Bab26;N5;1
+瓶;びん;Botol;Bab26;N4;1
+缶;かん;Kaleng;Bab26;N3;1
+お湯;おゆ;Air panas;Bab26;N5;1
+ガス;ガス;Gas;Bab26;-;1
+～会社;～がいしゃ;Perusahaan ~;Bab26;N4;1
+困ったなあ;こまったなあ;Payah ya, gawat;Bab26;N3;1
+電子メール;でんしメール;Email;Bab26;-;1
+宇宙;うちゅう;Angkasa, luar angkasa;Bab26;N3;1
+～様;～さま;Kepada Yth. ~, Bapak/Ibu ~;Bab26;N4;1
+宇宙船;うちゅうせん;Wahana antariksa;Bab26;-;1
+怖い;こわい;Takut;Bab26;N4;1
+宇宙ステーション;うちゅうステーション;Stasiun luar angkasa;Bab26;-;1
+違います;ちがいます;Tidak benar, berbeda;Bab26;N5;1
+宇宙飛行士;うちゅうひこうし;Astronot;Bab26;-;1
+別の;べつの;Yang lain;Bab26;N4;1
+ごみの出し方;ごみのだしかた;Cara membuang sampah;Bab26;-;1
+ごみ収集日のお知らせ;ごみしゅうしゅうびのおしらせ;Pengumuman hari pengumpulan sampah;Bab26;-;1
+可燃ごみ（燃えるごみ）;かねんごみ（もえるごみ）;Sampah organik;Bab26;-;1
+生ごみ;なまごみ;Sampah dapur, sampah basah;Bab26;-;1
+紙くず;かみくず;Kertas bekas;Bab26;-;1
+不燃ごみ（燃えないごみ）;ふねんごみ（もえないごみ）;Sampah anorganik, sampah kering;Bab26;-;1
+ガラス製品;ガラスせいひん;Produk dari kaca;Bab26;-;1
+瀬戸物;せともの;Keramik;Bab26;-;1
+金属製台所用品;きんぞくせいだいどころようひん;Peralatan dapur dari logam;Bab26;-;1
+資源ごみ;しげんごみ;Sampah yang dapat didaur ulang;Bab26;-;1
+ペットボトル;ペットボトル;Botol plastik;Bab26;-;1
+粗大ごみ;そだいごみ;Sampah ukuran besar;Bab26;-;1
+家具;かぐ;Perabot rumah tangga;Bab26;N4;1
+家庭電化製品;かていでんかせいひん;Barang elektronik rumah tangga;Bab26;-;1
+自転車;じてんしゃ;Sepeda;Bab26;N5;1
+事前申し込み;じぜんもうしこみ;Pendaftaran sebelumnya;Bab26;-;1

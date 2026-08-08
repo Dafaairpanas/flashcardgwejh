@@ -1,0 +1,61 @@
+咲きます［花が～］;さきます;[bunga] mekar;Bab35;N4;1
+変わります［色が～］;かわります;[warna] berubah;Bab35;N4;1
+困ります;こまります;bingung;Bab35;N4;1
+付けます［丸を～］;つけます;memberikan [tanda (benar)];Bab35;N4;1
+治ります、直ります［病気が～／故障が～］;なおります;[penyakit] sembuh, [kerusakan] membaik;Bab35;N4;1
+クリックします;クリックします;klik;Bab35;-;1
+入力します;にゅうりょくします;mengisi;Bab35;N4;1
+正しい;ただしい;benar;Bab35;N4;1
+向こう;むこう;(di) sana, seberang;Bab35;N4;1
+島;しま;pulau;Bab35;N4;1
+港;みなと;pelabuhan;Bab35;N4;1
+近所;きんじょ;tetangga;Bab35;N4;1
+屋上;おくじょう;loteng;Bab35;N4;1
+海外;かいがい;luar negeri;Bab35;N4;1
+山登り;やまのぼり;mendaki gunung;Bab35;N4;1
+歴史;れきし;sejarah;Bab35;N4;1
+機会;きかい;kesempatan;Bab35;N4;1
+許可;きょか;izin;Bab35;N4;1
+丸;まる;bulat;Bab35;N4;1
+ふりがな;ふりがな;huruf yang menyatakan cara membaca huruf Kanji;Bab35;-;1
+設備;せつび;fasilitas;Bab35;N4;1
+レバー;レバー;tuas;Bab35;-;1
+キー;キー;keyboard, tombol;Bab35;-;1
+カーテン;カーテン;gorden, tirai;Bab35;-;1
+ひも;ひも;tali;Bab35;N4;1
+炊飯器;すいはんき;rice cooker;Bab35;-;1
+葉;は;daun;Bab35;N4;1
+昔;むかし;dulu;Bab35;N4;1
+もっと;もっと;lebih;Bab35;N5;1
+これで終わりましょう。;これでおわりましょう。;Mari kita selesai sampai di sini.;Bab35;-;1
+箱根;はこね;nama daerah pariwisata, peristirahatan di prefektur Kanagawa;Bab35;-;1
+日光;にっこう;nama daerah pariwisata di prefektur Tochigi;Bab35;-;1
+アフリカ;アフリカ;Afrika;Bab35;-;1
+マンガミュージアム;マンガミュージアム;Kyoto International Manga Museum;Bab35;-;1
+みんなの学校;みんなのがっこう;nama sekolah Bahasa Jepang fiksi;Bab35;-;1
+大黒ずし;だいこくずし;nama restoran sushi fiksi;Bab35;-;1
+IMC パソコン教室;アイエムシーパソコンきょうしつ;nama kursus komputer fiksi;Bab35;-;1
+母の味;ははのあじ;judul buku fiksi;Bab35;-;1
+はる;はる;nama salon kecantikan fiksi;Bab35;-;1
+佐藤歯科;さとうしか;nama klinik gigi fiksi;Bab35;-;1
+毎日クッキング;まいにちクッキング;nama sekolah masak fiksi;Bab35;-;1
+それなら;それなら;kalau begitu;Bab35;N4;1
+夜行バス;やこうバス;bus malam;Bab35;N4;1
+さあ;さあ;Yaaa... (dipakai ketika kurang mengerti mengenai sesuatu hal);Bab35;-;1
+旅行社;りょこうしゃ;agen perjalanan;Bab35;N4;1
+詳しい;くわしい;teliti;Bab35;N4;1
+スキー場;スキーじょう;lapangan ski;Bab35;N4;1
+草津;くさつ;nama tempat peristirahatan di prefektur Gunma;Bab35;-;1
+志賀高原;しがこうげん;nama dataran tinggi yang terletak di taman nasional di prefektur Nagano;Bab35;-;1
+朱;しゅ;merah terang;Bab35;-;1
+交わります;まじわります;bergaul;Bab35;N4;1
+ことわざ;ことわざ;pepatah;Bab35;-;1
+関係;かんけい;hubungan;Bab35;N4;1
+仲よくします;なかよくします;bergaul dengan akrab;Bab35;N4;1
+必要な;ひつような;perlu;Bab35;N4;1
+住めば都;すめばみやこ;Alah bisa karena biasa (Biar tempat bagaimana pun, kalau didiami lama akhirnya terasa tempat yang paling baik.);Bab35;-;1
+三人寄れば文殊の知恵;さんにんよればもんじゅのちえ;Dua kepala lebih baik daripada satu (Walaupun bukan orang yang unggul, jika tiga orang berkumpul kemudian berunding mendapatkan ide yang bagus.);Bab35;-;1
+立てばしゃくやく、座ればぼたん、歩く姿はゆりの花;たてばしゃくやく、すわればぼたん、あるくすがたはゆりのはな;Cantiknya bagaikan bulan (Perumpamaan untuk orang cantik.);Bab35;-;1
+ちりも積もれば山となる;ちりもつもればやまとなる;Sedikit demi sedikit, lama-lama menjadi bukit (Barang sekecil apa pun, kalau berkumpul menjadi barang yang besar seperti gunung.);Bab35;-;1
+うわさをすれば影;うわさをすればかげ;Panjang umur (Kalau orang yang dibicarakan, yang dibicarakan suka muncul.);Bab35;-;1
+苦あれば楽あり、楽あれば苦あり;くあればらくあり、らくあればくあり;Berakit-rakit kita ke hulu, berenang kemudian (Kalau bersusah payah, dapat kesenangan di kemudian hari. Sebaliknya bersenang-senang dulu, akan mengalami kesengsaraan...);Bab35;-;1

@@ -1,0 +1,64 @@
+答えます［質問に～］;こたえます;menjawab [pada pertanyaan];Bab39;N4;1
+倒れます［ビルが～］;たおれます;[bangunan] roboh;Bab39;N3;1
+通ります［道を～］;とおります;lewat, melalui [jalan];Bab39;N4;1
+死にます;しにます;meninggal dunia;Bab39;N4;1
+びっくりします;びっくりします;kaget;Bab39;-;1
+がっかりします;がっかりします;putus asa;Bab39;-;1
+安心します;あんしんします;lega;Bab39;N4;1
+けんかします;けんかします;bertengkar;Bab39;-;1
+離婚します;りこんします;bercerai;Bab39;-;1
+太ります;ふとります;menjadi gemuk;Bab39;N4;1
+やせます;やせます;menjadi kurus;Bab39;N4;1
+複雑な;ふくざつな;rumit;Bab39;N3;1
+邪魔な;じゃまな;gangguan;Bab39;N3;1
+硬い;かたい;keras;Bab39;N3;1
+軟らかい;やわらかい;lembut;Bab39;N3;1
+汚い;きたない;kotor;Bab39;N4;1
+うれしい;うれしい;senang;Bab39;N4;1
+悲しい;かなしい;sedih;Bab39;N4;1
+恥ずかしい;はずかしい;malu;Bab39;N4;1
+首相;しゅしょう;perdana menteri;Bab39;N2;1
+地震;じしん;gempa bumi;Bab39;N3;1
+津波;つなみ;tsunami;Bab39;N2;1
+台風;たいふう;angin topan;Bab39;N4;1
+雷;かみなり;petir;Bab39;N3;1
+火事;かじ;kebakaran;Bab39;N4;1
+事故;じこ;kecelakaan;Bab39;N4;1
+ハイキング;ハイキング;hiking;Bab39;-;1
+［お］見合い;［お］みあい;perjodohan;Bab39;N3;1
+操作;そうさ;operasi (～します：mengoperasi);Bab39;-;1
+会場;かいじょう;tempat;Bab39;N4;1
+～代;～だい;biaya untuk ～;Bab39;N4;1
+～屋;～や;penjual ～;Bab39;-;1
+フロント;フロント;resepsionis;Bab39;-;1
+－号室;－ごうしつ;kamar nomor －;Bab39;N3;1
+タオル;タオル;handuk;Bab39;-;1
+せっけん;せっけん;sabun;Bab39;-;1
+大勢;おおぜい;banyak;Bab39;N4;1
+お疲れさまでした。;おつかれさまでした。;Terima kasih atas kerja samanya. (perkataan terhadap rekan atau bawahan untuk menghargai tenaga kerja mereka);Bab39;N4;1
+伺います。;うかがいます。;pergi (Kata Merendahkan Diri dari いきます);Bab39;N3;1
+途中で;とちゅうで;di tengah;Bab39;N3;1
+トラック;トラック;truk;Bab39;-;1
+ぶつかります;ぶつかります;menabrak;Bab39;-;1
+大人;おとな;orang dewasa;Bab39;N5;1
+しかし;しかし;tetapi;Bab39;-;1
+また;また;dan;Bab39;N5;1
+洋服;ようふく;baju;Bab39;N5;1
+西洋化します;せいようかします;kebarat-baratan;Bab39;N3;1
+合います;あいます;cocok;Bab39;N3;1
+今では;いまでは;sekarang;Bab39;N5;1
+成人式;せいじんしき;upacara pendewasaan;Bab39;N3;1
+伝統的な;でんとうてきな;secara tradisional;Bab39;-;1
+気持ち;きもち;Perasaan;Bab39;N4;1
+楽しい;たのしい;senang;Bab39;N4;1
+寂しい;さびしい;sepi;Bab39;-;1
+おもしろい;おもしろい;menarik;Bab39;-;1
+うらやましい;うらやましい;iri hati;Bab39;-;1
+懐かしい;なつかしい;terkenang;Bab39;-;1
+びっくりする;びっくりする;kaget;Bab39;-;1
+がっかりする;がっかりする;putus asa;Bab39;-;1
+うっとりする;うっとりする;terpesona;Bab39;-;1
+いらいらする;いらいらする;jengkel;Bab39;-;1
+どきどきする;どきどきする;takut;Bab39;-;1
+はらはらする;はらはらする;merasa tidak nyaman;Bab39;-;1
+わくわくする;わくわくする;sangat bersemangat, menggugah;Bab39;-;1

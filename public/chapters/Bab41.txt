@@ -1,0 +1,88 @@
+いただきます;いただきます;menerima (Kata Merendahkan Diri dari もらいます);Bab41;-;1
+くださいます;くださいます;memberikan (Kata Hormat dari くれます);Bab41;-;1
+やります;やります;memberi (terhadap orang yang lebih muda, bawahan, binatang dan tanaman);Bab41;N5;1
+上げます;あげます;menaikkan;Bab41;N4;1
+下げます;さげます;menurunkan;Bab41;N4;1
+親切にします;しんせつにします;berbaik hati;Bab41;N4;1
+かわいい;かわいい;manis;Bab41;N5;1
+珍しい;めずらしい;langka;Bab41;N4;1
+お祝い;おいわい;perayaan, hadiah (～を します : merayakan);Bab41;N4;1
+お年玉;おとしだま;otoshidama (angpao);Bab41;-;1
+［お］見舞い;［お］みまい;pembesukan, barang bantuan;Bab41;N3;1
+興味;きょうみ;minat (［コンピューターに］～が あります：berminat pada [komputer]);Bab41;N3;1
+情報;じょうほう;informasi;Bab41;N4;1
+文法;ぶんぽう;tata bahasa;Bab41;N4;1
+発音;はつおん;ungkapan;Bab41;N4;1
+猿;さる;monyet;Bab41;N4;1
+えさ;えさ;makanan;Bab41;N3;1
+おもちゃ;おもちゃ;mainan;Bab41;N4;1
+絵本;えほん;buku gambar;Bab41;N4;1
+絵はがき;えはがき;kartu pos bergambar;Bab41;N4;1
+ドライバー;ドライバー;obeng;Bab41;N4;1
+ハンカチ;ハンカチ;sapu tangan;Bab41;N5;1
+靴下;くつした;kaus kaki;Bab41;N5;1
+手袋;てぶくろ;sarung tangan;Bab41;N4;1
+幼稚園;ようちえん;TK;Bab41;N4;1
+暖房;だんぼう;alat pemanas;Bab41;N4;1
+冷房;れいぼう;AC;Bab41;N4;1
+温度;おんど;suhu;Bab41;N3;1
+祖父;そふ;kakek;Bab41;N4;1
+祖母;そぼ;nenek;Bab41;N4;1
+孫;まご;cucu;Bab41;N3;1
+お孫さん;おまごさん;cucu (untuk orang lain);Bab41;-;1
+おじ;おじ;om;Bab41;N4;1
+おじさん;おじさん;om (untuk orang lain);Bab41;N5;1
+おば;おば;tante;Bab41;N4;1
+おばさん;おばさん;tante (untuk orang lain);Bab41;N5;1
+管理人;かんりにん;penjaga (contoh: penjaga apartmen);Bab41;N4;1
+～さん;～さん;Bapak ~, Ibu ~, Sdr. ~ (akhiran yang dibubuhkan di belakang nama pekerjaan atau jawatan untuk menyatakan kehalusan);Bab41;N5;1
+この間;このあいだ;beberapa saat lalu;Bab41;N4;1
+ひとこと;ひとこと;sepatah kata;Bab41;N3;1
+～ずつ;～ずつ;setiap ~ (contoh: setiap sepatah kata, setiap dua orang, setiap tiga lembar);Bab41;N4;1
+二人;ふたり;pasangan;Bab41;N5;1
+お宅;おたく;rumah (Kata Hormat dari うち atau いえ);Bab41;N3;1
+どうぞお幸せに。;どうぞおしあわせに。;Selamat berbahagia!;Bab41;N4;1
+昔話;むかしばなし;cerita dongeng;Bab41;N3;1
+ある～;ある～;suatu ~;Bab41;N4;1
+男;おとこ;laki-laki;Bab41;N5;1
+子どもたち;こどもたち;anak-anak;Bab41;N4;1
+いじめます;いじめます;menyiksa, menganiayai;Bab41;N3;1
+かめ;かめ;kura-kura;Bab41;-;1
+助けます;たすけます;membantu, menolong;Bab41;N4;1
+優しい;やさしい;baik hati;Bab41;N4;1
+お姫様;おひめさま;putri;Bab41;N3;1
+暮らします;くらします;hidup;Bab41;N3;1
+陸;りく;daratan;Bab41;N3;1
+すると;すると;kemudian;Bab41;N4;1
+煙;けむり;asap;Bab41;N3;1
+真っ白［な］;まっしろ［な］;putih;Bab41;N3;1
+中身;なかみ;isi;Bab41;N3;1
+浦島太郎;うらしまたろう;nama peran utama cerita dongen;Bab41;-;1
+便利情報;べんりじょうほう;Informasi Berguna;Bab41;-;1
+貸衣装;かしいしょう;Penyewaan Pakaian;Bab41;-;1
+七五三;しちごさん;perayaan umur tujuh, lima, dan tiga tahun;Bab41;-;1
+卒業式;そつぎょうしき;wisuda;Bab41;N4;1
+成人式;せいじんしき;upacara pendewasaan;Bab41;-;1
+結婚式;けっこんしき;upacara pernikahan;Bab41;N4;1
+泊まりませんか;とまりませんか;Ayo menginap.;Bab41;N5;1
+民宿;みんしゅく;Penginapan;Bab41;N3;1
+公民館;こうみんかん;balai;Bab41;N3;1
+日本料理講習会;にほんりょうりこうしゅうかい;Les masakan Jepang;Bab41;-;1
+生け花スクール;いけばなスクール;Klub merangkai bunga;Bab41;-;1
+日本語教室;にほんごきょうしつ;Kursus Bahasa Jepang;Bab41;-;1
+バザー;バザー;Bazar;Bab41;-;1
+便利屋;べんりや;Tukang serba guna;Bab41;-;1
+レンタルサービス;レンタルサービス;Jasa penyewaan;Bab41;-;1
+カラオケ;カラオケ;karaoke;Bab41;-;1
+ビデオカメラ;ビデオカメラ;kamera video;Bab41;N4;1
+携帯電話;けいたいでんわ;HP, ponsel;Bab41;N4;1
+ベビー用品;ベビーようひん;peralatan untuk bayi;Bab41;-;1
+レジャー用品;レジャーようひん;peralatan rekreasi;Bab41;-;1
+旅行用品;りょこうようひん;peralatan perjalanan;Bab41;-;1
+家の修理、掃除;いえのしゅうり、そうじ;perbaikan dan pembersihan rumah;Bab41;-;1
+赤ちゃん、子どもの世話;あかちゃん、こどものせわ;menjaga bayi dan anak;Bab41;-;1
+犬の散歩;いぬのさんぽ;berjalan-jalan dengan anjing;Bab41;-;1
+話し相手;はなしあいて;lawan bicara;Bab41;-;1
+お寺で体験できます;おてらでたいけんできます;Dapat mencoba di wihara.;Bab41;-;1
+禅ができます;ぜんができます;Dapat bermeditasi Zen (ala Budha Jepang).;Bab41;-;1
+精進料理が食べられます;しょうじんりょうりがたべられます;Dapat sajian makanan Vegetarian.;Bab41;-;1

@@ -1,0 +1,92 @@
+運動します;うんどうします;Berolahraga;Bab32;n4;1
+成功します;せいこうします;Berhasil;Bab32;-;1
+失敗します;しっぱいします;Gagal [ujian];Bab32;n3;1
+合格します;ごうかくします;Lulus [ujian];Bab32;n3;1
+やみます;やみます;[Hujan] berhenti;Bab32;-;1
+晴れます;はれます;Cerah;Bab32;n3;1
+曇ります;くもります;Mendung;Bab32;n2;1
+続きます;つづきます;[Demam] berlangsung;Bab32;n3;1
+ひきます;ひきます;Masuk [angin];Bab32;-;1
+冷やします;ひやします;Mendinginkan;Bab32;n3;1
+込みます;こみます;[Jalan] macet;Bab32;-;1
+すきます;すきます;[Jalan] sepi;Bab32;-;1
+出ます;でます;Mengikutsertakan [pertandingan], menghadiri [pesta];Bab32;-;1
+無理をします;むりをします;Memaksakan diri;Bab32;-;1
+十分な;じゅうぶんな;Dengan cukup;Bab32;-;1
+おかしい;おかしい;Aneh, menarik;Bab32;-;1
+うるさい;うるさい;Bising;Bab32;-;1
+先生;せんせい;Dokter;Bab32;-;1
+やけど;やけど;Luka bakar;Bab32;-;1
+けが;けが;Luka;Bab32;-;1
+せき;せき;Batuk;Bab32;-;1
+インフルエンザ;インフルエンザ;Influenza;Bab32;-;1
+空;そら;Langit;Bab32;n4;1
+太陽;たいよう;Matahari;Bab32;n3;1
+星;ほし;Bintang;Bab32;n2;1
+風;かぜ;Angin;Bab32;n4;1
+東;ひがし;Timur;Bab32;n5;1
+西;にし;Barat;Bab32;n5;1
+南;みなみ;Selatan;Bab32;n5;1
+北;きた;Utara;Bab32;n5;1
+国際～;こくさい～;Internasional ~;Bab32;-;1
+水道;すいどう;Air PAM;Bab32;n4;1
+エンジン;エンジン;Mesin;Bab32;-;1
+チーム;チーム;Regu;Bab32;-;1
+今夜;こんや;Nanti malam, malam ini;Bab32;n4;1
+夕方;ゆうがた;Sore;Bab32;n4;1
+まえ;まえ;Sebelum;Bab32;-;1
+遅く;おそく;Kemalaman;Bab32;n3;1
+こんなに;こんなに;Begini;Bab32;-;1
+そんなに;そんなに;Begitu;Bab32;-;1
+あんなに;あんなに;Begitu;Bab32;-;1
+ヨーロッパ;ヨーロッパ;Eropa;Bab32;-;1
+元気;げんき;Sehat;Bab32;n4;1
+胃;い;Lambung;Bab32;n2;1
+ストレス;ストレス;Stres;Bab32;-;1
+それはいけませんね;それはいけませんね;Kurang bagus;Bab32;-;1
+星占い;ほしうらない;Horoskop;Bab32;n2;1
+牡牛座;おうしざ;Taurus;Bab32;-;1
+働きすぎ;はたらきすぎ;Terlalu banyak pekerjaan;Bab32;n3;1
+困ります;こまります;Bingung;Bab32;n3;1
+宝くじ;たからくじ;Lotre;Bab32;n2;1
+当たります;あたります;Memenangi [lotre];Bab32;n3;1
+健康;けんこう;Kesehatan;Bab32;-;1
+恋愛;れんあい;Asmara;Bab32;n2;1
+恋人;こいびと;Pacar;Bab32;-;1
+ラッキーアイテム;ラッキーアイテム;Benda yang mujur;Bab32;-;1
+石;いし;Batu;Bab32;-;1
+天気予報;てんきよほう;Prakiraan cuaca;Bab32;n3;1
+晴れ;はれ;Cerah;Bab32;-;1
+曇り;くもり;Mendung, berawan;Bab32;-;1
+雨;あめ;Hujan;Bab32;-;1
+雪;ゆき;Salju;Bab32;-;1
+晴れのち曇り;はれのちくもり;Cerah kemudian berawan;Bab32;n2;1
+曇り時々雨;くもりときどきあめ;Berawan kadang-kadang hujan;Bab32;-;1
+曇り所によって雨;くもりところによってあめ;Berawan dan hujan di beberapa daerah;Bab32;n2;1
+降水確率;こうすいかくりつ;Kemungkinan turun hujan;Bab32;-;1
+最高気温;さいこうきおん;Suhu udara tertinggi;Bab32;n2;1
+最低気温;さいていきおん;Suhu udara terendah;Bab32;n2;1
+北海道地方;ほっかいどうちほう;Daerah Hokkaido;Bab32;-;1
+東北地方;とうほくちほう;Daerah Tohoku;Bab32;-;1
+関東地方;かんとうちほう;Daerah Kanto;Bab32;-;1
+中部地方;ちゅうぶちほう;Daerah Chubu;Bab32;-;1
+近畿地方;きんきちほう;Daerah Kinki;Bab32;-;1
+中国地方;ちゅうごくちほう;Daerah Chugoku;Bab32;-;1
+四国地方;しこくちほう;Daerah Shikoku;Bab32;-;1
+九州地方;きゅうしゅうちほう;Daerah Kyushu;Bab32;-;1
+地方;ちほう;Daerah;Bab32;n4;1
+にわか雨／夕立;にわかあめ／ゆうだち;Hujan sebentar;Bab32;n4;1
+雷;かみなり;Guntur;Bab32;-;1
+台風;たいふう;Angin topan;Bab32;n4;1
+虹;にじ;Pelangi;Bab32;-;1
+雲;くも;Awan;Bab32;-;1
+湿度;しつど;Kelembaban;Bab32;n2;1
+蒸し暑い;むしあつい;Panas lembab;Bab32;-;1
+さわやかな;さわやかな;Segar;Bab32;-;1
+戻ります;もどります;Kembali;Bab32;n3;1
+吹きます;ふきます;Bertiup(angin);Bab32;n3;1
+治ります;なおります;Sembuh (dari penyakit);Bab32;n3;1
+直ります;なおります;Diperbaiki (mesin);Bab32;n3;1
+もしかしたら;もしかしたら;Kemungkinannya;Bab32;-;1
+ゆっくりします;ゆっくりします;Beristirahat;Bab32;-;1
+お金持ち;おかねもち;Orang kaya;Bab32;n4;1

@@ -2303,3 +2303,43 @@ body {
     flex: 1; /* Expand on mobile */
   }
 }
+
+/* ── MULTI-SELECT & DRAG STYLES ── */
+.kotoba-table td {
+  padding: 8px 12px;
+  font-size: 0.85rem;
+}
+
+.row-selected {
+  background: rgba(168, 85, 247, 0.18) !important;
+  border-left: 3px solid var(--accent-violet);
+}
+
+.selection-bar {
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%) translateY(120px);
+  background: #12121c;
+  border: 1px solid var(--accent-violet);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.8), 0 0 20px rgba(168, 85, 247, 0.3);
+  border-radius: 16px;
+  padding: 12px 24px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  z-index: 999;
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.selection-bar.active {
+  transform: translateX(-50%) translateY(0);
+}
+
+.selection-bar .count-tag {
+  font-weight: 700;
+  color: #c084fc;
+  font-size: 0.9rem;
+  padding-right: 12px;
+  border-right: 1px solid var(--border-glass);
+}

@@ -1,0 +1,73 @@
+はります;はります;menempelkan;Bab30;-;1
+掛けます;かけます;menggantungkan;Bab30;N4;1
+飾ります;かざります;menghiasi;Bab30;N4;1
+並べます;ならべます;menata;Bab30;N4;1
+植えます;うえます;menanam;Bab30;N4;1
+戻します;もどします;mengembalikan;Bab30;N4;1
+まとめます;まとめます;merangkumkan;Bab30;N4;1
+しまいます;しまいます;menyimpan;Bab30;N4;1
+決めます;きめます;menentukan;Bab30;N4;1
+予習します;よしゅうします;belajar persiapan;Bab30;N4;1
+復習します;ふくしゅうします;belajar pengulangan;Bab30;N4;1
+そのままにします;そのままにします;membiarkan begitu;Bab30;N4;1
+授業;じゅぎょう;kelas, pelajaran;Bab30;N4;1
+講義;こうぎ;kuliah;Bab30;N4;1
+ミーティング;ミーティング;rapat;Bab30;-;1
+予定;よてい;acara;Bab30;N4;1
+お知らせ;おしらせ;pengumuman;Bab30;N4;1
+ガイドブック;ガイドブック;buku petunjuk;Bab30;-;1
+カレンダー;カレンダー;kalender;Bab30;-;1
+ポスター;ポスター;plakat, poster;Bab30;-;1
+予定表;よていひょう;jadwal acara;Bab30;N4;1
+ごみ箱;ごみばこ;tempat sampah, tong sampah;Bab30;N4;1
+人形;にんぎょう;boneka, orang-orangan;Bab30;N4;1
+花瓶;かびん;vas;Bab30;N4;1
+鏡;かがみ;cermin;Bab30;N4;1
+引き出し;ひきだし;laci;Bab30;N4;1
+玄関;げんかん;ruang depan;Bab30;N4;1
+廊下;ろうか;koridor, gang;Bab30;N4;1
+壁;かべ;dinding;Bab30;N4;1
+池;いけ;kolam;Bab30;N4;1
+元の所;もとのところ;tempat semula;Bab30;N4;1
+周り;まわり;sekitar;Bab30;N4;1
+真ん中;まんなか;tengah;Bab30;N4;1
+隅;すみ;pojok, sudut;Bab30;N4;1
+まだ;まだ;masih;Bab30;N5;1
+リュック;リュック;ransel;Bab30;-;1
+非常袋;ひじょうぶくろ;kantong darurat;Bab30;-;1
+非常時;ひじょうじ;saat darurat;Bab30;-;1
+生活します;せいかつします;hidup;Bab30;N4;1
+懐中電灯;かいちゅうでんとう;senter;Bab30;-;1
+～とか、～とか;～とか、～とか;~ atau ~;Bab30;-;1
+丸い;まるい;bundar, bulat;Bab30;N4;1
+ある～;ある～;suatu ~;Bab30;N4;1
+夢を見ます;ゆめをみます;bermimpi;Bab30;N4;1
+うれしい;うれしい;senang;Bab30;N4;1
+嫌な;いやな;tidak senang, tidak suka;Bab30;N4;1
+すると;すると;kemudian;Bab30;N4;1
+目が覚めます;めがさめます;bangun, sadar;Bab30;N4;1
+非常の場合;ひじょうのばあい;Apabila Saat Darurat;Bab30;-;1
+地震の場合;じしんのばあい;Apabila saat gempa bumi;Bab30;-;1
+備えが大切;そなえがたいせつ;Yang penting adalah persiapan;Bab30;-;1
+家具が倒れないようにしておく;かぐがたおれないようにしておく;Mencegah kerobohan perabotan rumah;Bab30;-;1
+消火器を備える・水を貯えておく;しょうかきをそなえる・みずをたくわえておく;Menyiapkan alat pemadam kebakaran・menyiapkan air;Bab30;-;1
+非常袋を用意しておく;ひじょうぶくろをよういしておく;Menyiapkan kantong darurat;Bab30;-;1
+地域の避難場所を確認しておく;ちいきのひなんばしょをかくにんしておく;Mengecek tempat pengungsian di daerah masing-masing;Bab30;-;1
+家族、知人、友人と、もしもの場合の連絡先を決めておく;かぞく、ちじん、ゆうじんと、もしものばあいのれんらくさきをきめておく;Memastikan dahulu alamat kontak saat darurat di antara keluarga, kenalan dan teman;Bab30;-;1
+万一地震が起きた場合;まんいちじしんがおきたばあい;Apabila terjadi gempa bumi;Bab30;-;1
+丈夫なテーブルの下にもぐる;じょうぶなテーブルのしたにもぐる;Melindungi diri di bawah meja yang kuat;Bab30;-;1
+落ち着いて火の始末;おちついてひのしまつ;Mematikan api dengan tenang;Bab30;-;1
+戸を開けて出口の確保;とをあけてでぐちのかくほ;Membuka pintu demi memastikan keselamatan;Bab30;-;1
+慌てて外に飛び出さない;あわててそとにとびださない;Tidak keluar dengan tergesa-gesa;Bab30;-;1
+地震が収まったら;じしんがおさまったら;Apabila gempa bumi berhenti;Bab30;-;1
+正しい情報を聞く;ただしいじょうほうをきく;Mendengarkan informasi yang tepat;Bab30;-;1
+山崩れ、崖崩れ、津波に注意;やまくずれ、がけくずれ、つなみにちゅうい;memperhatikan himbauan gunung longsor, tebing longsor, dan tsunami;Bab30;-;1
+避難する場合は;ひなんするばあいは;Apabila mengungsi;Bab30;-;1
+車を使わず、必ず歩いて;くるまをつかわず、かならずあるいて;Tidak memakai mobil, tetapi berjalan kaki;Bab30;-;1
+台風の場合;たいふうのばあい;Apabila angin topan;Bab30;-;1
+気象情報を聞く;きしょうじょうほうをきく;Mendengarkan informasi cuaca;Bab30;-;1
+家の周りの点検;いえのまわりのてんけん;Pengecekan sekitar rumah;Bab30;-;1
+ラジオの電池の備えを;ラジオのでんちのそなえを;Mempersiapkan baterai radio;Bab30;-;1
+水、緊急食品の準備;みず、きんきゅうしょくひんのじゅんび;Persiapan air dan makanan untuk saat darurat;Bab30;-;1
+貴重品;きちょうひん;valuables;Bab30;-;1
+救急薬品;きゅうきゅうやくひん;medicine;Bab30;-;1

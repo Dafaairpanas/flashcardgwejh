@@ -1,0 +1,60 @@
+吹きます;ふきます;[Angin] bertiup;Bab47;-;1
+燃えます;もえます;[Sampah] terbakar;Bab47;-;1
+亡くなります;なくなります;Meninggal dunia;Bab47;-;1
+集まります;あつまります;[Orang] berkumpul;Bab47;n4;1
+別れます;わかれます;[Orang] berpisah;Bab47;n4;1
+します;します;Dalam keadaan berbunyi/bersuara, terasa, berbau;Bab47;-;1
+厳しい;きびしい;Keras, berat;Bab47;-;1
+ひどい;ひどい;Kejam;Bab47;-;1
+怖い;こわい;Takut;Bab47;n3;1
+実験;じっけん;Percobaan, eksperimen;Bab47;n3;1
+データ;データ;Data;Bab47;-;1
+人口;じんこう;Penduduk;Bab47;n4;1
+におい;におい;Bau;Bab47;-;1
+科学;かがく;Ilmu pengetahuan;Bab47;n3;1
+医学;いがく;Ilmu kedokteran;Bab47;n4;1
+文学;ぶんがく;Sastra;Bab47;n4;1
+パトカー;パトカー;Mobil patroli;Bab47;-;1
+救急車;きゅうきゅうしゃ;Mobil ambulan;Bab47;-;1
+賛成;さんせい;Persetujuan;Bab47;n3;1
+反対;はんたい;Menentang;Bab47;n3;1
+大統領;だいとうりょう;Presiden;Bab47;-;1
+～によると;～によると;Menurut ~ (menyatakan sumber informasi);Bab47;-;1
+婚約します;こんやくします;Bertunangan;Bab47;n3;1
+どうも;どうも;Rupanya, sepertinya (dipakai ketika menyatakan dugaan);Bab47;-;1
+恋人;こいびと;Pacar;Bab47;-;1
+相手;あいて;Pasangan;Bab47;n3;1
+知り合います;しりあいます;Berkenalan;Bab47;n3;1
+化粧;けしょう;Dandan;Bab47;-;1
+世話をします;せわをします;Menjaga, membantu;Bab47;-;1
+女性;じょせい;Wanita;Bab47;n3;1
+男性;だんせい;Pria;Bab47;n3;1
+長生き;ながいき;Panjang umur;Bab47;n5;1
+理由;りゆう;Alasan;Bab47;-;1
+関係;かんけい;Hubungan;Bab47;-;1
+擬音語・擬態語;ぎおんご・ぎたいご;Onomatope;Bab47;-;1
+ザーザー;ザーザー;Lebat (hujan);Bab47;n3;1
+ビュービュー;ビュービュー;Hyu hyu (angin);Bab47;n3;1
+ゴロゴロ;ゴロゴロ;Grudug (petir);Bab47;n3;1
+ワンワン;ワンワン;Guk (menggonggong);Bab47;-;1
+ニャーニャー;ニャーニャー;Meong (mengeong);Bab47;n3;1
+カーカー;カーカー;Gak;Bab47;n3;1
+げらげら;げらげら;(Tertawa) terbahak-bahak;Bab47;n3;1
+しくしく;しくしく;(Menangis) tersedu-sedu, terisak-isak;Bab47;-;1
+きょろきょろ;きょろきょろ;Gelisah (melihat);Bab47;n5;1
+ぱくぱく;ぱくぱく;(Makan) lahap;Bab47;n5;1
+ぐうぐう;ぐうぐう;(Tidur) pulas;Bab47;n3;1
+すらすら;すらすら;(Membaca) dengan lancar;Bab47;n5;1
+ざらざら;ざらざら;(Terasa) kasar;Bab47;-;1
+べたべた;べたべた;(Terasa) lengket;Bab47;-;1
+つるつる;つるつる;(Terasa) licin;Bab47;-;1
+天気予報;てんきよほう;Prakiraan cuaca;Bab47;n3;1
+発表;はっぴょう;Pengumuman, presentasi;Bab47;n3;1
+バリ島;バリとう;Pulau Bali;Bab47;n2;1
+平均寿命;へいきんじゅみょう;Rata-rata usia lanjut;Bab47;-;1
+比べます;くらべます;Dibandingkan dengan;Bab47;n2;1
+博士;はかせ;Doktor;Bab47;-;1
+脳;のう;Otak;Bab47;n2;1
+ホルモン;ホルモン;Hormon;Bab47;-;1
+化粧品;けしょうひん;Kosmetik;Bab47;-;1
+調べ;しらべ;Penelitian, pemeriksaan;Bab47;n3;1

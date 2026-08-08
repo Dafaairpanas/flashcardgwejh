@@ -7,6 +7,7 @@
   <meta name="theme-color" content="#07070b" />
   <link rel="apple-touch-icon" href="/favicon.svg" />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <title>FlashcardGW</title>
 </head>
 <body>
@@ -262,14 +263,20 @@
           <h3 style="margin-bottom: 16px; font-size:1.1rem; color:var(--text-primary); display:flex; align-items:center; gap:8px;">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width:20px;height:20px;color:var(--color-again);"><path d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
             Perlu Dipelajari Lagi
+            <span id="weak-cards-count" style="margin-left:auto; font-size:0.85rem; background:rgba(255,255,255,0.1); padding:2px 8px; border-radius:12px; color:var(--text-secondary);">0 kartu</span>
           </h3>
           <div class="weak-cards-list" id="weak-cards-list" style="display: flex; flex-direction: column; gap: 12px; max-height: 350px; overflow-y: auto; padding-right:8px;">
           </div>
         </div>
 
-        <button class="btn btn-primary btn-lg" id="complete-home-btn" style="margin-top: 32px;">
-          Return to Dashboard
-        </button>
+        <div style="display: flex; gap: 16px; margin-top: 32px; flex-wrap: wrap; justify-content: center; width: 100%; max-width: 500px;">
+          <button class="btn btn-dark btn-lg" id="complete-review-again-btn" style="flex: 1; display: none;">
+            Review Lagi
+          </button>
+          <button class="btn btn-primary btn-lg" id="complete-home-btn" style="flex: 1;">
+            Return to Dashboard
+          </button>
+        </div>
       </div>
 
       <!-- ═══ DICTIONARY VIEW ═══ -->
@@ -555,46 +562,95 @@
               <button class="btn btn-ghost btn-sm" id="admin-logout-btn">Logout</button>
             </div>
 
-            <div class="admin-controls-wrapper" style="display: flex; gap: 12px; margin-bottom: 24px; flex-wrap: wrap;">
-              <div class="dict-search-wrap" style="flex: 1; min-width: 200px; margin-bottom: 0;">
-                <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-                <input type="text" class="dict-search" id="admin-search" placeholder="Cari kartu..." autocomplete="off" style="width: 100%;" />
-              </div>
-              <select id="admin-filter-chapter" style="padding: 12px 16px; border-radius: 12px; background: var(--bg-card); border: 1px solid var(--border-glass); color: white; outline: none; min-width: 120px; cursor: pointer; font-family: inherit;">
-                <option value="all">Semua Bab</option>
-              </select>
-              <select id="admin-filter-tipe" style="padding: 12px 16px; border-radius: 12px; background: var(--bg-card); border: 1px solid var(--border-glass); color: white; outline: none; min-width: 120px; cursor: pointer; font-family: inherit;">
-                <option value="all">Semua Tipe</option>
-              </select>
-              <button class="btn btn-primary" id="admin-add-btn" style="white-space: nowrap; flex-shrink: 0; padding: 0 20px;">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width:18px;height:18px;margin-right:8px;"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
-                <span class="btn-text">Tambah Baru</span>
-              </button>
+            <!-- Tabs -->
+            <div class="kanji-tabs" style="margin-bottom: 24px; display: flex; gap: 8px;">
+              <button class="kanji-tab active" id="tab-data-table">Data Table</button>
+              <button class="kanji-tab" id="tab-statistics">Statistics</button>
             </div>
 
-            <div class="kotoba-table-wrapper" style="max-height: 60vh; overflow-x: auto; overflow-y: auto; border-radius: 12px; border: 1px solid var(--border-glass);">
-              <table class="kotoba-table" id="admin-table" style="width: 100%; min-width: 600px; border-collapse: collapse;">
-                <thead style="position: sticky; top: 0; background: var(--bg-card); z-index: 10;">
-                  <tr>
-                    <th style="padding: 16px; text-align: left; border-bottom: 1px solid var(--border-glass);">Kanji</th>
-                    <th style="padding: 16px; text-align: left; border-bottom: 1px solid var(--border-glass);">Hiragana</th>
-                    <th style="padding: 16px; text-align: left; border-bottom: 1px solid var(--border-glass);">Arti</th>
-                    <th style="padding: 16px; text-align: left; border-bottom: 1px solid var(--border-glass);">Bab</th>
-                    <th style="padding: 16px; text-align: left; border-bottom: 1px solid var(--border-glass);">Tipe</th>
-                    <th style="padding: 16px; text-align: center; border-bottom: 1px solid var(--border-glass); width: 100px;">Aksi</th>
-                  </tr>
-                </thead>
-                <tbody id="admin-tbody">
-                  <!-- Rendered via JS -->
-                </tbody>
-              </table>
+            <!-- Table View -->
+            <div id="admin-table-view">
+              <div class="admin-controls-wrapper" style="display: flex; gap: 12px; margin-bottom: 24px; flex-wrap: wrap;">
+                <div class="dict-search-wrap" style="flex: 1; min-width: 200px; margin-bottom: 0;">
+                  <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                  <input type="text" class="dict-search" id="admin-search" placeholder="Cari kartu..." autocomplete="off" style="width: 100%;" />
+                </div>
+                <select id="admin-filter-chapter" style="padding: 12px 16px; border-radius: 12px; background: var(--bg-card); border: 1px solid var(--border-glass); color: white; outline: none; min-width: 120px; cursor: pointer; font-family: inherit;">
+                  <option value="all">Semua Bab</option>
+                </select>
+                <select id="admin-filter-tipe" style="padding: 12px 16px; border-radius: 12px; background: var(--bg-card); border: 1px solid var(--border-glass); color: white; outline: none; min-width: 120px; cursor: pointer; font-family: inherit;">
+                  <option value="all">Semua Tipe</option>
+                </select>
+                <button class="btn btn-primary" id="admin-add-btn" style="white-space: nowrap; flex-shrink: 0; padding: 0 20px;">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width:18px;height:18px;margin-right:8px;"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+                  <span class="btn-text">Tambah Baru</span>
+                </button>
+              </div>
+
+              <div class="kotoba-table-wrapper" style="max-height: 60vh; overflow-x: auto; overflow-y: auto; border-radius: 12px; border: 1px solid var(--border-glass);">
+                <table class="kotoba-table" id="admin-table" style="width: 100%; min-width: 600px; border-collapse: collapse;">
+                  <thead style="position: sticky; top: 0; background: var(--bg-card); z-index: 10;">
+                    <tr>
+                      <th style="padding: 10px 12px; text-align: center; border-bottom: 1px solid var(--border-glass); width: 40px;">
+                        <input type="checkbox" id="admin-check-all-page" title="Select/Deselect All">
+                      </th>
+                      <th style="padding: 10px 12px; text-align: left; border-bottom: 1px solid var(--border-glass);">Kanji</th>
+                      <th style="padding: 10px 12px; text-align: left; border-bottom: 1px solid var(--border-glass);">Hiragana</th>
+                      <th style="padding: 10px 12px; text-align: left; border-bottom: 1px solid var(--border-glass);">Arti</th>
+                      <th style="padding: 10px 12px; text-align: left; border-bottom: 1px solid var(--border-glass);">Bab</th>
+                      <th style="padding: 10px 12px; text-align: left; border-bottom: 1px solid var(--border-glass);">Tipe</th>
+                      <th style="padding: 10px 12px; text-align: center; border-bottom: 1px solid var(--border-glass); width: 100px;">Aksi</th>
+                    </tr>
+                  </thead>
+                  <tbody id="admin-tbody">
+                    <!-- Rendered via JS -->
+                  </tbody>
+                </table>
+              </div>
+              
+              <div style="display:flex; justify-content:space-between; align-items:center; margin-top:16px;">
+                <button class="btn btn-ghost btn-sm" id="admin-prev-page">← Prev</button>
+                <span id="admin-page-info" style="font-size:0.9rem; color:var(--text-secondary);">Page 1</span>
+                <button class="btn btn-ghost btn-sm" id="admin-next-page">Next →</button>
+              </div>
             </div>
-            
-            <div style="display:flex; justify-content:space-between; align-items:center; margin-top:16px;">
-              <button class="btn btn-ghost btn-sm" id="admin-prev-page">← Prev</button>
-              <span id="admin-page-info" style="font-size:0.9rem; color:var(--text-secondary);">Page 1</span>
-              <button class="btn btn-ghost btn-sm" id="admin-next-page">Next →</button>
+
+            <!-- Statistics View -->
+            <div id="admin-stats-view" style="display: none; padding-top: 4px;">
+              <div class="bento-card" style="margin-bottom: 16px; padding: 16px;">
+                <h3 style="margin-bottom: 12px; font-size: 1.1rem;">Kotoba per Chapter</h3>
+                <div style="width: 100%; height: 250px; position: relative;">
+                  <canvas id="chart-chapters"></canvas>
+                </div>
+              </div>
+              
+              <div style="display: flex; gap: 16px; flex-wrap: wrap;">
+                <div class="bento-card" style="flex: 1; min-width: 200px; padding: 16px;">
+                  <h3 style="margin-bottom: 12px; font-size: 1.1rem;">Distribusi JLPT</h3>
+                  <div style="width: 100%; height: 200px; position: relative; display: flex; justify-content: center;">
+                    <canvas id="chart-jlpt"></canvas>
+                  </div>
+                </div>
+                <div class="bento-card" style="flex: 1; min-width: 200px; padding: 16px;">
+                  <h3 style="margin-bottom: 12px; font-size: 1.1rem;">Distribusi Tipe</h3>
+                  <div style="width: 100%; height: 200px; position: relative; display: flex; justify-content: center;">
+                    <canvas id="chart-types"></canvas>
+                  </div>
+                </div>
+              </div>
             </div>
+          </div>
+
+          <!-- Floating Selection Action Bar -->
+          <div class="selection-bar" id="admin-selection-bar" style="display: none;">
+            <div class="count-tag" id="admin-selected-count">0 Kartu Dipilih</div>
+            <div style="display: flex; gap: 6px;">
+              <button class="btn btn-success" style="padding: 6px 12px; font-size: 0.8rem;" id="admin-multi-imp-1">Set 1 (Wajib)</button>
+              <button class="btn" style="padding: 6px 12px; font-size: 0.8rem; background: rgba(245, 158, 11, 0.2); color: #fbbf24; border-color: rgba(245, 158, 11, 0.4);" id="admin-multi-imp-2">Set 2 (Extra)</button>
+              <button class="btn btn-danger" style="padding: 6px 12px; font-size: 0.8rem;" id="admin-multi-imp-3">Set 3 (Trash)</button>
+            </div>
+            <button class="btn btn-danger" style="padding: 6px 12px; font-size: 0.8rem;" id="admin-multi-delete">Hapus</button>
+            <button class="btn" style="padding: 6px 10px; font-size: 0.8rem;" id="admin-deselect-all">✕ Batal</button>
           </div>
 
         </div>

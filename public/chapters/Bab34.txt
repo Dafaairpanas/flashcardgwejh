@@ -1,0 +1,99 @@
+磨きます;みがきます;Menggosok [gigi];Bab34;n2;1
+組み立てます;くみたてます;Memasang, merakit;Bab34;n3;1
+折ります;おります;Melipat;Bab34;n3;1
+気がつきます;きがつきます;Teringat [barang ketinggalan];Bab34;n5;1
+つけます;つけます;Membubuhkan [kecap asin];Bab34;-;1
+見つかります;みつかります;[Kunci] ditemukan;Bab34;n5;1
+質問します;しつもんします;Bertanya;Bab34;n4;1
+さします;さします;Memakai [payung], berpayung;Bab34;-;1
+スポーツクラブ;スポーツクラブ;Sports club;Bab34;-;1
+お城;おしろ;Istana;Bab34;-;1
+説明書;せつめいしょ;Petunjuk;Bab34;n3;1
+図;ず;Gambar;Bab34;n4;1
+線;せん;Garis;Bab34;n2;1
+矢印;やじるし;Tanda panah (aksara);Bab34;-;1
+黒;くろ;Hitam (kata benda);Bab34;n4;1
+白;しろ;Putih (kata benda);Bab34;n5;1
+赤;あか;Merah (kata benda);Bab34;n4;1
+青;あお;Biru (kata benda);Bab34;n4;1
+紺;こん;Biru tua (kata benda);Bab34;-;1
+黄色;きいろ;Kuning (kata benda);Bab34;n2;1
+茶色;ちゃいろ;Cokelat (kata benda);Bab34;n4;1
+しょうゆ;しょうゆ;Kecap asin;Bab34;-;1
+ソース;ソース;Kecap Inggris, saus;Bab34;-;1
+お客さん;おきゃくさん;Tamu;Bab34;n3;1
+～か～;～か～;~ atau ~;Bab34;-;1
+昨夜;ゆうべ;Tadi malam;Bab34;n3;1
+さっき;さっき;Tadi;Bab34;-;1
+茶道;さどう;Upacara teh;Bab34;n4;1
+お茶をたてます;おちゃをたてます;Membuat teh pada upacara minum teh;Bab34;n4;1
+先に;さきに;Duluan;Bab34;n5;1
+載せます;のせます;Memuatkan, menaruh;Bab34;-;1
+これでいいですか;これでいいですか;Boleh begini?;Bab34;-;1
+いかがですか;いかがですか;Bagaimana?;Bab34;-;1
+苦い;にがい;Pahit;Bab34;n3;1
+親子どんぶり;おやこどんぶり;Oyakodonburi (daging ayam & telur di atas nasi);Bab34;n4;1
+材料;ざいりょう;Bahan;Bab34;n2;1
+ー分;ーぶん;Untuk ~ (menyatakan jumlah porsi);Bab34;-;1
+ーグラム;ーグラム;~ gram;Bab34;-;1
+ー個;ーこ;~ buah;Bab34;n2;1
+たまねぎ;たまねぎ;Bawang bombai;Bab34;-;1
+４分の１;よんぶんのいち;Seperempat (1/4);Bab34;-;1
+調味料;ちょうみりょう;Bumbu;Bab34;n3;1
+適当な大きさに;てきとうなおおきさに;Ukuran sedang;Bab34;-;1
+なべ;なべ;Panci;Bab34;-;1
+火;ひ;Api;Bab34;n5;1
+火にかけます;ひにかけます;Memasak, memanaskan, menaruh di atas api;Bab34;-;1
+煮ます;にます;Merebus;Bab34;-;1
+煮えます;にえます;Telah matang;Bab34;-;1
+どんぶり;どんぶり;Mangkuk;Bab34;-;1
+たちます;たちます;Lewat, berlalu;Bab34;n4;1
+料理;りょうり;Masakan;Bab34;n5;1
+煮る;にる;Merebus;Bab34;n2;1
+焼く;やく;Membakar, memanggang;Bab34;n2;1
+揚げる;あげる;Menggoreng;Bab34;n2;1
+いためる;いためる;Menumis;Bab34;-;1
+ゆでる;ゆでる;Memasak, merebus;Bab34;n2;1
+蒸す;むす;Mengukus;Bab34;n2;1
+炊く;たく;Memasak nasi, menanak nasi;Bab34;-;1
+むく;むく;Mengupas;Bab34;-;1
+刻む;きざむ;Mencincang;Bab34;n3;1
+かき混ぜる;かきまぜる;Mengaduk, mencampur;Bab34;n2;1
+砂糖;さとう;Gula;Bab34;n3;1
+塩;しお;Garam;Bab34;n4;1
+酢;す;Cuka;Bab34;-;1
+みそ;みそ;Miso, tauco;Bab34;-;1
+油;あぶら;Minyak, lemak;Bab34;n2;1
+マヨネーズ;マヨネーズ;Mayones;Bab34;-;1
+ケチャップ;ケチャップ;Saus tomat;Bab34;-;1
+からし;からし;Mustard;Bab34;-;1
+こしょう;こしょう;Merica;Bab34;-;1
+とうがらし;とうがらし;Cabai;Bab34;-;1
+しょうが;しょうが;Jahe;Bab34;-;1
+わさび;わさび;Wasabi (lobak hijau Jepang);Bab34;-;1
+カレー粉;カレーこ;Tepung kare;Bab34;n2;1
+台所用品;だいどころようひん;Peralatan dapur;Bab34;n3;1
+やかん;やかん;Ceret, ketel;Bab34;-;1
+ふた;ふた;Tutup;Bab34;-;1
+おたま;おたま;Sendok sayur;Bab34;-;1
+まな板;まないた;Talenan;Bab34;n2;1
+包丁;ほうちょう;Pisau;Bab34;-;1
+ふきん;ふきん;Kain lap;Bab34;-;1
+フライパン;フライパン;Penggorengan;Bab34;-;1
+電子オーブンレンジ;でんしオーブンレンジ;Microwave oven;Bab34;-;1
+炊飯器;すいはんき;Rice cooker;Bab34;-;1
+しゃもじ;しゃもじ;Sendok nasi;Bab34;-;1
+缶切り;かんきり;Pembuka kaleng;Bab34;n2;1
+栓抜き;せんぬき;Pembuka botol;Bab34;-;1
+ざる;ざる;Saringan;Bab34;-;1
+ポット;ポット;Termos;Bab34;-;1
+ガス台;ガスだい;Kompor gas;Bab34;n4;1
+流し台;ながしだい;Bak cuci piring;Bab34;n3;1
+換気扇;かんきせん;Kipas ventilasi;Bab34;-;1
+鶏肉;とりにく;Daging ayam;Bab34;-;1
+細い;ほそい;Tipis, kecil;Bab34;n2;1
+太い;ふとい;Tebal, besar;Bab34;n3;1
+盆踊り;ぼんおどり;Tarian pada festival bon;Bab34;-;1
+家具;かぐ;Perabot rumah tangga;Bab34;n3;1
+キー;キー;Kunci, tombol;Bab34;-;1
+シートベルト;シートベルト;Sabuk pengaman;Bab34;-;1

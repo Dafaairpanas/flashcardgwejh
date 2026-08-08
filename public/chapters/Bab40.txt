@@ -1,0 +1,102 @@
+数えます;かぞえます;menghitung;Bab40;N4;1
+測ります、量ります;はかります;mengukur, menimbang;Bab40;N4;1
+確かめます;たしかめます;mengecek;Bab40;N4;1
+合います;あいます;cocok [ukurannya];Bab40;N4;1
+出発します;しゅっぱつします;berangkat;Bab40;N4;1
+到着します;とうちゃくします;tiba;Bab40;N4;1
+酔います;よいます;mabuk;Bab40;N4;1
+うまくいきます;うまくいきます;berhasil dengan baik;Bab40;N4;1
+出ます;でます;diberikan [soal di ujian];Bab40;N4;1
+相談します;そうだんします;berkonsultasi;Bab40;N4;1
+必要な;ひつような;perlu;Bab40;N4;1
+天気予報;てんきよほう;prakiraan cuaca;Bab40;N4;1
+忘年会;ぼうねんかい;pesta akhir tahun;Bab40;N4;1
+新年会;しんねんかい;pesta tahun baru;Bab40;N4;1
+二次会;にじかい;pesta untuk kedua kalinya;Bab40;N4;1
+発表会;はっぴょうかい;mempresentasi;Bab40;N4;1
+大会;たいかい;lomba;Bab40;N4;1
+マラソン;マラソン;maraton;Bab40;N4;1
+コンテスト;コンテスト;pertandingan;Bab40;N4;1
+表;おもて;muka;Bab40;N4;1
+裏;うら;belakang;Bab40;N4;1
+まちがい;まちがい;kesalahan;Bab40;N4;1
+傷;きず;cacat, luka;Bab40;N4;1
+ズボン;ズボン;celana;Bab40;N5;1
+お年寄り;おとしより;orang lanjut usia;Bab40;N4;1
+長さ;ながさ;panjangnya;Bab40;N4;1
+重さ;おもさ;beratnya;Bab40;N4;1
+高さ;たかさ;tingginya;Bab40;N4;1
+大きさ;おおきさ;besarnya;Bab40;N4;1
+～便;～びん;～ botol;Bab40;N4;1
+～個;～こ;～ buah (kata bantu bilangan untuk menghitung benda kecil);Bab40;N4;1
+～本;～ほん;～ batang (kata bantu bilangan untuk menghitung benda yang kurus panjang);Bab40;N4;1
+～杯;～はい;～ cangkir, ～ gelas (kata bantu bilangan untuk menghitung isi cangkir atau gelas dan lain-lain);Bab40;N4;1
+～センチ;～センチ;～ senti;Bab40;N4;1
+～ミリ;～ミリ;～ mili;Bab40;N4;1
+～グラム;～グラム;～ gram;Bab40;N4;1
+～以上;～いじょう;ke atas ～;Bab40;N4;1
+～以下;～いか;ke bawah ～;Bab40;N4;1
+長崎;ながさき;tempat pemerintah daerah prefektur Nagasaki;Bab40;-;1
+仙台;せんだい;tempat pemerintah daerah prefektur Miyagi;Bab40;-;1
+JL;JL;Japan Airlines;Bab40;-;1
+七夕祭り;たなばたまつり;Tanabata Matsuri, Perayaan Bintang;Bab40;-;1
+東照宮;とうしょうぐう;kuil di prefektur Tochigi yang mengabadikan Tokugawa Ieyasu;Bab40;-;1
+どうでしょうか。;どうでしょうか。;Bagaimana? (Kata Sopan dari どうですか);Bab40;N4;1
+テスト;テスト;ujian;Bab40;N5;1
+成績;せいせき;nilai;Bab40;N4;1
+ところで;ところで;ngomong-ngomong;Bab40;N4;1
+いらっしゃいます;いらっしゃいます;datang (Kata Hormat dari きます);Bab40;N4;1
+様子;ようす;kondisi, suasana;Bab40;N4;1
+事件;じけん;kejadian;Bab40;N4;1
+オートバイ;オートバイ;sepeda motor;Bab40;N4;1
+爆弾;ばくだん;bom;Bab40;N4;1
+積みます;つみます;memuatkan;Bab40;N4;1
+運転手;うんてんしゅ;sopir;Bab40;N4;1
+離れた;はなれた;terpisah;Bab40;N4;1
+急に;きゅうに;mendadak, tiba-tiba;Bab40;N4;1
+動かします;うごかします;menggerakkan;Bab40;N4;1
+一生懸命;いっしょうけんめい;sungguh-sungguh;Bab40;N4;1
+犯人;はんにん;pelaku;Bab40;N4;1
+男;おとこ;laki-laki;Bab40;N4;1
+手に入れます;てにいれます;mendapatkan;Bab40;N4;1
+今でも;いまでも;sampai sekarang;Bab40;N4;1
+単位;たんい;Satuan;Bab40;N4;1
+線;せん;garis;Bab40;N4;1
+形;かたち;bentuk;Bab40;N4;1
+模様;もよう;corak;Bab40;N4;1
+面積;めんせき;bidang;Bab40;N4;1
+平方センチメートル;へいほうセンチメートル;sentimeter persegi;Bab40;N4;1
+平方メートル;へいほうメートル;meter persegi;Bab40;N4;1
+平方キロメートル;へいほうキロメートル;kilometer persegi;Bab40;N4;1
+ミリメートル;ミリメートル;milimeter;Bab40;N4;1
+センチメートル;センチメートル;sentimeter;Bab40;N4;1
+メートル;メートル;meter;Bab40;N4;1
+キロメートル;キロメートル;kilometer;Bab40;N4;1
+体積・容積;たいせき・ようせき;volume・kapasitas;Bab40;N4;1
+立方センチメートル;りっぽうセンチメートル;sentimeter kubik;Bab40;N4;1
+立方メートル;りっぽうメートル;meter kubik;Bab40;N4;1
+ミリリットル;ミリリットル;mililiter;Bab40;N4;1
+シーシー;シーシー;cc;Bab40;N4;1
+リットル;リットル;liter;Bab40;N4;1
+ミリグラム;ミリグラム;miligram;Bab40;N4;1
+グラム;グラム;gram;Bab40;N4;1
+キログラム;キログラム;kilogram;Bab40;N4;1
+トン;トン;ton;Bab40;N4;1
+計算;けいさん;perhitungan;Bab40;N4;1
+たす;たす;tambah;Bab40;N4;1
+ひく;ひく;kurang;Bab40;N4;1
+かける;かける;kali;Bab40;N4;1
+わる;わる;bagi;Bab40;N4;1
+は（イコール）;は（イコール）;sama dengan;Bab40;N4;1
+直線;ちょくせん;garis lulus;Bab40;N4;1
+曲線;きょくせん;garis kurva;Bab40;N4;1
+点線;てんせん;garis titik;Bab40;N4;1
+円（丸）;えん（まる）;bulat;Bab40;N4;1
+三角形;さんかくけい;segi tiga;Bab40;N4;1
+四角形;しかくけい;segi empat;Bab40;N4;1
+縦じま;たてじま;belang vertikal;Bab40;N4;1
+横じま;よこじま;belang horizontal;Bab40;N4;1
+チェック;チェック;berpetak-petak;Bab40;N4;1
+水玉;みずたま;berbintik-bintik;Bab40;N4;1
+花柄;はながら;corak bunga;Bab40;N4;1
+無地;むじ;polos;Bab40;N4;1

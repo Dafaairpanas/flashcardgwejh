@@ -231,6 +231,12 @@ function setupEventListeners() {
     });
   }
 
+  if ($('complete-review-again-btn')) {
+    $('complete-review-again-btn').addEventListener('click', () => {
+      import('./ui/study.js').then(m => m.startReviewWeakCards());
+    });
+  }
+
   // Keyboard shortcuts for Study View
   document.addEventListener('keydown', (e) => {
     if (document.activeElement.tagName === 'INPUT' || document.activeElement.tagName === 'TEXTAREA') return;

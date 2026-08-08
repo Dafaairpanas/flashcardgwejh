@@ -4,14 +4,27 @@ import { showToast } from './ui/layout.js';
 import { getChapters, getWordClasses, loadData } from './data.js';
 
 let currentPage = 1;
-const ITEMS_PER_PAGE = 50;
+const ITEMS_PER_PAGE = 100;
 let currentSearchQuery = '';
 let currentChapterFilter = 'all';
 let currentTypeFilter = 'all';
 
+// Multi-Selection State
+let adminSelectedIds = new Set();
+let isAdminMouseDown = false;
+let adminDragTargetState = null;
+
 export function initAdmin() {
   const loginSection = $('admin-login-section');
   const dashboardSection = $('admin-dashboard-section');
+  
+  // Restore selection from sessionStorage to survive Vite HMR reloads
+  try {
+    const savedIds = sessionStorage.getItem('fcAdminSelection');
+    if (savedIds) {
+      adminSelectedIds = new Set(JSON.parse(savedIds));
+    }
+  } catch(e) {}
   
   // Auth State Listener
   supabase.auth.onAuthStateChange((event, session) => {
@@ -58,6 +71,24 @@ export function initAdmin() {
   });
 
   $('admin-form-close')?.addEventListener('click', closeForm);
+
+  // Tab Switching
+  $('tab-data-table')?.addEventListener('click', () => {
+    $('tab-data-table').classList.add('active');
+    $('tab-statistics').classList.remove('active');
+    $('admin-table-view').style.display = 'block';
+    $('admin-stats-view').style.display = 'none';
+  });
+
+  $('tab-statistics')?.addEventListener('click', () => {
+    $('tab-statistics').classList.add('active');
+    $('tab-data-table').classList.remove('active');
+    $('admin-stats-view').style.display = 'block';
+    $('admin-table-view').style.display = 'none';
+    renderAdminStats();
+  });
+
+  setupAdminDragSelection();
 
   // CRUD Form Submit
   $('admin-crud-form')?.addEventListener('submit', async (e) => {
@@ -167,16 +198,29 @@ async function loadAdminData() {
   $('admin-page-info').textContent = `Page ${currentPage} (Total: ${count})`;
   
   if (!data || data.length === 0) {
-    tbody.innerHTML = '<tr><td colspan="5" style="text-align:center;">Tidak ada data.</td></tr>';
+    tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;">Tidak ada data.</td></tr>';
     return;
   }
   
   tbody.innerHTML = '';
   const fragment = document.createDocumentFragment();
   
+  // Check header checkbox state
+  const allSelected = data.length > 0 && data.every(card => adminSelectedIds.has(card.id));
+  if ($('admin-check-all-page')) {
+    $('admin-check-all-page').checked = allSelected;
+  }
+  
   data.forEach(card => {
+    const isSelected = adminSelectedIds.has(card.id);
     const tr = document.createElement('tr');
+    tr.className = `data-row ${isSelected ? 'row-selected' : ''}`;
+    tr.dataset.id = card.id;
+    
     tr.innerHTML = `
+      <td style="text-align: center;" onclick="event.stopPropagation()">
+        <input type="checkbox" class="row-checkbox" data-id="${card.id}" ${isSelected ? 'checked' : ''}>
+      </td>
       <td>${card.kanji || '-'}</td>
       <td>${card.hiragana}</td>
       <td style="max-width:200px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;" title="${card.meaning}">${card.meaning}</td>
@@ -273,5 +317,285 @@ async function deleteCard(id) {
     loadAdminData();
     // Refresh the offline cache and in-memory ALL_CARDS
     loadData(true).catch(console.error);
+    if ($('tab-statistics')?.classList.contains('active')) {
+      renderAdminStats();
+    }
+  }
+}
+
+// =======================
+// MULTI-SELECT LOGIC
+// =======================
+
+function setupAdminDragSelection() {
+  const tbody = $('admin-tbody');
+  if (!tbody) return;
+
+  function getRowFromElement(el) {
+    return el ? el.closest('tr.data-row') : null;
+  }
+
+  function handleRowDrag(tr) {
+    if (!tr) return;
+    const id = tr.dataset.id;
+    if (!id) return;
+
+    if (adminDragTargetState === true) {
+      adminSelectedIds.add(id);
+      tr.classList.add('row-selected');
+      const cb = tr.querySelector('.row-checkbox');
+      if (cb) cb.checked = true;
+    } else {
+      adminSelectedIds.delete(id);
+      tr.classList.remove('row-selected');
+      const cb = tr.querySelector('.row-checkbox');
+      if (cb) cb.checked = false;
+    }
+    updateAdminSelectionUI();
+  }
+
+  tbody.addEventListener('mousedown', (e) => {
+    if (e.target.tagName === 'BUTTON' || e.target.closest('button')) return;
+    
+    const tr = getRowFromElement(e.target);
+    if (!tr) return;
+
+    isAdminMouseDown = true;
+    const id = tr.dataset.id;
+    
+    adminDragTargetState = !adminSelectedIds.has(id);
+    handleRowDrag(tr);
+  });
+
+  tbody.addEventListener('mouseover', (e) => {
+    if (!isAdminMouseDown) return;
+    const tr = getRowFromElement(e.target);
+    if (tr) handleRowDrag(tr);
+  });
+
+  document.addEventListener('mouseup', () => {
+    isAdminMouseDown = false;
+  });
+
+  tbody.addEventListener('change', (e) => {
+    if (e.target.classList.contains('row-checkbox')) {
+      const id = e.target.dataset.id;
+      const tr = tbody.querySelector(`tr[data-id="${id}"]`);
+      if (e.target.checked) {
+        adminSelectedIds.add(id);
+        if (tr) tr.classList.add('row-selected');
+      } else {
+        adminSelectedIds.delete(id);
+        if (tr) tr.classList.remove('row-selected');
+      }
+      updateAdminSelectionUI();
+    }
+  });
+
+  // Select all on page
+  $('admin-check-all-page')?.addEventListener('click', (e) => {
+    const checkboxes = tbody.querySelectorAll('.row-checkbox');
+    checkboxes.forEach(cb => {
+      const id = cb.dataset.id;
+      const tr = cb.closest('tr.data-row');
+      if (e.target.checked) {
+        adminSelectedIds.add(id);
+        if (tr) tr.classList.add('row-selected');
+        cb.checked = true;
+      } else {
+        adminSelectedIds.delete(id);
+        if (tr) tr.classList.remove('row-selected');
+        cb.checked = false;
+      }
+    });
+    updateAdminSelectionUI();
+  });
+
+  // Batch action buttons
+  $('admin-multi-imp-1')?.addEventListener('click', () => setMultiImportantity(1));
+  $('admin-multi-imp-2')?.addEventListener('click', () => setMultiImportantity(2));
+  $('admin-multi-imp-3')?.addEventListener('click', () => setMultiImportantity(3));
+  
+  $('admin-deselect-all')?.addEventListener('click', () => {
+    adminSelectedIds.clear();
+    loadAdminData(); // Refresh UI
+    updateAdminSelectionUI();
+  });
+
+  $('admin-multi-delete')?.addEventListener('click', async () => {
+    if (adminSelectedIds.size === 0) return;
+    if (!confirm(`Hapus ${adminSelectedIds.size} kartu terpilih sekaligus?`)) return;
+    
+    const idsArray = Array.from(adminSelectedIds);
+    const { error } = await supabase.from('cards').delete().in('id', idsArray);
+    
+    if (error) {
+      showToast('Gagal menghapus kartu: ' + error.message);
+    } else {
+      showToast(`Berhasil menghapus ${idsArray.length} kartu`);
+      adminSelectedIds.clear();
+      updateAdminSelectionUI();
+      loadAdminData();
+      loadData(true).catch(console.error);
+    }
+  });
+}
+
+function updateAdminSelectionUI() {
+  const count = adminSelectedIds.size;
+  const actionBar = $('admin-selection-bar');
+  const label = $('admin-selected-count');
+
+  if (label) label.textContent = `${count} Kartu Dipilih`;
+  if (actionBar) {
+    if (count > 0) {
+      actionBar.classList.add('active');
+      actionBar.style.display = 'flex';
+    } else {
+      actionBar.classList.remove('active');
+      actionBar.style.display = 'none';
+    }
+  }
+  
+  // Save selection to sessionStorage
+  try {
+    sessionStorage.setItem('fcAdminSelection', JSON.stringify(Array.from(adminSelectedIds)));
+  } catch(e) {}
+}
+
+async function setMultiImportantity(value) {
+  if (adminSelectedIds.size === 0) return;
+  const idsArray = Array.from(adminSelectedIds);
+  
+  const { error } = await supabase
+    .from('cards')
+    .update({ importantity: value })
+    .in('id', idsArray);
+
+  if (error) {
+    showToast('Gagal mengubah tipe: ' + error.message);
+  } else {
+    showToast(`Berhasil mengubah ${idsArray.length} kartu menjadi Tipe ${value}`);
+    adminSelectedIds.clear();
+    updateAdminSelectionUI();
+    loadAdminData();
+    loadData(true).catch(console.error); // refresh cache
+  }
+}
+
+// =======================
+// STATISTICS & CHARTS
+// =======================
+
+let chartChapters = null;
+let chartJlpt = null;
+let chartTypes = null;
+
+async function renderAdminStats() {
+  const data = await loadData();
+  
+  if (!data || data.length === 0) {
+    showToast('Gagal memuat data statistik');
+    return;
+  }
+
+  const chaptersMap = new Map();
+  const jlptCounts = { n1: 0, n2: 0, n3: 0, n4: 0, n5: 0, none: 0 };
+  const typeCounts = { 1: 0, 2: 0, 3: 0 };
+
+  data.forEach(card => {
+    // JLPT
+    const lvl = (card.level || '-').toLowerCase();
+    if (jlptCounts.hasOwnProperty(lvl)) jlptCounts[lvl]++;
+    else jlptCounts.none++;
+
+    // Type
+    const tipe = card.importantity || 1;
+    if (typeCounts[tipe] !== undefined) typeCounts[tipe]++;
+
+    // Chapters
+    const chap = card.chapter || 'Unknown';
+    if (!chaptersMap.has(chap)) {
+      chaptersMap.set(chap, { 1: 0, 2: 0, 3: 0 });
+    }
+    chaptersMap.get(chap)[tipe]++;
+  });
+
+  // Sort chapters
+  const sortedChapters = Array.from(chaptersMap.keys()).sort((a, b) => {
+    const numA = parseInt(a.replace('Bab', '')) || 0;
+    const numB = parseInt(b.replace('Bab', '')) || 0;
+    return numA - numB;
+  });
+
+  const chapLabels = sortedChapters;
+  const chapData1 = sortedChapters.map(c => chaptersMap.get(c)[1]);
+  const chapData2 = sortedChapters.map(c => chaptersMap.get(c)[2]);
+  const chapData3 = sortedChapters.map(c => chaptersMap.get(c)[3]);
+
+  // Chart defaults
+  if (window.Chart) {
+    window.Chart.defaults.color = 'rgba(255, 255, 255, 0.7)';
+    window.Chart.defaults.font.family = "'Inter', sans-serif";
+  }
+
+  // Destroy previous
+  if (chartChapters) chartChapters.destroy();
+  if (chartJlpt) chartJlpt.destroy();
+  if (chartTypes) chartTypes.destroy();
+
+  const ctxChap = document.getElementById('chart-chapters');
+  if (ctxChap) {
+    chartChapters = new window.Chart(ctxChap.getContext('2d'), {
+      type: 'bar',
+      data: {
+        labels: chapLabels,
+        datasets: [
+          { label: 'Tipe 1 (Wajib)', data: chapData1, backgroundColor: '#10b981' },
+          { label: 'Tipe 2 (Extra)', data: chapData2, backgroundColor: '#f59e0b' },
+          { label: 'Tipe 3 (Trash)', data: chapData3, backgroundColor: '#ef4444' }
+        ]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+          x: { stacked: true, grid: { color: 'rgba(255,255,255,0.1)' } },
+          y: { stacked: true, grid: { color: 'rgba(255,255,255,0.1)' } }
+        }
+      }
+    });
+  }
+
+  const ctxJlpt = document.getElementById('chart-jlpt');
+  if (ctxJlpt) {
+    chartJlpt = new window.Chart(ctxJlpt.getContext('2d'), {
+      type: 'doughnut',
+      data: {
+        labels: ['N1', 'N2', 'N3', 'N4', 'N5', 'None'],
+        datasets: [{
+          data: [jlptCounts.n1, jlptCounts.n2, jlptCounts.n3, jlptCounts.n4, jlptCounts.n5, jlptCounts.none],
+          backgroundColor: ['#ef4444', '#f97316', '#f59e0b', '#10b981', '#3b82f6', '#6b7280'],
+          borderWidth: 0
+        }]
+      },
+      options: { responsive: true, maintainAspectRatio: false }
+    });
+  }
+
+  const ctxTypes = document.getElementById('chart-types');
+  if (ctxTypes) {
+    chartTypes = new window.Chart(ctxTypes.getContext('2d'), {
+      type: 'doughnut',
+      data: {
+        labels: ['Tipe 1 (Wajib)', 'Tipe 2 (Extra)', 'Tipe 3 (Trash)'],
+        datasets: [{
+          data: [typeCounts[1], typeCounts[2], typeCounts[3]],
+          backgroundColor: ['#10b981', '#f59e0b', '#ef4444'],
+          borderWidth: 0
+        }]
+      },
+      options: { responsive: true, maintainAspectRatio: false }
+    });
   }
 }

@@ -1,0 +1,70 @@
+売れます;うれます;[roti] terjual;Bab28;N4;1
+踊ります;おどります;menari;Bab28;N4;1
+かみます;かみます;makan, menggigit;Bab28;N4;1
+選びます;えらびます;memilih;Bab28;N4;1
+通います;かよいます;pergi [ke universitas];Bab28;N4;1
+メモします;メモします;mencatat;Bab28;N5;1
+まじめな;まじめな;serius;Bab28;N4;1
+熱心な;ねっしんな;tekun;Bab28;N4;1
+偉い;えらい;hebat;Bab28;N4;1
+ちょうどいい;ちょうどいい;pas, cocok;Bab28;N4;1
+景色;けしき;pemandangan;Bab28;N4;1
+美容院;びよういん;salon kecantikan;Bab28;N4;1
+台所;だいどころ;dapur;Bab28;N4;1
+経験;けいけん;pengalaman;Bab28;N4;1
+力;ちから;tenaga;Bab28;N4;1
+人気;にんき;populer/disenangi;Bab28;N4;1
+形;かたち;bentuk, sosok;Bab28;N4;1
+色;いろ;warna;Bab28;N4;1
+味;あじ;rasa;Bab28;N4;1
+ガム;ガム;permen karet;Bab28;-;1
+品物;しなもの;barang;Bab28;N4;1
+値段;ねだん;harga;Bab28;N4;1
+給料;きゅうりょう;gaji;Bab28;N4;1
+ボーナス;ボーナス;bonus;Bab28;-;1
+ゲーム;ゲーム;permainan, game;Bab28;-;1
+番組;ばんぐみ;acara TV;Bab28;N4;1
+ドラマ;ドラマ;drama;Bab28;-;1
+歌手;かしゅ;penyanyi;Bab28;N4;1
+小説;しょうせつ;novel;Bab28;N4;1
+小説家;しょうせつか;novelis;Bab28;N4;1
+～家;～か;aliran ~;Bab28;-;1
+～機;～き;mesin ~;Bab28;-;1
+息子;むすこ;anak laki-laki;Bab28;N4;1
+息子さん;むすこさん;putra;Bab28;N4;1
+娘;むすめ;anak perempuan;Bab28;N4;1
+娘さん;むすめさん;putri;Bab28;N4;1
+自分;じぶん;diri sendiri;Bab28;N4;1
+将来;しょうらい;masa depan;Bab28;N4;1
+しばらく;しばらく;sebentar, sementara;Bab28;N4;1
+たいてい;たいてい;kebanyakan;Bab28;N4;1
+それに;それに;dan juga;Bab28;N4;1
+それで;それで;dan, lalu;Bab28;N4;1
+お願いがあるんですが;おねがいがあるんですが;Minta sesuatu [sebentar];Bab28;N4;1
+実は;じつは;solanya/sebenarnya;Bab28;N4;1
+会話;かいわ;percakapan;Bab28;N4;1
+うーん;うーん;mmm...;Bab28;-;1
+お知らせ;おしらせ;pemberitahuan, pengumuman;Bab28;N4;1
+参加します;さんかします;mengikuti;Bab28;N4;1
+日にち;ひにち;tanggal;Bab28;N4;1
+土;ど;hari Sabtu;Bab28;N4;1
+体育館;たいいくかん;gedung olahraga;Bab28;N4;1
+無料;むりょう;gratis, cuma-cuma;Bab28;N4;1
+誘います;さそいます;mengajak;Bab28;N4;1
+イベント;イベント;acara;Bab28;N4;1
+うちを借りる;うちをかりる;Menyewa Rumah;Bab28;-;1
+中央線;ちゅうおうせん;Nama jalur kereta rel listrik;Bab28;-;1
+西荻窪駅;にしおぎくぼえき;Nama stasiun kereta rel listrik terdekat;Bab28;-;1
+徒歩;とほ;jalan kaki;Bab28;-;1
+マンション;マンション;Kondominium/Apartmen;Bab28;-;1
+アパート;アパート;Apartmen;Bab28;-;1
+一戸建て;いっこだて;rumah;Bab28;-;1
+築;ちく;Didirikan;Bab28;-;1
+家賃;やちん;Biaya Sewa;Bab28;-;1
+敷金;しききん;Deposit;Bab28;-;1
+礼金;れいきん;Uang sebagai tanda ucapan terima kasih;Bab28;-;1
+管理費;かんりひ;Biaya Perawatan;Bab28;-;1
+南向き;みなみむき;Menghadap ke selatan;Bab28;-;1
+階建て;かいだて;bangunan ... tingkat;Bab28;-;1
+不動産;ふどうさん;agen real estete;Bab28;-;1
+畳;じょう;satuan luas kamar;Bab28;-;1

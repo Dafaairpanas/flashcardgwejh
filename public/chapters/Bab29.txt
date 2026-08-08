@@ -1,0 +1,70 @@
+開きます;あきます;Terbuka;Bab29;n4;1
+閉まります;しまります;Tertutup;Bab29;n3;1
+つきます;つきます;Menyala;Bab29;-;1
+消えます;きえます;Mati, padam;Bab29;n3;1
+込みます;こみます;Ramai, macet;Bab29;n3;1
+すきます;すきます;Sepi;Bab29;-;1
+壊れます;こわれます;Rusak;Bab29;n4;1
+割れます;われます;Pecah;Bab29;n3;1
+折れます;おれます;Patah;Bab29;n3;1
+破れます;やぶれます;Sobek;Bab29;n3;1
+汚れます;よごれます;Menjadi kotor;Bab29;n2;1
+付きます;つきます;Terpasang;Bab29;n3;1
+外れます;はずれます;Terlepas;Bab29;n5;1
+止まります;とまります;Berhenti;Bab29;n4;1
+間違えます;まちがえます;Berbuat salah, keliru;Bab29;n3;1
+落とします;おとします;Menjatuhkan, kehilangan;Bab29;n3;1
+掛かります;かかります;Terkunci;Bab29;n3;1
+ふきます;ふきます;Mengelap;Bab29;-;1
+取り替えます;とりかえます;Mengganti;Bab29;n3;1
+片づけます;かたづけます;Membereskan;Bab29;n4;1
+お皿;おさら;Piring;Bab29;n2;1
+おちゃわん;おちゃわん;Mangkuk;Bab29;-;1
+コップ;コップ;Gelas;Bab29;-;1
+ガラス;ガラス;Kaca;Bab29;-;1
+袋;ふくろ;Kantong;Bab29;n2;1
+書類;しょるい;Dokumen;Bab29;n3;1
+枝;えだ;Cabang, ranting pohon;Bab29;n2;1
+駅員;えきいん;Petugas stasiun;Bab29;n4;1
+交番;こうばん;Pos polisi;Bab29;n4;1
+スピーチ;スピーチ;Pidato;Bab29;n4;1
+返事;へんじ;Jawaban;Bab29;n3;1
+この辺;このへん;Sekitar sini;Bab29;n2;1
+～辺;～へん;Sekitar ~;Bab29;n2;1
+このくらい;このくらい;Kira-kira segini;Bab29;-;1
+お先にどうぞ;おさきにどうぞ;Silakan duluan;Bab29;n5;1
+今の電車;いまのでんしゃ;Kereta tadi;Bab29;-;1
+忘れ物;わすれもの;Barang yang tertinggal;Bab29;n3;1
+～側;～がわ;Sebelah ~;Bab29;n3;1
+ポケット;ポケット;Saku, kantong;Bab29;-;1
+覚えていません;おぼえていません;Tidak ingat;Bab29;-;1
+網棚;あみだな;Rak bagasi;Bab29;-;1
+確か;たしか;Kalau tidak salah, pasti;Bab29;n3;1
+よかった;よかった;Syukur (merasa lega);Bab29;-;1
+地震;じしん;Gempa bumi;Bab29;n2;1
+壁;かべ;Dinding;Bab29;-;1
+針;はり;Jarum;Bab29;n2;1
+指します;さします;Menunjuk;Bab29;n3;1
+駅前;えきまえ;Depan stasiun;Bab29;n4;1
+倒れます;たおれます;Jatuh, roboh;Bab29;n3;1
+西;にし;Barat;Bab29;n5;1
+～の方;～のほう;Sebelah ~ (arah);Bab29;n4;1
+燃えます;もえます;Terbakar;Bab29;n3;1
+レポーター;レポーター;Wartawan, jurnalis;Bab29;-;1
+状態;じょうたい;Keadaan;Bab29;n3;1
+様子;ようす;Kondisi, penampilan;Bab29;n3;1
+太っている;ふとっている;Gemuk;Bab29;n3;1
+やせている;やせている;Kurus;Bab29;-;1
+膨らんでいる;ふくらんでいる;Kembung;Bab29;-;1
+穴が開いている;あながあいている;Bolong, berlubang;Bab29;-;1
+曲がっている;まがっている;Bengkok;Bab29;n3;1
+ゆがんでいる;ゆがんでいる;Melengkung;Bab29;-;1
+へこんでいる;へこんでいる;Penyok;Bab29;-;1
+ねじれている;ねじれている;Terpelintir;Bab29;-;1
+欠けている;かけている;Sumbing;Bab29;-;1
+ひびが入っている;ひびがはいっている;Retak;Bab29;-;1
+腐っている;くさっている;Busuk;Bab29;-;1
+乾いている;かわいている;Kering;Bab29;n2;1
+ぬれている;ぬれている;Basah;Bab29;-;1
+凍っている;こおっている;Beku;Bab29;n2;1
+財布;さいふ;Dompet;Bab29;n2;1

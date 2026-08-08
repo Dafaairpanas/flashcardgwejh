@@ -1,0 +1,65 @@
+勤めます;つとめます;Bekerja (di perusahaan);Bab49;n3;1
+休みます;やすみます;Beristirahat;Bab49;n5;1
+掛けます;かけます;Duduk (di kursi);Bab49;n3;1
+過ごします;すごします;Menghabiskan (waktu), melewatkan;Bab49;n3;1
+寄ります;よります;Mampir (ke);Bab49;n3;1
+いらっしゃいます;いらっしゃいます;Ada, pergi, datang (Kata hormat dari います, いきます, きます);Bab49;-;1
+召し上がります;めしあがります;Makan, minum (Kata hormat dari たべます, のみます);Bab49;n2;1
+おっしゃいます;おっしゃいます;Berkata (Kata hormat dari いいます);Bab49;-;1
+なさいます;なさいます;Melakukan (Kata hormat dari します);Bab49;-;1
+ご覧になります;ごらんになります;Melihat (Kata hormat dari みます);Bab49;-;1
+ご存じです;ごぞんじです;Mengetahui (Kata hormat dari しっています);Bab49;n3;1
+あいさつ;あいさつ;Salam;Bab49;-;1
+灰皿;はいざら;Asbak;Bab49;n2;1
+旅館;りょかん;Penginapan;Bab49;n4;1
+会場;かいじょう;Tempat pertemuan;Bab49;n4;1
+バス停;バスてい;Halte;Bab49;n2;1
+貿易;ぼうえき;Perdagangan;Bab49;n3;1
+～様;～さま;Kepada Yth. ~, Bapak ~, Ibu ~, Sdr. ~ (Kata hormat dari ~さん);Bab49;n3;1
+帰りに;かえりに;Pada waktu pulang;Bab49;n4;1
+たまに;たまに;Kadang-kadang;Bab49;-;1
+ちょっとも;ちょっとも;Sama sekali (diikuti bentuk negatif);Bab49;-;1
+遠慮なく;えんりょなく;Tanpa malu-malu;Bab49;-;1
+～年～組;～ねん～くみ;Kelas ~;Bab49;n3;1
+では;では;Kalau begitu (Bentuk hormat dari じゃ);Bab49;-;1
+熱を出します;ねつをだします;Menjadi demam;Bab49;n5;1
+よろしくお伝えください;よろしくおつたえください;Tolong sampaikan salam saya;Bab49;-;1
+失礼いたします;しつれいいたします;Permisi (Bentuk merendahkan diri dari しつれいします);Bab49;n3;1
+講師;こうし;Pembicara;Bab49;n2;1
+多くの～;おおくの～;Banyak ~;Bab49;n4;1
+作品;さくひん;Karya;Bab49;n4;1
+受賞します;じゅしょうします;Meraih / Menerima hadiah;Bab49;n2;1
+世界的に;せかいてきに;Seluruh dunia;Bab49;-;1
+作家;さっか;Pengarang;Bab49;n4;1
+長男;ちょうなん;Anak laki-laki tertua;Bab49;n5;1
+障害;しょうがい;Cacat;Bab49;-;1
+お持ちです;おもちです;Mempunyai (Bentuk hormat dari もっています);Bab49;n4;1
+作曲;さっきょく;Gubahan lagu, komposisi lagu;Bab49;n3;1
+活動;かつどう;Kegiatan;Bab49;n3;1
+それでは;それでは;Baiklah;Bab49;-;1
+お宅;おたく;Rumah;Bab49;n3;1
+～でございます;～でございます;Kata sopan (dari です);Bab49;-;1
+～と申します;～ともうします;Kata merendah (bernama ~);Bab49;-;1
+～でいらっしゃいます;～でいらっしゃいます;Kata hormat (dari です);Bab49;-;1
+利用します;りようします;Menggunakan;Bab49;n4;1
+奥様;おくさま;Nyonya (Kata hormat dari おくさん);Bab49;n3;1
+どなたでも;どなたでも;Siapa saja (Kata hormat dari だれでも);Bab49;n4;1
+～といいます;～といいます;Bernama ~;Bab49;n4;1
+経歴;けいれき;Riwayat hidup, CV;Bab49;n3;1
+医学部;いがくぶ;Fakultas kedokteran;Bab49;n2;1
+目指します;めざします;Menargetkan;Bab49;n3;1
+進みます;すすみます;Lanjut kuliah di;Bab49;n3;1
+iPS細胞;iPSさいぼう;Sel iPS;Bab49;-;1
+開発します;かいはつします;Mengembangkan;Bab49;n3;1
+マウス;マウス;Tikus percobaan;Bab49;n2;1
+ヒト;ヒト;Manusia;Bab49;n2;1
+講演会;こうえんかい;Seminar;Bab49;n3;1
+季節の行事;きせつのぎょうじ;Acara Musiman;Bab49;-;1
+お正月;おしょうがつ;Tahun baru;Bab49;n4;1
+豆まき;まめまき;Upacara menghamburkan kacang;Bab49;-;1
+ひな祭り;ひなまつり;Perayaan Boneka;Bab49;-;1
+こどもの日;こどものひ;Hari Anak;Bab49;-;1
+七夕;たなばた;Tanabata / Perayaan Bintang;Bab49;-;1
+お盆;おぼん;Perayaan Bon;Bab49;-;1
+お月見;おつきみ;Acara Melihat Bulan;Bab49;-;1
+大みそか;おおみそか;Malam Tahun Baru;Bab49;-;1

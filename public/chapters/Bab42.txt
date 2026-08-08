@@ -1,0 +1,87 @@
+包みます;つつみます;membungkus;Bab42;N3;1
+沸かします;わかします;memasak;Bab42;N3;1
+混ぜます;まぜます;mencampur;Bab42;N3;1
+計算します;けいさんします;menghitung;Bab42;N3;1
+並びます;ならびます;berbaris;Bab42;N4;1
+丈夫な;じょうぶな;kuat;Bab42;N4;1
+アパート;アパート;apartmen;Bab42;N5;1
+弁護士;べんごし;pengacara;Bab42;N3;1
+音楽家;おんがくか;musisi;Bab42;N3;1
+子どもたち;こどもたち;anak-anak;Bab42;N4;1
+自然;しぜん;alam;Bab42;N3;1
+教育;きょういく;pendidikan;Bab42;N3;1
+文化;ぶんか;budaya;Bab42;N3;1
+社会;しゃかい;sosial;Bab42;N3;1
+政治;せいじ;politik;Bab42;N3;1
+法律;ほうりつ;hukum;Bab42;N3;1
+戦争;せんそう;perang;Bab42;N3;1
+平和;へいわ;damai, perdamaian;Bab42;N3;1
+目的;もくてき;tujuan;Bab42;N3;1
+論文;ろんぶん;tesis;Bab42;N3;1
+楽しみ;たのしみ;kesenangan;Bab42;N4;1
+ミキサー;ミキサー;mixer, alat pencampur listrik;Bab42;-;1
+やかん;やかん;ceret, ketel;Bab42;-;1
+ふた;ふた;tutup;Bab42;N3;1
+栓抜き;せんぬき;pembuka botol;Bab42;-;1
+缶切り;かんきり;pembuka kaleng;Bab42;-;1
+缶詰;かんづめ;makanan kaleng;Bab42;N3;1
+のし袋;のしぶくろ;amplop khusus untuk mengisi uang;Bab42;-;1
+ふろしき;ふろしき;kain untuk membungkus barang;Bab42;-;1
+そろばん;そろばん;sempoa;Bab42;-;1
+体温計;たいおんけい;termometer;Bab42;-;1
+材料;ざいりょう;bahan;Bab42;N3;1
+ある～;ある～;suatu ~;Bab42;N4;1
+一生懸命;いっしょうけんめい;sungguh-sungguh;Bab42;N4;1
+なぜ;なぜ;kenapa;Bab42;N4;1
+どのくらい;どのくらい;berapa banyak;Bab42;N4;1
+国連;こくれん;Perserikatan Bangsa-Bangsa;Bab42;-;1
+エリーゼのために;エリーゼのために;Kepada Elise (nama musik);Bab42;-;1
+ベートーベン;ベートーベン;Ludwig van Beethoven, musisi Jerman (1770-1827);Bab42;-;1
+こどもニュース;こどもニュース;berita fiksi;Bab42;-;1
+出ます［ボーナスが～］;でます;diberi [bonus];Bab42;N4;1
+半分;はんぶん;setengah;Bab42;N4;1
+ローン;ローン;kredit;Bab42;-;1
+カップめん;カップめん;mie instan (diisi di dalam tempat sekali pakai seperti mangkuk plastik);Bab42;-;1
+世界初;せかいはつ;pertama di dunia;Bab42;-;1
+～によって;～によって;oleh ~;Bab42;N3;1
+どんぶり;どんぶり;mangkuk;Bab42;-;1
+めん;めん;mie;Bab42;-;1
+広めます;ひろめます;menyebarluaskan;Bab42;N3;1
+市場調査;しじょうちょうさ;riset pemasaran;Bab42;-;1
+割ります;わります;membagi;Bab42;N3;1
+注ぎます;そそぎます;menyiram;Bab42;N3;1
+チキンラーメン;チキンラーメン;nama produk mie instan;Bab42;-;1
+安藤百福;あんどうももふく;pengusaha Jepang, penemu (1910-2007);Bab42;-;1
+とじる;とじる;menjilid;Bab42;-;1
+挟む／とじる;はさむ／とじる;menjepit/menjilid;Bab42;-;1
+留める;とめる;menyematkan;Bab42;N3;1
+切る;きる;memotong, menggunting;Bab42;N4;1
+ホッチキス;ホッチキス;stepler;Bab42;-;1
+クリップ;クリップ;jepitan;Bab42;-;1
+画びょう;がびょう;paku payung;Bab42;-;1
+カッター;カッター;pisau;Bab42;-;1
+はさみ;はさみ;gunting;Bab42;N4;1
+はる;はる;menempelkan;Bab42;N4;1
+削る;けずる;meruncingkan;Bab42;N3;1
+ファイルする;ファイルする;mengarsipkan;Bab42;-;1
+セロテープ;セロテープ;selotip;Bab42;-;1
+ガムテープ;ガムテープ;selotip kertas;Bab42;-;1
+のり;のり;lem;Bab42;-;1
+鉛筆削り;えんぴつけずり;peruncing pensil;Bab42;-;1
+ファイル;ファイル;map;Bab42;N5;1
+消す;けす;menghapus;Bab42;N4;1
+［穴を］開ける;［あなを］あける;melubangi;Bab42;-;1
+計算する;けいさんする;menghitung;Bab42;N3;1
+［線を］引く／測る;［せんを］ひく／はかる;menggaris/mengukur;Bab42;-;1
+消しゴム;けしゴム;penghapus karet;Bab42;N5;1
+修正液;しゅうせいえき;penghapus cair;Bab42;-;1
+パンチ;パンチ;pelubang kertas;Bab42;-;1
+電卓;でんたく;kalkulator;Bab42;-;1
+定規（物差し）;じょうぎ（ものさし）;penggaris;Bab42;-;1
+［くぎを］打つ;［くぎを］うつ;memaku;Bab42;-;1
+挟む／曲げる／切る;はさむ／まげる／きる;menjepit/membengkokkan/melengkungkan/memotong;Bab42;-;1
+［ねじを］締める／緩める;［ねじを］しめる／ゆるめる;mengetatkan, mengeratkan/melonggarkan [sekrup];Bab42;-;1
+のこぎり;のこぎり;gergaji;Bab42;-;1
+金づち;かなづち;palu;Bab42;-;1
+ペンチ;ペンチ;tang;Bab42;-;1
+ドライバー;ドライバー;obeng;Bab42;-;1
