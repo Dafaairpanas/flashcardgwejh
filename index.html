@@ -581,6 +581,15 @@
                 <select id="admin-filter-tipe" style="padding: 12px 16px; border-radius: 12px; background: var(--bg-card); border: 1px solid var(--border-glass); color: white; outline: none; min-width: 120px; cursor: pointer; font-family: inherit;">
                   <option value="all">Semua Tipe</option>
                 </select>
+                <button class="btn btn-success" id="admin-export-csv" style="white-space: nowrap; flex-shrink: 0; padding: 0 16px;">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width:18px;height:18px;margin-right:8px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                  <span class="btn-text">Export CSV</span>
+                </button>
+                <button class="btn btn-primary" id="admin-import-csv" style="white-space: nowrap; flex-shrink: 0; padding: 0 16px; background: rgba(245, 158, 11, 0.2); color: #fbbf24; border-color: rgba(245, 158, 11, 0.4);">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width:18px;height:18px;margin-right:8px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="17 8 12 3 7 8"></polyline><line x1="12" y1="3" x2="12" y2="15"></line></svg>
+                  <span class="btn-text">Import CSV/TXT</span>
+                </button>
+                <input type="file" id="admin-file-import" accept=".csv,.txt" style="display: none;">
                 <button class="btn btn-primary" id="admin-add-btn" style="white-space: nowrap; flex-shrink: 0; padding: 0 20px;">
                   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width:18px;height:18px;margin-right:8px;"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
                   <span class="btn-text">Tambah Baru</span>

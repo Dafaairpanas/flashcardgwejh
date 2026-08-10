@@ -88,6 +88,131 @@ export function initAdmin() {
     renderAdminStats();
   });
 
+  // Export / Import CSV
+  $('admin-export-csv')?.addEventListener('click', async () => {
+    showToast('Menyiapkan data export...');
+    try {
+      const data = await loadData(true);
+      if (!data || data.length === 0) {
+        showToast('Gagal memuat data untuk export atau data kosong.');
+        return;
+      }
+      const header = "kanji;hiragana;meaning;chapter;level;wordClass;importantity\n";
+      const lines = data.map(c => {
+        return `${c.kanji};${c.hiragana};${c.meaning};${c.chapter};${c.level || '-'};${c.wordClass || 'Unclassified'};${c.importantity || 1}`;
+      });
+      const blob = new Blob(["\ufeff" + header + lines.join('\n')], { type: 'text/csv;charset=utf-8' });
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = 'flashcard_database.csv';
+      a.click();
+      showToast('Export berhasil!');
+    } catch (e) {
+      showToast('Error: ' + e.message);
+    }
+  });
+
+  $('admin-import-csv')?.addEventListener('click', () => {
+    $('admin-file-import')?.click();
+  });
+
+  $('admin-file-import')?.addEventListener('change', async (e) => {
+    const file = e.target.files[0];
+    if (!file) return;
+
+    showToast('Sedang membaca file import...');
+    const reader = new FileReader();
+    reader.onload = async function(event) {
+      const text = event.target.result;
+      const lines = text.split(/\r?\n/);
+      let newCount = 0;
+      let updateCount = 0;
+
+      const { data: existingCards } = await supabase.from('cards').select('*');
+      const cardsToUpsert = [];
+
+      lines.forEach(line => {
+        if (!line.trim()) return;
+        if (line.toLowerCase().startsWith('kanji;hiragana')) return;
+
+        const parts = line.split(';');
+        if (parts.length >= 4) {
+          let chapterStr = parts[3] ? parts[3].trim() : 'Bab01';
+          let wordClass = parts[5] ? parts[5].trim() : 'Unclassified';
+          let importantity = parts[6] ? parseInt(parts[6].trim(), 10) : 1;
+          
+          if (chapterStr.toLowerCase().endsWith('extra')) {
+            chapterStr = chapterStr.replace(/extra$/i, '');
+            importantity = 2;
+          }
+
+          const kanji = parts[0].trim();
+          const hiragana = parts[1].trim();
+          const meaning = parts[2].trim();
+          const level = parts[4] ? parts[4].trim() : '-';
+          
+          let cardToUpdate = null;
+          if (existingCards) {
+            cardToUpdate = existingCards.find(c => c.kanji === kanji && c.hiragana === hiragana);
+          }
+          
+          if (cardToUpdate) {
+            cardsToUpsert.push({
+              id: cardToUpdate.id,
+              kanji,
+              hiragana,
+              meaning,
+              chapter: chapterStr,
+              chapterNumber: parseInt(chapterStr.replace(/\D/g, ''), 10) || 0,
+              importantity,
+              level,
+              wordClass
+            });
+            updateCount++;
+          } else {
+            cardsToUpsert.push({
+              kanji,
+              hiragana,
+              meaning,
+              chapter: chapterStr,
+              chapterNumber: parseInt(chapterStr.replace(/\D/g, ''), 10) || 0,
+              importantity,
+              level,
+              wordClass
+            });
+            newCount++;
+          }
+        }
+      });
+
+      if (cardsToUpsert.length > 0) {
+        showToast(`Memproses ${cardsToUpsert.length} data ke server...`);
+        const CHUNK_SIZE = 500;
+        let success = true;
+        for (let i = 0; i < cardsToUpsert.length; i += CHUNK_SIZE) {
+          const chunk = cardsToUpsert.slice(i, i + CHUNK_SIZE);
+          const { error } = await supabase.from('cards').upsert(chunk);
+          if (error) {
+            showToast('Gagal mengimport sebagian data: ' + error.message);
+            success = false;
+            break;
+          }
+        }
+        
+        if (success) {
+          showToast(`Import berhasil! Baru: ${newCount}, Update: ${updateCount}`);
+          loadAdminData();
+          loadData(true).catch(console.error); // refresh app cache
+        }
+      } else {
+        showToast('Tidak ada data yang valid untuk diimport.');
+      }
+      
+      e.target.value = '';
+    };
+    reader.readAsText(file);
+  });
+
   setupAdminDragSelection();
 
   // CRUD Form Submit

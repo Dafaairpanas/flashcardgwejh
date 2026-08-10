@@ -174,12 +174,15 @@ export function getCardsByChapters(chapters, selectedGrades = [1, 2], jlpt = 'al
     
     // JLPT Filter logic (Only applicable if in Kanji mode i.e. Mode 2)
     if (mode === 2) {
-      if (card.level === '-') return false;
+      // 1. Must actually have kanji
+      const hasKanji = /[\u4e00-\u9faf]/.test(card.kanji);
+      if (!hasKanji) return false;
       
+      // 2. JLPT level filtering (if not 'all')
       if (jlpt !== 'all') {
         const jlptOrder = ['n5', 'n4', 'n3', 'n2', 'n1'];
         const selectedIdx = jlptOrder.indexOf(jlpt);
-        const cardIdx = jlptOrder.indexOf(card.level.toLowerCase());
+        const cardIdx = jlptOrder.indexOf(card.level ? card.level.toLowerCase() : '-');
         
         if (cardIdx === -1 || cardIdx > selectedIdx) {
           return false;
