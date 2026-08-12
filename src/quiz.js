@@ -10,6 +10,7 @@ let quizState = {
   questions: [],
   currentIndex: 0,
   score: 0,
+  streak: 0,
   answered: false,
 };
 
@@ -41,6 +42,7 @@ async function loadQuiz(babNum) {
   quizState.currentBab = babNum;
   quizState.currentIndex = 0;
   quizState.score = 0;
+  quizState.streak = 0;
   quizState.answered = false;
 
   try {
@@ -90,11 +92,46 @@ function initQuizButtons() {
 
   $('quiz-grade-correct').addEventListener('click', () => {
     quizState.score++;
-    nextQuestion();
+    quizState.streak++;
+    
+    const quizCard = $('quiz-card');
+    const streakPopup = $('quiz-streak-popup');
+    
+    if (quizCard) {
+      quizCard.classList.remove('glow-correct', 'shake');
+      void quizCard.offsetWidth;
+      quizCard.classList.add('glow-correct');
+    }
+    
+    // Streak Flash with random color
+    if (quizState.streak > 1) {
+      const randomHue = Math.floor(Math.random() * 360);
+      const randomColor = `hsla(${randomHue}, 90%, 65%, 0.12)`;
+      document.body.style.setProperty('--streak-flash-color', randomColor);
+      
+      document.body.classList.remove('bg-streak-flash');
+      void document.body.offsetWidth;
+      document.body.classList.add('bg-streak-flash');
+    }
+    
+    setTimeout(() => {
+      nextQuestion();
+    }, 400); // slight delay to show effect
   });
 
   $('quiz-grade-wrong').addEventListener('click', () => {
-    nextQuestion();
+    quizState.streak = 0;
+    const quizCard = $('quiz-card');
+    
+    if (quizCard) {
+      quizCard.classList.remove('glow-correct', 'shake');
+      void quizCard.offsetWidth;
+      quizCard.classList.add('shake');
+    }
+    
+    setTimeout(() => {
+      nextQuestion();
+    }, 400); // slight delay to show effect
   });
 }
 

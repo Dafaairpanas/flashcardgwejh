@@ -264,17 +264,51 @@ export function rateCard(rating) {
   fsrs.reviewCard(card.id, rating);
 
   state.totalReviewed++;
-  if (rating >= Rating.GOOD) state.totalCorrect++;
+  
+  const flashcardEl = $('flashcard');
+  const streakPopup = $('streak-popup');
 
-  if (rating === Rating.AGAIN || rating === Rating.HARD) {
-    const fails = state.sessionWeakCards.get(card.id)?.fails || 0;
-    state.sessionWeakCards.set(card.id, { card, fails: fails + 1 });
+  if (rating >= Rating.GOOD) {
+    state.totalCorrect++;
+    state.currentStreak++;
+    
+    // Gamification: Correct effects
+    if (flashcardEl) {
+      flashcardEl.classList.remove('glow-correct', 'shake');
+      void flashcardEl.offsetWidth; // trigger reflow
+      flashcardEl.classList.add('glow-correct');
+    }
+    
+    // Streak Flash with random color
+    if (state.currentStreak > 1) {
+      const randomHue = Math.floor(Math.random() * 360);
+      const randomColor = `hsla(${randomHue}, 90%, 65%, 0.12)`;
+      document.body.style.setProperty('--streak-flash-color', randomColor);
+      
+      document.body.classList.remove('bg-streak-flash');
+      void document.body.offsetWidth;
+      document.body.classList.add('bg-streak-flash');
+    }
   }
 
+  if (rating === Rating.AGAIN || rating === Rating.HARD) {
+    state.currentStreak = 0; // Reset streak
+    const fails = state.sessionWeakCards.get(card.id)?.fails || 0;
+    state.sessionWeakCards.set(card.id, { card, fails: fails + 1 });
+    
+    // Gamification: Wrong effects
+    if (flashcardEl) {
+      flashcardEl.classList.remove('glow-correct', 'shake');
+      void flashcardEl.offsetWidth;
+      flashcardEl.classList.add('shake');
+    }
+  }
+
+  // Faster color change (every 2-4 cards or on good combo)
   state.cardsUntilNextColor--;
-  if (state.cardsUntilNextColor <= 0) {
+  if (state.cardsUntilNextColor <= 0 || (state.currentStreak > 0 && state.currentStreak % 3 === 0)) {
     changeThemeColor();
-    state.cardsUntilNextColor = Math.floor(Math.random() * 6) + 10;
+    state.cardsUntilNextColor = Math.floor(Math.random() * 3) + 2;
   }
 
   const repeatMap = {
