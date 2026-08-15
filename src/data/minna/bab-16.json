@@ -30,7 +30,7 @@
     "id": "mn-16-004",
     "kanji": "おなか＊",
     "hiragana": "おなか＊",
-    "romaji": "onaka*",
+    "romaji": "onaka",
     "meaning": "perut",
     "level": "-",
     "importinity": 1
@@ -67,7 +67,7 @@
     "kanji": "シャワー",
     "hiragana": "シャワー",
     "romaji": "shawaa",
-    "meaning": "*shower*",
+    "meaning": "shower",
     "level": "-",
     "importinity": 1
   },
@@ -192,7 +192,7 @@
     "id": "mn-16-022",
     "kanji": "顔",
     "hiragana": "かお＊",
-    "romaji": "kao*",
+    "romaji": "kao",
     "meaning": "muka",
     "level": "N3",
     "importinity": 1
@@ -219,7 +219,7 @@
     "id": "mn-16-025",
     "kanji": "口",
     "hiragana": "くち＊",
-    "romaji": "kuchi*",
+    "romaji": "kuchi",
     "meaning": "mulut",
     "level": "N4",
     "importinity": 1
@@ -246,7 +246,7 @@
     "id": "mn-16-028",
     "kanji": "歯",
     "hiragana": "は＊",
-    "romaji": "ha*",
+    "romaji": "ha",
     "meaning": "gigi",
     "level": "N3",
     "importinity": 1
@@ -264,7 +264,7 @@
     "id": "mn-16-030",
     "kanji": "耳",
     "hiragana": "みみ＊",
-    "romaji": "mimi*",
+    "romaji": "mimi",
     "meaning": "telinga",
     "level": "N3",
     "importinity": 1
@@ -327,7 +327,7 @@
     "id": "mn-16-037",
     "kanji": "足",
     "hiragana": "あし＊",
-    "romaji": "ashi*",
+    "romaji": "ashi",
     "meaning": "kaki",
     "level": "N4",
     "importinity": 1
@@ -336,7 +336,7 @@
     "id": "mn-16-038",
     "kanji": "体",
     "hiragana": "からだ＊",
-    "romaji": "karada*",
+    "romaji": "karada",
     "meaning": "badan",
     "level": "N4",
     "importinity": 1
@@ -417,7 +417,7 @@
     "id": "mn-16-047",
     "kanji": "鼻",
     "hiragana": "はな＊",
-    "romaji": "hana*",
+    "romaji": "hana",
     "meaning": "hidung",
     "level": "N2",
     "importinity": 1

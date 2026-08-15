@@ -48,7 +48,7 @@
     "id": "mn-21-006",
     "kanji": "うそ＊",
     "hiragana": "うそ＊",
-    "romaji": "uso*",
+    "romaji": "uso",
     "meaning": "bohong",
     "level": "-",
     "importinity": 1
@@ -130,7 +130,7 @@
     "kanji": "マンガ",
     "hiragana": "マンガ",
     "romaji": "manga",
-    "meaning": "*manga*, komik",
+    "meaning": "manga, komik",
     "level": "-",
     "importinity": 1
   },
@@ -300,7 +300,7 @@
     "id": "mn-21-034",
     "kanji": "負けます",
     "hiragana": "まけますⅡ＊",
-    "romaji": "makemasuⅡ*",
+    "romaji": "makemasuⅡ",
     "meaning": "kalah",
     "level": "N3",
     "importinity": 1

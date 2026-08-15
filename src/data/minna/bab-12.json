@@ -57,7 +57,7 @@
     "id": "mn-12-007",
     "kanji": "すき焼き",
     "hiragana": "すきやき＊",
-    "romaji": "sukiyaki*",
+    "romaji": "sukiyaki",
     "meaning": "Sukiyaki (masakan yang dimasak daging sapi dan sayur dalam panci)",
     "level": "N2",
     "importinity": 1
@@ -183,7 +183,7 @@
     "id": "mn-12-021",
     "kanji": "遠い",
     "hiragana": "とおい＊",
-    "romaji": "tooi*",
+    "romaji": "tooi",
     "meaning": "jauh",
     "level": "N3",
     "importinity": 1
@@ -282,7 +282,7 @@
     "id": "mn-12-032",
     "kanji": "軽い",
     "hiragana": "かるい＊",
-    "romaji": "karui*",
+    "romaji": "karui",
     "meaning": "ringan",
     "level": "N2",
     "importinity": 1
@@ -300,7 +300,7 @@
     "id": "mn-12-034",
     "kanji": "刺身",
     "hiragana": "さしみ＊",
-    "romaji": "sashimi*",
+    "romaji": "sashimi",
     "meaning": "Sashimi (ikan mentah yang dipotong tipis)",
     "level": "-",
     "importinity": 1
@@ -345,7 +345,7 @@
     "id": "mn-12-039",
     "kanji": "少ない [人が〜]",
     "hiragana": "すくない＊ [ひとが〜]",
-    "romaji": "sukunai* [hitoga~]",
+    "romaji": "sukunai [hitoga~]",
     "meaning": "sedikit [orang]",
     "level": "N4",
     "importinity": 1
@@ -426,7 +426,7 @@
     "id": "mn-12-048",
     "kanji": "遅い",
     "hiragana": "おそい＊",
-    "romaji": "osoi*",
+    "romaji": "osoi",
     "meaning": "lambat",
     "level": "N3",
     "importinity": 1
@@ -453,7 +453,7 @@
     "id": "mn-12-051",
     "kanji": "豚肉",
     "hiragana": "ぶたにく＊",
-    "romaji": "butaniku*",
+    "romaji": "butaniku",
     "meaning": "daging babi",
     "level": "-",
     "importinity": 1
