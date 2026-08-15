@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/0ckzf_w-gf_h2.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap","style"]
+:HL["https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"bunpou","param":null,"prefetchHints":4192,"slots":{"children":{"name":"source","param":{"type":"d","key":"irodori-a1","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"chapter","param":{"type":"d","key":"bab05","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"iitv8xzOVftfAqkfCWDYI"}

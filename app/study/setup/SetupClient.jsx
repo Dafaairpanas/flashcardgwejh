@@ -85,14 +85,21 @@ function SetupContent({ initialCards, initialChapters }) {
 
   const [isDragging, setIsDragging] = React.useState(false);
   const [dragAction, setDragAction] = React.useState(null);
+  const [isMobileModalOpen, setIsMobileModalOpen] = React.useState(false);
+  const lastTouchedChRef = React.useRef(null);
 
   useEffect(() => {
     const handleMouseUp = () => {
       setIsDragging(false);
       setDragAction(null);
+      lastTouchedChRef.current = null;
     };
     window.addEventListener('mouseup', handleMouseUp);
-    return () => window.removeEventListener('mouseup', handleMouseUp);
+    window.addEventListener('touchend', handleMouseUp);
+    return () => {
+      window.removeEventListener('mouseup', handleMouseUp);
+      window.removeEventListener('touchend', handleMouseUp);
+    };
   }, []);
 
   const applySelection = (ch, action) => {
@@ -119,6 +126,32 @@ function SetupContent({ initialCards, initialChapters }) {
     applySelection(ch, dragAction);
   };
 
+  const handleTouchStart = (ch) => {
+    const currentSelected = useStore.getState().selectedChapters;
+    const isSelected = currentSelected.includes(ch);
+    const action = isSelected ? 'remove' : 'add';
+    setIsDragging(true);
+    setDragAction(action);
+    applySelection(ch, action);
+    lastTouchedChRef.current = ch;
+  };
+
+  const handleTouchMove = (e) => {
+    if (!isDragging) return;
+    const touch = e.touches[0];
+    const element = document.elementFromPoint(touch.clientX, touch.clientY);
+    if (element) {
+      const chapterChip = element.closest('.chapter-chip');
+      if (chapterChip) {
+        const ch = chapterChip.getAttribute('data-chapter');
+        if (ch && ch !== lastTouchedChRef.current) {
+          applySelection(ch, dragAction);
+          lastTouchedChRef.current = ch;
+        }
+      }
+    }
+  };
+
   const handleSelectAll = () => setSelectedChapters([...chaptersToDisplay]);
   const handleClearAll = () => setSelectedChapters([]);
   const handleStart = () => router.push('/study');
@@ -141,7 +174,7 @@ function SetupContent({ initialCards, initialChapters }) {
           <h1 className="nav-title" id="nav-menu-btn">AditFlashcard</h1>
         </a>
         <div className="navbar-actions">
-          <div style={{ display: 'flex', background: 'rgba(255,255,255,0.05)', borderRadius: '20px', padding: '4px', gap: '4px', marginRight: '8px' }}>
+          <div className="desktop-only" style={{ background: 'rgba(255,255,255,0.05)', borderRadius: '20px', padding: '4px', gap: '4px', marginRight: '8px' }}>
             <button 
               onClick={() => router.push('/study/setup?filter=minna')}
               style={{
@@ -201,8 +234,18 @@ function SetupContent({ initialCards, initialChapters }) {
       <main className="main-content">
         <div className="view setup-view active" id="setup-view">
           <div className="bento-container">
-            {/* Sidebar */}
-            <aside className="bento-sidebar">
+            {/* Sidebar (Acts as Modal on Mobile) */}
+            <aside className={`bento-sidebar ${isMobileModalOpen ? 'modal-active' : ''}`}>
+              {/* Mobile Close Button */}
+              <div className="mobile-modal-header" style={{ display: 'none', justifyContent: 'space-between', alignItems: 'center', marginBottom: '20px' }}>
+                <h2 style={{ margin: 0, fontSize: '1.5rem' }}>Pengaturan</h2>
+                <button className="btn btn-ghost btn-icon" onClick={() => setIsMobileModalOpen(false)}>
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" style={{width:'24px', height:'24px'}}>
+                    <line x1="18" y1="6" x2="6" y2="18"></line>
+                    <line x1="6" y1="6" x2="18" y2="18"></line>
+                  </svg>
+                </button>
+              </div>
               {/* Grade Filter */}
               <div className="bento-card bento-filter">
                 <div className="bento-header"><h3>Grade</h3></div>
@@ -237,11 +280,7 @@ function SetupContent({ initialCards, initialChapters }) {
               </div>
 
               <div className="bento-card bento-actions" style={{display: 'flex', flexDirection: 'column', gap: '16px', alignItems: 'center', justifyContent: 'center', padding: '20px'}}>
-                <div className="chapter-actions" style={{width: '100%'}}>
-                  <button className="btn btn-dark" onClick={handleSelectAll}>Select All</button>
-                  <button className="btn btn-dark" onClick={handleClearAll}>Clear</button>
-                </div>
-                <button className="btn btn-primary btn-start" onClick={handleStart} disabled={cards.length === 0}>
+                <button className="btn btn-primary btn-start" onClick={handleStart} disabled={cards.length === 0} style={{ width: '100%', padding: '16px', fontSize: '1.1rem' }}>
                   START SESSION
                   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{width:'16px', height:'16px', marginLeft:'8px'}}><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
                 </button>
@@ -250,6 +289,39 @@ function SetupContent({ initialCards, initialChapters }) {
 
             {/* Main Content */}
             <main className="bento-main">
+              {/* Library Toggle (Minna / Irodori) */}
+              <div className="mobile-only" style={{ background: 'rgba(255,255,255,0.05)', borderRadius: '20px', padding: '4px', gap: '4px', marginBottom: '16px', alignSelf: 'flex-start' }}>
+                <button 
+                  onClick={() => router.push('/study/setup?filter=minna')}
+                  style={{
+                    background: filter === 'minna' ? 'rgba(255,255,255,0.15)' : 'transparent',
+                    color: filter === 'minna' ? '#fff' : 'var(--text-secondary)',
+                    border: 'none',
+                    padding: '6px 20px',
+                    borderRadius: '16px',
+                    fontSize: '0.95rem',
+                    fontWeight: filter === 'minna' ? 600 : 400,
+                    cursor: 'pointer',
+                    transition: 'all 0.2s'
+                  }}>
+                  Minna
+                </button>
+                <button 
+                  onClick={() => router.push('/study/setup?filter=irodori')}
+                  style={{
+                    background: filter === 'irodori' ? 'rgba(255,255,255,0.15)' : 'transparent',
+                    color: filter === 'irodori' ? '#fff' : 'var(--text-secondary)',
+                    border: 'none',
+                    padding: '6px 20px',
+                    borderRadius: '16px',
+                    fontSize: '0.95rem',
+                    fontWeight: filter === 'irodori' ? 600 : 400,
+                    cursor: 'pointer',
+                    transition: 'all 0.2s'
+                  }}>
+                  Irodori
+                </button>
+              </div>
               <div className="bento-stats-row">
                 <div className="bento-card stat-item-card">
                   <div className="stat-value text-cyan">{stats.total}</div>
@@ -298,8 +370,12 @@ function SetupContent({ initialCards, initialChapters }) {
                               key={ch}
                               className={`chapter-chip ${isSelected ? 'selected' : ''}`}
                               title={`Utama: ${chStats.main} | Extra: ${chStats.extra}`}
+                              data-chapter={ch}
                               onMouseDown={() => handleMouseDown(ch)}
                               onMouseEnter={() => handleMouseEnter(ch)}
+                              onTouchStart={(e) => handleTouchStart(ch)}
+                              onTouchMove={handleTouchMove}
+                              style={{ touchAction: 'none' }}
                             >
                               {displayName}
                             </div>
@@ -309,6 +385,18 @@ function SetupContent({ initialCards, initialChapters }) {
                     </div>
                   ))}
                 </div>
+              </div>
+              
+              {/* Mobile Next Button */}
+              <div className="mobile-setup-bar" style={{ marginTop: '24px', position: 'sticky', bottom: '24px', zIndex: 10 }}>
+                <button 
+                  className="btn btn-primary" 
+                  style={{ width: '100%', padding: '16px', fontSize: '1.1rem', boxShadow: '0 10px 25px rgba(168, 85, 247, 0.4)' }}
+                  onClick={() => setIsMobileModalOpen(true)}
+                  disabled={selectedChapters.length === 0}
+                >
+                  LANJUT ({selectedChapters.length} Bab)
+                </button>
               </div>
             </main>
           </div>
