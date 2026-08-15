@@ -8,8 +8,19 @@ import { fsrs } from '../../../src/state';
 
 function SetupContent({ initialCards, initialChapters }) {
   const searchParams = useSearchParams();
-  const filter = searchParams.get('filter') || 'all'; // 'minna' | 'irodori' | 'all'
+  const urlFilter = searchParams.get('filter');
+  const [filter, setFilter] = React.useState('minna');
   const router = useRouter();
+
+  useEffect(() => {
+    const activeFilter = urlFilter || localStorage.getItem('gw_last_filter') || 'minna';
+    setFilter(activeFilter);
+    if (activeFilter !== urlFilter) {
+      router.replace(`/study/setup?filter=${activeFilter}`);
+    } else {
+      localStorage.setItem('gw_last_filter', activeFilter);
+    }
+  }, [urlFilter, router]);
 
   // Global State
   const chapters = useStore((state) => state.chapters);
@@ -87,12 +98,14 @@ function SetupContent({ initialCards, initialChapters }) {
   const [dragAction, setDragAction] = React.useState(null);
   const [isMobileModalOpen, setIsMobileModalOpen] = React.useState(false);
   const lastTouchedChRef = React.useRef(null);
+  const isTouchRef = React.useRef(false);
 
   useEffect(() => {
     const handleMouseUp = () => {
       setIsDragging(false);
       setDragAction(null);
       lastTouchedChRef.current = null;
+      setTimeout(() => { isTouchRef.current = false; }, 300);
     };
     window.addEventListener('mouseup', handleMouseUp);
     window.addEventListener('touchend', handleMouseUp);
@@ -113,6 +126,7 @@ function SetupContent({ initialCards, initialChapters }) {
   };
 
   const handleMouseDown = (ch) => {
+    if (isTouchRef.current) return;
     const currentSelected = useStore.getState().selectedChapters;
     const isSelected = currentSelected.includes(ch);
     const action = isSelected ? 'remove' : 'add';
@@ -127,6 +141,7 @@ function SetupContent({ initialCards, initialChapters }) {
   };
 
   const handleTouchStart = (ch) => {
+    isTouchRef.current = true;
     const currentSelected = useStore.getState().selectedChapters;
     const isSelected = currentSelected.includes(ch);
     const action = isSelected ? 'remove' : 'add';

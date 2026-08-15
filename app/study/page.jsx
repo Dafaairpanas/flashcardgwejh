@@ -59,7 +59,7 @@ export default function StudyView() {
     
     if (cards.length === 0) {
       alert('Tidak ada kartu! Kembali ke menu.');
-      router.push('/');
+      router.push('/study/setup');
       return;
     }
     
@@ -81,7 +81,7 @@ export default function StudyView() {
 
     if (studyQueue.length === 0) {
       alert('Semua kartu untuk hari ini sudah direview!');
-      router.push('/');
+      router.push('/study/setup');
       return;
     }
     
@@ -246,7 +246,7 @@ export default function StudyView() {
           </button>
           <button className="btn btn-ghost btn-sm" onClick={() => {
             fsrs.reset();
-            window.location.href = '/';
+            window.location.href = '/study/setup';
           }} title="Reset Progress">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{width: '14px', height: '14px', marginRight: '4px'}}>
               <path d="M3 2v6h6"></path>
@@ -282,7 +282,7 @@ export default function StudyView() {
               <span className="dot dot-due"></span>
               <span>Review: <strong id="study-due">{stats.dueCount}</strong></span>
             </div>
-            <button className="btn btn-ghost btn-sm" id="study-exit-btn" style={{ marginLeft: 'auto' }} onClick={() => router.push('/')}>Exit</button>
+            <button className="btn btn-ghost btn-sm" id="study-exit-btn" style={{ marginLeft: 'auto' }} onClick={() => router.push('/study/setup')}>Exit</button>
           </div>
 
           {/* Flashcard */}

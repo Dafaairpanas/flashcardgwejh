@@ -32,7 +32,7 @@ export default function HomePage() {
             
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: '20px', marginBottom: '40px' }}>
               
-              <Link href="/study/setup?filter=minna" className="bento-card" style={{ textDecoration: 'none', color: 'inherit', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '32px 16px', gap: '16px', transition: 'transform 0.2s, box-shadow 0.2s', cursor: 'pointer', textAlign: 'center', border: '1px solid rgba(255, 255, 255, 0.6)' }}>
+              <Link href="/study/setup" className="bento-card" style={{ textDecoration: 'none', color: 'inherit', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '32px 16px', gap: '16px', transition: 'transform 0.2s, box-shadow 0.2s', cursor: 'pointer', textAlign: 'center', border: '1px solid rgba(255, 255, 255, 0.6)' }}>
                 <div style={{ color: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', height: '64px', fontSize: '40px', fontWeight: '400', fontFamily: 'var(--font-jp)', letterSpacing: '2px' }}>
                   日本語
                 </div>
