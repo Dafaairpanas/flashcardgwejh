@@ -6,11 +6,13 @@ import { useStore } from '../../../src/store/useStore';
 import { initializeData, getChapterStats, chapterDisplayName, getCardsByChapters } from '../../../src/data';
 import { fsrs } from '../../../src/state';
 
-function SetupContent({ initialCards, initialChapters }) {
+function SetupContent() {
   const searchParams = useSearchParams();
   const urlFilter = searchParams.get('filter');
   const [filter, setFilter] = React.useState('minna');
   const router = useRouter();
+  
+  const [isLoading, setIsLoading] = React.useState(true);
 
   useEffect(() => {
     const activeFilter = urlFilter || localStorage.getItem('gw_last_filter') || 'minna';
@@ -42,14 +44,23 @@ function SetupContent({ initialCards, initialChapters }) {
   const setAllCards = useStore((state) => state.setAllCards);
   const setChapters = useStore((state) => state.setChapters);
 
-  // Initialize data from server-provided props
+  // Initialize data from API
   useEffect(() => {
-    if (initialCards && initialCards.length > 0) {
-      initializeData(initialCards);      // Populate module-level ALL_CARDS + localStorage cache
-      setAllCards(initialCards);          // Zustand store
-      setChapters(initialChapters);      // Zustand store
-    }
-  }, [initialCards, initialChapters, setAllCards, setChapters]);
+    fetch('/api/kotoba')
+      .then(res => res.json())
+      .then(data => {
+        if (data && data.cards) {
+          initializeData(data.cards);
+          setAllCards(data.cards);
+          setChapters(data.chapters);
+        }
+        setIsLoading(false);
+      })
+      .catch(err => {
+        console.error('Failed to fetch setup data', err);
+        setIsLoading(false);
+      });
+  }, [setAllCards, setChapters]);
 
   // Filter Chapters
   const chaptersToDisplay = useMemo(() => {
@@ -85,7 +96,9 @@ function SetupContent({ initialCards, initialChapters }) {
   }, [chaptersToDisplay, filter]);
 
   // Derived Stats
-  const cards = useMemo(() => getCardsByChapters(selectedChapters, selectedGrades, jlptFilter, studyMode), [selectedChapters, selectedGrades, jlptFilter, studyMode]);
+  const allCards = useStore((state) => state.allCards);
+  const cards = useMemo(() => getCardsByChapters(selectedChapters, selectedGrades, jlptFilter, studyMode), [selectedChapters, selectedGrades, jlptFilter, studyMode, allCards]);
+  
   const stats = useMemo(() => {
     try {
       return fsrs.getStats(cards);
@@ -175,6 +188,16 @@ function SetupContent({ initialCards, initialChapters }) {
     fsrs.reset();
     window.location.reload();
   };
+
+  if (isLoading) {
+    return (
+      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh', background: '#0a0a0b', color: 'var(--text-muted)' }}>
+        <div className="spinner" style={{ width: '32px', height: '32px', border: '3px solid rgba(255,255,255,0.1)', borderTopColor: '#fff', borderRadius: '50%', animation: 'spin 1s linear infinite' }}></div>
+        <span style={{ marginLeft: '12px', fontSize: '1.1rem' }}>Mempersiapkan Library...</span>
+        <style>{`@keyframes spin { to { transform: rotate(360deg); } }`}</style>
+      </div>
+    );
+  }
 
   return (
     <div id="app-container">
