@@ -3,7 +3,7 @@
    Clean Dark Mode, iOS Glassmorphism
    ============================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Klee+One&family=Noto+Sans+JP:wght@100..900&family=Zen+Maru+Gothic&display=swap');
+/* Fonts loaded via <link> in layout.jsx for better performance */
 
 /* ── CSS Variables ── */
 :root {
@@ -97,15 +97,18 @@ body {
   z-index: -1;
   overflow: hidden;
   background: var(--bg-primary);
-  /* Very subtle noise texture could go here if we had an image, but we stick to pure colors */
+  contain: strict;
+  pointer-events: none;
 }
 
 .orb {
   position: absolute;
   border-radius: 50%;
-  filter: blur(120px);
-  opacity: 0.15;
-  animation: float-orb 20s ease-in-out infinite alternate;
+  filter: blur(80px);
+  opacity: 0.12;
+  will-change: transform;
+  animation: float-orb 25s ease-in-out infinite alternate;
+  contain: layout style;
 }
 
 .orb-1 { width: 50vw; height: 50vw; background: var(--theme-c1, var(--accent-violet)); top: -20%; left: -10%; transition: background 10s ease-in-out; }
@@ -113,10 +116,26 @@ body {
 .orb-3 { width: 30vw; height: 30vw; background: var(--theme-glow, var(--accent-sakura)); top: 30%; left: 40%; animation-delay: -10s; transition: background 10s ease-in-out; }
 
 @keyframes float-orb {
-  0%, 100% { transform: translate(0, 0) scale(1); }
-  25% { transform: translate(30px, -20px) scale(1.05); }
-  50% { transform: translate(-10px, 30px) scale(0.95); }
-  75% { transform: translate(20px, 10px) scale(1.02); }
+  0%, 100% { transform: translate3d(0, 0, 0) scale(1); }
+  25% { transform: translate3d(30px, -20px, 0) scale(1.05); }
+  50% { transform: translate3d(-10px, 30px, 0) scale(0.95); }
+  75% { transform: translate3d(20px, 10px, 0) scale(1.02); }
+}
+
+/* ── Mobile Performance: reduce heavy GPU effects ── */
+@media (max-width: 768px) {
+  .orb {
+    filter: blur(60px);
+    opacity: 0.08;
+    animation-duration: 30s;
+  }
+  .orb-1 { width: 40vw; height: 40vw; }
+  .orb-2 { width: 30vw; height: 30vw; }
+  .orb-3 { width: 20vw; height: 20vw; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .orb { animation: none; }
 }
 
 /* ── App Container ── */
@@ -2431,4 +2450,29 @@ body {
 
 body.bg-streak-flash {
   animation: bg-streak-flash-anim 0.8s ease-out forwards;
+}
+
+/* ── MOBILE PERFORMANCE OVERRIDES ── */
+@media (max-width: 768px) {
+  /* Reduce backdrop-filter blur on mobile — biggest GPU saver */
+  .navbar {
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+  }
+  .bento-card {
+    backdrop-filter: blur(10px) saturate(120%);
+    -webkit-backdrop-filter: blur(10px) saturate(120%);
+  }
+  .floating-dock {
+    backdrop-filter: blur(10px) saturate(120%);
+    -webkit-backdrop-filter: blur(10px) saturate(120%);
+  }
+  .flashcard {
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+  }
+  /* Reduce box-shadow complexity */
+  .flashcard {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.4), inset 0 1px 0 rgba(255,255,255,0.08);
+  }
 }

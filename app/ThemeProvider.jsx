@@ -47,7 +47,7 @@ export default function ThemeProvider({ children }) {
       applyTheme(generateRandomTheme());
       interval = setInterval(() => {
         applyTheme(generateRandomTheme());
-      }, 10000);
+      }, 30000);
     }
 
     return () => {
