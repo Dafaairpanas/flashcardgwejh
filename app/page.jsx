@@ -27,7 +27,7 @@ export default function HomePage() {
                 </svg>
               </div> */}
               {/* <h2 className="page-title" style={{ fontSize: '2.5rem', marginBottom: '8px' }}>AditFlashcard</h2> */}
-              <p className="page-subtitle" style={{ fontSize: '1.1rem' }}>Pilih menu untuk mulai belajar</p>
+              <h2 className="page-subtitle" style={{ fontSize: '1.1rem', fontWeight: 400 }}>Pilih menu untuk mulai belajar</h2>
             </div>
             
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: '20px', marginBottom: '40px' }}>
