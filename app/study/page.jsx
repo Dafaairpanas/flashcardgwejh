@@ -39,6 +39,19 @@ export default function StudyView() {
   const totalReviewedRef = useRef(0);
   const isInitialized = useRef(false);
 
+  const speak = useCallback((text) => {
+    if (!soundEnabled) return;
+    const ut = new SpeechSynthesisUtterance(text);
+    ut.lang = 'ja-JP';
+    speechSynthesis.speak(ut);
+  }, [soundEnabled]);
+
+  const playAudio = useCallback(() => {
+    if (currentCard && studyMode !== 2) { // Mode 2 is Kanji
+      speak(currentCard.hiragana);
+    }
+  }, [currentCard, studyMode, speak]);
+
   useEffect(() => {
     if (isInitialized.current) return;
     
@@ -89,20 +102,12 @@ export default function StudyView() {
     setCurrentCard(studyQueue[0]);
     setStats(fsrs.getStats(cards));
     sessionStartTimeRef.current = Date.now();
-  }, [selectedChapters, selectedGrades, jlptFilter, studyMode, customCards, setCustomCards, router]);
 
-  const speak = useCallback((text) => {
-    if (!soundEnabled) return;
-    const ut = new SpeechSynthesisUtterance(text);
-    ut.lang = 'ja-JP';
-    speechSynthesis.speak(ut);
-  }, [soundEnabled]);
-
-  const playAudio = useCallback(() => {
-    if (currentCard && studyMode !== 2) { // Mode 2 is Kanji
-      speak(currentCard.hiragana);
+    // Play audio for the first card
+    if (soundEnabled && studyMode !== 2 && studyMode !== 3 && studyQueue[0]) {
+      setTimeout(() => speak(studyQueue[0].hiragana), 300);
     }
-  }, [currentCard, studyMode, speak]);
+  }, [selectedChapters, selectedGrades, jlptFilter, studyMode, customCards, setCustomCards, router, soundEnabled, speak]);
 
   const handleRating = useCallback((rating) => {
     if (!currentCard || animState) return;
@@ -172,8 +177,8 @@ export default function StudyView() {
           cardsUntilThemeChange.current = Math.floor(Math.random() * 5) + 8; // Reset to 8-12
         }
 
-        // Play audio automatically if mode is not 2
-        if (soundEnabled && studyMode !== 2 && newQueue[0]) {
+        // Play audio automatically if mode is not 2 (Kanji) and not 3 (Reverse)
+        if (soundEnabled && studyMode !== 2 && studyMode !== 3 && newQueue[0]) {
           setTimeout(() => speak(newQueue[0].hiragana), 100);
         }
       }
@@ -199,10 +204,14 @@ export default function StudyView() {
   useEffect(() => {
     if (showHint) {
       setTimeout(() => window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' }), 50);
+      // Play audio on flip for Kanji Mode
+      if (soundEnabled && studyMode === 2 && currentCard) {
+        speak(currentCard.hiragana);
+      }
     } else {
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
-  }, [showHint]);
+  }, [showHint, soundEnabled, studyMode, currentCard, speak]);
 
   useEffect(() => {
     // Override the global background theme when studying
@@ -327,13 +336,39 @@ export default function StudyView() {
                     </div>
                   </>
                 )}
+                {studyMode === 3 && (
+                  <div className="card-kanji" style={{ fontSize: '2rem', fontWeight: 600, color: 'var(--text-primary)' }}>
+                    {currentCard.meaning}
+                  </div>
+                )}
+                {studyMode === 4 && (
+                  <div className="card-kanji" style={{ opacity: 0.3, letterSpacing: '4px' }}>
+                    ••••
+                  </div>
+                )}
                 {/* Tap hint — hides smoothly when flipped */}
                 <div className={`card-tap-hint ${showHint ? 'fade-out' : ''}`}>TAP UNTUK MEMBALIK</div>
               </div>
               <div className={`flashcard-face flashcard-back ${!showHint ? 'hidden' : ''}`} id="card-back">
-                <div className="card-meaning">{currentCard.meaning}</div>
-                {(studyMode === 1 || studyMode === 2) && currentCard.hiragana && currentCard.hiragana !== 'Tidak ada bacaan' && currentCard.hiragana !== currentCard.kanji && (
-                  <div className="card-romaji">{currentCard.hiragana}</div>
+                {studyMode === 3 ? (
+                  <>
+                    <div className="card-furigana">{currentCard.hiragana}</div>
+                    {currentCard.kanji !== currentCard.hiragana ? (
+                      <div className="card-kanji" style={{ fontSize: '3.5rem' }}>{currentCard.kanji}</div>
+                    ) : (
+                      <div className="card-kanji" style={{ fontSize: '3.5rem' }}>{currentCard.hiragana}</div>
+                    )}
+                  </>
+                ) : (
+                  <>
+                    <div className="card-meaning">{currentCard.meaning}</div>
+                    {(studyMode === 1 || studyMode === 2 || studyMode === 4) && currentCard.hiragana && currentCard.hiragana !== 'Tidak ada bacaan' && currentCard.hiragana !== currentCard.kanji && (
+                      <div className="card-romaji">{currentCard.hiragana}</div>
+                    )}
+                    {studyMode === 4 && currentCard.kanji && (
+                      <div className="card-kanji" style={{ fontSize: '2rem', marginTop: '16px' }}>{currentCard.kanji}</div>
+                    )}
+                  </>
                 )}
               </div>
               {/* Single chapter tag — always visible, not duplicated */}
