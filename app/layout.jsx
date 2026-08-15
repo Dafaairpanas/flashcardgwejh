@@ -6,7 +6,7 @@ export const metadata = {
   title: 'AditFlashcard - Belajar Bahasa Jepang',
   description: 'Belajar kosakata dan kanji JLPT N5-N1 dengan sistem flashcard pintar.',
   verification: {
-    google: '6RglcD5-D7nm-fAud8uKBzEYK-dmWao0ht0FFcIVtyQ',
+    google: 'qrdarlNMiQu34nxabHCfjZm0ZXWYYFTBfswPviTrevQ',
   },
 };
 
