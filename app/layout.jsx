@@ -16,6 +16,16 @@ export default function RootLayout({ children }) {
     <html lang="id">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              try {
+                var font = localStorage.getItem('gw_jp_font') || '"Noto Sans JP", sans-serif';
+                document.documentElement.style.setProperty('--font-jp', font);
+              } catch (e) {}
+            `,
+          }}
+        />
       </head>
       <body>
         <FontProvider />
