@@ -1,0 +1,186 @@
+[
+{
+"id": "m_bab06_1",
+"chapter": "Bab 06",
+"source": "minna",
+"title": "名詞 を 動詞（他動詞）",
+"romajiTitle": "Meishi o Doushi (Tadoushi)",
+"meaning": "Objek dari Kata Kerja Transitif ditunjukkan oleh partikel を.",
+"formula": "Kata Benda + を + Kata Kerja",
+"examples": [
+{
+"jp": "ジュースを飲みます。",
+"romaji": "Juusu o nomimasu.",
+"id_translation": "Minum jus."
+}
+],
+"notes": "Partikel を hanya dipakai untuk menulis partikel saja, tidak digunakan pada kosakata umum.",
+"tags": ["N5", "Partikel", "Objek"]
+},
+{
+"id": "m_bab06_2",
+"chapter": "Bab 06",
+"source": "minna",
+"title": "名詞 を します",
+"romajiTitle": "Meishi o shimasu",
+"meaning": "Kata kerja します disertai Kata Benda secara luas sebagai objek. します mempunyai arti bahwa melakukan hal yang ditunjukan oleh objek tersebut (seperti olahraga, permainan, pertemuan, acara, dll).",
+"formula": "Kata Benda + を + します",
+"examples": [
+{
+"jp": "サッカーをします。",
+"romaji": "Sakka o shimasu.",
+"id_translation": "Bermain sepak bola."
+},
+{
+"jp": "パーティーをします。",
+"romaji": "Paatii o shimasu.",
+"id_translation": "Berpesta."
+},
+{
+"jp": "宿題をします。",
+"romaji": "Shukudai o shimasu.",
+"id_translation": "Membuat PR."
+}
+],
+"notes": "",
+"tags": ["N5", "Kata Kerja", "Aktivitas"]
+},
+{
+"id": "m_bab06_3",
+"chapter": "Bab 06",
+"source": "minna",
+"title": "何 を しますか",
+"romajiTitle": "Nani o shimasu ka",
+"meaning": "Ini adalah pertanyaan untuk menanyakan hal yang dilakukan (aktivitas).",
+"formula": "何 + を + しますか",
+"examples": [
+{
+"jp": "月曜日何をしますか。……京都へ行きます。",
+"romaji": "Getsuyoubi nani o shimasu ka. ......Kyouto e ikimasu.",
+"id_translation": "Hari Senin melakukan apa? ……Pergi ke Kyoto."
+},
+{
+"jp": "きのう何をしましたか。……サッカーをしました。",
+"romaji": "Kinou nani o shimashita ka. ......Sakkaa o shimashita.",
+"id_translation": "Kemarin melakukan apa? ……Bermain sepak bola."
+}
+],
+"notes": "",
+"tags": ["N5", "Kata Tanya", "Aktivitas"]
+},
+{
+"id": "m_bab06_4",
+"chapter": "Bab 06",
+"source": "minna",
+"title": "なん dan なに",
+"romajiTitle": "Nan dan Nani",
+"meaning": "なん dan なに mempunyai arti yang sama (apa). なん digunakan jika kata berikutnya diawali dengan baris た, だ, dan な, atau jika disertai Kata Bantu Bilangan. Selain itu menggunakan なに.",
+"formula": "なん / なに",
+"examples": [
+{
+"jp": "それは何ですか。",
+"romaji": "Sore wa nan desu ka.",
+"id_translation": "Itu apa?"
+},
+{
+"jp": "何の本ですか。",
+"romaji": "Nan no hon desu ka.",
+"id_translation": "Buku apa?"
+},
+{
+"jp": "寝るまえに、何と言いますか。",
+"romaji": "Neru mae ni, nan to iimasu ka.",
+"id_translation": "Sebelum tidur, mengucapkan apa?"
+},
+{
+"jp": "テレーザちゃんは何歳ですか。",
+"romaji": "Tereeza-chan wa nansai desu ka.",
+"id_translation": "Berapa usia Teresa?"
+},
+{
+"jp": "何を買いますか。",
+"romaji": "Nani o kaimasu ka.",
+"id_translation": "Mau membeli apa?"
+}
+],
+"notes": "なんで (nan de) selain untuk bertanya sarana, digunakan juga untuk menanyakan alasan. Adakalanya dikatakan なにで (nani de) jika ingin menunjukkan lebih jelas untuk menanyakan sarana/alat.",
+"tags": ["N5", "Kata Tanya", "Perbedaan Kosakata"]
+},
+{
+"id": "m_bab06_5",
+"chapter": "Bab 06",
+"source": "minna",
+"title": "名詞（場所）で 動詞",
+"romajiTitle": "Meishi (basho) de Doushi",
+"meaning": "Partikel で yang disertai Kata Benda tempat, berfungsi untuk menunjukkan tempat yang melakukan suatu aksi atau kejadian.",
+"formula": "Kata Benda (Tempat) + で + Kata Kerja",
+"examples": [
+{
+"jp": "駅で新聞を買います。",
+"romaji": "Eki de shinbun o kaimasu.",
+"id_translation": "Membeli surat kabar di stasiun."
+}
+],
+"notes": "",
+"tags": ["N5", "Partikel", "Penunjuk Tempat Aksi"]
+},
+{
+"id": "m_bab06_6",
+"chapter": "Bab 06",
+"source": "minna",
+"title": "動詞ませんか",
+"romajiTitle": "Doushimasen ka",
+"meaning": "Ekspresi untuk mengajak lawan bicara melakukan sesuatu.",
+"formula": "Kata Kerja (bentuk -masen) + か",
+"examples": [
+{
+"jp": "いっしょに京都へ行きませんか。……ええ、いいですね。",
+"romaji": "Issho ni Kyouto e ikimasen ka. ......Ee, ii desu ne.",
+"id_translation": "Bagaimana kita pergi ke Kyoto bersama-sama? ……Ya, bagus ya."
+}
+],
+"notes": "Kata Kerja ませんか lebih ditunjukkan perasaan yang menghormati keinginan lawan bicara dibandingkan dengan Kata Kerja ましょう.",
+"tags": ["N5", "Kata Kerja", "Ajakan"]
+},
+{
+"id": "m_bab06_7",
+"chapter": "Bab 06",
+"source": "minna",
+"title": "動詞ましょう",
+"romajiTitle": "Doushimashou",
+"meaning": "Ekspresi untuk mengusulkan secara aktif dan mengajak. Dipakai untuk menanggapi usulan atau ajakan secara aktif juga.",
+"formula": "Kata Kerja (bentuk -masu diganti -mashou)",
+"examples": [
+{
+"jp": "ちょっと休みましょう。",
+"romaji": "Chotto yasumimashou.",
+"id_translation": "Mari istirahat sebentar."
+},
+{
+"jp": "いっしょに昼ごはんを食べませんか。……ええ、食べましょう。",
+"romaji": "Issho ni hirugohan o tabemasen ka. ......Ee, tabemashou.",
+"id_translation": "Bagaimana kita makan siang bersama-sama? ……Ya, ayo kita makan."
+}
+],
+"notes": "",
+"tags": ["N5", "Kata Kerja", "Ajakan/Usulan"]
+},
+{
+"id": "m_bab06_8",
+"chapter": "Bab 06",
+"source": "minna",
+"title": "～か",
+"romajiTitle": "~ka",
+"meaning": "Menyatakan hal untuk mendapatkan informasi baru yang belum diketahui oleh lawan bicara sebelumnya, kemudian memahaminya (cara penggunaannya mirip dengan そうですか).",
+"formula": "Kata/Kalimat + か",
+"examples": [
+{
+"jp": "日曜日京都へ行きました。……京都ですか。いいですね。",
+"romaji": "Nichiyoubi Kyouto e ikimashita. ......Kyouto desu ka. Ii desu ne.",
+"id_translation": "Hari Minggu yang lalu pergi ke Kyoto. ……Kyoto? Bagus ya."
+}
+],
+"notes": "",
+"tags": ["N5", "Partikel", "Konfirmasi"]
+}
+]

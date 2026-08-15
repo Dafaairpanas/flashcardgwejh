@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "ir-a2-1-16-001",
+    "kanji": "顔",
+    "hiragana": "かお",
+    "romaji": "kao",
+    "meaning": "muka,  wajah",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-002",
+    "kanji": "体",
+    "hiragana": "からだ",
+    "romaji": "karada",
+    "meaning": "badan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-003",
+    "kanji": "頭",
+    "hiragana": "あたま",
+    "romaji": "atama",
+    "meaning": "kepala",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-004",
+    "kanji": "鼻",
+    "hiragana": "はな",
+    "romaji": "hana",
+    "meaning": "hidung",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-005",
+    "kanji": "歯",
+    "hiragana": "は",
+    "romaji": "ha",
+    "meaning": "gigi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-006",
+    "kanji": "首",
+    "hiragana": "くび",
+    "romaji": "kubi",
+    "meaning": "leher",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-007",
+    "kanji": "目",
+    "hiragana": "め",
+    "romaji": "me",
+    "meaning": "mata",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-008",
+    "kanji": "耳",
+    "hiragana": "みみ",
+    "romaji": "mimi",
+    "meaning": "telinga",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-009",
+    "kanji": "口",
+    "hiragana": "くち",
+    "romaji": "kuchi",
+    "meaning": "mulut",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-010",
+    "kanji": "肩",
+    "hiragana": "かた",
+    "romaji": "kata",
+    "meaning": "bahu",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-011",
+    "kanji": "胸",
+    "hiragana": "むね",
+    "romaji": "mune",
+    "meaning": "dada",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-012",
+    "kanji": "お腹",
+    "hiragana": "おなか",
+    "romaji": "onaka",
+    "meaning": "perut",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-013",
+    "kanji": "足",
+    "hiragana": "あし",
+    "romaji": "ashi",
+    "meaning": "kaki",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-014",
+    "kanji": "背中",
+    "hiragana": "せなか",
+    "romaji": "senaka",
+    "meaning": "punggung",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-015",
+    "kanji": "腰",
+    "hiragana": "こし",
+    "romaji": "koshi",
+    "meaning": "pinggang",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-016",
+    "kanji": "腕",
+    "hiragana": "うで",
+    "romaji": "ude",
+    "meaning": "lengan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-017",
+    "kanji": "手",
+    "hiragana": "て",
+    "romaji": "te",
+    "meaning": "tangan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-018",
+    "kanji": "指",
+    "hiragana": "ゆび",
+    "romaji": "yubi",
+    "meaning": "jari",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-019",
+    "kanji": "肩がこる",
+    "hiragana": "かたがこる",
+    "romaji": "katagakoru",
+    "meaning": "bahu kaku",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-020",
+    "kanji": "だるい",
+    "hiragana": "だるい",
+    "romaji": "darui",
+    "meaning": "lemas,  terlalu letih dan lesu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-021",
+    "kanji": "痛い",
+    "hiragana": "いたい",
+    "romaji": "itai",
+    "meaning": "sakit",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-022",
+    "kanji": "胃",
+    "hiragana": "い",
+    "romaji": "i",
+    "meaning": "lambung",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-023",
+    "kanji": "調子が悪い",
+    "hiragana": "ちょうしがわるい",
+    "romaji": "choushigawarui",
+    "meaning": "dalam kondisi tidak baik",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-024",
+    "kanji": "二日酔い",
+    "hiragana": "ふつかよい",
+    "romaji": "futsukayoi",
+    "meaning": "keadaan tidak nyaman setelah bangun tidur, akibat terlalu banyak mengonsumsi minuman beralkohol",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-025",
+    "kanji": "眠れない",
+    "hiragana": "ねむれない",
+    "romaji": "nemurenai",
+    "meaning": "tidak bisa tidur",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-026",
+    "kanji": "お風呂に入る",
+    "hiragana": "おふろにはいる",
+    "romaji": "ofuronihairu",
+    "meaning": "mandi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-027",
+    "kanji": "温める",
+    "hiragana": "あたためる",
+    "romaji": "atatameru",
+    "meaning": "menghangatkan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-028",
+    "kanji": "暖かい",
+    "hiragana": "あたたかい",
+    "romaji": "atatakai",
+    "meaning": "hangat",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-029",
+    "kanji": "飲む",
+    "hiragana": "のむ",
+    "romaji": "nomu",
+    "meaning": "minum",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-030",
+    "kanji": "マッサージする",
+    "hiragana": "マッサージする",
+    "romaji": "massaajisuru",
+    "meaning": "memijat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-031",
+    "kanji": "薬",
+    "hiragana": "くすり",
+    "romaji": "kusuri",
+    "meaning": "obat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-032",
+    "kanji": "飲む（薬を飲む）",
+    "hiragana": "のむ（くすりをのむ）",
+    "romaji": "nomu(kusuriwonomu)",
+    "meaning": "minum (minum obat)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-033",
+    "kanji": "最近",
+    "hiragana": "さいきん",
+    "romaji": "saikin",
+    "meaning": "akhir-akhir ini",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-034",
+    "kanji": "ぬるい",
+    "hiragana": "ぬるい",
+    "romaji": "nurui",
+    "meaning": "hangat,  suam kuku",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-035",
+    "kanji": "試す",
+    "hiragana": "ためす",
+    "romaji": "tamesu",
+    "meaning": "mencoba",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-036",
+    "kanji": "飲みすぎる",
+    "hiragana": "のみすぎる",
+    "romaji": "nomisugiru",
+    "meaning": "terlalu banyak minum,  kebanyakan minum",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-037",
+    "kanji": "けっこう",
+    "hiragana": "けっこう",
+    "romaji": "kekkou",
+    "meaning": "cukup",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-038",
+    "kanji": "それはいけませんね",
+    "hiragana": "それはいけませんね",
+    "romaji": "sorehaikemasenne",
+    "meaning": "Itu tidak baik.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-039",
+    "kanji": "どうしていますか",
+    "hiragana": "どうしていますか",
+    "romaji": "doushiteimasuka",
+    "meaning": "Bagaimana menanganinya?",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-040",
+    "kanji": "疲れている",
+    "hiragana": "つかれている",
+    "romaji": "tsukareteiru",
+    "meaning": "lelah",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-041",
+    "kanji": "寝不足",
+    "hiragana": "ねぶそく",
+    "romaji": "nebusoku",
+    "meaning": "kurang tidur",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-042",
+    "kanji": "健康",
+    "hiragana": "けんこう",
+    "romaji": "kenkou",
+    "meaning": "kesehatan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-043",
+    "kanji": "運動",
+    "hiragana": "うんどう",
+    "romaji": "undou",
+    "meaning": "olahraga",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-044",
+    "kanji": "ジム",
+    "hiragana": "ジム",
+    "romaji": "jimu",
+    "meaning": "gymnasium,  pusat latihan kebugaran",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-045",
+    "kanji": "ジョギングする",
+    "hiragana": "ジョギングする",
+    "romaji": "jogingusuru",
+    "meaning": "joging",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-046",
+    "kanji": "走る",
+    "hiragana": "はしる",
+    "romaji": "hashiru",
+    "meaning": "lari,  berlari",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-047",
+    "kanji": "ウォーキングする",
+    "hiragana": "ウォーキングする",
+    "romaji": "uookingusuru",
+    "meaning": "jalan santai,  walking",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-048",
+    "kanji": "歩く",
+    "hiragana": "あるく",
+    "romaji": "aruku",
+    "meaning": "berjalan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-049",
+    "kanji": "プール",
+    "hiragana": "プール",
+    "romaji": "puuru",
+    "meaning": "kolam renang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-050",
+    "kanji": "泳ぐ",
+    "hiragana": "およぐ",
+    "romaji": "oyogu",
+    "meaning": "berenang",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-051",
+    "kanji": "ヨガ",
+    "hiragana": "ヨガ",
+    "romaji": "yoga",
+    "meaning": "yoga",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-052",
+    "kanji": "食生活",
+    "hiragana": "しょくせいかつ",
+    "romaji": "shokuseikatsu",
+    "meaning": "kebiasaan dalam mengonsumsi makanan atau minuman",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-053",
+    "kanji": "食べすぎる",
+    "hiragana": "たべすぎる",
+    "romaji": "tabesugiru",
+    "meaning": "terlalu banyak makan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-054",
+    "kanji": "睡眠",
+    "hiragana": "すいみん",
+    "romaji": "suimin",
+    "meaning": "tidur",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-055",
+    "kanji": "早く",
+    "hiragana": "はやく",
+    "romaji": "hayaku",
+    "meaning": "cepat,  awal",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-056",
+    "kanji": "起きる",
+    "hiragana": "おきる",
+    "romaji": "okiru",
+    "meaning": "bangun",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-057",
+    "kanji": "だいたい",
+    "hiragana": "だいたい",
+    "romaji": "daitai",
+    "meaning": "kira-kira",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-058",
+    "kanji": "チキンサラダ",
+    "hiragana": "チキンサラダ",
+    "romaji": "chikinsarada",
+    "meaning": "selada ayam",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-059",
+    "kanji": "トマトジュース",
+    "hiragana": "トマトジュース",
+    "romaji": "tomatojuusu",
+    "meaning": "jus tomat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-060",
+    "kanji": "ダイエットする",
+    "hiragana": "ダイエットする",
+    "romaji": "daiettosuru",
+    "meaning": "melakukan diet",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-061",
+    "kanji": "気をつける",
+    "hiragana": "きをつける",
+    "romaji": "kiwotsukeru",
+    "meaning": "berhati-hati,  memperhatikan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-062",
+    "kanji": "なるほど",
+    "hiragana": "なるほど",
+    "romaji": "naruhodo",
+    "meaning": "Oh, begitu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-063",
+    "kanji": "ノロウイルス",
+    "hiragana": "ノロウイルス",
+    "romaji": "norouirusu",
+    "meaning": "norovirus",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-064",
+    "kanji": "食中毒",
+    "hiragana": "しょくちゅうどく",
+    "romaji": "shokuchuudoku",
+    "meaning": "keracunan makanan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-065",
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "romaji": "gen'in",
+    "meaning": "penyebab",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-066",
+    "kanji": "症状",
+    "hiragana": "しょうじょう",
+    "romaji": "shoujou",
+    "meaning": "gejala penyakit",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-067",
+    "kanji": "予防法",
+    "hiragana": "よぼうほう",
+    "romaji": "yobouhou",
+    "meaning": "cara pencegahan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-068",
+    "kanji": "腹痛",
+    "hiragana": "ふくつう",
+    "romaji": "fukutsuu",
+    "meaning": "sakit perut",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-069",
+    "kanji": "おう吐",
+    "hiragana": "おうと",
+    "romaji": "outo",
+    "meaning": "muntah",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-070",
+    "kanji": "下痢",
+    "hiragana": "げり",
+    "romaji": "geri",
+    "meaning": "diare",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-071",
+    "kanji": "手洗い",
+    "hiragana": "てあらい",
+    "romaji": "tearai",
+    "meaning": "cuci tangan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-072",
+    "kanji": "加熱する",
+    "hiragana": "かねつする",
+    "romaji": "kanetsusuru",
+    "meaning": "memanaskan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-073",
+    "kanji": "増える",
+    "hiragana": "ふえる",
+    "romaji": "fueru",
+    "meaning": "bertambah",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-074",
+    "kanji": "発生する",
+    "hiragana": "はっせいする",
+    "romaji": "hasseisuru",
+    "meaning": "muncul,  terjadi",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-075",
+    "kanji": "貝",
+    "hiragana": "かい",
+    "romaji": "kai",
+    "meaning": "kerang",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-076",
+    "kanji": "感染する",
+    "hiragana": "かんせんする",
+    "romaji": "kansensuru",
+    "meaning": "terinfeksi,  tertular",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-077",
+    "kanji": "調理する",
+    "hiragana": "ちょうりする",
+    "romaji": "chourisuru",
+    "meaning": "memasak",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-078",
+    "kanji": "予防する",
+    "hiragana": "よぼうする",
+    "romaji": "yobousuru",
+    "meaning": "mencegah",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-079",
+    "kanji": "急増",
+    "hiragana": "きゅうぞう",
+    "romaji": "kyuuzou",
+    "meaning": "bertambah dengan cepat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-080",
+    "kanji": "県内",
+    "hiragana": "けんない",
+    "romaji": "kennai",
+    "meaning": "dalam prefektur",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-081",
+    "kanji": "話題",
+    "hiragana": "わだい",
+    "romaji": "wadai",
+    "meaning": "topik",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-082",
+    "kanji": "汚染された",
+    "hiragana": "おせんされた",
+    "romaji": "osensareta",
+    "meaning": "terkontaminasi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-083",
+    "kanji": "カキ",
+    "hiragana": "カキ",
+    "romaji": "kaki",
+    "meaning": "tiram",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-084",
+    "kanji": "十分に",
+    "hiragana": "じゅうぶんに",
+    "romaji": "juubunni",
+    "meaning": "dengan cukup",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-085",
+    "kanji": "ウイルス",
+    "hiragana": "ウイルス",
+    "romaji": "uirusu",
+    "meaning": "virus",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-086",
+    "kanji": "つく",
+    "hiragana": "つく",
+    "romaji": "tsuku",
+    "meaning": "menempel,  terkontaminasi (virus)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-087",
+    "kanji": "起こす",
+    "hiragana": "おこす",
+    "romaji": "okosu",
+    "meaning": "menyebabkan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-088",
+    "kanji": "どうしたら",
+    "hiragana": "どうしたら",
+    "romaji": "doushitara",
+    "meaning": "bagaimana",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-089",
+    "kanji": "ポイント",
+    "hiragana": "ポイント",
+    "romaji": "pointo",
+    "meaning": "poin,  hal-hal penting",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-090",
+    "kanji": "十分な",
+    "hiragana": "じゅうぶんな",
+    "romaji": "juubunna",
+    "meaning": "cukup",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-091",
+    "kanji": "食事前",
+    "hiragana": "しょくじまえ",
+    "romaji": "shokujimae",
+    "meaning": "sebelum makan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-092",
+    "kanji": "前後",
+    "hiragana": "ぜんご",
+    "romaji": "zengo",
+    "meaning": "sebelum dan sesudah",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-093",
+    "kanji": "洗う",
+    "hiragana": "あらう",
+    "romaji": "arau",
+    "meaning": "mencuci",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-094",
+    "kanji": "中心部",
+    "hiragana": "ちゅうしんぶ",
+    "romaji": "chuushinbu",
+    "meaning": "bagian dalam,  inti,  pusat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-095",
+    "kanji": "うつす",
+    "hiragana": "うつす",
+    "romaji": "utsusu",
+    "meaning": "menularkan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-096",
+    "kanji": "マスク",
+    "hiragana": "マスク",
+    "romaji": "masuku",
+    "meaning": "masker",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-097",
+    "kanji": "うがい",
+    "hiragana": "うがい",
+    "romaji": "ugai",
+    "meaning": "berkumur,  kumur-kumur",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-098",
+    "kanji": "予防接種",
+    "hiragana": "よぼうせっしゅ",
+    "romaji": "yobousesshu",
+    "meaning": "vaksinasi",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-099",
+    "kanji": "発熱",
+    "hiragana": "はつねつ",
+    "romaji": "hatsunetsu",
+    "meaning": "demam",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-100",
+    "kanji": "全身",
+    "hiragana": "ぜんしん",
+    "romaji": "zenshin",
+    "meaning": "seluruh badan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-101",
+    "kanji": "だるさ",
+    "hiragana": "だるさ",
+    "romaji": "darusa",
+    "meaning": "kelelahan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-102",
+    "kanji": "関節痛",
+    "hiragana": "かんせつつう",
+    "romaji": "kansetsutsuu",
+    "meaning": "sakit pada persendian,  nyeri sendi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-103",
+    "kanji": "痛み",
+    "hiragana": "いたみ",
+    "romaji": "itami",
+    "meaning": "sakit",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-104",
+    "kanji": "気持ち",
+    "hiragana": "きもち",
+    "romaji": "kimochi",
+    "meaning": "sikap,  perasaan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-105",
+    "kanji": "大切な",
+    "hiragana": "たいせつな",
+    "romaji": "taisetsuna",
+    "meaning": "penting",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-106",
+    "kanji": "こまめに",
+    "hiragana": "こまめに",
+    "romaji": "komameni",
+    "meaning": "sering",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-107",
+    "kanji": "しっかりと",
+    "hiragana": "しっかりと",
+    "romaji": "shikkarito",
+    "meaning": "dengan tepat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-108",
+    "kanji": "外出先",
+    "hiragana": "がいしゅつさき",
+    "romaji": "gaishutsusaki",
+    "meaning": "tempat yang dikunjungi saat keluar rumah",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-109",
+    "kanji": "帰宅する",
+    "hiragana": "きたくする",
+    "romaji": "kitakusuru",
+    "meaning": "pulang ke rumah",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-110",
+    "kanji": "流行する",
+    "hiragana": "りゅうこうする",
+    "romaji": "ryuukousuru",
+    "meaning": "mewabah (cth : mewabahnya influenza)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-111",
+    "kanji": "受ける",
+    "hiragana": "うける",
+    "romaji": "ukeru",
+    "meaning": "menerima",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-112",
+    "kanji": "予約",
+    "hiragana": "よやく",
+    "romaji": "yoyaku",
+    "meaning": "memesan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-113",
+    "kanji": "受付中",
+    "hiragana": "うけつけちゅう",
+    "romaji": "uketsukechuu",
+    "meaning": "sedang menerima,  melayani",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-16-114",
+    "kanji": "クリニック",
+    "hiragana": "クリニック",
+    "romaji": "kurinikku",
+    "meaning": "klinik",
+    "level": "-",
+    "isExtra": false
+  }
+]

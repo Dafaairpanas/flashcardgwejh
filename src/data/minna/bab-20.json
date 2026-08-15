@@ -1,0 +1,200 @@
+[
+  {
+    "id": "mn-20-001",
+    "kanji": "〜けど",
+    "hiragana": "〜けど",
+    "romaji": "~kedo",
+    "meaning": "〜 tetapi (ungkapan informal dari が)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-002",
+    "kanji": "〜君",
+    "hiragana": "〜くん",
+    "romaji": "~kun",
+    "meaning": "Sdr. 〜 (bentuk informal untuk さん, digunakan terhadap orang yang setaraf atau di bawah si pembicara, sering digunakan untuk nama anak laki-laki)",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-003",
+    "kanji": "あっち＊",
+    "hiragana": "あっち＊",
+    "romaji": "atchi*",
+    "meaning": "sana (ungkapan informal dari kata あちら)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-004",
+    "kanji": "いろいろ",
+    "hiragana": "いろいろ",
+    "romaji": "iroiro",
+    "meaning": "macam-macam",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-005",
+    "kanji": "ううん",
+    "hiragana": "ううん",
+    "romaji": "uun",
+    "meaning": "tidak, bukan (bentuk informal dari いいえ)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-006",
+    "kanji": "うん",
+    "hiragana": "うん",
+    "romaji": "un",
+    "meaning": "ya (bentuk informal dari はい)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-007",
+    "kanji": "おなかが いっぱいです",
+    "hiragana": "おなかが いっぱいです",
+    "romaji": "onakaga ippaidesu",
+    "meaning": "sudah kenyang",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-008",
+    "kanji": "こっち＊",
+    "hiragana": "こっち＊",
+    "romaji": "kotchi*",
+    "meaning": "sini (ungkapan informal dari kata こちら)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-009",
+    "kanji": "ことば",
+    "hiragana": "ことば",
+    "romaji": "kotoba",
+    "meaning": "kata, bahasa",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-010",
+    "kanji": "そっち",
+    "hiragana": "そっち",
+    "romaji": "sotchi",
+    "meaning": "situ (ungkapan informal dari kata そちら)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-011",
+    "kanji": "どっち",
+    "hiragana": "どっち",
+    "romaji": "dotchi",
+    "meaning": "mana (ungkapan informal untuk kata どちら)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-012",
+    "kanji": "ビザ",
+    "hiragana": "ビザ",
+    "romaji": "biza",
+    "meaning": "VISA",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-013",
+    "kanji": "みんなで",
+    "hiragana": "みんなで",
+    "romaji": "minnade",
+    "meaning": "kita semua, kita sama-sama",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-014",
+    "kanji": "よかったら",
+    "hiragana": "よかったら",
+    "romaji": "yokattara",
+    "meaning": "kalau mau, kalau suka",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-015",
+    "kanji": "君",
+    "hiragana": "きみ＊",
+    "romaji": "kimi*",
+    "meaning": "kamu (bentuk informal untuk あなた, digunakan terhadap orang yang setaraf atau di bawah si pembicara)",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-016",
+    "kanji": "修理します",
+    "hiragana": "しゅうりしますⅢ",
+    "romaji": "shuurishimasuⅢ",
+    "meaning": "memperbaiki",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-017",
+    "kanji": "終わり",
+    "hiragana": "おわり",
+    "romaji": "owari",
+    "meaning": "akhir",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-018",
+    "kanji": "初め",
+    "hiragana": "はじめ",
+    "romaji": "hajime",
+    "meaning": "awal, mula-mula",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-019",
+    "kanji": "着物",
+    "hiragana": "きもの",
+    "romaji": "kimono",
+    "meaning": "kimono (pakaian tradisional Jepang)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-020",
+    "kanji": "調べます",
+    "hiragana": "しらべますⅡ",
+    "romaji": "shirabemasuⅡ",
+    "meaning": "memeriksa, meneliti, mengecek",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-021",
+    "kanji": "僕",
+    "hiragana": "ぼく",
+    "romaji": "boku",
+    "meaning": "aku (dipakai oleh laki-laki, kata ganti informal dari わたし)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-20-022",
+    "kanji": "要ります",
+    "hiragana": "いりますⅠ [ビザが〜]",
+    "romaji": "irimasuⅠ [bizaga~]",
+    "meaning": "memerlukan [VISA]",
+    "level": "N3",
+    "importinity": 1
+  }
+]

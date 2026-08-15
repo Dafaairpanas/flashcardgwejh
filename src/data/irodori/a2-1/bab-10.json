@@ -1,0 +1,632 @@
+[
+  {
+    "id": "ir-a2-1-10-001",
+    "kanji": "曜日",
+    "hiragana": "ようび",
+    "romaji": "youbi",
+    "meaning": "hari",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-002",
+    "kanji": "時間",
+    "hiragana": "じかん",
+    "romaji": "jikan",
+    "meaning": "waktu,  jam",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-003",
+    "kanji": "費用",
+    "hiragana": "ひよう",
+    "romaji": "hiyou",
+    "meaning": "biaya",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-004",
+    "kanji": "毎月",
+    "hiragana": "まいつき",
+    "romaji": "maitsuki",
+    "meaning": "setiap bulan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-005",
+    "kanji": "第～（第3木曜日）",
+    "hiragana": "だい～（だいさんもしょくようび）",
+    "romaji": "dai~(daisanmoshokuyoubi)",
+    "meaning": "ke-～ (menyatakan urutan ke-1, ke-2, ke-3 dan seterusnya. Misalnya : hari Kamis ke-3 (ketiga) setiap bulannya)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-006",
+    "kanji": "公民館",
+    "hiragana": "こうみんかん",
+    "romaji": "kouminkan",
+    "meaning": "balai kegiatan publik",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-007",
+    "kanji": "問い合わせ",
+    "hiragana": "といあわせ",
+    "romaji": "toiawase",
+    "meaning": "informasi lebih lanjut",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-008",
+    "kanji": "スタート（10月スタート）",
+    "hiragana": "スタート（じゅうがつスタート）",
+    "romaji": "sutaato(juugatsusutaato)",
+    "meaning": "mulai (mulai bulan Oktober)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-009",
+    "kanji": "旬",
+    "hiragana": "しゅん",
+    "romaji": "shun",
+    "meaning": "masakan,  makanan musiman",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-010",
+    "kanji": "味わう",
+    "hiragana": "あじわう",
+    "romaji": "ajiwau",
+    "meaning": "merasakan,  mencicipi",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-011",
+    "kanji": "全～回（全4回）",
+    "hiragana": "ぜん～かい（ぜんよんかい）",
+    "romaji": "zen~kai(zenyonkai)",
+    "meaning": "total sebanyak ～ kali (total sebanyak 4 kali)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-012",
+    "kanji": "調理室",
+    "hiragana": "ちょうりしつ",
+    "romaji": "chourishitsu",
+    "meaning": "dapur",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-013",
+    "kanji": "各",
+    "hiragana": "かく",
+    "romaji": "kaku",
+    "meaning": "setiap,  masing-masing",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-014",
+    "kanji": "先着",
+    "hiragana": "せんちゃく",
+    "romaji": "senchaku",
+    "meaning": "pendaftaran dengan prinsip sesuai urutan waktu daftar,  pendaftar yang lebih dulu akan mendapatkan tempat",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-015",
+    "kanji": "書道",
+    "hiragana": "しょどう",
+    "romaji": "shodou",
+    "meaning": "kaligrafi Jepang",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-016",
+    "kanji": "日時",
+    "hiragana": "にちじ",
+    "romaji": "nichiji",
+    "meaning": "tanggal, hari dan waktu",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-017",
+    "kanji": "～代（テキスト代）",
+    "hiragana": "～だい（テキストだい）",
+    "romaji": "~dai(tekisutodai)",
+    "meaning": "biaya～ (biaya buku)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-018",
+    "kanji": "外国人向け",
+    "hiragana": "がいこくじんむけ",
+    "romaji": "gaikokujinmuke",
+    "meaning": "bagi orang asing",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-019",
+    "kanji": "体験教室",
+    "hiragana": "たいけんきょうしつ",
+    "romaji": "taikenkyoushitsu",
+    "meaning": "kelas percobaan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-020",
+    "kanji": "身につける",
+    "hiragana": "みにつける",
+    "romaji": "minitsukeru",
+    "meaning": "mempelajari",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-021",
+    "kanji": "月",
+    "hiragana": "つき",
+    "romaji": "tsuki",
+    "meaning": "bulan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-022",
+    "kanji": "テキスト",
+    "hiragana": "テキスト",
+    "romaji": "tekisuto",
+    "meaning": "buku pelajaran",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-023",
+    "kanji": "道具",
+    "hiragana": "どうぐ",
+    "romaji": "dougu",
+    "meaning": "alat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-024",
+    "kanji": "各自",
+    "hiragana": "かくじ",
+    "romaji": "kakuji",
+    "meaning": "setiap orang,  masing-masing orang",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-025",
+    "kanji": "見学",
+    "hiragana": "けんがく",
+    "romaji": "kengaku",
+    "meaning": "pengamatan,  observasi",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-026",
+    "kanji": "申し込み",
+    "hiragana": "もうしこみ",
+    "romaji": "moushikomi",
+    "meaning": "pendaftaran",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-027",
+    "kanji": "お持ちください",
+    "hiragana": "おもちください",
+    "romaji": "omochikudasai",
+    "meaning": "Silakan membawa～。 (ungkapan bentuk sopan)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-028",
+    "kanji": "参加されています",
+    "hiragana": "さんかされています",
+    "romaji": "sankasareteimasu",
+    "meaning": "~ikut serta,  berpartisipasi (ungkapan bentuk sopan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-029",
+    "kanji": "いらしてください",
+    "hiragana": "いらしてください",
+    "romaji": "irashitekudasai",
+    "meaning": "Silakan datang. (ungkapan bentuk sopan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-030",
+    "kanji": "かかる",
+    "hiragana": "かかる",
+    "romaji": "kakaru",
+    "meaning": "dikenakan (biaya)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-031",
+    "kanji": "合気道",
+    "hiragana": "あいきどう",
+    "romaji": "aikidou",
+    "meaning": "Aikido",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-032",
+    "kanji": "～回完結（1回完結）",
+    "hiragana": "～かいかんけつ（いっかいかんけつ）",
+    "romaji": "~kaikanketsu(ikkaikanketsu)",
+    "meaning": "selesai dalam ～ pertemuan (contoh : selesai dalam 1 kali pertemuan)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-033",
+    "kanji": "体育室",
+    "hiragana": "たいいくしつ",
+    "romaji": "taiikushitsu",
+    "meaning": "ruang olahraga",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-034",
+    "kanji": "動きやすい",
+    "hiragana": "うごきやすい",
+    "romaji": "ugokiyasui",
+    "meaning": "mudah untuk bergerak",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-035",
+    "kanji": "道着",
+    "hiragana": "どうぎ",
+    "romaji": "dougi",
+    "meaning": "dougi (seragam olahraga bela diri)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-036",
+    "kanji": "かまいません",
+    "hiragana": "かまいません",
+    "romaji": "kamaimasen",
+    "meaning": "tidak apa-apa",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-037",
+    "kanji": "必要ありません",
+    "hiragana": "ひつようありません",
+    "romaji": "hitsuyouarimasen",
+    "meaning": "tidak perlu",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-038",
+    "kanji": "道具",
+    "hiragana": "どうぐ",
+    "romaji": "dougu",
+    "meaning": "alat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-039",
+    "kanji": "参加する",
+    "hiragana": "さんかする",
+    "romaji": "sankasuru",
+    "meaning": "ikut serta,  berpartisipasi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-040",
+    "kanji": "クラス",
+    "hiragana": "クラス",
+    "romaji": "kurasu",
+    "meaning": "kelas,  kursus",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-041",
+    "kanji": "必要（な）",
+    "hiragana": "ひつよう（な）",
+    "romaji": "hitsuyou(na)",
+    "meaning": "perlu",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-042",
+    "kanji": "最初",
+    "hiragana": "さいしょ",
+    "romaji": "saisho",
+    "meaning": "awalnya",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-043",
+    "kanji": "あとは",
+    "hiragana": "あとは",
+    "romaji": "atoha",
+    "meaning": "setelah itu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-044",
+    "kanji": "聞く",
+    "hiragana": "きく",
+    "romaji": "kiku",
+    "meaning": "bertanya,  menanyakan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-045",
+    "kanji": "まだ空いていますか？",
+    "hiragana": "まだあいていますか？",
+    "romaji": "madaaiteimasuka？",
+    "meaning": "Apakah masih ada tempat?",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-046",
+    "kanji": "払う",
+    "hiragana": "はらう",
+    "romaji": "harau",
+    "meaning": "membayar",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-047",
+    "kanji": "もういっぱいです",
+    "hiragana": "もういっぱいです",
+    "romaji": "mouippaidesu",
+    "meaning": "Sudah penuh",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-048",
+    "kanji": "少々お待ちください",
+    "hiragana": "しょうしょうおまちください",
+    "romaji": "shoushouomachikudasai",
+    "meaning": "Mohon menunggu sebentar",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-049",
+    "kanji": "興味がある",
+    "hiragana": "きょうみがある",
+    "romaji": "kyoumigaaru",
+    "meaning": "tertarik",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-050",
+    "kanji": "それとも",
+    "hiragana": "それとも",
+    "romaji": "soretomo",
+    "meaning": "atau",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-051",
+    "kanji": "コース",
+    "hiragana": "コース",
+    "romaji": "koosu",
+    "meaning": "kursus,  program",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-052",
+    "kanji": "全部",
+    "hiragana": "ぜんぶ",
+    "romaji": "zenbu",
+    "meaning": "semua",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-053",
+    "kanji": "用意する",
+    "hiragana": "よういする",
+    "romaji": "youisuru",
+    "meaning": "menyediakan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-054",
+    "kanji": "もっと",
+    "hiragana": "もっと",
+    "romaji": "motto",
+    "meaning": "lebih",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-055",
+    "kanji": "週",
+    "hiragana": "しゅう",
+    "romaji": "shuu",
+    "meaning": "pekan,  minggu",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-056",
+    "kanji": "何回",
+    "hiragana": "なんかい",
+    "romaji": "nankai",
+    "meaning": "berapa kali",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-057",
+    "kanji": "～回（1回）",
+    "hiragana": "～かい（いっかい）",
+    "romaji": "~kai(ikkai)",
+    "meaning": "～ kali (satu kali)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-058",
+    "kanji": "ただ",
+    "hiragana": "ただ",
+    "romaji": "tada",
+    "meaning": "gratis",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-059",
+    "kanji": "チラシ",
+    "hiragana": "チラシ",
+    "romaji": "chirashi",
+    "meaning": "selebaran",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-060",
+    "kanji": "持って来る",
+    "hiragana": "もってくる",
+    "romaji": "mottekuru",
+    "meaning": "membawakan,  membawa",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-061",
+    "kanji": "ちょっといいですか？",
+    "hiragana": "ちょっといいですか？",
+    "romaji": "chottoiidesuka？",
+    "meaning": "Bisa minta waktu sebentar?",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-062",
+    "kanji": "きびしい",
+    "hiragana": "きびしい",
+    "romaji": "kibishii",
+    "meaning": "tegas,  ketat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-063",
+    "kanji": "申込書",
+    "hiragana": "もうしこみしょ",
+    "romaji": "moushikomisho",
+    "meaning": "formulir pendaftaran",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-064",
+    "kanji": "紹介する",
+    "hiragana": "しょうかいする",
+    "romaji": "shoukaisuru",
+    "meaning": "memperkenalkan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-065",
+    "kanji": "母語",
+    "hiragana": "ぼご",
+    "romaji": "bogo",
+    "meaning": "bahasa ibu",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-066",
+    "kanji": "どういう",
+    "hiragana": "どういう",
+    "romaji": "douiu",
+    "meaning": "apa",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-067",
+    "kanji": "意味",
+    "hiragana": "いみ",
+    "romaji": "imi",
+    "meaning": "arti,  makna",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-068",
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "romaji": "tsukau",
+    "meaning": "menggunakan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-069",
+    "kanji": "前に",
+    "hiragana": "まえに",
+    "romaji": "maeni",
+    "meaning": "sebelum,  sebelumnya",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-10-070",
+    "kanji": "どんなこと",
+    "hiragana": "どんなこと",
+    "romaji": "donnakoto",
+    "meaning": "hal seperti apa",
+    "level": "-",
+    "isExtra": false
+  }
+]

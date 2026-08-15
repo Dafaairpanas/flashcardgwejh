@@ -1,0 +1,641 @@
+[
+  {
+    "id": "mn-28-001",
+    "kanji": "［ちょっと］お願いがあるんですが。",
+    "hiragana": "［ちょっと］おねがいがあるんですが。",
+    "romaji": "[chotto]onegaigaarundesuga.",
+    "meaning": "Minta sesuatu [sebentar].",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-002",
+    "kanji": "～家",
+    "hiragana": "～か",
+    "romaji": "~ka",
+    "meaning": "aliran ~",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-003",
+    "kanji": "～機",
+    "hiragana": "～き",
+    "romaji": "~ki",
+    "meaning": "mesin ~",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-004",
+    "kanji": "イベント",
+    "hiragana": "イベント",
+    "romaji": "ibento",
+    "meaning": "acara",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-005",
+    "kanji": "うーん",
+    "hiragana": "うーん",
+    "romaji": "uun",
+    "meaning": "mmm...",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-006",
+    "kanji": "お知らせ",
+    "hiragana": "おしらせ",
+    "romaji": "oshirase",
+    "meaning": "pemberitahuan, pengumuman",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-007",
+    "kanji": "かみます",
+    "hiragana": "かみます",
+    "romaji": "kamimasu",
+    "meaning": "makan, menggigit",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-008",
+    "kanji": "ガム",
+    "hiragana": "ガム",
+    "romaji": "gamu",
+    "meaning": "permen karet",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-009",
+    "kanji": "ゲーム",
+    "hiragana": "ゲーム",
+    "romaji": "geemu",
+    "meaning": "permainan, game",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-010",
+    "kanji": "しばらく",
+    "hiragana": "しばらく",
+    "romaji": "shibaraku",
+    "meaning": "sebentar, sementara",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-011",
+    "kanji": "それで",
+    "hiragana": "それで",
+    "romaji": "sorede",
+    "meaning": "dan, lalu",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-012",
+    "kanji": "それに",
+    "hiragana": "それに",
+    "romaji": "soreni",
+    "meaning": "dan juga",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-013",
+    "kanji": "たいてい",
+    "hiragana": "たいてい",
+    "romaji": "taitei",
+    "meaning": "kebanyakan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-014",
+    "kanji": "ちょうどいい",
+    "hiragana": "ちょうどいい",
+    "romaji": "choudoii",
+    "meaning": "pas, cocok",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-015",
+    "kanji": "ドラマ",
+    "hiragana": "ドラマ",
+    "romaji": "dorama",
+    "meaning": "drama",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-016",
+    "kanji": "ボーナス",
+    "hiragana": "ボーナス",
+    "romaji": "boonasu",
+    "meaning": "bonus",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-017",
+    "kanji": "まじめ［な］",
+    "hiragana": "まじめ［な］",
+    "romaji": "majime[na]",
+    "meaning": "serius",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-018",
+    "kanji": "メモします",
+    "hiragana": "メモします",
+    "romaji": "memoshimasu",
+    "meaning": "mencatat",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-019",
+    "kanji": "偉い",
+    "hiragana": "えらい",
+    "romaji": "erai",
+    "meaning": "hebat",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-020",
+    "kanji": "歌手",
+    "hiragana": "かしゅ",
+    "romaji": "kashu",
+    "meaning": "penyanyi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-021",
+    "kanji": "会話",
+    "hiragana": "かいわ",
+    "romaji": "kaiwa",
+    "meaning": "percakapan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-022",
+    "kanji": "給料",
+    "hiragana": "きゅうりょう",
+    "romaji": "kyuuryou",
+    "meaning": "gaji",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-023",
+    "kanji": "形",
+    "hiragana": "かたち",
+    "romaji": "katachi",
+    "meaning": "bentuk, sosok",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-024",
+    "kanji": "景色",
+    "hiragana": "けしき",
+    "romaji": "keshiki",
+    "meaning": "pemandangan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-025",
+    "kanji": "経験",
+    "hiragana": "けいけん",
+    "romaji": "keiken",
+    "meaning": "pengalaman (～が あります：berpengalaman, ～を します：mengalami)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-026",
+    "kanji": "参加します",
+    "hiragana": "さんかします",
+    "romaji": "sankashimasu",
+    "meaning": "mengikuti",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-027",
+    "kanji": "自分",
+    "hiragana": "じぶん",
+    "romaji": "jibun",
+    "meaning": "diri sendiri",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-028",
+    "kanji": "実は",
+    "hiragana": "じつは",
+    "romaji": "jitsuha",
+    "meaning": "solanya/sebenarnya",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-029",
+    "kanji": "将来",
+    "hiragana": "しょうらい",
+    "romaji": "shourai",
+    "meaning": "masa depan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-030",
+    "kanji": "小説",
+    "hiragana": "しょうせつ",
+    "romaji": "shousetsu",
+    "meaning": "novel",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-031",
+    "kanji": "小説家",
+    "hiragana": "しょうせつか",
+    "romaji": "shousetsuka",
+    "meaning": "novelis",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-032",
+    "kanji": "色",
+    "hiragana": "いろ",
+    "romaji": "iro",
+    "meaning": "warna",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-033",
+    "kanji": "人気",
+    "hiragana": "にんき",
+    "romaji": "ninki",
+    "meaning": "populer/disenangi (［がくせいに］ ～が あります：populer [di kalangan mahasiswa])",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-034",
+    "kanji": "選びます",
+    "hiragana": "えらびます",
+    "romaji": "erabimasu",
+    "meaning": "memilih",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-035",
+    "kanji": "息子",
+    "hiragana": "むすこ",
+    "romaji": "musuko",
+    "meaning": "anak laki-laki",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-036",
+    "kanji": "息子さん",
+    "hiragana": "むすこさん",
+    "romaji": "musukosan",
+    "meaning": "putra",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-037",
+    "kanji": "体育館",
+    "hiragana": "たいいくかん",
+    "romaji": "taiikukan",
+    "meaning": "gedung olahraga",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-038",
+    "kanji": "台所",
+    "hiragana": "だいどころ",
+    "romaji": "daidokoro",
+    "meaning": "dapur",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-039",
+    "kanji": "値段",
+    "hiragana": "ねだん",
+    "romaji": "nedan",
+    "meaning": "harga",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-040",
+    "kanji": "通います［大学に～］",
+    "hiragana": "かよいます",
+    "romaji": "kayoimasu",
+    "meaning": "pergi [ke universitas]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-041",
+    "kanji": "土",
+    "hiragana": "ど",
+    "romaji": "do",
+    "meaning": "hari Sabtu",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-042",
+    "kanji": "日にち",
+    "hiragana": "ひにち",
+    "romaji": "hinichi",
+    "meaning": "tanggal",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-043",
+    "kanji": "熱心［な］",
+    "hiragana": "ねっしん［な］",
+    "romaji": "nesshin[na]",
+    "meaning": "tekun",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-044",
+    "kanji": "売れます［パンが～］",
+    "hiragana": "うれます",
+    "romaji": "uremasu",
+    "meaning": "[roti] terjual",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-045",
+    "kanji": "番組",
+    "hiragana": "ばんぐみ",
+    "romaji": "bangumi",
+    "meaning": "acara TV",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-046",
+    "kanji": "美容院",
+    "hiragana": "びよういん",
+    "romaji": "biyouin",
+    "meaning": "salon kecantikan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-047",
+    "kanji": "品物",
+    "hiragana": "しなもの",
+    "romaji": "shinamono",
+    "meaning": "barang",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-048",
+    "kanji": "味",
+    "hiragana": "あじ",
+    "romaji": "aji",
+    "meaning": "rasa",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-049",
+    "kanji": "無料",
+    "hiragana": "むりょう",
+    "romaji": "muryou",
+    "meaning": "gratis, cuma-cuma",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-050",
+    "kanji": "娘",
+    "hiragana": "むすめ",
+    "romaji": "musume",
+    "meaning": "anak perempuan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-051",
+    "kanji": "娘さん",
+    "hiragana": "むすめさん",
+    "romaji": "musumesan",
+    "meaning": "putri",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-052",
+    "kanji": "誘います",
+    "hiragana": "さそいます",
+    "romaji": "sasoimasu",
+    "meaning": "mengajak",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-053",
+    "kanji": "踊ります",
+    "hiragana": "おどります",
+    "romaji": "odorimasu",
+    "meaning": "menari",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-054",
+    "kanji": "力",
+    "hiragana": "ちから",
+    "romaji": "chikara",
+    "meaning": "tenaga",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-28-055",
+    "kanji": "１０階建ての８階",
+    "hiragana": "１０かいだての８かい",
+    "romaji": "10kaidateno8kai",
+    "meaning": "Tingkat kedelapan dari bangunan sepuluh tingkat",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-28-056",
+    "kanji": "2LDK",
+    "hiragana": "2LDK",
+    "romaji": "2LDK",
+    "meaning": "Rumah terdiri dari 2 kamar tidur, 1 ruang keluarga, 1 ruang makan rangkap dapur",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-28-057",
+    "kanji": "６畳",
+    "hiragana": "ろくじょう",
+    "romaji": "rokujou",
+    "meaning": "6 tatami (= 6 畳). 畳 adalah satuan untuk menyatakan luas kamar. 1 畳 seluas sebuah tatami (kurang lebih 180 x 90 cm)",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-28-058",
+    "kanji": "アパート",
+    "hiragana": "アパート",
+    "romaji": "apaato",
+    "meaning": "Apartmen (Bangunan bertingkat satu atau dua yang terbuat dari kayu)",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-28-059",
+    "kanji": "うちを借りる",
+    "hiragana": "うちをかりる",
+    "romaji": "uchiwokariru",
+    "meaning": "Menyewa Rumah",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-28-060",
+    "kanji": "マンション",
+    "hiragana": "マンション",
+    "romaji": "manshon",
+    "meaning": "Kondominium/Apartmen",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-28-061",
+    "kanji": "やすい不動産",
+    "hiragana": "やすいふどうさん",
+    "romaji": "yasuifudousan",
+    "meaning": "Nama agen real estete",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-28-062",
+    "kanji": "一戸建て",
+    "hiragana": "いっこだて",
+    "romaji": "ikkodate",
+    "meaning": "rumah",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-28-063",
+    "kanji": "家賃",
+    "hiragana": "やちん",
+    "romaji": "yachin",
+    "meaning": "Biaya Sewa",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-28-064",
+    "kanji": "管理費",
+    "hiragana": "かんりひ",
+    "romaji": "kanrihi",
+    "meaning": "Biaya Perawatan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-28-065",
+    "kanji": "西荻窪駅",
+    "hiragana": "にしおぎくぼえき",
+    "romaji": "nishiogikuboeki",
+    "meaning": "Nama stasiun kereta rel listrik terdekat",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-28-066",
+    "kanji": "築３年",
+    "hiragana": "ちく３ねん",
+    "romaji": "chiku3nen",
+    "meaning": "Didirikan tiga tahun yang lalu",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-28-067",
+    "kanji": "中央線",
+    "hiragana": "ちゅうおうせん",
+    "romaji": "chuuousen",
+    "meaning": "Nama jalur kereta rel listrik",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-28-068",
+    "kanji": "徒歩５分",
+    "hiragana": "とほ５ふん",
+    "romaji": "toho5fun",
+    "meaning": "Lima menit dengan jalan kaki dari stasiun",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-28-069",
+    "kanji": "南向き",
+    "hiragana": "みなみむき",
+    "romaji": "minamimuki",
+    "meaning": "Menghadap ke selatan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-28-070",
+    "kanji": "敷金",
+    "hiragana": "しききん",
+    "romaji": "shikikin",
+    "meaning": "Deposit (Uang berupa jaminan yang dititipkan kepada pemilik rumah. Ketika pindah rumah, sebagiannya dikembalikan.)",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-28-071",
+    "kanji": "礼金",
+    "hiragana": "れいきん",
+    "romaji": "reikin",
+    "meaning": "Uang sebagai tanda ucapan terima kasih (Uang yang dibayar kepada pemilik rumah ketika menyewa rumah sebagai nilai setaraf dengan menggunakan rumah tersebut.)",
+    "level": "-",
+    "importinity": 2
+  }
+]

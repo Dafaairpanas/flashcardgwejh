@@ -1,0 +1,911 @@
+[
+  {
+    "id": "ir-a2-2-15-001",
+    "kanji": "消す（電気を消す）",
+    "hiragana": "けす（でんきをけす）",
+    "romaji": "kesu(denkiwokesu)",
+    "meaning": "mematikan (cth : mematikan lampu)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-002",
+    "kanji": "忘れずに",
+    "hiragana": "わすれずに",
+    "romaji": "wasurezuni",
+    "meaning": "Jangan lupa (untuk) ～",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-003",
+    "kanji": "クールビズ",
+    "hiragana": "クールビズ",
+    "romaji": "kuurubizu",
+    "meaning": "“Cool Biz” (gerakan Cool Business di Jepang)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-004",
+    "kanji": "実施中",
+    "hiragana": "じっしちゅう",
+    "romaji": "jisshichuu",
+    "meaning": "sedang berlangsung",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-005",
+    "kanji": "軽装",
+    "hiragana": "けいそう",
+    "romaji": "keisou",
+    "meaning": "pakaian ringan dan tipis",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-006",
+    "kanji": "ノー～（ノーネクタイ）",
+    "hiragana": "ノー～（ノーネクタイ）",
+    "romaji": "noo~(noonekutai)",
+    "meaning": "tanpa ～ (cth : tanpa dasi)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-007",
+    "kanji": "設定",
+    "hiragana": "せってい",
+    "romaji": "settei",
+    "meaning": "pengaturan,  setelan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-008",
+    "kanji": "ご理解とご協力のほど、よろしくお願いたします",
+    "hiragana": "ごりかいとごきょうりょくのほど、よろしくおねがいいたします",
+    "romaji": "gorikaitogokyouryokunohodo,yoroshikuonegaiitashimasu",
+    "meaning": "Kami mohon pengertian dan kerja sama Anda sekalian. (ungkapan bentuk sopan)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-009",
+    "kanji": "節電",
+    "hiragana": "せつでん",
+    "romaji": "setsuden",
+    "meaning": "penghematan listrik",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-010",
+    "kanji": "両面印刷",
+    "hiragana": "りょうめんいんさつ",
+    "romaji": "ryoumen'insatsu",
+    "meaning": "pencetakan dua sisi",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-011",
+    "kanji": "マイバッグ",
+    "hiragana": "マイバッグ",
+    "romaji": "maibaggu",
+    "meaning": "my bag (tas belanja ramah lingkungan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-012",
+    "kanji": "レジ袋",
+    "hiragana": "レジぶくろ",
+    "romaji": "rejibukuro",
+    "meaning": "tas belanja plastik sekali pakai",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-013",
+    "kanji": "有料化",
+    "hiragana": "ゆうりょうか",
+    "romaji": "yuuryouka",
+    "meaning": "dikenakan biaya,  berbayar",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-014",
+    "kanji": "持参",
+    "hiragana": "じさん",
+    "romaji": "jisan",
+    "meaning": "membawa",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-015",
+    "kanji": "環境",
+    "hiragana": "かんきょう",
+    "romaji": "kankyou",
+    "meaning": "lingkungan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-016",
+    "kanji": "エコ",
+    "hiragana": "エコ",
+    "romaji": "eko",
+    "meaning": "ramah lingkungan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-017",
+    "kanji": "節電する",
+    "hiragana": "せつでんする",
+    "romaji": "setsudensuru",
+    "meaning": "menghemat listrik",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-018",
+    "kanji": "節水する",
+    "hiragana": "せっすいする",
+    "romaji": "sessuisuru",
+    "meaning": "menghemat air",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-019",
+    "kanji": "紙",
+    "hiragana": "かみ",
+    "romaji": "kami",
+    "meaning": "kertas",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-020",
+    "kanji": "節約する",
+    "hiragana": "せつやくする",
+    "romaji": "setsuyakusuru",
+    "meaning": "menghemat,  melakukan penghematan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-021",
+    "kanji": "リサイクルする",
+    "hiragana": "リサイクルする",
+    "romaji": "risaikurusuru",
+    "meaning": "mendaur ulang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-022",
+    "kanji": "ごみ",
+    "hiragana": "ごみ",
+    "romaji": "gomi",
+    "meaning": "sampah",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-023",
+    "kanji": "分別する",
+    "hiragana": "ぶんべつする",
+    "romaji": "bunbetsusuru",
+    "meaning": "memilah",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-024",
+    "kanji": "減らす",
+    "hiragana": "へらす",
+    "romaji": "herasu",
+    "meaning": "mengurangi",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-025",
+    "kanji": "設定温度",
+    "hiragana": "せっていおんど",
+    "romaji": "setteiondo",
+    "meaning": "pengaturan / setelan temperatur",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-026",
+    "kanji": "下げる",
+    "hiragana": "さげる",
+    "romaji": "sageru",
+    "meaning": "menurunkan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-027",
+    "kanji": "もったいない",
+    "hiragana": "もったいない",
+    "romaji": "mottainai",
+    "meaning": "mubazir",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-028",
+    "kanji": "缶",
+    "hiragana": "かん",
+    "romaji": "kan",
+    "meaning": "kaleng",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-029",
+    "kanji": "まとめる",
+    "hiragana": "まとめる",
+    "romaji": "matomeru",
+    "meaning": "dikumpulkan,  mengumpulkan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-030",
+    "kanji": "出す（水を出す）",
+    "hiragana": "だす（みずをだす）",
+    "romaji": "dasu(mizuwodasu)",
+    "meaning": "mengalirkan (air),  membuka (keran)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-031",
+    "kanji": "洗剤",
+    "hiragana": "せんざい",
+    "romaji": "senzai",
+    "meaning": "detergen,  sabun pembersih",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-032",
+    "kanji": "止める（水を止める）",
+    "hiragana": "とめる（みずをとめる）",
+    "romaji": "tomeru(mizuwotomeru)",
+    "meaning": "mematikan (air),  menutup (keran)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-033",
+    "kanji": "すすぐ",
+    "hiragana": "すすぐ",
+    "romaji": "susugu",
+    "meaning": "membilas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-034",
+    "kanji": "ストロー",
+    "hiragana": "ストロー",
+    "romaji": "sutoroo",
+    "meaning": "sedotan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-035",
+    "kanji": "マイ～（マイストロー）",
+    "hiragana": "マイ～（マイストロー）",
+    "romaji": "mai~(maisutoroo)",
+    "meaning": "my ～,  ～ pribadi (cth : sedotan pribadi)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-036",
+    "kanji": "持ち歩く",
+    "hiragana": "もちあるく",
+    "romaji": "mochiaruku",
+    "meaning": "membawa",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-037",
+    "kanji": "マイボトル",
+    "hiragana": "マイボトル",
+    "romaji": "maibotoru",
+    "meaning": "botol pribadi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-038",
+    "kanji": "ペットボトル",
+    "hiragana": "ペットボトル",
+    "romaji": "pettobotoru",
+    "meaning": "botol plastik",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-039",
+    "kanji": "資源",
+    "hiragana": "しげん",
+    "romaji": "shigen",
+    "meaning": "dapat didaur ulang",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-040",
+    "kanji": "分け方",
+    "hiragana": "わけかた",
+    "romaji": "wakekata",
+    "meaning": "cara memilah / memisahkan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-041",
+    "kanji": "出し方",
+    "hiragana": "だしかた",
+    "romaji": "dashikata",
+    "meaning": "cara membuang",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-042",
+    "kanji": "集積所",
+    "hiragana": "しゅうせきじょ",
+    "romaji": "shuusekijo",
+    "meaning": "titik pengumpulan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-043",
+    "kanji": "収集日",
+    "hiragana": "しゅうしゅうび",
+    "romaji": "shuushuubi",
+    "meaning": "hari pengumpulan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-044",
+    "kanji": "資源ごみ",
+    "hiragana": "しげんごみ",
+    "romaji": "shigengomi",
+    "meaning": "sampah yang dapat didaur ulang",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-045",
+    "kanji": "～種類（4種類）",
+    "hiragana": "～しゅるい（よんしゅるい）",
+    "romaji": "~shurui(yonshurui)",
+    "meaning": "～ jenis (cth : 4 jenis)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-046",
+    "kanji": "分ける",
+    "hiragana": "わける",
+    "romaji": "wakeru",
+    "meaning": "memilah,  membagi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-047",
+    "kanji": "ひも",
+    "hiragana": "ひも",
+    "romaji": "himo",
+    "meaning": "tali",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-048",
+    "kanji": "しばる",
+    "hiragana": "しばる",
+    "romaji": "shibaru",
+    "meaning": "mengikat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-049",
+    "kanji": "新聞",
+    "hiragana": "しんぶん",
+    "romaji": "shinbun",
+    "meaning": "koran",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-050",
+    "kanji": "雑誌",
+    "hiragana": "ざっし",
+    "romaji": "zasshi",
+    "meaning": "majalah",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-051",
+    "kanji": "中身",
+    "hiragana": "なかみ",
+    "romaji": "nakami",
+    "meaning": "isi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-052",
+    "kanji": "びん",
+    "hiragana": "びん",
+    "romaji": "bin",
+    "meaning": "botol kaca",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-053",
+    "kanji": "キャップ",
+    "hiragana": "キャップ",
+    "romaji": "kyappu",
+    "meaning": "tutup botol plastik",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-054",
+    "kanji": "ラベル",
+    "hiragana": "ラベル",
+    "romaji": "raberu",
+    "meaning": "label",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-055",
+    "kanji": "つぶす",
+    "hiragana": "つぶす",
+    "romaji": "tsubusu",
+    "meaning": "menghancurkan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-056",
+    "kanji": "紙パック",
+    "hiragana": "かみパック",
+    "romaji": "kamipakku",
+    "meaning": "kemasan minuman karton",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-057",
+    "kanji": "切り開く",
+    "hiragana": "きりひらく",
+    "romaji": "kirihiraku",
+    "meaning": "memotong terbuka",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-058",
+    "kanji": "食品トレイ",
+    "hiragana": "しょくひントレイ",
+    "romaji": "shokuhintorei",
+    "meaning": "nampan makanan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-059",
+    "kanji": "可燃ごみ",
+    "hiragana": "かねんごみ",
+    "romaji": "kanengomi",
+    "meaning": "sampah yang dapat dibakar",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-060",
+    "kanji": "生ごみ",
+    "hiragana": "なまごみ",
+    "romaji": "namagomi",
+    "meaning": "sampah sisa makanan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-061",
+    "kanji": "水を切る",
+    "hiragana": "みずをきる",
+    "romaji": "mizuwokiru",
+    "meaning": "dikeringkan,  mengeringkan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-062",
+    "kanji": "布",
+    "hiragana": "ぬの",
+    "romaji": "nuno",
+    "meaning": "kain",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-063",
+    "kanji": "しみこませる",
+    "hiragana": "しみこませる",
+    "romaji": "shimikomaseru",
+    "meaning": "dibiarkan terendam,  diserap",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-064",
+    "kanji": "固める",
+    "hiragana": "かだめる",
+    "romaji": "kadameru",
+    "meaning": "dipadatkan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-065",
+    "kanji": "プラスチック",
+    "hiragana": "プラスチック",
+    "romaji": "purasuchikku",
+    "meaning": "plastik",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-066",
+    "kanji": "再生（する）",
+    "hiragana": "さいせい（する）",
+    "romaji": "saisei(suru)",
+    "meaning": "mendaur ulang",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-067",
+    "kanji": "少量",
+    "hiragana": "しょうりょう",
+    "romaji": "shouryou",
+    "meaning": "jumlah kecil",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-068",
+    "kanji": "植木",
+    "hiragana": "うえき",
+    "romaji": "ueki",
+    "meaning": "tanaman",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-069",
+    "kanji": "枝",
+    "hiragana": "えだ",
+    "romaji": "eda",
+    "meaning": "cabang",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-070",
+    "kanji": "葉",
+    "hiragana": "は",
+    "romaji": "ha",
+    "meaning": "daun",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-071",
+    "kanji": "使い古し",
+    "hiragana": "つかいふるし",
+    "romaji": "tsukaifurushi",
+    "meaning": "bekas",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-072",
+    "kanji": "凝固剤",
+    "hiragana": "ぎょうこざい",
+    "romaji": "gyoukozai",
+    "meaning": "zat pemadat (sering digunakan untuk memadatkan minyak goreng bekas sebelum dibuang)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-073",
+    "kanji": "ビニール",
+    "hiragana": "ビニール",
+    "romaji": "biniiru",
+    "meaning": "vinil",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-074",
+    "kanji": "～類（ビニール類）",
+    "hiragana": "～るい（ビニールるい）",
+    "romaji": "~rui(biniirurui)",
+    "meaning": "berjenis ～ (cth : berjenis vinil)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-075",
+    "kanji": "ラップ",
+    "hiragana": "ラップ",
+    "romaji": "rappu",
+    "meaning": "plastik pembungkus",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-076",
+    "kanji": "容器",
+    "hiragana": "ようき",
+    "romaji": "youki",
+    "meaning": "wadah",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-077",
+    "kanji": "発泡スチロール",
+    "hiragana": "はっぽうスチロール",
+    "romaji": "happousuchirooru",
+    "meaning": "styrofoam / gabus sintetis",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-078",
+    "kanji": "不燃ごみ",
+    "hiragana": "ふねんごみ",
+    "romaji": "funengomi",
+    "meaning": "sampah yang tidak dapat dibakar",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-079",
+    "kanji": "割れる",
+    "hiragana": "われる",
+    "romaji": "wareru",
+    "meaning": "pecah",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-080",
+    "kanji": "包む",
+    "hiragana": "つつむ",
+    "romaji": "tsutsumu",
+    "meaning": "membungkus",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-081",
+    "kanji": "危険",
+    "hiragana": "きけん",
+    "romaji": "kiken",
+    "meaning": "berbahaya,  bahaya",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-082",
+    "kanji": "乾電池",
+    "hiragana": "かんでんち",
+    "romaji": "kandenchi",
+    "meaning": "baterai kering",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-083",
+    "kanji": "刃物",
+    "hiragana": "はもの",
+    "romaji": "hamono",
+    "meaning": "pisau,  benda tajam",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-084",
+    "kanji": "ガラス",
+    "hiragana": "ガラス",
+    "romaji": "garasu",
+    "meaning": "gelas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-085",
+    "kanji": "陶磁器",
+    "hiragana": "とうじき",
+    "romaji": "toujiki",
+    "meaning": "porselen,  keramik",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-086",
+    "kanji": "電球",
+    "hiragana": "でんきゅう",
+    "romaji": "denkyuu",
+    "meaning": "bohlam",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-087",
+    "kanji": "アルミ製品",
+    "hiragana": "アルミせいひん",
+    "romaji": "arumiseihin",
+    "meaning": "benda berbahan alumunium",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-088",
+    "kanji": "金属",
+    "hiragana": "きんぞく",
+    "romaji": "kinzoku",
+    "meaning": "logam",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-089",
+    "kanji": "家電製品",
+    "hiragana": "かでんせいひん",
+    "romaji": "kadenseihin",
+    "meaning": "peralatan elektronik rumah tangga",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-090",
+    "kanji": "粗大ごみ",
+    "hiragana": "そだいごみ",
+    "romaji": "sodaigomi",
+    "meaning": "sampah ukuran besar",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-091",
+    "kanji": "家具",
+    "hiragana": "かぐ",
+    "romaji": "kagu",
+    "meaning": "furnitur,  mebel,  perabot rumah tangga",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-092",
+    "kanji": "寝具",
+    "hiragana": "しんぐ",
+    "romaji": "shingu",
+    "meaning": "peralatan untuk tidur",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-093",
+    "kanji": "牛乳パック",
+    "hiragana": "ぎゅうにゅうパック",
+    "romaji": "gyuunyuupakku",
+    "meaning": "karton kemasan susu",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-094",
+    "kanji": "使い切る",
+    "hiragana": "つかいきる",
+    "romaji": "tsukaikiru",
+    "meaning": "menghabiskan,  habis digunakan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-095",
+    "kanji": "燃える（燃えるごみ）",
+    "hiragana": "もえる（もえるごみ）",
+    "romaji": "moeru(moerugomi)",
+    "meaning": "dapat dibakar (cth : sampah yang dapat dibakar)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-096",
+    "kanji": "取る",
+    "hiragana": "とる",
+    "romaji": "toru",
+    "meaning": "dilepas",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-097",
+    "kanji": "出す（ごみを出す）",
+    "hiragana": "だす（ごみをだす）",
+    "romaji": "dasu(gomiwodasu)",
+    "meaning": "membuang (cth : membuang sampah)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-098",
+    "kanji": "粗大ごみ受付センター",
+    "hiragana": "そだいごみうけつけセンター",
+    "romaji": "sodaigomiuketsukesentaa",
+    "meaning": "pusat penerimaan sampah ukuran besar",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-099",
+    "kanji": "大きさ",
+    "hiragana": "おおきさ",
+    "romaji": "ookisa",
+    "meaning": "ukuran,  besarnya",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-100",
+    "kanji": "シール",
+    "hiragana": "シール",
+    "romaji": "shiiru",
+    "meaning": "stiker",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-15-101",
+    "kanji": "貼る",
+    "hiragana": "はる",
+    "romaji": "haru",
+    "meaning": "menempel",
+    "level": "N1",
+    "isExtra": false
+  }
+]

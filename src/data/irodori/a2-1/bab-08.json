@@ -1,0 +1,434 @@
+[
+  {
+    "id": "ir-a2-1-08-001",
+    "kanji": "動物園",
+    "hiragana": "どうぶつえん",
+    "romaji": "doubutsuen",
+    "meaning": "kebun binatang",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-002",
+    "kanji": "お城",
+    "hiragana": "おしろ",
+    "romaji": "oshiro",
+    "meaning": "istana",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-003",
+    "kanji": "レストラン",
+    "hiragana": "レストラン",
+    "romaji": "resutoran",
+    "meaning": "restoran",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-004",
+    "kanji": "博物館",
+    "hiragana": "はくぶつかん",
+    "romaji": "hakubutsukan",
+    "meaning": "museum",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-005",
+    "kanji": "アウトレットモール",
+    "hiragana": "アウトレットモール",
+    "romaji": "autorettomooru",
+    "meaning": "outlet mall",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-006",
+    "kanji": "プロレス",
+    "hiragana": "プロレス",
+    "romaji": "puroresu",
+    "meaning": "gulat profesional",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-007",
+    "kanji": "タワー",
+    "hiragana": "タワー",
+    "romaji": "tawaa",
+    "meaning": "menara",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-008",
+    "kanji": "野球",
+    "hiragana": "やきゅう",
+    "romaji": "yakyuu",
+    "meaning": "bisbol",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-009",
+    "kanji": "もう",
+    "hiragana": "もう",
+    "romaji": "mou",
+    "meaning": "sudah",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-010",
+    "kanji": "まだ",
+    "hiragana": "まだ",
+    "romaji": "mada",
+    "meaning": "belum",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-011",
+    "kanji": "アジア",
+    "hiragana": "アジア",
+    "romaji": "ajia",
+    "meaning": "Asia",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-012",
+    "kanji": "すごく",
+    "hiragana": "すごく",
+    "romaji": "sugoku",
+    "meaning": "sangat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-013",
+    "kanji": "市民体育館",
+    "hiragana": "しみんたいいくかん",
+    "romaji": "shimintaiikukan",
+    "meaning": "gymnasium / gedung olahraga publik",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-014",
+    "kanji": "試合",
+    "hiragana": "しあい",
+    "romaji": "shiai",
+    "meaning": "pertandingan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-015",
+    "kanji": "やる",
+    "hiragana": "やる",
+    "romaji": "yaru",
+    "meaning": "melakukan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-016",
+    "kanji": "メンバー",
+    "hiragana": "メンバー",
+    "romaji": "menbaa",
+    "meaning": "anggota",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-017",
+    "kanji": "足りない",
+    "hiragana": "たりない",
+    "romaji": "tarinai",
+    "meaning": "tidak cukup,  kurang",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-018",
+    "kanji": "無理（な）",
+    "hiragana": "むり（な）",
+    "romaji": "muri(na)",
+    "meaning": "tidak mungkin",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-019",
+    "kanji": "わかる",
+    "hiragana": "わかる",
+    "romaji": "wakaru",
+    "meaning": "mengerti",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-020",
+    "kanji": "お金",
+    "hiragana": "おかね",
+    "romaji": "okane",
+    "meaning": "uang",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-021",
+    "kanji": "おろす",
+    "hiragana": "おろす",
+    "romaji": "orosu",
+    "meaning": "menarik / mengambil (uang)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-022",
+    "kanji": "食事",
+    "hiragana": "しょくじ",
+    "romaji": "shokuji",
+    "meaning": "makan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-023",
+    "kanji": "ちょっと",
+    "hiragana": "ちょっと",
+    "romaji": "chotto",
+    "meaning": "sedikit",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-024",
+    "kanji": "休む",
+    "hiragana": "やすむ",
+    "romaji": "yasumu",
+    "meaning": "istirahat",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-025",
+    "kanji": "ジョギングシューズ",
+    "hiragana": "ジョギングシューズ",
+    "romaji": "jogingushuuzu",
+    "meaning": "sepatu joging",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-026",
+    "kanji": "ATM",
+    "hiragana": "エーティーエム",
+    "romaji": "eeteiiemu",
+    "meaning": "ATM (Anjungan Tunai Mandiri)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-027",
+    "kanji": "ゲームコーナー",
+    "hiragana": "ゲームコーナー",
+    "romaji": "geemukoonaa",
+    "meaning": "game arcade,  pusat permainan arkade",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-028",
+    "kanji": "フードコート",
+    "hiragana": "フードコート",
+    "romaji": "fuudokooto",
+    "meaning": "food court,  pujasera (pusat jajanan serbaada)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-029",
+    "kanji": "カフェ",
+    "hiragana": "カフェ",
+    "romaji": "kafe",
+    "meaning": "kafe",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-030",
+    "kanji": "映画館",
+    "hiragana": "えいがかん",
+    "romaji": "eigakan",
+    "meaning": "bioskop",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-031",
+    "kanji": "スポーツ店",
+    "hiragana": "スポーツてん",
+    "romaji": "supootsuten",
+    "meaning": "toko peralatan olahraga",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-032",
+    "kanji": "このあと",
+    "hiragana": "このあと",
+    "romaji": "konoato",
+    "meaning": "setelah ini,  kemudian",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-033",
+    "kanji": "お腹がすく",
+    "hiragana": "おなかがすく",
+    "romaji": "onakagasuku",
+    "meaning": "merasa lapar",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-034",
+    "kanji": "何か",
+    "hiragana": "なにか",
+    "romaji": "nanika",
+    "meaning": "sesuatu",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-035",
+    "kanji": "その前に",
+    "hiragana": "そのまえに",
+    "romaji": "sonomaeni",
+    "meaning": "sebelum itu",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-036",
+    "kanji": "すばらしい",
+    "hiragana": "すばらしい",
+    "romaji": "subarashii",
+    "meaning": "bagus",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-037",
+    "kanji": "難しい",
+    "hiragana": "むずかしい",
+    "romaji": "muzukashii",
+    "meaning": "sukar,  sulit",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-038",
+    "kanji": "感動する",
+    "hiragana": "かんどうする",
+    "romaji": "kandousuru",
+    "meaning": "terkesan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-039",
+    "kanji": "かわいい",
+    "hiragana": "かわいい",
+    "romaji": "kawaii",
+    "meaning": "lucu,  manis",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-040",
+    "kanji": "展覧会",
+    "hiragana": "てんらんかい",
+    "romaji": "tenrankai",
+    "meaning": "pameran",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-041",
+    "kanji": "パンダ",
+    "hiragana": "パンダ",
+    "romaji": "panda",
+    "meaning": "panda",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-042",
+    "kanji": "サル",
+    "hiragana": "サル",
+    "romaji": "saru",
+    "meaning": "kera",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-043",
+    "kanji": "現代",
+    "hiragana": "げんだい",
+    "romaji": "gendai",
+    "meaning": "modern",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-044",
+    "kanji": "作品",
+    "hiragana": "さくひん",
+    "romaji": "sakuhin",
+    "meaning": "karya seni",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-045",
+    "kanji": "ホラー映画",
+    "hiragana": "ホラーえいが",
+    "romaji": "horaaeiga",
+    "meaning": "film horor",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-046",
+    "kanji": "つまらない",
+    "hiragana": "つまらない",
+    "romaji": "tsumaranai",
+    "meaning": "bosan,  membosankan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-047",
+    "kanji": "退屈（な）",
+    "hiragana": "たいくつ（な）",
+    "romaji": "taikutsu(na)",
+    "meaning": "bosan,  membosankan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-08-048",
+    "kanji": "いまいち（な）",
+    "hiragana": "いまいち（な）",
+    "romaji": "imaichi(na)",
+    "meaning": "tidak cukup bagus",
+    "level": "-",
+    "isExtra": false
+  }
+]

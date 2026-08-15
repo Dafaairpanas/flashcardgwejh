@@ -1,0 +1,452 @@
+[
+  {
+    "id": "mn-18-001",
+    "kanji": "ーメートル",
+    "hiragana": "ーメートル",
+    "romaji": "-meetoru",
+    "meaning": "ー meter",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-002",
+    "kanji": "インターネット",
+    "hiragana": "インターネット",
+    "romaji": "intaanetto",
+    "meaning": "internet",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-003",
+    "kanji": "お祈り",
+    "hiragana": "おいのり",
+    "romaji": "oinori",
+    "meaning": "doa (〜を します：berdoa)",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-004",
+    "kanji": "ぜひ",
+    "hiragana": "ぜひ",
+    "romaji": "zehi",
+    "meaning": "benar-benar, mesti",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-005",
+    "kanji": "それは おもしろいですね。",
+    "hiragana": "それは おもしろいですね。",
+    "romaji": "soreha omoshiroidesune.",
+    "meaning": "Itu menarik ya.",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-006",
+    "kanji": "できますⅡ",
+    "hiragana": "できますⅡ",
+    "romaji": "dekimasuⅡ",
+    "meaning": "dapat, bisa, mampu",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-007",
+    "kanji": "なかなか",
+    "hiragana": "なかなか",
+    "romaji": "nakanaka",
+    "meaning": "jarang, tidak mudah (diikuti bentuk negatif)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-008",
+    "kanji": "ピアノ",
+    "hiragana": "ピアノ",
+    "romaji": "piano",
+    "meaning": "piano",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-009",
+    "kanji": "へえ",
+    "hiragana": "へえ",
+    "romaji": "hee",
+    "meaning": "Betul ya?/Benar ya?/Masa! (digunakan ketika terkagum atau terkejut)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-010",
+    "kanji": "ほんとうですか。",
+    "hiragana": "ほんとうですか。",
+    "romaji": "hontoudesuka.",
+    "meaning": "Betul?/Benar?",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-011",
+    "kanji": "運転します",
+    "hiragana": "うんてんしますⅢ",
+    "romaji": "untenshimasuⅢ",
+    "meaning": "menyetir, mengendarai",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-012",
+    "kanji": "歌います",
+    "hiragana": "うたいますⅠ",
+    "romaji": "utaimasuⅠ",
+    "meaning": "bernyanyi, menyanyi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-013",
+    "kanji": "課長",
+    "hiragana": "かちょう",
+    "romaji": "kachou",
+    "meaning": "kepala seksi",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-014",
+    "kanji": "換えます",
+    "hiragana": "かえますⅡ",
+    "romaji": "kaemasuⅡ",
+    "meaning": "mengganti, menukar",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-015",
+    "kanji": "現金",
+    "hiragana": "げんきん",
+    "romaji": "genkin",
+    "meaning": "uang tunai",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-016",
+    "kanji": "捨てます",
+    "hiragana": "すてますⅡ",
+    "romaji": "sutemasuⅡ",
+    "meaning": "membuang",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-017",
+    "kanji": "社長",
+    "hiragana": "しゃちょう＊",
+    "romaji": "shachou*",
+    "meaning": "direktur utama",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-018",
+    "kanji": "趣味",
+    "hiragana": "しゅみ",
+    "romaji": "shumi",
+    "meaning": "hobi, kegemaran",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-019",
+    "kanji": "集めます",
+    "hiragana": "あつめますⅡ",
+    "romaji": "atsumemasuⅡ",
+    "meaning": "mengumpulkan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-020",
+    "kanji": "洗います",
+    "hiragana": "あらいますⅠ",
+    "romaji": "araimasuⅠ",
+    "meaning": "mencuci",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-021",
+    "kanji": "弾きます",
+    "hiragana": "ひきますⅠ",
+    "romaji": "hikimasuⅠ",
+    "meaning": "bermain (bermaksud untuk bermain alat musik senar dan piano)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-022",
+    "kanji": "動物",
+    "hiragana": "どうぶつ",
+    "romaji": "doubutsu",
+    "meaning": "hewan, binatang",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-023",
+    "kanji": "特に",
+    "hiragana": "とくに",
+    "romaji": "tokuni",
+    "meaning": "terutama, khususnya",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-024",
+    "kanji": "日記",
+    "hiragana": "にっき",
+    "romaji": "nikki",
+    "meaning": "catatan harian",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-025",
+    "kanji": "馬",
+    "hiragana": "うま",
+    "romaji": "uma",
+    "meaning": "kuda",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-026",
+    "kanji": "部長",
+    "hiragana": "ぶちょう",
+    "romaji": "buchou",
+    "meaning": "kepala bagian",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-027",
+    "kanji": "予約します",
+    "hiragana": "よやくしますⅢ",
+    "romaji": "yoyakushimasuⅢ",
+    "meaning": "memesan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-18-028",
+    "kanji": "ける",
+    "hiragana": "ける",
+    "romaji": "keru",
+    "meaning": "menendang",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-029",
+    "kanji": "たたく",
+    "hiragana": "たたく",
+    "romaji": "tataku",
+    "meaning": "memukul",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-030",
+    "kanji": "はう",
+    "hiragana": "はう",
+    "romaji": "hau",
+    "meaning": "merayap",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-031",
+    "kanji": "もぐる",
+    "hiragana": "もぐる",
+    "romaji": "moguru",
+    "meaning": "menyelam",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-032",
+    "kanji": "引く",
+    "hiragana": "ひく",
+    "romaji": "hiku",
+    "meaning": "menarik",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-033",
+    "kanji": "泳ぐ",
+    "hiragana": "およぐ",
+    "romaji": "oyogu",
+    "meaning": "berenang",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-034",
+    "kanji": "押す",
+    "hiragana": "おす",
+    "romaji": "osu",
+    "meaning": "mendorong",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-035",
+    "kanji": "逆立ちする",
+    "hiragana": "さかだちする",
+    "romaji": "sakadachisuru",
+    "meaning": "berjungkir balik",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-036",
+    "kanji": "曲げる",
+    "hiragana": "まげる",
+    "romaji": "mageru",
+    "meaning": "membengkokkan",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-037",
+    "kanji": "持ち上げる",
+    "hiragana": "もちあげる",
+    "romaji": "mochiageru",
+    "meaning": "mengangkat",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-038",
+    "kanji": "伸ばす",
+    "hiragana": "のばす",
+    "romaji": "nobasu",
+    "meaning": "meluruskan",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-039",
+    "kanji": "振り向く",
+    "hiragana": "ふりむく",
+    "romaji": "furimuku",
+    "meaning": "menengok ke belakang",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-040",
+    "kanji": "振る",
+    "hiragana": "ふる",
+    "romaji": "furu",
+    "meaning": "melambaikan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-041",
+    "kanji": "走る",
+    "hiragana": "はしる",
+    "romaji": "hashiru",
+    "meaning": "berlari",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-042",
+    "kanji": "跳ぶ",
+    "hiragana": "とぶ",
+    "romaji": "tobu",
+    "meaning": "meloncat",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-043",
+    "kanji": "転ぶ",
+    "hiragana": "ころぶ",
+    "romaji": "korobu",
+    "meaning": "jatuh",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-044",
+    "kanji": "登る",
+    "hiragana": "のぼる",
+    "romaji": "noboru",
+    "meaning": "memanjat",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-045",
+    "kanji": "投げる",
+    "hiragana": "なげる",
+    "romaji": "nageru",
+    "meaning": "melempar",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-046",
+    "kanji": "飛び込む",
+    "hiragana": "とびこむ",
+    "romaji": "tobikomu",
+    "meaning": "terjun",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-047",
+    "kanji": "飛ぶ",
+    "hiragana": "とぶ",
+    "romaji": "tobu",
+    "meaning": "terbang",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-18-048",
+    "kanji": "ビートルズ",
+    "hiragana": "ビートルズ",
+    "romaji": "biitoruzu",
+    "meaning": "The Beatles",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-18-049",
+    "kanji": "故郷",
+    "hiragana": "ふるさと",
+    "romaji": "furusato",
+    "meaning": "Furusato (judul lagu. Artinya kampung halaman)",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-18-050",
+    "kanji": "秋葉原",
+    "hiragana": "あきはばら",
+    "romaji": "akihabara",
+    "meaning": "nama daerah di Tokyo",
+    "level": "N3",
+    "importinity": 3
+  }
+]

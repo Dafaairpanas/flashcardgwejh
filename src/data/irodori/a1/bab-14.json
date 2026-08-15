@@ -1,0 +1,659 @@
+[
+  {
+    "id": "ir-a1-14-001",
+    "kanji": "トイレ",
+    "hiragana": "トイレ",
+    "romaji": "toire",
+    "meaning": "toilet",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-002",
+    "kanji": "コインロッカー",
+    "hiragana": "コインロッカー",
+    "romaji": "koinrokkaa",
+    "meaning": "loker koin",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-003",
+    "kanji": "自動販売機",
+    "hiragana": "じどうはんばいき",
+    "romaji": "jidouhanbaiki",
+    "meaning": "mesin penjual otomatis",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-004",
+    "kanji": "コンビニ",
+    "hiragana": "コンビニ",
+    "romaji": "konbini",
+    "meaning": "minimarket (pasar swalayan kecil)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-005",
+    "kanji": "ATM",
+    "hiragana": "エーティーエム",
+    "romaji": "eeteiiemu",
+    "meaning": "ATM (Anjungan Tunai Mandiri)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-006",
+    "kanji": "喫煙所",
+    "hiragana": "きつえんじょ",
+    "romaji": "kitsuenjo",
+    "meaning": "ruang merokok,  area merokok",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-007",
+    "kanji": "あちら",
+    "hiragana": "あちら",
+    "romaji": "achira",
+    "meaning": "di sana",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-008",
+    "kanji": "飲み物",
+    "hiragana": "のみもの",
+    "romaji": "nomimono",
+    "meaning": "minuman",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-009",
+    "kanji": "あっち",
+    "hiragana": "あっち",
+    "romaji": "atchi",
+    "meaning": "di sana (bentuk kasual dari あちら)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-010",
+    "kanji": "ビル",
+    "hiragana": "ビル",
+    "romaji": "biru",
+    "meaning": "gedung",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-011",
+    "kanji": "奥",
+    "hiragana": "おく",
+    "romaji": "oku",
+    "meaning": "di dalam",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-012",
+    "kanji": "すいません",
+    "hiragana": "すいません",
+    "romaji": "suimasen",
+    "meaning": "Sori. (bentuk informal dari すみません)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-013",
+    "kanji": "ちょっと、わからないですね",
+    "hiragana": "ちょっと、わからないですね",
+    "romaji": "chotto,wakaranaidesune",
+    "meaning": "Saya kurang tahu.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-014",
+    "kanji": "上",
+    "hiragana": "うえ",
+    "romaji": "ue",
+    "meaning": "atas",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-015",
+    "kanji": "下",
+    "hiragana": "した",
+    "romaji": "shita",
+    "meaning": "bawah",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-016",
+    "kanji": "前",
+    "hiragana": "まえ",
+    "romaji": "mae",
+    "meaning": "depan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-017",
+    "kanji": "後ろ",
+    "hiragana": "うしろ",
+    "romaji": "ushiro",
+    "meaning": "belakang",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-018",
+    "kanji": "中",
+    "hiragana": "なか",
+    "romaji": "naka",
+    "meaning": "dalam",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-019",
+    "kanji": "横",
+    "hiragana": "よこ",
+    "romaji": "yoko",
+    "meaning": "samping",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-020",
+    "kanji": "エスカレーター",
+    "hiragana": "エスカレーター",
+    "romaji": "esukareetaa",
+    "meaning": "eskalator",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-021",
+    "kanji": "改札",
+    "hiragana": "かいさつ",
+    "romaji": "kaisatsu",
+    "meaning": "gerbang tiket",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-022",
+    "kanji": "インフォメーション",
+    "hiragana": "インフォメーション",
+    "romaji": "infomeeshon",
+    "meaning": "bagian informasi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-023",
+    "kanji": "そっち",
+    "hiragana": "そっち",
+    "romaji": "sotchi",
+    "meaning": "di situ",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-024",
+    "kanji": "すぐ",
+    "hiragana": "すぐ",
+    "romaji": "sugu",
+    "meaning": "segera",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-025",
+    "kanji": "わかった",
+    "hiragana": "わかった",
+    "romaji": "wakatta",
+    "meaning": "Baik, saya mengerti. (bentuk kasual dari わかりました)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-026",
+    "kanji": "待っててください",
+    "hiragana": "まっててください",
+    "romaji": "mattetekudasai",
+    "meaning": "Tolong tunggu.",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-027",
+    "kanji": "古い",
+    "hiragana": "ふるい",
+    "romaji": "furui",
+    "meaning": "tua,  lama",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-028",
+    "kanji": "新しい",
+    "hiragana": "あたらしい",
+    "romaji": "atarashii",
+    "meaning": "baru",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-029",
+    "kanji": "大きい",
+    "hiragana": "おおきい",
+    "romaji": "ookii",
+    "meaning": "besar",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-030",
+    "kanji": "大きな",
+    "hiragana": "おおきな",
+    "romaji": "ookina",
+    "meaning": "besar",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-031",
+    "kanji": "小さい",
+    "hiragana": "ちいさい",
+    "romaji": "chiisai",
+    "meaning": "kecil",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-032",
+    "kanji": "小さな",
+    "hiragana": "ちいさな",
+    "romaji": "chiisana",
+    "meaning": "kecil",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-033",
+    "kanji": "高い",
+    "hiragana": "たかい",
+    "romaji": "takai",
+    "meaning": "tinggi",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-034",
+    "kanji": "低い",
+    "hiragana": "ひくい",
+    "romaji": "hikui",
+    "meaning": "rendah",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-035",
+    "kanji": "にぎやか（な）",
+    "hiragana": "にぎやか（な）",
+    "romaji": "nigiyaka(na)",
+    "meaning": "ramai",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-036",
+    "kanji": "静か（な）",
+    "hiragana": "しずか（な）",
+    "romaji": "shizuka(na)",
+    "meaning": "sepi,  tenang",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-037",
+    "kanji": "広い",
+    "hiragana": "ひろい",
+    "romaji": "hiroi",
+    "meaning": "luas",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-038",
+    "kanji": "せまい",
+    "hiragana": "せまい",
+    "romaji": "semai",
+    "meaning": "sempit",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-039",
+    "kanji": "きれい（な）",
+    "hiragana": "きれい（な）",
+    "romaji": "kirei(na)",
+    "meaning": "bersih",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-040",
+    "kanji": "きたない",
+    "hiragana": "きたない",
+    "romaji": "kitanai",
+    "meaning": "kotor",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-041",
+    "kanji": "商店街",
+    "hiragana": "しょうてんがい",
+    "romaji": "shoutengai",
+    "meaning": "daerah pertokoan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-042",
+    "kanji": "お寺",
+    "hiragana": "おてら",
+    "romaji": "otera",
+    "meaning": "kuil Buddha",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-043",
+    "kanji": "野球場",
+    "hiragana": "やきゅうじょう",
+    "romaji": "yakyuujou",
+    "meaning": "stadion bisbol",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-044",
+    "kanji": "公園",
+    "hiragana": "こうえん",
+    "romaji": "kouen",
+    "meaning": "taman",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-045",
+    "kanji": "川",
+    "hiragana": "かわ",
+    "romaji": "kawa",
+    "meaning": "sungai",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-046",
+    "kanji": "通り",
+    "hiragana": "とおり",
+    "romaji": "toori",
+    "meaning": "jalan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-047",
+    "kanji": "有名（な）",
+    "hiragana": "ゆうめい（な）",
+    "romaji": "yuumei(na)",
+    "meaning": "terkenal",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-048",
+    "kanji": "あれ",
+    "hiragana": "あれ",
+    "romaji": "are",
+    "meaning": "itu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-049",
+    "kanji": "建物",
+    "hiragana": "たてもの",
+    "romaji": "tatemono",
+    "meaning": "bangunan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-050",
+    "kanji": "～ドーム（札幌ドーム）",
+    "hiragana": "～ドーム（さっぽろドーム）",
+    "romaji": "~doomu(sapporodoomu)",
+    "meaning": "~ Dome (sebutan untuk bangunan berkubah. Contoh : Sapporo Dome)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-051",
+    "kanji": "～でしょう？",
+    "hiragana": "～でしょう？",
+    "romaji": "~deshou？",
+    "meaning": "~ ya, kan? (ungkapan yang digunakan untuk mendapatkan persetujuan/kesamaan pendapat dari lawan bicara)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-052",
+    "kanji": "たくさん",
+    "hiragana": "たくさん",
+    "romaji": "takusan",
+    "meaning": "banyak",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-053",
+    "kanji": "見て",
+    "hiragana": "みて",
+    "romaji": "mite",
+    "meaning": "Lihat itu!",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-054",
+    "kanji": "そうだね",
+    "hiragana": "そうだね",
+    "romaji": "soudane",
+    "meaning": "Iya, ya. / Benar juga. (bentuk kasual dari そうですね)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-055",
+    "kanji": "危険",
+    "hiragana": "きけん",
+    "romaji": "kiken",
+    "meaning": "bahaya",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-056",
+    "kanji": "注意",
+    "hiragana": "ちゅうい",
+    "romaji": "chuui",
+    "meaning": "Perhatian!",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-057",
+    "kanji": "通行止",
+    "hiragana": "つうこうどめ",
+    "romaji": "tsuukoudome",
+    "meaning": "Jalan ditutup",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-058",
+    "kanji": "工事中",
+    "hiragana": "こうじちゅう",
+    "romaji": "koujichuu",
+    "meaning": "Sedang ada pekerjaan/pembangunan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-059",
+    "kanji": "たばこ",
+    "hiragana": "たばこ",
+    "romaji": "tabako",
+    "meaning": "rokok",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-060",
+    "kanji": "銀行",
+    "hiragana": "ぎんこう",
+    "romaji": "ginkou",
+    "meaning": "bank",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-061",
+    "kanji": "酒",
+    "hiragana": "さけ",
+    "romaji": "sake",
+    "meaning": "minuman beralkohol",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-062",
+    "kanji": "定休日",
+    "hiragana": "ていきゅうび",
+    "romaji": "teikyuubi",
+    "meaning": "Hari libur tetap,  Tutup setiap hari ~",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-063",
+    "kanji": "準備中",
+    "hiragana": "じゅんびちゅう",
+    "romaji": "junbichuu",
+    "meaning": "Dalam persiapan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-064",
+    "kanji": "営業中",
+    "hiragana": "えいぎょうちゅう",
+    "romaji": "eigyouchuu",
+    "meaning": "Buka",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-065",
+    "kanji": "祭 (日)",
+    "hiragana": "さい (じつ)",
+    "romaji": "sai (jitsu)",
+    "meaning": "Hari raya",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-066",
+    "kanji": "祝 (日)",
+    "hiragana": "しゅく (じつ)",
+    "romaji": "shuku (jitsu)",
+    "meaning": "Hari libur nasional",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-067",
+    "kanji": "24時間営業",
+    "hiragana": "にじゅうよじかんえいぎょう",
+    "romaji": "nijuuyojikan'eigyou",
+    "meaning": "Buka 24 jam",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-068",
+    "kanji": "年中無休",
+    "hiragana": "ねんじゅうむきゅう",
+    "romaji": "nenjuumukyuu",
+    "meaning": "Buka sepanjang tahun",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-069",
+    "kanji": "営業時間",
+    "hiragana": "えいぎょうじかん",
+    "romaji": "eigyoujikan",
+    "meaning": "jam operasional",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-070",
+    "kanji": "ランチ",
+    "hiragana": "ランチ",
+    "romaji": "ranchi",
+    "meaning": "makan siang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-071",
+    "kanji": "ディナー",
+    "hiragana": "ディナー",
+    "romaji": "dinaa",
+    "meaning": "makan malam",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-072",
+    "kanji": "受付時間",
+    "hiragana": "うけつけじかん",
+    "romaji": "uketsukejikan",
+    "meaning": "jam penerimaan pesanan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-14-073",
+    "kanji": "休",
+    "hiragana": "やすみ",
+    "romaji": "yasumi",
+    "meaning": "libur,  tutup",
+    "level": "N5",
+    "isExtra": false
+  }
+]

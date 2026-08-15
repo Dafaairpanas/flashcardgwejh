@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "ir-a2-2-06-001",
+    "kanji": "～発",
+    "hiragana": "～はつ",
+    "romaji": "~hatsu",
+    "meaning": "berangkat pada ~",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-002",
+    "kanji": "～着",
+    "hiragana": "～ちゃく",
+    "romaji": "~chaku",
+    "meaning": "tiba di ~",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-003",
+    "kanji": "～号",
+    "hiragana": "～ごう",
+    "romaji": "~gou",
+    "meaning": "nomor ~",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-004",
+    "kanji": "～号車",
+    "hiragana": "～ごうしゃ",
+    "romaji": "~gousha",
+    "meaning": "gerbong nomor ~",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-005",
+    "kanji": "～席",
+    "hiragana": "～せき",
+    "romaji": "~seki",
+    "meaning": "tempat duduk nomor ~",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-006",
+    "kanji": "特急券",
+    "hiragana": "とっきゅうけん",
+    "romaji": "tokkyuuken",
+    "meaning": "tiket kereta jenis ekspres (limited express)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-007",
+    "kanji": "秋田",
+    "hiragana": "あきた",
+    "romaji": "akita",
+    "meaning": "Akita",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-008",
+    "kanji": "こまち",
+    "hiragana": "こまち",
+    "romaji": "komachi",
+    "meaning": "Komachi (salah satu jenis kereta Shinkansen)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-009",
+    "kanji": "通路側",
+    "hiragana": "つうろがわ",
+    "romaji": "tsuurogawa",
+    "meaning": "tempat duduk dekat lorong",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-010",
+    "kanji": "窓側",
+    "hiragana": "まどがわ",
+    "romaji": "madogawa",
+    "meaning": "tempat duduk dekat jendela",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-011",
+    "kanji": "遅れ",
+    "hiragana": "おくれ",
+    "romaji": "okure",
+    "meaning": "terlambat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-012",
+    "kanji": "約（約10分）",
+    "hiragana": "やく（やくじゅっぷん）",
+    "romaji": "yaku(yakujuppun)",
+    "meaning": "sekitar ~ / kira-kira ~ (cth : kira-kira 10 menit)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-013",
+    "kanji": "～両編成（10両編成）",
+    "hiragana": "～りょうへんせい（じゅうりょうへんせい）",
+    "romaji": "~ryouhensei(juuryouhensei)",
+    "meaning": "terdiri dari ~ gerbong (cth : terdiri dari 10 gerbong kereta)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-014",
+    "kanji": "運転見合わせ",
+    "hiragana": "うんてんみあわせ",
+    "romaji": "untenmiawase",
+    "meaning": "dihentikan sementara waktu,  ditunda",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-015",
+    "kanji": "お知らせ",
+    "hiragana": "おしらせ",
+    "romaji": "oshirase",
+    "meaning": "pengumuman",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-016",
+    "kanji": "台風～号",
+    "hiragana": "たいふう～ごう",
+    "romaji": "taifuu~gou",
+    "meaning": "angin topan nomor ~",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-017",
+    "kanji": "接近",
+    "hiragana": "せっきん",
+    "romaji": "sekkin",
+    "meaning": "mendekat",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-018",
+    "kanji": "～に伴い",
+    "hiragana": "～に伴い",
+    "romaji": "~nitomonai",
+    "meaning": "sebagai akibat dari ~",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-019",
+    "kanji": "見合わせる",
+    "hiragana": "みあわせる",
+    "romaji": "miawaseru",
+    "meaning": "menunda",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-020",
+    "kanji": "ゆば",
+    "hiragana": "ゆば",
+    "romaji": "yuba",
+    "meaning": "yuba (kulit tahu khas Jepang)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-021",
+    "kanji": "外国",
+    "hiragana": "がいこく",
+    "romaji": "gaikoku",
+    "meaning": "luar negeri",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-022",
+    "kanji": "～泊（1泊）",
+    "hiragana": "～はく（いっぱく）",
+    "romaji": "~haku(ippaku)",
+    "meaning": "menginap ~ malam (cth : menginap semalam / 1 malam)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-023",
+    "kanji": "名物",
+    "hiragana": "めいぶつ",
+    "romaji": "meibutsu",
+    "meaning": "kuliner khas lokal",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-024",
+    "kanji": "東照宮",
+    "hiragana": "とうしょうぐう",
+    "romaji": "toushouguu",
+    "meaning": "Kuil Toshogu",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-025",
+    "kanji": "中禅寺湖",
+    "hiragana": "ちゅうぜんじこ",
+    "romaji": "chuuzenjiko",
+    "meaning": "Danau Chuzenji",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-026",
+    "kanji": "指定席",
+    "hiragana": "していせき",
+    "romaji": "shiteiseki",
+    "meaning": "tempat duduk sesuai pesanan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-027",
+    "kanji": "自由席",
+    "hiragana": "じゆうせき",
+    "romaji": "jiyuuseki",
+    "meaning": "tempat duduk bebas",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-028",
+    "kanji": "～番乗り場",
+    "hiragana": "～ばんのりば",
+    "romaji": "~bannoriba",
+    "meaning": "peron nomor ~",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-029",
+    "kanji": "～番線",
+    "hiragana": "～ばんせん",
+    "romaji": "~bansen",
+    "meaning": "jalur nomor ~",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-030",
+    "kanji": "～行き",
+    "hiragana": "～いき／～ゆき",
+    "romaji": "~iki/~yuki",
+    "meaning": "tujuan (ke) ~",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-031",
+    "kanji": "～線",
+    "hiragana": "～せん",
+    "romaji": "~sen",
+    "meaning": "jalur ~",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-032",
+    "kanji": "～方面",
+    "hiragana": "～ほうめん",
+    "romaji": "~houmen",
+    "meaning": "arah ~",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-033",
+    "kanji": "発車する",
+    "hiragana": "はっしゃする",
+    "romaji": "hasshasuru",
+    "meaning": "berangkat",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-034",
+    "kanji": "到着する",
+    "hiragana": "とうちゃくする",
+    "romaji": "touchakusuru",
+    "meaning": "tiba",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-035",
+    "kanji": "乗り換える",
+    "hiragana": "のりかえる",
+    "romaji": "norikaeru",
+    "meaning": "berpindah,  transfer",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-036",
+    "kanji": "特急",
+    "hiragana": "とっきゅう",
+    "romaji": "tokkyuu",
+    "meaning": "kereta ekspres (limited express)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-037",
+    "kanji": "～両（9両）",
+    "hiragana": "～りょう（きゅうりょう）",
+    "romaji": "~ryou(kyuuryou)",
+    "meaning": "~ gerbong (cth : sembilan gerbong)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-038",
+    "kanji": "順",
+    "hiragana": "じゅん",
+    "romaji": "jun",
+    "meaning": "urutan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-039",
+    "kanji": "グリーン車",
+    "hiragana": "グリーンしゃ",
+    "romaji": "guriinsha",
+    "meaning": "green car (gerbong eksekutif,  gerbong kelas utama)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-040",
+    "kanji": "金沢",
+    "hiragana": "かなざわ",
+    "romaji": "kanazawa",
+    "meaning": "Kanazawa",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-041",
+    "kanji": "列車",
+    "hiragana": "れっしゃ",
+    "romaji": "ressha",
+    "meaning": "kereta",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-042",
+    "kanji": "乗車／ご乗車",
+    "hiragana": "じょうしゃ／ごじょうしゃ",
+    "romaji": "jousha/gojousha",
+    "meaning": "naik ke kereta",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-043",
+    "kanji": "～ほど（3分ほど）",
+    "hiragana": "～ほど（さんぷんほど）",
+    "romaji": "~hodo(sanpunhodo)",
+    "meaning": "sekitar ~ / kira-kira ~ (cth : kira-kira 3 menit)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-044",
+    "kanji": "岡山",
+    "hiragana": "おかやま",
+    "romaji": "okayama",
+    "meaning": "Okayama",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-045",
+    "kanji": "お出口",
+    "hiragana": "でぐち",
+    "romaji": "deguchi",
+    "meaning": "pintu keluar (ungkapan bentuk sopan)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-046",
+    "kanji": "左側",
+    "hiragana": "ひだりがわ",
+    "romaji": "hidarigawa",
+    "meaning": "sisi kiri",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-047",
+    "kanji": "各駅",
+    "hiragana": "かくえき",
+    "romaji": "kakueki",
+    "meaning": "setiap stasiun",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-048",
+    "kanji": "向かい側",
+    "hiragana": "むかいがわ",
+    "romaji": "mukaigawa",
+    "meaning": "sisi berlawanan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-049",
+    "kanji": "中ほど",
+    "hiragana": "なかほど",
+    "romaji": "nakahodo",
+    "meaning": "tengah",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-050",
+    "kanji": "ご案内をいたします",
+    "hiragana": "ごあんないをいたします",
+    "romaji": "goannaiwoitashimasu",
+    "meaning": "Berikut adalah pengumuman. (ungkapan bentuk sopan)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-051",
+    "kanji": "お越しください",
+    "hiragana": "おこしください",
+    "romaji": "okoshikudasai",
+    "meaning": "Silakan menuju ke~ (ungkapan bentuk sopan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-052",
+    "kanji": "事故",
+    "hiragana": "じこ",
+    "romaji": "jiko",
+    "meaning": "kecelakaan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-053",
+    "kanji": "壊れる",
+    "hiragana": "こわれる",
+    "romaji": "kowareru",
+    "meaning": "rusak",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-054",
+    "kanji": "信号",
+    "hiragana": "しんごう",
+    "romaji": "shingou",
+    "meaning": "lampu lalu lintas",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-055",
+    "kanji": "信号故障",
+    "hiragana": "しんごうこしょう",
+    "romaji": "shingoukoshou",
+    "meaning": "kerusakan lampu lalu lintas",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-056",
+    "kanji": "アナウンス",
+    "hiragana": "アナウンス",
+    "romaji": "anaunsu",
+    "meaning": "pengumuman",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-057",
+    "kanji": "困る",
+    "hiragana": "こまる",
+    "romaji": "komaru",
+    "meaning": "menyulitkan,  membuat susah / jengkel",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-058",
+    "kanji": "何て言っていましたか",
+    "hiragana": "なんていっていましたか",
+    "romaji": "nanteitteimashitaka",
+    "meaning": "Apa katanya?",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-059",
+    "kanji": "当駅",
+    "hiragana": "とうえき",
+    "romaji": "toueki",
+    "meaning": "stasiun ini",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-060",
+    "kanji": "～のため",
+    "hiragana": "～のため",
+    "romaji": "~notame",
+    "meaning": "karena ~",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-061",
+    "kanji": "運転",
+    "hiragana": "うんてん",
+    "romaji": "unten",
+    "meaning": "pengoperasian (kereta)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-062",
+    "kanji": "お急ぎのところ",
+    "hiragana": "おいそぎのところ",
+    "romaji": "oisoginotokoro",
+    "meaning": "dalam keadaan terburu-buru (ungkapan bentuk sopan)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-063",
+    "kanji": "お知らせいたします",
+    "hiragana": "おしらせいたします",
+    "romaji": "oshiraseitashimasu",
+    "meaning": "Berikut adalah pengumuman. (ungkapan bentuk sopan)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-064",
+    "kanji": "行っております",
+    "hiragana": "おこなっております",
+    "romaji": "okonatteorimasu",
+    "meaning": "melakukan ~ (ungkapan bentuk sopan untuk しています)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-065",
+    "kanji": "ご迷惑をおかけします",
+    "hiragana": "ごめいわくをおかけします",
+    "romaji": "gomeiwakuwookakeshimasu",
+    "meaning": "Mohon maaf atas ketidaknyamanannya. (ungkapan bentuk sopan)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-066",
+    "kanji": "人身事故",
+    "hiragana": "じんしんじこ",
+    "romaji": "jinshinjiko",
+    "meaning": "kecelakaan fatal / serius",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-067",
+    "kanji": "影響",
+    "hiragana": "えいきょう",
+    "romaji": "eikyou",
+    "meaning": "dampak",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-068",
+    "kanji": "全線",
+    "hiragana": "ぜんせん",
+    "romaji": "zensen",
+    "meaning": "seluruh jalur",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-069",
+    "kanji": "お越し",
+    "hiragana": "おこし",
+    "romaji": "okoshi",
+    "meaning": "menuju (ungkapan bentuk sopan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-070",
+    "kanji": "ご利用ください",
+    "hiragana": "ごりようください",
+    "romaji": "goriyoukudasai",
+    "meaning": "Silakan gunakan (ungkapan bentuk sopan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-071",
+    "kanji": "感動する",
+    "hiragana": "かんどうする",
+    "romaji": "kandousuru",
+    "meaning": "menjadi tersentuh",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-072",
+    "kanji": "気持ちいい",
+    "hiragana": "きもちいい",
+    "romaji": "kimochiii",
+    "meaning": "menyegarkan perasaan / suasana hati",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-073",
+    "kanji": "残念（な）",
+    "hiragana": "ざんねん（な）",
+    "romaji": "zannen(na)",
+    "meaning": "mengecewakan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-074",
+    "kanji": "疲れる",
+    "hiragana": "つかれる",
+    "romaji": "tsukareru",
+    "meaning": "lelah,  capek / capai",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-075",
+    "kanji": "びっくりする",
+    "hiragana": "びっくりする",
+    "romaji": "bikkurisuru",
+    "meaning": "kaget,  terkejut",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-076",
+    "kanji": "驚く",
+    "hiragana": "おどろく",
+    "romaji": "odoroku",
+    "meaning": "kaget,  terkejut",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-077",
+    "kanji": "こわい",
+    "hiragana": "こわい",
+    "romaji": "kowai",
+    "meaning": "takut",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-078",
+    "kanji": "よかった",
+    "hiragana": "よかった",
+    "romaji": "yokatta",
+    "meaning": "bagus",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-079",
+    "kanji": "大阪",
+    "hiragana": "おおさか",
+    "romaji": "oosaka",
+    "meaning": "Osaka",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-080",
+    "kanji": "串カツ",
+    "hiragana": "くしカツ",
+    "romaji": "kushikatsu",
+    "meaning": "kushi-katsu (masakan campuran daging, sayuran dan seafood yang ditusukkan seperti sate)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-081",
+    "kanji": "たこ焼き",
+    "hiragana": "たこやき",
+    "romaji": "takoyaki",
+    "meaning": "takoyaki (masakan dengan isian gurita yang dipanggang berbentuk bola-bola)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-082",
+    "kanji": "登る",
+    "hiragana": "のぼる",
+    "romaji": "noboru",
+    "meaning": "naik",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-083",
+    "kanji": "あべのハルカス",
+    "hiragana": "あべのハルカス",
+    "romaji": "abenoharukasu",
+    "meaning": "Abeno Harukas (nama gedung pencakar langit di Osaka)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-084",
+    "kanji": "大阪城",
+    "hiragana": "おおさかじょう",
+    "romaji": "oosakajou",
+    "meaning": "Kastel Osaka",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-085",
+    "kanji": "通天閣",
+    "hiragana": "つうてんかく",
+    "romaji": "tsuutenkaku",
+    "meaning": "Menara Tsutenkaku",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-086",
+    "kanji": "鳥",
+    "hiragana": "とり",
+    "romaji": "tori",
+    "meaning": "burung",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-087",
+    "kanji": "あげる",
+    "hiragana": "あげる",
+    "romaji": "ageru",
+    "meaning": "memberi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-088",
+    "kanji": "つり",
+    "hiragana": "つり",
+    "romaji": "tsuri",
+    "meaning": "memancing",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-089",
+    "kanji": "空",
+    "hiragana": "そら",
+    "romaji": "sora",
+    "meaning": "langit",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-090",
+    "kanji": "ウミネコ",
+    "hiragana": "ウミネコ",
+    "romaji": "umineko",
+    "meaning": "camar ekor hitam",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-091",
+    "kanji": "あの辺",
+    "hiragana": "あのへん",
+    "romaji": "anohen",
+    "meaning": "sekitar sana",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-092",
+    "kanji": "浄土ヶ浜",
+    "hiragana": "じょうどがはま",
+    "romaji": "joudogahama",
+    "meaning": "Pantai Jodogahama",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-093",
+    "kanji": "ケーブルカー",
+    "hiragana": "ケーブルカー",
+    "romaji": "keeburukaa",
+    "meaning": "kereta gantung",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-094",
+    "kanji": "歩く",
+    "hiragana": "あるく",
+    "romaji": "aruku",
+    "meaning": "berjalan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-095",
+    "kanji": "リス",
+    "hiragana": "リス",
+    "romaji": "risu",
+    "meaning": "tupai",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-096",
+    "kanji": "だから",
+    "hiragana": "だから",
+    "romaji": "dakara",
+    "meaning": "karena itulah",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-097",
+    "kanji": "あきらめる",
+    "hiragana": "あきらめる",
+    "romaji": "akirameru",
+    "meaning": "menyerah",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-098",
+    "kanji": "頂上",
+    "hiragana": "ちょうじょう",
+    "romaji": "choujou",
+    "meaning": "puncak",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-099",
+    "kanji": "高尾山",
+    "hiragana": "たかおさん",
+    "romaji": "takaosan",
+    "meaning": "Gunung Takao",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-100",
+    "kanji": "町並み",
+    "hiragana": "まちなみ",
+    "romaji": "machinami",
+    "meaning": "pemandangan kota",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-101",
+    "kanji": "花畑",
+    "hiragana": "はなばたけ",
+    "romaji": "hanabatake",
+    "meaning": "ladang bunga",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-102",
+    "kanji": "イルミネーション",
+    "hiragana": "イルミネーション",
+    "romaji": "irumineeshon",
+    "meaning": "iluminasi (penerangan dengan lampu hias)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-103",
+    "kanji": "ショー",
+    "hiragana": "ショー",
+    "romaji": "shoo",
+    "meaning": "pertunjukan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-104",
+    "kanji": "泊まる",
+    "hiragana": "とまる",
+    "romaji": "tomaru",
+    "meaning": "menginap",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-105",
+    "kanji": "滝",
+    "hiragana": "たき",
+    "romaji": "taki",
+    "meaning": "air terjun",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-106",
+    "kanji": "きらきら",
+    "hiragana": "きらきら",
+    "romaji": "kirakira",
+    "meaning": "kilauan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-107",
+    "kanji": "光る",
+    "hiragana": "ひかる",
+    "romaji": "hikaru",
+    "meaning": "bercahaya",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-108",
+    "kanji": "ハウステンボス",
+    "hiragana": "ハウステンボス",
+    "romaji": "hausutenbosu",
+    "meaning": "Huis Ten Bosch (taman rekreasi di Prefektur Nagasaki)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-109",
+    "kanji": "オランダ",
+    "hiragana": "オランダ",
+    "romaji": "oranda",
+    "meaning": "Belanda",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-110",
+    "kanji": "インスタントラーメン",
+    "hiragana": "インスタントラーメン",
+    "romaji": "insutantoraamen",
+    "meaning": "mi instan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-111",
+    "kanji": "描く",
+    "hiragana": "かく",
+    "romaji": "kaku",
+    "meaning": "menggambar,  melukis",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-112",
+    "kanji": "カップラーメン",
+    "hiragana": "カップラーメン",
+    "romaji": "kappuraamen",
+    "meaning": "mi instan dalam kemasan cup",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-113",
+    "kanji": "絵",
+    "hiragana": "え",
+    "romaji": "e",
+    "meaning": "gambar",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-06-114",
+    "kanji": "トッピング",
+    "hiragana": "トッピング",
+    "romaji": "toppingu",
+    "meaning": "topping,  taburan",
+    "level": "-",
+    "isExtra": false
+  }
+]

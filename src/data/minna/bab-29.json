@@ -1,0 +1,650 @@
+[
+  {
+    "id": "mn-29-001",
+    "kanji": "［ああ］よかった。",
+    "hiragana": "［ああ、］よかった。",
+    "romaji": "[aa,]yokatta.",
+    "meaning": "[O,] syukur. (dipakai ketika merasa lega)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-002",
+    "kanji": "［お］ちゃわん",
+    "hiragana": "［お］ちゃわん",
+    "romaji": "[o]chawan",
+    "meaning": "mangkuk",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-003",
+    "kanji": "［お］皿",
+    "hiragana": "［お］さら",
+    "romaji": "[o]sara",
+    "meaning": "piring",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-004",
+    "kanji": "～の 方",
+    "hiragana": "～の ほう",
+    "romaji": "~no hou",
+    "meaning": "sebelah ~",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-005",
+    "kanji": "～側",
+    "hiragana": "～がわ",
+    "romaji": "~gawa",
+    "meaning": "sebelah ~",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-006",
+    "kanji": "～辺",
+    "hiragana": "～へん",
+    "romaji": "~hen",
+    "meaning": "sekitar ~",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-007",
+    "kanji": "お先に どうぞ。",
+    "hiragana": "おさきに どうぞ。",
+    "romaji": "osakini douzo.",
+    "meaning": "Silakan duluan!",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-008",
+    "kanji": "ガラス",
+    "hiragana": "ガラス",
+    "romaji": "garasu",
+    "meaning": "kaca",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-009",
+    "kanji": "コップ",
+    "hiragana": "コップ",
+    "romaji": "koppu",
+    "meaning": "gelas",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-010",
+    "kanji": "このくらい",
+    "hiragana": "このくらい",
+    "romaji": "konokurai",
+    "meaning": "segini",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-011",
+    "kanji": "この辺",
+    "hiragana": "このへん",
+    "romaji": "konohen",
+    "meaning": "sekitar sini",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-012",
+    "kanji": "スピーチ",
+    "hiragana": "スピーチ",
+    "romaji": "supiichi",
+    "meaning": "pidato (～を します：berpidato)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-013",
+    "kanji": "つきます［電気が～］",
+    "hiragana": "つきます",
+    "romaji": "tsukimasu",
+    "meaning": "[lampu] menyala",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-014",
+    "kanji": "ふきます",
+    "hiragana": "ふきます",
+    "romaji": "fukimasu",
+    "meaning": "mengelap",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-015",
+    "kanji": "ポケット",
+    "hiragana": "ポケット",
+    "romaji": "poketto",
+    "meaning": "kantong",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-016",
+    "kanji": "レポーター",
+    "hiragana": "レポーター",
+    "romaji": "repootaa",
+    "meaning": "wartawan, jurnalis, pelapor",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-017",
+    "kanji": "駅員",
+    "hiragana": "えきいん",
+    "romaji": "ekiin",
+    "meaning": "petugas stasiun",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-018",
+    "kanji": "駅前",
+    "hiragana": "えきまえ",
+    "romaji": "ekimae",
+    "meaning": "depan stasiun",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-019",
+    "kanji": "汚れます［服が～］",
+    "hiragana": "よごれます",
+    "romaji": "yogoremasu",
+    "meaning": "[baju] menjadi kotor",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-020",
+    "kanji": "壊れます［いすが～］",
+    "hiragana": "こわれます",
+    "romaji": "kowaremasu",
+    "meaning": "[kursi] rusak",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-021",
+    "kanji": "開きます［ドアが～］",
+    "hiragana": "あきます",
+    "romaji": "akimasu",
+    "meaning": "[pintu] terbuka",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-022",
+    "kanji": "外れます［ボタンが～］",
+    "hiragana": "はずれます",
+    "romaji": "hazuremasu",
+    "meaning": "[kancing] terlepas",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-023",
+    "kanji": "確か",
+    "hiragana": "たしか",
+    "romaji": "tashika",
+    "meaning": "kalau tidak salah",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-024",
+    "kanji": "覚えて いません。",
+    "hiragana": "おぼえて いません。",
+    "romaji": "oboete imasen.",
+    "meaning": "Tidak ingat.",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-025",
+    "kanji": "掛かります［かぎが～］",
+    "hiragana": "かかります",
+    "romaji": "kakarimasu",
+    "meaning": "terkunci",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-026",
+    "kanji": "割れます［コップが～］",
+    "hiragana": "われます",
+    "romaji": "waremasu",
+    "meaning": "[gelas] pecah",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-027",
+    "kanji": "間違えます",
+    "hiragana": "まちがえます",
+    "romaji": "machigaemasu",
+    "meaning": "bersalah",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-028",
+    "kanji": "源氏物語",
+    "hiragana": "げんじものがたり",
+    "romaji": "genjimonogatari",
+    "meaning": "Genji Monogatari (Novel yang disusun oleh Murasaki Shikibu pada zaman Heian)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-029",
+    "kanji": "交番",
+    "hiragana": "こうばん",
+    "romaji": "kouban",
+    "meaning": "pos polisi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-030",
+    "kanji": "今の 電車",
+    "hiragana": "いまの でんしゃ",
+    "romaji": "imano densha",
+    "meaning": "kereta tadi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-031",
+    "kanji": "指します",
+    "hiragana": "さします",
+    "romaji": "sashimasu",
+    "meaning": "menunjuk",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-032",
+    "kanji": "枝",
+    "hiragana": "えだ",
+    "romaji": "eda",
+    "meaning": "ranting",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-033",
+    "kanji": "止まります［車が～］",
+    "hiragana": "とまります",
+    "romaji": "tomarimasu",
+    "meaning": "[mobil] berhenti",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-034",
+    "kanji": "取り替えます",
+    "hiragana": "とりかえます",
+    "romaji": "torikaemasu",
+    "meaning": "mengganti",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-035",
+    "kanji": "書類",
+    "hiragana": "しょるい",
+    "romaji": "shorui",
+    "meaning": "dokumen",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-036",
+    "kanji": "消えます［電気が～］",
+    "hiragana": "きえます",
+    "romaji": "kiemasu",
+    "meaning": "[lampu] terpadam",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-037",
+    "kanji": "新宿",
+    "hiragana": "しんじゅく",
+    "romaji": "shinjuku",
+    "meaning": "stasiun di Tokyo/nama daerah",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-038",
+    "kanji": "針",
+    "hiragana": "はり",
+    "romaji": "hari",
+    "meaning": "jarum",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-039",
+    "kanji": "西",
+    "hiragana": "にし",
+    "romaji": "nishi",
+    "meaning": "barat",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-040",
+    "kanji": "折れます［木が～］",
+    "hiragana": "おれます",
+    "romaji": "oremasu",
+    "meaning": "[pohon] patah",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-041",
+    "kanji": "袋",
+    "hiragana": "ふくろ",
+    "romaji": "fukuro",
+    "meaning": "kantong",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-042",
+    "kanji": "地震",
+    "hiragana": "じしん",
+    "romaji": "jishin",
+    "meaning": "gempa bumi",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-043",
+    "kanji": "倒れます",
+    "hiragana": "たおれます",
+    "romaji": "taoremasu",
+    "meaning": "jatuh",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-044",
+    "kanji": "燃えます",
+    "hiragana": "もえます",
+    "romaji": "moemasu",
+    "meaning": "terbakar",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-045",
+    "kanji": "破れます［紙が～］",
+    "hiragana": "やぶれます",
+    "romaji": "yaburemasu",
+    "meaning": "[kertas] robek",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-046",
+    "kanji": "付きます［ポケットが～］",
+    "hiragana": "つきます",
+    "romaji": "tsukimasu",
+    "meaning": "[kantong] terpasang",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-047",
+    "kanji": "閉まります［ドアが～］",
+    "hiragana": "しまります",
+    "romaji": "shimarimasu",
+    "meaning": "[pintu] tertutup",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-048",
+    "kanji": "壁",
+    "hiragana": "かべ",
+    "romaji": "kabe",
+    "meaning": "dinding",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-049",
+    "kanji": "片づけます",
+    "hiragana": "かたづけます",
+    "romaji": "katazukemasu",
+    "meaning": "membereskan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-050",
+    "kanji": "返事",
+    "hiragana": "へんじ",
+    "romaji": "henji",
+    "meaning": "jawaban (～を します：memberi jawaban)",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-051",
+    "kanji": "忘れ物",
+    "hiragana": "わすれもの",
+    "romaji": "wasuremono",
+    "meaning": "barang yang tertinggal, ketinggalan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-052",
+    "kanji": "網棚",
+    "hiragana": "あみだな",
+    "romaji": "amidana",
+    "meaning": "rak bagasi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-053",
+    "kanji": "落とします",
+    "hiragana": "おとします",
+    "romaji": "otoshimasu",
+    "meaning": "menjatuhkan, kehilangan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-29-054",
+    "kanji": "すきます",
+    "hiragana": "すきます",
+    "romaji": "sukimasu",
+    "meaning": "sepi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-29-055",
+    "kanji": "ぬれている",
+    "hiragana": "ぬれている",
+    "romaji": "nureteiru",
+    "meaning": "basah",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-29-056",
+    "kanji": "ねじれている",
+    "hiragana": "ねじれている",
+    "romaji": "nejireteiru",
+    "meaning": "terpelintir",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-29-057",
+    "kanji": "ひびが入っている",
+    "hiragana": "ひびがはいっている",
+    "romaji": "hibigahaitteiru",
+    "meaning": "retak",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-29-058",
+    "kanji": "へこんでいる",
+    "hiragana": "へこんでいる",
+    "romaji": "hekondeiru",
+    "meaning": "penyok",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-29-059",
+    "kanji": "やせている",
+    "hiragana": "やせている",
+    "romaji": "yaseteiru",
+    "meaning": "kurus",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-29-060",
+    "kanji": "ゆがんでいる",
+    "hiragana": "ゆがんでいる",
+    "romaji": "yugandeiru",
+    "meaning": "melengkung",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-29-061",
+    "kanji": "乾いている",
+    "hiragana": "かわいている",
+    "romaji": "kawaiteiru",
+    "meaning": "kering",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-29-062",
+    "kanji": "曲がっている",
+    "hiragana": "まがっている",
+    "romaji": "magatteiru",
+    "meaning": "bengkok",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-29-063",
+    "kanji": "欠けている",
+    "hiragana": "かけている",
+    "romaji": "kaketeiru",
+    "meaning": "sumbing",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-29-064",
+    "kanji": "穴が開いている",
+    "hiragana": "あながあいている",
+    "romaji": "anagaaiteiru",
+    "meaning": "bolong",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-29-065",
+    "kanji": "込みます",
+    "hiragana": "こみます",
+    "romaji": "komimasu",
+    "meaning": "ramai, macet",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-29-066",
+    "kanji": "財布",
+    "hiragana": "さいふ",
+    "romaji": "saifu",
+    "meaning": "dompet",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-29-067",
+    "kanji": "状態",
+    "hiragana": "じょうたい",
+    "romaji": "joutai",
+    "meaning": "keadaan",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-29-068",
+    "kanji": "太っている",
+    "hiragana": "ふとっている",
+    "romaji": "futotteiru",
+    "meaning": "gemuk",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-29-069",
+    "kanji": "凍っている",
+    "hiragana": "こおっている",
+    "romaji": "kootteiru",
+    "meaning": "beku",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-29-070",
+    "kanji": "腐っている",
+    "hiragana": "くさっている",
+    "romaji": "kusatteiru",
+    "meaning": "busuk",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-29-071",
+    "kanji": "膨らんでいる",
+    "hiragana": "ふくらんでいる",
+    "romaji": "fukurandeiru",
+    "meaning": "kembung",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-29-072",
+    "kanji": "様子",
+    "hiragana": "ようす",
+    "romaji": "yousu",
+    "meaning": "kondisi",
+    "level": "N3",
+    "importinity": 2
+  }
+]

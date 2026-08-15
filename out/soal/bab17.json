@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Setiap hari harus menghafal 20 kosa kata kanji Jepang.",
+    "answer": "まいにち にほんご の かんじ の ことば を ２０ おぼえなければ なりません"
+  },
+  {
+    "question": "もう びょうき が よくなりまし から、 びょういん へ いかなくても いい です",
+    "answer": "Saya tidak perlu pergi ke kantor sakit karena sudah sembuh."
+  },
+  {
+    "question": "おつり を とる の を わすれないで ください",
+    "answer": "Uang kembaliannya jangan lupa diambil."
+  },
+  {
+    "question": "この しりょう は ほか の ひと に みせないで ください",
+    "answer": "Dokumen ini tolong jangan diperlihatkan kepada orang lain."
+  },
+  {
+    "question": "Jangan membuang sampah sembarangan di stasiun ini.",
+    "answer": "この えき で ごみ を すてないで ください"
+  },
+  {
+    "question": "この ふく は きょう せんたく しなくても いい です",
+    "answer": "Baju ini tidak usah dicuci hari ini."
+  },
+  {
+    "question": "しけん は かんたん です から、 しんぱい しなくても いい です よ",
+    "answer": "Tidak perlu khawatir, ujiannya mudah kok."
+  },
+  {
+    "question": "Kamu harus membayar uang masuk sebelum jam 5 sore.",
+    "answer": "ごご ５じ まで に おかね を はらわなければ なりません"
+  },
+  {
+    "question": "Saya harus minum obat karena sakit flu berat.",
+    "answer": "ひどい かぜ です から、くすり を のまなければ なりません"
+  },
+  {
+    "question": "Pakaian tebal tidak perlu dipakai karena hari ini panas.",
+    "answer": "きょう は あつい です から、 あつい ふく を きなくても いい です"
+  },
+  {
+    "question": "らいしゅう の どようび よる まで ざんぎょう しなければ なりません",
+    "answer": "Sabtu depan harus bekerja lembur sampai malam."
+  },
+  {
+    "question": "からだ の ため に、 まいあさ ジョギング しなければ なりません",
+    "answer": "Setiap pagi saya harus lari pagi demi kesehatan."
+  },
+  {
+    "question": "かぜ が さむい です から、 まど を おおきく あけないで ください",
+    "answer": "Tolong jangan buka jendela lebar-lebar karena anginnya dingin."
+  },
+  {
+    "question": "Paspor ini jangan sampai hilang ya, ini sangat penting.",
+    "answer": "この パスポート を なくさないで ください ね、たいせつ です から"
+  },
+  {
+    "question": "Karena sudah malam, kamu harus cepat tidur.",
+    "answer": "もう よる です から、 はやく ねなければ なりません"
+  },
+  {
+    "question": "Tolong jangan lupa mengembalikan buku perpustakaan besok.",
+    "answer": "あした としょかん の ほん を かえす の を わすれないで ください"
+  },
+  {
+    "question": "おそく ならない ように、 いま すぐ でかけなければ なりません",
+    "answer": "Saya harus segera berangkat sekarang agar tidak telat."
+  },
+  {
+    "question": "びじゅつかん で フラッシュ を つかって しゃしん を とらないで ください",
+    "answer": "Jangan mengambil foto memakai flash di museum seni."
+  },
+  {
+    "question": "Tolong jangan merokok di ruangan ini karena ada anak-anak.",
+    "answer": "こども が います から、この へや で たばこ を すわないで ください"
+  },
+  {
+    "question": "Besok tidak perlu membawa payung karena cuaca cerah.",
+    "answer": "あした は はれ です から、 かさ を もって こなくても いい です"
+  },
+  {
+    "question": "Karena ini berbahaya, jangan buka baju dan sepatu di sini.",
+    "answer": "あぶない です から、 ここ で うわぎ と くつ を ぬがないで ください"
+  },
+  {
+    "question": "Besok karena hari libur, tidak perlu bangun pagi-pagi.",
+    "answer": "あした は やすみ です から、 はやく おきなくても いい です"
+  },
+  {
+    "question": "Anda harus memperlihatkan kartu asuransi kesehatan di rumah sakit.",
+    "answer": "びょういん で けんこうほけんしょう を みせなければ なりません"
+  },
+  {
+    "question": "Obatnya harus diminum sampai dengan hari Jumat.",
+    "answer": "くすり は きんようび まで に のまなければ なりません"
+  },
+  {
+    "question": "Karena demam dan batuk, hari ini saya tidak boleh mandi (masuk ofuro).",
+    "answer": "ねつ と せき が でます から、 きょう は おふろ に はいらないで ください"
+  },
+  {
+    "question": "Tolong jangan lupakan dokumen yang penting itu.",
+    "answer": "あの たいせつな しりょう を わすれないで ください"
+  },
+  {
+    "question": "Karena saya melembur besok, Anda tidak perlu datang.",
+    "answer": "あした わたし は ざんぎょう します から、 こなくても いい です"
+  },
+  {
+    "question": "Saya sakit perut dan mual, karena itu harus cepat pulang.",
+    "answer": "おなか が いたくて、 はきけ が します から、 はやく かえらなければ なりません"
+  },
+  {
+    "question": "Di sini dilarang merokok, karena itu jangan merokok.",
+    "answer": "ここ は きんえん です から、 たばこ を すわないで ください"
+  },
+  {
+    "question": "Anda harus membayar sampai pukul 5 besok.",
+    "answer": "あした の ５じ まで に はらわなければ なりません"
+  },
+  {
+    "question": "かぜ と インフルエンザ です から、 ２、３にち でかけないで ください。",
+    "answer": "Karena masuk angin dan flu, tolong jangan keluar selama dua tiga hari."
+  },
+  {
+    "question": "この ほん は らいしゅう の げつようび まで に かえさなければ なりません。",
+    "answer": "Buku ini harus dikembalikan sampai dengan hari Senin minggu depan."
+  },
+  {
+    "question": "だいじょうぶ です から、 しんぱい しなくても いい です。",
+    "answer": "Karena tidak apa-apa, Anda tidak perlu khawatir."
+  },
+  {
+    "question": "しゅっちょう します から、 パスポート を なくさないで ください。",
+    "answer": "Karena akan dinas, tolong jangan hilangkan paspornya."
+  },
+  {
+    "question": "あたま が いたくて、 さむけ が します から、 くすり を のまなければ なりません。",
+    "answer": "Karena kepala sakit dan kedinginan, harus minum obat."
+  },
+  {
+    "question": "あした は びょうき が よくなります から、 びょういん へ いかなくても いい です。",
+    "answer": "Besok karena sakitnya akan membaik, tidak perlu pergi ke rumah sakit."
+  },
+  {
+    "question": "せんせい、 は が いたくて、 しょくよく が ありません。 どう しました か。",
+    "answer": "Dokter, gigi saya sakit dan tidak nafsu makan. Saya kenapa?"
+  },
+  {
+    "question": "きょう は はやく かえらなければ なりません。",
+    "answer": "Hari ini harus pulang cepat."
+  },
+  {
+    "question": "あの ざっし は ここ に おかないで ください。",
+    "answer": "Majalah itu, tolong jangan diletakkan di sini."
+  },
+  {
+    "question": "けが を しまし た から、 スポーツ を しないで ください。 おだいじ に。",
+    "answer": "Karena terluka, tolong jangan berolahraga. Semoga lekas sembuh."
+  }
+]

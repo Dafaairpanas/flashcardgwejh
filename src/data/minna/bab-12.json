@@ -1,0 +1,488 @@
+[
+  {
+    "id": "mn-12-001",
+    "kanji": "[お]すし",
+    "hiragana": "[お]すし",
+    "romaji": "[o]sushi",
+    "meaning": "Sushi (nasi dicampur cuka yang di atasnya diberi ikan mentah)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-002",
+    "kanji": "[お]祭り",
+    "hiragana": "[お]まつり",
+    "romaji": "[o]matsuri",
+    "meaning": "perayaan",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-003",
+    "kanji": "いい [コーヒーが〜]",
+    "hiragana": "いい [コーヒーが〜]",
+    "romaji": "ii [koohiiga~]",
+    "meaning": "lebih baik [kopi]",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-004",
+    "kanji": "いちばん",
+    "hiragana": "いちばん",
+    "romaji": "ichiban",
+    "meaning": "paling",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-005",
+    "kanji": "お帰りなさい。",
+    "hiragana": "おかえりなさい。",
+    "romaji": "okaerinasai.",
+    "meaning": "Sudah pulang ya.",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-006",
+    "kanji": "シンガポール",
+    "hiragana": "シンガポール",
+    "romaji": "shingapooru",
+    "meaning": "Singapura",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-007",
+    "kanji": "すき焼き",
+    "hiragana": "すきやき＊",
+    "romaji": "sukiyaki*",
+    "meaning": "Sukiyaki (masakan yang dimasak daging sapi dan sayur dalam panci)",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-008",
+    "kanji": "すごい 人ですね。",
+    "hiragana": "わあ、すごい ひとですね。",
+    "romaji": "waa,sugoi hitodesune.",
+    "meaning": "Wah, banyak orang.",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-009",
+    "kanji": "ずっと",
+    "hiragana": "ずっと",
+    "romaji": "zutto",
+    "meaning": "jauh lebih",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-010",
+    "kanji": "ただいま。",
+    "hiragana": "ただいま。",
+    "romaji": "tadaima.",
+    "meaning": "Saya kembali./Saya pulang.",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-011",
+    "kanji": "てんぷら",
+    "hiragana": "てんぷら",
+    "romaji": "tenpura",
+    "meaning": "Tempura (gorengan sari laut dan sayur yang dipakai tepung terigu)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-012",
+    "kanji": "どちら",
+    "hiragana": "どちら",
+    "romaji": "dochira",
+    "meaning": "yang mana",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-013",
+    "kanji": "どちらも",
+    "hiragana": "どちらも",
+    "romaji": "dochiramo",
+    "meaning": "dua-duanya, yang mana juga",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-014",
+    "kanji": "とり肉",
+    "hiragana": "とりにく",
+    "romaji": "toriniku",
+    "meaning": "daging ayam",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-015",
+    "kanji": "パーティー",
+    "hiragana": "パーティー",
+    "romaji": "paateii",
+    "meaning": "pesta (〜を します：berpesta)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-016",
+    "kanji": "ホテル",
+    "hiragana": "ホテル",
+    "romaji": "hoteru",
+    "meaning": "hotel",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-017",
+    "kanji": "ホンコン",
+    "hiragana": "ホンコン",
+    "romaji": "honkon",
+    "meaning": "Hong Kong (香港)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-018",
+    "kanji": "レモン",
+    "hiragana": "レモン",
+    "romaji": "remon",
+    "meaning": "lemon",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-019",
+    "kanji": "わあ",
+    "hiragana": "わあ、すごい ひとですね。",
+    "romaji": "waa,sugoi hitodesune.",
+    "meaning": "Wah, banyak orang.",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-020",
+    "kanji": "雨",
+    "hiragana": "あめ",
+    "romaji": "ame",
+    "meaning": "hujan",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-021",
+    "kanji": "遠い",
+    "hiragana": "とおい＊",
+    "romaji": "tooi*",
+    "meaning": "jauh",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-022",
+    "kanji": "温かい",
+    "hiragana": "あたたかい",
+    "romaji": "atatakai",
+    "meaning": "Hangat (Benda/Perasaan)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-023",
+    "kanji": "夏",
+    "hiragana": "なつ",
+    "romaji": "natsu",
+    "meaning": "musim panas",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-024",
+    "kanji": "海",
+    "hiragana": "うみ",
+    "romaji": "umi",
+    "meaning": "laut",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-025",
+    "kanji": "甘い",
+    "hiragana": "あまい",
+    "romaji": "amai",
+    "meaning": "manis",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-026",
+    "kanji": "簡単[な]",
+    "hiragana": "かんたん[な]",
+    "romaji": "kantan[na]",
+    "meaning": "mudah, gampang",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-027",
+    "kanji": "季節",
+    "hiragana": "きせつ",
+    "romaji": "kisetsu",
+    "meaning": "musim",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-028",
+    "kanji": "祇園祭",
+    "hiragana": "ぎおんまつり",
+    "romaji": "gionmatsuri",
+    "meaning": "Perayaan Gion (perayaan yang paling terkenal di Kyoto)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-029",
+    "kanji": "牛肉",
+    "hiragana": "ぎゅうにく",
+    "romaji": "gyuuniku",
+    "meaning": "daging sapi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-030",
+    "kanji": "近い",
+    "hiragana": "ちかい",
+    "romaji": "chikai",
+    "meaning": "dekat",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-031",
+    "kanji": "空港",
+    "hiragana": "くうこう",
+    "romaji": "kuukou",
+    "meaning": "bandara",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-032",
+    "kanji": "軽い",
+    "hiragana": "かるい＊",
+    "romaji": "karui*",
+    "meaning": "ringan",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-033",
+    "kanji": "紅葉",
+    "hiragana": "もみじ",
+    "romaji": "momiji",
+    "meaning": "maple, daun yang berubah warna menjadi merah",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-034",
+    "kanji": "刺身",
+    "hiragana": "さしみ＊",
+    "romaji": "sashimi*",
+    "meaning": "Sashimi (ikan mentah yang dipotong tipis)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-035",
+    "kanji": "秋",
+    "hiragana": "あき",
+    "romaji": "aki",
+    "meaning": "musim gugur",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-036",
+    "kanji": "重い",
+    "hiragana": "おもい",
+    "romaji": "omoi",
+    "meaning": "berat",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-037",
+    "kanji": "春",
+    "hiragana": "はる",
+    "romaji": "haru",
+    "meaning": "musim semi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-038",
+    "kanji": "初めて",
+    "hiragana": "はじめて",
+    "romaji": "hajimete",
+    "meaning": "untuk pertama kali",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-039",
+    "kanji": "少ない [人が〜]",
+    "hiragana": "すくない＊ [ひとが〜]",
+    "romaji": "sukunai* [hitoga~]",
+    "meaning": "sedikit [orang]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-040",
+    "kanji": "辛い",
+    "hiragana": "からい",
+    "romaji": "karai",
+    "meaning": "pedas",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-041",
+    "kanji": "世界",
+    "hiragana": "せかい",
+    "romaji": "sekai",
+    "meaning": "dunia",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-042",
+    "kanji": "生け花",
+    "hiragana": "いけばな",
+    "romaji": "ikebana",
+    "meaning": "seni merangkai bunga (〜を します：merangkai bunga)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-043",
+    "kanji": "雪",
+    "hiragana": "ゆき",
+    "romaji": "yuki",
+    "meaning": "salju",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-044",
+    "kanji": "早い",
+    "hiragana": "はやい",
+    "romaji": "hayai",
+    "meaning": "Cepat / Awal (Waktu)",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-045",
+    "kanji": "速い",
+    "hiragana": "はやい",
+    "romaji": "hayai",
+    "meaning": "Cepat (Kecepatan/Bergerak)",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-046",
+    "kanji": "多い [人が〜]",
+    "hiragana": "おおい [ひとが〜]",
+    "romaji": "ooi [hitoga~]",
+    "meaning": "banyak [orang]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-047",
+    "kanji": "暖かい",
+    "hiragana": "あたたかい",
+    "romaji": "atatakai",
+    "meaning": "Hangat (Cuaca/Iklim)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-048",
+    "kanji": "遅い",
+    "hiragana": "おそい＊",
+    "romaji": "osoi*",
+    "meaning": "lambat",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-049",
+    "kanji": "天気",
+    "hiragana": "てんき",
+    "romaji": "tenki",
+    "meaning": "cuaca",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-050",
+    "kanji": "冬",
+    "hiragana": "ふゆ",
+    "romaji": "fuyu",
+    "meaning": "musim dingin",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-051",
+    "kanji": "豚肉",
+    "hiragana": "ぶたにく＊",
+    "romaji": "butaniku*",
+    "meaning": "daging babi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-052",
+    "kanji": "曇り",
+    "hiragana": "くもり",
+    "romaji": "kumori",
+    "meaning": "mendung",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-053",
+    "kanji": "疲れました。",
+    "hiragana": "つかれました。",
+    "romaji": "tsukaremashita.",
+    "meaning": "Lelah.",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-12-054",
+    "kanji": "涼しい",
+    "hiragana": "すずしい",
+    "romaji": "suzushii",
+    "meaning": "sejuk",
+    "level": "N2",
+    "importinity": 1
+  }
+]

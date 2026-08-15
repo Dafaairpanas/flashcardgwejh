@@ -1,0 +1,668 @@
+[
+  {
+    "id": "ir-a1-10-001",
+    "kanji": "段ボール",
+    "hiragana": "だんボール",
+    "romaji": "danbooru",
+    "meaning": "kardus",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-002",
+    "kanji": "ドライバー",
+    "hiragana": "ドライバー",
+    "romaji": "doraibaa",
+    "meaning": "obeng",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-003",
+    "kanji": "ごみ",
+    "hiragana": "ごみ",
+    "romaji": "gomi",
+    "meaning": "sampah",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-004",
+    "kanji": "窓",
+    "hiragana": "まど",
+    "romaji": "mado",
+    "meaning": "jendela",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-005",
+    "kanji": "プロジェクタ",
+    "hiragana": "プロジェクタ",
+    "romaji": "purojiekuta",
+    "meaning": "proyektor",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-006",
+    "kanji": "リモコン",
+    "hiragana": "リモコン",
+    "romaji": "rimokon",
+    "meaning": "alat kendali jarak jauh (remote control)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-007",
+    "kanji": "置いて（ください）",
+    "hiragana": "おいて（ください）",
+    "romaji": "oite(kudasai)",
+    "meaning": "(Tolong) letakkan.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-008",
+    "kanji": "取って（ください）",
+    "hiragana": "とって（ください）",
+    "romaji": "totte(kudasai)",
+    "meaning": "(Tolong) ambilkan.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-009",
+    "kanji": "並べて（ください）",
+    "hiragana": "ならべて（ください）",
+    "romaji": "narabete(kudasai)",
+    "meaning": "(Tolong) susun.",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-010",
+    "kanji": "片付けて（ください）",
+    "hiragana": "かたづけて（ください）",
+    "romaji": "katazukete(kudasai)",
+    "meaning": "(Tolong) rapikan.",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-011",
+    "kanji": "捨てて（ください）",
+    "hiragana": "すてて（ください）",
+    "romaji": "sutete(kudasai)",
+    "meaning": "(Tolong) buang.",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-012",
+    "kanji": "持って来て（ください）",
+    "hiragana": "もってきて（ください）",
+    "romaji": "mottekite(kudasai)",
+    "meaning": "(Tolong) bawakan ke sini.",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-013",
+    "kanji": "持って行って（ください）",
+    "hiragana": "もっていって（ください）",
+    "romaji": "motteitte(kudasai)",
+    "meaning": "(Tolong) bawakan ke sana.",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-014",
+    "kanji": "閉めて（ください）",
+    "hiragana": "しめて（ください）",
+    "romaji": "shimete(kudasai)",
+    "meaning": "(Tolong) tutup.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-015",
+    "kanji": "手伝って（ください）",
+    "hiragana": "てつだって（ください）",
+    "romaji": "tetsudatte(kudasai)",
+    "meaning": "(Tolong) bantu.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-016",
+    "kanji": "～枚",
+    "hiragana": "～まい",
+    "romaji": "~mai",
+    "meaning": "~ lembar",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-017",
+    "kanji": "コピー",
+    "hiragana": "コピー",
+    "romaji": "kopii",
+    "meaning": "fotokopi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-018",
+    "kanji": "隣",
+    "hiragana": "となり",
+    "romaji": "tonari",
+    "meaning": "sebelah",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-019",
+    "kanji": "～までに",
+    "hiragana": "～までに",
+    "romaji": "~madeni",
+    "meaning": "sampai ~",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-020",
+    "kanji": "あとで",
+    "hiragana": "あとで",
+    "romaji": "atode",
+    "meaning": "nanti",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-021",
+    "kanji": "もしもし",
+    "hiragana": "もしもし",
+    "romaji": "moshimoshi",
+    "meaning": "Halo (untuk di telepon)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-022",
+    "kanji": "来てください",
+    "hiragana": "きてください",
+    "romaji": "kitekudasai",
+    "meaning": "Tolong datang.",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-023",
+    "kanji": "13時",
+    "hiragana": "じゅうさんじ",
+    "romaji": "juusanji",
+    "meaning": "pukul 13:00 (1:00 p.m.)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-024",
+    "kanji": "14時",
+    "hiragana": "じゅうよじ",
+    "romaji": "juuyoji",
+    "meaning": "pukul 14:00 (2:00 p.m.)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-025",
+    "kanji": "15時",
+    "hiragana": "じゅうごじ",
+    "romaji": "juugoji",
+    "meaning": "pukul 15:00 (3:00 p.m.)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-026",
+    "kanji": "16時",
+    "hiragana": "じゅうろくじ",
+    "romaji": "juurokuji",
+    "meaning": "pukul 16:00 (4:00 p.m.)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-027",
+    "kanji": "17時",
+    "hiragana": "じゅうしちじ",
+    "romaji": "juushichiji",
+    "meaning": "pukul 17:00 (5:00 p.m.)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-028",
+    "kanji": "18時",
+    "hiragana": "じゅうはちじ",
+    "romaji": "juuhachiji",
+    "meaning": "pukul 18:00 (6:00 p.m.)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-029",
+    "kanji": "19時",
+    "hiragana": "じゅうくじ",
+    "romaji": "juukuji",
+    "meaning": "pukul 19:00 (7:00 p.m.)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-030",
+    "kanji": "20時",
+    "hiragana": "にじゅうじ",
+    "romaji": "nijuuji",
+    "meaning": "pukul 20:00 (8:00 p.m.)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-031",
+    "kanji": "21時",
+    "hiragana": "にじゅういちじ",
+    "romaji": "nijuuichiji",
+    "meaning": "pukul 21:00 (9:00 p.m.)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-032",
+    "kanji": "22時",
+    "hiragana": "にじゅうにじ",
+    "romaji": "nijuuniji",
+    "meaning": "pukul 22:00 (10:00 p.m.)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-033",
+    "kanji": "23時",
+    "hiragana": "にじゅうさんじ",
+    "romaji": "nijuusanji",
+    "meaning": "pukul 23:00 (11:00 p.m.)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-034",
+    "kanji": "0時",
+    "hiragana": "れいじ",
+    "romaji": "reiji",
+    "meaning": "pukul 00:00 (12:00 tengah malam)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-035",
+    "kanji": "すぐに",
+    "hiragana": "すぐに",
+    "romaji": "suguni",
+    "meaning": "segera",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-036",
+    "kanji": "第～（第2）",
+    "hiragana": "だい～（だいに）",
+    "romaji": "dai~(daini)",
+    "meaning": "No. ~ (contoh: No. 2)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-037",
+    "kanji": "～部（100部）",
+    "hiragana": "～ぶ（ひゃくぶ）",
+    "romaji": "~bu(hyakubu)",
+    "meaning": "~ eksemplar, lembar (contoh: 100 eksemplar, 100 lembar)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-038",
+    "kanji": "電話する / 電話します",
+    "hiragana": "でんわする / でんわします",
+    "romaji": "denwasuru / denwashimasu",
+    "meaning": "menelepon",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-039",
+    "kanji": "電話してください",
+    "hiragana": "でんわしてください",
+    "romaji": "denwashitekudasai",
+    "meaning": "Tolong telepon, Tolong hubungi.",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-040",
+    "kanji": "折り返し",
+    "hiragana": "おりかえし",
+    "romaji": "orikaeshi",
+    "meaning": "menghubungi kembali",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-041",
+    "kanji": "電話がありました",
+    "hiragana": "でんわがありました",
+    "romaji": "denwagaarimashita",
+    "meaning": "Ada telepon.",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-042",
+    "kanji": "貸す / 貸します",
+    "hiragana": "かす / かします",
+    "romaji": "kasu / kashimasu",
+    "meaning": "meminjamkan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-043",
+    "kanji": "借りる / 借ります",
+    "hiragana": "かりる / かります",
+    "romaji": "kariru / karimasu",
+    "meaning": "meminjam",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-044",
+    "kanji": "はさみ",
+    "hiragana": "はさみ",
+    "romaji": "hasami",
+    "meaning": "gunting",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-045",
+    "kanji": "カッター",
+    "hiragana": "カッター",
+    "romaji": "kattaa",
+    "meaning": "pisau cutter",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-046",
+    "kanji": "のり",
+    "hiragana": "のり",
+    "romaji": "nori",
+    "meaning": "lem",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-047",
+    "kanji": "ホチキス",
+    "hiragana": "ホチキス",
+    "romaji": "hochikisu",
+    "meaning": "stapler",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-048",
+    "kanji": "えんぴつ",
+    "hiragana": "えんぴつ",
+    "romaji": "enpitsu",
+    "meaning": "pensil",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-049",
+    "kanji": "ペン",
+    "hiragana": "ペン",
+    "romaji": "pen",
+    "meaning": "pena",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-050",
+    "kanji": "電卓",
+    "hiragana": "でんたく",
+    "romaji": "dentaku",
+    "meaning": "kalkulator",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-051",
+    "kanji": "充電器",
+    "hiragana": "じゅうでんき",
+    "romaji": "juudenki",
+    "meaning": "pengisi daya (charger)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-052",
+    "kanji": "ふせん",
+    "hiragana": "ふせん",
+    "romaji": "fusen",
+    "meaning": "notes tempel (sticky note)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-053",
+    "kanji": "いいよ",
+    "hiragana": "いいよ",
+    "romaji": "iiyo",
+    "meaning": "Oke. (Bentuk informal dari いいですよ (Boleh))",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-054",
+    "kanji": "ありますよ / あるよ",
+    "hiragana": "ありますよ / あるよ",
+    "romaji": "arimasuyo / aruyo",
+    "meaning": "Saya punya/ Ada, kok.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-055",
+    "kanji": "フォーク",
+    "hiragana": "フォーク",
+    "romaji": "fooku",
+    "meaning": "garpu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-056",
+    "kanji": "ナイフ",
+    "hiragana": "ナイフ",
+    "romaji": "naifu",
+    "meaning": "pisau",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-057",
+    "kanji": "スプーン",
+    "hiragana": "スプーン",
+    "romaji": "supuun",
+    "meaning": "sendok",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-058",
+    "kanji": "はし",
+    "hiragana": "はし",
+    "romaji": "hashi",
+    "meaning": "sumpit",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-059",
+    "kanji": "塩",
+    "hiragana": "しお",
+    "romaji": "shio",
+    "meaning": "garam",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-060",
+    "kanji": "こしょう",
+    "hiragana": "こしょう",
+    "romaji": "koshou",
+    "meaning": "lada",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-061",
+    "kanji": "砂糖",
+    "hiragana": "さとう",
+    "romaji": "satou",
+    "meaning": "gula",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-062",
+    "kanji": "ミルク",
+    "hiragana": "ミルク",
+    "romaji": "miruku",
+    "meaning": "susu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-063",
+    "kanji": "備品リスト",
+    "hiragana": "びひんリスト",
+    "romaji": "bihinrisuto",
+    "meaning": "inventaris (daftar barang)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-064",
+    "kanji": "品名",
+    "hiragana": "ひんめい",
+    "romaji": "hinmei",
+    "meaning": "nama barang",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-065",
+    "kanji": "数量",
+    "hiragana": "すうりょう",
+    "romaji": "suuryou",
+    "meaning": "kuantitas, jumlah",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-066",
+    "kanji": "石けん",
+    "hiragana": "せっけん",
+    "romaji": "sekken",
+    "meaning": "sabun batang",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-067",
+    "kanji": "シャンプー",
+    "hiragana": "シャンプー",
+    "romaji": "shanpuu",
+    "meaning": "sampo",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-068",
+    "kanji": "コンディショナー",
+    "hiragana": "コンディショナー",
+    "romaji": "kondishonaa",
+    "meaning": "kondisioner",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-069",
+    "kanji": "歯ブラシ",
+    "hiragana": "はブラシ",
+    "romaji": "haburashi",
+    "meaning": "sikat gigi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-070",
+    "kanji": "かみそり",
+    "hiragana": "かみそり",
+    "romaji": "kamisori",
+    "meaning": "pisau cukur",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-071",
+    "kanji": "タオル",
+    "hiragana": "タオル",
+    "romaji": "taoru",
+    "meaning": "handuk",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-072",
+    "kanji": "バスタオル",
+    "hiragana": "バスタオル",
+    "romaji": "basutaoru",
+    "meaning": "handuk mandi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-073",
+    "kanji": "トイレットペーパー",
+    "hiragana": "トイレットペーパー",
+    "romaji": "toirettopeepaa",
+    "meaning": "tisu toilet",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-10-074",
+    "kanji": "バスルーム",
+    "hiragana": "バスルーム",
+    "romaji": "basuruumu",
+    "meaning": "kamar mandi",
+    "level": "-",
+    "isExtra": false
+  }
+]

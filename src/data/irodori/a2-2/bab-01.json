@@ -1,0 +1,515 @@
+[
+  {
+    "id": "ir-a2-2-01-001",
+    "kanji": "主任",
+    "hiragana": "しゅにん",
+    "romaji": "shunin",
+    "meaning": "ketua,  kepala",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-002",
+    "kanji": "パート",
+    "hiragana": "パート",
+    "romaji": "paato",
+    "meaning": "pekerja paruh waktu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-003",
+    "kanji": "いちばん",
+    "hiragana": "いちばん",
+    "romaji": "ichiban",
+    "meaning": "paling",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-004",
+    "kanji": "長い",
+    "hiragana": "ながい",
+    "romaji": "nagai",
+    "meaning": "lama,  panjang (waktu)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-005",
+    "kanji": "～出身（中国出身）",
+    "hiragana": "～しゅっしん（ちゅうごくしゅっしん）",
+    "romaji": "~shusshin(chuugokushusshin)",
+    "meaning": "berasal dari ～ (cth : berasal dari Tiongkok)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-006",
+    "kanji": "手続き",
+    "hiragana": "てつづき",
+    "romaji": "tetsuzuki",
+    "meaning": "prosedur",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-007",
+    "kanji": "生活",
+    "hiragana": "せいかつ",
+    "romaji": "seikatsu",
+    "meaning": "kehidupan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-008",
+    "kanji": "いろいろ（な）",
+    "hiragana": "いろいろ（な）",
+    "romaji": "iroiro(na)",
+    "meaning": "bermacam-macam,  berbagai",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-009",
+    "kanji": "何でも",
+    "hiragana": "なんでも",
+    "romaji": "nandemo",
+    "meaning": "apapun",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-010",
+    "kanji": "～でよかったら（私でよかったら）",
+    "hiragana": "～でよかったら（わたしでよかったら）",
+    "romaji": "~deyokattara(watashideyokattara)",
+    "meaning": "jika～ berkenan / tidak masalah (cth : jika saya diperkenankan)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-011",
+    "kanji": "いつでも",
+    "hiragana": "いつでも",
+    "romaji": "itsudemo",
+    "meaning": "kapanpun",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-012",
+    "kanji": "担当",
+    "hiragana": "たんとう",
+    "romaji": "tantou",
+    "meaning": "bertanggung jawab,  penanggung jawab",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-013",
+    "kanji": "申す",
+    "hiragana": "もうす",
+    "romaji": "mousu",
+    "meaning": "bernama,  dipanggil sebagai (nama)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-014",
+    "kanji": "呼ぶ",
+    "hiragana": "よぶ",
+    "romaji": "yobu",
+    "meaning": "memanggil",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-015",
+    "kanji": "一生懸命",
+    "hiragana": "いっしょうけんめい",
+    "romaji": "isshoukenmei",
+    "meaning": "bekerja keras",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-016",
+    "kanji": "がんばる",
+    "hiragana": "がんばる",
+    "romaji": "ganbaru",
+    "meaning": "berusaha,  bekerja keras",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-017",
+    "kanji": "J-POP",
+    "hiragana": "ジェーポップ",
+    "romaji": "jieepoppu",
+    "meaning": "musik pop Jepang,  japanese pop music",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-018",
+    "kanji": "がんばります",
+    "hiragana": "がんばります",
+    "romaji": "ganbarimasu",
+    "meaning": "Saya akan berusaha / bekerja keras sebaik mungkin",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-019",
+    "kanji": "Perfume",
+    "hiragana": "パフューム",
+    "romaji": "pafuyuumu",
+    "meaning": "Perfume (kelompok musik pop Jepang beraliran techno-pop yang terdiri dari 3 orang penyanyi wanita)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-020",
+    "kanji": "方角",
+    "hiragana": "ほうがく",
+    "romaji": "hougaku",
+    "meaning": "arah",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-021",
+    "kanji": "北",
+    "hiragana": "きた",
+    "romaji": "kita",
+    "meaning": "utara",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-022",
+    "kanji": "東",
+    "hiragana": "ひがし",
+    "romaji": "higashi",
+    "meaning": "timur",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-023",
+    "kanji": "南",
+    "hiragana": "みなみ",
+    "romaji": "minami",
+    "meaning": "selatan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-024",
+    "kanji": "西",
+    "hiragana": "にし",
+    "romaji": "nishi",
+    "meaning": "barat",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-025",
+    "kanji": "自然",
+    "hiragana": "しぜん",
+    "romaji": "shizen",
+    "meaning": "alam",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-026",
+    "kanji": "川",
+    "hiragana": "かわ",
+    "romaji": "kawa",
+    "meaning": "sungai",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-027",
+    "kanji": "島",
+    "hiragana": "しま",
+    "romaji": "shima",
+    "meaning": "pulau",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-028",
+    "kanji": "森",
+    "hiragana": "もり",
+    "romaji": "mori",
+    "meaning": "hutan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-029",
+    "kanji": "ジャングル",
+    "hiragana": "ジャングル",
+    "romaji": "janguru",
+    "meaning": "hutan rimba,  hutan belantara",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-030",
+    "kanji": "草原",
+    "hiragana": "そうげん",
+    "romaji": "sougen",
+    "meaning": "padang rumput",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-031",
+    "kanji": "砂漠",
+    "hiragana": "さばく",
+    "romaji": "sabaku",
+    "meaning": "padang pasir",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-032",
+    "kanji": "高原",
+    "hiragana": "こうげん",
+    "romaji": "kougen",
+    "meaning": "dataran tinggi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-033",
+    "kanji": "首都",
+    "hiragana": "しゅと",
+    "romaji": "shuto",
+    "meaning": "ibu kota",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-034",
+    "kanji": "観光地",
+    "hiragana": "かんこうち",
+    "romaji": "kankouchi",
+    "meaning": "destinasi wisata,  tempat wisata",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-035",
+    "kanji": "モンゴル",
+    "hiragana": "モンゴル",
+    "romaji": "mongoru",
+    "meaning": "Mongolia",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-036",
+    "kanji": "のんびりしている",
+    "hiragana": "のんびりしている",
+    "romaji": "nonbirishiteiru",
+    "meaning": "santai,  bersantai",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-037",
+    "kanji": "都会",
+    "hiragana": "とかい",
+    "romaji": "tokai",
+    "meaning": "kota",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-038",
+    "kanji": "畑",
+    "hiragana": "はたけ",
+    "romaji": "hatake",
+    "meaning": "ladang",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-039",
+    "kanji": "観光客",
+    "hiragana": "かんこうきゃく",
+    "romaji": "kankoukyaku",
+    "meaning": "turis,  wisatawan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-040",
+    "kanji": "大勢",
+    "hiragana": "おおぜい",
+    "romaji": "oozei",
+    "meaning": "banyak",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-041",
+    "kanji": "お客さん",
+    "hiragana": "おきゃくさん",
+    "romaji": "okyakusan",
+    "meaning": "tamu,  pengunjung",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-042",
+    "kanji": "テント",
+    "hiragana": "テント",
+    "romaji": "tento",
+    "meaning": "tenda",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-043",
+    "kanji": "違います",
+    "hiragana": "ちがいます",
+    "romaji": "chigaimasu",
+    "meaning": "berbeda",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-044",
+    "kanji": "セブ",
+    "hiragana": "セブ",
+    "romaji": "sebu",
+    "meaning": "Cebu (Kota di Filipina)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-045",
+    "kanji": "ウランバートル",
+    "hiragana": "ウランバートル",
+    "romaji": "uranbaatoru",
+    "meaning": "Ulan Bator (Ibu kota Mongolia)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-046",
+    "kanji": "ホーチミン",
+    "hiragana": "ホーチミン",
+    "romaji": "hoochimin",
+    "meaning": "Ho Chi Minh (Kota di Vietnam)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-047",
+    "kanji": "ウォノソボ",
+    "hiragana": "ウォノソボ",
+    "romaji": "uonosobo",
+    "meaning": "Wonosobo (Kota di Jawa Tengah)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-048",
+    "kanji": "セブ島",
+    "hiragana": "セブとう",
+    "romaji": "sebutou",
+    "meaning": "Pulau Cebu",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-049",
+    "kanji": "自己紹介",
+    "hiragana": "じこしょうかい",
+    "romaji": "jikoshoukai",
+    "meaning": "perkenalan diri",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-050",
+    "kanji": "猫",
+    "hiragana": "ねこ",
+    "romaji": "neko",
+    "meaning": "kucing",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-051",
+    "kanji": "グループ",
+    "hiragana": "グループ",
+    "romaji": "guruupu",
+    "meaning": "grup,  kelompok",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-052",
+    "kanji": "コミュニケーションする",
+    "hiragana": "コミュニケーションする",
+    "romaji": "komyunikeeshonsuru",
+    "meaning": "berkomunikasi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-053",
+    "kanji": "インド料理",
+    "hiragana": "インドりょうり",
+    "romaji": "indoryouri",
+    "meaning": "masakan khas India",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-054",
+    "kanji": "食べ歩き",
+    "hiragana": "たべあるき",
+    "romaji": "tabearuki",
+    "meaning": "wisata kuliner (di berbagai daerah & tempat)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-055",
+    "kanji": "ニックネーム",
+    "hiragana": "ニックネーム",
+    "romaji": "nikkuneemu",
+    "meaning": "nama panggilan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-056",
+    "kanji": "バンコク",
+    "hiragana": "バンコク",
+    "romaji": "bankoku",
+    "meaning": "Bangkok (Ibu kota Thailand)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-01-057",
+    "kanji": "アニソン",
+    "hiragana": "アニソン",
+    "romaji": "anison",
+    "meaning": "ani-son (anime song),  lagu film animasi",
+    "level": "-",
+    "isExtra": false
+  }
+]

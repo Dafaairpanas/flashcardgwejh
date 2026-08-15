@@ -1,0 +1,245 @@
+[
+  {
+    "id": "mn-24-001",
+    "kanji": "[お]菓子",
+    "hiragana": "[お]かし",
+    "romaji": "[o]kashi",
+    "meaning": "kue",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-24-002",
+    "kanji": "おじいさん／おじいちゃん",
+    "hiragana": "おじいさん／おじいちゃん",
+    "romaji": "ojiisan/ojiichan",
+    "meaning": "kakek",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-24-003",
+    "kanji": "おばあさん／おばあちゃん",
+    "hiragana": "おばあさん／おばあちゃん",
+    "romaji": "obaasan/obaachan",
+    "meaning": "nenek",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-24-004",
+    "kanji": "くれますⅡ",
+    "hiragana": "くれますⅡ",
+    "romaji": "kuremasuⅡ",
+    "meaning": "diberikan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-24-005",
+    "kanji": "ホームステイ",
+    "hiragana": "ホームステイ",
+    "romaji": "hoomusutei",
+    "meaning": "homestay",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-24-006",
+    "kanji": "ほかに",
+    "hiragana": "ほかに",
+    "romaji": "hokani",
+    "meaning": "selain, yang lain",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-24-007",
+    "kanji": "案内します",
+    "hiragana": "あんないしますⅢ",
+    "romaji": "annaishimasuⅢ",
+    "meaning": "mengantarkan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-24-008",
+    "kanji": "引っ越し",
+    "hiragana": "ひっこし",
+    "romaji": "hikkoshi",
+    "meaning": "pindah rumah (〜[を] します：pindah, memindahkan)",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-24-009",
+    "kanji": "自分で",
+    "hiragana": "じぶんで",
+    "romaji": "jibunde",
+    "meaning": "dengan sendiri",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-24-010",
+    "kanji": "準備",
+    "hiragana": "じゅんび",
+    "romaji": "junbi",
+    "meaning": "persiapan (〜[を] します：mempersiapkan, menyiapkan)",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-24-011",
+    "kanji": "紹介します",
+    "hiragana": "しょうかいしますⅢ",
+    "romaji": "shoukaishimasuⅢ",
+    "meaning": "memperkenalkan",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-24-012",
+    "kanji": "説明します",
+    "hiragana": "せつめいしますⅢ",
+    "romaji": "setsumeishimasuⅢ",
+    "meaning": "menjelaskan, menerangkan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-24-013",
+    "kanji": "全部",
+    "hiragana": "ぜんぶ",
+    "romaji": "zenbu",
+    "meaning": "semua",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-24-014",
+    "kanji": "送ります [人を〜]",
+    "hiragana": "おくりますⅠ [ひとを〜]",
+    "romaji": "okurimasuⅠ [hitowo~]",
+    "meaning": "mengantar [orang]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-24-015",
+    "kanji": "直します",
+    "hiragana": "なおしますⅠ",
+    "romaji": "naoshimasuⅠ",
+    "meaning": "mengoreksi",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-24-016",
+    "kanji": "母の日",
+    "hiragana": "ははのひ",
+    "romaji": "hahanohi",
+    "meaning": "hari Ibu",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-24-017",
+    "kanji": "連れて 行きます",
+    "hiragana": "つれて いきますⅠ",
+    "romaji": "tsurete ikimasuⅠ",
+    "meaning": "membawa, mengajak pergi",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-24-018",
+    "kanji": "連れて 来ます",
+    "hiragana": "つれて きますⅢ＊",
+    "romaji": "tsurete kimasuⅢ*",
+    "meaning": "membawa datang, mengajak datang",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-24-019",
+    "kanji": "お見舞い",
+    "hiragana": "おみまい",
+    "romaji": "omimai",
+    "meaning": "Hadiah yang diberikan kepada orang yang sedang sakit (bunga, buah-buahan, dll.).",
+    "level": "N3",
+    "importinity": 3
+  },
+  {
+    "id": "mn-24-020",
+    "kanji": "お香典",
+    "hiragana": "おこうでん",
+    "romaji": "okouden",
+    "meaning": "Uang yang diberikan kepada keluarga yang berduka",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-24-021",
+    "kanji": "お歳暮",
+    "hiragana": "おせいぼ",
+    "romaji": "oseibo",
+    "meaning": "[Desember] Hadiah yang diberikan kepada orang yang telah memberi bantuan, seperti dokter, guru, atasan, dll. (makanan, dll.).",
+    "level": "N3",
+    "importinity": 3
+  },
+  {
+    "id": "mn-24-022",
+    "kanji": "お中元",
+    "hiragana": "おちゅうげん",
+    "romaji": "ochuugen",
+    "meaning": "[Juli atau Agustus] Hadiah yang diberikan kepada orang yang telah memberi bantuan, seperti dokter, guru, atasan, dll. (makanan, dll.).",
+    "level": "N4",
+    "importinity": 3
+  },
+  {
+    "id": "mn-24-023",
+    "kanji": "お年玉",
+    "hiragana": "おとしだま",
+    "romaji": "otoshidama",
+    "meaning": "Hadiah kecil berupa uang yang diberikan orang tua dan keluarga kepada anak-anak pada Hari Tahun Baru.",
+    "level": "N2",
+    "importinity": 3
+  },
+  {
+    "id": "mn-24-024",
+    "kanji": "結婚祝い",
+    "hiragana": "けっこんいわい",
+    "romaji": "kekkon'iwai",
+    "meaning": "Hadiah perkawinan (uang, perlengkapan rumah tangga, dll.).",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-24-025",
+    "kanji": "出産祝い",
+    "hiragana": "しゅっさんいわい",
+    "romaji": "shussan'iwai",
+    "meaning": "Hadiah yang diberikan kepada orang yang melahirkan (pakaian bayi, mainan bayi, dll.).",
+    "level": "N2",
+    "importinity": 3
+  },
+  {
+    "id": "mn-24-026",
+    "kanji": "卒業祝い",
+    "hiragana": "そつぎょういわい",
+    "romaji": "sotsugyouiwai",
+    "meaning": "Hadiah yang diberikan kepada anak yang tamat sekolah (uang, perlengkapan sekolah, buku, dll.).",
+    "level": "N2",
+    "importinity": 3
+  },
+  {
+    "id": "mn-24-027",
+    "kanji": "入学祝い",
+    "hiragana": "にゅうがくいわい",
+    "romaji": "nyuugakuiwai",
+    "meaning": "Hadiah yang diberikan kepada anak yang masuk sekolah (uang, perlengkapan sekolah, buku, dll.).",
+    "level": "N2",
+    "importinity": 3
+  }
+]

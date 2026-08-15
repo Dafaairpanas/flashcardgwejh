@@ -1,0 +1,407 @@
+[
+  {
+    "id": "mn-02-001",
+    "kanji": "[ どうも ]ありがとうございます",
+    "hiragana": "[ どうも ]ありがとうございます",
+    "romaji": "[ doumo ]arigatougozaimasu",
+    "meaning": "Terima kasih (Banyak)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-002",
+    "kanji": "～語",
+    "hiragana": "～ご",
+    "romaji": "~go",
+    "meaning": "Bahasa ～",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-003",
+    "kanji": "あ",
+    "hiragana": "あ",
+    "romaji": "a",
+    "meaning": "O,eh (dipakai ketika sadar)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-004",
+    "kanji": "あの～",
+    "hiragana": "あの～",
+    "romaji": "ano~",
+    "meaning": "～itu (jauh)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-005",
+    "kanji": "あのう",
+    "hiragana": "あのう",
+    "romaji": "anou",
+    "meaning": "Eee ...(ungkapan ketika ragu)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-006",
+    "kanji": "あれ",
+    "hiragana": "あれ",
+    "romaji": "are",
+    "meaning": "Itu (jauh)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-007",
+    "kanji": "えっ",
+    "hiragana": "えっ",
+    "romaji": "etsu",
+    "meaning": "Eh (diucapkan ketika mendengar sesuatu diluar dugaan)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-008",
+    "kanji": "お土産",
+    "hiragana": "おみやげ",
+    "romaji": "omiyage",
+    "meaning": "Oleh-oleh",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-009",
+    "kanji": "カード",
+    "hiragana": "カード",
+    "romaji": "kaado",
+    "meaning": "Kartu",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-010",
+    "kanji": "カメラ",
+    "hiragana": "カメラ",
+    "romaji": "kamera",
+    "meaning": "Kamera",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-011",
+    "kanji": "コーヒー",
+    "hiragana": "コーヒー",
+    "romaji": "koohii",
+    "meaning": "Kopi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-012",
+    "kanji": "こちらこそよろしくおねがいします",
+    "hiragana": "こちらこそよろしくおねがいします",
+    "romaji": "kochirakosoyoroshikuonegaishimasu",
+    "meaning": "Ya sama-sama ( Jawaban untuk Douzou Yoroshiku Onegaishimasu)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-013",
+    "kanji": "この～",
+    "hiragana": "この～",
+    "romaji": "kono~",
+    "meaning": "～ini",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-014",
+    "kanji": "これ",
+    "hiragana": "これ",
+    "romaji": "kore",
+    "meaning": "Ini",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-015",
+    "kanji": "これからお世話になります",
+    "hiragana": "これからおせわになります",
+    "romaji": "korekaraosewaninarimasu",
+    "meaning": "Mulai sekarang saya akan meminta bantuannya",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-016",
+    "kanji": "コンピューター",
+    "hiragana": "コンピューター",
+    "romaji": "konpyuutaa",
+    "meaning": "Komputer, PC",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-017",
+    "kanji": "シャープペンシル",
+    "hiragana": "シャープペンシル",
+    "romaji": "shaapupenshiru",
+    "meaning": "Pensil mekanik, Pensil Isi Ulang",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-018",
+    "kanji": "そう",
+    "hiragana": "そう",
+    "romaji": "sou",
+    "meaning": "Begitu",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-019",
+    "kanji": "そうですか",
+    "hiragana": "そうですか",
+    "romaji": "soudesuka",
+    "meaning": "O,begitu / benarkah?",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-020",
+    "kanji": "その～",
+    "hiragana": "その～",
+    "romaji": "sono~",
+    "meaning": "～itu (dekat)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-021",
+    "kanji": "それ",
+    "hiragana": "それ",
+    "romaji": "sore",
+    "meaning": "Itu (dekat)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-022",
+    "kanji": "チョコレート",
+    "hiragana": "チョコレート",
+    "romaji": "chokoreeto",
+    "meaning": "Coklat",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-023",
+    "kanji": "テレビ",
+    "hiragana": "テレビ",
+    "romaji": "terebi",
+    "meaning": "Televisi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-024",
+    "kanji": "どうぞ",
+    "hiragana": "どうぞ",
+    "romaji": "douzo",
+    "meaning": "Silakan ( Meawarkan )",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-025",
+    "kanji": "ノート",
+    "hiragana": "ノート",
+    "romaji": "nooto",
+    "meaning": "Buku catatan, Buku Tulis",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-026",
+    "kanji": "ボールペン",
+    "hiragana": "ボールペン",
+    "romaji": "boorupen",
+    "meaning": "Bolpoin",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-027",
+    "kanji": "ラジオ",
+    "hiragana": "ラジオ",
+    "romaji": "rajio",
+    "meaning": "Radio",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-028",
+    "kanji": "椅子",
+    "hiragana": "いす",
+    "romaji": "isu",
+    "meaning": "Kursi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-029",
+    "kanji": "違います",
+    "hiragana": "ちがいます",
+    "romaji": "chigaimasu",
+    "meaning": "Bukan , Tidak , Salah",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-030",
+    "kanji": "英語",
+    "hiragana": "えいご",
+    "romaji": "eigo",
+    "meaning": "Bahasa inggris",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-031",
+    "kanji": "鉛筆",
+    "hiragana": "えんぴつ",
+    "romaji": "enpitsu",
+    "meaning": "Pensil",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-032",
+    "kanji": "何",
+    "hiragana": "なん",
+    "romaji": "nan",
+    "meaning": "Apa",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-033",
+    "kanji": "鞄",
+    "hiragana": "かばん",
+    "romaji": "kaban",
+    "meaning": "Tas",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-034",
+    "kanji": "机",
+    "hiragana": "つくえ",
+    "romaji": "tsukue",
+    "meaning": "Meja, Meja Tulis",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-035",
+    "kanji": "鍵",
+    "hiragana": "かぎ",
+    "romaji": "kagi",
+    "meaning": "Kunci",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-036",
+    "kanji": "雑誌",
+    "hiragana": "ざっし",
+    "romaji": "zasshi",
+    "meaning": "Majalah",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-037",
+    "kanji": "傘",
+    "hiragana": "かさ",
+    "romaji": "kasa",
+    "meaning": "Payung",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-038",
+    "kanji": "時計",
+    "hiragana": "とけい",
+    "romaji": "tokei",
+    "meaning": "Jam , arloji",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-039",
+    "kanji": "辞書",
+    "hiragana": "じしょ",
+    "romaji": "jisho",
+    "meaning": "Kamus",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-040",
+    "kanji": "車",
+    "hiragana": "くるま",
+    "romaji": "kuruma",
+    "meaning": "Mobil",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-041",
+    "kanji": "手帳",
+    "hiragana": "てちょう",
+    "romaji": "techou",
+    "meaning": "Buku agenda",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-042",
+    "kanji": "新聞",
+    "hiragana": "しんぶん",
+    "romaji": "shinbun",
+    "meaning": "Koran, Surat Kabar",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-043",
+    "kanji": "日本語",
+    "hiragana": "にほんご",
+    "romaji": "nihongo",
+    "meaning": "Bahasa jepang",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-044",
+    "kanji": "本",
+    "hiragana": "ほん",
+    "romaji": "hon",
+    "meaning": "Buku",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-02-045",
+    "kanji": "名刺",
+    "hiragana": "めいし",
+    "romaji": "meishi",
+    "meaning": "Kartu nama",
+    "level": "N2",
+    "importinity": 1
+  }
+]

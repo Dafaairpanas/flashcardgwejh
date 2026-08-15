@@ -1,0 +1,551 @@
+[
+  {
+    "id": "ir-a2-1-14-001",
+    "kanji": "混んでいる",
+    "hiragana": "こんでいる",
+    "romaji": "kondeiru",
+    "meaning": "macet",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-002",
+    "kanji": "せき",
+    "hiragana": "せき",
+    "romaji": "seki",
+    "meaning": "batuk",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-003",
+    "kanji": "ひどい",
+    "hiragana": "ひどい",
+    "romaji": "hidoi",
+    "meaning": "parah",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-004",
+    "kanji": "熱",
+    "hiragana": "ねつ",
+    "romaji": "netsu",
+    "meaning": "demam",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-005",
+    "kanji": "熱がある",
+    "hiragana": "ねつがある",
+    "romaji": "netsugaaru",
+    "meaning": "demam",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-006",
+    "kanji": "財布",
+    "hiragana": "さいふ",
+    "romaji": "saifu",
+    "meaning": "dompet",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-007",
+    "kanji": "忘れる",
+    "hiragana": "わすれる",
+    "romaji": "wasureru",
+    "meaning": "lupa",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-008",
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "romaji": "byouin",
+    "meaning": "rumah sakit",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-009",
+    "kanji": "家",
+    "hiragana": "いえ",
+    "romaji": "ie",
+    "meaning": "rumah",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-010",
+    "kanji": "帰る",
+    "hiragana": "かえる",
+    "romaji": "kaeru",
+    "meaning": "pulang",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-011",
+    "kanji": "これから",
+    "hiragana": "これから",
+    "romaji": "korekara",
+    "meaning": "sekarang,  setelah ini",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-012",
+    "kanji": "取る",
+    "hiragana": "とる",
+    "romaji": "toru",
+    "meaning": "mengambil",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-013",
+    "kanji": "それで",
+    "hiragana": "それで",
+    "romaji": "sorede",
+    "meaning": "oleh karena itu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-014",
+    "kanji": "遅くなる",
+    "hiragana": "おそくなる",
+    "romaji": "osokunaru",
+    "meaning": "terlambat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-015",
+    "kanji": "みなさん",
+    "hiragana": "みなさん",
+    "romaji": "minasan",
+    "meaning": "semua orang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-016",
+    "kanji": "伝える",
+    "hiragana": "つたえる",
+    "romaji": "tsutaeru",
+    "meaning": "menyampaikan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-017",
+    "kanji": "遅刻する",
+    "hiragana": "ちこくする",
+    "romaji": "chikokusuru",
+    "meaning": "terlambat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-018",
+    "kanji": "あとで",
+    "hiragana": "あとで",
+    "romaji": "atode",
+    "meaning": "nanti",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-019",
+    "kanji": "休む",
+    "hiragana": "やすむ",
+    "romaji": "yasumu",
+    "meaning": "cuti,  tidak masuk kerja,  libur",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-020",
+    "kanji": "申し訳ありません",
+    "hiragana": "もうしわけありません",
+    "romaji": "moushiwakearimasen",
+    "meaning": "Saya mohon maaf.",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-021",
+    "kanji": "具合が悪い",
+    "hiragana": "ぐあいがわるい",
+    "romaji": "guaigawarui",
+    "meaning": "kondisi tubuh kurang fit,  tidak enak badan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-022",
+    "kanji": "お祈り",
+    "hiragana": "おいのり",
+    "romaji": "oinori",
+    "meaning": "sembahyang,  doa",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-023",
+    "kanji": "たばこ",
+    "hiragana": "たばこ",
+    "romaji": "tabako",
+    "meaning": "rokok",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-024",
+    "kanji": "吸う（たばこを吸う）",
+    "hiragana": "すう（たばこをすう）",
+    "romaji": "suu(tabakowosuu)",
+    "meaning": "merokok,  mengisap (rokok)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-025",
+    "kanji": "行って来る",
+    "hiragana": "いってくる",
+    "romaji": "ittekuru",
+    "meaning": "pergi (dan kembali lagi ke tempat tersebut setelahnya)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-026",
+    "kanji": "休憩（する）",
+    "hiragana": "きゅうけい（する）",
+    "romaji": "kyuukei(suru)",
+    "meaning": "rehat,  istirahat sejenak",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-027",
+    "kanji": "戻る",
+    "hiragana": "もどる",
+    "romaji": "modoru",
+    "meaning": "kembali",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-028",
+    "kanji": "早退する",
+    "hiragana": "そうたいする",
+    "romaji": "soutaisuru",
+    "meaning": "pulang lebih awal",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-029",
+    "kanji": "休みを取る",
+    "hiragana": "やすみをとる",
+    "romaji": "yasumiwotoru",
+    "meaning": "mengambil cuti",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-030",
+    "kanji": "社長",
+    "hiragana": "しゃちょう",
+    "romaji": "shachou",
+    "meaning": "direktur utama",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-031",
+    "kanji": "役所",
+    "hiragana": "やくしょ",
+    "romaji": "yakusho",
+    "meaning": "balai kota",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-032",
+    "kanji": "早く",
+    "hiragana": "はやく",
+    "romaji": "hayaku",
+    "meaning": "lebih awal",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-033",
+    "kanji": "用事",
+    "hiragana": "ようじ",
+    "romaji": "youji",
+    "meaning": "urusan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-034",
+    "kanji": "済む",
+    "hiragana": "すむ",
+    "romaji": "sumu",
+    "meaning": "selesai",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-035",
+    "kanji": "主任",
+    "hiragana": "しゅにん",
+    "romaji": "shunin",
+    "meaning": "kepala,  ketua (staf)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-036",
+    "kanji": "来月",
+    "hiragana": "らいげつ",
+    "romaji": "raigetsu",
+    "meaning": "bulan depan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-037",
+    "kanji": "できたら",
+    "hiragana": "できたら",
+    "romaji": "dekitara",
+    "meaning": "kalau memungkinkan,  kalau bisa",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-038",
+    "kanji": "ちょっと、いいでしょうか？",
+    "hiragana": "ちょっと、いいでしょうか？",
+    "romaji": "chotto,iideshouka？",
+    "meaning": "Maaf, bisa minta waktunya sebentar?",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-039",
+    "kanji": "別にかまいません",
+    "hiragana": "べつにかまいません",
+    "romaji": "betsunikamaimasen",
+    "meaning": "Tidak masalah.",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-040",
+    "kanji": "休暇届",
+    "hiragana": "きゅうかとどけ",
+    "romaji": "kyuukatodoke",
+    "meaning": "formulir cuti",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-041",
+    "kanji": "出す",
+    "hiragana": "だす",
+    "romaji": "dasu",
+    "meaning": "mengumpulkan,  menyerahkan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-042",
+    "kanji": "フォーム",
+    "hiragana": "フォーム",
+    "romaji": "foomu",
+    "meaning": "formulir",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-043",
+    "kanji": "所属",
+    "hiragana": "しょぞく",
+    "romaji": "shozoku",
+    "meaning": "tempat kerja,  bagian,  divisi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-044",
+    "kanji": "チーム",
+    "hiragana": "チーム",
+    "romaji": "chiimu",
+    "meaning": "tim",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-045",
+    "kanji": "総務",
+    "hiragana": "そうむ",
+    "romaji": "soumu",
+    "meaning": "bagian umum",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-046",
+    "kanji": "氏名",
+    "hiragana": "しめい",
+    "romaji": "shimei",
+    "meaning": "nama lengkap",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-047",
+    "kanji": "ハンコ",
+    "hiragana": "ハンコ",
+    "romaji": "hanko",
+    "meaning": "stempel",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-048",
+    "kanji": "持っている",
+    "hiragana": "もっている",
+    "romaji": "motteiru",
+    "meaning": "memiliki",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-049",
+    "kanji": "持つ",
+    "hiragana": "もつ",
+    "romaji": "motsu",
+    "meaning": "memiliki",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-050",
+    "kanji": "で",
+    "hiragana": "で",
+    "romaji": "de",
+    "meaning": "maka,  jadi,  oleh karena itu (bentuk informal untuk mengatakan それで)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-051",
+    "kanji": "期間",
+    "hiragana": "きかん",
+    "romaji": "kikan",
+    "meaning": "durasi waktu",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-052",
+    "kanji": "理由",
+    "hiragana": "りゆう",
+    "romaji": "riyuu",
+    "meaning": "alasan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-053",
+    "kanji": "普通",
+    "hiragana": "ふつう",
+    "romaji": "futsuu",
+    "meaning": "biasa",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-054",
+    "kanji": "私用",
+    "hiragana": "しよう",
+    "romaji": "shiyou",
+    "meaning": "urusan pribadi",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-055",
+    "kanji": "～中（休み中）",
+    "hiragana": "～ちゅう（やすみちゅう）",
+    "romaji": "~chuu(yasumichuu)",
+    "meaning": "sedang ~ (sedang cuti)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-056",
+    "kanji": "連絡先",
+    "hiragana": "れんらくさき",
+    "romaji": "renrakusaki",
+    "meaning": "alamat yang dapat dihubungi",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-057",
+    "kanji": "備考",
+    "hiragana": "びこう",
+    "romaji": "bikou",
+    "meaning": "catatan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-058",
+    "kanji": "いる",
+    "hiragana": "いる",
+    "romaji": "iru",
+    "meaning": "perlu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-059",
+    "kanji": "承認印",
+    "hiragana": "しょうにんいん",
+    "romaji": "shounin'in",
+    "meaning": "stempel konfirmasi",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-060",
+    "kanji": "事前に",
+    "hiragana": "じぜんに",
+    "romaji": "jizenni",
+    "meaning": "sebelumnya",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-14-061",
+    "kanji": "提出する",
+    "hiragana": "ていしゅつする",
+    "romaji": "teishutsusuru",
+    "meaning": "menyerahkan",
+    "level": "N1",
+    "isExtra": false
+  }
+]

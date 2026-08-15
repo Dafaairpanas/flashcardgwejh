@@ -1,0 +1,1118 @@
+[
+  {
+    "id": "ir-a2-2-12-001",
+    "kanji": "電気製品",
+    "hiragana": "でんきせいひん",
+    "romaji": "denkiseihin",
+    "meaning": "alat elektronik,  peralatan elektronik",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-002",
+    "kanji": "冷蔵庫",
+    "hiragana": "れいぞうこ",
+    "romaji": "reizouko",
+    "meaning": "kulkas,  lemari pendingin",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-003",
+    "kanji": "洗濯機",
+    "hiragana": "せんたくき",
+    "romaji": "sentakuki",
+    "meaning": "mesin cuci",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-004",
+    "kanji": "電子レンジ",
+    "hiragana": "でんしレンジ",
+    "romaji": "denshirenji",
+    "meaning": "oven gelombang mikro, microwave",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-005",
+    "kanji": "掃除機",
+    "hiragana": "そうじき",
+    "romaji": "soujiki",
+    "meaning": "vacuum cleaner,  penyedot debu",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-006",
+    "kanji": "ポット",
+    "hiragana": "ポット",
+    "romaji": "potto",
+    "meaning": "dispenser air panas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-007",
+    "kanji": "パソコン",
+    "hiragana": "パソコン",
+    "romaji": "pasokon",
+    "meaning": "personal computer (PC)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-008",
+    "kanji": "タブレット",
+    "hiragana": "タブレット",
+    "romaji": "taburetto",
+    "meaning": "tablet",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-009",
+    "kanji": "イヤホン",
+    "hiragana": "イヤホン",
+    "romaji": "iyahon",
+    "meaning": "earphone,  penyuara telinga",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-010",
+    "kanji": "扇風機",
+    "hiragana": "せんぷうき",
+    "romaji": "senpuuki",
+    "meaning": "kipas angin",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-011",
+    "kanji": "ストーブ",
+    "hiragana": "ストーブ",
+    "romaji": "sutoobu",
+    "meaning": "penghangat ruangan,  pemanas (stove)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-012",
+    "kanji": "ヒーター",
+    "hiragana": "ヒーター",
+    "romaji": "hiitaa",
+    "meaning": "pemanas (heater)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-013",
+    "kanji": "ドライヤー",
+    "hiragana": "ドライヤー",
+    "romaji": "doraiyaa",
+    "meaning": "hair-dryer,  pengering rambut",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-014",
+    "kanji": "アイロン",
+    "hiragana": "アイロン",
+    "romaji": "airon",
+    "meaning": "setrika",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-015",
+    "kanji": "モデル",
+    "hiragana": "モデル",
+    "romaji": "moderu",
+    "meaning": "model,  tipe",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-016",
+    "kanji": "音",
+    "hiragana": "おと",
+    "romaji": "oto",
+    "meaning": "bunyi",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-017",
+    "kanji": "デザイン",
+    "hiragana": "デザイン",
+    "romaji": "dezain",
+    "meaning": "desain",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-018",
+    "kanji": "商品",
+    "hiragana": "しょうひん",
+    "romaji": "shouhin",
+    "meaning": "produk",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-019",
+    "kanji": "送料",
+    "hiragana": "そうりょう",
+    "romaji": "souryou",
+    "meaning": "ongkir (ongkos kirim)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-020",
+    "kanji": "無料",
+    "hiragana": "むりょう",
+    "romaji": "muryou",
+    "meaning": "gratis,  bebas biaya",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-021",
+    "kanji": "お店の人",
+    "hiragana": "おみせのひと",
+    "romaji": "omisenohito",
+    "meaning": "staf toko",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-022",
+    "kanji": "相談（する）",
+    "hiragana": "そうだん（する）",
+    "romaji": "soudan(suru)",
+    "meaning": "berkonsultasi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-023",
+    "kanji": "届く",
+    "hiragana": "とどく",
+    "romaji": "todoku",
+    "meaning": "dikirimkan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-024",
+    "kanji": "店員",
+    "hiragana": "てんいん",
+    "romaji": "ten'in",
+    "meaning": "staf toko",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-025",
+    "kanji": "便利（な）",
+    "hiragana": "べんり（な）",
+    "romaji": "benri(na)",
+    "meaning": "praktis",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-026",
+    "kanji": "すぐ",
+    "hiragana": "すぐ",
+    "romaji": "sugu",
+    "meaning": "langsung,  segera",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-027",
+    "kanji": "見つかる",
+    "hiragana": "みつかる",
+    "romaji": "mitsukaru",
+    "meaning": "menemukan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-028",
+    "kanji": "高く",
+    "hiragana": "たかく",
+    "romaji": "takaku",
+    "meaning": "harga tinggi",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-029",
+    "kanji": "売れる",
+    "hiragana": "うれる",
+    "romaji": "ureru",
+    "meaning": "bisa / dapat menjual",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-030",
+    "kanji": "手続き",
+    "hiragana": "てつづき",
+    "romaji": "tetsuzuki",
+    "meaning": "prosedur",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-031",
+    "kanji": "簡単（な）",
+    "hiragana": "かんたん（な）",
+    "romaji": "kantan(na)",
+    "meaning": "mudah / sederhana",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-032",
+    "kanji": "メーカー",
+    "hiragana": "メーカー",
+    "romaji": "meekaa",
+    "meaning": "produsen",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-033",
+    "kanji": "ワイヤレス",
+    "hiragana": "ワイヤレス",
+    "romaji": "waiyaresu",
+    "meaning": "wireless,  nirkabel",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-034",
+    "kanji": "手元",
+    "hiragana": "てもと",
+    "romaji": "temoto",
+    "meaning": "(sampai ke) padaku",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-035",
+    "kanji": "電気屋",
+    "hiragana": "でんきや",
+    "romaji": "denkiya",
+    "meaning": "toko elektronik",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-036",
+    "kanji": "国道沿い",
+    "hiragana": "こくどうぞい",
+    "romaji": "kokudouzoi",
+    "meaning": "di sepanjang jalur nasional",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-037",
+    "kanji": "開店（開店セール）",
+    "hiragana": "かいてん（かいてんセール）",
+    "romaji": "kaiten(kaitenseeru)",
+    "meaning": "pembukaan toko (obral saat pembukaan toko)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-038",
+    "kanji": "車を出す",
+    "hiragana": "くるまをだす",
+    "romaji": "kurumawodasu",
+    "meaning": "memberi tumpangan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-039",
+    "kanji": "フリマサイト",
+    "hiragana": "フリマサイト",
+    "romaji": "furimasaito",
+    "meaning": "situs flea market",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-040",
+    "kanji": "家電",
+    "hiragana": "かでん",
+    "romaji": "kaden",
+    "meaning": "perlengkapan rumah tangga",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-041",
+    "kanji": "カテゴリー",
+    "hiragana": "カテゴリー",
+    "romaji": "kategorii",
+    "meaning": "kategori",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-042",
+    "kanji": "ブランド",
+    "hiragana": "ブランド",
+    "romaji": "burando",
+    "meaning": "merek",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-043",
+    "kanji": "ホーム",
+    "hiragana": "ホーム",
+    "romaji": "hoomu",
+    "meaning": "homepage,  laman",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-044",
+    "kanji": "出品",
+    "hiragana": "しゅっぴん",
+    "romaji": "shuppin",
+    "meaning": "submit,  kirim",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-045",
+    "kanji": "マイページ",
+    "hiragana": "マイページ",
+    "romaji": "maipeeji",
+    "meaning": "my page,  halaman saya (halaman pribadi pengguna)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-046",
+    "kanji": "住まい",
+    "hiragana": "すまい",
+    "romaji": "sumai",
+    "meaning": "(untuk) rumah",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-047",
+    "kanji": "絞り込み",
+    "hiragana": "しぼりこみ",
+    "romaji": "shiborikomi",
+    "meaning": "filter pencarian (mempersempit lingkup pencarian produk)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-048",
+    "kanji": "販売中",
+    "hiragana": "はんばいちゅう",
+    "romaji": "hanbaichuu",
+    "meaning": "dijual,  dalam masa penjualan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-049",
+    "kanji": "表示",
+    "hiragana": "ひょうじ",
+    "romaji": "hyouji",
+    "meaning": "tampilan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-050",
+    "kanji": "～順（安い順）",
+    "hiragana": "～じゅん（やすいじゅん）",
+    "romaji": "~jun(yasuijun)",
+    "meaning": "urutan ~ (cth : urutan dari harga terendah ke yang tertinggi)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-051",
+    "kanji": "価格",
+    "hiragana": "かかく",
+    "romaji": "kakaku",
+    "meaning": "harga",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-052",
+    "kanji": "状態",
+    "hiragana": "じょうたい",
+    "romaji": "joutai",
+    "meaning": "kondisi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-053",
+    "kanji": "配送料",
+    "hiragana": "はいそうりょう",
+    "romaji": "haisouryou",
+    "meaning": "ongkir (ongkos kirim)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-054",
+    "kanji": "販売状況",
+    "hiragana": "はんばいじょうきょう",
+    "romaji": "hanbaijoukyou",
+    "meaning": "status penjualan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-055",
+    "kanji": "指定する",
+    "hiragana": "していする",
+    "romaji": "shiteisuru",
+    "meaning": "menentukan,  menetapkan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-056",
+    "kanji": "取り消し",
+    "hiragana": "とりけし",
+    "romaji": "torikeshi",
+    "meaning": "batal,  pembatalan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-057",
+    "kanji": "完了",
+    "hiragana": "かんりょう",
+    "romaji": "kanryou",
+    "meaning": "konfirmasi",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-058",
+    "kanji": "購入（する）",
+    "hiragana": "こうにゅう（する）",
+    "romaji": "kounyuu(suru)",
+    "meaning": "membeli",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-059",
+    "kanji": "傷",
+    "hiragana": "きず",
+    "romaji": "kizu",
+    "meaning": "goresan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-060",
+    "kanji": "汚れ",
+    "hiragana": "よごれ",
+    "romaji": "yogore",
+    "meaning": "bercak,  noda",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-061",
+    "kanji": "～込み（送料込み）",
+    "hiragana": "～こみ（そうりょうこみ）",
+    "romaji": "~komi(souryoukomi)",
+    "meaning": "termasuk ~ (cth : termasuk ongkos kirim)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-062",
+    "kanji": "～合（5.5合）",
+    "hiragana": "～ごう（ごてんごごう）",
+    "romaji": "~gou(gotengogou)",
+    "meaning": "~ go (satuan volume nasi di Jepang, sekitar 180 ml) (cth : 5,5 go = 990ml)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-063",
+    "kanji": "出品する",
+    "hiragana": "しゅっぴんする",
+    "romaji": "shuppinsuru",
+    "meaning": "melakukan submit barang untuk dijual",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-064",
+    "kanji": "問題なく",
+    "hiragana": "もんだいなく",
+    "romaji": "mondainaku",
+    "meaning": "tanpa masalah",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-065",
+    "kanji": "炊ける（ご飯が炊ける）",
+    "hiragana": "たける（ごはんがたける）",
+    "romaji": "takeru(gohangatakeru)",
+    "meaning": "menanak,  memasak (cth : menanak nasi)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-066",
+    "kanji": "詳細",
+    "hiragana": "しょうさい",
+    "romaji": "shousai",
+    "meaning": "detail,  rincian",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-067",
+    "kanji": "～製（2018製）",
+    "hiragana": "～せい（にせんはちねんせい）",
+    "romaji": "~sei(nisenhachinensei)",
+    "meaning": "buatan ~ (cth : buatan tahun 2018)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-068",
+    "kanji": "幅",
+    "hiragana": "はば",
+    "romaji": "haba",
+    "meaning": "lebar",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-069",
+    "kanji": "奥行き",
+    "hiragana": "おくゆき",
+    "romaji": "okuyuki",
+    "meaning": "kedalaman",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-070",
+    "kanji": "高さ",
+    "hiragana": "たかさ",
+    "romaji": "takasa",
+    "meaning": "tinggi",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-071",
+    "kanji": "重さ",
+    "hiragana": "おもさ",
+    "romaji": "omosa",
+    "meaning": "berat",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-072",
+    "kanji": "説明書",
+    "hiragana": "せつめいしょ",
+    "romaji": "setsumeisho",
+    "meaning": "buku petunjuk penggunaan,  buku panduan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-073",
+    "kanji": "～つき（説明書つき）",
+    "hiragana": "～つき（せつめいしょつき）",
+    "romaji": "~tsuki(setsumeishotsuki)",
+    "meaning": "dilengkapi (dengan) ~ (cth : dilengkapi (dengan) buku panduan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-074",
+    "kanji": "購入手続き",
+    "hiragana": "こうにゅうてつづき",
+    "romaji": "kounyuutetsuzuki",
+    "meaning": "prosedur pembelian",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-075",
+    "kanji": "重さ",
+    "hiragana": "おもさ",
+    "romaji": "omosa",
+    "meaning": "berat",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-076",
+    "kanji": "連続",
+    "hiragana": "れんぞく",
+    "romaji": "renzoku",
+    "meaning": "terus menerus,  tanpa henti",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-077",
+    "kanji": "充電",
+    "hiragana": "じゅうでん",
+    "romaji": "juuden",
+    "meaning": "pengecesan,  isi ulang daya",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-078",
+    "kanji": "しっかり",
+    "hiragana": "しっかり",
+    "romaji": "shikkari",
+    "meaning": "sepenuhnya,  sampai tuntas,  secara menyeluruh",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-079",
+    "kanji": "使用時間",
+    "hiragana": "しようじかん",
+    "romaji": "shiyoujikan",
+    "meaning": "waktu penggunaan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-080",
+    "kanji": "こんな（こんな人）",
+    "hiragana": "こんな（こんなひと）",
+    "romaji": "konna(konnahito)",
+    "meaning": "ini / seperti ini (cth : orang (yang) seperti ini)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-081",
+    "kanji": "モード（強モード）",
+    "hiragana": "モード（きょうモード）",
+    "romaji": "moodo(kyoumoodo)",
+    "meaning": "mode (cth : mode kuat)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-082",
+    "kanji": "多機能",
+    "hiragana": "たきのう",
+    "romaji": "takinou",
+    "meaning": "multifungsi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-083",
+    "kanji": "長持ち",
+    "hiragana": "ながもち",
+    "romaji": "nagamochi",
+    "meaning": "tahan lama,  jangka panjang",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-084",
+    "kanji": "超軽量",
+    "hiragana": "ちょうけいりょう",
+    "romaji": "choukeiryou",
+    "meaning": "sangat ringan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-085",
+    "kanji": "お手入れ",
+    "hiragana": "お手入れ",
+    "romaji": "oteire",
+    "meaning": "pemeliharaan,  perawatan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-086",
+    "kanji": "吸引（する）",
+    "hiragana": "きゅういん（する）",
+    "romaji": "kyuuin(suru)",
+    "meaning": "menghisap,  menyedot",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-087",
+    "kanji": "吸引力",
+    "hiragana": "きゅういんりょく",
+    "romaji": "kyuuinryoku",
+    "meaning": "daya hisap,  daya sedot",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-088",
+    "kanji": "コンパクト（な）",
+    "hiragana": "コンパクト（な）",
+    "romaji": "konpakuto(na)",
+    "meaning": "terpadu,  menyatu dan praktis",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-089",
+    "kanji": "持ち運ぶ",
+    "hiragana": "もちこぶ",
+    "romaji": "mochikobu",
+    "meaning": "membawa",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-090",
+    "kanji": "重視する",
+    "hiragana": "じゅうしする",
+    "romaji": "juushisuru",
+    "meaning": "memprioritaskan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-091",
+    "kanji": "すみずみ",
+    "hiragana": "すみずみ",
+    "romaji": "sumizumi",
+    "meaning": "(sampai) sudut ke sudut (ruangan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-092",
+    "kanji": "税別",
+    "hiragana": "ぜいべつ",
+    "romaji": "zeibetsu",
+    "meaning": "harga belum termasuk pajak",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-093",
+    "kanji": "広告の品",
+    "hiragana": "こうこくのしな",
+    "romaji": "koukokunoshina",
+    "meaning": "barang yang diiklankan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-094",
+    "kanji": "特別価格",
+    "hiragana": "とくべつかかく",
+    "romaji": "tokubetsukakaku",
+    "meaning": "harga spesial",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-095",
+    "kanji": "コードレス",
+    "hiragana": "コードレス",
+    "romaji": "koodoresu",
+    "meaning": "tanpa kabel,  cordless",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-096",
+    "kanji": "希望小売価格",
+    "hiragana": "きぼうこうりかく",
+    "romaji": "kiboukourikaku",
+    "meaning": "harga eceran resmi,  harga retail yang disarankan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-097",
+    "kanji": "軽い",
+    "hiragana": "かるい",
+    "romaji": "karui",
+    "meaning": "ringan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-098",
+    "kanji": "動かす",
+    "hiragana": "うごかす",
+    "romaji": "ugokasu",
+    "meaning": "memindahkan,  menggerakkan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-099",
+    "kanji": "持つ",
+    "hiragana": "もつ",
+    "romaji": "motsu",
+    "meaning": "membawa",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-100",
+    "kanji": "比べる",
+    "hiragana": "くらべる",
+    "romaji": "kuraberu",
+    "meaning": "membandingkan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-101",
+    "kanji": "パワフル（な）",
+    "hiragana": "パワフル（な）",
+    "romaji": "pawafuru(na)",
+    "meaning": "powerful,  kuat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-102",
+    "kanji": "機能",
+    "hiragana": "きのう",
+    "romaji": "kinou",
+    "meaning": "fitur,  fungsi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-103",
+    "kanji": "つく（機能がつく）",
+    "hiragana": "つく（きのうがつく）",
+    "romaji": "tsuku(kinougatsuku)",
+    "meaning": "memiliki,  menyertakan,  termasuk (cth : fungsi yang disertakan / memiliki fungsi)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-104",
+    "kanji": "カーペット",
+    "hiragana": "カーペット",
+    "romaji": "kaapetto",
+    "meaning": "karpet",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-105",
+    "kanji": "畳",
+    "hiragana": "たたみ",
+    "romaji": "tatami",
+    "meaning": "tatami",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-106",
+    "kanji": "エコモード",
+    "hiragana": "エコモード",
+    "romaji": "ekomoodo",
+    "meaning": "eco mode,  mode hemat daya",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-107",
+    "kanji": "ですから",
+    "hiragana": "ですから",
+    "romaji": "desukara",
+    "meaning": "karena itu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-108",
+    "kanji": "～に合わせて",
+    "hiragana": "～にあわせて",
+    "romaji": "~niawasete",
+    "meaning": "menyesuaikan ~ (cth: menyesuaikan dengan ruangan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-109",
+    "kanji": "複雑（な）",
+    "hiragana": "ふくざつ（な）",
+    "romaji": "fukuzatsu(na)",
+    "meaning": "rumit",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-110",
+    "kanji": "重い",
+    "hiragana": "おもい",
+    "romaji": "omoi",
+    "meaning": "berat",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-111",
+    "kanji": "予算オーバー",
+    "hiragana": "よさんオーバー",
+    "romaji": "yosanoobaa",
+    "meaning": "melebihi anggaran",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-112",
+    "kanji": "シンプル（な）",
+    "hiragana": "シンプル（な）",
+    "romaji": "shinpuru(na)",
+    "meaning": "simpel,  sederhana",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-113",
+    "kanji": "消費税",
+    "hiragana": "しょうひぜい",
+    "romaji": "shouhizei",
+    "meaning": "pajak konsumen,  pajak konsumsi",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-114",
+    "kanji": "～抜き（消費税抜き）",
+    "hiragana": "～ぬき（しょうひぜいぬき）",
+    "romaji": "~nuki(shouhizeinuki)",
+    "meaning": "tanpa ~ (cth : tanpa pajak konsumsi)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-115",
+    "kanji": "～引き（2000円引き）",
+    "hiragana": "～びき（にせんえんびき）",
+    "romaji": "~biki(nisen'enbiki)",
+    "meaning": "diskon ~ (cth : diskon sebesar 2.000 yen)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-116",
+    "kanji": "配送",
+    "hiragana": "はいそう",
+    "romaji": "haisou",
+    "meaning": "pengiriman",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-117",
+    "kanji": "合わせて",
+    "hiragana": "あわせて",
+    "romaji": "awasete",
+    "meaning": "digabungkan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-118",
+    "kanji": "ポイント",
+    "hiragana": "ポイント",
+    "romaji": "pointo",
+    "meaning": "poin",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-119",
+    "kanji": "貯まる",
+    "hiragana": "たまる",
+    "romaji": "tamaru",
+    "meaning": "terakumulasi,  terkumpul",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-120",
+    "kanji": "変わる",
+    "hiragana": "かわる",
+    "romaji": "kawaru",
+    "meaning": "berubah",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-121",
+    "kanji": "安くなりますか？",
+    "hiragana": "やすくなりますか？",
+    "romaji": "yasukunarimasuka？",
+    "meaning": "Bisakah Anda menurunkan harganya?",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-122",
+    "kanji": "おいくらぐらいでお探しですか？",
+    "hiragana": "おいくらぐらいでおさがしですか？",
+    "romaji": "oikuraguraideosagashidesuka？",
+    "meaning": "Berapakah anggaran Anda? (ungkapan bentuk sopan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-123",
+    "kanji": "どちらにお住まいですか？",
+    "hiragana": "どちらにおすまいですか？",
+    "romaji": "dochiraniosumaidesuka？",
+    "meaning": "Di manakah Anda tinggal? (ungkapan bentuk sopan)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-12-124",
+    "kanji": "ご利用になりますか？",
+    "hiragana": "ごりようになりますか？",
+    "romaji": "goriyouninarimasuka？",
+    "meaning": "Apakah Anda akan menggunakan ~? (ungkapan bentuk sopan)",
+    "level": "N3",
+    "isExtra": false
+  }
+]

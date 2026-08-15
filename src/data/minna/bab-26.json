@@ -1,0 +1,614 @@
+[
+  {
+    "id": "mn-26-001",
+    "kanji": "～会社",
+    "hiragana": "～がいしゃ",
+    "romaji": "~gaisha",
+    "meaning": "perusahaan ~",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-002",
+    "kanji": "～弁",
+    "hiragana": "～べん",
+    "romaji": "~ben",
+    "meaning": "dialek ~",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-003",
+    "kanji": "～様",
+    "hiragana": "～さま",
+    "romaji": "~sama",
+    "meaning": "kepada Yth. ~, Bapak ~, Ibu ~, Sdr.~ (Kata Hormat dari ～さん)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-004",
+    "kanji": "あんな～",
+    "hiragana": "あんな～",
+    "romaji": "anna~",
+    "meaning": "~ begitu (jauh dari si pembicara dan lawan bicara)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-005",
+    "kanji": "いつでも",
+    "hiragana": "いつでも",
+    "romaji": "itsudemo",
+    "meaning": "kapan saja",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-006",
+    "kanji": "エドヤストア",
+    "hiragana": "エドヤストア",
+    "romaji": "edoyasutoa",
+    "meaning": "toko fiksi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-007",
+    "kanji": "ガス",
+    "hiragana": "ガス",
+    "romaji": "gasu",
+    "meaning": "gas",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-008",
+    "kanji": "ごみ",
+    "hiragana": "ごみ",
+    "romaji": "gomi",
+    "meaning": "sampah",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-009",
+    "kanji": "こんな～",
+    "hiragana": "こんな～",
+    "romaji": "konna~",
+    "meaning": "~ begini",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-010",
+    "kanji": "ずいぶん",
+    "hiragana": "ずいぶん",
+    "romaji": "zuibun",
+    "meaning": "sangat, amat",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-011",
+    "kanji": "そんな～",
+    "hiragana": "そんな～",
+    "romaji": "sonna~",
+    "meaning": "~ begitu (dekat dari lawan bicara)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-012",
+    "kanji": "だれでも",
+    "hiragana": "だれでも",
+    "romaji": "daredemo",
+    "meaning": "siapa saja",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-013",
+    "kanji": "どこでも",
+    "hiragana": "どこでも",
+    "romaji": "dokodemo",
+    "meaning": "di mana-mana",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-014",
+    "kanji": "フリーマーケット",
+    "hiragana": "フリーマーケット",
+    "romaji": "furiimaaketto",
+    "meaning": "pasar rombengan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-015",
+    "kanji": "ボランティア",
+    "hiragana": "ボランティア",
+    "romaji": "boranteia",
+    "meaning": "sukarelawan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-016",
+    "kanji": "やります",
+    "hiragana": "やります",
+    "romaji": "yarimasu",
+    "meaning": "melakukan",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-017",
+    "kanji": "違います",
+    "hiragana": "ちがいます",
+    "romaji": "chigaimasu",
+    "meaning": "tidak benar",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-018",
+    "kanji": "宇宙",
+    "hiragana": "うちゅう",
+    "romaji": "uchuu",
+    "meaning": "angkasa",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-019",
+    "kanji": "宇宙ステーション",
+    "hiragana": "うちゅうステーション",
+    "romaji": "uchuusuteeshon",
+    "meaning": "stasiun luar angkasa",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-020",
+    "kanji": "宇宙船",
+    "hiragana": "うちゅうせん",
+    "romaji": "uchuusen",
+    "meaning": "wahana antariksa",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-021",
+    "kanji": "宇宙飛行士",
+    "hiragana": "うちゅうひこうし",
+    "romaji": "uchuuhikoushi",
+    "meaning": "astronot",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-022",
+    "kanji": "運動会",
+    "hiragana": "うんどうかい",
+    "romaji": "undoukai",
+    "meaning": "lomba olahraga",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-023",
+    "kanji": "横",
+    "hiragana": "よこ",
+    "romaji": "yoko",
+    "meaning": "sebelah, samping",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-024",
+    "kanji": "何でも",
+    "hiragana": "なんでも",
+    "romaji": "nandemo",
+    "meaning": "apa saja",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-025",
+    "kanji": "缶",
+    "hiragana": "かん",
+    "romaji": "kan",
+    "meaning": "kaleng",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-026",
+    "kanji": "間に合います［時間に～］",
+    "hiragana": "まにあいます",
+    "romaji": "maniaimasu",
+    "meaning": "sempat [pada waktu]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-027",
+    "kanji": "気分がいい",
+    "hiragana": "きぶんがいい",
+    "romaji": "kibungaii",
+    "meaning": "rasa enak, segar",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-028",
+    "kanji": "気分が悪い",
+    "hiragana": "きぶんがわるい",
+    "romaji": "kibungawarui",
+    "meaning": "rasa tidak enak",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-029",
+    "kanji": "国会議事堂",
+    "hiragana": "こっかいぎじどう",
+    "romaji": "kokkaigijidou",
+    "meaning": "gedung parlemen",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-030",
+    "kanji": "今度",
+    "hiragana": "こんど",
+    "romaji": "kondo",
+    "meaning": "kali ini, lain kali",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-031",
+    "kanji": "財布",
+    "hiragana": "さいふ",
+    "romaji": "saifu",
+    "meaning": "dompet",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-032",
+    "kanji": "拾います",
+    "hiragana": "ひろいます",
+    "romaji": "hiroimasu",
+    "meaning": "mendapat, mengambil",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-033",
+    "kanji": "出します［ごみを～］",
+    "hiragana": "だします",
+    "romaji": "dashimasu",
+    "meaning": "membuang [sampah], mengeluarkan",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-034",
+    "kanji": "場所",
+    "hiragana": "ばしょ",
+    "romaji": "basho",
+    "meaning": "tempat",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-035",
+    "kanji": "診ます",
+    "hiragana": "みます",
+    "romaji": "mimasu",
+    "meaning": "melihat, MEMERIKSA",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-036",
+    "kanji": "星出彰彦",
+    "hiragana": "ほしであきひこ",
+    "romaji": "hoshideakihiko",
+    "meaning": "astronot Jepang (1968-)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-037",
+    "kanji": "捜します",
+    "hiragana": "さがします",
+    "romaji": "sagashimasu",
+    "meaning": "Mencari (Orang Hilang/Kriminal)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-038",
+    "kanji": "探します",
+    "hiragana": "さがします",
+    "romaji": "sagashimasu",
+    "meaning": "Mencari (Barang/Sesuatu yang diinginkan)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-039",
+    "kanji": "置き場",
+    "hiragana": "おきば",
+    "romaji": "okiba",
+    "meaning": "tempat meletakkan sampah",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-040",
+    "kanji": "遅れます［時間に～］",
+    "hiragana": "おくれます",
+    "romaji": "okuremasu",
+    "meaning": "terlambat [pada waktu]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-041",
+    "kanji": "直接",
+    "hiragana": "ちょくせつ",
+    "romaji": "chokusetsu",
+    "meaning": "langsung",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-042",
+    "kanji": "燃える ごみ",
+    "hiragana": "もえる ごみ",
+    "romaji": "moeru gomi",
+    "meaning": "sampah organik",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-043",
+    "kanji": "瓶",
+    "hiragana": "びん",
+    "romaji": "bin",
+    "meaning": "botol",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-044",
+    "kanji": "怖い",
+    "hiragana": "こわい",
+    "romaji": "kowai",
+    "meaning": "takut",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-045",
+    "kanji": "平日",
+    "hiragana": "へいじつ",
+    "romaji": "heijitsu",
+    "meaning": "hari kerja",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-046",
+    "kanji": "片づきます［荷物が～］",
+    "hiragana": "かたづきます",
+    "romaji": "katazukimasu",
+    "meaning": "membereskan [barang]",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-047",
+    "kanji": "盆踊り",
+    "hiragana": "ぼんおどり",
+    "romaji": "bon'odori",
+    "meaning": "tarian Bon",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-048",
+    "kanji": "連絡します",
+    "hiragana": "れんらくします",
+    "romaji": "renrakushimasu",
+    "meaning": "menghubungi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-26-049",
+    "kanji": "お湯",
+    "hiragana": "おゆ",
+    "romaji": "oyu",
+    "meaning": "Air panas",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-050",
+    "kanji": "ガラス製品, 金属製台所用品など, 瀬戸物",
+    "hiragana": "ガラスせいひん、せともの、きんぞくせいだいどころようひんなど",
+    "romaji": "garasuseihin,setomono,kinzokuseidaidokoroyouhinnado",
+    "meaning": "Produk dari Kaca, Keramik, Peralatan Dapur dari Logam dan lain-lain",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-051",
+    "kanji": "ごみの出し方",
+    "hiragana": "ごみのだしかた",
+    "romaji": "gominodashikata",
+    "meaning": "Cara Membuang Sampah",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-052",
+    "kanji": "ごみ収集日のお知らせ",
+    "hiragana": "ごみしゅうしゅうびのおしらせ",
+    "romaji": "gomishuushuubinooshirase",
+    "meaning": "Pengumuman Hari Pengumpulan Sampah",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-053",
+    "kanji": "ペットボトルなど, 缶, 瓶",
+    "hiragana": "かん、びん、ペットボトルなど",
+    "romaji": "kan,bin,pettobotorunado",
+    "meaning": "Kaleng, Botol Kaca, Botol Plastik dan lain-lain",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-054",
+    "kanji": "可燃ごみ（燃えるごみ）",
+    "hiragana": "かねんごみ（もえるごみ）",
+    "romaji": "kanengomi(moerugomi)",
+    "meaning": "Sampah Organik",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-055",
+    "kanji": "家具, 自転車など",
+    "hiragana": "かぐ、じてんしゃなど",
+    "romaji": "kagu,jitenshanado",
+    "meaning": "Perabot Rumah Tangga, Sepeda dan lain-lain",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-056",
+    "kanji": "家庭電化製品",
+    "hiragana": "かていでんかせいひん",
+    "romaji": "kateidenkaseihin",
+    "meaning": "Barang elektronik rumah tangga",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-057",
+    "kanji": "困ったなあ",
+    "hiragana": "こまったなあ",
+    "romaji": "komattanaa",
+    "meaning": "Payah ya, gawat",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-058",
+    "kanji": "参加します（パーティーに）",
+    "hiragana": "さんかします",
+    "romaji": "sankashimasu",
+    "meaning": "Turut serta, ikut, berpartisipasi",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-059",
+    "kanji": "紙くずなど, 生ごみ",
+    "hiragana": "なまごみ、かみくずなど",
+    "romaji": "namagomi,kamikuzunado",
+    "meaning": "Sampah Dapur/Sampah Basah, Kertas Bekas dan lain-lain",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-060",
+    "kanji": "資源ごみ",
+    "hiragana": "しげんごみ",
+    "romaji": "shigengomi",
+    "meaning": "Sampah Yang Dapat Didaur Ulang",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-061",
+    "kanji": "事前申し込み",
+    "hiragana": "じぜんもうしこみ",
+    "romaji": "jizenmoushikomi",
+    "meaning": "Pendaftaran Sebelumnya",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-062",
+    "kanji": "申し込みます",
+    "hiragana": "もうしこみます",
+    "romaji": "moushikomimasu",
+    "meaning": "Mendaftar",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-063",
+    "kanji": "粗大ごみ",
+    "hiragana": "そだいごみ",
+    "romaji": "sodaigomi",
+    "meaning": "Sampah Ukuran Besar",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-064",
+    "kanji": "電子メール",
+    "hiragana": "でんしメール",
+    "romaji": "denshimeeru",
+    "meaning": "Email",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-065",
+    "kanji": "都合がいい",
+    "hiragana": "つごうがいい",
+    "romaji": "tsugougaii",
+    "meaning": "Tidak ada halangan",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-066",
+    "kanji": "都合が悪い",
+    "hiragana": "つごうがわるい",
+    "romaji": "tsugougawarui",
+    "meaning": "Ada halangan",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-067",
+    "kanji": "不燃ごみ（燃えないごみ）",
+    "hiragana": "ふねんごみ（もえないごみ）",
+    "romaji": "funengomi(moenaigomi)",
+    "meaning": "Sampah Anorganik/Sampah Kering",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-26-068",
+    "kanji": "別の",
+    "hiragana": "べつの",
+    "romaji": "betsuno",
+    "meaning": "Yang lain",
+    "level": "N4",
+    "importinity": 2
+  }
+]

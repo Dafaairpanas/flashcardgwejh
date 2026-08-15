@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ir-a2-1-03-001",
+    "kanji": "季節",
+    "hiragana": "きせつ",
+    "romaji": "kisetsu",
+    "meaning": "musim",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-002",
+    "kanji": "ことば",
+    "hiragana": "ことば",
+    "romaji": "kotoba",
+    "meaning": "kata,  kosakata",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-003",
+    "kanji": "暑い",
+    "hiragana": "あつい",
+    "romaji": "atsui",
+    "meaning": "panas",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-004",
+    "kanji": "すずしい",
+    "hiragana": "すずしい",
+    "romaji": "suzushii",
+    "meaning": "sejuk",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-005",
+    "kanji": "寒い",
+    "hiragana": "さむい",
+    "romaji": "samui",
+    "meaning": "dingin",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-006",
+    "kanji": "暖かい",
+    "hiragana": "あたたかい",
+    "romaji": "atatakai",
+    "meaning": "hangat",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-007",
+    "kanji": "じめじめする",
+    "hiragana": "じめじめする",
+    "romaji": "jimejimesuru",
+    "meaning": "panas dan lembab",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-008",
+    "kanji": "蒸し暑い",
+    "hiragana": "むしあつい",
+    "romaji": "mushiatsui",
+    "meaning": "panas dan pengap / gerah",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-009",
+    "kanji": "雨",
+    "hiragana": "あめ",
+    "romaji": "ame",
+    "meaning": "hujan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-010",
+    "kanji": "降る",
+    "hiragana": "ふる",
+    "romaji": "furu",
+    "meaning": "turun (hujan, salju, dll.)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-011",
+    "kanji": "雪",
+    "hiragana": "ゆき",
+    "romaji": "yuki",
+    "meaning": "salju",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-012",
+    "kanji": "桜",
+    "hiragana": "さくら",
+    "romaji": "sakura",
+    "meaning": "bunga sakura",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-013",
+    "kanji": "花",
+    "hiragana": "はな",
+    "romaji": "hana",
+    "meaning": "bunga",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-014",
+    "kanji": "咲く",
+    "hiragana": "さく",
+    "romaji": "saku",
+    "meaning": "mekar",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-015",
+    "kanji": "もみじ",
+    "hiragana": "もみじ",
+    "romaji": "momiji",
+    "meaning": "daun yang berubah warna pada musim gugur",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-016",
+    "kanji": "きれい（な）",
+    "hiragana": "きれい（な）",
+    "romaji": "kirei(na)",
+    "meaning": "indah,  cantik",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-017",
+    "kanji": "セミ",
+    "hiragana": "セミ",
+    "romaji": "semi",
+    "meaning": "tonggeret",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-018",
+    "kanji": "鳴く",
+    "hiragana": "なく",
+    "romaji": "naku",
+    "meaning": "bersuara (hewan,  serangga)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-019",
+    "kanji": "春",
+    "hiragana": "はる",
+    "romaji": "haru",
+    "meaning": "musim semi",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-020",
+    "kanji": "梅雨",
+    "hiragana": "つゆ",
+    "romaji": "tsuyu",
+    "meaning": "musim hujan pada akhir Mei s.d. pertengahan Juli sebelum memasuki musim panas di Jepang",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-021",
+    "kanji": "夏",
+    "hiragana": "なつ",
+    "romaji": "natsu",
+    "meaning": "musim panas",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-022",
+    "kanji": "秋",
+    "hiragana": "あき",
+    "romaji": "aki",
+    "meaning": "musim gugur",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-023",
+    "kanji": "冬",
+    "hiragana": "ふゆ",
+    "romaji": "fuyu",
+    "meaning": "musim dingin",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-024",
+    "kanji": "たくさん",
+    "hiragana": "たくさん",
+    "romaji": "takusan",
+    "meaning": "banyak",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-025",
+    "kanji": "学校",
+    "hiragana": "がっこう",
+    "romaji": "gakkou",
+    "meaning": "sekolah",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-026",
+    "kanji": "なる（休みになる）",
+    "hiragana": "なる（やすみになる）",
+    "romaji": "naru(yasumininaru)",
+    "meaning": "menjadi (cth : menjadi hari libur )",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-027",
+    "kanji": "一年中",
+    "hiragana": "いちねんじゅう",
+    "romaji": "ichinenjuu",
+    "meaning": "sepanjang tahun",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-028",
+    "kanji": "長い",
+    "hiragana": "ながい",
+    "romaji": "nagai",
+    "meaning": "panjang",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-029",
+    "kanji": "ずっと",
+    "hiragana": "ずっと",
+    "romaji": "zutto",
+    "meaning": "sepanjang waktu,  terus menerus",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-030",
+    "kanji": "雨季",
+    "hiragana": "うき",
+    "romaji": "uki",
+    "meaning": "musim hujan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-031",
+    "kanji": "乾季",
+    "hiragana": "かんき",
+    "romaji": "kanki",
+    "meaning": "musim kemarau",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-032",
+    "kanji": "四季",
+    "hiragana": "しき",
+    "romaji": "shiki",
+    "meaning": "empat musim",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-033",
+    "kanji": "同じ",
+    "hiragana": "おなじ",
+    "romaji": "onaji",
+    "meaning": "sama",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-034",
+    "kanji": "～度（40度）",
+    "hiragana": "～ど（よんじゅうど）",
+    "romaji": "~do(yonjuudo)",
+    "meaning": "~ derajat (40 derajat)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-035",
+    "kanji": "マイナス",
+    "hiragana": "マイナス",
+    "romaji": "mainasu",
+    "meaning": "minus",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-036",
+    "kanji": "短い",
+    "hiragana": "みじかい",
+    "romaji": "mijikai",
+    "meaning": "pendek",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-037",
+    "kanji": "そうなんですか",
+    "hiragana": "そうなんですか",
+    "romaji": "sounandesuka",
+    "meaning": "Oh, begitu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-038",
+    "kanji": "果物",
+    "hiragana": "くだもの",
+    "romaji": "kudamono",
+    "meaning": "buah-buahan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-039",
+    "kanji": "おいしい",
+    "hiragana": "おいしい",
+    "romaji": "oishii",
+    "meaning": "enak,  lezat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-040",
+    "kanji": "景色",
+    "hiragana": "けしき",
+    "romaji": "keshiki",
+    "meaning": "pemandangan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-041",
+    "kanji": "山",
+    "hiragana": "やま",
+    "romaji": "yama",
+    "meaning": "gunung",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-042",
+    "kanji": "遊ぶ",
+    "hiragana": "あそぶ",
+    "romaji": "asobu",
+    "meaning": "bermain",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-043",
+    "kanji": "好き（な）",
+    "hiragana": "すき（な）",
+    "romaji": "suki(na)",
+    "meaning": "favorit",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-044",
+    "kanji": "苦手（な）",
+    "hiragana": "にがて（な）",
+    "romaji": "nigate(na)",
+    "meaning": "tidak suka",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-045",
+    "kanji": "いちばん",
+    "hiragana": "いちばん",
+    "romaji": "ichiban",
+    "meaning": "paling",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-046",
+    "kanji": "どうして",
+    "hiragana": "どうして",
+    "romaji": "doushite",
+    "meaning": "mengapa",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-047",
+    "kanji": "どの",
+    "hiragana": "どの",
+    "romaji": "dono",
+    "meaning": "yang mana~ (lebih dari tiga)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-048",
+    "kanji": "～よね",
+    "hiragana": "～よね",
+    "romaji": "~yone",
+    "meaning": "~ya, kan? (akhiran kalimat yang digunakan untuk memastikan bahwa lawan bicara berpendapat sama dengan pembicara)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-049",
+    "kanji": "ぶどう",
+    "hiragana": "ぶどう",
+    "romaji": "budou",
+    "meaning": "anggur",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-03-050",
+    "kanji": "梨",
+    "hiragana": "なし",
+    "romaji": "nashi",
+    "meaning": "pir",
+    "level": "N1",
+    "isExtra": false
+  }
+]

@@ -1,0 +1,461 @@
+[
+  {
+    "id": "ir-a1-18-001",
+    "kanji": "旅行する／旅行します",
+    "hiragana": "りょこうする／りょこうします",
+    "romaji": "ryokousuru/ryokoushimasu",
+    "meaning": "berwisata, bepergian",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-002",
+    "kanji": "友だち",
+    "hiragana": "ともだち",
+    "romaji": "tomodachi",
+    "meaning": "teman",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-003",
+    "kanji": "会う／会います",
+    "hiragana": "あう／あいます",
+    "romaji": "au/aimasu",
+    "meaning": "bertemu",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-004",
+    "kanji": "行く／行きます",
+    "hiragana": "いく／いきます",
+    "romaji": "iku/ikimasu",
+    "meaning": "pergi",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-005",
+    "kanji": "炊飯器",
+    "hiragana": "すいはんき",
+    "romaji": "suihanki",
+    "meaning": "penanak nasi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-006",
+    "kanji": "買う／買います",
+    "hiragana": "かう／かいます",
+    "romaji": "kau/kaimasu",
+    "meaning": "membeli",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-007",
+    "kanji": "うち",
+    "hiragana": "うち",
+    "romaji": "uchi",
+    "meaning": "rumah",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-008",
+    "kanji": "もうすぐ",
+    "hiragana": "もうすぐ",
+    "romaji": "mousugu",
+    "meaning": "sebentar lagi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-009",
+    "kanji": "夏休み",
+    "hiragana": "なつやすみ",
+    "romaji": "natsuyasumi",
+    "meaning": "libur musim panas",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-010",
+    "kanji": "広島",
+    "hiragana": "ひろしま",
+    "romaji": "hiroshima",
+    "meaning": "Hiroshima",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-011",
+    "kanji": "連休",
+    "hiragana": "れんきゅう",
+    "romaji": "renkyuu",
+    "meaning": "libur panjang",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-012",
+    "kanji": "どこか",
+    "hiragana": "どこか",
+    "romaji": "dokoka",
+    "meaning": "ke suatu tempat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-013",
+    "kanji": "ゴールデンウィーク",
+    "hiragana": "ゴールデンウィーク",
+    "romaji": "gooruden'uiiku",
+    "meaning": "Golden Week",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-014",
+    "kanji": "予定",
+    "hiragana": "よてい",
+    "romaji": "yotei",
+    "meaning": "rencana",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-015",
+    "kanji": "池袋",
+    "hiragana": "いけぶくろ",
+    "romaji": "ikebukuro",
+    "meaning": "Ikebukuro",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-016",
+    "kanji": "ディズニーランド",
+    "hiragana": "ディズニーランド",
+    "romaji": "dizuniirando",
+    "meaning": "Disneyland",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-017",
+    "kanji": "富士山",
+    "hiragana": "ふじさん",
+    "romaji": "fujisan",
+    "meaning": "Gunung Fuji",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-018",
+    "kanji": "登る／登ります",
+    "hiragana": "のぼる／のぼります",
+    "romaji": "noboru/noborimasu",
+    "meaning": "mendaki",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-019",
+    "kanji": "京都",
+    "hiragana": "きょうと",
+    "romaji": "kyouto",
+    "meaning": "Kyoto",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-020",
+    "kanji": "神社",
+    "hiragana": "じんじゃ",
+    "romaji": "jinja",
+    "meaning": "kuil Shinto",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-021",
+    "kanji": "新幹線",
+    "hiragana": "しんかんせん",
+    "romaji": "shinkansen",
+    "meaning": "Shinkansen (kereta peluru)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-022",
+    "kanji": "雪",
+    "hiragana": "ゆき",
+    "romaji": "yuki",
+    "meaning": "salju",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-023",
+    "kanji": "見る／見ます",
+    "hiragana": "みる／みます",
+    "romaji": "miru/mimasu",
+    "meaning": "melihat, menonton",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-024",
+    "kanji": "どら焼き",
+    "hiragana": "どらやき",
+    "romaji": "dorayaki",
+    "meaning": "dorayaki (kue yang berisi pasta kacang merah)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-025",
+    "kanji": "食べる／食べます",
+    "hiragana": "たべる／たべます",
+    "romaji": "taberu/tabemasu",
+    "meaning": "makan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-026",
+    "kanji": "温泉",
+    "hiragana": "おんせん",
+    "romaji": "onsen",
+    "meaning": "onsen (kolam pemandian air panas)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-027",
+    "kanji": "入る／入ります",
+    "hiragana": "はいる／はいります",
+    "romaji": "hairu/hairimasu",
+    "meaning": "masuk",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-028",
+    "kanji": "お土産",
+    "hiragana": "おみやげ",
+    "romaji": "omiyage",
+    "meaning": "oleh-oleh, buah tangan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-029",
+    "kanji": "ぜひ",
+    "hiragana": "ぜひ",
+    "romaji": "zehi",
+    "meaning": "harus",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-030",
+    "kanji": "ほかに",
+    "hiragana": "ほかに",
+    "romaji": "hokani",
+    "meaning": "selain itu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-031",
+    "kanji": "あと",
+    "hiragana": "あと",
+    "romaji": "ato",
+    "meaning": "dan, juga",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-032",
+    "kanji": "どうして",
+    "hiragana": "どうして",
+    "romaji": "doushite",
+    "meaning": "mengapa, kenapa",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-033",
+    "kanji": "行って",
+    "hiragana": "いって",
+    "romaji": "itte",
+    "meaning": "Anda harus pergi, Pergilah.",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-034",
+    "kanji": "新宿",
+    "hiragana": "しんじゅく",
+    "romaji": "shinjuku",
+    "meaning": "Shinjuku",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-035",
+    "kanji": "須賀神社",
+    "hiragana": "すがじんじゃ",
+    "romaji": "sugajinja",
+    "meaning": "Kuil Suga",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-036",
+    "kanji": "君の名は。",
+    "hiragana": "きみのなは",
+    "romaji": "kiminonaha",
+    "meaning": "Kimi no Na wa (Your Name)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-037",
+    "kanji": "ドラえもん",
+    "hiragana": "ドラえもん",
+    "romaji": "doraemon",
+    "meaning": "Doraemon",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-038",
+    "kanji": "写真",
+    "hiragana": "しゃしん",
+    "romaji": "shashin",
+    "meaning": "foto",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-039",
+    "kanji": "動画",
+    "hiragana": "どうが",
+    "romaji": "douga",
+    "meaning": "video",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-040",
+    "kanji": "友達をタグ付け",
+    "hiragana": "ともだちをタグづけ",
+    "romaji": "tomodachiwotaguzuke",
+    "meaning": "tandai orang",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-041",
+    "kanji": "気分",
+    "hiragana": "きぶん",
+    "romaji": "kibun",
+    "meaning": "perasaan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-042",
+    "kanji": "アクティビティ",
+    "hiragana": "アクティビティ",
+    "romaji": "akuteibitei",
+    "meaning": "aktivitas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-043",
+    "kanji": "チェックイン",
+    "hiragana": "チェックイン",
+    "romaji": "chekkuin",
+    "meaning": "singgah",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-044",
+    "kanji": "露天風呂",
+    "hiragana": "ろてんぶろ",
+    "romaji": "rotenburo",
+    "meaning": "kolam berendam di alam terbuka (onsen outdoor)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-045",
+    "kanji": "それに",
+    "hiragana": "それに",
+    "romaji": "soreni",
+    "meaning": "selain itu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-046",
+    "kanji": "景色",
+    "hiragana": "けしき",
+    "romaji": "keshiki",
+    "meaning": "pemandangan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-047",
+    "kanji": "それから",
+    "hiragana": "それから",
+    "romaji": "sorekara",
+    "meaning": "kemudian",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-048",
+    "kanji": "鶏",
+    "hiragana": "とり",
+    "romaji": "tori",
+    "meaning": "ayam",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-049",
+    "kanji": "でも",
+    "hiragana": "でも",
+    "romaji": "demo",
+    "meaning": "tetapi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-050",
+    "kanji": "それは、よかったですね",
+    "hiragana": "それは、よかったですね",
+    "romaji": "soreha,yokattadesune",
+    "meaning": "Wah, boleh juga. / Kedengarannya bagus, ya.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-18-051",
+    "kanji": "別府温泉",
+    "hiragana": "べっぷおんせん",
+    "romaji": "beppuonsen",
+    "meaning": "Onsen Beppu (area kolam pemandian air panas)",
+    "level": "N2",
+    "isExtra": false
+  }
+]

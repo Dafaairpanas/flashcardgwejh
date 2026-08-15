@@ -1,0 +1,515 @@
+[
+  {
+    "id": "mn-22-001",
+    "kanji": "[お]弁当",
+    "hiragana": "[お]べんとう",
+    "romaji": "[o]bentou",
+    "meaning": "bekal",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-002",
+    "kanji": "[眼鏡を〜]",
+    "hiragana": "かけますⅡ [めがねを〜]",
+    "romaji": "kakemasuⅡ [meganewo~]",
+    "meaning": "memakai [kaca mata]",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-003",
+    "kanji": "えーと",
+    "hiragana": "えーと",
+    "romaji": "eeto",
+    "meaning": "Itu...",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-004",
+    "kanji": "おめでとう [ございます]。",
+    "hiragana": "おめでとう [ございます]。",
+    "romaji": "omedetou [gozaimasu].",
+    "meaning": "Selamat. (digunakan untuk hari ulang tahu, upacara pernikahan, dan tahun baru)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-005",
+    "kanji": "お探しですか。",
+    "hiragana": "おさがしですか。",
+    "romaji": "osagashidesuka.",
+    "meaning": "Mencari apa?",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-006",
+    "kanji": "かぶりますⅠ",
+    "hiragana": "かぶりますⅠ",
+    "romaji": "kaburimasuⅠ",
+    "meaning": "memakai (topi)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-007",
+    "kanji": "ケーキ",
+    "hiragana": "ケーキ",
+    "romaji": "keeki",
+    "meaning": "kue",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-008",
+    "kanji": "コート",
+    "hiragana": "コート",
+    "romaji": "kooto",
+    "meaning": "mantal",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-009",
+    "kanji": "こちら",
+    "hiragana": "こちら",
+    "romaji": "kochira",
+    "meaning": "ini (ungkapan sopan dari これ)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-010",
+    "kanji": "しますⅢ [ネクタイを〜]",
+    "hiragana": "しますⅢ [ネクタイを〜]",
+    "romaji": "shimasuⅢ [nekutaiwo~]",
+    "meaning": "memakai [dasi]",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-011",
+    "kanji": "スーツ＊",
+    "hiragana": "スーツ＊",
+    "romaji": "suutsu*",
+    "meaning": "pakaian setelan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-012",
+    "kanji": "セーター",
+    "hiragana": "セーター",
+    "romaji": "seetaa",
+    "meaning": "sweater, baju hangat",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-013",
+    "kanji": "ダイニングキッチン",
+    "hiragana": "ダイニングキッチン",
+    "romaji": "dainingukitchin",
+    "meaning": "ruang makan dengan dapur",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-014",
+    "kanji": "では",
+    "hiragana": "では",
+    "romaji": "deha",
+    "meaning": "Kalau begitu",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-015",
+    "kanji": "はきますⅠ",
+    "hiragana": "はきますⅠ",
+    "romaji": "hakimasuⅠ",
+    "meaning": "memakai (sepatu, celana)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-016",
+    "kanji": "パリ",
+    "hiragana": "パリ",
+    "romaji": "pari",
+    "meaning": "Paris",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-017",
+    "kanji": "ユーモア",
+    "hiragana": "ユーモア",
+    "romaji": "yuumoa",
+    "meaning": "humor",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-018",
+    "kanji": "よく",
+    "hiragana": "よく",
+    "romaji": "yoku",
+    "meaning": "sering kali",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-019",
+    "kanji": "ロボット",
+    "hiragana": "ロボット",
+    "romaji": "robotto",
+    "meaning": "robot",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-020",
+    "kanji": "わたしたち",
+    "hiragana": "わたしたち",
+    "romaji": "watashitachi",
+    "meaning": "kami, kita",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-021",
+    "kanji": "押し入れ",
+    "hiragana": "おしいれ",
+    "romaji": "oshiire",
+    "meaning": "lemari dinding ala Jepang",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-022",
+    "kanji": "家賃",
+    "hiragana": "やちん",
+    "romaji": "yachin",
+    "meaning": "biaya sewa rumah",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-023",
+    "kanji": "眼鏡",
+    "hiragana": "めがね",
+    "romaji": "megane",
+    "meaning": "kaca mata",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-024",
+    "kanji": "生まれます",
+    "hiragana": "うまれますⅡ",
+    "romaji": "umaremasuⅡ",
+    "meaning": "lahir",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-025",
+    "kanji": "着ます",
+    "hiragana": "きますⅡ",
+    "romaji": "kimasuⅡ",
+    "meaning": "memakai (kemeja)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-026",
+    "kanji": "都合",
+    "hiragana": "つごう",
+    "romaji": "tsugou",
+    "meaning": "kondisi",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-027",
+    "kanji": "布団",
+    "hiragana": "ふとん",
+    "romaji": "futon",
+    "meaning": "selimut dan kasur berisi kapas ala Jepang",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-028",
+    "kanji": "帽子",
+    "hiragana": "ぼうし",
+    "romaji": "boushi",
+    "meaning": "topi",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-029",
+    "kanji": "万里の長城",
+    "hiragana": "ばんりのちょうじょう",
+    "romaji": "banrinochoujou",
+    "meaning": "Tembok Besar Cina",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-030",
+    "kanji": "和室",
+    "hiragana": "わしつ",
+    "romaji": "washitsu",
+    "meaning": "kamar ala Jepang",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-22-031",
+    "kanji": "（オーバー）コート",
+    "hiragana": "（オーバー）コート",
+    "romaji": "(oobaa)kooto",
+    "meaning": "mantel",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-032",
+    "kanji": "くつした",
+    "hiragana": "くつした",
+    "romaji": "kutsushita",
+    "meaning": "kaos kaki",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-033",
+    "kanji": "ジーンズ",
+    "hiragana": "ジーンズ",
+    "romaji": "jiinzu",
+    "meaning": "celana jeans",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-034",
+    "kanji": "スーツ",
+    "hiragana": "スーツ",
+    "romaji": "suutsu",
+    "meaning": "pakaian setelan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-035",
+    "kanji": "スカート",
+    "hiragana": "スカート",
+    "romaji": "sukaato",
+    "meaning": "rok",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-036",
+    "kanji": "ストッキング",
+    "hiragana": "ストッキング",
+    "romaji": "sutokkingu",
+    "meaning": "stoking",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-037",
+    "kanji": "ズボン／パンツ",
+    "hiragana": "ズボン／パンツ",
+    "romaji": "zubon/pantsu",
+    "meaning": "celana panjang",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-038",
+    "kanji": "セーター",
+    "hiragana": "セーター",
+    "romaji": "seetaa",
+    "meaning": "sweater, baju hangat",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-039",
+    "kanji": "ぞうり",
+    "hiragana": "ぞうり",
+    "romaji": "zouri",
+    "meaning": "Zori (sandal tradisional Jepang)",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-040",
+    "kanji": "たび",
+    "hiragana": "たび",
+    "romaji": "tabi",
+    "meaning": "Tabi (kaos kaki tradisional Jepang)",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-041",
+    "kanji": "ネクタイ",
+    "hiragana": "ネクタイ",
+    "romaji": "nekutai",
+    "meaning": "dasi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-042",
+    "kanji": "ブーツ",
+    "hiragana": "ブーツ",
+    "romaji": "buutsu",
+    "meaning": "sepatu bot",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-043",
+    "kanji": "ベルト",
+    "hiragana": "ベルト",
+    "romaji": "beruto",
+    "meaning": "ikat pinggang",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-044",
+    "kanji": "レインコート",
+    "hiragana": "レインコート",
+    "romaji": "reinkooto",
+    "meaning": "jas hujan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-045",
+    "kanji": "ワイシャツ",
+    "hiragana": "ワイシャツ",
+    "romaji": "waishatsu",
+    "meaning": "kemeja",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-046",
+    "kanji": "ワンピース",
+    "hiragana": "ワンピース",
+    "romaji": "wanpiisu",
+    "meaning": "terusan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-047",
+    "kanji": "運動靴",
+    "hiragana": "うんどうぐつ",
+    "romaji": "undougutsu",
+    "meaning": "sepatu olah raga",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-048",
+    "kanji": "下着",
+    "hiragana": "したぎ",
+    "romaji": "shitagi",
+    "meaning": "pakaian dalam",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-049",
+    "kanji": "手袋",
+    "hiragana": "てぶくろ",
+    "romaji": "tebukuro",
+    "meaning": "sarung tangan",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-050",
+    "kanji": "上着",
+    "hiragana": "うわぎ",
+    "romaji": "uwagi",
+    "meaning": "jas",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-051",
+    "kanji": "帯",
+    "hiragana": "おび",
+    "romaji": "obi",
+    "meaning": "Obi (ikat pinggang tradisional Jepang, digunakan bersamaan dengan Kimono)",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-052",
+    "kanji": "着物",
+    "hiragana": "きもの",
+    "romaji": "kimono",
+    "meaning": "Kimono (pakaian tradisional Jepang)",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-22-053",
+    "kanji": "（パンティー）",
+    "hiragana": "（パンティー）",
+    "romaji": "(panteii)",
+    "meaning": "",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-22-054",
+    "kanji": "ハイヒール",
+    "hiragana": "ハイヒール",
+    "romaji": "haihiiru",
+    "meaning": "sepatu berhak tinggi",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-22-055",
+    "kanji": "ブラウス",
+    "hiragana": "ブラウス",
+    "romaji": "burausu",
+    "meaning": "blus",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-22-056",
+    "kanji": "マフラー",
+    "hiragana": "マフラー",
+    "romaji": "mafuraa",
+    "meaning": "shal, selendang",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-22-057",
+    "kanji": "みんなの アンケート",
+    "hiragana": "みんなの アンケート",
+    "romaji": "minnano ankeeto",
+    "meaning": "angket fiksi",
+    "level": "-",
+    "importinity": 3
+  }
+]

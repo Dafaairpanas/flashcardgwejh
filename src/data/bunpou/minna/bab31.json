@@ -1,0 +1,150 @@
+[
+  {
+    "id": "m_bab31_1",
+    "chapter": "Bab 31",
+    "source": "minna",
+    "title": "動詞の意向形",
+    "romajiTitle": "Doushi no Ikoukei (Bentuk Maksud)",
+    "meaning": "Bentuk Biasa dari ~ましょう (Mari/Ayo). Digunakan dalam kalimat informal untuk mengajak, mengusulkan, atau menawarkan bantuan.",
+    "formula": "Gol I: bunyi [i] sebelum ます menjadi [o] + う | Gol II: ~ます menjadi ~よう | Gol III: します menjadi しよう, きます menjadi こよう",
+    "examples": [
+      {
+        "jp": "ちょっと休まない？……うん、休もう。",
+        "romaji": "Chotto yasumanai? ......Un, yasumou.",
+        "id_translation": "Bagaimana kalau beristirahat sebentar? ……Ya, mari beristirahat."
+      },
+      {
+        "jp": "手伝おうか。",
+        "romaji": "Tetsudaou ka.",
+        "id_translation": "Mari saya bantu!"
+      },
+      {
+        "jp": "傘を持って行こうか。",
+        "romaji": "Kasa o motte ikou ka.",
+        "id_translation": "Apa sebaiknya bawa payung?"
+      }
+    ],
+    "notes": "Pada kalimat tanya Bentuk Biasa pada umumnya tidak membutuhkan partikel か, tetapi untuk kalimat tanya Bentuk Maksud yang menawarkan sesuatu (~ましょうか) diperlukan partikel か pada akhir kalimat.",
+    "tags": ["N4", "Kata Kerja", "Ajakan/Tawaran"]
+  },
+  {
+    "id": "m_bab31_2",
+    "chapter": "Bab 31",
+    "source": "minna",
+    "title": "動詞意向形 と 思っています",
+    "romajiTitle": "Doushi ikoukei to omotte imasu",
+    "meaning": "Pola kalimat ini digunakan untuk menyatakan kehendak si pembicara kepada lawan bicaranya. Bentuk ~と思っています menyatakan bahwa kehendak tersebut sudah dipikirkan sejak suatu jangka waktu lalu dan saat ini masih dipertahankan.",
+    "formula": "Kata Kerja (Bentuk Maksud) + と 思っています / と 思います",
+    "examples": [
+      {
+        "jp": "週末は海へ行こうと思っています。",
+        "romaji": "Shuumatsu wa umi e ikou to omotte imasu.",
+        "id_translation": "Pada akhir minggu ingin pergi ke laut."
+      },
+      {
+        "jp": "今から銀行へ行こうと思います。",
+        "romaji": "Ima kara ginkou e ikou to omoimasu.",
+        "id_translation": "Sekarang mau pergi ke bank."
+      },
+      {
+        "jp": "彼は学校を作ろうと思っています。",
+        "romaji": "Kare wa gakkou o tsukurou to omotte imasu.",
+        "id_translation": "Rencananya dia ingin membangun sekolah."
+      }
+    ],
+    "notes": "Kata Kerja Bentuk Maksud + と思っています dapat digunakan untuk menyatakan maksud orang ketiga (dia/mereka), sedangkan ~と思います hanya dapat menyatakan maksud secara spontan dari si pembicara sendiri (saya).",
+    "tags": ["N4", "Pola Kalimat", "Kehendak/Maksud"]
+  },
+  {
+    "id": "m_bab31_3",
+    "chapter": "Bab 31",
+    "source": "minna",
+    "title": "動詞辞書形／ない形 つもりです",
+    "romajiTitle": "Doushi jishokei / nai-kei tsumori desu",
+    "meaning": "Menyatakan kehendak, niat, atau rencana pribadi yang pasti. Menunjukkan ketepatan hati yang kukuh (kebulatan tekad) dibandingkan dengan ~意向形と思っています.",
+    "formula": "Kata Kerja (Bentuk Kamus) / Kata Kerja (Bentuk ない) + つもりです",
+    "examples": [
+      {
+        "jp": "国へ帰っても、日本語の勉強を続けるつもりです。",
+        "romaji": "Kuni e kaette mo, nihongo no benkyou o tsuzukeru tsumori desu.",
+        "id_translation": "Kalau pulang ke tanah air, (saya) ingin meneruskan belajar bahasa Jepang."
+      },
+      {
+        "jp": "あしたからはたばこを吸わないつもりです。",
+        "romaji": "Ashita kara wa tabako o suwanai tsumori desu.",
+        "id_translation": "Mulai besok, (saya) bermaksud tidak merokok."
+      }
+    ],
+    "notes": "Untuk niat yang negatif (bermaksud tidak melakukan), biasanya menggunakan bentuk Kata Kerja (Bentuk ない) + つもりです.",
+    "tags": ["N4", "Pola Kalimat", "Niat/Tekad"]
+  },
+  {
+    "id": "m_bab31_4",
+    "chapter": "Bab 31",
+    "source": "minna",
+    "title": "動詞辞書形／名詞 の 予定です",
+    "romajiTitle": "Doushi jishokei / Meishi no yotei desu",
+    "meaning": "Digunakan untuk menjelaskan pernyataan rencana atau jadwal yang sudah resmi, pasti, atau ditetapkan (bukan sekadar niat/kemauan pribadi).",
+    "formula": "Kata Kerja (Bentuk Kamus) / Kata Benda + の + 予定です",
+    "examples": [
+      {
+        "jp": "7月の終わりにドイツへ出張する予定です。",
+        "romaji": "Shichigatsu no owari ni Doitsu e shucchou suru yotei desu.",
+        "id_translation": "Rencananya pada akhir bulan Juli (saya) dinas ke Jerman."
+      },
+      {
+        "jp": "旅行は1週間ぐらいの予定です。",
+        "romaji": "Ryokou wa isshuukan gurai no yotei desu.",
+        "id_translation": "Rencananya perjalanan kurang lebih seminggu."
+      }
+    ],
+    "notes": "",
+    "tags": ["N4", "Pola Kalimat", "Jadwal/Rencana Pasti"]
+  },
+  {
+    "id": "m_bab31_5",
+    "chapter": "Bab 31",
+    "source": "minna",
+    "title": "まだ ～ていません",
+    "romajiTitle": "Mada ~te imasen",
+    "meaning": "Ekspresi ini menyatakan bahwa pada saat pembicaraan berlangsung, suatu kejadian belum terjadi atau suatu perbuatan belum selesai dilakukan.",
+    "formula": "まだ + Kata Kerja (Bentuk て) + いません",
+    "examples": [
+      {
+        "jp": "銀行はまだ開いていません。",
+        "romaji": "Ginkou wa mada aite imasen.",
+        "id_translation": "Bank belum buka."
+      },
+      {
+        "jp": "レポートはもう書きましたか。……いいえ、まだ書いていません。",
+        "romaji": "Repooto wa mou kakimashita ka. ......Iie, mada kaite imasen.",
+        "id_translation": "Apakah (Anda) telah menulis laporan? ……Belum, belum menulisnya."
+      }
+    ],
+    "notes": "Tidak menggunakan ~ませんでした, karena hal/perbuatan tersebut masih dalam proses penantian untuk terjadi/selesai sampai saat ini.",
+    "tags": ["N4", "Pola Kalimat", "Belum Selesai"]
+  },
+  {
+    "id": "m_bab31_6",
+    "chapter": "Bab 31",
+    "source": "minna",
+    "title": "動詞ます形 ＝ 名詞",
+    "romajiTitle": "Doushi masu-kei = Meishi",
+    "meaning": "Kata kerja bentuk ます (dengan 'ます' dihilangkan) dapat berubah fungsi dan digunakan sebagai Kata Benda.",
+    "formula": "Kata Kerja (Bentuk ます) -> Hilangkan ます",
+    "examples": [
+      {
+        "jp": "帰りの新幹線はどこから乗りますか。",
+        "romaji": "Kaeri no shinkansen wa doko kara norimasu ka.",
+        "id_translation": "Naik dari mana Shinkansen untuk pulangnya?"
+      },
+      {
+        "jp": "休みは何曜日ですか。",
+        "romaji": "Yasumi wa nanyoubi desu ka.",
+        "id_translation": "Hari apa hari libur?"
+      }
+    ],
+    "notes": "Contoh perubahan lainnya: 遊びます -> 遊び (permainan/bermain), 答えます -> 答え (jawaban), 申し込みます -> 申し込み (pendaftaran), 楽しみます -> 楽しみ (kesenangan).",
+    "tags": ["N4", "Perubahan Kata", "Nominalisasi"]
+  }
+]

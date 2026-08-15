@@ -1,0 +1,695 @@
+[
+  {
+    "id": "ir-a1-13-001",
+    "kanji": "電車",
+    "hiragana": "でんしゃ",
+    "romaji": "densha",
+    "meaning": "kereta",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-002",
+    "kanji": "バス",
+    "hiragana": "バス",
+    "romaji": "basu",
+    "meaning": "bus",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-003",
+    "kanji": "タクシー",
+    "hiragana": "タクシー",
+    "romaji": "takushii",
+    "meaning": "taksi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-004",
+    "kanji": "地下鉄",
+    "hiragana": "ちかてつ",
+    "romaji": "chikatetsu",
+    "meaning": "kereta bawah tanah",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-005",
+    "kanji": "飛行機",
+    "hiragana": "ひこうき",
+    "romaji": "hikouki",
+    "meaning": "pesawat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-006",
+    "kanji": "船",
+    "hiragana": "ふね",
+    "romaji": "fune",
+    "meaning": "kapal",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-007",
+    "kanji": "～に乗ります",
+    "hiragana": "～にのります",
+    "romaji": "~ninorimasu",
+    "meaning": "Saya naik ～.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-008",
+    "kanji": "空港",
+    "hiragana": "くうこう",
+    "romaji": "kuukou",
+    "meaning": "bandara",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-009",
+    "kanji": "市民病院",
+    "hiragana": "しみんびょういん",
+    "romaji": "shiminbyouin",
+    "meaning": "rumah sakit kota",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-010",
+    "kanji": "～番",
+    "hiragana": "～ばん",
+    "romaji": "~ban",
+    "meaning": "nomor ～",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-011",
+    "kanji": "駅",
+    "hiragana": "えき",
+    "romaji": "eki",
+    "meaning": "stasiun",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-012",
+    "kanji": "～番線",
+    "hiragana": "～ばんせん",
+    "romaji": "~bansen",
+    "meaning": "peron nomor ～",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-013",
+    "kanji": "～番乗り場",
+    "hiragana": "～ばんのりば",
+    "romaji": "~bannoriba",
+    "meaning": "dermaga nomor ～",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-014",
+    "kanji": "快速",
+    "hiragana": "かいそく",
+    "romaji": "kaisoku",
+    "meaning": "(kereta) ekspres",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-015",
+    "kanji": "各駅停車／各停",
+    "hiragana": "かくえきていしゃ／かくてい",
+    "romaji": "kakuekiteisha/kakutei",
+    "meaning": "(kereta) lokal (berhenti di setiap stasiun)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-016",
+    "kanji": "この",
+    "hiragana": "この",
+    "romaji": "kono",
+    "meaning": "～ ini",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-017",
+    "kanji": "反対側",
+    "hiragana": "はんたいがわ",
+    "romaji": "hantaigawa",
+    "meaning": "sisi sebaliknya, sisi yang berlawanan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-018",
+    "kanji": "何番線",
+    "hiragana": "なんばんせん",
+    "romaji": "nanbansen",
+    "meaning": "peron berapa",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-019",
+    "kanji": "先",
+    "hiragana": "さき",
+    "romaji": "saki",
+    "meaning": "setelahnya, sesudahnya",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-020",
+    "kanji": "止まる／止まります",
+    "hiragana": "とまる／とまります",
+    "romaji": "tomaru/tomarimasu",
+    "meaning": "berhenti",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-021",
+    "kanji": "乗る／乗ります",
+    "hiragana": "のる／のります",
+    "romaji": "noru/norimasu",
+    "meaning": "naik (kendaraan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-022",
+    "kanji": "次",
+    "hiragana": "つぎ",
+    "romaji": "tsugi",
+    "meaning": "berikutnya",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-023",
+    "kanji": "止まりません",
+    "hiragana": "とまりません",
+    "romaji": "tomarimasen",
+    "meaning": "Tidak berhenti.",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-024",
+    "kanji": "乗ってください",
+    "hiragana": "のってください",
+    "romaji": "nottekudasai",
+    "meaning": "Silakan naik ～.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-025",
+    "kanji": "終点",
+    "hiragana": "しゅうてん",
+    "romaji": "shuuten",
+    "meaning": "pemberhentian terakhir",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-026",
+    "kanji": "～線（武蔵山線）",
+    "hiragana": "～せん（むさしやません）",
+    "romaji": "~sen(musashiyamasen)",
+    "meaning": "jalur ～, rute ～ (contoh: Jalur Musashiyama)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-027",
+    "kanji": "乗り換え／お乗換え",
+    "hiragana": "のりかえ／おのりかえ",
+    "romaji": "norikae/onorikae",
+    "meaning": "transit",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-028",
+    "kanji": "出口／お出口",
+    "hiragana": "でぐち／おでぐち",
+    "romaji": "deguchi/odeguchi",
+    "meaning": "pintu keluar",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-029",
+    "kanji": "右側",
+    "hiragana": "みぎがわ",
+    "romaji": "migigawa",
+    "meaning": "sebelah kanan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-030",
+    "kanji": "はい、そうです",
+    "hiragana": "はい、そうです",
+    "romaji": "hai,soudesu",
+    "meaning": "Ya, benar.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-031",
+    "kanji": "お忘れ物のないよう、お降りください",
+    "hiragana": "おわすれもののないよう、おおりください",
+    "romaji": "owasuremonononaiyou,oorikudasai",
+    "meaning": "Periksa kembali agar tidak ada barang yang tertinggal ketika Anda turun. (ragam hormat)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-032",
+    "kanji": "～時間",
+    "hiragana": "～じかん",
+    "romaji": "~jikan",
+    "meaning": "～ jam",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-033",
+    "kanji": "1時間",
+    "hiragana": "いちじかん",
+    "romaji": "ichijikan",
+    "meaning": "satu jam",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-034",
+    "kanji": "1時間半",
+    "hiragana": "いちじかんはん",
+    "romaji": "ichijikanhan",
+    "meaning": "1,5 jam",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-035",
+    "kanji": "2時間",
+    "hiragana": "にじかん",
+    "romaji": "nijikan",
+    "meaning": "dua jam",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-036",
+    "kanji": "～分",
+    "hiragana": "～ふん／ぷん",
+    "romaji": "~fun/pun",
+    "meaning": "～ menit (menunjukkan lamanya waktu)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-037",
+    "kanji": "10分",
+    "hiragana": "じゅっぷん",
+    "romaji": "juppun",
+    "meaning": "10 menit",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-038",
+    "kanji": "20分",
+    "hiragana": "にじゅっぷん",
+    "romaji": "nijuppun",
+    "meaning": "20 menit",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-039",
+    "kanji": "30分",
+    "hiragana": "さんじゅっぷん",
+    "romaji": "sanjuppun",
+    "meaning": "30 menit",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-040",
+    "kanji": "40分",
+    "hiragana": "よんじゅっぷん",
+    "romaji": "yonjuppun",
+    "meaning": "40 menit",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-041",
+    "kanji": "50分",
+    "hiragana": "ごじゅっぷん",
+    "romaji": "gojuppun",
+    "meaning": "50 menit",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-042",
+    "kanji": "1分",
+    "hiragana": "いっぷん",
+    "romaji": "ippun",
+    "meaning": "1 menit",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-043",
+    "kanji": "2分",
+    "hiragana": "にふん",
+    "romaji": "nifun",
+    "meaning": "2 menit",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-044",
+    "kanji": "3分",
+    "hiragana": "さんぷん",
+    "romaji": "sanpun",
+    "meaning": "3 menit",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-045",
+    "kanji": "4分",
+    "hiragana": "よんふん／よんぷん",
+    "romaji": "yonfun/yonpun",
+    "meaning": "4 menit",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-046",
+    "kanji": "5分",
+    "hiragana": "ごふん",
+    "romaji": "gofun",
+    "meaning": "5 menit",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-047",
+    "kanji": "6分",
+    "hiragana": "ろっぷん",
+    "romaji": "roppun",
+    "meaning": "6 menit",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-048",
+    "kanji": "7分",
+    "hiragana": "ななふん",
+    "romaji": "nanafun",
+    "meaning": "7 menit",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-049",
+    "kanji": "8分",
+    "hiragana": "はちふん／はっぷん",
+    "romaji": "hachifun/happun",
+    "meaning": "8 menit",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-050",
+    "kanji": "9分",
+    "hiragana": "きゅうふん",
+    "romaji": "kyuufun",
+    "meaning": "9 menit",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-051",
+    "kanji": "どうやって",
+    "hiragana": "どうやって",
+    "romaji": "douyatte",
+    "meaning": "bagaimana",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-052",
+    "kanji": "自転車",
+    "hiragana": "じてんしゃ",
+    "romaji": "jitensha",
+    "meaning": "sepeda",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-053",
+    "kanji": "バイク",
+    "hiragana": "バイク",
+    "romaji": "baiku",
+    "meaning": "sepeda motor",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-054",
+    "kanji": "車",
+    "hiragana": "くるま",
+    "romaji": "kuruma",
+    "meaning": "mobil",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-055",
+    "kanji": "歩いて",
+    "hiragana": "あるいて",
+    "romaji": "aruite",
+    "meaning": "jalan kaki",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-056",
+    "kanji": "どのぐらい",
+    "hiragana": "どのぐらい",
+    "romaji": "donogurai",
+    "meaning": "berapa lama",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-057",
+    "kanji": "かかる／かかります",
+    "hiragana": "かかる／かかります",
+    "romaji": "kakaru/kakarimasu",
+    "meaning": "memakan (waktu), membutuhkan (waktu)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-058",
+    "kanji": "～ぐらい（10分ぐらい）",
+    "hiragana": "～ぐらい（じゅっぷんぐらい）",
+    "romaji": "~gurai(juppungurai)",
+    "meaning": "sekitar ～, kurang lebih ～ (contoh: sekitar 10 menit)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-059",
+    "kanji": "雨の日",
+    "hiragana": "あめのひ",
+    "romaji": "amenohi",
+    "meaning": "ketika hujan, di hari hujan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-060",
+    "kanji": "大変ですね",
+    "hiragana": "たいへんですね",
+    "romaji": "taihendesune",
+    "meaning": "Berat juga, ya.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-061",
+    "kanji": "乗る／乗ります",
+    "hiragana": "のる／のります",
+    "romaji": "noru/norimasu",
+    "meaning": "naik (kendaraan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-062",
+    "kanji": "降りる／降ります",
+    "hiragana": "おりる／おります",
+    "romaji": "oriru/orimasu",
+    "meaning": "turun (kendaraan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-063",
+    "kanji": "乗り換える／乗り換えます",
+    "hiragana": "のりかえる／のりかえます",
+    "romaji": "norikaeru/norikaemasu",
+    "meaning": "transit, berganti kendaraan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-064",
+    "kanji": "市場",
+    "hiragana": "いちば",
+    "romaji": "ichiba",
+    "meaning": "pasar",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-065",
+    "kanji": "市役所",
+    "hiragana": "しやくしょ",
+    "romaji": "shiyakusho",
+    "meaning": "balai kota",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-066",
+    "kanji": "バスセンター",
+    "hiragana": "バスセンター",
+    "romaji": "basusentaa",
+    "meaning": "terminal bus",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-067",
+    "kanji": "～モール（さくらモール）",
+    "hiragana": "～モール（さくらモール）",
+    "romaji": "~mooru(sakuramooru)",
+    "meaning": "mal ～ (contoh: Mal Sakura)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-068",
+    "kanji": "東口",
+    "hiragana": "ひがしぐち",
+    "romaji": "higashiguchi",
+    "meaning": "pintu timur",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-069",
+    "kanji": "西口",
+    "hiragana": "にしぐち",
+    "romaji": "nishiguchi",
+    "meaning": "pintu barat",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-070",
+    "kanji": "南口",
+    "hiragana": "みなみぐち",
+    "romaji": "minamiguchi",
+    "meaning": "pintu selatan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-071",
+    "kanji": "北口",
+    "hiragana": "きたぐち",
+    "romaji": "kitaguchi",
+    "meaning": "pintu utara",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-072",
+    "kanji": "改札",
+    "hiragana": "かいさつ",
+    "romaji": "kaisatsu",
+    "meaning": "gerbang tiket",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-073",
+    "kanji": "エスカレーター",
+    "hiragana": "エスカレーター",
+    "romaji": "esukareetaa",
+    "meaning": "eskalator",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-074",
+    "kanji": "エレベーター",
+    "hiragana": "エレベーター",
+    "romaji": "erebeetaa",
+    "meaning": "lift",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-075",
+    "kanji": "待合室",
+    "hiragana": "まちあいしつ",
+    "romaji": "machiaishitsu",
+    "meaning": "ruang tunggu",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-076",
+    "kanji": "バス乗り場",
+    "hiragana": "バスのりば",
+    "romaji": "basunoriba",
+    "meaning": "halte bus",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-13-077",
+    "kanji": "タクシー乗り場",
+    "hiragana": "タクシーのりば",
+    "romaji": "takushiinoriba",
+    "meaning": "pangkalan taksi, tempat naik taksi",
+    "level": "N3",
+    "isExtra": false
+  }
+]

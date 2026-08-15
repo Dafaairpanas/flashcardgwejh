@@ -1,0 +1,117 @@
+[
+  {
+    "id": "m_bab23_1",
+    "chapter": "Bab 23",
+    "source": "minna",
+    "title": "～とき、～",
+    "romajiTitle": "~ toki, ~",
+    "meaning": "とき menunjukkan waktu ketika terjadinya keadaan dan aksi atau fenomena yang dinyatakan dalam kalimat pokok yang menyusul. Artinya \"Ketika ...\" atau \"Pada waktu ...\".  ",
+    "formula": "Kata Kerja (Bentuk Kamus/ない) / Kata Sifat い (～い) / Kata Sifat な (～な) / Kata Benda (～の) + とき、～",
+    "examples": [
+      {
+        "jp": "図書館で 本を 借りる とき、カードが 要ります。",
+        "romaji": "Toshokan de hon o kariru toki, kaado ga irimasu.",
+        "id_translation": "Ketika meminjam buku di perpustakaan, diperlukan kartu."
+      },
+      {
+        "jp": "暇な とき、うちへ 遊びに 来ませんか。",
+        "romaji": "Hima na toki, uchi e asobi ni kimasen ka.",
+        "id_translation": "Pada waktu luang, bagaimana kalau datang bermain ke rumah saya?"
+      },
+      {
+        "jp": "妻が 病気の とき、会社を 休みます。",
+        "romaji": "Tsuma ga byouki no toki, kaisha o yasumimasu.",
+        "id_translation": "Jika istri sakit, saya tidak masuk kerja."
+      }
+    ],
+    "notes": "Bentuk yang diletakkan di depan とき sama dengan bentuk yang menerangkan Kata Benda. Kalimat dengan menggunakan とき tidak berpengaruh pada induk kalimat.",
+    "tags": ["N5", "Kata Keterangan", "Waktu"]
+  },
+  {
+    "id": "m_bab23_2",
+    "chapter": "Bab 23",
+    "source": "minna",
+    "title": "Kata Kerja (Bentuk Kamus / Bentuk た) とき、～",
+    "romajiTitle": "Kata Kerja (Bentuk Kamus / Bentuk ta) toki, ~",
+    "meaning": "Jika Kata Kerja di depan とき adalah Bentuk Kamus, maka kalimat pokok menunjukkan hal yang terjadi SEBELUM kalimat ～とき. Jika Kata Kerja di depan とき adalah Bentuk た, maka kalimat pokok menunjukkan hal yang terjadi SETELAH kalimat ～とき.",
+    "formula": "Kata Kerja (Bentuk Kamus / Bentuk た) + とき、～",
+    "examples": [
+      {
+        "jp": "パリへ 行く とき、かばんを 買いました。",
+        "romaji": "Pari e iku toki, kaban o kaimashita.",
+        "id_translation": "Waktu mau pergi ke Paris, saya membeli tas. (Membeli sebelum tiba di Paris)"
+      },
+      {
+        "jp": "パリへ 行った とき、かばんを 買いました。",
+        "romaji": "Pari e itta toki, kaban o kaimashita.",
+        "id_translation": "Waktu pergi ke Paris, saya membeli tas. (Membeli setelah tiba di Paris)"
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Kata Kerja", "Urutan Waktu"]
+  },
+  {
+    "id": "m_bab23_3",
+    "chapter": "Bab 23",
+    "source": "minna",
+    "title": "Kata Kerja Bentuk Kamus と、～",
+    "romajiTitle": "Kata Kerja Bentuk Kamus to, ~",
+    "meaning": "と menyatakan jika suatu aksi atau kejadian di depan と terjadi, secara pasti mengakibatkan terjadinya suatu keadaan, aksi, atau fenomena yang menyusul di kalimat pokok (berarti \"Kalau...\").",
+    "formula": "Kata Kerja (Bentuk Kamus) + と、～",
+    "examples": [
+      {
+        "jp": "この ボタンを 押すと、お釣りが 出ます。",
+        "romaji": "Kono botan o osu to, otsuri ga demasu.",
+        "id_translation": "Kalau tekan tombol ini, uang kembaliannya keluar."
+      },
+      {
+        "jp": "右へ 曲がると、郵便局が あります。",
+        "romaji": "Migi e magaru to, yuubinkyoku ga arimasu.",
+        "id_translation": "Kalau belok ke kanan, ada kantor pos."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Kata Kerja", "Kondisi Pasti"]
+  },
+  {
+    "id": "m_bab23_4",
+    "chapter": "Bab 23",
+    "source": "minna",
+    "title": "Kata Benda が Kata Sifat",
+    "romajiTitle": "Kata Benda ga Kata Sifat",
+    "meaning": "Menyampaikan peristiwa secara objektivitas atau fenomena yang dirasakan dengan panca indera secara langsung. Partikel が tidak terbatas pada kalimat verbal, namun juga dipakai untuk kalimat adjektival (Kata Sifat).",
+    "formula": "Kata Benda + が + Kata Sifat",
+    "examples": [
+      {
+        "jp": "音が 小さいです。",
+        "romaji": "Oto ga chiisai desu.",
+        "id_translation": "Suaranya kecil."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Partikel", "Keadaan Objektif"]
+  },
+  {
+    "id": "m_bab23_5",
+    "chapter": "Bab 23",
+    "source": "minna",
+    "title": "Kata Benda を Kata Kerja yang menunjukkan gerakan berpindah",
+    "romajiTitle": "Kata Benda o Kata Kerja yang menunjukkan gerakan berpindah",
+    "meaning": "Partikel を yang digunakan bersama dengan Kata Kerja yang menunjukkan gerakan berpindah (seperti 散歩します, 渡ります, 曲がります, dll) menunjukkan tempat (ruang/jalur) yang dilewati oleh orang atau benda.",
+    "formula": "Kata Benda (Tempat) + を + Kata Kerja (Gerakan berpindah)",
+    "examples": [
+      {
+        "jp": "公園を 散歩します。",
+        "romaji": "Kouen o sanpo shimasu.",
+        "id_translation": "Berjalan-jalan di taman."
+      },
+      {
+        "jp": "交差点を 右へ 曲がります。",
+        "romaji": "Kousaten o migi e magarimasu.",
+        "id_translation": "Di perempatan belok ke kanan."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Partikel", "Penunjuk Ruang/Jalur"]
+  }
+]

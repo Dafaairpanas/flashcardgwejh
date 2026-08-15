@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ir-a2-2-18-001",
+    "kanji": "将来",
+    "hiragana": "しょうらい",
+    "romaji": "shourai",
+    "meaning": "masa depan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-002",
+    "kanji": "夢",
+    "hiragana": "ゆめ",
+    "romaji": "yume",
+    "meaning": "mimpi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-003",
+    "kanji": "希望",
+    "hiragana": "きぼう",
+    "romaji": "kibou",
+    "meaning": "harapan,  keinginan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-004",
+    "kanji": "作る（会社を作る）",
+    "hiragana": "つくる（かいしゃをつくる）",
+    "romaji": "tsukuru(kaishawotsukuru)",
+    "meaning": "membuat,  memulai (cth : memulai perusahaan)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-005",
+    "kanji": "就職する",
+    "hiragana": "しゅうしょくする",
+    "romaji": "shuushokusuru",
+    "meaning": "mendapatkan pekerjaan di perusahaan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-006",
+    "kanji": "持つ（店を持つ）",
+    "hiragana": "もつ（みせをもつ）",
+    "romaji": "motsu(misewomotsu)",
+    "meaning": "memiliki,  mempunyai (cth : memiliki toko sendiri)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-007",
+    "kanji": "稼ぐ（お金を稼ぐ）",
+    "hiragana": "かせぐ（かねをかせぐ）",
+    "romaji": "kasegu(kanewokasegu)",
+    "meaning": "mengumpulkan,  mendapatkan (cth : mengumpulkan uang)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-008",
+    "kanji": "貯金する",
+    "hiragana": "ちょきんする",
+    "romaji": "chokinsuru",
+    "meaning": "menabung",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-009",
+    "kanji": "結婚する",
+    "hiragana": "けっこんする",
+    "romaji": "kekkonsuru",
+    "meaning": "menikah",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-010",
+    "kanji": "建てる（家を建てる）",
+    "hiragana": "たてる（いえをたてる）",
+    "romaji": "tateru(iewotateru)",
+    "meaning": "membangun,  mendirikan (cth : membangun rumah)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-011",
+    "kanji": "進学する",
+    "hiragana": "しんがくする",
+    "romaji": "shingakusuru",
+    "meaning": "melanjutkan pendidikan ke tingkat yang lebih tinggi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-012",
+    "kanji": "留学する",
+    "hiragana": "りゅうがくする",
+    "romaji": "ryuugakusuru",
+    "meaning": "belajar di luar negeri",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-013",
+    "kanji": "のんびり",
+    "hiragana": "のんびり",
+    "romaji": "nonbiri",
+    "meaning": "dengan santai",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-014",
+    "kanji": "暮らす",
+    "hiragana": "くらす",
+    "romaji": "kurasu",
+    "meaning": "menjalani hidup",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-015",
+    "kanji": "ずっと",
+    "hiragana": "ずっと",
+    "romaji": "zutto",
+    "meaning": "selamanya",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-016",
+    "kanji": "住む",
+    "hiragana": "すむ",
+    "romaji": "sumu",
+    "meaning": "hidup,  tinggal",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-017",
+    "kanji": "働く",
+    "hiragana": "はたらく",
+    "romaji": "hataraku",
+    "meaning": "bekerja",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-018",
+    "kanji": "職人",
+    "hiragana": "しょくにん",
+    "romaji": "shokunin",
+    "meaning": "(seorang) ahli,  profesional,  perajin",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-019",
+    "kanji": "ガイド",
+    "hiragana": "ガイド",
+    "romaji": "gaido",
+    "meaning": "pemandu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-020",
+    "kanji": "通訳",
+    "hiragana": "つうやく",
+    "romaji": "tsuuyaku",
+    "meaning": "penerjemah,  juru bahasa",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-021",
+    "kanji": "日本語教師",
+    "hiragana": "にほんごきょうし",
+    "romaji": "nihongokyoushi",
+    "meaning": "guru / pengajar bahasa Jepang",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-022",
+    "kanji": "なる（職人になる）",
+    "hiragana": "なる（しょくにんになる）",
+    "romaji": "naru(shokuninninaru)",
+    "meaning": "menjadi (cth : menjadi seorang ahli)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-023",
+    "kanji": "自動車",
+    "hiragana": "じどうしゃ",
+    "romaji": "jidousha",
+    "meaning": "mobil",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-024",
+    "kanji": "整備",
+    "hiragana": "せいび",
+    "romaji": "seibi",
+    "meaning": "perawatan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-025",
+    "kanji": "役に立つ",
+    "hiragana": "やくにたつ",
+    "romaji": "yakunitatsu",
+    "meaning": "berguna,  bermanfaat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-026",
+    "kanji": "そのために",
+    "hiragana": "そのために",
+    "romaji": "sonotameni",
+    "meaning": "untuk mencapai itu,  untuk itu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-027",
+    "kanji": "技術",
+    "hiragana": "ぎじゅつ",
+    "romaji": "gijutsu",
+    "meaning": "teknik",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-028",
+    "kanji": "がんばる",
+    "hiragana": "がんばる",
+    "romaji": "ganbaru",
+    "meaning": "bekerja keras",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-029",
+    "kanji": "暮らし",
+    "hiragana": "くらし",
+    "romaji": "kurashi",
+    "meaning": "kehidupan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-030",
+    "kanji": "うまくいく",
+    "hiragana": "うまくいく",
+    "romaji": "umakuiku",
+    "meaning": "berjalan lancar,  sukses",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-031",
+    "kanji": "周りの人",
+    "hiragana": "まわりのひと",
+    "romaji": "mawarinohito",
+    "meaning": "orang-orang di sekitar diri sendiri",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-032",
+    "kanji": "若者",
+    "hiragana": "わかもの",
+    "romaji": "wakamono",
+    "meaning": "pemuda",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-033",
+    "kanji": "卒業する",
+    "hiragana": "そつぎょうする",
+    "romaji": "sotsugyousuru",
+    "meaning": "lulus",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-034",
+    "kanji": "別の",
+    "hiragana": "べつの",
+    "romaji": "betsuno",
+    "meaning": "~ yang lain",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-035",
+    "kanji": "広げる",
+    "hiragana": "ひろげる",
+    "romaji": "hirogeru",
+    "meaning": "memperluas",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-036",
+    "kanji": "もともと",
+    "hiragana": "もともと",
+    "romaji": "motomoto",
+    "meaning": "aslinya,  awalnya",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-037",
+    "kanji": "募集",
+    "hiragana": "ぼしゅう",
+    "romaji": "boshuu",
+    "meaning": "perekrutan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-038",
+    "kanji": "応募する",
+    "hiragana": "おうぼする",
+    "romaji": "oubosuru",
+    "meaning": "melamar (pekerjaan)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-039",
+    "kanji": "続ける",
+    "hiragana": "つづける",
+    "romaji": "tsuzukeru",
+    "meaning": "melanjutkan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-040",
+    "kanji": "とにかく",
+    "hiragana": "とにかく",
+    "romaji": "tonikaku",
+    "meaning": "pokoknya,  bagaimanapun juga",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-041",
+    "kanji": "ストレス",
+    "hiragana": "ストレス",
+    "romaji": "sutoresu",
+    "meaning": "stres",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-042",
+    "kanji": "知り合う",
+    "hiragana": "しりあう",
+    "romaji": "shiriau",
+    "meaning": "berkenalan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-043",
+    "kanji": "最後",
+    "hiragana": "さいご",
+    "romaji": "saigo",
+    "meaning": "terakhir",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-044",
+    "kanji": "ひとこと",
+    "hiragana": "ひとこと",
+    "romaji": "hitokoto",
+    "meaning": "sepatah kata",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-045",
+    "kanji": "～始める（働き始める）",
+    "hiragana": "～はじめる（はたらきはじめる）",
+    "romaji": "~hajimeru(hatarakihajimeru)",
+    "meaning": "mulai ~ (cth : mulai bekerja)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-046",
+    "kanji": "下手（な）",
+    "hiragana": "へた（な）",
+    "romaji": "heta(na)",
+    "meaning": "tidak pandai,  tidak mahir",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-047",
+    "kanji": "失敗する",
+    "hiragana": "しっぱいする",
+    "romaji": "shippaisuru",
+    "meaning": "gagal,  berbuat salah",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-048",
+    "kanji": "工業",
+    "hiragana": "こうぎょう",
+    "romaji": "kougyou",
+    "meaning": "industri",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-049",
+    "kanji": "親切にする",
+    "hiragana": "しんせつにする",
+    "romaji": "shinsetsunisuru",
+    "meaning": "bersikap baik hati,  memperlakukan (seseorang) dengan ramah",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-18-050",
+    "kanji": "助ける",
+    "hiragana": "たすける",
+    "romaji": "tasukeru",
+    "meaning": "menolong,  membantu",
+    "level": "N3",
+    "isExtra": false
+  }
+]

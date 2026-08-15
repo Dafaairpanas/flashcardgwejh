@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ir-a1-02-001",
+    "kanji": "よく",
+    "hiragana": "よく",
+    "romaji": "yoku",
+    "meaning": "dengan baik",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-002",
+    "kanji": "もういちど",
+    "hiragana": "もういちど",
+    "romaji": "mouichido",
+    "meaning": "sekali lagi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-003",
+    "kanji": "もう少し",
+    "hiragana": "もうすこし",
+    "romaji": "mousukoshi",
+    "meaning": "sedikit lagi",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-004",
+    "kanji": "ゆっくり",
+    "hiragana": "ゆっくり",
+    "romaji": "yukkuri",
+    "meaning": "perlahan, pelan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-005",
+    "kanji": "在留カード",
+    "hiragana": "ざいりゅうカード",
+    "romaji": "zairyuukaado",
+    "meaning": "kartu izin tinggal",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-006",
+    "kanji": "ここ",
+    "hiragana": "ここ",
+    "romaji": "koko",
+    "meaning": "(di) sini",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-007",
+    "kanji": "名前",
+    "hiragana": "なまえ",
+    "romaji": "namae",
+    "meaning": "nama",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-008",
+    "kanji": "部屋",
+    "hiragana": "へや",
+    "romaji": "heya",
+    "meaning": "kamar, ruangan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-009",
+    "kanji": "わかりません",
+    "hiragana": "わかりません",
+    "romaji": "wakarimasen",
+    "meaning": "Saya tidak mengerti/paham.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-010",
+    "kanji": "お願いします",
+    "hiragana": "おねがいします",
+    "romaji": "onegaishimasu",
+    "meaning": "Tolong.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-011",
+    "kanji": "言ってください",
+    "hiragana": "いってください",
+    "romaji": "ittekudasai",
+    "meaning": "Tolong katakan/ucapkan.",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-012",
+    "kanji": "見せてください",
+    "hiragana": "みせてください",
+    "romaji": "misetekudasai",
+    "meaning": "Tolong tunjukkan.",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-013",
+    "kanji": "書いてください",
+    "hiragana": "かいてください",
+    "romaji": "kaitekudasai",
+    "meaning": "Tolong tulis.",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-014",
+    "kanji": "わかりました",
+    "hiragana": "わかりました",
+    "romaji": "wakarimashita",
+    "meaning": "Saya mengerti/paham.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-015",
+    "kanji": "0",
+    "hiragana": "ゼロ",
+    "romaji": "zero",
+    "meaning": "nol",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-016",
+    "kanji": "1",
+    "hiragana": "いち",
+    "romaji": "ichi",
+    "meaning": "satu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-017",
+    "kanji": "2",
+    "hiragana": "に",
+    "romaji": "ni",
+    "meaning": "dua",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-018",
+    "kanji": "3",
+    "hiragana": "さん",
+    "romaji": "san",
+    "meaning": "tiga",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-019",
+    "kanji": "4",
+    "hiragana": "よん",
+    "romaji": "yon",
+    "meaning": "empat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-020",
+    "kanji": "5",
+    "hiragana": "ご",
+    "romaji": "go",
+    "meaning": "lima",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-021",
+    "kanji": "6",
+    "hiragana": "ろく",
+    "romaji": "roku",
+    "meaning": "enam",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-022",
+    "kanji": "7",
+    "hiragana": "なな",
+    "romaji": "nana",
+    "meaning": "tujuh",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-023",
+    "kanji": "8",
+    "hiragana": "はち",
+    "romaji": "hachi",
+    "meaning": "delapan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-024",
+    "kanji": "9",
+    "hiragana": "きゅう",
+    "romaji": "kyuu",
+    "meaning": "sembilan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-025",
+    "kanji": "10",
+    "hiragana": "じゅう",
+    "romaji": "juu",
+    "meaning": "sepuluh",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-026",
+    "kanji": "日本語",
+    "hiragana": "にほんご",
+    "romaji": "nihongo",
+    "meaning": "bahasa Jepang",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-027",
+    "kanji": "英語",
+    "hiragana": "えいご",
+    "romaji": "eigo",
+    "meaning": "bahasa Inggris",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-028",
+    "kanji": "中国語",
+    "hiragana": "ちゅうごくご",
+    "romaji": "chuugokugo",
+    "meaning": "bahasa Mandarin",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-029",
+    "kanji": "インドネシア語",
+    "hiragana": "インドネシアご",
+    "romaji": "indoneshiago",
+    "meaning": "bahasa Indonesia",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-030",
+    "kanji": "はい",
+    "hiragana": "はい",
+    "romaji": "hai",
+    "meaning": "ya",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-031",
+    "kanji": "少し",
+    "hiragana": "すこし",
+    "romaji": "sukoshi",
+    "meaning": "sedikit",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-032",
+    "kanji": "お客さん",
+    "hiragana": "おきゃくさん",
+    "romaji": "okyakusan",
+    "meaning": "pelanggan, pembeli (digunakan untuk memanggil pelanggan yang tidak diketahui namanya)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-033",
+    "kanji": "わかりますか？",
+    "hiragana": "わかりますか？",
+    "romaji": "wakarimasuka？",
+    "meaning": "Apakah Anda paham/mengerti?",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-034",
+    "kanji": "できますか？",
+    "hiragana": "できますか？",
+    "romaji": "dekimasuka？",
+    "meaning": "Apakah Anda bisa?",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-035",
+    "kanji": "できます",
+    "hiragana": "できます",
+    "romaji": "dekimasu",
+    "meaning": "Saya bisa.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-036",
+    "kanji": "わかります",
+    "hiragana": "わかります",
+    "romaji": "wakarimasu",
+    "meaning": "Saya paham/mengerti.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-037",
+    "kanji": "はい、どうぞ",
+    "hiragana": "はい、どうぞ",
+    "romaji": "hai,douzo",
+    "meaning": "Silakan.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-038",
+    "kanji": "じゃあ",
+    "hiragana": "じゃあ",
+    "romaji": "jaa",
+    "meaning": "Kalau begitu...",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-039",
+    "kanji": "あのう",
+    "hiragana": "あのう",
+    "romaji": "anou",
+    "meaning": "Emm... (ungkapan yang digunakan saat pembicara ingin mulai berbicara dengan seseorang)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-040",
+    "kanji": "日本語で",
+    "hiragana": "にほんごで",
+    "romaji": "nihongode",
+    "meaning": "dalam bahasa Jepang",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-041",
+    "kanji": "何",
+    "hiragana": "なん",
+    "romaji": "nan",
+    "meaning": "apa",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-042",
+    "kanji": "消しゴム",
+    "hiragana": "けしゴム",
+    "romaji": "keshigomu",
+    "meaning": "penghapus karet",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-043",
+    "kanji": "傘",
+    "hiragana": "かさ",
+    "romaji": "kasa",
+    "meaning": "payung",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-044",
+    "kanji": "スマホ",
+    "hiragana": "スマホ",
+    "romaji": "sumaho",
+    "meaning": "ponsel pintar",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-045",
+    "kanji": "免許証",
+    "hiragana": "めんきょしょう",
+    "romaji": "menkyoshou",
+    "meaning": "surat izin, lisensi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-046",
+    "kanji": "蚊",
+    "hiragana": "か",
+    "romaji": "ka",
+    "meaning": "nyamuk",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-047",
+    "kanji": "何ですか？",
+    "hiragana": "なんですか？",
+    "romaji": "nandesuka？",
+    "meaning": "Apa?",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-048",
+    "kanji": "何と言いますか？",
+    "hiragana": "なんといいますか？",
+    "romaji": "nantoiimasuka？",
+    "meaning": "Apakah penyebutannya?",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-049",
+    "kanji": "え？",
+    "hiragana": "え？",
+    "romaji": "e？",
+    "meaning": "Hah?",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-02-050",
+    "kanji": "そうそう",
+    "hiragana": "そうそう",
+    "romaji": "sousou",
+    "meaning": "Ya, ya... Benar.",
+    "level": "-",
+    "isExtra": false
+  }
+]

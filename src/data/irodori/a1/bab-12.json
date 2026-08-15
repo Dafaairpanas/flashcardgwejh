@@ -1,0 +1,893 @@
+[
+  {
+    "id": "ir-a1-12-001",
+    "kanji": "夏祭り",
+    "hiragana": "なつまつり",
+    "romaji": "natsumatsuri",
+    "meaning": "festival musim panas",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-002",
+    "kanji": "会場",
+    "hiragana": "かいじょう",
+    "romaji": "kaijou",
+    "meaning": "tempat acara",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-003",
+    "kanji": "イベント",
+    "hiragana": "イベント",
+    "romaji": "ibento",
+    "meaning": "acara",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-004",
+    "kanji": "広場",
+    "hiragana": "ひろば",
+    "romaji": "hiroba",
+    "meaning": "lapangan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-005",
+    "kanji": "食べ物",
+    "hiragana": "たべもの",
+    "romaji": "tabemono",
+    "meaning": "makanan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-006",
+    "kanji": "飲み物",
+    "hiragana": "のみもの",
+    "romaji": "nomimono",
+    "meaning": "minuman",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-007",
+    "kanji": "ステージ",
+    "hiragana": "ステージ",
+    "romaji": "suteeji",
+    "meaning": "pertunjukan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-008",
+    "kanji": "縁日",
+    "hiragana": "えんにち",
+    "romaji": "ennichi",
+    "meaning": "pekan raya",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-009",
+    "kanji": "文化センター",
+    "hiragana": "ぶんかセンター",
+    "romaji": "bunkasentaa",
+    "meaning": "pusat kebudayaan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-010",
+    "kanji": "野外",
+    "hiragana": "やがい",
+    "romaji": "yagai",
+    "meaning": "luar ruangan, tempa terbuka",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-011",
+    "kanji": "入場料",
+    "hiragana": "にゅうじょうりょう",
+    "romaji": "nyuujouryou",
+    "meaning": "HTM (harga tiket masuk)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-012",
+    "kanji": "～円",
+    "hiragana": "～えん",
+    "romaji": "~en",
+    "meaning": "~ yen",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-013",
+    "kanji": "場所",
+    "hiragana": "ばしょ",
+    "romaji": "basho",
+    "meaning": "tempat, lokasi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-014",
+    "kanji": "ホール",
+    "hiragana": "ホール",
+    "romaji": "hooru",
+    "meaning": "aula",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-015",
+    "kanji": "映画上映会",
+    "hiragana": "えいがじょうえいかい",
+    "romaji": "eigajoueikai",
+    "meaning": "pemutaran film",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-016",
+    "kanji": "プログラム",
+    "hiragana": "プログラム",
+    "romaji": "puroguramu",
+    "meaning": "program",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-017",
+    "kanji": "上映作品",
+    "hiragana": "じょうえいさくひん",
+    "romaji": "joueisakuhin",
+    "meaning": "film yang ditayangkan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-018",
+    "kanji": "お問い合わせ",
+    "hiragana": "おといあわせ",
+    "romaji": "otoiawase",
+    "meaning": "pertanyaan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-019",
+    "kanji": "楽しもう！",
+    "hiragana": "たのしもう！",
+    "romaji": "tanoshimou!",
+    "meaning": "Mari nikmati ~.",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-020",
+    "kanji": "交流",
+    "hiragana": "こうりゅう",
+    "romaji": "kouryuu",
+    "meaning": "pertukaran",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-021",
+    "kanji": "バーベキュー",
+    "hiragana": "バーベキュー",
+    "romaji": "baabekyuu",
+    "meaning": "barbeku",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-022",
+    "kanji": "日時",
+    "hiragana": "にちじ",
+    "romaji": "nichiji",
+    "meaning": "tanggal dan waktu",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-023",
+    "kanji": "駐車場",
+    "hiragana": "ちゅうしゃじょう",
+    "romaji": "chuushajou",
+    "meaning": "tempat parkir",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-024",
+    "kanji": "あおぞら",
+    "hiragana": "あおぞら",
+    "romaji": "aozora",
+    "meaning": "langit biru",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-025",
+    "kanji": "問い合わせ先",
+    "hiragana": "といあわせさき",
+    "romaji": "toiawasesaki",
+    "meaning": "narahubung",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-026",
+    "kanji": "日本語ボランティア教室",
+    "hiragana": "にほんごボランティアきょうしつ",
+    "romaji": "nihongoboranteiakyoushitsu",
+    "meaning": "kelas sukarelawan Bahasa Jepang",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-027",
+    "kanji": "フェスティバル",
+    "hiragana": "フェスティバル",
+    "romaji": "fesuteibaru",
+    "meaning": "festival",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-028",
+    "kanji": "入場無料",
+    "hiragana": "にゅうじょうむりょう",
+    "romaji": "nyuujoumuryou",
+    "meaning": "gratis masuk",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-029",
+    "kanji": "1月",
+    "hiragana": "いちがつ",
+    "romaji": "ichigatsu",
+    "meaning": "Januari",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-030",
+    "kanji": "2月",
+    "hiragana": "にがつ",
+    "romaji": "nigatsu",
+    "meaning": "Februari",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-031",
+    "kanji": "3月",
+    "hiragana": "さんがつ",
+    "romaji": "sangatsu",
+    "meaning": "Maret",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-032",
+    "kanji": "4月",
+    "hiragana": "しがつ",
+    "romaji": "shigatsu",
+    "meaning": "April",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-033",
+    "kanji": "5月",
+    "hiragana": "ごがつ",
+    "romaji": "gogatsu",
+    "meaning": "Mei",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-034",
+    "kanji": "6月",
+    "hiragana": "ろくがつ",
+    "romaji": "rokugatsu",
+    "meaning": "Juni",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-035",
+    "kanji": "7月",
+    "hiragana": "しちがつ",
+    "romaji": "shichigatsu",
+    "meaning": "Juli",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-036",
+    "kanji": "8月",
+    "hiragana": "はちがつ",
+    "romaji": "hachigatsu",
+    "meaning": "Agustus",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-037",
+    "kanji": "9月",
+    "hiragana": "くがつ",
+    "romaji": "kugatsu",
+    "meaning": "September",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-038",
+    "kanji": "10月",
+    "hiragana": "じゅうがつ",
+    "romaji": "juugatsu",
+    "meaning": "Oktober",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-039",
+    "kanji": "11月",
+    "hiragana": "じゅういちがつ",
+    "romaji": "juuichigatsu",
+    "meaning": "November",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-040",
+    "kanji": "12月",
+    "hiragana": "じゅうにがつ",
+    "romaji": "juunigatsu",
+    "meaning": "Desember",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-041",
+    "kanji": "何月",
+    "hiragana": "なんがつ",
+    "romaji": "nangatsu",
+    "meaning": "bulan apa",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-042",
+    "kanji": "1日",
+    "hiragana": "ついたち",
+    "romaji": "tsuitachi",
+    "meaning": "tanggal 1",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-043",
+    "kanji": "2日",
+    "hiragana": "ふつか",
+    "romaji": "futsuka",
+    "meaning": "tanggal 2",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-044",
+    "kanji": "3日",
+    "hiragana": "みっか",
+    "romaji": "mikka",
+    "meaning": "tanggal 3",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-045",
+    "kanji": "4日",
+    "hiragana": "よっか",
+    "romaji": "yokka",
+    "meaning": "tanggal 4",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-046",
+    "kanji": "5日",
+    "hiragana": "いつか",
+    "romaji": "itsuka",
+    "meaning": "tanggal 5",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-047",
+    "kanji": "6日",
+    "hiragana": "むいか",
+    "romaji": "muika",
+    "meaning": "tanggal 6",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-048",
+    "kanji": "7日",
+    "hiragana": "なのか",
+    "romaji": "nanoka",
+    "meaning": "tanggal 7",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-049",
+    "kanji": "8日",
+    "hiragana": "ようか",
+    "romaji": "youka",
+    "meaning": "tanggal 8",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-050",
+    "kanji": "9日",
+    "hiragana": "ここのか",
+    "romaji": "kokonoka",
+    "meaning": "tanggal 9",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-051",
+    "kanji": "10日",
+    "hiragana": "とおか",
+    "romaji": "tooka",
+    "meaning": "tanggal 10",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-052",
+    "kanji": "11日",
+    "hiragana": "じゅういちにち",
+    "romaji": "juuichinichi",
+    "meaning": "tanggal 11",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-053",
+    "kanji": "12日",
+    "hiragana": "じゅうににち",
+    "romaji": "juuninichi",
+    "meaning": "tanggal 12",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-054",
+    "kanji": "13日",
+    "hiragana": "じゅうさんにち",
+    "romaji": "juusannichi",
+    "meaning": "tanggal 13",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-055",
+    "kanji": "14日",
+    "hiragana": "じゅうよっか",
+    "romaji": "juuyokka",
+    "meaning": "tanggal 14",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-056",
+    "kanji": "15日",
+    "hiragana": "じゅうごにち",
+    "romaji": "juugonichi",
+    "meaning": "tanggal 15",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-057",
+    "kanji": "16日",
+    "hiragana": "じゅうろくにち",
+    "romaji": "juurokunichi",
+    "meaning": "tanggal 16",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-058",
+    "kanji": "17日",
+    "hiragana": "じゅうしちにち",
+    "romaji": "juushichinichi",
+    "meaning": "tanggal 17",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-059",
+    "kanji": "18日",
+    "hiragana": "じゅうはちにち",
+    "romaji": "juuhachinichi",
+    "meaning": "tanggal 18",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-060",
+    "kanji": "19日",
+    "hiragana": "じゅうくにち",
+    "romaji": "juukunichi",
+    "meaning": "tanggal 19",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-061",
+    "kanji": "20日",
+    "hiragana": "はつか",
+    "romaji": "hatsuka",
+    "meaning": "tanggal 20",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-062",
+    "kanji": "21日",
+    "hiragana": "にじゅういちにち",
+    "romaji": "nijuuichinichi",
+    "meaning": "tanggal 21",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-063",
+    "kanji": "22日",
+    "hiragana": "にじゅうににち",
+    "romaji": "nijuuninichi",
+    "meaning": "tanggal 22",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-064",
+    "kanji": "23日",
+    "hiragana": "にじゅうさんにち",
+    "romaji": "nijuusannichi",
+    "meaning": "tanggal 23",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-065",
+    "kanji": "24日",
+    "hiragana": "にじゅうよっか",
+    "romaji": "nijuuyokka",
+    "meaning": "tanggal 24",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-066",
+    "kanji": "25日",
+    "hiragana": "にじゅうごにち",
+    "romaji": "nijuugonichi",
+    "meaning": "tanggal 25",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-067",
+    "kanji": "26日",
+    "hiragana": "にじゅうろくにち",
+    "romaji": "nijuurokunichi",
+    "meaning": "tanggal 26",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-068",
+    "kanji": "27日",
+    "hiragana": "にじゅうしちにち",
+    "romaji": "nijuushichinichi",
+    "meaning": "tanggal 27",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-069",
+    "kanji": "28日",
+    "hiragana": "にじゅうはちにち",
+    "romaji": "nijuuhachinichi",
+    "meaning": "tanggal 28",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-070",
+    "kanji": "29日",
+    "hiragana": "にじゅうくにち",
+    "romaji": "nijuukunichi",
+    "meaning": "tanggal 29",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-071",
+    "kanji": "30日",
+    "hiragana": "さんじゅうにち",
+    "romaji": "sanjuunichi",
+    "meaning": "tanggal 30",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-072",
+    "kanji": "31日",
+    "hiragana": "さんじゅういちにち",
+    "romaji": "sanjuuichinichi",
+    "meaning": "tanggal 31",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-073",
+    "kanji": "何日",
+    "hiragana": "なんにち",
+    "romaji": "nannichi",
+    "meaning": "tanggal berapa",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-074",
+    "kanji": "今日",
+    "hiragana": "きょう",
+    "romaji": "kyou",
+    "meaning": "hari ini",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-075",
+    "kanji": "明日",
+    "hiragana": "あした",
+    "romaji": "ashita",
+    "meaning": "besok",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-076",
+    "kanji": "あさって",
+    "hiragana": "あさって",
+    "romaji": "asatte",
+    "meaning": "lusa",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-077",
+    "kanji": "今週",
+    "hiragana": "こんしゅう",
+    "romaji": "konshuu",
+    "meaning": "minggu ini",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-078",
+    "kanji": "来週",
+    "hiragana": "らいしゅう",
+    "romaji": "raishuu",
+    "meaning": "minggu depan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-079",
+    "kanji": "パーティー",
+    "hiragana": "パーティー",
+    "romaji": "paateii",
+    "meaning": "pesta",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-080",
+    "kanji": "空手",
+    "hiragana": "からて",
+    "romaji": "karate",
+    "meaning": "karate",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-081",
+    "kanji": "試合",
+    "hiragana": "しあい",
+    "romaji": "shiai",
+    "meaning": "pertandingan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-082",
+    "kanji": "忘年会",
+    "hiragana": "ぼうねんかい",
+    "romaji": "bounenkai",
+    "meaning": "pesta akhir tahun",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-083",
+    "kanji": "もちろん",
+    "hiragana": "もちろん",
+    "romaji": "mochiron",
+    "meaning": "tentu saja",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-084",
+    "kanji": "楽しみですね",
+    "hiragana": "たのしみですね",
+    "romaji": "tanoshimidesune",
+    "meaning": "Saya menantikannya.",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-085",
+    "kanji": "そうですね",
+    "hiragana": "そうですね",
+    "romaji": "soudesune",
+    "meaning": "Ya, benar, Saya setuju (digunakan ketika pembicara setuju dengan ucapan lawan bicaranya)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-086",
+    "kanji": "まだわかりません",
+    "hiragana": "まだわかりません",
+    "romaji": "madawakarimasen",
+    "meaning": "Saya belum tahu.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-087",
+    "kanji": "残念です",
+    "hiragana": "ざんねんです",
+    "romaji": "zannendesu",
+    "meaning": "Sayang sekali.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-088",
+    "kanji": "焼肉",
+    "hiragana": "やきにく",
+    "romaji": "yakiniku",
+    "meaning": "yakiniku (daging panggang khas Jepang)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-089",
+    "kanji": "ハイキング",
+    "hiragana": "ハイキング",
+    "romaji": "haikingu",
+    "meaning": "haiking (menjelajah, mendaki gunung)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-090",
+    "kanji": "飲み会",
+    "hiragana": "のみかい",
+    "romaji": "nomikai",
+    "meaning": "pesta minum",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-091",
+    "kanji": "いっしょに",
+    "hiragana": "いっしょに",
+    "romaji": "isshoni",
+    "meaning": "bersama-sama",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-092",
+    "kanji": "今度",
+    "hiragana": "こんど",
+    "romaji": "kondo",
+    "meaning": "nanti, yang akan datang",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-093",
+    "kanji": "今晩",
+    "hiragana": "こんばん",
+    "romaji": "konban",
+    "meaning": "malam ini",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-094",
+    "kanji": "また今度",
+    "hiragana": "またこんど",
+    "romaji": "matakondo",
+    "meaning": "Mungkin lain kali.",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-095",
+    "kanji": "男はつらいよ",
+    "hiragana": "おとこはつらいよ",
+    "romaji": "otokohatsuraiyo",
+    "meaning": "Otoko wa Tsurai yo (\"Sulitnya Menjadi Pria\")",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-096",
+    "kanji": "いいね！",
+    "hiragana": "いいね！",
+    "romaji": "iine!",
+    "meaning": "Boleh!",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-097",
+    "kanji": "残念",
+    "hiragana": "ざんねん",
+    "romaji": "zannen",
+    "meaning": "Sayang sekali.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-098",
+    "kanji": "了解",
+    "hiragana": "りょうかい",
+    "romaji": "ryoukai",
+    "meaning": "Oke.",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-12-099",
+    "kanji": "ぐすん",
+    "hiragana": "ぐすん",
+    "romaji": "gusun",
+    "meaning": "Hiks.",
+    "level": "-",
+    "isExtra": false
+  }
+]

@@ -1,0 +1,776 @@
+[
+  {
+    "id": "mn-21-001",
+    "kanji": "〜でも 飲みませんか。",
+    "hiragana": "〜でも のみませんか。",
+    "romaji": "~demo nomimasenka.",
+    "meaning": "Bagaimana kalau kita minum 〜, atau apa saja?",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-002",
+    "kanji": "〜に ついて",
+    "hiragana": "〜に ついて",
+    "romaji": "~ni tsuite",
+    "meaning": "tentang 〜, mengenai 〜",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-003",
+    "kanji": "[お祭りが〜]",
+    "hiragana": "ありますⅠ [おまつりが〜]",
+    "romaji": "arimasuⅠ [omatsuriga~]",
+    "meaning": "ada, diadakan [pesta perayaan]",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-004",
+    "kanji": "[会社を〜]",
+    "hiragana": "やめますⅡ [かいしゃを〜]",
+    "romaji": "yamemasuⅡ [kaishawo~]",
+    "meaning": "berhenti [kerja]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-005",
+    "kanji": "アニメ",
+    "hiragana": "アニメ",
+    "romaji": "anime",
+    "meaning": "animasi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-006",
+    "kanji": "うそ＊",
+    "hiragana": "うそ＊",
+    "romaji": "uso*",
+    "meaning": "bohong",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-007",
+    "kanji": "きっと",
+    "hiragana": "きっと",
+    "romaji": "kitto",
+    "meaning": "pasti",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-008",
+    "kanji": "すごい",
+    "hiragana": "すごい",
+    "romaji": "sugoi",
+    "meaning": "hebat, bukan main (digunakan ketika menyatakan kejutan atau kekaguman)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-009",
+    "kanji": "そんなに",
+    "hiragana": "そんなに",
+    "romaji": "sonnani",
+    "meaning": "tidak begitu (diikuti bentuk negatif)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-010",
+    "kanji": "たぶん",
+    "hiragana": "たぶん",
+    "romaji": "tabun",
+    "meaning": "mungkin, barangkali",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-011",
+    "kanji": "デザイン",
+    "hiragana": "デザイン",
+    "romaji": "dezain",
+    "meaning": "desain, model",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-012",
+    "kanji": "ニュース",
+    "hiragana": "ニュース",
+    "romaji": "nyuusu",
+    "meaning": "warta berita",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-013",
+    "kanji": "ほんとう",
+    "hiragana": "ほんとう",
+    "romaji": "hontou",
+    "meaning": "betul, benar",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-014",
+    "kanji": "ほんとうに",
+    "hiragana": "ほんとうに",
+    "romaji": "hontouni",
+    "meaning": "betul-betul",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-015",
+    "kanji": "マンガ",
+    "hiragana": "マンガ",
+    "romaji": "manga",
+    "meaning": "*manga*, komik",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-016",
+    "kanji": "むだ[な]",
+    "hiragana": "むだ[な]",
+    "romaji": "muda[na]",
+    "meaning": "sia-sia, tidak berguna",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-017",
+    "kanji": "もう 帰らないと……。",
+    "hiragana": "もう かえらないと……。",
+    "romaji": "mou kaeranaito…….",
+    "meaning": "Saya harus pulang...",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-018",
+    "kanji": "もちろん",
+    "hiragana": "もちろん",
+    "romaji": "mochiron",
+    "meaning": "tentu saja",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-019",
+    "kanji": "意見",
+    "hiragana": "いけん",
+    "romaji": "iken",
+    "meaning": "pendapat",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-020",
+    "kanji": "気を つけます",
+    "hiragana": "きを つけますⅡ",
+    "romaji": "kiwo tsukemasuⅡ",
+    "meaning": "berwaspada, berhati-hati",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-021",
+    "kanji": "久しぶりですね。",
+    "hiragana": "ひさしぶりですね。",
+    "romaji": "hisashiburidesune.",
+    "meaning": "Sudah lama tidak bertemu ya.",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-022",
+    "kanji": "月",
+    "hiragana": "つき",
+    "romaji": "tsuki",
+    "meaning": "bulan",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-023",
+    "kanji": "言います",
+    "hiragana": "いいますⅠ",
+    "romaji": "iimasuⅠ",
+    "meaning": "mengatakan, berkata",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-024",
+    "kanji": "交通",
+    "hiragana": "こうつう",
+    "romaji": "koutsuu",
+    "meaning": "lalu lintas",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-025",
+    "kanji": "最近",
+    "hiragana": "さいきん",
+    "romaji": "saikin",
+    "meaning": "akhir-akhir ini",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-026",
+    "kanji": "思います",
+    "hiragana": "おもいますⅠ",
+    "romaji": "omoimasuⅠ",
+    "meaning": "mengira, berpikir",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-027",
+    "kanji": "試合",
+    "hiragana": "しあい",
+    "romaji": "shiai",
+    "meaning": "pertandingan (〜を します：bertanding)",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-028",
+    "kanji": "自動車",
+    "hiragana": "じどうしゃ",
+    "romaji": "jidousha",
+    "meaning": "mobil",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-029",
+    "kanji": "勝ちます",
+    "hiragana": "かちますⅠ",
+    "romaji": "kachimasuⅠ",
+    "meaning": "menang",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-030",
+    "kanji": "地球",
+    "hiragana": "ちきゅう",
+    "romaji": "chikyuu",
+    "meaning": "bumi",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-031",
+    "kanji": "天才",
+    "hiragana": "てんさい",
+    "romaji": "tensai",
+    "meaning": "genius",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-032",
+    "kanji": "動きます",
+    "hiragana": "うごきますⅠ",
+    "romaji": "ugokimasuⅠ",
+    "meaning": "pindah, bergerak",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-033",
+    "kanji": "不便[な]",
+    "hiragana": "ふべん[な]",
+    "romaji": "fuben[na]",
+    "meaning": "tidak praktis",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-034",
+    "kanji": "負けます",
+    "hiragana": "まけますⅡ＊",
+    "romaji": "makemasuⅡ*",
+    "meaning": "kalah",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-035",
+    "kanji": "物価",
+    "hiragana": "ぶっか",
+    "romaji": "bukka",
+    "meaning": "harga barang",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-036",
+    "kanji": "放送",
+    "hiragana": "ほうそう",
+    "romaji": "housou",
+    "meaning": "siaran, pengumuman",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-037",
+    "kanji": "夢",
+    "hiragana": "ゆめ",
+    "romaji": "yume",
+    "meaning": "mimpi",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-038",
+    "kanji": "役に 立ちます",
+    "hiragana": "やくに たちますⅠ",
+    "romaji": "yakuni tachimasuⅠ",
+    "meaning": "berguna, bermanfaat",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-039",
+    "kanji": "留学します",
+    "hiragana": "りゅうがくしますⅢ",
+    "romaji": "ryuugakushimasuⅢ",
+    "meaning": "studi di luar negeri",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-040",
+    "kanji": "話",
+    "hiragana": "はなし",
+    "romaji": "hanashi",
+    "meaning": "cerita (〜を します：bercerita, berbicara)",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-21-041",
+    "kanji": "ヨーネン",
+    "hiragana": "ヨーネン",
+    "romaji": "yoonen",
+    "meaning": "perusahaan fiksi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-042",
+    "kanji": "院長",
+    "hiragana": "いんちょう",
+    "romaji": "inchou",
+    "meaning": "Direktur Rumah Sakit",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-043",
+    "kanji": "駅",
+    "hiragana": "えき",
+    "romaji": "eki",
+    "meaning": "Stasiun",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-044",
+    "kanji": "駅長",
+    "hiragana": "えきちょう",
+    "romaji": "ekichou",
+    "meaning": "Kepala Stasiun",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-045",
+    "kanji": "園長",
+    "hiragana": "えんちょう",
+    "romaji": "enchou",
+    "meaning": "Kepala TK",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-046",
+    "kanji": "課長",
+    "hiragana": "かちょう",
+    "romaji": "kachou",
+    "meaning": "Kepala Seksi",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-047",
+    "kanji": "会社",
+    "hiragana": "かいしゃ",
+    "romaji": "kaisha",
+    "meaning": "Perusahaan",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-048",
+    "kanji": "会長",
+    "hiragana": "かいちょう",
+    "romaji": "kaichou",
+    "meaning": "Ketua",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-049",
+    "kanji": "学長",
+    "hiragana": "がくちょう",
+    "romaji": "gakuchou",
+    "meaning": "Rektor",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-050",
+    "kanji": "看護師長",
+    "hiragana": "かんごしちょう",
+    "romaji": "kangoshichou",
+    "meaning": "Kepala Perawat",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-051",
+    "kanji": "銀行",
+    "hiragana": "ぎんこう",
+    "romaji": "ginkou",
+    "meaning": "Bank",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-052",
+    "kanji": "警察",
+    "hiragana": "けいさつ",
+    "romaji": "keisatsu",
+    "meaning": "Kantor Polisi",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-053",
+    "kanji": "校長",
+    "hiragana": "こうちょう",
+    "romaji": "kouchou",
+    "meaning": "Kepala Sekolah",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-054",
+    "kanji": "高等学校",
+    "hiragana": "こうとうがっこう",
+    "romaji": "koutougakkou",
+    "meaning": "SMA",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-055",
+    "kanji": "国",
+    "hiragana": "くに",
+    "romaji": "kuni",
+    "meaning": "negara",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-056",
+    "kanji": "市",
+    "hiragana": "し",
+    "romaji": "shi",
+    "meaning": "kota",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-057",
+    "kanji": "市長",
+    "hiragana": "しちょう",
+    "romaji": "shichou",
+    "meaning": "Wali Kota",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-058",
+    "kanji": "支店長",
+    "hiragana": "してんちょう",
+    "romaji": "shitenchou",
+    "meaning": "Kepala Kantor Cabang",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-059",
+    "kanji": "社長",
+    "hiragana": "しゃちょう",
+    "romaji": "shachou",
+    "meaning": "Direktur Utama",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-060",
+    "kanji": "首相（内閣総理大臣）",
+    "hiragana": "しゅしょう（ないかくそうりだいじん）",
+    "romaji": "shushou(naikakusouridaijin)",
+    "meaning": "Perdana Menteri",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-061",
+    "kanji": "重役",
+    "hiragana": "じゅうやく",
+    "romaji": "juuyaku",
+    "meaning": "Direktur",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-062",
+    "kanji": "署長",
+    "hiragana": "しょちょう",
+    "romaji": "shochou",
+    "meaning": "Kepala Kantor Polisi",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-063",
+    "kanji": "小学校",
+    "hiragana": "しょうがっこう",
+    "romaji": "shougakkou",
+    "meaning": "SD",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-064",
+    "kanji": "村",
+    "hiragana": "むら",
+    "romaji": "mura",
+    "meaning": "desa",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-065",
+    "kanji": "村長",
+    "hiragana": "そんちょう",
+    "romaji": "sonchou",
+    "meaning": "Kepala Desa",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-066",
+    "kanji": "大学",
+    "hiragana": "だいがく",
+    "romaji": "daigaku",
+    "meaning": "Universitas",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-067",
+    "kanji": "知事",
+    "hiragana": "ちじ",
+    "romaji": "chiji",
+    "meaning": "Gubernur",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-068",
+    "kanji": "中学校",
+    "hiragana": "ちゅうがっこう",
+    "romaji": "chuugakkou",
+    "meaning": "SMP",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-069",
+    "kanji": "町",
+    "hiragana": "まち",
+    "romaji": "machi",
+    "meaning": "distrik, daerah",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-070",
+    "kanji": "町長",
+    "hiragana": "ちょうちょう",
+    "romaji": "chouchou",
+    "meaning": "Kepala Daerah",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-071",
+    "kanji": "都道府県",
+    "hiragana": "とどうふけん",
+    "romaji": "todoufuken",
+    "meaning": "prefektur",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-072",
+    "kanji": "頭取",
+    "hiragana": "とうどり",
+    "romaji": "toudori",
+    "meaning": "Direktur Bank",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-073",
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "romaji": "byouin",
+    "meaning": "Rumah Sakit",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-074",
+    "kanji": "部長",
+    "hiragana": "ぶちょう",
+    "romaji": "buchou",
+    "meaning": "Kepala Bagian",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-075",
+    "kanji": "部長",
+    "hiragana": "ぶちょう",
+    "romaji": "buchou",
+    "meaning": "Kepala Bagian",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-076",
+    "kanji": "幼稚園",
+    "hiragana": "ようちえん",
+    "romaji": "youchien",
+    "meaning": "TK",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-21-077",
+    "kanji": "アインシュタイン",
+    "hiragana": "アインシュタイン",
+    "romaji": "ainshutain",
+    "meaning": "Albert Einstein (1879-1955)",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-21-078",
+    "kanji": "ガガーリン",
+    "hiragana": "ガガーリン",
+    "romaji": "gagaarin",
+    "meaning": "Gagarin (1934-1968)",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-21-079",
+    "kanji": "かぐや姫",
+    "hiragana": "かぐやひめ",
+    "romaji": "kaguyahime",
+    "meaning": "Putri Kaguya (protagonis dari cerita dongeng Jepang \"Taketori monogatari\")",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-21-080",
+    "kanji": "ガリレオ",
+    "hiragana": "ガリレオ",
+    "romaji": "garireo",
+    "meaning": "Galileo Galilei (1564-1642)",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-21-081",
+    "kanji": "カンガルー",
+    "hiragana": "カンガルー",
+    "romaji": "kangaruu",
+    "meaning": "kanguru",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-21-082",
+    "kanji": "キャプテン・クック",
+    "hiragana": "キャプテン・クック",
+    "romaji": "kyaputen・kukku",
+    "meaning": "Captain James Cook (1728-1779)",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-21-083",
+    "kanji": "キング牧師",
+    "hiragana": "キングぼくし",
+    "romaji": "kingubokushi",
+    "meaning": "Martin Luther King, Jr. (1929-1968)",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-21-084",
+    "kanji": "フランクリン",
+    "hiragana": "フランクリン",
+    "romaji": "furankurin",
+    "meaning": "Benjamin Franklin (1706-1790)",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-21-085",
+    "kanji": "吉野山",
+    "hiragana": "よしのやま",
+    "romaji": "yoshinoyama",
+    "meaning": "Gunung Yoshino (gunung yang ada di Nara)",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-21-086",
+    "kanji": "天神祭",
+    "hiragana": "てんじんまつり",
+    "romaji": "tenjinmatsuri",
+    "meaning": "Perayaan Tenjin (perayaan di Osaka)",
+    "level": "N2",
+    "importinity": 3
+  }
+]

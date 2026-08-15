@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ir-a1-08-001",
+    "kanji": "更衣室",
+    "hiragana": "こういしつ",
+    "romaji": "kouishitsu",
+    "meaning": "ruang ganti",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-002",
+    "kanji": "食堂",
+    "hiragana": "しょくどう",
+    "romaji": "shokudou",
+    "meaning": "kantin",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-003",
+    "kanji": "給湯室",
+    "hiragana": "きゅうとうしつ",
+    "romaji": "kyuutoushitsu",
+    "meaning": "pantri (pantry)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-004",
+    "kanji": "会議室",
+    "hiragana": "かいぎしつ",
+    "romaji": "kaigishitsu",
+    "meaning": "ruang rapat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-005",
+    "kanji": "喫煙所",
+    "hiragana": "きつえんじょ",
+    "romaji": "kitsuenjo",
+    "meaning": "ruang merokok,  area merokok",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-006",
+    "kanji": "倉庫",
+    "hiragana": "そうこ",
+    "romaji": "souko",
+    "meaning": "gudang",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-007",
+    "kanji": "着替える / 着替えます",
+    "hiragana": "きがえる / きがえます",
+    "romaji": "kigaeru / kigaemasu",
+    "meaning": "berganti pakaian",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-008",
+    "kanji": "ご飯を食べる / 食べます",
+    "hiragana": "ごはんをたべる / たべます",
+    "romaji": "gohanwotaberu / tabemasu",
+    "meaning": "makan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-009",
+    "kanji": "お茶をいれる / いれます",
+    "hiragana": "おちゃをいれる / いれます",
+    "romaji": "ochawoireru / iremasu",
+    "meaning": "membuat/menyeduh teh",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-010",
+    "kanji": "打ち合わせをする / します",
+    "hiragana": "うちあわせをする / します",
+    "romaji": "uchiawasewosuru / shimasu",
+    "meaning": "mengadakan rapat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-011",
+    "kanji": "男性",
+    "hiragana": "だんせい",
+    "romaji": "dansei",
+    "meaning": "pria",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-012",
+    "kanji": "いる / います",
+    "hiragana": "いる / います",
+    "romaji": "iru / imasu",
+    "meaning": "ada",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-013",
+    "kanji": "たぶん",
+    "hiragana": "たぶん",
+    "romaji": "tabun",
+    "meaning": "mungkin",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-014",
+    "kanji": "～よ（いるよ）",
+    "hiragana": "～よ（いるよ）",
+    "romaji": "~yo(iruyo)",
+    "meaning": "digunakan ketika memberitahukan informasi yang tidak diketahui lawan bicara",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-015",
+    "kanji": "～ね（いませんね）",
+    "hiragana": "～ね（いませんね）",
+    "romaji": "~ne(imasenne)",
+    "meaning": "digunakan ketika berbagi informasi dengan lawan bicara",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-016",
+    "kanji": "探してみます",
+    "hiragana": "さがしてみます",
+    "romaji": "sagashitemimasu",
+    "meaning": "Saya akan mencoba mencarinya.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-017",
+    "kanji": "上",
+    "hiragana": "うえ",
+    "romaji": "ue",
+    "meaning": "atas",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-018",
+    "kanji": "下",
+    "hiragana": "した",
+    "romaji": "shita",
+    "meaning": "bawah",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-019",
+    "kanji": "中",
+    "hiragana": "なか",
+    "romaji": "naka",
+    "meaning": "dalam",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-020",
+    "kanji": "横",
+    "hiragana": "よこ",
+    "romaji": "yoko",
+    "meaning": "samping",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-021",
+    "kanji": "のり",
+    "hiragana": "のり",
+    "romaji": "nori",
+    "meaning": "lem",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-022",
+    "kanji": "引き出し",
+    "hiragana": "ひきだし",
+    "romaji": "hikidashi",
+    "meaning": "laci",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-023",
+    "kanji": "ガムテープ",
+    "hiragana": "ガムテープ",
+    "romaji": "gamuteepu",
+    "meaning": "lakban",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-024",
+    "kanji": "箱",
+    "hiragana": "はこ",
+    "romaji": "hako",
+    "meaning": "kotak",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-025",
+    "kanji": "FAX",
+    "hiragana": "ファックス",
+    "romaji": "fakkusu",
+    "meaning": "faksimile",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-026",
+    "kanji": "コピー機",
+    "hiragana": "コピーき",
+    "romaji": "kopiiki",
+    "meaning": "mesin fotokopi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-027",
+    "kanji": "はさみ",
+    "hiragana": "はさみ",
+    "romaji": "hasami",
+    "meaning": "gunting",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-028",
+    "kanji": "机",
+    "hiragana": "つくえ",
+    "romaji": "tsukue",
+    "meaning": "meja",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-029",
+    "kanji": "ごみ箱",
+    "hiragana": "ごみばこ",
+    "romaji": "gomibako",
+    "meaning": "tempat sampah",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-030",
+    "kanji": "ここ",
+    "hiragana": "ここ",
+    "romaji": "koko",
+    "meaning": "sini",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-031",
+    "kanji": "そこ",
+    "hiragana": "そこ",
+    "romaji": "soko",
+    "meaning": "situ",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-032",
+    "kanji": "あそこ",
+    "hiragana": "あそこ",
+    "romaji": "asoko",
+    "meaning": "sana",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-033",
+    "kanji": "ありました",
+    "hiragana": "ありました",
+    "romaji": "arimashita",
+    "meaning": "Ada. (digunakan ketika menemukan benda yang dicari)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-034",
+    "kanji": "応接室",
+    "hiragana": "おうせつしつ",
+    "romaji": "ousetsushitsu",
+    "meaning": "ruang penerimaan tamu",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-08-035",
+    "kanji": "事務室",
+    "hiragana": "じむしつ",
+    "romaji": "jimushitsu",
+    "meaning": "ruang administrasi,  ruang tata usaha",
+    "level": "N3",
+    "isExtra": false
+  }
+]

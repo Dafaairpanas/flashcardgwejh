@@ -1,0 +1,434 @@
+[
+  {
+    "id": "mn-50-001",
+    "kanji": "アルバム",
+    "hiragana": "アルバム",
+    "romaji": "arubamu",
+    "meaning": "album",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-002",
+    "kanji": "いたします",
+    "hiragana": "いたします",
+    "romaji": "itashimasu",
+    "meaning": "melakukan (Kata Merendahkan Diri dari します)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-003",
+    "kanji": "いただきます",
+    "hiragana": "いただきます",
+    "romaji": "itadakimasu",
+    "meaning": "makan, minum, menerima (Kata Merendahkan Diri dari たべます、のみます、もらいます)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-004",
+    "kanji": "おります",
+    "hiragana": "おります",
+    "romaji": "orimasu",
+    "meaning": "ada (Kata Merendahkan Diri dari います)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-005",
+    "kanji": "お元気でいらっしゃいますか",
+    "hiragana": "おげんきでいらっしゃいますか",
+    "romaji": "ogenkideirasshaimasuka",
+    "meaning": "Bagaimana kabarnya? (Kata Hormat dari おげんきですか)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-006",
+    "kanji": "お城",
+    "hiragana": "おしろ",
+    "romaji": "oshiro",
+    "meaning": "kastil, istana",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-007",
+    "kanji": "お宅",
+    "hiragana": "おたく",
+    "romaji": "otaku",
+    "meaning": "rumah (orang lain)",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-008",
+    "kanji": "お目にかかります",
+    "hiragana": "おめにかかります",
+    "romaji": "omenikakarimasu",
+    "meaning": "bertemu (Kata Merendahkan Diri dari あいます)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-009",
+    "kanji": "お礼",
+    "hiragana": "おれい",
+    "romaji": "orei",
+    "meaning": "ucapan terima kasih",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-010",
+    "kanji": "ガイド",
+    "hiragana": "ガイド",
+    "romaji": "gaido",
+    "meaning": "pemandu",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-011",
+    "kanji": "かないます",
+    "hiragana": "かないます",
+    "romaji": "kanaimasu",
+    "meaning": "[impian] terkabul",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-012",
+    "kanji": "きりん",
+    "hiragana": "きりん",
+    "romaji": "kirin",
+    "meaning": "jerapah",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-013",
+    "kanji": "ころ",
+    "hiragana": "ころ",
+    "romaji": "koro",
+    "meaning": "ketika (contoh: ketika anak, ketika mahasiswa)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-014",
+    "kanji": "スケジュール",
+    "hiragana": "スケジュール",
+    "romaji": "sukejuuru",
+    "meaning": "jadwal",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-015",
+    "kanji": "ただ今",
+    "hiragana": "ただいま",
+    "romaji": "tadaima",
+    "meaning": "sekarang",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-016",
+    "kanji": "はがき",
+    "hiragana": "はがき",
+    "romaji": "hagaki",
+    "meaning": "kartu pos",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-017",
+    "kanji": "ミュンヘン",
+    "hiragana": "ミュンヘン",
+    "romaji": "myunhen",
+    "meaning": "München (Jerman)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-018",
+    "kanji": "メールアドレス",
+    "hiragana": "メールアドレス",
+    "romaji": "meeruadoresu",
+    "meaning": "alamat e-mail",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-019",
+    "kanji": "応援します",
+    "hiragana": "おうえんします",
+    "romaji": "ouenshimasu",
+    "meaning": "mendukung",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-020",
+    "kanji": "感謝します",
+    "hiragana": "かんしゃします",
+    "romaji": "kanshashimasu",
+    "meaning": "berterima kasih",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-021",
+    "kanji": "緊張します",
+    "hiragana": "きんちょうします",
+    "romaji": "kinchoushimasu",
+    "meaning": "tegang",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-022",
+    "kanji": "敬具",
+    "hiragana": "けいぐ",
+    "romaji": "keigu",
+    "meaning": "Hormat saya (salam penutup surat)",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-023",
+    "kanji": "江戸東京博物館",
+    "hiragana": "えどとうきょうはくぶつかん",
+    "romaji": "edotoukyouhakubutsukan",
+    "meaning": "Museum Edo Tokyo",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-024",
+    "kanji": "郊外",
+    "hiragana": "こうがい",
+    "romaji": "kougai",
+    "meaning": "pinggiran kota, luar kota",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-025",
+    "kanji": "再来月",
+    "hiragana": "さらいげつ",
+    "romaji": "saraigetsu",
+    "meaning": "dua bulan lagi",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-026",
+    "kanji": "再来週",
+    "hiragana": "さらいしゅう",
+    "romaji": "saraishuu",
+    "meaning": "dua minggu lagi",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-027",
+    "kanji": "再来年",
+    "hiragana": "さらいねん",
+    "romaji": "sarainen",
+    "meaning": "dua tahun lagi",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-028",
+    "kanji": "最後に",
+    "hiragana": "さいごに",
+    "romaji": "saigoni",
+    "meaning": "terakhir",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-029",
+    "kanji": "参ります",
+    "hiragana": "まいります",
+    "romaji": "mairimasu",
+    "meaning": "pergi, datang (Kata Merendahkan Diri dari いきます、きます)",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-030",
+    "kanji": "伺います",
+    "hiragana": "うかがいます",
+    "romaji": "ukagaimasu",
+    "meaning": "bertanya, mendengar, berkunjung (Kata Merendahkan Diri dari ききます、いきます)",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-031",
+    "kanji": "私",
+    "hiragana": "わたくし",
+    "romaji": "watakushi",
+    "meaning": "saya (Kata Merendahkan Diri dari わたし)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-032",
+    "kanji": "自然",
+    "hiragana": "しぜん",
+    "romaji": "shizen",
+    "meaning": "alam",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-033",
+    "kanji": "初めに",
+    "hiragana": "はじめに",
+    "romaji": "hajimeni",
+    "meaning": "pertama-tama",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-034",
+    "kanji": "象",
+    "hiragana": "ぞう",
+    "romaji": "zou",
+    "meaning": "gajah",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-035",
+    "kanji": "賞金",
+    "hiragana": "しょうきん",
+    "romaji": "shoukin",
+    "meaning": "hadiah uang",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-036",
+    "kanji": "心から",
+    "hiragana": "こころから",
+    "romaji": "kokorokara",
+    "meaning": "dari segenap hati",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-037",
+    "kanji": "申します",
+    "hiragana": "もうします",
+    "romaji": "moushimasu",
+    "meaning": "bernama (Kata Merendahkan Diri dari いいます)",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-038",
+    "kanji": "生かします",
+    "hiragana": "いかします",
+    "romaji": "ikashimasu",
+    "meaning": "menggunakan (contoh: menggunakan pengalaman)",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-039",
+    "kanji": "先生",
+    "hiragana": "せんせい",
+    "romaji": "sensei",
+    "meaning": "guru (Jika menulis untuk guru sendiri, memakai 先生 sebagai gantinya 様)",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-040",
+    "kanji": "存じます",
+    "hiragana": "ぞんじます",
+    "romaji": "zonjimasu",
+    "meaning": "mengenal, mengetahui (Kata Merendahkan Diri dari しります)",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-041",
+    "kanji": "入れます",
+    "hiragana": "いれます",
+    "romaji": "iremasu",
+    "meaning": "membuat [kopi] (menyiram air panas dari membuat cairan)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-042",
+    "kanji": "拝啓",
+    "hiragana": "はいけい",
+    "romaji": "haikei",
+    "meaning": "Dengan hormat (salam pembuka surat)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-043",
+    "kanji": "拝見します",
+    "hiragana": "はいけんします",
+    "romaji": "haikenshimasu",
+    "meaning": "melihat (Kata Merendahkan Diri dari みます)",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-044",
+    "kanji": "半年",
+    "hiragana": "はんとし",
+    "romaji": "hantoshi",
+    "meaning": "setengah tahun",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-045",
+    "kanji": "封筒",
+    "hiragana": "ふうとう",
+    "romaji": "fuutou",
+    "meaning": "amplop",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-046",
+    "kanji": "放送します",
+    "hiragana": "ほうそうします",
+    "romaji": "housoushimasu",
+    "meaning": "menyiarkan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-047",
+    "kanji": "迷惑をかけます",
+    "hiragana": "めいわくをかけます",
+    "romaji": "meiwakuwokakemasu",
+    "meaning": "mengganggu",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-50-048",
+    "kanji": "用意します",
+    "hiragana": "よういします",
+    "romaji": "youishimasu",
+    "meaning": "menyediakan",
+    "level": "N3",
+    "importinity": 1
+  }
+]

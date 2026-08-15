@@ -1,0 +1,740 @@
+[
+  {
+    "id": "ir-a1-09-001",
+    "kanji": "今",
+    "hiragana": "いま",
+    "romaji": "ima",
+    "meaning": "sekarang",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-002",
+    "kanji": "何時",
+    "hiragana": "なんじ",
+    "romaji": "nanji",
+    "meaning": "jam berapa",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-003",
+    "kanji": "朝",
+    "hiragana": "あさ",
+    "romaji": "asa",
+    "meaning": "pagi",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-004",
+    "kanji": "昼",
+    "hiragana": "ひる",
+    "romaji": "hiru",
+    "meaning": "siang",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-005",
+    "kanji": "夜",
+    "hiragana": "よる",
+    "romaji": "yoru",
+    "meaning": "malam",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-006",
+    "kanji": "午前",
+    "hiragana": "ごぜん",
+    "romaji": "gozen",
+    "meaning": "a.m. (Ante Meridiem: 00:00 - 11:59)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-007",
+    "kanji": "午後",
+    "hiragana": "ごご",
+    "romaji": "gogo",
+    "meaning": "p.m. (Post Meridiem: 12:00-23:59)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-008",
+    "kanji": "～時",
+    "hiragana": "～じ",
+    "romaji": "~ji",
+    "meaning": "pukul/jam ～",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-009",
+    "kanji": "1時",
+    "hiragana": "いちじ",
+    "romaji": "ichiji",
+    "meaning": "pukul satu, jam satu",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-010",
+    "kanji": "2時",
+    "hiragana": "にじ",
+    "romaji": "niji",
+    "meaning": "pukul dua, jam dua",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-011",
+    "kanji": "3時",
+    "hiragana": "さんじ",
+    "romaji": "sanji",
+    "meaning": "pukul tiga, jam tiga",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-012",
+    "kanji": "4時",
+    "hiragana": "よじ",
+    "romaji": "yoji",
+    "meaning": "pukul empat, jam empat",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-013",
+    "kanji": "5時",
+    "hiragana": "ごじ",
+    "romaji": "goji",
+    "meaning": "pukul lima, jam lima",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-014",
+    "kanji": "6時",
+    "hiragana": "ろくじ",
+    "romaji": "rokuji",
+    "meaning": "pukul enam, jam enam",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-015",
+    "kanji": "7時",
+    "hiragana": "しちじ",
+    "romaji": "shichiji",
+    "meaning": "pukul tujuh, jam tujuh",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-016",
+    "kanji": "8時",
+    "hiragana": "はちじ",
+    "romaji": "hachiji",
+    "meaning": "pukul delapan, jam delapan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-017",
+    "kanji": "9時",
+    "hiragana": "くじ",
+    "romaji": "kuji",
+    "meaning": "pukul sembilan, jam sembilan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-018",
+    "kanji": "10時",
+    "hiragana": "じゅうじ",
+    "romaji": "juuji",
+    "meaning": "pukul sepuluh, jam sepuluh",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-019",
+    "kanji": "11時",
+    "hiragana": "じゅういちじ",
+    "romaji": "juuichiji",
+    "meaning": "pukul sebelas, jam sebelas",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-020",
+    "kanji": "12時",
+    "hiragana": "じゅうにじ",
+    "romaji": "juuniji",
+    "meaning": "pukul dua belas, jam dua belas",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-021",
+    "kanji": "～分",
+    "hiragana": "～ふん／ぷん",
+    "romaji": "~fun/pun",
+    "meaning": "～ menit (menunjukkan waktu)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-022",
+    "kanji": "15分",
+    "hiragana": "じゅうごふん",
+    "romaji": "juugofun",
+    "meaning": "～ :15 / ～ lewat seperempat",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-023",
+    "kanji": "30分",
+    "hiragana": "さんじゅっぷん",
+    "romaji": "sanjuppun",
+    "meaning": "～ :30 / setengah ～",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-024",
+    "kanji": "45分",
+    "hiragana": "よんじゅうごふん",
+    "romaji": "yonjuugofun",
+    "meaning": "～ :45 / ～ kurang lima belas menit",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-025",
+    "kanji": "半",
+    "hiragana": "はん",
+    "romaji": "han",
+    "meaning": "～ :30 / setengah ～",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-026",
+    "kanji": "起きる／起きます",
+    "hiragana": "おきる／おきます",
+    "romaji": "okiru/okimasu",
+    "meaning": "bangun",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-027",
+    "kanji": "寝る／寝ます",
+    "hiragana": "ねる／ねます",
+    "romaji": "neru/nemasu",
+    "meaning": "tidur",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-028",
+    "kanji": "毎日",
+    "hiragana": "まいにち",
+    "romaji": "mainichi",
+    "meaning": "setiap hari",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-029",
+    "kanji": "早い",
+    "hiragana": "はやい",
+    "romaji": "hayai",
+    "meaning": "awal, dini, cepat",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-030",
+    "kanji": "ええ",
+    "hiragana": "ええ",
+    "romaji": "ee",
+    "meaning": "ya",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-031",
+    "kanji": "毎朝",
+    "hiragana": "まいあさ",
+    "romaji": "maiasa",
+    "meaning": "setiap pagi",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-032",
+    "kanji": "ジョギング",
+    "hiragana": "ジョギング",
+    "romaji": "jogingu",
+    "meaning": "joging",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-033",
+    "kanji": "する／します",
+    "hiragana": "する／します",
+    "romaji": "suru/shimasu",
+    "meaning": "melakukan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-034",
+    "kanji": "だいたい",
+    "hiragana": "だいたい",
+    "romaji": "daitai",
+    "meaning": "biasanya",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-035",
+    "kanji": "～ごろ",
+    "hiragana": "～ごろ",
+    "romaji": "~goro",
+    "meaning": "sekitar ～",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-036",
+    "kanji": "遅い",
+    "hiragana": "おそい",
+    "romaji": "osoi",
+    "meaning": "larut",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-037",
+    "kanji": "ゲーム",
+    "hiragana": "ゲーム",
+    "romaji": "geemu",
+    "meaning": "gim (game)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-038",
+    "kanji": "早いですね",
+    "hiragana": "はやいですね",
+    "romaji": "hayaidesune",
+    "meaning": "Pagi sekali, Cepat sekali.",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-039",
+    "kanji": "遅いですね",
+    "hiragana": "おそいですね",
+    "romaji": "osoidesune",
+    "meaning": "Larut sekali.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-040",
+    "kanji": "お祈り",
+    "hiragana": "おいのり",
+    "romaji": "oinori",
+    "meaning": "doa, sembahyang",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-041",
+    "kanji": "勉強する／勉強します",
+    "hiragana": "べんきょうする／べんきょうします",
+    "romaji": "benkyousuru/benkyoushimasu",
+    "meaning": "belajar",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-042",
+    "kanji": "音楽",
+    "hiragana": "おんがく",
+    "romaji": "ongaku",
+    "meaning": "musik",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-043",
+    "kanji": "聞く／聞きます",
+    "hiragana": "きく／ききます",
+    "romaji": "kiku/kikimasu",
+    "meaning": "mendengarkan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-044",
+    "kanji": "ネット",
+    "hiragana": "ネット",
+    "romaji": "netto",
+    "meaning": "internet",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-045",
+    "kanji": "見る／見ます",
+    "hiragana": "みる／みます",
+    "romaji": "miru/mimasu",
+    "meaning": "melihat, menonton",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-046",
+    "kanji": "朝礼",
+    "hiragana": "ちょうれい",
+    "romaji": "chourei",
+    "meaning": "apel pagi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-047",
+    "kanji": "仕事",
+    "hiragana": "しごと",
+    "romaji": "shigoto",
+    "meaning": "pekerjaan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-048",
+    "kanji": "昼休み",
+    "hiragana": "ひるやすみ",
+    "romaji": "hiruyasumi",
+    "meaning": "istirahat siang",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-049",
+    "kanji": "休み時間",
+    "hiragana": "やすみじかん",
+    "romaji": "yasumijikan",
+    "meaning": "waktu istirahat",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-050",
+    "kanji": "残業",
+    "hiragana": "ざんぎょう",
+    "romaji": "zangyou",
+    "meaning": "lembur",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-051",
+    "kanji": "はじめに",
+    "hiragana": "はじめに",
+    "romaji": "hajimeni",
+    "meaning": "mula-mula",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-052",
+    "kanji": "ときどき",
+    "hiragana": "ときどき",
+    "romaji": "tokidoki",
+    "meaning": "kadang-kadang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-053",
+    "kanji": "1日",
+    "hiragana": "いちにち",
+    "romaji": "ichinichi",
+    "meaning": "satu hari",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-054",
+    "kanji": "スケジュール",
+    "hiragana": "スケジュール",
+    "romaji": "sukejuuru",
+    "meaning": "jadwal",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-055",
+    "kanji": "説明する／説明します",
+    "hiragana": "せつめいする／せつめいします",
+    "romaji": "setsumeisuru/setsumeishimasu",
+    "meaning": "menjelaskan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-056",
+    "kanji": "在",
+    "hiragana": "ざい",
+    "romaji": "zai",
+    "meaning": "hadir",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-057",
+    "kanji": "不在",
+    "hiragana": "ふざい",
+    "romaji": "fuzai",
+    "meaning": "tidak hadir, absen",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-058",
+    "kanji": "遅刻",
+    "hiragana": "ちこく",
+    "romaji": "chikoku",
+    "meaning": "terlambat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-059",
+    "kanji": "休み",
+    "hiragana": "やすみ",
+    "romaji": "yasumi",
+    "meaning": "cuti",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-060",
+    "kanji": "外出",
+    "hiragana": "がいしゅつ",
+    "romaji": "gaishutsu",
+    "meaning": "tugas luar",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-061",
+    "kanji": "早退",
+    "hiragana": "そうたい",
+    "romaji": "soutai",
+    "meaning": "pulang cepat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-062",
+    "kanji": "行動",
+    "hiragana": "こうどう",
+    "romaji": "koudou",
+    "meaning": "aktivitas, kegiatan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-063",
+    "kanji": "予定表",
+    "hiragana": "よていひょう",
+    "romaji": "yoteihyou",
+    "meaning": "papan jadwal",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-064",
+    "kanji": "氏名",
+    "hiragana": "しめい",
+    "romaji": "shimei",
+    "meaning": "nama lengkap",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-065",
+    "kanji": "銀行",
+    "hiragana": "ぎんこう",
+    "romaji": "ginkou",
+    "meaning": "bank",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-066",
+    "kanji": "何曜日",
+    "hiragana": "なんようび",
+    "romaji": "nanyoubi",
+    "meaning": "hari apa",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-067",
+    "kanji": "月曜日／月",
+    "hiragana": "げつようび／げつ",
+    "romaji": "getsuyoubi/getsu",
+    "meaning": "Senin",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-068",
+    "kanji": "火曜日／火",
+    "hiragana": "かようび／か",
+    "romaji": "kayoubi/ka",
+    "meaning": "Selasa",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-069",
+    "kanji": "水曜日／水",
+    "hiragana": "すいようび／すい",
+    "romaji": "suiyoubi/sui",
+    "meaning": "Rabu",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-070",
+    "kanji": "木曜日／木",
+    "hiragana": "もくようび／もく",
+    "romaji": "mokuyoubi/moku",
+    "meaning": "Kamis",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-071",
+    "kanji": "金曜日／金",
+    "hiragana": "きんようび／きん",
+    "romaji": "kinyoubi/kin",
+    "meaning": "Jumat",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-072",
+    "kanji": "土曜日／土",
+    "hiragana": "どようび／ど",
+    "romaji": "doyoubi/do",
+    "meaning": "Sabtu",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-073",
+    "kanji": "日曜日／日",
+    "hiragana": "にちようび／にち",
+    "romaji": "nichiyoubi/nichi",
+    "meaning": "Minggu",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-074",
+    "kanji": "プール",
+    "hiragana": "プール",
+    "romaji": "puuru",
+    "meaning": "kolam renang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-075",
+    "kanji": "ご飯",
+    "hiragana": "ごはん",
+    "romaji": "gohan",
+    "meaning": "makan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-076",
+    "kanji": "映画",
+    "hiragana": "えいが",
+    "romaji": "eiga",
+    "meaning": "film",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-077",
+    "kanji": "いつ",
+    "hiragana": "いつ",
+    "romaji": "itsu",
+    "meaning": "kapan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-078",
+    "kanji": "行く／行きます",
+    "hiragana": "いく／いきます",
+    "romaji": "iku/ikimasu",
+    "meaning": "pergi",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-079",
+    "kanji": "いい",
+    "hiragana": "いい",
+    "romaji": "ii",
+    "meaning": "bisa, boleh",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-080",
+    "kanji": "だいじょうぶ（な）",
+    "hiragana": "だいじょうぶ（な）",
+    "romaji": "daijoubu(na)",
+    "meaning": "bisa, oke",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-081",
+    "kanji": "だめ（な）",
+    "hiragana": "だめ（な）",
+    "romaji": "dame(na)",
+    "meaning": "tidak bisa",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-09-082",
+    "kanji": "～にしましょう",
+    "hiragana": "～にしましょう",
+    "romaji": "~nishimashou",
+    "meaning": "Ayo kita lakukan pada ～!",
+    "level": "-",
+    "isExtra": false
+  }
+]

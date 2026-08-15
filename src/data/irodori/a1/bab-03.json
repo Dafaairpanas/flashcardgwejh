@@ -1,0 +1,326 @@
+[
+  {
+    "id": "ir-a1-03-001",
+    "kanji": "ミャンマー",
+    "hiragana": "ミャンマー",
+    "romaji": "myanmaa",
+    "meaning": "Myanmar",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-002",
+    "kanji": "韓国",
+    "hiragana": "かんこく",
+    "romaji": "kankoku",
+    "meaning": "Korea Selatan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-003",
+    "kanji": "タイ",
+    "hiragana": "タイ",
+    "romaji": "tai",
+    "meaning": "Thailand",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-004",
+    "kanji": "ブラジル",
+    "hiragana": "ブラジル",
+    "romaji": "burajiru",
+    "meaning": "Brazil",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-005",
+    "kanji": "～から来ました",
+    "hiragana": "～からきました",
+    "romaji": "~karakimashita",
+    "meaning": "berasal dari ~ / datang dari ~",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-006",
+    "kanji": "来る / 来ます",
+    "hiragana": "くる / きます",
+    "romaji": "kuru / kimasu",
+    "meaning": "datang",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-007",
+    "kanji": "私",
+    "hiragana": "わたし",
+    "romaji": "watashi",
+    "meaning": "saya",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-008",
+    "kanji": "はじめまして",
+    "hiragana": "はじめまして",
+    "romaji": "hajimemashite",
+    "meaning": "Halo, Perkenalkan. (diucapkan ketika bertemu seseorang untuk pertama kalinya)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-009",
+    "kanji": "（どうぞ）よろしくお願いします",
+    "hiragana": "（どうぞ）よろしくおねがいします",
+    "romaji": "(douzo)yoroshikuonegaishimasu",
+    "meaning": "Senang berkenalan dengan Anda.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-010",
+    "kanji": "インドネシア",
+    "hiragana": "インドネシア",
+    "romaji": "indoneshia",
+    "meaning": "Indonesia",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-011",
+    "kanji": "名前 / お名前",
+    "hiragana": "なまえ / おなまえ",
+    "romaji": "namae / onamae",
+    "meaning": "nama, nama (orang lain)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-012",
+    "kanji": "出身 / ご出身",
+    "hiragana": "しゅっしん / ごしゅっしん",
+    "romaji": "shusshin / goshusshin",
+    "meaning": "daerah asal, daerah asal (orang lain)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-013",
+    "kanji": "ベトナム",
+    "hiragana": "ベトナム",
+    "romaji": "betonamu",
+    "meaning": "Vietnam",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-014",
+    "kanji": "ハノイ",
+    "hiragana": "ハノイ",
+    "romaji": "hanoi",
+    "meaning": "Hanoi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-015",
+    "kanji": "国 / お国",
+    "hiragana": "くに / おくに",
+    "romaji": "kuni / okuni",
+    "meaning": "negara, negara (orang lain)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-016",
+    "kanji": "どちら",
+    "hiragana": "どちら",
+    "romaji": "dochira",
+    "meaning": "mana (bentuk sopan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-017",
+    "kanji": "フエ",
+    "hiragana": "フエ",
+    "romaji": "fue",
+    "meaning": "Hue",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-018",
+    "kanji": "カンボジア",
+    "hiragana": "カンボジア",
+    "romaji": "kanbojia",
+    "meaning": "Kamboja",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-019",
+    "kanji": "みなさん",
+    "hiragana": "みなさん",
+    "romaji": "minasan",
+    "meaning": "Anda semua",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-020",
+    "kanji": "友だち",
+    "hiragana": "ともだち",
+    "romaji": "tomodachi",
+    "meaning": "teman",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-021",
+    "kanji": "同じ",
+    "hiragana": "おなじ",
+    "romaji": "onaji",
+    "meaning": "sama",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-022",
+    "kanji": "会社",
+    "hiragana": "かいしゃ",
+    "romaji": "kaisha",
+    "meaning": "perusahaan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-023",
+    "kanji": "えーと",
+    "hiragana": "えーと",
+    "romaji": "eeto",
+    "meaning": "Emm... (menunjukkan bahwa pembicara sedang berpikir)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-024",
+    "kanji": "そうですか",
+    "hiragana": "そうですか",
+    "romaji": "soudesuka",
+    "meaning": "Oh, begitu... (respon yang menunjukkan bahwa pembicara memahami apa yang dibicarakan oleh lawan bicara)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-025",
+    "kanji": "どちらからですか？",
+    "hiragana": "どちらからですか？",
+    "romaji": "dochirakaradesuka？",
+    "meaning": "Anda berasal dari mana?",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-026",
+    "kanji": "～からですか？",
+    "hiragana": "～からですか？",
+    "romaji": "~karadesuka？",
+    "meaning": "Apakah Anda dari ~?",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-027",
+    "kanji": "国籍",
+    "hiragana": "こくせき",
+    "romaji": "kokuseki",
+    "meaning": "kewarganegaraan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-028",
+    "kanji": "生年月日",
+    "hiragana": "せいねんがっぴ",
+    "romaji": "seinengappi",
+    "meaning": "tanggal lahir",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-029",
+    "kanji": "西暦",
+    "hiragana": "せいれき",
+    "romaji": "seireki",
+    "meaning": "penanggalan Masehi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-030",
+    "kanji": "～年",
+    "hiragana": "～ねん",
+    "romaji": "~nen",
+    "meaning": "tahun ~",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-031",
+    "kanji": "～月 (12月)",
+    "hiragana": "～がつ (じゅうにがつ)",
+    "romaji": "~gatsu (juunigatsu)",
+    "meaning": "bulan ~ (contoh: 12月 = bulan ke-12 = Desember)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-032",
+    "kanji": "～日",
+    "hiragana": "～にち",
+    "romaji": "~nichi",
+    "meaning": "tanggal ~",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-033",
+    "kanji": "住所",
+    "hiragana": "じゅうしょ",
+    "romaji": "juusho",
+    "meaning": "alamat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-034",
+    "kanji": "電話番号",
+    "hiragana": "でんわばんごう",
+    "romaji": "denwabangou",
+    "meaning": "nomor telepon",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-035",
+    "kanji": "メール",
+    "hiragana": "メール",
+    "romaji": "meeru",
+    "meaning": "surel (surat elektronik, e-mail)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-03-036",
+    "kanji": "申込書",
+    "hiragana": "もうしこみしょ",
+    "romaji": "moushikomisho",
+    "meaning": "formulir pendaftaran",
+    "level": "N3",
+    "isExtra": false
+  }
+]

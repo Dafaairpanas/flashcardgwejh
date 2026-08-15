@@ -1,0 +1,938 @@
+[
+  {
+    "id": "ir-a1-15-001",
+    "kanji": "コンビニ",
+    "hiragana": "コンビニ",
+    "romaji": "konbini",
+    "meaning": "minimarket (pasar swalayan kecil)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-002",
+    "kanji": "スーパー",
+    "hiragana": "スーパー",
+    "romaji": "suupaa",
+    "meaning": "supermarket (pasar swalayan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-003",
+    "kanji": "100円ショップ",
+    "hiragana": "ひゃくえんショップ",
+    "romaji": "hyakuenshoppu",
+    "meaning": "toko serba 100-yen",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-004",
+    "kanji": "ドラッグストア",
+    "hiragana": "ドラッグストア",
+    "romaji": "doraggusutoa",
+    "meaning": "toko obat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-005",
+    "kanji": "ショッピングセンター",
+    "hiragana": "ショッピングセンター",
+    "romaji": "shoppingusentaa",
+    "meaning": "pusat perbelanjaan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-006",
+    "kanji": "ショッピングモール",
+    "hiragana": "ショッピングモール",
+    "romaji": "shoppingumooru",
+    "meaning": "mal",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-007",
+    "kanji": "ホームセンター",
+    "hiragana": "ホームセンター",
+    "romaji": "hoomusentaa",
+    "meaning": "home center (toko perlengkapan rumah tangga)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-008",
+    "kanji": "デパート",
+    "hiragana": "デパート",
+    "romaji": "depaato",
+    "meaning": "department store (pasaraya)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-009",
+    "kanji": "電池",
+    "hiragana": "でんち",
+    "romaji": "denchi",
+    "meaning": "baterai",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-010",
+    "kanji": "洗濯ばさみ",
+    "hiragana": "せんたくばさみ",
+    "romaji": "sentakubasami",
+    "meaning": "jepitan baju",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-011",
+    "kanji": "浴衣",
+    "hiragana": "ゆかた",
+    "romaji": "yukata",
+    "meaning": "yukata (kimono berbahan katun yang digunakan saat musim panas)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-012",
+    "kanji": "懐中電灯",
+    "hiragana": "かいちゅうでんとう",
+    "romaji": "kaichuudentou",
+    "meaning": "senter",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-013",
+    "kanji": "弁当箱／お弁当箱",
+    "hiragana": "べんとうばこ／おべんとうばこ",
+    "romaji": "bentoubako/obentoubako",
+    "meaning": "kotak bekal",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-014",
+    "kanji": "ココナッツミルク",
+    "hiragana": "ココナッツミルク",
+    "romaji": "kokonattsumiruku",
+    "meaning": "santan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-015",
+    "kanji": "ほしい",
+    "hiragana": "ほしい",
+    "romaji": "hoshii",
+    "meaning": "ingin",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-016",
+    "kanji": "駅前",
+    "hiragana": "えきまえ",
+    "romaji": "ekimae",
+    "meaning": "di depan stasiun",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-017",
+    "kanji": "店／お店",
+    "hiragana": "みせ／おみせ",
+    "romaji": "mise/omise",
+    "meaning": "toko",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-018",
+    "kanji": "～とか",
+    "hiragana": "～とか",
+    "romaji": "~toka",
+    "meaning": "misalnya (digunakan ketika memberikan contoh)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-019",
+    "kanji": "どこで買えますか？",
+    "hiragana": "どこでかえますか？",
+    "romaji": "dokodekaemasuka？",
+    "meaning": "Di mana saya bisa membelinya?",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-020",
+    "kanji": "しょうゆ",
+    "hiragana": "しょうゆ",
+    "romaji": "shouyu",
+    "meaning": "shoyu (kecap asin)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-021",
+    "kanji": "スカート",
+    "hiragana": "スカート",
+    "romaji": "sukaato",
+    "meaning": "rok",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-022",
+    "kanji": "蛍光灯",
+    "hiragana": "けいこうとう",
+    "romaji": "keikoutou",
+    "meaning": "lampu neon",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-023",
+    "kanji": "ダンベル",
+    "hiragana": "ダンベル",
+    "romaji": "danberu",
+    "meaning": "dumbel",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-024",
+    "kanji": "～階",
+    "hiragana": "～かい",
+    "romaji": "~kai",
+    "meaning": "lantai ～",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-025",
+    "kanji": "暮らし",
+    "hiragana": "くらし",
+    "romaji": "kurashi",
+    "meaning": "(perlengkapan) rumah",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-026",
+    "kanji": "フロア",
+    "hiragana": "フロア",
+    "romaji": "furoa",
+    "meaning": "lantai",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-027",
+    "kanji": "服",
+    "hiragana": "ふく",
+    "romaji": "fuku",
+    "meaning": "pakaian",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-028",
+    "kanji": "メンズ",
+    "hiragana": "メンズ",
+    "romaji": "menzu",
+    "meaning": "pria (men's)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-029",
+    "kanji": "紳士",
+    "hiragana": "しんし",
+    "romaji": "shinshi",
+    "meaning": "pria",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-030",
+    "kanji": "レディース",
+    "hiragana": "レディース",
+    "romaji": "rediisu",
+    "meaning": "wanita (ladies')",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-031",
+    "kanji": "婦人",
+    "hiragana": "ふじん",
+    "romaji": "fujin",
+    "meaning": "wanita",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-032",
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "romaji": "shokuhin",
+    "meaning": "makanan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-033",
+    "kanji": "屋上駐車場",
+    "hiragana": "おくじょうちゅうしゃじょう",
+    "romaji": "okujouchuushajou",
+    "meaning": "tempat parkir atap (rooftop)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-034",
+    "kanji": "生活用品",
+    "hiragana": "せいかつようひん",
+    "romaji": "seikatsuyouhin",
+    "meaning": "kebutuhan sehari-hari",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-035",
+    "kanji": "家電",
+    "hiragana": "かでん",
+    "romaji": "kaden",
+    "meaning": "peralatan elektronik",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-036",
+    "kanji": "家具",
+    "hiragana": "かぐ",
+    "romaji": "kagu",
+    "meaning": "perabot",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-037",
+    "kanji": "インテリア",
+    "hiragana": "インテリア",
+    "romaji": "interia",
+    "meaning": "perabot interior",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-038",
+    "kanji": "おもちゃ",
+    "hiragana": "おもちゃ",
+    "romaji": "omocha",
+    "meaning": "mainan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-039",
+    "kanji": "文房具",
+    "hiragana": "ぶんぼうぐ",
+    "romaji": "bunbougu",
+    "meaning": "alat tulis",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-040",
+    "kanji": "雑貨",
+    "hiragana": "ざっか",
+    "romaji": "zakka",
+    "meaning": "pernak-pernik",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-041",
+    "kanji": "肌着",
+    "hiragana": "はだぎ",
+    "romaji": "hadagi",
+    "meaning": "pakaian dalam",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-042",
+    "kanji": "靴",
+    "hiragana": "くつ",
+    "romaji": "kutsu",
+    "meaning": "sepatu",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-043",
+    "kanji": "バッグ",
+    "hiragana": "バッグ",
+    "romaji": "baggu",
+    "meaning": "tas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-044",
+    "kanji": "スポーツ用品",
+    "hiragana": "スポーツようひん",
+    "romaji": "supootsuyouhin",
+    "meaning": "peralatan olahraga",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-045",
+    "kanji": "服飾雑貨",
+    "hiragana": "ふくしょくざっか",
+    "romaji": "fukushokuzakka",
+    "meaning": "aksesori",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-046",
+    "kanji": "化粧品",
+    "hiragana": "けしょうひん",
+    "romaji": "keshouhin",
+    "meaning": "kosmetik",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-047",
+    "kanji": "食料品",
+    "hiragana": "しょくりょうひん",
+    "romaji": "shokuryouhin",
+    "meaning": "produk makanan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-048",
+    "kanji": "酒",
+    "hiragana": "さけ",
+    "romaji": "sake",
+    "meaning": "minuman beralkohol",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-049",
+    "kanji": "銘店",
+    "hiragana": "めいてん",
+    "romaji": "meiten",
+    "meaning": "toko terkenal",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-050",
+    "kanji": "ドライヤー",
+    "hiragana": "ドライヤー",
+    "romaji": "doraiyaa",
+    "meaning": "pengering rambut",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-051",
+    "kanji": "カメラ",
+    "hiragana": "カメラ",
+    "romaji": "kamera",
+    "meaning": "kamera",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-052",
+    "kanji": "スマホケース",
+    "hiragana": "スマホケース",
+    "romaji": "sumahokeesu",
+    "meaning": "pelindung ponsel (case)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-053",
+    "kanji": "延長コード",
+    "hiragana": "えんちょうコード",
+    "romaji": "enchoukoodo",
+    "meaning": "kabel sambungan listrik",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-054",
+    "kanji": "何階",
+    "hiragana": "なんかい／なんがい",
+    "romaji": "nankai/nangai",
+    "meaning": "lantai berapa",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-055",
+    "kanji": "こちら",
+    "hiragana": "こちら",
+    "romaji": "kochira",
+    "meaning": "di sebelah sini",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-056",
+    "kanji": "～でございます",
+    "hiragana": "～でございます",
+    "romaji": "~degozaimasu",
+    "meaning": "bentuk sopan dari です",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-057",
+    "kanji": "ご案内します／ご案内いたします",
+    "hiragana": "ごあんないします／ごあんないいたします",
+    "romaji": "goannaishimasu/goannaiitashimasu",
+    "meaning": "Akan saya antarkan. (ungkapan sopan)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-058",
+    "kanji": "～になります",
+    "hiragana": "～になります",
+    "romaji": "~ninarimasu",
+    "meaning": "bentuk sopan dari です",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-059",
+    "kanji": "1階",
+    "hiragana": "いっかい",
+    "romaji": "ikkai",
+    "meaning": "lantai satu",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-060",
+    "kanji": "2階",
+    "hiragana": "にかい",
+    "romaji": "nikai",
+    "meaning": "lantai dua",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-061",
+    "kanji": "3階",
+    "hiragana": "さんかい／さんがい",
+    "romaji": "sankai/sangai",
+    "meaning": "lantai tiga",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-062",
+    "kanji": "4階",
+    "hiragana": "よんかい",
+    "romaji": "yonkai",
+    "meaning": "lantai empat",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-063",
+    "kanji": "5階",
+    "hiragana": "ごかい",
+    "romaji": "gokai",
+    "meaning": "lantai lima",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-064",
+    "kanji": "6階",
+    "hiragana": "ろっかい",
+    "romaji": "rokkai",
+    "meaning": "lantai enam",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-065",
+    "kanji": "7階",
+    "hiragana": "ななかい",
+    "romaji": "nanakai",
+    "meaning": "lantai tujuh",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-066",
+    "kanji": "8階",
+    "hiragana": "はちかい／はっかい",
+    "romaji": "hachikai/hakkai",
+    "meaning": "lantai delapan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-067",
+    "kanji": "9階",
+    "hiragana": "きゅうかい",
+    "romaji": "kyuukai",
+    "meaning": "lantai sembilan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-068",
+    "kanji": "10階",
+    "hiragana": "じゅっかい",
+    "romaji": "jukkai",
+    "meaning": "lantai sepuluh",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-069",
+    "kanji": "かっこいい",
+    "hiragana": "かっこいい",
+    "romaji": "kakkoii",
+    "meaning": "keren",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-070",
+    "kanji": "かわいい",
+    "hiragana": "かわいい",
+    "romaji": "kawaii",
+    "meaning": "lucu, imut",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-071",
+    "kanji": "高い",
+    "hiragana": "たかい",
+    "romaji": "takai",
+    "meaning": "mahal",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-072",
+    "kanji": "安い",
+    "hiragana": "やすい",
+    "romaji": "yasui",
+    "meaning": "murah",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-073",
+    "kanji": "おもしろい",
+    "hiragana": "おもしろい",
+    "romaji": "omoshiroi",
+    "meaning": "menarik",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-074",
+    "kanji": "きれい（な）",
+    "hiragana": "きれい（な）",
+    "romaji": "kirei(na)",
+    "meaning": "cantik",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-075",
+    "kanji": "すてき（な）",
+    "hiragana": "すてき（な）",
+    "romaji": "suteki(na)",
+    "meaning": "sangat bagus, luar biasa",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-076",
+    "kanji": "おしゃれ（な）",
+    "hiragana": "おしゃれ（な）",
+    "romaji": "oshare(na)",
+    "meaning": "modis, bergaya",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-077",
+    "kanji": "変（な）",
+    "hiragana": "へん（な）",
+    "romaji": "hen(na)",
+    "meaning": "aneh",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-078",
+    "kanji": "バッグ",
+    "hiragana": "バッグ",
+    "romaji": "baggu",
+    "meaning": "tas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-079",
+    "kanji": "かばん",
+    "hiragana": "かばん",
+    "romaji": "kaban",
+    "meaning": "tas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-080",
+    "kanji": "靴下",
+    "hiragana": "くつした",
+    "romaji": "kutsushita",
+    "meaning": "kaus kaki",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-081",
+    "kanji": "シャツ",
+    "hiragana": "シャツ",
+    "romaji": "shatsu",
+    "meaning": "kemeja",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-082",
+    "kanji": "ズボン",
+    "hiragana": "ズボン",
+    "romaji": "zubon",
+    "meaning": "celana panjang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-083",
+    "kanji": "パンツ",
+    "hiragana": "パンツ",
+    "romaji": "pantsu",
+    "meaning": "celana",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-084",
+    "kanji": "Tシャツ",
+    "hiragana": "ティーシャツ",
+    "romaji": "teiishatsu",
+    "meaning": "kaus",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-085",
+    "kanji": "ワンピース",
+    "hiragana": "ワンピース",
+    "romaji": "wanpiisu",
+    "meaning": "baju terusan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-086",
+    "kanji": "くつ",
+    "hiragana": "くつ",
+    "romaji": "kutsu",
+    "meaning": "sepatu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-087",
+    "kanji": "ネクタイ",
+    "hiragana": "ネクタイ",
+    "romaji": "nekutai",
+    "meaning": "dasi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-088",
+    "kanji": "帽子",
+    "hiragana": "ぼうし",
+    "romaji": "boushi",
+    "meaning": "topi",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-089",
+    "kanji": "傘",
+    "hiragana": "かさ",
+    "romaji": "kasa",
+    "meaning": "payung",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-090",
+    "kanji": "ジャケット",
+    "hiragana": "ジャケット",
+    "romaji": "jaketto",
+    "meaning": "jaket",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-091",
+    "kanji": "コート",
+    "hiragana": "コート",
+    "romaji": "kooto",
+    "meaning": "mantel",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-092",
+    "kanji": "それに",
+    "hiragana": "それに",
+    "romaji": "soreni",
+    "meaning": "selain itu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-093",
+    "kanji": "本当！",
+    "hiragana": "ほんとう！",
+    "romaji": "hontou!",
+    "meaning": "Iya, benar!",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-094",
+    "kanji": "入口",
+    "hiragana": "いりぐち",
+    "romaji": "iriguchi",
+    "meaning": "pintu masuk",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-095",
+    "kanji": "出口",
+    "hiragana": "でぐち",
+    "romaji": "deguchi",
+    "meaning": "pintu keluar",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-096",
+    "kanji": "化粧室",
+    "hiragana": "けしょうしつ",
+    "romaji": "keshoushitsu",
+    "meaning": "kamar kecil",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-097",
+    "kanji": "非常口",
+    "hiragana": "ひじょうぐち",
+    "romaji": "hijouguchi",
+    "meaning": "pintu darurat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-098",
+    "kanji": "お客様",
+    "hiragana": "おきゃくさま",
+    "romaji": "okyakusama",
+    "meaning": "pelanggan (ragam hormat)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-099",
+    "kanji": "押す／押",
+    "hiragana": "おす",
+    "romaji": "osu",
+    "meaning": "dorong",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-100",
+    "kanji": "引く／引",
+    "hiragana": "ひく",
+    "romaji": "hiku",
+    "meaning": "tarik",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-101",
+    "kanji": "開く／開",
+    "hiragana": "ひらく",
+    "romaji": "hiraku",
+    "meaning": "buka",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-102",
+    "kanji": "閉じる／閉",
+    "hiragana": "とじる",
+    "romaji": "tojiru",
+    "meaning": "tutup",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-103",
+    "kanji": "上り",
+    "hiragana": "のぼり",
+    "romaji": "nobori",
+    "meaning": "naik",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-15-104",
+    "kanji": "下り",
+    "hiragana": "くだり",
+    "romaji": "kudari",
+    "meaning": "turun",
+    "level": "N5",
+    "isExtra": false
+  }
+]

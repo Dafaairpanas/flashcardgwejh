@@ -1,0 +1,170 @@
+[
+  {
+    "id": "m_bab10_1",
+    "chapter": "Bab 10",
+    "source": "minna",
+    "title": "Kata Benda が あります／います",
+    "romajiTitle": "Kata Benda ga arimasu/imasu",
+    "meaning": "あります dan います menyatakan keberadaan benda atau orang. あります digunakan untuk benda mati atau tumbuhan yang tidak bergerak sendiri. います digunakan untuk orang atau benda yang bergerak dengan sendirinya.",
+    "formula": "Kata Benda + が + あります/います",
+    "examples": [
+      {
+        "jp": "コンピューターが あります。",
+        "romaji": "Konpyuutaa ga arimasu.",
+        "id_translation": "Ada komputer."
+      },
+      {
+        "jp": "桜が あります。",
+        "romaji": "Sakura ga arimasu.",
+        "id_translation": "Ada Sakura."
+      },
+      {
+        "jp": "男の 人が います。",
+        "romaji": "Otoko no hito ga imasu.",
+        "id_translation": "Ada orang laki-laki."
+      },
+      {
+        "jp": "犬が います。",
+        "romaji": "Inu ga imasu.",
+        "id_translation": "Ada anjing."
+      }
+    ],
+    "notes": "Kalimat ini menggambarkan secara langsung untuk menyampaikan keberadaan benda atau orang dengan partikel が.",
+    "tags": ["N5", "Kata Kerja", "Keberadaan"]
+  },
+  {
+    "id": "m_bab10_2",
+    "chapter": "Bab 10",
+    "source": "minna",
+    "title": "Tempat に Kata Benda が あります／います",
+    "romajiTitle": "Tempat ni Kata Benda ga arimasu/imasu",
+    "meaning": "Menyatakan keberadaan benda atau orang di suatu tempat. Tempat keberadaannya dinyatakan dengan partikel に.",
+    "formula": "Tempat + に + Kata Benda + が + あります/います",
+    "examples": [
+      {
+        "jp": "わたしの 部屋に 机が あります。",
+        "romaji": "Watashi no heya ni tsukue ga arimasu.",
+        "id_translation": "Di kamar saya ada meja."
+      },
+      {
+        "jp": "事務所に ミラーさんが います。",
+        "romaji": "Jimusho ni Miraa-san ga imasu.",
+        "id_translation": "Di kantor ada Sdr. Miller."
+      },
+      {
+        "jp": "地下に 何が ありますか。……レストランが あります。",
+        "romaji": "Chika ni nani ga arimasu ka. ......Resutoran ga arimasu.",
+        "id_translation": "Di lantai basement ada apa? ……Ada restoran."
+      },
+      {
+        "jp": "受付に だれが いますか。……木村さんが います。",
+        "romaji": "Uketsuke ni dare ga imasu ka. ......Kimura-san ga imasu.",
+        "id_translation": "Di resepsionis ada siapa? ……Ada Sdr. Kimura."
+      }
+    ],
+    "notes": "Kata tanya なに digunakan untuk menanyakan benda/binatang, だれ untuk menanyakan orang. Partikel di belakang kata tanya tetap が, bukan は.",
+    "tags": ["N5", "Kata Kerja", "Lokasi Keberadaan"]
+  },
+  {
+    "id": "m_bab10_3",
+    "chapter": "Bab 10",
+    "source": "minna",
+    "title": "Kata Benda は tempat に あります／います",
+    "romajiTitle": "Kata Benda wa tempat ni arimasu/imasu",
+    "meaning": "Menyatakan keberadaan suatu benda/orang (sebagai topik pembicaraan) di suatu tempat. Benda yang dibicarakan diletakkan paling depan dengan partikel は.",
+    "formula": "Kata Benda (Topik) + は + Tempat + に + あります/います",
+    "examples": [
+      {
+        "jp": "東京 ディズニーランドは 千葉県に あります。",
+        "romaji": "Toukyou Dizuniirando wa Chibaken ni arimasu.",
+        "id_translation": "Tokyo Disneyland terletak di prefektur Chiba."
+      },
+      {
+        "jp": "ミラーさんは 事務所に います。",
+        "romaji": "Miraa-san wa jimusho ni imasu.",
+        "id_translation": "Sdr. Miller ada di kantor."
+      },
+      {
+        "jp": "東京 ディズニーランドは どこに ありますか。……千葉県に あります。",
+        "romaji": "Toukyou Dizuniirando wa doko ni arimasu ka. ......Chibaken ni arimasu.",
+        "id_translation": "Tokyo Disneyland terletak di mana? ……Terletak di prefektur Chiba."
+      }
+    ],
+    "notes": "Kata Benda di sini adalah hal yang telah diakui/diketahui oleh kedua belah pihak (pembicara dan lawan bicara). Pola ini dapat diganti dengan 'Kata Benda は tempat です' (misal: 東京ディズニーランドは どこですか。……千葉県です。).",
+    "tags": ["N5", "Partikel", "Topik Keberadaan"]
+  },
+  {
+    "id": "m_bab10_4",
+    "chapter": "Bab 10",
+    "source": "minna",
+    "title": "Kata Benda1 (benda/orang/tempat) の Kata Benda2 (posisi)",
+    "romajiTitle": "Kata Benda1 (benda/orang/tempat) no Kata Benda2 (posisi)",
+    "meaning": "Menunjukkan hubungan posisi antara Kata Benda1 dan Kata Benda2 menggunakan kata posisi (atas, bawah, depan, belakang, kanan, kiri, dalam, luar, sebelah, dekat, antara).",
+    "formula": "Kata Benda1 + の + Kata Posisi + に + [Benda] + が + あります/います",
+    "examples": [
+      {
+        "jp": "机の 上に 写真が あります。",
+        "romaji": "Tsukue no ue ni shashin ga arimasu.",
+        "id_translation": "Di atas meja ada foto."
+      },
+      {
+        "jp": "郵便局は 銀行の 隣に あります。",
+        "romaji": "Yuubinkyoku wa ginkou no tonari ni arimasu.",
+        "id_translation": "Kantor pos ada di sebelah bank."
+      },
+      {
+        "jp": "本屋は 花屋と スーパーの 間に あります。",
+        "romaji": "Hon'ya wa hanaya to suupaa no aida ni arimasu.",
+        "id_translation": "Toko buku ada di antara toko bunga dan pasar swalayan."
+      },
+      {
+        "jp": "駅の 近くで 友達に 会いました。",
+        "romaji": "Eki no chikaku de tomodachi ni aimashita.",
+        "id_translation": "Di dekat stasiun, bertemu dengan teman."
+      }
+    ],
+    "notes": "Kata posisi ini berfungsi sama seperti kata benda yang menunjukkan tempat. Jika menunjukkan tempat aksi (di mana suatu tindakan terjadi), maka dibubuhkan partikel で (contoh terakhir).",
+    "tags": ["N5", "Kata Benda", "Posisi"]
+  },
+  {
+    "id": "m_bab10_5",
+    "chapter": "Bab 10",
+    "source": "minna",
+    "title": "Kata Benda1 や Kata Benda2 (など)",
+    "romajiTitle": "Kata Benda1 ya Kata Benda2 (nado)",
+    "meaning": "Partikel や digunakan untuk mengambil beberapa hal saja yang mewakili (lebih dari dua) untuk menyebutkannya secara setara. Adakalanya ditambahkan など di belakang kata benda terakhir untuk menyatakan masih ada hal lain yang tidak disebutkan.",
+    "formula": "Kata Benda1 + や + Kata Benda2 (+ など)",
+    "examples": [
+      {
+        "jp": "箱の 中に 手紙や 写真が あります。",
+        "romaji": "Hako no naka ni tegami ya shashin ga arimasu.",
+        "id_translation": "Di dalam kotak ada surat dan foto (dan mungkin barang lain)."
+      },
+      {
+        "jp": "箱の 中に 手紙や 写真などが あります。",
+        "romaji": "Hako no naka ni tegami ya shashin nado ga arimasu.",
+        "id_translation": "Di dalam kotak ada surat, foto dan lain-lainnya."
+      }
+    ],
+    "notes": "Berbeda dengan と yang menyebutkan SEMUA benda secara spesifik.",
+    "tags": ["N5", "Partikel", "Penyebutan Sebagian"]
+  },
+  {
+    "id": "m_bab10_6",
+    "chapter": "Bab 10",
+    "source": "minna",
+    "title": "〜ですか (Pengulangan untuk penegasan)",
+    "romajiTitle": "~ desu ka (Pengulangan untuk penegasan)",
+    "meaning": "Dalam percakapan praktek, lawan bicara tidak langsung menjawab pertanyaan, tetapi sering menjawab setelah menegaskan inti pertanyaan si pembicara.",
+    "formula": "[Inti Pertanyaan] + ですか",
+    "examples": [
+      {
+        "jp": "すみません。アジアストアは どこですか。……アジアストアですか。あの ビルの 中です。",
+        "romaji": "Sumimasen. Ajiasutoa wa doko desu ka. ......Ajiasutoa desu ka. Ano biru no naka desu.",
+        "id_translation": "Maaf. Di mana Asia Store? ……Asia Store? Di dalam gedung itu."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Ungkapan", "Penegasan"]
+  }
+]

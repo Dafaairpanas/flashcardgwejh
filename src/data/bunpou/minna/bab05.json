@@ -1,0 +1,178 @@
+[
+  {
+    "id": "m_bab05_1",
+    "chapter": "Bab 05",
+    "source": "minna",
+    "title": "名詞（場所）へ 行きます／来ます／帰ります",
+    "romajiTitle": "Meishi (basho) e ikimasu / kimasu / kaerimasu",
+    "meaning": "Jika menunjukkan pindah, arah pindahnya dinyatakan dengan membubuhkan partikel へ.",
+    "formula": "Kata Benda (tempat) + へ + 行きます / 来ます / 帰ります",
+    "examples": [
+      {
+        "jp": "京都へ行きます。",
+        "romaji": "Kyouto e ikimasu.",
+        "id_translation": "Pergi ke Kyoto."
+      },
+      {
+        "jp": "日本へ来ました。",
+        "romaji": "Nihon e kimashita.",
+        "id_translation": "Datang ke Jepang."
+      },
+      {
+        "jp": "うちへ帰ります。",
+        "romaji": "Uchi e kaerimasu.",
+        "id_translation": "Pulang ke rumah."
+      }
+    ],
+    "notes": "Partikel へ diucapkan e.",
+    "tags": ["N5", "Partikel", "Arah Perpindahan"]
+  },
+  {
+    "id": "m_bab05_2",
+    "chapter": "Bab 05",
+    "source": "minna",
+    "title": "どこ［へ］も 行きません／行きませんでした",
+    "romajiTitle": "Doko [e] mo ikimasen / ikimasendeshita",
+    "meaning": "Apabila ingin menyangkal hal yang ditanyakan oleh Kata Tanya secara total, pembentukan Kata Kerja negatif dengan membubuhkan partikel も pada Kata Tanya.",
+    "formula": "Kata Tanya + も + Kata Kerja Negatif",
+    "examples": [
+      {
+        "jp": "どこ［へ］も行きません。",
+        "romaji": "Doko [e] mo ikimasen.",
+        "id_translation": "Tidak pergi ke mana-mana."
+      },
+      {
+        "jp": "何も食べません。",
+        "romaji": "Nani mo tabemasen.",
+        "id_translation": "Tidak makan apa-apa."
+      },
+      {
+        "jp": "だれも来ませんでした。",
+        "romaji": "Dare mo kimasendeshita.",
+        "id_translation": "Tidak datang siapa-siapa."
+      }
+    ],
+    "notes": "Partikel [へ] bisa dihilangkan. Pola ini berlaku untuk kata tanya lain ditambah も dan kata kerja negatif untuk menyangkal total.",
+    "tags": ["N5", "Pola Kalimat", "Penyangkalan Total"]
+  },
+  {
+    "id": "m_bab05_3",
+    "chapter": "Bab 05",
+    "source": "minna",
+    "title": "名詞（乗り物）で 行きます／来ます／帰ります",
+    "romajiTitle": "Meishi (norimono) de ikimasu / kimasu / kaerimasu",
+    "meaning": "Partikel で menunjukkan sarana dan cara. Di bagian ini, diikuti Kata Benda yang menunjukkan kendaraan/sarana transportasi.",
+    "formula": "Kata Benda (kendaraan) + で + 行きます / 来ます / 帰ります",
+    "examples": [
+      {
+        "jp": "電車で行きます。",
+        "romaji": "Densha de ikimasu.",
+        "id_translation": "Pergi dengan kereta rel listrik."
+      },
+      {
+        "jp": "タクシーで来ました。",
+        "romaji": "Takushii de kimashita.",
+        "id_translation": "Datang dengan taksi."
+      },
+      {
+        "jp": "駅から歩いて帰りました。",
+        "romaji": "Eki kara aruite kaerimashita.",
+        "id_translation": "Pulang dengan jalan kaki dari stasiun."
+      }
+    ],
+    "notes": "Jika pergi dengan jalan kaki digunakan 歩いて (aruite), tetapi tidak dibubuhkan partikel で.",
+    "tags": ["N5", "Partikel", "Sarana/Cara"]
+  },
+  {
+    "id": "m_bab05_4",
+    "chapter": "Bab 05",
+    "source": "minna",
+    "title": "名詞（人／動物）と 動詞",
+    "romajiTitle": "Meishi (hito/doubutsu) to Doushi",
+    "meaning": "Jika melakukan sesuatu bersama orang (hewan), maka ditunjukkan dengan membubuhkan partikel と.",
+    "formula": "Kata Benda (orang/hewan) + と + Kata Kerja",
+    "examples": [
+      {
+        "jp": "家族と日本へ来ました。",
+        "romaji": "Kazoku to Nihon e kimashita.",
+        "id_translation": "Datang ke Jepang bersama dengan keluarga."
+      },
+      {
+        "jp": "一人で東京へ行きます。",
+        "romaji": "Hitori de Toukyou e ikimasu.",
+        "id_translation": "Pergi ke Tokyo sendirian."
+      }
+    ],
+    "notes": "Jika melakukan suatu aksi sendiri digunakan 一人で (hitori de). Dalam hal ini tidak menggunakan partikel と.",
+    "tags": ["N5", "Partikel", "Penyertaan"]
+  },
+  {
+    "id": "m_bab05_5",
+    "chapter": "Bab 05",
+    "source": "minna",
+    "title": "いつ",
+    "romajiTitle": "Itsu",
+    "meaning": "Untuk menanyakan waktu, selain digunakan Kata Tanya なん (seperti なんじ, なんようび), digunakan juga Kata Tanya いつ (kapan).",
+    "formula": "いつ + Kata Kerja + か",
+    "examples": [
+      {
+        "jp": "いつ日本へ来ましたか。……3月25日に来ました。",
+        "romaji": "Itsu Nihon e kimashita ka. ......Sangatsu nijuugonichi ni kimashita.",
+        "id_translation": "Kapan datang ke Jepang? ……Datang pada tanggal 25 Maret."
+      },
+      {
+        "jp": "いつ広島へ行きますか。……来週行きます。",
+        "romaji": "Itsu Hiroshima e ikimasu ka. ......Raishuu ikimasu.",
+        "id_translation": "Kapan pergi ke Hiroshima? ……Pergi minggu depan."
+      }
+    ],
+    "notes": "Kata いつ tidak dapat dibubuhkan partikel に.",
+    "tags": ["N5", "Kata Tanya", "Keterangan Waktu"]
+  },
+  {
+    "id": "m_bab05_6",
+    "chapter": "Bab 05",
+    "source": "minna",
+    "title": "～よ",
+    "romajiTitle": "~yo",
+    "meaning": "Partikel よ dibubuhkan pada akhir kalimat dan digunakan untuk memberitahukan suatu hal yang belum diketahui oleh lawan bicara, atau menyampaikan tanggapan dan pendapat si pembicara kepada lawan bicaranya.",
+    "formula": "Kalimat + よ",
+    "examples": [
+      {
+        "jp": "この電車は甲子園へ行きますか。……いいえ、行きません。次の「普通」ですよ。",
+        "romaji": "Kono densha wa Koushien e ikimasu ka. ......Iie, ikimasen. Tsugi no 「futsuu」desu yo.",
+        "id_translation": "Apakah kereta rel listrik ini menuju Koshien? ……Tidak, tidak pergi. Yang “Biasa” berikutnya."
+      },
+      {
+        "jp": "北海道に馬がたくさんいますよ。",
+        "romaji": "Hokkaidou ni uma ga takusan imasu yo.",
+        "id_translation": "Di Hokkaido ada banyak kuda."
+      },
+      {
+        "jp": "マリアさん、このアイスクリーム、おいしいですよ。",
+        "romaji": "Maria-san, kono aisu kuriimu, oishii desu yo.",
+        "id_translation": "Ibu Maria, es krim ini enak."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Partikel Akhir", "Pemberitahuan/Pendapat"]
+  },
+  {
+    "id": "m_bab05_7",
+    "chapter": "Bab 05",
+    "source": "minna",
+    "title": "そうですね",
+    "romajiTitle": "Sou desu ne",
+    "meaning": "そうですね digunakan jika menyetujui atau sependapat dengan hal yang dikatakan oleh lawan bicara.",
+    "formula": "そうですね",
+    "examples": [
+      {
+        "jp": "あしたは日曜日ですね。……あ、そうですね。",
+        "romaji": "Ashita wa nichiyoubi desu ne. ......A, sou desu ne.",
+        "id_translation": "Besok hari Minggu, ya. ……O, ya betul."
+      }
+    ],
+    "notes": "Berbeda dengan そうですか yang merupakan ekspresi ketika mendapat informasi baru. そうですね digunakan untuk menunjukkan bahwa pembicara berpikir hal yang sama atau menyetujui hal yang telah dikenal.",
+    "tags": ["N5", "Frasa", "Persetujuan"]
+  }
+]

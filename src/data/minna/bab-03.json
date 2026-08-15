@@ -1,0 +1,614 @@
+[
+  {
+    "id": "mn-03-001",
+    "kanji": "～をください",
+    "hiragana": "～をください",
+    "romaji": "~wokudasai",
+    "meaning": "Tolong ～",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-002",
+    "kanji": "～円",
+    "hiragana": "～えん",
+    "romaji": "~en",
+    "meaning": "～yen",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-003",
+    "kanji": "～階",
+    "hiragana": "～かい",
+    "romaji": "~kai",
+    "meaning": "lantai～/ tingkat～",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-004",
+    "kanji": "あそこ",
+    "hiragana": "あそこ",
+    "romaji": "asoko",
+    "meaning": "Disana",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-005",
+    "kanji": "あちら",
+    "hiragana": "あちら",
+    "romaji": "achira",
+    "meaning": "Disana",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-006",
+    "kanji": "いくら",
+    "hiragana": "いくら",
+    "romaji": "ikura",
+    "meaning": "Berapa?",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-007",
+    "kanji": "イタリア",
+    "hiragana": "イタリア",
+    "romaji": "itaria",
+    "meaning": "Italia",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-008",
+    "kanji": "いらっしゃいませ",
+    "hiragana": "いらっしゃいませ",
+    "romaji": "irasshaimase",
+    "meaning": "Selamat datang / Bisa Saya Bantu?",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-009",
+    "kanji": "エスカレーター",
+    "hiragana": "エスカレーター",
+    "romaji": "esukareetaa",
+    "meaning": "Eskalator, tangga berjalan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-010",
+    "kanji": "エレベーター",
+    "hiragana": "エレベーター",
+    "romaji": "erebeetaa",
+    "meaning": "Lift",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-011",
+    "kanji": "お国",
+    "hiragana": "おくに",
+    "romaji": "okuni",
+    "meaning": "Negara",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-012",
+    "kanji": "お手洗い",
+    "hiragana": "おてあらい",
+    "romaji": "otearai",
+    "meaning": "Kamar kecil, WC",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-013",
+    "kanji": "ここ",
+    "hiragana": "ここ",
+    "romaji": "koko",
+    "meaning": "Disini",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-014",
+    "kanji": "こちら",
+    "hiragana": "こちら",
+    "romaji": "kochira",
+    "meaning": "Disini",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-015",
+    "kanji": "じゃ",
+    "hiragana": "じゃ",
+    "romaji": "ja",
+    "meaning": "Kalau begitu",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-016",
+    "kanji": "ジャカルタ",
+    "hiragana": "ジャカルタ",
+    "romaji": "jakaruta",
+    "meaning": "Jakarta",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-017",
+    "kanji": "スイス",
+    "hiragana": "スイス",
+    "romaji": "suisu",
+    "meaning": "Swis",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-018",
+    "kanji": "すみません",
+    "hiragana": "すみません",
+    "romaji": "sumimasen",
+    "meaning": "Maaf / Permisi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-019",
+    "kanji": "そこ",
+    "hiragana": "そこ",
+    "romaji": "soko",
+    "meaning": "Disitu",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-020",
+    "kanji": "そちら",
+    "hiragana": "そちら",
+    "romaji": "sochira",
+    "meaning": "Disitu",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-021",
+    "kanji": "トイレ",
+    "hiragana": "トイレ",
+    "romaji": "toire",
+    "meaning": "Toilet",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-022",
+    "kanji": "どうも",
+    "hiragana": "どうも",
+    "romaji": "doumo",
+    "meaning": "Terima kasih",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-023",
+    "kanji": "どこ",
+    "hiragana": "どこ",
+    "romaji": "doko",
+    "meaning": "Dimana?",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-024",
+    "kanji": "どちら",
+    "hiragana": "どちら",
+    "romaji": "dochira",
+    "meaning": "Dimana ?",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-025",
+    "kanji": "ネクタイ",
+    "hiragana": "ネクタイ",
+    "romaji": "nekutai",
+    "meaning": "Dasi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-026",
+    "kanji": "バンコク",
+    "hiragana": "バンコク",
+    "romaji": "bankoku",
+    "meaning": "Bangkok",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-027",
+    "kanji": "フランス",
+    "hiragana": "フランス",
+    "romaji": "furansu",
+    "meaning": "Perancis",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-028",
+    "kanji": "ベルリン",
+    "hiragana": "ベルリン",
+    "romaji": "berurin",
+    "meaning": "Berlin",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-029",
+    "kanji": "ロビー",
+    "hiragana": "ロビー",
+    "romaji": "robii",
+    "meaning": "Ruang tunggu, lobi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-030",
+    "kanji": "ワイン",
+    "hiragana": "ワイン",
+    "romaji": "wain",
+    "meaning": "Anggur (putih)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-031",
+    "kanji": "何階",
+    "hiragana": "なんがい",
+    "romaji": "nangai",
+    "meaning": "Lantai berapa?",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-032",
+    "kanji": "家",
+    "hiragana": "うち",
+    "romaji": "uchi",
+    "meaning": "Rumah",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-033",
+    "kanji": "会議室",
+    "hiragana": "かいぎしつ",
+    "romaji": "kaigishitsu",
+    "meaning": "Ruang rapat",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-034",
+    "kanji": "会社",
+    "hiragana": "かいしゃ",
+    "romaji": "kaisha",
+    "meaning": "Perusahaan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-035",
+    "kanji": "階段",
+    "hiragana": "かいだん",
+    "romaji": "kaidan",
+    "meaning": "Tangga",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-036",
+    "kanji": "教室",
+    "hiragana": "きょうしつ",
+    "romaji": "kyoushitsu",
+    "meaning": "Ruang kelas",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-037",
+    "kanji": "靴",
+    "hiragana": "くつ",
+    "romaji": "kutsu",
+    "meaning": "Sepatu",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-038",
+    "kanji": "見せてください",
+    "hiragana": "みせてください",
+    "romaji": "misetekudasai",
+    "meaning": "Tolong perlihatkan",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-039",
+    "kanji": "事務所",
+    "hiragana": "じむしょ",
+    "romaji": "jimusho",
+    "meaning": "Kantor, Ruang Guru",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-040",
+    "kanji": "自動販売機",
+    "hiragana": "じどうはんばいき",
+    "romaji": "jidouhanbaiki",
+    "meaning": "Mesin jual otomatis",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-041",
+    "kanji": "受付",
+    "hiragana": "うけつけ",
+    "romaji": "uketsuke",
+    "meaning": "Meja informasi",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-042",
+    "kanji": "食堂",
+    "hiragana": "しょくどう",
+    "romaji": "shokudou",
+    "meaning": "Ruang makan, Kantin, Rumah Makan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-043",
+    "kanji": "千",
+    "hiragana": "せん",
+    "romaji": "sen",
+    "meaning": "Seribu",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-044",
+    "kanji": "地下",
+    "hiragana": "ちか",
+    "romaji": "chika",
+    "meaning": "Bawah tanah , basement",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-045",
+    "kanji": "電話",
+    "hiragana": "でんわ",
+    "romaji": "denwa",
+    "meaning": "Telepon",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-046",
+    "kanji": "売り場",
+    "hiragana": "うりば",
+    "romaji": "uriba",
+    "meaning": "Tempat penjualan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-047",
+    "kanji": "百",
+    "hiragana": "ひゃく",
+    "romaji": "hyaku",
+    "meaning": "Seratus",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-048",
+    "kanji": "部屋",
+    "hiragana": "へや",
+    "romaji": "heya",
+    "meaning": "Kamar",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-049",
+    "kanji": "万",
+    "hiragana": "まん",
+    "romaji": "man",
+    "meaning": "Puluh ribu",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-03-050",
+    "kanji": "アクセサリー",
+    "hiragana": "アクセサリー",
+    "romaji": "akusesarii",
+    "meaning": "Perhiasan, aksesoris",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-03-051",
+    "kanji": "おもちゃ",
+    "hiragana": "おもちゃ",
+    "romaji": "omocha",
+    "meaning": "Mainan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-03-052",
+    "kanji": "スポーツ用品",
+    "hiragana": "スポーツようひん",
+    "romaji": "supootsuyouhin",
+    "meaning": "Peralatan olahraga",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-03-053",
+    "kanji": "レストラン",
+    "hiragana": "レストラン",
+    "romaji": "resutoran",
+    "meaning": "Restoran",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-03-054",
+    "kanji": "屋上",
+    "hiragana": "おくじょう",
+    "romaji": "okujou",
+    "meaning": "Lantai atas",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-03-055",
+    "kanji": "化粧品",
+    "hiragana": "けしょうひん",
+    "romaji": "keshouhin",
+    "meaning": "Kosmetik",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-03-056",
+    "kanji": "家具",
+    "hiragana": "かぐ",
+    "romaji": "kagu",
+    "meaning": "Perlengkapan rumah",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-03-057",
+    "kanji": "眼鏡",
+    "hiragana": "めがね",
+    "romaji": "megane",
+    "meaning": "Kacamata",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-03-058",
+    "kanji": "催し物会場",
+    "hiragana": "もよおしものかいじょう",
+    "romaji": "moyooshimonokaijou",
+    "meaning": "Tempat pertunjukan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-03-059",
+    "kanji": "子供の服",
+    "hiragana": "こどものふく",
+    "romaji": "kodomonofuku",
+    "meaning": "Pakaian anak",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-03-060",
+    "kanji": "食器",
+    "hiragana": "しょっき",
+    "romaji": "shokki",
+    "meaning": "Peralatan makan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-03-061",
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "romaji": "shokuhin",
+    "meaning": "Makanan",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-03-062",
+    "kanji": "紳士服",
+    "hiragana": "しんしふく",
+    "romaji": "shinshifuku",
+    "meaning": "Pakaian pria",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-03-063",
+    "kanji": "駐車場",
+    "hiragana": "ちゅうしゃじょう",
+    "romaji": "chuushajou",
+    "meaning": "tempat parkir",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-03-064",
+    "kanji": "電化製品",
+    "hiragana": "でんかせいひん",
+    "romaji": "denkaseihin",
+    "meaning": "Barang elektronik",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-03-065",
+    "kanji": "婦人服",
+    "hiragana": "ふじんふく",
+    "romaji": "fujinfuku",
+    "meaning": "Pakaian wanita",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-03-066",
+    "kanji": "文房具",
+    "hiragana": "ぶんぼうぐ",
+    "romaji": "bunbougu",
+    "meaning": "Alat tulis",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-03-067",
+    "kanji": "遊園地",
+    "hiragana": "ゆうえんち",
+    "romaji": "yuuenchi",
+    "meaning": "Tempat hiburan",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-03-068",
+    "kanji": "旅行用品",
+    "hiragana": "りょこうようひん",
+    "romaji": "ryokouyouhin",
+    "meaning": "Peralatan wisata / berpergian",
+    "level": "N4",
+    "importinity": 2
+  }
+]

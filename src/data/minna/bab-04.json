@@ -1,0 +1,551 @@
+[
+  {
+    "id": "mn-04-001",
+    "kanji": "～から",
+    "hiragana": "～から",
+    "romaji": "~kara",
+    "meaning": "Dari~",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-002",
+    "kanji": "～と～",
+    "hiragana": "～と～",
+    "romaji": "~to~",
+    "meaning": "~Dan~",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-003",
+    "kanji": "～まで",
+    "hiragana": "～まで",
+    "romaji": "~made",
+    "meaning": "Sampai~",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-004",
+    "kanji": "～時",
+    "hiragana": "～じ",
+    "romaji": "~ji",
+    "meaning": "Jam , pukul",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-005",
+    "kanji": "～分",
+    "hiragana": "～ふん／ぶん",
+    "romaji": "~fun/bun",
+    "meaning": "Menit",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-006",
+    "kanji": "デパート",
+    "hiragana": "デパート",
+    "romaji": "depaato",
+    "meaning": "Departemen store / Toserba",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-007",
+    "kanji": "ニューヨーク",
+    "hiragana": "ニューヨーク",
+    "romaji": "nyuuyooku",
+    "meaning": "New york",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-008",
+    "kanji": "ペキン",
+    "hiragana": "ペキン",
+    "romaji": "pekin",
+    "meaning": "Beijing",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-009",
+    "kanji": "ロサンゼルス",
+    "hiragana": "ロサンゼルス",
+    "romaji": "rosanzerusu",
+    "meaning": "Los angels",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-010",
+    "kanji": "ロンドン",
+    "hiragana": "ロンドン",
+    "romaji": "rondon",
+    "meaning": "London",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-011",
+    "kanji": "一昨日",
+    "hiragana": "おととい",
+    "romaji": "ototoi",
+    "meaning": "2 hari yang lalu , kemarin lusa",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-012",
+    "kanji": "映画",
+    "hiragana": "えいが",
+    "romaji": "eiga",
+    "meaning": "Film",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-013",
+    "kanji": "何時",
+    "hiragana": "なんんじ",
+    "romaji": "nannji",
+    "meaning": "Jam berapa?",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-014",
+    "kanji": "何番",
+    "hiragana": "なんばん",
+    "romaji": "nanban",
+    "meaning": "Nomer berapa?",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-015",
+    "kanji": "何分",
+    "hiragana": "なんぷん",
+    "romaji": "nanpun",
+    "meaning": "Berapa menit ?",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-016",
+    "kanji": "何曜日",
+    "hiragana": "なんようび",
+    "romaji": "nanyoubi",
+    "meaning": "Hari apa?",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-017",
+    "kanji": "火曜日",
+    "hiragana": "かようび",
+    "romaji": "kayoubi",
+    "meaning": "Hari selasa",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-018",
+    "kanji": "会議",
+    "hiragana": "かいぎ",
+    "romaji": "kaigi",
+    "meaning": "Rapat",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-019",
+    "kanji": "起きます",
+    "hiragana": "おきます",
+    "romaji": "okimasu",
+    "meaning": "Bangun ( tidur )",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-020",
+    "kanji": "休み",
+    "hiragana": "やすみ",
+    "romaji": "yasumi",
+    "meaning": "Istirahat, cuti, libur",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-021",
+    "kanji": "休みます",
+    "hiragana": "やすみます",
+    "romaji": "yasumimasu",
+    "meaning": "Beristirahat , libur",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-022",
+    "kanji": "金曜日",
+    "hiragana": "きんようび",
+    "romaji": "kinyoubi",
+    "meaning": "Hari jumat",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-023",
+    "kanji": "銀行",
+    "hiragana": "ぎんこう",
+    "romaji": "ginkou",
+    "meaning": "Bank",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-024",
+    "kanji": "月曜日",
+    "hiragana": "げつようび",
+    "romaji": "getsuyoubi",
+    "meaning": "Hari senin",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-025",
+    "kanji": "午後",
+    "hiragana": "ごご",
+    "romaji": "gogo",
+    "meaning": "PM (waktu setelah jam 12 siang)",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-026",
+    "kanji": "午前",
+    "hiragana": "ごぜん",
+    "romaji": "gozen",
+    "meaning": "AM (waktu sebelum jam 12 siang)",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-027",
+    "kanji": "今",
+    "hiragana": "いま",
+    "romaji": "ima",
+    "meaning": "Sekarang",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-028",
+    "kanji": "今朝",
+    "hiragana": "けさ",
+    "romaji": "kesa",
+    "meaning": "Tadi pagi, Pagi ini",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-029",
+    "kanji": "今日",
+    "hiragana": "きょう",
+    "romaji": "kyou",
+    "meaning": "Hari ini",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-030",
+    "kanji": "今晩",
+    "hiragana": "こんばん",
+    "romaji": "konban",
+    "meaning": "Malam ini, Nanti malam",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-031",
+    "kanji": "昨日",
+    "hiragana": "きのう",
+    "romaji": "kinou",
+    "meaning": "Kemarin",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-032",
+    "kanji": "試験",
+    "hiragana": "しけん",
+    "romaji": "shiken",
+    "meaning": "Ujian",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-033",
+    "kanji": "終わります",
+    "hiragana": "おわります",
+    "romaji": "owarimasu",
+    "meaning": "Selesai",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-034",
+    "kanji": "寝ます",
+    "hiragana": "ねます",
+    "romaji": "nemasu",
+    "meaning": "Tidur",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-035",
+    "kanji": "図書館",
+    "hiragana": "としょかん",
+    "romaji": "toshokan",
+    "meaning": "Perpustakaan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-036",
+    "kanji": "水曜日",
+    "hiragana": "すいようび",
+    "romaji": "suiyoubi",
+    "meaning": "Hari rabo",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-037",
+    "kanji": "大変ですね",
+    "hiragana": "たいへんですね",
+    "romaji": "taihendesune",
+    "meaning": "Berat ya,",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-038",
+    "kanji": "昼",
+    "hiragana": "ひる",
+    "romaji": "hiru",
+    "meaning": "Siang",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-039",
+    "kanji": "昼休み",
+    "hiragana": "ひるやすみ",
+    "romaji": "hiruyasumi",
+    "meaning": "Istirahat siang",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-040",
+    "kanji": "朝",
+    "hiragana": "あさ",
+    "romaji": "asa",
+    "meaning": "Pagi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-041",
+    "kanji": "土曜日",
+    "hiragana": "どようび",
+    "romaji": "doyoubi",
+    "meaning": "Hari sabtu",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-042",
+    "kanji": "働きます",
+    "hiragana": "はたらきます",
+    "romaji": "hatarakimasu",
+    "meaning": "Bekerja",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-043",
+    "kanji": "日曜日",
+    "hiragana": "にちようび",
+    "romaji": "nichiyoubi",
+    "meaning": "Hari minggu",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-044",
+    "kanji": "半",
+    "hiragana": "はん",
+    "romaji": "han",
+    "meaning": "Setengah",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-045",
+    "kanji": "晩",
+    "hiragana": "ばん",
+    "romaji": "ban",
+    "meaning": "Malam",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-046",
+    "kanji": "番号",
+    "hiragana": "ばんごう",
+    "romaji": "bangou",
+    "meaning": "Nomer",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-047",
+    "kanji": "美術館",
+    "hiragana": "びじゅつかん",
+    "romaji": "bijutsukan",
+    "meaning": "Gedung kesenian",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-048",
+    "kanji": "勉強します",
+    "hiragana": "べんきょうします",
+    "romaji": "benkyoushimasu",
+    "meaning": "Belajar",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-049",
+    "kanji": "毎朝",
+    "hiragana": "まいあさ",
+    "romaji": "maiasa",
+    "meaning": "Setiap pagi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-050",
+    "kanji": "毎日",
+    "hiragana": "まいにち",
+    "romaji": "mainichi",
+    "meaning": "Setiap hari",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-051",
+    "kanji": "毎晩",
+    "hiragana": "まいばん",
+    "romaji": "maiban",
+    "meaning": "Setiap malam",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-052",
+    "kanji": "明後日",
+    "hiragana": "あさって",
+    "romaji": "asatte",
+    "meaning": "Besok lusa",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-053",
+    "kanji": "明日",
+    "hiragana": "あした",
+    "romaji": "ashita",
+    "meaning": "Besok",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-054",
+    "kanji": "木曜日",
+    "hiragana": "もくようび",
+    "romaji": "mokuyoubi",
+    "meaning": "Hari kamis",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-055",
+    "kanji": "夜",
+    "hiragana": "よる",
+    "romaji": "yoru",
+    "meaning": "Malam",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-056",
+    "kanji": "郵便局",
+    "hiragana": "ゆうびんきょく",
+    "romaji": "yuubinkyoku",
+    "meaning": "Kantor pos",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-04-057",
+    "kanji": "警察署",
+    "hiragana": "けいさつしょ",
+    "romaji": "keisatsusho",
+    "meaning": "Kantor polisi",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-04-058",
+    "kanji": "時報",
+    "hiragana": "じほう",
+    "romaji": "jihou",
+    "meaning": "Pemberitahuan waktu",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-04-059",
+    "kanji": "消防署",
+    "hiragana": "しょうぼうしょ",
+    "romaji": "shoubousho",
+    "meaning": "Pemadam kebakaran",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-04-060",
+    "kanji": "天気予報",
+    "hiragana": "てんきよほう",
+    "romaji": "tenkiyohou",
+    "meaning": "Ramalan cuaca",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-04-061",
+    "kanji": "電話番号案内",
+    "hiragana": "でんわばんごうあんない",
+    "romaji": "denwabangouannai",
+    "meaning": "Petunjuk nomor telepon",
+    "level": "-",
+    "importinity": 2
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "id": "m_bab20_1",
+    "chapter": "Bab 20",
+    "source": "minna",
+    "title": "Bentuk Sopan dan Bentuk Biasa",
+    "romajiTitle": "Bentuk Sopan dan Bentuk Biasa",
+    "meaning": "Bentuk kalimat yang diakhiri です, ます disebut bentuk sopan, dipakai untuk atasan atau orang yang baru dikenal. Bentuk yang dipakai pada kalimat biasa (kasual) disebut bentuk biasa, digunakan untuk teman akrab, rekan, atau keluarga.",
+    "formula": "Bentuk Sopan (です/ます) -> Bentuk Biasa (Kamus/ない/た/だ)",
+    "examples": [
+      {
+        "jp": "あした 東京へ 行きます。 -> あした 東京へ 行く。",
+        "romaji": "Ashita Toukyou e ikimasu. -> Ashita Toukyou e iku.",
+        "id_translation": "Besok pergi ke Tokyo."
+      },
+      {
+        "jp": "毎日 忙しいです。 -> 毎日 忙しい。",
+        "romaji": "Mainichi isogashii desu. -> Mainichi isogashii.",
+        "id_translation": "Setiap hari sibuk."
+      },
+      {
+        "jp": "相撲が 好きです。 -> 相撲が 好きだ。",
+        "romaji": "Sumou ga suki desu. -> Sumou ga suki da.",
+        "id_translation": "Suka sumo."
+      }
+    ],
+    "notes": "Pada umumnya, surat tertulis dalam bentuk sopan. Untuk makalah, laporan, dan catatan harian dipakai bentuk biasa.",
+    "tags": ["N5", "Gaya Bahasa", "Bentuk Biasa"]
+  },
+  {
+    "id": "m_bab20_2",
+    "chapter": "Bab 20",
+    "source": "minna",
+    "title": "Kalimat Tanya Bentuk Biasa",
+    "romajiTitle": "Kalimat Tanya Bentuk Biasa",
+    "meaning": "Dalam kalimat tanya dengan bentuk biasa, pada umumnya partikel か tidak dibubuhkan pada akhir kalimat, tetapi diungkapkan dengan nada yang naik pada suku kata terakhir.",
+    "formula": "Bentuk Biasa + (Intonasi Naik / ➚)",
+    "examples": [
+      {
+        "jp": "コーヒーを 飲む？ (➚)",
+        "romaji": "Koohii o nomu? (➚)",
+        "id_translation": "Mau minum kopi?"
+      },
+      {
+        "jp": "……うん、飲む。 (➘)",
+        "romaji": "......Un, nomu. (➘)",
+        "id_translation": "……Ya, mau minum."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Kalimat Tanya", "Percakapan Kasual"]
+  },
+  {
+    "id": "m_bab20_3",
+    "chapter": "Bab 20",
+    "source": "minna",
+    "title": "Kalimat Tanya Kata Benda / Kata Sifat な",
+    "romajiTitle": "Kalimat Tanya Kata Benda / Kata Sifat na",
+    "meaning": "Dalam kalimat tanya dari Kata Benda atau Kata Sifat Bentuk な, bentuk biasa だ (dari です) dihilangkan. Untuk jawaban positif, だ sering dihilangkan atau ditambahkan partikel penutup (seperti よ/ね) demi menghaluskan nada ungkapan.",
+    "formula": "Kata Benda / Kata Sifat な + (tanpa だ) ?",
+    "examples": [
+      {
+        "jp": "今晩 暇？",
+        "romaji": "Konban hima?",
+        "id_translation": "Nanti malam luang?"
+      },
+      {
+        "jp": "……うん、暇／暇だ／暇だよ。",
+        "romaji": "......Un, hima / hima da / hima da yo.",
+        "id_translation": "……Ya, luang. (digunakan oleh pria/wanita)"
+      },
+      {
+        "jp": "……ううん、暇じゃ ない。",
+        "romaji": "......Uun, hima ja nai.",
+        "id_translation": "……Tidak, tidak luang."
+      }
+    ],
+    "notes": "Jika dijawab dengan bentuk だ saja (tanpa partikel akhir), memberi kesan kasar dan keras.",
+    "tags": ["N5", "Kata Benda", "Kata Sifat な"]
+  },
+  {
+    "id": "m_bab20_4",
+    "chapter": "Bab 20",
+    "source": "minna",
+    "title": "Penghilangan Partikel",
+    "romajiTitle": "Penghilangan Partikel",
+    "meaning": "Dalam kalimat bentuk biasa, jika sudah dapat mengerti hubungan dari konteks kalimat sebelum dan sesudahnya, maka partikel seperti を, へ, は, atau が adakalanya dihilangkan.",
+    "formula": "Kata Benda + (Partikel Dihilangkan) + Kata Kerja / Kata Sifat",
+    "examples": [
+      {
+        "jp": "ごはん［を］ 食べる？",
+        "romaji": "Gohan [o] taberu?",
+        "id_translation": "Mau makan?"
+      },
+      {
+        "jp": "あした 京都［へ］ 行かない？",
+        "romaji": "Ashita Kyouto [e] ikanai?",
+        "id_translation": "Bagaimana kalau besok ke Kyoto?"
+      },
+      {
+        "jp": "この りんご［は］ おいしいね。",
+        "romaji": "Kono ringo [wa] oishii ne.",
+        "id_translation": "Apel ini enak ya."
+      },
+      {
+        "jp": "そこに はさみ［が］ ある？",
+        "romaji": "Soko ni hasami [ga] aru?",
+        "id_translation": "Di situ ada gunting?"
+      }
+    ],
+    "notes": "Partikel で, に, から, まで, dan と tidak dihilangkan sebab konteksnya bisa menjadi tidak jelas.",
+    "tags": ["N5", "Partikel", "Percakapan Kasual"]
+  },
+  {
+    "id": "m_bab20_5",
+    "chapter": "Bab 20",
+    "source": "minna",
+    "title": "Penghilangan い pada Kata Kerja Bentuk ている",
+    "romajiTitle": "Penghilangan i pada Kata Kerja Bentuk teiru",
+    "meaning": "Dalam percakapan bentuk biasa, huruf い dari Kata Kerja Bentuk ている (yang menunjukkan keadaan/sedang berlangsung) sering dihilangkan menjadi てる.",
+    "formula": "Kata Kerja (Bentuk て) + る / ない (menghilangkan い)",
+    "examples": [
+      {
+        "jp": "辞書、持って ［い］る？",
+        "romaji": "Jisho, motte [i]ru?",
+        "id_translation": "Punya kamus?"
+      },
+      {
+        "jp": "……うん、持って ［い］る。",
+        "romaji": "......Un, motte [i]ru.",
+        "id_translation": "……Ya, punya."
+      },
+      {
+        "jp": "……ううん、持って ［い］ない。",
+        "romaji": "......Uun, motte [i]nai.",
+        "id_translation": "……Tidak, tidak punya."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Kata Kerja", "Bentuk Singkat"]
+  },
+  {
+    "id": "m_bab20_6",
+    "chapter": "Bab 20",
+    "source": "minna",
+    "title": "けど",
+    "romajiTitle": "kedo",
+    "meaning": "けど mempunyai fungsi yang sama dengan partikel が (sebagai kata sambung 'tetapi' atau pembuka pembicaraan), dan sering digunakan dalam percakapan sehari-hari.",
+    "formula": "Kalimat 1 (Bentuk Biasa) + けど、+ Kalimat 2",
+    "examples": [
+      {
+        "jp": "その カレー［は］ おいしい？ ……うん、辛いけど、おいしい。",
+        "romaji": "Sono karee [wa] oishii? ......Un, karai kedo, oishii.",
+        "id_translation": "Kare itu enak? ……Ya, pedas, tetapi enak."
+      },
+      {
+        "jp": "相撲の チケット［が］ あるけど、いっしょに 行かない？",
+        "romaji": "Sumou no chiketto [ga] aru kedo, issho ni ikanai?",
+        "id_translation": "Punya tiket sumo, bagaimana kalau kita pergi sama-sama?"
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Kata Sambung", "Percakapan Kasual"]
+  }
+]

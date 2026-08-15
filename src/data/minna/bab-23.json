@@ -1,0 +1,416 @@
+[
+  {
+    "id": "mn-23-001",
+    "kanji": "[お]湯",
+    "hiragana": "[お]ゆ",
+    "romaji": "[o]yu",
+    "meaning": "air panas",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-002",
+    "kanji": "ー目",
+    "hiragana": "ーめ",
+    "romaji": "-me",
+    "meaning": "yang ke ー (mengungkapkan urutan)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-003",
+    "kanji": "サイズ",
+    "hiragana": "サイズ",
+    "romaji": "saizu",
+    "meaning": "ukuran",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-004",
+    "kanji": "引きます",
+    "hiragana": "ひきますⅠ",
+    "romaji": "hikimasuⅠ",
+    "meaning": "tarik",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-005",
+    "kanji": "音",
+    "hiragana": "おと",
+    "romaji": "oto",
+    "meaning": "bunyi, suara",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-006",
+    "kanji": "何回も",
+    "hiragana": "なんかいも",
+    "romaji": "nankaimo",
+    "meaning": "berkali-kali",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-007",
+    "kanji": "回します",
+    "hiragana": "まわしますⅠ",
+    "romaji": "mawashimasuⅠ",
+    "meaning": "memutar",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-008",
+    "kanji": "角",
+    "hiragana": "かど",
+    "romaji": "kado",
+    "meaning": "sudut",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-009",
+    "kanji": "橋",
+    "hiragana": "はし",
+    "romaji": "hashi",
+    "meaning": "jembatan",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-010",
+    "kanji": "曲がります [右へ〜]",
+    "hiragana": "まがりますⅠ [みぎへ〜]",
+    "romaji": "magarimasuⅠ [migihe~]",
+    "meaning": "belok [ke kanan]",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-011",
+    "kanji": "建物",
+    "hiragana": "たてもの",
+    "romaji": "tatemono",
+    "meaning": "gedung",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-012",
+    "kanji": "故障",
+    "hiragana": "こしょう",
+    "romaji": "koshou",
+    "meaning": "kerusakan (〜します：rusak)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-013",
+    "kanji": "交差点",
+    "hiragana": "こうさてん",
+    "romaji": "kousaten",
+    "meaning": "perempatan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-014",
+    "kanji": "寂しい",
+    "hiragana": "さびしい",
+    "romaji": "sabishii",
+    "meaning": "sepi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-015",
+    "kanji": "出ます [お釣りが〜]",
+    "hiragana": "でますⅡ [おつりが〜]",
+    "romaji": "demasuⅡ [otsuriga~]",
+    "meaning": "keluar [uang kembalian]",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-016",
+    "kanji": "触ります",
+    "hiragana": "さわりますⅠ [ドアに〜]",
+    "romaji": "sawarimasuⅠ [doani~]",
+    "meaning": "menyentuh [pintu]",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-017",
+    "kanji": "信号",
+    "hiragana": "しんごう",
+    "romaji": "shingou",
+    "meaning": "lampu lalu lintas",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-018",
+    "kanji": "駐車場",
+    "hiragana": "ちゅうしゃじょう",
+    "romaji": "chuushajou",
+    "meaning": "tempat parkir",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-019",
+    "kanji": "渡ります [橋を〜]",
+    "hiragana": "わたりますⅠ [はしを〜]",
+    "romaji": "watarimasuⅠ [hashiwo~]",
+    "meaning": "menyeberang [jembatan]",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-020",
+    "kanji": "道",
+    "hiragana": "みち",
+    "romaji": "michi",
+    "meaning": "jalan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-021",
+    "kanji": "聞きます [先生に〜]",
+    "hiragana": "ききますⅠ [せんせいに〜]",
+    "romaji": "kikimasuⅠ [senseini~]",
+    "meaning": "bertanya [kepada guru]",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-022",
+    "kanji": "変えます",
+    "hiragana": "かえますⅡ",
+    "romaji": "kaemasuⅡ",
+    "meaning": "mengubah",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-023",
+    "kanji": "歩きます",
+    "hiragana": "あるきますⅠ",
+    "romaji": "arukimasuⅠ",
+    "meaning": "berjalan kaki",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-23-024",
+    "kanji": "ガソリンスタンド",
+    "hiragana": "ガソリンスタンド",
+    "romaji": "gasorinsutando",
+    "meaning": "pompa bensin",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-23-025",
+    "kanji": "一方通行",
+    "hiragana": "いっぽうつうこう",
+    "romaji": "ippoutsuukou",
+    "meaning": "satu arah",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-23-026",
+    "kanji": "右折禁止",
+    "hiragana": "うせつきんし",
+    "romaji": "usetsukinshi",
+    "meaning": "dilarang belok kanan",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-23-027",
+    "kanji": "横断歩道",
+    "hiragana": "おうだんほどう",
+    "romaji": "oudanhodou",
+    "meaning": "tempat menyeberang",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-23-028",
+    "kanji": "角",
+    "hiragana": "かど",
+    "romaji": "kado",
+    "meaning": "belokan, pengkolan, tikungan",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-23-029",
+    "kanji": "交差点",
+    "hiragana": "こうさてん",
+    "romaji": "kousaten",
+    "meaning": "perempatan",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-23-030",
+    "kanji": "高速道路",
+    "hiragana": "こうそくどうろ",
+    "romaji": "kousokudouro",
+    "meaning": "jalan tol",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-23-031",
+    "kanji": "坂",
+    "hiragana": "さか",
+    "romaji": "saka",
+    "meaning": "lereng",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-23-032",
+    "kanji": "止まれ",
+    "hiragana": "とまれ",
+    "romaji": "tomare",
+    "meaning": "berhenti",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-23-033",
+    "kanji": "車道",
+    "hiragana": "しゃどう",
+    "romaji": "shadou",
+    "meaning": "jalan mobil",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-23-034",
+    "kanji": "信号",
+    "hiragana": "しんごう",
+    "romaji": "shingou",
+    "meaning": "lampu lalu lintas",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-23-035",
+    "kanji": "進入禁止",
+    "hiragana": "しんにゅうきんし",
+    "romaji": "shinnyuukinshi",
+    "meaning": "dilarang masuk",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-23-036",
+    "kanji": "駐車禁止",
+    "hiragana": "ちゅうしゃきんし",
+    "romaji": "chuushakinshi",
+    "meaning": "dilarang parkir",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-23-037",
+    "kanji": "通り",
+    "hiragana": "とおり",
+    "romaji": "toori",
+    "meaning": "jalan",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-23-038",
+    "kanji": "踏切",
+    "hiragana": "ふみきり",
+    "romaji": "fumikiri",
+    "meaning": "lintasan kereta api",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-23-039",
+    "kanji": "道路・交通",
+    "hiragana": "どうろ・こうつう",
+    "romaji": "douro・koutsuu",
+    "meaning": "Jalan, Lalu Lintas",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-23-040",
+    "kanji": "歩道",
+    "hiragana": "ほどう",
+    "romaji": "hodou",
+    "meaning": "trotoar (tempat pejalan kaki)",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-23-041",
+    "kanji": "歩道橋",
+    "hiragana": "ほどうきょう",
+    "romaji": "hodoukyou",
+    "meaning": "jembatan penyeberangan",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-23-042",
+    "kanji": "元気茶",
+    "hiragana": "げんきちゃ",
+    "romaji": "genkicha",
+    "meaning": "teh fiksi",
+    "level": "N4",
+    "importinity": 3
+  },
+  {
+    "id": "mn-23-043",
+    "kanji": "図書館前",
+    "hiragana": "としょかんまえ",
+    "romaji": "toshokanmae",
+    "meaning": "halte bus fiksi",
+    "level": "N4",
+    "importinity": 3
+  },
+  {
+    "id": "mn-23-044",
+    "kanji": "聖徳太子",
+    "hiragana": "しょうとくたいし",
+    "romaji": "shoutokutaishi",
+    "meaning": "Pangeran Shotoku (574-622)",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-23-045",
+    "kanji": "法隆寺",
+    "hiragana": "ほうりゅうじ",
+    "romaji": "houryuuji",
+    "meaning": "nama wihara yang dibagun oleh Pangeran Shotoku pada awal abad ke tujuh di Nara",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-23-046",
+    "kanji": "本田駅",
+    "hiragana": "ほんだえき",
+    "romaji": "hondaeki",
+    "meaning": "stasiun fiksi",
+    "level": "N4",
+    "importinity": 3
+  }
+]

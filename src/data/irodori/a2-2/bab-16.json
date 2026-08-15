@@ -1,0 +1,1757 @@
+[
+  {
+    "id": "ir-a2-2-16-001",
+    "kanji": "確認する",
+    "hiragana": "かくにんする",
+    "romaji": "kakuninsuru",
+    "meaning": "mengecek",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-002",
+    "kanji": "海岸",
+    "hiragana": "かいがん",
+    "romaji": "kaigan",
+    "meaning": "pantai,  pesisir",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-003",
+    "kanji": "上陸する",
+    "hiragana": "じょうりくする",
+    "romaji": "jourikusuru",
+    "meaning": "mencapai daratan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-004",
+    "kanji": "非常に",
+    "hiragana": "ひじょうに",
+    "romaji": "hijouni",
+    "meaning": "sangat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-005",
+    "kanji": "激しい",
+    "hiragana": "はげしい",
+    "romaji": "hageshii",
+    "meaning": "kuat",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-006",
+    "kanji": "様子",
+    "hiragana": "ようす",
+    "romaji": "yousu",
+    "meaning": "kondisi,  keadaan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-007",
+    "kanji": "絶対に",
+    "hiragana": "ぜったいに",
+    "romaji": "zettaini",
+    "meaning": "apapun yang terjadi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-008",
+    "kanji": "やめる",
+    "hiragana": "やめる",
+    "romaji": "yameru",
+    "meaning": "menghentikan,  berhenti",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-009",
+    "kanji": "安全（な）",
+    "hiragana": "あんぜん（な）",
+    "romaji": "anzen(na)",
+    "meaning": "aman",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-010",
+    "kanji": "～から～にかけて",
+    "hiragana": "～から～にかけて",
+    "romaji": "~kara~nikakete",
+    "meaning": "dari ~ sampai ~",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-011",
+    "kanji": "関東（地方）",
+    "hiragana": "かんとう（ちほう）",
+    "romaji": "kantou(chihou)",
+    "meaning": "wilayah Kanto",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-012",
+    "kanji": "見込み",
+    "hiragana": "みこみ",
+    "romaji": "mikomi",
+    "meaning": "diperkirakan,  perkiraan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-013",
+    "kanji": "伊豆諸島",
+    "hiragana": "いずしょとう",
+    "romaji": "izushotou",
+    "meaning": "Kepulauan Izu",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-014",
+    "kanji": "東海",
+    "hiragana": "とうかい",
+    "romaji": "toukai",
+    "meaning": "wilayah Tokai",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-015",
+    "kanji": "局地的に",
+    "hiragana": "きょくちてきに",
+    "romaji": "kyokuchitekini",
+    "meaning": "di daerah tertentu",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-016",
+    "kanji": "係員",
+    "hiragana": "かかりいん",
+    "romaji": "kakariin",
+    "meaning": "petugas",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-017",
+    "kanji": "指示",
+    "hiragana": "しじ",
+    "romaji": "shiji",
+    "meaning": "instruksi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-018",
+    "kanji": "従う（指示に従う）",
+    "hiragana": "したがう（しじにしたがう）",
+    "romaji": "shitagau(shijinishitagau)",
+    "meaning": "mematuhi (cth : mematuhi instruksi)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-019",
+    "kanji": "年寄り / お年寄り",
+    "hiragana": "としより / おとしより",
+    "romaji": "toshiyori / otoshiyori",
+    "meaning": "lansia",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-020",
+    "kanji": "優先",
+    "hiragana": "ゆうせん",
+    "romaji": "yuusen",
+    "meaning": "diutamakan,  diprioritaskan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-021",
+    "kanji": "揺れ",
+    "hiragana": "ゆれ",
+    "romaji": "yure",
+    "meaning": "getaran,  goncangan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-022",
+    "kanji": "警戒する",
+    "hiragana": "けいかいする",
+    "romaji": "keikaisuru",
+    "meaning": "mewaspadai",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-023",
+    "kanji": "守る（身を守る）",
+    "hiragana": "まもる（みをもる）",
+    "romaji": "mamoru(miwomoru)",
+    "meaning": "melindungi (cth : melindungi diri)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-024",
+    "kanji": "家具",
+    "hiragana": "かぐ",
+    "romaji": "kagu",
+    "meaning": "furnitur,  mebel",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-025",
+    "kanji": "災害",
+    "hiragana": "さいがい",
+    "romaji": "saigai",
+    "meaning": "bencana",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-026",
+    "kanji": "台風",
+    "hiragana": "たいふう",
+    "romaji": "taifuu",
+    "meaning": "angin topan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-027",
+    "kanji": "地震",
+    "hiragana": "じしん",
+    "romaji": "jishin",
+    "meaning": "gempa bumi",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-028",
+    "kanji": "火事",
+    "hiragana": "かじ",
+    "romaji": "kaji",
+    "meaning": "kebakaran",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-029",
+    "kanji": "火災",
+    "hiragana": "かさい",
+    "romaji": "kasai",
+    "meaning": "kebakaran",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-030",
+    "kanji": "大雪",
+    "hiragana": "おおゆき",
+    "romaji": "ooyuki",
+    "meaning": "salju lebat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-031",
+    "kanji": "津波",
+    "hiragana": "つなみ",
+    "romaji": "tsunami",
+    "meaning": "tsunami",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-032",
+    "kanji": "起こる（地震が起こる）",
+    "hiragana": "おこる（じしんがおこる）",
+    "romaji": "okoru(jishingaokoru)",
+    "meaning": "terjadi (cth : terjadi gempa bumi)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-033",
+    "kanji": "揺れる",
+    "hiragana": "ゆれる",
+    "romaji": "yureru",
+    "meaning": "bergetar,  bergoncang",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-034",
+    "kanji": "火事になる",
+    "hiragana": "かじになる",
+    "romaji": "kajininaru",
+    "meaning": "berubah menjadi kebakaran",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-035",
+    "kanji": "火が出る",
+    "hiragana": "ひがでる",
+    "romaji": "higaderu",
+    "meaning": "terbakar",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-036",
+    "kanji": "積もる（雪が積もる）",
+    "hiragana": "つもる（ゆきがつもる）",
+    "romaji": "tsumoru(yukigatsumoru)",
+    "meaning": "menumpuk (cth : salju menumpuk)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-037",
+    "kanji": "ニュース",
+    "hiragana": "ニュース",
+    "romaji": "nyuusu",
+    "meaning": "berita",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-038",
+    "kanji": "緊急速報",
+    "hiragana": "きんきゅうそくほう",
+    "romaji": "kinkyuusokuhou",
+    "meaning": "laporan darurat",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-039",
+    "kanji": "避難する",
+    "hiragana": "ひなんする",
+    "romaji": "hinansuru",
+    "meaning": "mengungsi,  evakuasi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-040",
+    "kanji": "倒れる",
+    "hiragana": "たおれる",
+    "romaji": "taoreru",
+    "meaning": "jatuh",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-041",
+    "kanji": "離れる",
+    "hiragana": "はなれる",
+    "romaji": "hanareru",
+    "meaning": "menjauh",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-042",
+    "kanji": "近づく",
+    "hiragana": "ちかづく",
+    "romaji": "chikazuku",
+    "meaning": "mendekati",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-043",
+    "kanji": "隠れる",
+    "hiragana": "かくれる",
+    "romaji": "kakureru",
+    "meaning": "berlindung,  bersembunyi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-044",
+    "kanji": "あわてる",
+    "hiragana": "あわてる",
+    "romaji": "awateru",
+    "meaning": "panik",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-045",
+    "kanji": "落ち着く",
+    "hiragana": "おちつく",
+    "romaji": "ochitsuku",
+    "meaning": "tenang",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-046",
+    "kanji": "行動する",
+    "hiragana": "こうどうする",
+    "romaji": "koudousuru",
+    "meaning": "bertindak",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-047",
+    "kanji": "出る（外に出る）",
+    "hiragana": "でる（そとに出る）",
+    "romaji": "deru(sotonideru)",
+    "meaning": "keluar,  pergi ke luar",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-048",
+    "kanji": "最新",
+    "hiragana": "さいしん",
+    "romaji": "saishin",
+    "meaning": "terbaru",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-049",
+    "kanji": "震源",
+    "hiragana": "しんげん",
+    "romaji": "shingen",
+    "meaning": "pusat gempa",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-050",
+    "kanji": "海底",
+    "hiragana": "かいてい",
+    "romaji": "kaitei",
+    "meaning": "dasar laut",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-051",
+    "kanji": "～のおそれがある",
+    "hiragana": "～のおそれがある",
+    "romaji": "~noosoregaaru",
+    "meaning": "dikhawatirkan adanya ~",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-052",
+    "kanji": "緊急地震速報",
+    "hiragana": "きんきゅうじしんそくほう",
+    "romaji": "kinkyuujishinsokuhou",
+    "meaning": "peringatan dini gempa bumi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-053",
+    "kanji": "滋賀",
+    "hiragana": "しが",
+    "romaji": "shiga",
+    "meaning": "Shiga",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-054",
+    "kanji": "兵庫",
+    "hiragana": "ひょうご",
+    "romaji": "hyougo",
+    "meaning": "Hyogo",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-055",
+    "kanji": "福井",
+    "hiragana": "ふくい",
+    "romaji": "fukui",
+    "meaning": "Fukui",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-056",
+    "kanji": "三重",
+    "hiragana": "みえ",
+    "romaji": "mie",
+    "meaning": "Mie",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-057",
+    "kanji": "和歌山",
+    "hiragana": "わかやま",
+    "romaji": "wakayama",
+    "meaning": "Wakayama",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-058",
+    "kanji": "香川",
+    "hiragana": "かがわ",
+    "romaji": "kagawa",
+    "meaning": "Kagawa",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-059",
+    "kanji": "近畿地方",
+    "hiragana": "きんきちほう",
+    "romaji": "kinkichihou",
+    "meaning": "wilayah Kinki",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-060",
+    "kanji": "感じる",
+    "hiragana": "かんじる",
+    "romaji": "kanjiru",
+    "meaning": "merasakan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-061",
+    "kanji": "防災訓練",
+    "hiragana": "ぼうさいくんれん",
+    "romaji": "bousaikunren",
+    "meaning": "latihan mitigasi bencana",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-062",
+    "kanji": "避難訓練",
+    "hiragana": "ひなんくんれん",
+    "romaji": "hinankunren",
+    "meaning": "latihan evakuasi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-063",
+    "kanji": "防災頭巾",
+    "hiragana": "ぼうさいずきん",
+    "romaji": "bousaizukin",
+    "meaning": "tudung pelindung kepala saat bencana",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-064",
+    "kanji": "ヘルメット",
+    "hiragana": "ヘルメット",
+    "romaji": "herumetto",
+    "meaning": "helm",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-065",
+    "kanji": "かぶる（ヘルメットをかぶる）",
+    "hiragana": "かぶる（ヘルメットをかぶる）",
+    "romaji": "kaburu(herumettowokaburu)",
+    "meaning": "memakai (untuk bagian kepala) (cth : memakai helm)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-066",
+    "kanji": "ドア",
+    "hiragana": "ドア",
+    "romaji": "doa",
+    "meaning": "pintu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-067",
+    "kanji": "開ける",
+    "hiragana": "あける",
+    "romaji": "akeru",
+    "meaning": "membuka",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-068",
+    "kanji": "火",
+    "hiragana": "ひ",
+    "romaji": "hi",
+    "meaning": "api",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-069",
+    "kanji": "消す（火を消す）",
+    "hiragana": "けす（ひをけす）",
+    "romaji": "kesu(hiwokesu)",
+    "meaning": "memadamkan,  mematikan (cth : memadamkan api)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-070",
+    "kanji": "消火する",
+    "hiragana": "しょうかする",
+    "romaji": "shoukasuru",
+    "meaning": "memadamkan api",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-071",
+    "kanji": "消防署",
+    "hiragana": "しょうぼうしょ",
+    "romaji": "shoubousho",
+    "meaning": "pemadam kebakaran",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-072",
+    "kanji": "119番",
+    "hiragana": "ひゃくじゅうきゅうばん",
+    "romaji": "hyakujuukyuuban",
+    "meaning": "nomor telepon darurat 119 untuk pemadam kebakaran",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-073",
+    "kanji": "集まる",
+    "hiragana": "あつまる",
+    "romaji": "atsumaru",
+    "meaning": "berkumpul",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-074",
+    "kanji": "並ぶ",
+    "hiragana": "ならぶ",
+    "romaji": "narabu",
+    "meaning": "berbaris",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-075",
+    "kanji": "点呼する",
+    "hiragana": "てんこする",
+    "romaji": "tenkosuru",
+    "meaning": "mengabsen",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-076",
+    "kanji": "報告する",
+    "hiragana": "ほうこくする",
+    "romaji": "houkokusuru",
+    "meaning": "melaporkan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-077",
+    "kanji": "知らせる",
+    "hiragana": "しらせる",
+    "romaji": "shiraseru",
+    "meaning": "menginformasikan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-078",
+    "kanji": "姿勢",
+    "hiragana": "しせい",
+    "romaji": "shisei",
+    "meaning": "postur / posisi tubuh",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-079",
+    "kanji": "低くする",
+    "hiragana": "ひくくする",
+    "romaji": "hikukusuru",
+    "meaning": "merendahkan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-080",
+    "kanji": "しゃがむ",
+    "hiragana": "しゃがむ",
+    "romaji": "shagamu",
+    "meaning": "berjongkok",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-081",
+    "kanji": "ハンカチ",
+    "hiragana": "ハンカチ",
+    "romaji": "hankachi",
+    "meaning": "saputangan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-082",
+    "kanji": "口に当てる",
+    "hiragana": "くちにあてる",
+    "romaji": "kuchiniateru",
+    "meaning": "menutupi bagian mulut",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-083",
+    "kanji": "火災報知器",
+    "hiragana": "かさいほうちき",
+    "romaji": "kasaihouchiki",
+    "meaning": "alarm kebakaran",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-084",
+    "kanji": "鳴る",
+    "hiragana": "なる",
+    "romaji": "naru",
+    "meaning": "berbunyi,  berdering",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-085",
+    "kanji": "震度",
+    "hiragana": "しんど",
+    "romaji": "shindo",
+    "meaning": "intensitas seismik gempa",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-086",
+    "kanji": "おさまる（揺れがおさまる）",
+    "hiragana": "おさまる（ゆれがおさまる）",
+    "romaji": "osamaru(yuregaosamaru)",
+    "meaning": "reda,  berhenti (cth : getaran berhenti)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-087",
+    "kanji": "避難",
+    "hiragana": "ひなん",
+    "romaji": "hinan",
+    "meaning": "evakuasi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-088",
+    "kanji": "開始する",
+    "hiragana": "かいしする",
+    "romaji": "kaishisuru",
+    "meaning": "mulai",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-089",
+    "kanji": "中庭",
+    "hiragana": "なかにわ",
+    "romaji": "nakaniwa",
+    "meaning": "taman gedung",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-090",
+    "kanji": "～ごと（チームごと）",
+    "hiragana": "～ごと（チームごと）",
+    "romaji": "~goto(chiimugoto)",
+    "meaning": "tiap ~ (cth : tiap tim)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-091",
+    "kanji": "初期消火",
+    "hiragana": "しょきしょうか",
+    "romaji": "shokishouka",
+    "meaning": "memadamkam api pada tahap awal",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-092",
+    "kanji": "消火器",
+    "hiragana": "しょうかき",
+    "romaji": "shoukaki",
+    "meaning": "alat pemadam api",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-093",
+    "kanji": "逃げ遅れる",
+    "hiragana": "にげおくれる",
+    "romaji": "nigeokureru",
+    "meaning": "terlambat evakuasi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-094",
+    "kanji": "一つ一つ",
+    "hiragana": "ひとつひとつ",
+    "romaji": "hitotsuhitotsu",
+    "meaning": "satu per satu",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-095",
+    "kanji": "見て回る",
+    "hiragana": "みてまわる",
+    "romaji": "mitemawaru",
+    "meaning": "berkeliling memeriksa",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-096",
+    "kanji": "煙体験",
+    "hiragana": "けむりたいけん",
+    "romaji": "kemuritaiken",
+    "meaning": "simulasi kondisi berasap",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-097",
+    "kanji": "煙",
+    "hiragana": "けむり",
+    "romaji": "kemuri",
+    "meaning": "asap",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-098",
+    "kanji": "充満する",
+    "hiragana": "じゅうまんする",
+    "romaji": "juumansuru",
+    "meaning": "terisi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-099",
+    "kanji": "逃げる",
+    "hiragana": "にげる",
+    "romaji": "nigeru",
+    "meaning": "melarikan diri",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-100",
+    "kanji": "進む",
+    "hiragana": "すすむ",
+    "romaji": "susumu",
+    "meaning": "maju",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-101",
+    "kanji": "注意点",
+    "hiragana": "ちゅういてん",
+    "romaji": "chuuiten",
+    "meaning": "hal yang perlu diperhatikan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-102",
+    "kanji": "吸う（煙を吸う）",
+    "hiragana": "すう（けむりをすう）",
+    "romaji": "suu(kemuriwosuu)",
+    "meaning": "mengisap (cth : mengisap asap)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-103",
+    "kanji": "声",
+    "hiragana": "こえ",
+    "romaji": "koe",
+    "meaning": "suara,  panggil",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-104",
+    "kanji": "声をかけ合う",
+    "hiragana": "こえをかけあう",
+    "romaji": "koewokakeau",
+    "meaning": "saling berbicara satu sama lain,  saling memanggil satu sama lain",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-105",
+    "kanji": "床",
+    "hiragana": "ゆか",
+    "romaji": "yuka",
+    "meaning": "lantai",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-106",
+    "kanji": "安全ピン",
+    "hiragana": "あんぜんピン",
+    "romaji": "anzenpin",
+    "meaning": "pin pengaman",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-107",
+    "kanji": "レバー",
+    "hiragana": "レバー",
+    "romaji": "rebaa",
+    "meaning": "tuas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-108",
+    "kanji": "ホース",
+    "hiragana": "ホース",
+    "romaji": "hoosu",
+    "meaning": "selang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-109",
+    "kanji": "抜く",
+    "hiragana": "ぬく",
+    "romaji": "nuku",
+    "meaning": "menarik,  melepas",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-110",
+    "kanji": "先",
+    "hiragana": "さき",
+    "romaji": "saki",
+    "meaning": "ujung",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-111",
+    "kanji": "向ける",
+    "hiragana": "むける",
+    "romaji": "mukeru",
+    "meaning": "menghadap,  mengarahkan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-112",
+    "kanji": "途中",
+    "hiragana": "とちゅう",
+    "romaji": "tochuu",
+    "meaning": "tengah",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-113",
+    "kanji": "握る",
+    "hiragana": "にぎる",
+    "romaji": "nigiru",
+    "meaning": "menggenggam",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-114",
+    "kanji": "噴射する",
+    "hiragana": "ふんしゃする",
+    "romaji": "funshasuru",
+    "meaning": "menyemprotkan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-115",
+    "kanji": "左右",
+    "hiragana": "さゆう",
+    "romaji": "sayuu",
+    "meaning": "kiri dan kanan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-116",
+    "kanji": "狙う",
+    "hiragana": "ねらう",
+    "romaji": "nerau",
+    "meaning": "membidik,  mengarahkan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-117",
+    "kanji": "消える",
+    "hiragana": "きえる",
+    "romaji": "kieru",
+    "meaning": "padam",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-118",
+    "kanji": "～m（4m）",
+    "hiragana": "～メートル（よんメートル）",
+    "romaji": "~meetoru(yonmeetoru)",
+    "meaning": "~ meter (cth : 4 meter)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-119",
+    "kanji": "～秒（20秒）",
+    "hiragana": "～びょう（にじゅうびょう）",
+    "romaji": "~byou(nijuubyou)",
+    "meaning": "~ detik (cth : 20 detik)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-120",
+    "kanji": "感じる",
+    "hiragana": "かんじる",
+    "romaji": "kanjiru",
+    "meaning": "merasa,  merasakan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-121",
+    "kanji": "落ちる",
+    "hiragana": "おちる",
+    "romaji": "ochiru",
+    "meaning": "jatuh,  roboh",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-122",
+    "kanji": "ゆがむ",
+    "hiragana": "ゆがむ",
+    "romaji": "yugamu",
+    "meaning": "miring (gedung,  bangunan),  melengkung",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-123",
+    "kanji": "無理をする",
+    "hiragana": "むりをする",
+    "romaji": "muriwosuru",
+    "meaning": "memaksakan diri",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-124",
+    "kanji": "ガスコンロ",
+    "hiragana": "ガスコンロ",
+    "romaji": "gasukonro",
+    "meaning": "kompor gas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-125",
+    "kanji": "～必要がある / ない",
+    "hiragana": "～ひつようがある / ない",
+    "romaji": "~hitsuyougaaru / nai",
+    "meaning": "perlu / tidak perlu untuk ~",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-126",
+    "kanji": "天井",
+    "hiragana": "てんじょう",
+    "romaji": "tenjou",
+    "meaning": "atap,  langit-langit,  plafon",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-127",
+    "kanji": "届く",
+    "hiragana": "とどく",
+    "romaji": "todoku",
+    "meaning": "sampai,  mencapai",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-128",
+    "kanji": "危ない",
+    "hiragana": "あぶない",
+    "romaji": "abunai",
+    "meaning": "berbahaya",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-129",
+    "kanji": "町中",
+    "hiragana": "まちなか",
+    "romaji": "machinaka",
+    "meaning": "di jalan,  di kota",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-130",
+    "kanji": "屋外",
+    "hiragana": "おくがい",
+    "romaji": "okugai",
+    "meaning": "di luar ruangan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-131",
+    "kanji": "ガラス",
+    "hiragana": "ガラス",
+    "romaji": "garasu",
+    "meaning": "kaca",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-132",
+    "kanji": "影響",
+    "hiragana": "えいきょう",
+    "romaji": "eikyou",
+    "meaning": "dampak",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-133",
+    "kanji": "断水する",
+    "hiragana": "だんすいする",
+    "romaji": "dansuisuru",
+    "meaning": "pemadaman air",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-134",
+    "kanji": "止まる（水が止まる）",
+    "hiragana": "とまる（みずがとまる）",
+    "romaji": "tomaru(mizugatomaru)",
+    "meaning": "berhenti (cth : air berhenti / air tidak keluar)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-135",
+    "kanji": "停電する",
+    "hiragana": "ていでんする",
+    "romaji": "teidensuru",
+    "meaning": "pemadaman listrik",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-136",
+    "kanji": "電気",
+    "hiragana": "でんき",
+    "romaji": "denki",
+    "meaning": "listrik,  lampu",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-137",
+    "kanji": "ガス",
+    "hiragana": "ガス",
+    "romaji": "gasu",
+    "meaning": "gas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-138",
+    "kanji": "通行止め",
+    "hiragana": "つうこうどめ",
+    "romaji": "tsuukoudome",
+    "meaning": "jalan tertutup",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-139",
+    "kanji": "避難所",
+    "hiragana": "ひなんじょ",
+    "romaji": "hinanjo",
+    "meaning": "tempat evakuasi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-140",
+    "kanji": "給水車",
+    "hiragana": "きゅうすいしゃ",
+    "romaji": "kyuusuisha",
+    "meaning": "truk tangki air",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-141",
+    "kanji": "炊き出し",
+    "hiragana": "たきだし",
+    "romaji": "takidashi",
+    "meaning": "distribusi makanan darurat,  dapur umum",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-142",
+    "kanji": "必要（な）",
+    "hiragana": "ひつよう（な）",
+    "romaji": "hitsuyou(na)",
+    "meaning": "diperlukan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-143",
+    "kanji": "水",
+    "hiragana": "みず",
+    "romaji": "mizu",
+    "meaning": "air",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-144",
+    "kanji": "非常食",
+    "hiragana": "ひじょうしょく",
+    "romaji": "hijoushoku",
+    "meaning": "makanan darurat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-145",
+    "kanji": "懐中電灯",
+    "hiragana": "かいちゅうでんとう",
+    "romaji": "kaichuudentou",
+    "meaning": "senter",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-146",
+    "kanji": "ろうそく",
+    "hiragana": "ろうそく",
+    "romaji": "rousoku",
+    "meaning": "lilin",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-147",
+    "kanji": "ラジオ",
+    "hiragana": "ラジオ",
+    "romaji": "rajio",
+    "meaning": "radio",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-148",
+    "kanji": "毛布",
+    "hiragana": "もうふ",
+    "romaji": "moufu",
+    "meaning": "selimut",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-149",
+    "kanji": "寝袋",
+    "hiragana": "ねぶくろ",
+    "romaji": "nebukuro",
+    "meaning": "kantong tidur",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-150",
+    "kanji": "ポリタンク",
+    "hiragana": "ポリタンク",
+    "romaji": "poritanku",
+    "meaning": "tangki / wadah plastik",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-151",
+    "kanji": "充電（する）",
+    "hiragana": "じゅうでん（する）",
+    "romaji": "juuden(suru)",
+    "meaning": "mengecas,  mengisi daya",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-152",
+    "kanji": "小学校",
+    "hiragana": "しょうがっこう",
+    "romaji": "shougakkou",
+    "meaning": "sekolah dasar (SD)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-153",
+    "kanji": "総合福祉センター",
+    "hiragana": "そうごうふくしセンター",
+    "romaji": "sougoufukushisentaa",
+    "meaning": "pusat kesejahteraan sosial",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-154",
+    "kanji": "ショップ",
+    "hiragana": "ショップ",
+    "romaji": "shoppu",
+    "meaning": "toko",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-155",
+    "kanji": "今回",
+    "hiragana": "こんかい",
+    "romaji": "konkai",
+    "meaning": "kali ini",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-156",
+    "kanji": "レベル",
+    "hiragana": "レベル",
+    "romaji": "reberu",
+    "meaning": "level,  tingkat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-157",
+    "kanji": "一人暮らし",
+    "hiragana": "ひとりぐらし",
+    "romaji": "hitorigurashi",
+    "meaning": "hidup,  tinggal sendiri",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-158",
+    "kanji": "戻る",
+    "hiragana": "もどる",
+    "romaji": "modoru",
+    "meaning": "kembali",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-159",
+    "kanji": "早め",
+    "hiragana": "はやめ",
+    "romaji": "hayame",
+    "meaning": "lebih awal",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-160",
+    "kanji": "続く",
+    "hiragana": "つづく",
+    "romaji": "tsuzuku",
+    "meaning": "berlanjut",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-161",
+    "kanji": "容器",
+    "hiragana": "ようき",
+    "romaji": "youki",
+    "meaning": "wadah",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-162",
+    "kanji": "仮設",
+    "hiragana": "かせつ",
+    "romaji": "kasetsu",
+    "meaning": "sementara",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-163",
+    "kanji": "力",
+    "hiragana": "ちから",
+    "romaji": "chikara",
+    "meaning": "tenaga,  kekuatan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-164",
+    "kanji": "持ち出す",
+    "hiragana": "もちだす",
+    "romaji": "mochidasu",
+    "meaning": "membawa keluar",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-165",
+    "kanji": "賞味期限",
+    "hiragana": "しょうみきげん",
+    "romaji": "shoumikigen",
+    "meaning": "masa kedaluwarsa untuk dikonsumsi",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-166",
+    "kanji": "使用期限",
+    "hiragana": "しようきげん",
+    "romaji": "shiyoukigen",
+    "meaning": "masa kedaluwarsa untuk dipakai",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-167",
+    "kanji": "切れる（賞味期限が切れる）",
+    "hiragana": "きれる（しょうみきげんがきれる）",
+    "romaji": "kireru(shoumikigengakireru)",
+    "meaning": "habis,  sudah lewat (cth : sudah lewat masa kedaluwarsa untuk dikonsumsi)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-168",
+    "kanji": "切れる（電池が切れる）",
+    "hiragana": "きれる（でんちがきれる）",
+    "romaji": "kireru(denchigakireru)",
+    "meaning": "habis (cth : baterainya habis)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-169",
+    "kanji": "貴重品",
+    "hiragana": "きちょうひん",
+    "romaji": "kichouhin",
+    "meaning": "barang berharga",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-170",
+    "kanji": "電灯",
+    "hiragana": "でんとう",
+    "romaji": "dentou",
+    "meaning": "lampu listrik",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-171",
+    "kanji": "携帯ラジオ",
+    "hiragana": "けいたいうらじお",
+    "romaji": "keitaiurajio",
+    "meaning": "radio portabel",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-172",
+    "kanji": "非常持ち出し品",
+    "hiragana": "ひじょうもちだしひん",
+    "romaji": "hijoumochidashihin",
+    "meaning": "barang yang harus dibawa dalam keadaan darurat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-173",
+    "kanji": "生活（する）",
+    "hiragana": "せいかつ（する）",
+    "romaji": "seikatsu(suru)",
+    "meaning": "hidup",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-174",
+    "kanji": "下着",
+    "hiragana": "したぎ",
+    "romaji": "shitagi",
+    "meaning": "pakaian dalam",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-175",
+    "kanji": "生理用品",
+    "hiragana": "せいりようひん",
+    "romaji": "seiriyouhin",
+    "meaning": "produk kebersihan untuk menstruasi",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-176",
+    "kanji": "ウエットティッシュ",
+    "hiragana": "ウエットティッシュ",
+    "romaji": "uettoteisshu",
+    "meaning": "tisu basah",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-177",
+    "kanji": "ライター",
+    "hiragana": "ライター",
+    "romaji": "raitaa",
+    "meaning": "lighter / korek api gas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-178",
+    "kanji": "使い捨てカイロ",
+    "hiragana": "つかいすてカイロ",
+    "romaji": "tsukaisutekairo",
+    "meaning": "bantalan pemanas / penghangat sekali pakai",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-179",
+    "kanji": "粉ミルク",
+    "hiragana": "こなミルク",
+    "romaji": "konamiruku",
+    "meaning": "susu bubuk",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-180",
+    "kanji": "おむつ",
+    "hiragana": "おむつ",
+    "romaji": "omutsu",
+    "meaning": "popok",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-181",
+    "kanji": "卓上コンロ",
+    "hiragana": "たくじょうコンロ",
+    "romaji": "takujoukonro",
+    "meaning": "kompor portabel",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-182",
+    "kanji": "ガスボンベ",
+    "hiragana": "ガスボンベ",
+    "romaji": "gasubonbe",
+    "meaning": "tabung gas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-183",
+    "kanji": "なべ",
+    "hiragana": "なべ",
+    "romaji": "nabe",
+    "meaning": "panci,  periuk",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-184",
+    "kanji": "アウトドア用品",
+    "hiragana": "アウトドアようひん",
+    "romaji": "autodoayouhin",
+    "meaning": "perlengkapan untuk kegiatan luar ruangan (outdoor)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-185",
+    "kanji": "かぜ薬",
+    "hiragana": "かぜぐすり",
+    "romaji": "kazegusuri",
+    "meaning": "obat flu,  obat pilek",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-186",
+    "kanji": "ばんそうこう",
+    "hiragana": "ばんそうこう",
+    "romaji": "bansoukou",
+    "meaning": "plester,  perban (untuk menutup luka)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-187",
+    "kanji": "消毒液",
+    "hiragana": "しょうどくえき",
+    "romaji": "shoudokueki",
+    "meaning": "larutan antiseptik",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-188",
+    "kanji": "モバイルバッテリー",
+    "hiragana": "モバイルバッテリー",
+    "romaji": "mobairubatterii",
+    "meaning": "charger / pengisi daya portabel",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-189",
+    "kanji": "現金",
+    "hiragana": "げんきん",
+    "romaji": "genkin",
+    "meaning": "uang tunai",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-190",
+    "kanji": "預金通帳",
+    "hiragana": "よきんつうちょう",
+    "romaji": "yokintsuuchou",
+    "meaning": "buku tabungan rekening bank",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-191",
+    "kanji": "パスポート",
+    "hiragana": "パスポート",
+    "romaji": "pasupooto",
+    "meaning": "paspor",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-192",
+    "kanji": "健康保険証",
+    "hiragana": "けんこうほけんしょう",
+    "romaji": "kenkouhokenshou",
+    "meaning": "kartu asuransi kesehatan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-193",
+    "kanji": "外国人登録証",
+    "hiragana": "がいこくじんとうろくしょう",
+    "romaji": "gaikokujintourokushou",
+    "meaning": "kartu pendaftaran orang asing",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-194",
+    "kanji": "缶づめ",
+    "hiragana": "かんづめ",
+    "romaji": "kanzume",
+    "meaning": "makanan kaleng",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-16-195",
+    "kanji": "インスタント食品",
+    "hiragana": "インスタントしょくひん",
+    "romaji": "insutantoshokuhin",
+    "meaning": "makanan instan",
+    "level": "N4",
+    "isExtra": false
+  }
+]

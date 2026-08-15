@@ -1,0 +1,659 @@
+[
+  {
+    "id": "mn-09-001",
+    "kanji": "～から",
+    "hiragana": "～から",
+    "romaji": "~kara",
+    "meaning": "Karena",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-002",
+    "kanji": "～ちょっと。。。。",
+    "hiragana": "～ちょっと。。。。",
+    "romaji": "~chotto....",
+    "meaning": "Maaf, saya tidak bisa",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-003",
+    "kanji": "あります",
+    "hiragana": "あります",
+    "romaji": "arimasu",
+    "meaning": "Ada / mempunyai",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-004",
+    "kanji": "アルバイト",
+    "hiragana": "アルバイト",
+    "romaji": "arubaito",
+    "meaning": "Kerja paruh waktu",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-005",
+    "kanji": "いいですよ",
+    "hiragana": "いいですよ",
+    "romaji": "iidesuyo",
+    "meaning": "Boleh",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-006",
+    "kanji": "いっしょにいかがですか",
+    "hiragana": "いっしょにいかがですか",
+    "romaji": "isshoniikagadesuka",
+    "meaning": "Bagaimana kalau bersama-sama",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-007",
+    "kanji": "かたかな",
+    "hiragana": "かたかな",
+    "romaji": "katakana",
+    "meaning": "Katakana",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-008",
+    "kanji": "カラオケ",
+    "hiragana": "カラオケ",
+    "romaji": "karaoke",
+    "meaning": "Karaoke",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-009",
+    "kanji": "クラシック",
+    "hiragana": "クラシック",
+    "romaji": "kurashikku",
+    "meaning": "Klasik",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-010",
+    "kanji": "コンサート",
+    "hiragana": "コンサート",
+    "romaji": "konsaato",
+    "meaning": "Konser",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-011",
+    "kanji": "ご主人",
+    "hiragana": "ごしゅじん",
+    "romaji": "goshujin",
+    "meaning": "Suami orang lain",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-012",
+    "kanji": "スポーツ",
+    "hiragana": "スポーツ",
+    "romaji": "supootsu",
+    "meaning": "Olahraga ( O Shimasu = Berolahraga )",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-013",
+    "kanji": "だいたい",
+    "hiragana": "だいたい",
+    "romaji": "daitai",
+    "meaning": "Kira-kira",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-014",
+    "kanji": "たくさん",
+    "hiragana": "たくさん",
+    "romaji": "takusan",
+    "meaning": "Banyak",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-015",
+    "kanji": "だめですか",
+    "hiragana": "だめですか",
+    "romaji": "damedesuka",
+    "meaning": "Tidak bisa ya / tidak boleh ya",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-016",
+    "kanji": "ダンス",
+    "hiragana": "ダンス",
+    "romaji": "dansu",
+    "meaning": "Dansa ( O Shimasu = Menari / Berdansa )",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-017",
+    "kanji": "チケット",
+    "hiragana": "チケット",
+    "romaji": "chiketto",
+    "meaning": "Tiket",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-018",
+    "kanji": "どうして",
+    "hiragana": "どうして",
+    "romaji": "doushite",
+    "meaning": "Kenapa",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-019",
+    "kanji": "ひらがな",
+    "hiragana": "ひらがな",
+    "romaji": "hiragana",
+    "meaning": "Hiragana",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-020",
+    "kanji": "また今度お願いします",
+    "hiragana": "またこんどおねがいします",
+    "romaji": "matakondoonegaishimasu",
+    "meaning": "Maaf lain kali saja",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-021",
+    "kanji": "よく",
+    "hiragana": "よく",
+    "romaji": "yoku",
+    "meaning": "Dengan baik",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-022",
+    "kanji": "ローマじ",
+    "hiragana": "ローマじ",
+    "romaji": "roomaji",
+    "meaning": "Huruf latin",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-023",
+    "kanji": "飲み物",
+    "hiragana": "のみもの",
+    "romaji": "nomimono",
+    "meaning": "Minuman",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-024",
+    "kanji": "奥さん",
+    "hiragana": "おくさん",
+    "romaji": "okusan",
+    "meaning": "Istri orang lain",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-025",
+    "kanji": "音楽",
+    "hiragana": "おんがく",
+    "romaji": "ongaku",
+    "meaning": "Musik ( O Shimasu = Bermusik )",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-026",
+    "kanji": "下手な",
+    "hiragana": "へた（な）",
+    "romaji": "heta(na)",
+    "meaning": "Tidak pandai , tidak pintar , bodoh",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-027",
+    "kanji": "歌",
+    "hiragana": "うた",
+    "romaji": "uta",
+    "meaning": "Lagu ( Utaimasu = Bernyanyi )",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-028",
+    "kanji": "歌舞伎",
+    "hiragana": "かぶき",
+    "romaji": "kabuki",
+    "meaning": "Kabuki (drama tradisional jepang)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-029",
+    "kanji": "絵",
+    "hiragana": "え",
+    "romaji": "e",
+    "meaning": "Gambar",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-030",
+    "kanji": "漢字",
+    "hiragana": "かんじ",
+    "romaji": "kanji",
+    "meaning": "Kanji",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-031",
+    "kanji": "嫌いな",
+    "hiragana": "きらい（な）",
+    "romaji": "kirai(na)",
+    "meaning": "Benci",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-032",
+    "kanji": "好きな",
+    "hiragana": "すき（な）",
+    "romaji": "suki(na)",
+    "meaning": "Suka , gemar",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-033",
+    "kanji": "妻／家内",
+    "hiragana": "つま／かない",
+    "romaji": "tsuma/kanai",
+    "meaning": "Istri",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-034",
+    "kanji": "細かいお金",
+    "hiragana": "こまかいおかね",
+    "romaji": "komakaiokane",
+    "meaning": "Uang kecil, receh",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-035",
+    "kanji": "残念です",
+    "hiragana": "ざんねんです",
+    "romaji": "zannendesu",
+    "meaning": "Sayang sekali",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-036",
+    "kanji": "子供",
+    "hiragana": "こども",
+    "romaji": "kodomo",
+    "meaning": "Anak",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-037",
+    "kanji": "字",
+    "hiragana": "じ",
+    "romaji": "ji",
+    "meaning": "Huruf",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-038",
+    "kanji": "時間",
+    "hiragana": "じかん",
+    "romaji": "jikan",
+    "meaning": "Waktu",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-039",
+    "kanji": "少し",
+    "hiragana": "すこし",
+    "romaji": "sukoshi",
+    "meaning": "Sedikit",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-040",
+    "kanji": "上手な",
+    "hiragana": "じょうず（な）",
+    "romaji": "jouzu(na)",
+    "meaning": "Pandai , pintar",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-041",
+    "kanji": "全然",
+    "hiragana": "ぜんぜん",
+    "romaji": "zenzen",
+    "meaning": "Sama sekali",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-042",
+    "kanji": "早く／速く",
+    "hiragana": "はやく",
+    "romaji": "hayaku",
+    "meaning": "Dengan Cepat",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-043",
+    "kanji": "貸してください",
+    "hiragana": "かしてください",
+    "romaji": "kashitekudasai",
+    "meaning": "Tolong pinjamkan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-044",
+    "kanji": "夫／主人",
+    "hiragana": "おっと／しゅじん",
+    "romaji": "otto/shujin",
+    "meaning": "Suami",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-045",
+    "kanji": "分かります",
+    "hiragana": "わかります",
+    "romaji": "wakarimasu",
+    "meaning": "Mengerti",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-046",
+    "kanji": "野球",
+    "hiragana": "やきゅう",
+    "romaji": "yakyuu",
+    "meaning": "Baseball",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-047",
+    "kanji": "約束",
+    "hiragana": "やくそく",
+    "romaji": "yakusoku",
+    "meaning": "Janji",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-048",
+    "kanji": "用事",
+    "hiragana": "ようじ",
+    "romaji": "youji",
+    "meaning": "Urusan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-049",
+    "kanji": "旅行",
+    "hiragana": "りょこう",
+    "romaji": "ryokou",
+    "meaning": "Tamasya ( Suru = Pergi Tamasya)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-050",
+    "kanji": "料理",
+    "hiragana": "りょうり",
+    "romaji": "ryouri",
+    "meaning": "Masakan ( O Shimasu = Memasak)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-09-051",
+    "kanji": "アクション",
+    "hiragana": "アクション",
+    "romaji": "akushon",
+    "meaning": "Film action",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-052",
+    "kanji": "アニメ",
+    "hiragana": "アニメ",
+    "romaji": "anime",
+    "meaning": "Film kartun , animasi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-053",
+    "kanji": "オペラ",
+    "hiragana": "オペラ",
+    "romaji": "opera",
+    "meaning": "Opera",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-054",
+    "kanji": "サッカー",
+    "hiragana": "サッカー",
+    "romaji": "sakkaa",
+    "meaning": "Sepak bola",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-055",
+    "kanji": "ジャズ",
+    "hiragana": "ジャズ",
+    "romaji": "jazu",
+    "meaning": "Jaz",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-056",
+    "kanji": "ソフトボール",
+    "hiragana": "ソフトボール",
+    "romaji": "sofutobooru",
+    "meaning": "Softball",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-057",
+    "kanji": "ドキュメンタリー",
+    "hiragana": "ドキュメンタリー",
+    "romaji": "dokyumentarii",
+    "meaning": "Film dokumentasi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-058",
+    "kanji": "バレーボール",
+    "hiragana": "バレーボール",
+    "romaji": "bareebooru",
+    "meaning": "Voli",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-059",
+    "kanji": "ポップス",
+    "hiragana": "ポップス",
+    "romaji": "poppusu",
+    "meaning": "Pop",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-060",
+    "kanji": "ホラー",
+    "hiragana": "ホラー",
+    "romaji": "horaa",
+    "meaning": "Film horor",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-061",
+    "kanji": "ミステリー",
+    "hiragana": "ミステリー",
+    "romaji": "misuterii",
+    "meaning": "Film misteri",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-062",
+    "kanji": "ミュージカル",
+    "hiragana": "ミュージカル",
+    "romaji": "myuujikaru",
+    "meaning": "Drama musikal",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-063",
+    "kanji": "ラグビー",
+    "hiragana": "ラグビー",
+    "romaji": "ragubii",
+    "meaning": "Rugby",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-064",
+    "kanji": "ラテン",
+    "hiragana": "ラテン",
+    "romaji": "raten",
+    "meaning": "Musik latin",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-065",
+    "kanji": "ロック",
+    "hiragana": "ロック",
+    "romaji": "rokku",
+    "meaning": "Rock",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-066",
+    "kanji": "演歌",
+    "hiragana": "えんか",
+    "romaji": "enka",
+    "meaning": "Lagu tradisional jepang populer",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-067",
+    "kanji": "喜劇",
+    "hiragana": "きげき",
+    "romaji": "kigeki",
+    "meaning": "Film komedi",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-068",
+    "kanji": "剣道",
+    "hiragana": "けんどう",
+    "romaji": "kendou",
+    "meaning": "Kendo",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-069",
+    "kanji": "水泳",
+    "hiragana": "すいえい",
+    "romaji": "suiei",
+    "meaning": "Renang",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-070",
+    "kanji": "戦争",
+    "hiragana": "せんそう",
+    "romaji": "sensou",
+    "meaning": "Film peperangan",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-071",
+    "kanji": "文芸",
+    "hiragana": "ぶんげい",
+    "romaji": "bungei",
+    "meaning": "Film kesusastraan",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-072",
+    "kanji": "民謡",
+    "hiragana": "みんよう",
+    "romaji": "minyou",
+    "meaning": "Musik rakyat / nyanyian daerah",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-09-073",
+    "kanji": "恋愛",
+    "hiragana": "れんあい",
+    "romaji": "ren'ai",
+    "meaning": "Film percintaan",
+    "level": "N2",
+    "importinity": 2
+  }
+]

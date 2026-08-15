@@ -1,0 +1,587 @@
+[
+  {
+    "id": "mn-33-001",
+    "kanji": "～ほど",
+    "hiragana": "～ほど",
+    "romaji": "~hodo",
+    "meaning": "kira-kira ~",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-002",
+    "kanji": "～中",
+    "hiragana": "～ちゅう",
+    "romaji": "~chuu",
+    "meaning": "sedang ~",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-003",
+    "kanji": "あいさつ",
+    "hiragana": "あいさつ",
+    "romaji": "aisatsu",
+    "meaning": "salam（～を します：memberi salam sepatah kata pada）",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-004",
+    "kanji": "あきらめます",
+    "hiragana": "あきらめます",
+    "romaji": "akiramemasu",
+    "meaning": "putus asa",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-005",
+    "kanji": "あと～",
+    "hiragana": "あと～",
+    "romaji": "ato~",
+    "meaning": "sisa ~",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-006",
+    "kanji": "あります［電話が～］",
+    "hiragana": "あります",
+    "romaji": "arimasu",
+    "meaning": "ada [telepon]",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-007",
+    "kanji": "いくら［～ても］",
+    "hiragana": "いくら［～ても］",
+    "romaji": "ikura[~temo]",
+    "meaning": "bagaimana pun",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-008",
+    "kanji": "だめ［な］",
+    "hiragana": "だめ［な］",
+    "romaji": "dame[na]",
+    "meaning": "tidak baik",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-009",
+    "kanji": "どういう～",
+    "hiragana": "どういう～",
+    "romaji": "douiu~",
+    "meaning": "bagaimana ~",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-010",
+    "kanji": "ボール",
+    "hiragana": "ボール",
+    "romaji": "booru",
+    "meaning": "bola",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-011",
+    "kanji": "マーク",
+    "hiragana": "マーク",
+    "romaji": "maaku",
+    "meaning": "tanda, cap",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-012",
+    "kanji": "もう",
+    "hiragana": "もう",
+    "romaji": "mou",
+    "meaning": "lagi (digunakan bersama dengan bentuk negatif)",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-013",
+    "kanji": "もっと",
+    "hiragana": "もっと",
+    "romaji": "motto",
+    "meaning": "lebih",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-014",
+    "kanji": "もともと",
+    "hiragana": "もともと",
+    "romaji": "motomoto",
+    "meaning": "memang",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-015",
+    "kanji": "リサイクルします",
+    "hiragana": "リサイクルします",
+    "romaji": "risaikurushimasu",
+    "meaning": "mendaur ulang",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-016",
+    "kanji": "飲み放題",
+    "hiragana": "のみほうだい",
+    "romaji": "nomihoudai",
+    "meaning": "minum sepuasnya",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-017",
+    "kanji": "外します［席を～］",
+    "hiragana": "はずします",
+    "romaji": "hazushimasu",
+    "meaning": "meninggalkan [tempat]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-018",
+    "kanji": "割引",
+    "hiragana": "わりびき",
+    "romaji": "waribiki",
+    "meaning": "diskon",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-019",
+    "kanji": "危険",
+    "hiragana": "きけん",
+    "romaji": "kiken",
+    "meaning": "bahaya",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-020",
+    "kanji": "気持ち",
+    "hiragana": "きもち",
+    "romaji": "kimochi",
+    "meaning": "perasaan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-021",
+    "kanji": "規則",
+    "hiragana": "きそく",
+    "romaji": "kisoku",
+    "meaning": "peraturan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-022",
+    "kanji": "起きます",
+    "hiragana": "おきます",
+    "romaji": "okimasu",
+    "meaning": "terjadi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-023",
+    "kanji": "警察",
+    "hiragana": "けいさつ",
+    "romaji": "keisatsu",
+    "meaning": "polisi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-024",
+    "kanji": "使用禁止",
+    "hiragana": "しようきんし",
+    "romaji": "shiyoukinshi",
+    "meaning": "dilarang pakai",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-025",
+    "kanji": "使用中",
+    "hiragana": "しようちゅう",
+    "romaji": "shiyouchuu",
+    "meaning": "sedang dipakai",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-026",
+    "kanji": "始まります［式が～］",
+    "hiragana": "はじまります",
+    "romaji": "hajimarimasu",
+    "meaning": "[upacara] dimulai",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-027",
+    "kanji": "守ります",
+    "hiragana": "まもります",
+    "romaji": "mamorimasu",
+    "meaning": "menjaga",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-028",
+    "kanji": "出口",
+    "hiragana": "でぐち",
+    "romaji": "deguchi",
+    "meaning": "pintu keluar",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-029",
+    "kanji": "出席します［会議に～］",
+    "hiragana": "しゅっせきします",
+    "romaji": "shussekishimasu",
+    "meaning": "menghadiri [rapat]",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-030",
+    "kanji": "助け合います",
+    "hiragana": "たすけあいます",
+    "romaji": "tasukeaimasu",
+    "meaning": "bantu-membantu",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-031",
+    "kanji": "徐行",
+    "hiragana": "じょこう",
+    "romaji": "jokou",
+    "meaning": "berjalan perlahan-lahan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-032",
+    "kanji": "席",
+    "hiragana": "せき",
+    "romaji": "seki",
+    "meaning": "tempat, kursi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-033",
+    "kanji": "相手",
+    "hiragana": "あいて",
+    "romaji": "aite",
+    "meaning": "kawan, pasangan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-034",
+    "kanji": "騒ぎます",
+    "hiragana": "さわぎます",
+    "romaji": "sawagimasu",
+    "meaning": "menghebohkan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-035",
+    "kanji": "地震",
+    "hiragana": "じしん",
+    "romaji": "jishin",
+    "meaning": "gempa bumi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-036",
+    "kanji": "注意します［車に～］",
+    "hiragana": "ちゅういします",
+    "romaji": "chuuishimasu",
+    "meaning": "berhati-hati [pada mobil]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-037",
+    "kanji": "駐車違反",
+    "hiragana": "ちゅうしゃいはん",
+    "romaji": "chuushaihan",
+    "meaning": "pelanggaran lalu lintas",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-038",
+    "kanji": "締め切り",
+    "hiragana": "しめきり",
+    "romaji": "shimekiri",
+    "meaning": "batas waktu",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-039",
+    "kanji": "伝えます",
+    "hiragana": "つたえます",
+    "romaji": "tsutaemasu",
+    "meaning": "menyampaikan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-040",
+    "kanji": "投げます",
+    "hiragana": "なげます",
+    "romaji": "nagemasu",
+    "meaning": "melempar",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-041",
+    "kanji": "逃げます",
+    "hiragana": "にげます",
+    "romaji": "nigemasu",
+    "meaning": "berlari",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-042",
+    "kanji": "同じ",
+    "hiragana": "おなじ",
+    "romaji": "onaji",
+    "meaning": "sama",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-043",
+    "kanji": "入口",
+    "hiragana": "いりぐち",
+    "romaji": "iriguchi",
+    "meaning": "pintu masuk",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-044",
+    "kanji": "罰金",
+    "hiragana": "ばっきん",
+    "romaji": "bakkin",
+    "meaning": "denda",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-045",
+    "kanji": "悲しい",
+    "hiragana": "かなしい",
+    "romaji": "kanashii",
+    "meaning": "sedih",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-046",
+    "kanji": "非常口",
+    "hiragana": "ひじょうぐち",
+    "romaji": "hijouguchi",
+    "meaning": "pintu darurat",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-047",
+    "kanji": "募集中",
+    "hiragana": "ぼしゅうちゅう",
+    "romaji": "boshuuchuu",
+    "meaning": "sedang dicari",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-048",
+    "kanji": "無料",
+    "hiragana": "むりょう",
+    "romaji": "muryou",
+    "meaning": "gratis, cuma-cuma",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-049",
+    "kanji": "戻ります",
+    "hiragana": "もどります",
+    "romaji": "modorimasu",
+    "meaning": "kembali",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-050",
+    "kanji": "立入禁止",
+    "hiragana": "たちいりきんし",
+    "romaji": "tachiirikinshi",
+    "meaning": "dilarang masuk",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-33-051",
+    "kanji": "アイロン（低温）",
+    "hiragana": "アイロン（ていおん）",
+    "romaji": "airon(teion)",
+    "meaning": "Harus disetrika dalam suhu rendah",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-33-052",
+    "kanji": "ドライクリーニング",
+    "hiragana": "ドライクリーニング",
+    "romaji": "doraikuriiningu",
+    "meaning": "Hanya untuk di-dry cleaning",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-33-053",
+    "kanji": "運転初心者注意",
+    "hiragana": "うんてんしょしんしゃちゅうい",
+    "romaji": "untenshoshinshachuui",
+    "meaning": "Tanda bagi pengemudi yang baru mendapatkan SIM",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-33-054",
+    "kanji": "営業中",
+    "hiragana": "えいぎょうちゅう",
+    "romaji": "eigyouchuu",
+    "meaning": "Buka",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-33-055",
+    "kanji": "塩素系漂白剤不可",
+    "hiragana": "えんそけいひょうはくざいふか",
+    "romaji": "ensokeihyouhakuzaifuka",
+    "meaning": "Jangan gunakan pemutih",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-33-056",
+    "kanji": "化粧室",
+    "hiragana": "けしょうしつ",
+    "romaji": "keshoushitsu",
+    "meaning": "Kamar kecil/ Toilet/ WC",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-33-057",
+    "kanji": "火気厳禁",
+    "hiragana": "かきげんきん",
+    "romaji": "kakigenkin",
+    "meaning": "Mudah terbakar",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-33-058",
+    "kanji": "割れ物注意",
+    "hiragana": "われものちゅうい",
+    "romaji": "waremonochuui",
+    "meaning": "Hati-hati barang pecah belah",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-33-059",
+    "kanji": "禁煙席",
+    "hiragana": "きんえんせき",
+    "romaji": "kin'enseki",
+    "meaning": "Tempat duduk bebas rokok",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-33-060",
+    "kanji": "工事中",
+    "hiragana": "こうじちゅう",
+    "romaji": "koujichuu",
+    "meaning": "Sedang konstruksi",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-33-061",
+    "kanji": "手洗い",
+    "hiragana": "てあらい",
+    "romaji": "tearai",
+    "meaning": "Cuci dengan tangan",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-33-062",
+    "kanji": "準備中",
+    "hiragana": "じゅんびちゅう",
+    "romaji": "junbichuu",
+    "meaning": "Dalam Persiapan",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-33-063",
+    "kanji": "定休日",
+    "hiragana": "ていきゅうび",
+    "romaji": "teikyuubi",
+    "meaning": "Hari Libur",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-33-064",
+    "kanji": "閉店",
+    "hiragana": "へいてん",
+    "romaji": "heiten",
+    "meaning": "Tutup",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-33-065",
+    "kanji": "予約席",
+    "hiragana": "よやくせき",
+    "romaji": "yoyakuseki",
+    "meaning": "Tempat duduk yang telah dipesan",
+    "level": "N3",
+    "importinity": 2
+  }
+]

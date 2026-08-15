@@ -1,0 +1,114 @@
+[
+  {
+    "id": "m_bab44_1",
+    "chapter": "Bab 44",
+    "source": "minna",
+    "title": "動詞（ます形）／形容詞（い・な） すぎます",
+    "romajiTitle": "Doushi (masu-kei) / Keiyoushi (i/na) sugimasu",
+    "meaning": "Menunjuk bahwa tingkat dari perbuatan atau keadaan kelewatan (terlalu...). Biasanya digunakan jika perbuatan atau kondisinya tidak menyenangkan atau berlebihan.",
+    "formula": "Kata Kerja (Bentuk ます - hilangkan ます) / Kata Sifat い (hilangkan い) / Kata Sifat な (hilangkan な) + すぎます",
+    "examples": [
+      {
+        "jp": "ゆうべお酒を飲みすぎました。",
+        "romaji": "Yuube osake o nomisugimashita.",
+        "id_translation": "Tadi malam (saya) minum terlalu banyak minuman keras."
+      },
+      {
+        "jp": "このセーターは大きすぎます。",
+        "romaji": "Kono seetaa wa ookisugimasu.",
+        "id_translation": "Sweater ini terlalu besar."
+      },
+      {
+        "jp": "いくら好きでも、飲みすぎると、体に悪いですよ。",
+        "romaji": "Ikura suki demo, nomisugiru to, karada ni warui desu yo.",
+        "id_translation": "Walaupun suka, kalau terlalu banyak minum tidak baik untuk badan."
+      }
+    ],
+    "notes": "～すぎます dikonjugasi sebagai Kata Kerja Kelompok II (contoh: のみすぎる, のみすぎない, のみすぎた).",
+    "tags": ["N4", "Akhiran", "Tingkat Berlebihan"]
+  },
+  {
+    "id": "m_bab44_2",
+    "chapter": "Bab 44",
+    "source": "minna",
+    "title": "動詞（ます形） やすいです／にくいです",
+    "romajiTitle": "Doushi (masu-kei) yasui desu / nikui desu",
+    "meaning": "Jika menggunakan kata kerja keinginan, ～やすい bermakna melakukan aksi itu mudah, dan ～にくい bermakna sulit. Jika menggunakan kata kerja non-keinginan, ～やすい bermakna akan terjadi aksi itu dengan mudah, dan ～にくい bermakna susah terjadi.",
+    "formula": "Kata Kerja (Bentuk ます - hilangkan ます) + やすいです / にくいです",
+    "examples": [
+      {
+        "jp": "このパソコンは使いやすいです。",
+        "romaji": "Kono pasokon wa tsukaiyasui desu.",
+        "id_translation": "PC ini mudah dipakai."
+      },
+      {
+        "jp": "東京は住みにくいです。",
+        "romaji": "Toukyou wa suminikui desu.",
+        "id_translation": "Tokyo tidak nyaman untuk didiami."
+      },
+      {
+        "jp": "白いシャツは汚れやすいです。",
+        "romaji": "Shiroi shatsu wa yogoreyasui desu.",
+        "id_translation": "Kemeja putih mudah kotor."
+      },
+      {
+        "jp": "雨の日は洗濯物が乾きにくいです。",
+        "romaji": "Ame no hi wa sentakumono ga kawakinikui desu.",
+        "id_translation": "Pada hari yang hujan, cucian sulit mengering."
+      }
+    ],
+    "notes": "～やすい dan ～にくい dikonjugasi sama seperti Kata Sifat い (contoh: 飲みやすくなります, 割れにくくて).",
+    "tags": ["N4", "Akhiran", "Kemudahan/Kesulitan"]
+  },
+  {
+    "id": "m_bab44_3",
+    "chapter": "Bab 44",
+    "source": "minna",
+    "title": "形容詞（く／に）／名詞（に） します",
+    "romajiTitle": "Keiyoushi (ku/ni) / Meishi (ni) shimasu",
+    "meaning": "Ungkapan untuk menyatakan perbuatan sengaja untuk mengubah objek (merubah Kata Benda 1 menjadi keadaan tertentu). Berbeda dengan ～なります yang menyatakan perubahan alami.",
+    "formula": "Kata Sifat い (hilangkan い + く) / Kata Sifat な (hilangkan な + に) / Kata Benda + に + します",
+    "examples": [
+      {
+        "jp": "音を大きくします。",
+        "romaji": "Oto o ookiku shimasu.",
+        "id_translation": "Mengeras bunyi. (Membuat bunyi menjadi besar)"
+      },
+      {
+        "jp": "部屋をきれいにします。",
+        "romaji": "Heya o kirei ni shimasu.",
+        "id_translation": "Membersihkan kamar. (Membuat kamar menjadi bersih)"
+      },
+      {
+        "jp": "塩の量を半分にします。",
+        "romaji": "Shio no ryou o hanbun ni shimasu.",
+        "id_translation": "Mengurangi jumlah garam sampai setengah. (Membuat jumlah garam menjadi setengah)"
+      }
+    ],
+    "notes": "",
+    "tags": ["N4", "Kata Kerja", "Membuat Jadi/Mengubah"]
+  },
+  {
+    "id": "m_bab44_4",
+    "chapter": "Bab 44",
+    "source": "minna",
+    "title": "名詞 に します",
+    "romajiTitle": "Meishi ni shimasu",
+    "meaning": "Pola kalimat ini menyatakan pilihan atau keputusan akan suatu benda atau hal.",
+    "formula": "Kata Benda (Pilihan/Keputusan) + に します",
+    "examples": [
+      {
+        "jp": "部屋はシングルにしますか、ツインにしますか。",
+        "romaji": "Heya wa shinguru ni shimasu ka, tsuin ni shimasu ka.",
+        "id_translation": "Kamarnya mau single atau twin?"
+      },
+      {
+        "jp": "会議はあしたにします。",
+        "romaji": "Kaigi wa ashita ni shimasu.",
+        "id_translation": "Rapat diadakan besok. (Memutuskan rapat besok)"
+      }
+    ],
+    "notes": "",
+    "tags": ["N4", "Pola Kalimat", "Keputusan/Pilihan"]
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "ir-a1-11-001",
+    "kanji": "趣味",
+    "hiragana": "しゅみ",
+    "romaji": "shumi",
+    "meaning": "hobi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-002",
+    "kanji": "スポーツ",
+    "hiragana": "スポーツ",
+    "romaji": "supootsu",
+    "meaning": "olahraga",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-003",
+    "kanji": "音楽",
+    "hiragana": "おんがく",
+    "romaji": "ongaku",
+    "meaning": "musik",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-004",
+    "kanji": "映画",
+    "hiragana": "えいが",
+    "romaji": "eiga",
+    "meaning": "film",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-005",
+    "kanji": "読書",
+    "hiragana": "どくしょ",
+    "romaji": "dokusho",
+    "meaning": "baca",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-006",
+    "kanji": "買い物",
+    "hiragana": "かいもの",
+    "romaji": "kaimono",
+    "meaning": "belanja",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-007",
+    "kanji": "料理",
+    "hiragana": "りょうり",
+    "romaji": "ryouri",
+    "meaning": "masak",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-008",
+    "kanji": "ゲーム",
+    "hiragana": "ゲーム",
+    "romaji": "geemu",
+    "meaning": "gim (game)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-009",
+    "kanji": "マンガ",
+    "hiragana": "マンガ",
+    "romaji": "manga",
+    "meaning": "manga (komik)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-010",
+    "kanji": "アニメ",
+    "hiragana": "アニメ",
+    "romaji": "anime",
+    "meaning": "anime (animasi)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-011",
+    "kanji": "どんな",
+    "hiragana": "どんな",
+    "romaji": "donna",
+    "meaning": "seperti apa?",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-012",
+    "kanji": "バスケットボール",
+    "hiragana": "バスケットボール",
+    "romaji": "basukettobooru",
+    "meaning": "bola basket",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-013",
+    "kanji": "水泳",
+    "hiragana": "すいえい",
+    "romaji": "suiei",
+    "meaning": "renang",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-014",
+    "kanji": "大好き（な）",
+    "hiragana": "だいすき（な）",
+    "romaji": "daisuki(na)",
+    "meaning": "suka sekali",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-015",
+    "kanji": "そうですねえ",
+    "hiragana": "そうですねえ",
+    "romaji": "soudesunee",
+    "meaning": "Apa, ya...? (Ungkapan yang digunakan ketika pembicara sedang berpikir)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-016",
+    "kanji": "ドラゴンボール",
+    "hiragana": "ドラゴンボール",
+    "romaji": "doragonbooru",
+    "meaning": "Dragon Ball",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-017",
+    "kanji": "サッカー",
+    "hiragana": "サッカー",
+    "romaji": "sakkaa",
+    "meaning": "sepak bola",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-018",
+    "kanji": "ラグビー",
+    "hiragana": "ラグビー",
+    "romaji": "ragubii",
+    "meaning": "rugbi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-019",
+    "kanji": "バドミントン",
+    "hiragana": "バドミントン",
+    "romaji": "badominton",
+    "meaning": "bulu tangkis",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-020",
+    "kanji": "卓球",
+    "hiragana": "たっきゅう",
+    "romaji": "takkyuu",
+    "meaning": "tenis meja",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-021",
+    "kanji": "ミステリー",
+    "hiragana": "ミステリー",
+    "romaji": "misuterii",
+    "meaning": "misteri",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-022",
+    "kanji": "ファンタジー",
+    "hiragana": "ファンタジー",
+    "romaji": "fantajii",
+    "meaning": "fantasi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-023",
+    "kanji": "村上春樹",
+    "hiragana": "むらかみはるき",
+    "romaji": "murakamiharuki",
+    "meaning": "Murakami Haruki",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-024",
+    "kanji": "夏目漱石",
+    "hiragana": "なつめそうせき",
+    "romaji": "natsumesouseki",
+    "meaning": "Natsume Soseki",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-025",
+    "kanji": "恋愛映画",
+    "hiragana": "れんあいえいが",
+    "romaji": "ren'aieiga",
+    "meaning": "film percintaan/romansa",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-026",
+    "kanji": "アクション映画",
+    "hiragana": "アクションえいが",
+    "romaji": "akushoneiga",
+    "meaning": "film laga",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-027",
+    "kanji": "SF",
+    "hiragana": "エスエフ",
+    "romaji": "esuefu",
+    "meaning": "science fiction (fiksi ilmiah)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-028",
+    "kanji": "ホラー",
+    "hiragana": "ホラー",
+    "romaji": "horaa",
+    "meaning": "horor",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-029",
+    "kanji": "ハリー・ポッター",
+    "hiragana": "ハリー・ポッター",
+    "romaji": "harii・pottaa",
+    "meaning": "Harry Potter",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-030",
+    "kanji": "スターウォーズ",
+    "hiragana": "スターウォーズ",
+    "romaji": "sutaauoozu",
+    "meaning": "Star Wars",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-031",
+    "kanji": "ロック",
+    "hiragana": "ロック",
+    "romaji": "rokku",
+    "meaning": "rock",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-032",
+    "kanji": "ジャズ",
+    "hiragana": "ジャズ",
+    "romaji": "jazu",
+    "meaning": "jazz",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-033",
+    "kanji": "クラシック",
+    "hiragana": "クラシック",
+    "romaji": "kurashikku",
+    "meaning": "musik klasik",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-034",
+    "kanji": "クイーン",
+    "hiragana": "クイーン",
+    "romaji": "kuiin",
+    "meaning": "Queen",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-035",
+    "kanji": "ショパン",
+    "hiragana": "ショパン",
+    "romaji": "shopan",
+    "meaning": "Chopin",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-036",
+    "kanji": "聞く／聞きます",
+    "hiragana": "きく／ききます",
+    "romaji": "kiku/kikimasu",
+    "meaning": "mendengarkan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-037",
+    "kanji": "本",
+    "hiragana": "ほん",
+    "romaji": "hon",
+    "meaning": "buku",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-038",
+    "kanji": "読む／読みます",
+    "hiragana": "よむ／よみます",
+    "romaji": "yomu/yomimasu",
+    "meaning": "membaca",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-039",
+    "kanji": "テレビ",
+    "hiragana": "テレビ",
+    "romaji": "terebi",
+    "meaning": "televisi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-040",
+    "kanji": "見る／見ます",
+    "hiragana": "みる／みます",
+    "romaji": "miru/mimasu",
+    "meaning": "menonton",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-041",
+    "kanji": "する／します",
+    "hiragana": "する／します",
+    "romaji": "suru/shimasu",
+    "meaning": "melakukan,  bermain",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-042",
+    "kanji": "掃除",
+    "hiragana": "そうじ",
+    "romaji": "souji",
+    "meaning": "bersih-bersih",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-043",
+    "kanji": "洗濯",
+    "hiragana": "せんたく",
+    "romaji": "sentaku",
+    "meaning": "cuci baju",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-044",
+    "kanji": "散歩",
+    "hiragana": "さんぽ",
+    "romaji": "sanpo",
+    "meaning": "jalan-jalan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-045",
+    "kanji": "勉強する／勉強します",
+    "hiragana": "べんきょうする／べんきょうします",
+    "romaji": "benkyousuru/benkyoushimasu",
+    "meaning": "belajar",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-046",
+    "kanji": "ゆっくりする／ゆっくりします",
+    "hiragana": "ゆっくりする／ゆっくりします",
+    "romaji": "yukkurisuru/yukkurishimasu",
+    "meaning": "bersantai",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-047",
+    "kanji": "休みの日",
+    "hiragana": "やすみのひ",
+    "romaji": "yasuminohi",
+    "meaning": "hari libur",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-048",
+    "kanji": "いつも",
+    "hiragana": "いつも",
+    "romaji": "itsumo",
+    "meaning": "selalu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-049",
+    "kanji": "たいてい",
+    "hiragana": "たいてい",
+    "romaji": "taitei",
+    "meaning": "umumnya,  kebanyakan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-050",
+    "kanji": "よく",
+    "hiragana": "よく",
+    "romaji": "yoku",
+    "meaning": "sering",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-051",
+    "kanji": "ときどき",
+    "hiragana": "ときどき",
+    "romaji": "tokidoki",
+    "meaning": "kadang-kadang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-052",
+    "kanji": "あまり",
+    "hiragana": "あまり",
+    "romaji": "amari",
+    "meaning": "tidak begitu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-053",
+    "kanji": "ぜんぜん",
+    "hiragana": "ぜんぜん",
+    "romaji": "zenzen",
+    "meaning": "sama sekali",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-054",
+    "kanji": "テニス",
+    "hiragana": "テニス",
+    "romaji": "tenisu",
+    "meaning": "tenis",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-055",
+    "kanji": "パチンコ",
+    "hiragana": "パチンコ",
+    "romaji": "pachinko",
+    "meaning": "pachinko",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-056",
+    "kanji": "外",
+    "hiragana": "そと",
+    "romaji": "soto",
+    "meaning": "di luar rumah",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-057",
+    "kanji": "1人で",
+    "hiragana": "ひとりで",
+    "romaji": "hitoride",
+    "meaning": "sendirian",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-058",
+    "kanji": "ごろごろ（する）／ごろごろ（します）",
+    "hiragana": "ごろごろ（する）／ごろごろ（します）",
+    "romaji": "gorogoro(suru)/gorogoro(shimasu)",
+    "meaning": "bermalas-malasan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-059",
+    "kanji": "～かなあ",
+    "hiragana": "～かなあ",
+    "romaji": "~kanaa",
+    "meaning": "～ kali, ya. (menunjukkan bahwa pembicara berbicara sambil berpikir)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-060",
+    "kanji": "えらいですね",
+    "hiragana": "えらいですね",
+    "romaji": "eraidesune",
+    "meaning": "Itu mengagumkan/ Hebat sekali, ya.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-061",
+    "kanji": "ショッピング",
+    "hiragana": "ショッピング",
+    "romaji": "shoppingu",
+    "meaning": "belanja",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-062",
+    "kanji": "ファッション",
+    "hiragana": "ファッション",
+    "romaji": "fasshon",
+    "meaning": "fesyen, mode",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-063",
+    "kanji": "投稿",
+    "hiragana": "とうこう",
+    "romaji": "toukou",
+    "meaning": "unggahan (postingan)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-064",
+    "kanji": "フォロワー",
+    "hiragana": "フォロワー",
+    "romaji": "forowaa",
+    "meaning": "pengikut",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-065",
+    "kanji": "フォロー中",
+    "hiragana": "フォローちゅう",
+    "romaji": "foroochuu",
+    "meaning": "mengikuti",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-11-066",
+    "kanji": "募集中",
+    "hiragana": "ぼしゅうちゅう",
+    "romaji": "boshuuchuu",
+    "meaning": "sedang mencari ～",
+    "level": "N2",
+    "isExtra": false
+  }
+]

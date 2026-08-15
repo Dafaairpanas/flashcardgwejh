@@ -1,0 +1,785 @@
+[
+  {
+    "id": "mn-27-001",
+    "kanji": "～しか",
+    "hiragana": "～しか",
+    "romaji": "~shika",
+    "meaning": "hanya ~ (dipakai bersama dengan kata bentuk negatif)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-002",
+    "kanji": "～教室",
+    "hiragana": "～きょうしつ",
+    "romaji": "~kyoushitsu",
+    "meaning": "les ~, kelas ~",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-003",
+    "kanji": "～後",
+    "hiragana": "～ご",
+    "romaji": "~go",
+    "meaning": "setelah ~, sesudah ~",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-004",
+    "kanji": "いつか",
+    "hiragana": "いつか",
+    "romaji": "itsuka",
+    "meaning": "kapan-kapan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-005",
+    "kanji": "キッチン",
+    "hiragana": "キッチン",
+    "romaji": "kitchin",
+    "meaning": "dapur",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-006",
+    "kanji": "クリーニング",
+    "hiragana": "クリーニング",
+    "romaji": "kuriiningu",
+    "meaning": "laundry",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-007",
+    "kanji": "すばらしい",
+    "hiragana": "すばらしい",
+    "romaji": "subarashii",
+    "meaning": "bagus",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-008",
+    "kanji": "できます［道が～］",
+    "hiragana": "できます",
+    "romaji": "dekimasu",
+    "meaning": "[jalan] dibuat",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-009",
+    "kanji": "ドラえもん",
+    "hiragana": "ドラえもん",
+    "romaji": "doraemon",
+    "meaning": "nama peran komik",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-010",
+    "kanji": "パーティールーム",
+    "hiragana": "パーティールーム",
+    "romaji": "paateiiruumu",
+    "meaning": "ruang pesta",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-011",
+    "kanji": "はっきり",
+    "hiragana": "はっきり",
+    "romaji": "hakkiri",
+    "meaning": "jelas",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-012",
+    "kanji": "ペット",
+    "hiragana": "ペット",
+    "romaji": "petto",
+    "meaning": "hewan peliharaan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-013",
+    "kanji": "ほかの",
+    "hiragana": "ほかの",
+    "romaji": "hokano",
+    "meaning": "lain",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-014",
+    "kanji": "ポケット",
+    "hiragana": "ポケット",
+    "romaji": "poketto",
+    "meaning": "kantong",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-015",
+    "kanji": "マンション",
+    "hiragana": "マンション",
+    "romaji": "manshon",
+    "meaning": "apartemen",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-016",
+    "kanji": "家",
+    "hiragana": "いえ",
+    "romaji": "ie",
+    "meaning": "rumah",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-017",
+    "kanji": "家具",
+    "hiragana": "かぐ",
+    "romaji": "kagu",
+    "meaning": "perabot rumah, mebel",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-018",
+    "kanji": "花火",
+    "hiragana": "はなび",
+    "romaji": "hanabi",
+    "meaning": "kembang api",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-019",
+    "kanji": "開きます［教室を～］",
+    "hiragana": "ひらきます",
+    "romaji": "hirakimasu",
+    "meaning": "membuka/mengadakan [kelas]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-020",
+    "kanji": "空",
+    "hiragana": "そら",
+    "romaji": "sora",
+    "meaning": "langit",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-021",
+    "kanji": "形",
+    "hiragana": "かたち",
+    "romaji": "katachi",
+    "meaning": "sosok, bentuk",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-022",
+    "kanji": "建てます",
+    "hiragana": "たてます",
+    "romaji": "tatemasu",
+    "meaning": "membangun",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-023",
+    "kanji": "見えます［山が～］",
+    "hiragana": "みえます",
+    "romaji": "miemasu",
+    "meaning": "[gunung] terlihat",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-024",
+    "kanji": "子どもたち",
+    "hiragana": "こどもたち",
+    "romaji": "kodomotachi",
+    "meaning": "anak-anak",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-025",
+    "kanji": "飼います",
+    "hiragana": "かいます",
+    "romaji": "kaimasu",
+    "meaning": "memelihara",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-026",
+    "kanji": "自分",
+    "hiragana": "じぶん",
+    "romaji": "jibun",
+    "meaning": "diri sendiri",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-027",
+    "kanji": "自由に",
+    "hiragana": "じゆうに",
+    "romaji": "jiyuuni",
+    "meaning": "dengan bebas",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-028",
+    "kanji": "主人公",
+    "hiragana": "しゅじんこう",
+    "romaji": "shujinkou",
+    "meaning": "pelaku utama",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-029",
+    "kanji": "将来",
+    "hiragana": "しょうらい",
+    "romaji": "shourai",
+    "meaning": "masa depan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-030",
+    "kanji": "心配［な］",
+    "hiragana": "しんぱい［な］",
+    "romaji": "shinpai[na]",
+    "meaning": "khawatir",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-031",
+    "kanji": "声",
+    "hiragana": "こえ",
+    "romaji": "koe",
+    "meaning": "suara",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-032",
+    "kanji": "昔",
+    "hiragana": "むかし",
+    "romaji": "mukashi",
+    "meaning": "dulu",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-033",
+    "kanji": "走ります［道を～］",
+    "hiragana": "はしります",
+    "romaji": "hashirimasu",
+    "meaning": "berlari [jalan]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-034",
+    "kanji": "大好き［な］",
+    "hiragana": "だいすき［な］",
+    "romaji": "daisuki[na]",
+    "meaning": "kesukaan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-035",
+    "kanji": "鳥",
+    "hiragana": "とり",
+    "romaji": "tori",
+    "meaning": "burung",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-036",
+    "kanji": "道具",
+    "hiragana": "どうぐ",
+    "romaji": "dougu",
+    "meaning": "alat",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-037",
+    "kanji": "波",
+    "hiragana": "なみ",
+    "romaji": "nami",
+    "meaning": "ombak, gelombang",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-038",
+    "kanji": "飛びます",
+    "hiragana": "とびます",
+    "romaji": "tobimasu",
+    "meaning": "terbang",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-039",
+    "kanji": "不思議［な］",
+    "hiragana": "ふしぎ［な］",
+    "romaji": "fushigi[na]",
+    "meaning": "ajaib",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-040",
+    "kanji": "付けます",
+    "hiragana": "つけます",
+    "romaji": "tsukemasu",
+    "meaning": "memasang",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-041",
+    "kanji": "聞こえます［音が～］",
+    "hiragana": "きこえます",
+    "romaji": "kikoemasu",
+    "meaning": "[bunyi] terdengar",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-042",
+    "kanji": "方",
+    "hiragana": "かた",
+    "romaji": "kata",
+    "meaning": "orang (Kata Hormat dari ひと)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-043",
+    "kanji": "本棚",
+    "hiragana": "ほんだな",
+    "romaji": "hondana",
+    "meaning": "lemari buku",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-044",
+    "kanji": "例えば",
+    "hiragana": "たとえば",
+    "romaji": "tatoeba",
+    "meaning": "misalnya",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-27-045",
+    "kanji": "ATM",
+    "hiragana": "ATM",
+    "romaji": "ATM",
+    "meaning": "ATM",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-046",
+    "kanji": "クリーニング屋",
+    "hiragana": "クリーニングや",
+    "romaji": "kuriininguya",
+    "meaning": "Laundry",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-047",
+    "kanji": "コピー、ファクス",
+    "hiragana": "コピー、ファクス",
+    "romaji": "kopii,fakusu",
+    "meaning": "Fotocopy, FAX",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-048",
+    "kanji": "コンサートチケットの販売",
+    "hiragana": "コンサートチケットのはんばい",
+    "romaji": "konsaatochikettonohanbai",
+    "meaning": "Penjualan Karcis Konser",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-049",
+    "kanji": "コンビニ",
+    "hiragana": "コンビニ",
+    "romaji": "konbini",
+    "meaning": "Toko 24 Jam",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-050",
+    "kanji": "サービスサイズ",
+    "hiragana": "サービスサイズ",
+    "romaji": "saabisusaizu",
+    "meaning": "Ukuran servis",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-051",
+    "kanji": "サイズ直し",
+    "hiragana": "サイズなおし",
+    "romaji": "saizunaoshi",
+    "meaning": "Permak Ukuran",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-052",
+    "kanji": "スライド",
+    "hiragana": "スライド",
+    "romaji": "suraido",
+    "meaning": "Slide",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-053",
+    "kanji": "つま先修理",
+    "hiragana": "つまさきしゅうり",
+    "romaji": "tsumasakishuuri",
+    "meaning": "Perbaikan Ujung Sepatu",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-054",
+    "kanji": "ドライクリーニング",
+    "hiragana": "ドライクリーニング",
+    "romaji": "doraikuriiningu",
+    "meaning": "Dry cleaning/Mencuci Tanpa Air",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-055",
+    "kanji": "ネガ",
+    "hiragana": "ネガ",
+    "romaji": "nega",
+    "meaning": "Klise",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-056",
+    "kanji": "はがき・切手の販売",
+    "hiragana": "はがき・きってのはんばい",
+    "romaji": "hagaki・kittenohanbai",
+    "meaning": "Penjualan Kartu Pos, perangko",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-057",
+    "kanji": "はっ水加工",
+    "hiragana": "はっすいかこう",
+    "romaji": "hassuikakou",
+    "meaning": "Pengolahan Anti Air",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-058",
+    "kanji": "パノラマサイズ",
+    "hiragana": "パノラマサイズ",
+    "romaji": "panoramasaizu",
+    "meaning": "Ukuran panorama",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-059",
+    "kanji": "ハンドル・持ち手交換",
+    "hiragana": "ハンドル・もちてこうかん",
+    "romaji": "handoru・mochitekoukan",
+    "meaning": "Ganti Setir・Pegangan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-060",
+    "kanji": "ヒール・かかと修理",
+    "hiragana": "ヒール・かかとしゅうり",
+    "romaji": "hiiru・kakatoshuuri",
+    "meaning": "Perbaikan Hak・Sol",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-061",
+    "kanji": "ファスナー交換",
+    "hiragana": "ファスナーこうかん",
+    "romaji": "fasunaakoukan",
+    "meaning": "Ganti Ritsleting",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-062",
+    "kanji": "プリント",
+    "hiragana": "プリント",
+    "romaji": "purinto",
+    "meaning": "Cetak",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-063",
+    "kanji": "ほつれ・縫い目の修理",
+    "hiragana": "ほつれ・ぬいめのしゅうり",
+    "romaji": "hotsure・nuimenoshuuri",
+    "meaning": "Perbaikan jahitan lepas・Mata Jahitan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-064",
+    "kanji": "ほとんど",
+    "hiragana": "ほとんど",
+    "romaji": "hotondo",
+    "meaning": "hampir",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-065",
+    "kanji": "ロボット",
+    "hiragana": "ロボット",
+    "romaji": "robotto",
+    "meaning": "robot",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-066",
+    "kanji": "引き伸ばし",
+    "hiragana": "ひきのばし",
+    "romaji": "hikinobashi",
+    "meaning": "Cetak perbesar",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-067",
+    "kanji": "近くの店",
+    "hiragana": "ちかくのみせ",
+    "romaji": "chikakunomise",
+    "meaning": "Toko Di Sekitar Lingkungan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-068",
+    "kanji": "靴・かばん修理, 合いかぎ",
+    "hiragana": "くつ・かばんしゅうり、あいかぎ",
+    "romaji": "kutsu・kabanshuuri,aikagi",
+    "meaning": "Perbaikan Sepatu・Tas, Kunci Cadangan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-069",
+    "kanji": "現像",
+    "hiragana": "げんぞう",
+    "romaji": "genzou",
+    "meaning": "Cuci film",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-070",
+    "kanji": "公共料金等の支払い",
+    "hiragana": "こうきょうりょうきんとうのしはらい",
+    "romaji": "koukyouryoukintounoshiharai",
+    "meaning": "Pembayaran Rekening Listrik, Air PAM dan lain-lain",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-071",
+    "kanji": "合いかぎ",
+    "hiragana": "あいかぎ",
+    "romaji": "aikagi",
+    "meaning": "Kunci Cadangan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-072",
+    "kanji": "自動販売機",
+    "hiragana": "じどうはんばいき",
+    "romaji": "jidouhanbaiki",
+    "meaning": "mesin penjual otomatis",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-073",
+    "kanji": "写真屋",
+    "hiragana": "しゃしんや",
+    "romaji": "shashinya",
+    "meaning": "Tempat cuci cetak foto",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-074",
+    "kanji": "写真現像",
+    "hiragana": "しゃしんげんぞう",
+    "romaji": "shashingenzou",
+    "meaning": "Cuci cetak foto",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-075",
+    "kanji": "取ります",
+    "hiragana": "とります",
+    "romaji": "torimasu",
+    "meaning": "mengambil, cuti",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-076",
+    "kanji": "縮む",
+    "hiragana": "ちぢむ",
+    "romaji": "chijimu",
+    "meaning": "menyusut",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-077",
+    "kanji": "焼き増し",
+    "hiragana": "やきまし",
+    "romaji": "yakimashi",
+    "meaning": "Cetak tambah",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-078",
+    "kanji": "伸びる",
+    "hiragana": "のびる",
+    "romaji": "nobiru",
+    "meaning": "molor",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-079",
+    "kanji": "水洗い",
+    "hiragana": "みずあらい",
+    "romaji": "mizuarai",
+    "meaning": "Mencuci dengan Air",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-080",
+    "kanji": "染み抜き",
+    "hiragana": "しみぬき",
+    "romaji": "shiminuki",
+    "meaning": "Menghilangkan Noda Bintik",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-081",
+    "kanji": "宅配便の受け付け",
+    "hiragana": "たくはいびんのうけつけ",
+    "romaji": "takuhaibinnouketsuke",
+    "meaning": "Jasa Penerimaan Titipan Kilat",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-082",
+    "kanji": "中敷き交換",
+    "hiragana": "なかじきこうかん",
+    "romaji": "nakajikikoukan",
+    "meaning": "Ganti Pengalas Dalam",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-083",
+    "kanji": "昼間",
+    "hiragana": "ひるま",
+    "romaji": "hiruma",
+    "meaning": "waktu siang",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-084",
+    "kanji": "通信販売",
+    "hiragana": "つうしんはんばい",
+    "romaji": "tsuushinhanbai",
+    "meaning": "penjualan memalui pos",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-085",
+    "kanji": "日曜大工",
+    "hiragana": "にちようだいく",
+    "romaji": "nichiyoudaiku",
+    "meaning": "bertukang dihari minggu",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-086",
+    "kanji": "漫画",
+    "hiragana": "まんが",
+    "romaji": "manga",
+    "meaning": "komik, kartun",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-27-087",
+    "kanji": "夢",
+    "hiragana": "ゆめ",
+    "romaji": "yume",
+    "meaning": "mimpi, impian",
+    "level": "N3",
+    "importinity": 2
+  }
+]

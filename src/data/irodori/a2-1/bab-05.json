@@ -1,0 +1,470 @@
+[
+  {
+    "id": "ir-a2-1-05-001",
+    "kanji": "どんな",
+    "hiragana": "どんな",
+    "romaji": "donna",
+    "meaning": "bagaimana",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-002",
+    "kanji": "町",
+    "hiragana": "まち",
+    "romaji": "machi",
+    "meaning": "kota",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-003",
+    "kanji": "便利（な）",
+    "hiragana": "べんり（な）",
+    "romaji": "benri(na)",
+    "meaning": "praktis",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-004",
+    "kanji": "不便（な）",
+    "hiragana": "ふべん（な）",
+    "romaji": "fuben(na)",
+    "meaning": "tidak praktis",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-005",
+    "kanji": "にぎやか（な）",
+    "hiragana": "にぎやか（な）",
+    "romaji": "nigiyaka(na)",
+    "meaning": "ramai",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-006",
+    "kanji": "緑",
+    "hiragana": "みどり",
+    "romaji": "midori",
+    "meaning": "pepohonan,  tanaman hijau",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-007",
+    "kanji": "多い",
+    "hiragana": "おおい",
+    "romaji": "ooi",
+    "meaning": "banyak",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-008",
+    "kanji": "少ない",
+    "hiragana": "すくない",
+    "romaji": "sukunai",
+    "meaning": "sedikit",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-009",
+    "kanji": "人",
+    "hiragana": "ひと",
+    "romaji": "hito",
+    "meaning": "orang",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-010",
+    "kanji": "やさしい",
+    "hiragana": "やさしい",
+    "romaji": "yasashii",
+    "meaning": "ramah",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-011",
+    "kanji": "親切（な）",
+    "hiragana": "しんせつ（な）",
+    "romaji": "shinsetsu(na)",
+    "meaning": "baik hati",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-012",
+    "kanji": "冷たい",
+    "hiragana": "つめたい",
+    "romaji": "tsumetai",
+    "meaning": "dingin (sikap),  tidak peduli",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-013",
+    "kanji": "田舎",
+    "hiragana": "いなか",
+    "romaji": "inaka",
+    "meaning": "desa,  pedesaan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-014",
+    "kanji": "都会",
+    "hiragana": "とかい",
+    "romaji": "tokai",
+    "meaning": "kota",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-015",
+    "kanji": "きれい（な）",
+    "hiragana": "きれい（な）",
+    "romaji": "kirei(na)",
+    "meaning": "indah",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-016",
+    "kanji": "確かに",
+    "hiragana": "たしかに",
+    "romaji": "tashikani",
+    "meaning": "pastinya",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-017",
+    "kanji": "住みやすい",
+    "hiragana": "すみやすい",
+    "romaji": "sumiyasui",
+    "meaning": "nyaman",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-018",
+    "kanji": "店",
+    "hiragana": "みせ",
+    "romaji": "mise",
+    "meaning": "toko / restoran",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-019",
+    "kanji": "安い",
+    "hiragana": "やすい",
+    "romaji": "yasui",
+    "meaning": "murah",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-020",
+    "kanji": "おもしろい",
+    "hiragana": "おもしろい",
+    "romaji": "omoshiroi",
+    "meaning": "menarik",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-021",
+    "kanji": "遠い",
+    "hiragana": "とおい",
+    "romaji": "tooi",
+    "meaning": "jauh",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-022",
+    "kanji": "どこか",
+    "hiragana": "どこか",
+    "romaji": "dokoka",
+    "meaning": "suatu tempat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-023",
+    "kanji": "ところ",
+    "hiragana": "ところ",
+    "romaji": "tokoro",
+    "meaning": "tempat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-024",
+    "kanji": "スポーツセンター",
+    "hiragana": "スポーツセンター",
+    "romaji": "supootsusentaa",
+    "meaning": "sports center,  pusat olahraga",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-025",
+    "kanji": "建物",
+    "hiragana": "たてもの",
+    "romaji": "tatemono",
+    "meaning": "bangunan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-026",
+    "kanji": "ショッピングモール",
+    "hiragana": "ショッピングモール",
+    "romaji": "shoppingumooru",
+    "meaning": "pusat perbelanjaan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-027",
+    "kanji": "一度",
+    "hiragana": "いちど",
+    "romaji": "ichido",
+    "meaning": "sekali,  satu kali",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-028",
+    "kanji": "行ってみる",
+    "hiragana": "いってみる",
+    "romaji": "ittemiru",
+    "meaning": "mencoba pergi",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-029",
+    "kanji": "場所",
+    "hiragana": "ばしょ",
+    "romaji": "basho",
+    "meaning": "tempat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-030",
+    "kanji": "ぜひ",
+    "hiragana": "ぜひ",
+    "romaji": "zehi",
+    "meaning": "pastikan,  jangan sampai tidak",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-031",
+    "kanji": "おすすめ",
+    "hiragana": "おすすめ",
+    "romaji": "osusume",
+    "meaning": "direkomendasikan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-032",
+    "kanji": "知っている",
+    "hiragana": "しっている",
+    "romaji": "shitteiru",
+    "meaning": "mengetahui",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-033",
+    "kanji": "知る",
+    "hiragana": "しる",
+    "romaji": "shiru",
+    "meaning": "mengetahui",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-034",
+    "kanji": "休憩所",
+    "hiragana": "きゅうけいじょ",
+    "romaji": "kyuukeijo",
+    "meaning": "tempat istirahat",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-035",
+    "kanji": "そうね……",
+    "hiragana": "そうね……",
+    "romaji": "soune……",
+    "meaning": "Hmm... (digunakan saat pembicara sedang berpikir)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-036",
+    "kanji": "そうだなあ",
+    "hiragana": "そうだなあ",
+    "romaji": "soudanaa",
+    "meaning": "Hmm...apa ya.. (digunakan saat pembicara sedang berpikir)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-037",
+    "kanji": "美しい",
+    "hiragana": "うつくしい",
+    "romaji": "utsukushii",
+    "meaning": "indah",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-038",
+    "kanji": "砂浜",
+    "hiragana": "すなはま",
+    "romaji": "sunahama",
+    "meaning": "pantai berpasir",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-039",
+    "kanji": "有名（な）",
+    "hiragana": "ゆうめい（な）",
+    "romaji": "yuumei(na)",
+    "meaning": "terkenal",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-040",
+    "kanji": "泳ぐ",
+    "hiragana": "およぐ",
+    "romaji": "oyogu",
+    "meaning": "berenang",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-041",
+    "kanji": "丘",
+    "hiragana": "おか",
+    "romaji": "oka",
+    "meaning": "bukit",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-042",
+    "kanji": "見渡す",
+    "hiragana": "みわたす",
+    "romaji": "miwatasu",
+    "meaning": "memandang/melihat ke sekeliling",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-043",
+    "kanji": "夕日",
+    "hiragana": "ゆうひ",
+    "romaji": "yuuhi",
+    "meaning": "matahari terbenam",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-044",
+    "kanji": "タウンマップ",
+    "hiragana": "タウンマップ",
+    "romaji": "taunmappu",
+    "meaning": "peta kota",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-045",
+    "kanji": "名物",
+    "hiragana": "めいぶつ",
+    "romaji": "meibutsu",
+    "meaning": "makanan khas lokal",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-046",
+    "kanji": "評判",
+    "hiragana": "ひょうばん",
+    "romaji": "hyouban",
+    "meaning": "reputasi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-047",
+    "kanji": "～ha",
+    "hiragana": "～ヘクタール",
+    "romaji": "~hekutaaru",
+    "meaning": "~ ha (hektar, 1 ha = 10,000 m²)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-048",
+    "kanji": "バーベキュー場",
+    "hiragana": "バーベキューじょう",
+    "romaji": "baabekyuujou",
+    "meaning": "area barbeku (BBQ)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-049",
+    "kanji": "サイクリングコース",
+    "hiragana": "サイクリングコース",
+    "romaji": "saikuringukoosu",
+    "meaning": "jalur sepeda",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-050",
+    "kanji": "人気",
+    "hiragana": "にんき",
+    "romaji": "ninki",
+    "meaning": "populer",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-051",
+    "kanji": "ビーチ",
+    "hiragana": "ビーチ",
+    "romaji": "biichi",
+    "meaning": "pantai",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-05-052",
+    "kanji": "展望台",
+    "hiragana": "てんぼうだい",
+    "romaji": "tenboudai",
+    "meaning": "observatorium",
+    "level": "N1",
+    "isExtra": false
+  }
+]

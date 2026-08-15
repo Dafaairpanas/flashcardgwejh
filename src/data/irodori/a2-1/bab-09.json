@@ -1,0 +1,578 @@
+[
+  {
+    "id": "ir-a2-1-09-001",
+    "kanji": "日本語学校",
+    "hiragana": "にほんごがっこう",
+    "romaji": "nihongogakkou",
+    "meaning": "Sekolah bahasa Jepang",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-002",
+    "kanji": "高校",
+    "hiragana": "こうこう",
+    "romaji": "koukou",
+    "meaning": "SMA",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-003",
+    "kanji": "どれぐらい",
+    "hiragana": "どれぐらい",
+    "romaji": "doregurai",
+    "meaning": "berapa lama",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-004",
+    "kanji": "上手（な）",
+    "hiragana": "じょうず（な）",
+    "romaji": "jouzu(na)",
+    "meaning": "pandai / terampil",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-005",
+    "kanji": "～間（2年間）",
+    "hiragana": "～かん（にねんかん）",
+    "romaji": "~kan(ninenkan)",
+    "meaning": "selama ~ (selama 2 tahun)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-006",
+    "kanji": "自分で",
+    "hiragana": "じぶんで",
+    "romaji": "jibunde",
+    "meaning": "melakukan sendiri",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-007",
+    "kanji": "まだまだです",
+    "hiragana": "まだまだです",
+    "romaji": "madamadadesu",
+    "meaning": "masih belum begitu mahir.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-008",
+    "kanji": "そんなことないです",
+    "hiragana": "そんなことないです",
+    "romaji": "sonnakotonaidesu",
+    "meaning": "tidak juga",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-009",
+    "kanji": "大学",
+    "hiragana": "だいがく",
+    "romaji": "daigaku",
+    "meaning": "universitas",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-010",
+    "kanji": "ラジオ",
+    "hiragana": "ラジオ",
+    "romaji": "rajio",
+    "meaning": "radio",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-011",
+    "kanji": "ネット",
+    "hiragana": "ネット",
+    "romaji": "netto",
+    "meaning": "internet",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-012",
+    "kanji": "アプリ",
+    "hiragana": "アプリ",
+    "romaji": "apuri",
+    "meaning": "aplikasi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-013",
+    "kanji": "日本語",
+    "hiragana": "にほんご",
+    "romaji": "nihongo",
+    "meaning": "Bahasa Jepang",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-014",
+    "kanji": "勉強",
+    "hiragana": "べんきょう",
+    "romaji": "benkyou",
+    "meaning": "belajar",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-015",
+    "kanji": "簡単（な）",
+    "hiragana": "かんたん（な）",
+    "romaji": "kantan(na)",
+    "meaning": "mudah,  gampang",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-016",
+    "kanji": "難しい",
+    "hiragana": "むずかしい",
+    "romaji": "muzukashii",
+    "meaning": "susah,  sulit",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-017",
+    "kanji": "似ている",
+    "hiragana": "にている",
+    "romaji": "niteiru",
+    "meaning": "serupa,  mirip",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-018",
+    "kanji": "違う",
+    "hiragana": "ちがう",
+    "romaji": "chigau",
+    "meaning": "berbeda",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-019",
+    "kanji": "得意（な）",
+    "hiragana": "とくい（な）",
+    "romaji": "tokui(na)",
+    "meaning": "mahir,  pandai",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-020",
+    "kanji": "苦手（な）",
+    "hiragana": "にがて（な）",
+    "romaji": "nigate(na)",
+    "meaning": "tidak mahir,  tidak pandai",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-021",
+    "kanji": "文法",
+    "hiragana": "ぶんぽう",
+    "romaji": "bunpou",
+    "meaning": "tata bahasa",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-022",
+    "kanji": "発音",
+    "hiragana": "はつおん",
+    "romaji": "hatsuon",
+    "meaning": "pelafalan,  pengucapan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-023",
+    "kanji": "文字",
+    "hiragana": "もじ",
+    "romaji": "moji",
+    "meaning": "huruf",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-024",
+    "kanji": "ひらがな",
+    "hiragana": "ひらがな",
+    "romaji": "hiragana",
+    "meaning": "hiragana",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-025",
+    "kanji": "カタカナ",
+    "hiragana": "カタカナ",
+    "romaji": "katakana",
+    "meaning": "katakana",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-026",
+    "kanji": "漢字",
+    "hiragana": "かんじ",
+    "romaji": "kanji",
+    "meaning": "kanji",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-027",
+    "kanji": "会話",
+    "hiragana": "かいわ",
+    "romaji": "kaiwa",
+    "meaning": "percakapan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-028",
+    "kanji": "モンゴル語",
+    "hiragana": "モンゴルご",
+    "romaji": "mongorugo",
+    "meaning": "bahasa Mongolia",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-029",
+    "kanji": "ベトナム語",
+    "hiragana": "ベトナムご",
+    "romaji": "betonamugo",
+    "meaning": "bahasa Vietnam",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-030",
+    "kanji": "覚える",
+    "hiragana": "おぼえる",
+    "romaji": "oboeru",
+    "meaning": "menghafal",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-031",
+    "kanji": "教える",
+    "hiragana": "おしえる",
+    "romaji": "oshieru",
+    "meaning": "mengajar,  mengajarkan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-032",
+    "kanji": "辞書",
+    "hiragana": "じしょ",
+    "romaji": "jisho",
+    "meaning": "kamus",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-033",
+    "kanji": "貸す",
+    "hiragana": "かす",
+    "romaji": "kasu",
+    "meaning": "meminjamkan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-034",
+    "kanji": "見せる",
+    "hiragana": "みせる",
+    "romaji": "miseru",
+    "meaning": "memperlihatkan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-035",
+    "kanji": "チェックする",
+    "hiragana": "チェックする",
+    "romaji": "chekkusuru",
+    "meaning": "memeriksa",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-036",
+    "kanji": "説明する",
+    "hiragana": "せつめいする",
+    "romaji": "setsumeisuru",
+    "meaning": "menjelaskan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-037",
+    "kanji": "紙",
+    "hiragana": "かみ",
+    "romaji": "kami",
+    "meaning": "kertas",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-038",
+    "kanji": "書く",
+    "hiragana": "かく",
+    "romaji": "kaku",
+    "meaning": "menulis",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-039",
+    "kanji": "言う",
+    "hiragana": "いう",
+    "romaji": "iu",
+    "meaning": "mengatakan,  mengucapkan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-040",
+    "kanji": "ゆっくり",
+    "hiragana": "ゆっくり",
+    "romaji": "yukkuri",
+    "meaning": "pelan-pelan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-041",
+    "kanji": "～方（読み方）",
+    "hiragana": "～かた（よみかた）",
+    "romaji": "~kata(yomikata)",
+    "meaning": "cara ~ (cara membaca)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-042",
+    "kanji": "メール",
+    "hiragana": "メール",
+    "romaji": "meeru",
+    "meaning": "surel (surat elektronik)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-043",
+    "kanji": "書類",
+    "hiragana": "しょるい",
+    "romaji": "shorui",
+    "meaning": "dokumen",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-044",
+    "kanji": "教科書",
+    "hiragana": "きょうかしょ",
+    "romaji": "kyoukasho",
+    "meaning": "buku pelajaran",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-045",
+    "kanji": "自信がありません",
+    "hiragana": "じしんがありません",
+    "romaji": "jishingaarimasen",
+    "meaning": "tidak percaya diri",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-046",
+    "kanji": "練習",
+    "hiragana": "れんしゅう",
+    "romaji": "renshuu",
+    "meaning": "latihan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-047",
+    "kanji": "探す",
+    "hiragana": "さがす",
+    "romaji": "sagasu",
+    "meaning": "mencari",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-048",
+    "kanji": "何回も",
+    "hiragana": "なんかいも",
+    "romaji": "nankaimo",
+    "meaning": "berulang kali,  berkali-kali",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-049",
+    "kanji": "教室",
+    "hiragana": "きょうしつ",
+    "romaji": "kyoushitsu",
+    "meaning": "ruang kelas",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-050",
+    "kanji": "無料",
+    "hiragana": "むりょう",
+    "romaji": "muryou",
+    "meaning": "gratis",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-051",
+    "kanji": "先生",
+    "hiragana": "せんせい",
+    "romaji": "sensei",
+    "meaning": "guru",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-052",
+    "kanji": "知恵",
+    "hiragana": "ちえ",
+    "romaji": "chie",
+    "meaning": "kebijaksanaan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-053",
+    "kanji": "拝借する",
+    "hiragana": "はいしゃくする",
+    "romaji": "haishakusuru",
+    "meaning": "meminjam",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-054",
+    "kanji": "サイト",
+    "hiragana": "サイト",
+    "romaji": "saito",
+    "meaning": "situs web",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-055",
+    "kanji": "トップ",
+    "hiragana": "トップ",
+    "romaji": "toppu",
+    "meaning": "(halaman) utama",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-056",
+    "kanji": "カテゴリー",
+    "hiragana": "カテゴリー",
+    "romaji": "kategorii",
+    "meaning": "kategori",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-057",
+    "kanji": "ランキング",
+    "hiragana": "ランキング",
+    "romaji": "rankingu",
+    "meaning": "peringkat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-058",
+    "kanji": "わし",
+    "hiragana": "わし",
+    "romaji": "washi",
+    "meaning": "Saya (pengucapan ini biasanya digunakan oleh orang yang sudah tua atau lansia)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-059",
+    "kanji": "検索",
+    "hiragana": "けんさく",
+    "romaji": "kensaku",
+    "meaning": "pencarian",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-060",
+    "kanji": "質問",
+    "hiragana": "しつもん",
+    "romaji": "shitsumon",
+    "meaning": "pertanyaan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-061",
+    "kanji": "相談",
+    "hiragana": "そうだん",
+    "romaji": "soudan",
+    "meaning": "konsultasi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-062",
+    "kanji": "おしゃべりする",
+    "hiragana": "おしゃべりする",
+    "romaji": "oshaberisuru",
+    "meaning": "berbincang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-063",
+    "kanji": "シャドーイングする",
+    "hiragana": "シャドーイングする",
+    "romaji": "shadooingusuru",
+    "meaning": "(melakukan latihan dengan) teknik shadowing",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-09-064",
+    "kanji": "ボランティア",
+    "hiragana": "ボランティア",
+    "romaji": "boranteia",
+    "meaning": "sukarelawan",
+    "level": "-",
+    "isExtra": false
+  }
+]

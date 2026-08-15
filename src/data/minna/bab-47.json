@@ -1,0 +1,542 @@
+[
+  {
+    "id": "mn-47-001",
+    "kanji": "～によると",
+    "hiragana": "～によると",
+    "romaji": "~niyoruto",
+    "meaning": "Menurut ~ (menyatakan sumber informasi)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-002",
+    "kanji": "します",
+    "hiragana": "します",
+    "romaji": "shimasu",
+    "meaning": "Dalam keadaan berbunyi/bersuara, terasa, berbau",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-003",
+    "kanji": "データ",
+    "hiragana": "データ",
+    "romaji": "deeta",
+    "meaning": "Data",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-004",
+    "kanji": "どうも",
+    "hiragana": "どうも",
+    "romaji": "doumo",
+    "meaning": "Rupanya, sepertinya (dipakai ketika menyatakan dugaan)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-005",
+    "kanji": "におい",
+    "hiragana": "におい",
+    "romaji": "nioi",
+    "meaning": "Bau",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-006",
+    "kanji": "パトカー",
+    "hiragana": "パトカー",
+    "romaji": "patokaa",
+    "meaning": "Mobil patroli",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-007",
+    "kanji": "ひどい",
+    "hiragana": "ひどい",
+    "romaji": "hidoi",
+    "meaning": "Kejam",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-008",
+    "kanji": "医学",
+    "hiragana": "いがく",
+    "romaji": "igaku",
+    "meaning": "Ilmu kedokteran",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-009",
+    "kanji": "化粧",
+    "hiragana": "けしょう",
+    "romaji": "keshou",
+    "meaning": "Dandan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-010",
+    "kanji": "科学",
+    "hiragana": "かがく",
+    "romaji": "kagaku",
+    "meaning": "Ilmu pengetahuan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-011",
+    "kanji": "関係",
+    "hiragana": "かんけい",
+    "romaji": "kankei",
+    "meaning": "Hubungan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-012",
+    "kanji": "救急車",
+    "hiragana": "きゅうきゅうしゃ",
+    "romaji": "kyuukyuusha",
+    "meaning": "Mobil ambulan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-013",
+    "kanji": "厳しい",
+    "hiragana": "きびしい",
+    "romaji": "kibishii",
+    "meaning": "Keras, berat",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-014",
+    "kanji": "婚約します",
+    "hiragana": "こんやくします",
+    "romaji": "konyakushimasu",
+    "meaning": "Bertunangan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-015",
+    "kanji": "賛成",
+    "hiragana": "さんせい",
+    "romaji": "sansei",
+    "meaning": "Persetujuan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-016",
+    "kanji": "実験",
+    "hiragana": "じっけん",
+    "romaji": "jikken",
+    "meaning": "Percobaan, eksperimen",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-017",
+    "kanji": "集まります",
+    "hiragana": "あつまります",
+    "romaji": "atsumarimasu",
+    "meaning": "[Orang] berkumpul",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-018",
+    "kanji": "女性",
+    "hiragana": "じょせい",
+    "romaji": "josei",
+    "meaning": "Wanita",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-019",
+    "kanji": "人口",
+    "hiragana": "じんこう",
+    "romaji": "jinkou",
+    "meaning": "Penduduk",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-020",
+    "kanji": "吹きます",
+    "hiragana": "ふきます",
+    "romaji": "fukimasu",
+    "meaning": "[Angin] bertiup",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-021",
+    "kanji": "世話をします",
+    "hiragana": "せわをします",
+    "romaji": "sewawoshimasu",
+    "meaning": "Menjaga, membantu",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-022",
+    "kanji": "相手",
+    "hiragana": "あいて",
+    "romaji": "aite",
+    "meaning": "Pasangan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-023",
+    "kanji": "大統領",
+    "hiragana": "だいとうりょう",
+    "romaji": "daitouryou",
+    "meaning": "Presiden",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-024",
+    "kanji": "男性",
+    "hiragana": "だんせい",
+    "romaji": "dansei",
+    "meaning": "Pria",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-025",
+    "kanji": "知り合います",
+    "hiragana": "しりあいます",
+    "romaji": "shiriaimasu",
+    "meaning": "Berkenalan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-026",
+    "kanji": "長生き",
+    "hiragana": "ながいき",
+    "romaji": "nagaiki",
+    "meaning": "Panjang umur",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-027",
+    "kanji": "燃えます",
+    "hiragana": "もえます",
+    "romaji": "moemasu",
+    "meaning": "[Sampah] terbakar",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-028",
+    "kanji": "反対",
+    "hiragana": "はんたい",
+    "romaji": "hantai",
+    "meaning": "Menentang",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-029",
+    "kanji": "怖い",
+    "hiragana": "こわい",
+    "romaji": "kowai",
+    "meaning": "Takut",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-030",
+    "kanji": "文学",
+    "hiragana": "ぶんがく",
+    "romaji": "bungaku",
+    "meaning": "Sastra",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-031",
+    "kanji": "別れます",
+    "hiragana": "わかれます",
+    "romaji": "wakaremasu",
+    "meaning": "[Orang] berpisah",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-032",
+    "kanji": "亡くなります",
+    "hiragana": "なくなります",
+    "romaji": "nakunarimasu",
+    "meaning": "Meninggal dunia",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-033",
+    "kanji": "理由",
+    "hiragana": "りゆう",
+    "romaji": "riyuu",
+    "meaning": "Alasan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-034",
+    "kanji": "恋人",
+    "hiragana": "こいびと",
+    "romaji": "koibito",
+    "meaning": "Pacar",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-47-035",
+    "kanji": "カーカー",
+    "hiragana": "カーカー",
+    "romaji": "kaakaa",
+    "meaning": "Gak",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-036",
+    "kanji": "きょろきょろ",
+    "hiragana": "きょろきょろ",
+    "romaji": "kyorokyoro",
+    "meaning": "Gelisah (melihat)",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-037",
+    "kanji": "ぐうぐう",
+    "hiragana": "ぐうぐう",
+    "romaji": "guuguu",
+    "meaning": "(Tidur) pulas",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-038",
+    "kanji": "げらげら",
+    "hiragana": "げらげら",
+    "romaji": "geragera",
+    "meaning": "(Tertawa) terbahak-bahak",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-039",
+    "kanji": "ゴロゴロ",
+    "hiragana": "ゴロゴロ",
+    "romaji": "gorogoro",
+    "meaning": "Grudug (petir)",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-040",
+    "kanji": "ザーザー",
+    "hiragana": "ザーザー",
+    "romaji": "zaazaa",
+    "meaning": "Lebat (hujan)",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-041",
+    "kanji": "ざらざら",
+    "hiragana": "ざらざら",
+    "romaji": "zarazara",
+    "meaning": "(Terasa) kasar",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-042",
+    "kanji": "しくしく",
+    "hiragana": "しくしく",
+    "romaji": "shikushiku",
+    "meaning": "(Menangis) tersedu-sedu, terisak-isak",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-043",
+    "kanji": "すらすら",
+    "hiragana": "すらすら",
+    "romaji": "surasura",
+    "meaning": "(Membaca) dengan lancar",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-044",
+    "kanji": "つるつる",
+    "hiragana": "つるつる",
+    "romaji": "tsurutsuru",
+    "meaning": "(Terasa) licin",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-045",
+    "kanji": "ニャーニャー",
+    "hiragana": "ニャーニャー",
+    "romaji": "nyaanyaa",
+    "meaning": "Meong (mengeong)",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-046",
+    "kanji": "ぱくぱく",
+    "hiragana": "ぱくぱく",
+    "romaji": "pakupaku",
+    "meaning": "(Makan) lahap",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-047",
+    "kanji": "バリ島",
+    "hiragana": "バリとう",
+    "romaji": "baritou",
+    "meaning": "Pulau Bali",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-048",
+    "kanji": "ビュービュー",
+    "hiragana": "ビュービュー",
+    "romaji": "byuubyuu",
+    "meaning": "Hyu hyu (angin)",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-049",
+    "kanji": "べたべた",
+    "hiragana": "べたべた",
+    "romaji": "betabeta",
+    "meaning": "(Terasa) lengket",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-050",
+    "kanji": "ホルモン",
+    "hiragana": "ホルモン",
+    "romaji": "horumon",
+    "meaning": "Hormon",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-051",
+    "kanji": "ワンワン",
+    "hiragana": "ワンワン",
+    "romaji": "wanwan",
+    "meaning": "Guk (menggonggong)",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-052",
+    "kanji": "化粧品",
+    "hiragana": "けしょうひん",
+    "romaji": "keshouhin",
+    "meaning": "Kosmetik",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-053",
+    "kanji": "擬音語・擬態語",
+    "hiragana": "ぎおんご・ぎたいご",
+    "romaji": "giongo・gitaigo",
+    "meaning": "Onomatope",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-054",
+    "kanji": "調べ",
+    "hiragana": "しらべ",
+    "romaji": "shirabe",
+    "meaning": "Penelitian, pemeriksaan",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-055",
+    "kanji": "天気予報",
+    "hiragana": "てんきよほう",
+    "romaji": "tenkiyohou",
+    "meaning": "Prakiraan cuaca",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-056",
+    "kanji": "脳",
+    "hiragana": "のう",
+    "romaji": "nou",
+    "meaning": "Otak",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-057",
+    "kanji": "博士",
+    "hiragana": "はかせ",
+    "romaji": "hakase",
+    "meaning": "Doktor",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-058",
+    "kanji": "発表",
+    "hiragana": "はっぴょう",
+    "romaji": "happyou",
+    "meaning": "Pengumuman, presentasi",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-059",
+    "kanji": "比べます",
+    "hiragana": "くらべます",
+    "romaji": "kurabemasu",
+    "meaning": "Dibandingkan dengan",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-47-060",
+    "kanji": "平均寿命",
+    "hiragana": "へいきんじゅみょう",
+    "romaji": "heikinjumyou",
+    "meaning": "Rata-rata usia lanjut",
+    "level": "-",
+    "importinity": 2
+  }
+]

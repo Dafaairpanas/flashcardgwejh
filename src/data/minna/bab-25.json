@@ -1,0 +1,371 @@
+[
+  {
+    "id": "mn-25-001",
+    "kanji": "[いろいろ] お世話に なりました。",
+    "hiragana": "[いろいろ] おせわに なりました。",
+    "romaji": "[iroiro] osewani narimashita.",
+    "meaning": "Terima kasih banyak bantuan Anda yang telah diberikan.",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-25-002",
+    "kanji": "こと",
+    "hiragana": "こと",
+    "romaji": "koto",
+    "meaning": "hal (〜のこと：hal 〜)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-25-003",
+    "kanji": "チャンス",
+    "hiragana": "チャンス",
+    "romaji": "chansu",
+    "meaning": "kesempatan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-25-004",
+    "kanji": "どうぞ お元気で。",
+    "hiragana": "どうぞ おげんきで。",
+    "romaji": "douzo ogenkide.",
+    "meaning": "Semoga sehat-sehat selalu. (digunakan ketika perpisahan dalam jangka waktu lama)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-25-005",
+    "kanji": "ベトナム",
+    "hiragana": "ベトナム",
+    "romaji": "betonamu",
+    "meaning": "Vietnam",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-25-006",
+    "kanji": "もし [〜たら]",
+    "hiragana": "もし [〜たら]",
+    "romaji": "moshi [~tara]",
+    "meaning": "kalau",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-25-007",
+    "kanji": "もしもし",
+    "hiragana": "もしもし",
+    "romaji": "moshimoshi",
+    "meaning": "halo (digunakan ketika menelepon)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-25-008",
+    "kanji": "意味",
+    "hiragana": "いみ",
+    "romaji": "imi",
+    "meaning": "arti, makna",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-25-009",
+    "kanji": "億",
+    "hiragana": "おく",
+    "romaji": "oku",
+    "meaning": "ratus juta",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-25-010",
+    "kanji": "暇",
+    "hiragana": "ひま",
+    "romaji": "hima",
+    "meaning": "waktu luang",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-25-011",
+    "kanji": "頑張ります",
+    "hiragana": "がんばりますⅠ",
+    "romaji": "ganbarimasuⅠ",
+    "meaning": "berusaha, bekerja keras",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-25-012",
+    "kanji": "考えます",
+    "hiragana": "かんがえますⅡ",
+    "romaji": "kangaemasuⅡ",
+    "meaning": "berpikir, memikirkan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-25-013",
+    "kanji": "取ります [年を〜]",
+    "hiragana": "とりますⅠ [としを〜]",
+    "romaji": "torimasuⅠ [toshiwo~]",
+    "meaning": "berumur, lanjut usia",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-25-014",
+    "kanji": "足ります",
+    "hiragana": "たりますⅡ",
+    "romaji": "tarimasuⅡ",
+    "meaning": "cukup",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-25-015",
+    "kanji": "着きます",
+    "hiragana": "つきますⅠ",
+    "romaji": "tsukimasuⅠ",
+    "meaning": "tiba, sampai",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-25-016",
+    "kanji": "転勤",
+    "hiragana": "てんきん",
+    "romaji": "tenkin",
+    "meaning": "pindah ke kantor cabang lain atau jabatan lain (〜します：pindah kantor)",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-25-017",
+    "kanji": "田舎",
+    "hiragana": "いなか",
+    "romaji": "inaka",
+    "meaning": "desa, kampung halaman",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-25-018",
+    "kanji": "（再婚します）",
+    "hiragana": "（さいこんします）",
+    "romaji": "(saikonshimasu)",
+    "meaning": "menikah lagi",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-019",
+    "kanji": "（離婚します）",
+    "hiragana": "（りこんします）",
+    "romaji": "(rikonshimasu)",
+    "meaning": "bercerai",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-020",
+    "kanji": "学校に 入ります",
+    "hiragana": "がっこうに はいります",
+    "romaji": "gakkouni hairimasu",
+    "meaning": "masuk sekolah",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-021",
+    "kanji": "学校を 出ます",
+    "hiragana": "がっこうを でます",
+    "romaji": "gakkouwo demasu",
+    "meaning": "tamat sekolah",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-022",
+    "kanji": "結婚します",
+    "hiragana": "けっこんします",
+    "romaji": "kekkonshimasu",
+    "meaning": "menikah",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-023",
+    "kanji": "高等学校",
+    "hiragana": "こうとうがっこう",
+    "romaji": "koutougakkou",
+    "meaning": "SMA (3)",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-024",
+    "kanji": "仕事を やめます",
+    "hiragana": "しごとを やめます",
+    "romaji": "shigotowo yamemasu",
+    "meaning": "mengundurkan diri dari pekerjaan",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-025",
+    "kanji": "子ども",
+    "hiragana": "こども",
+    "romaji": "kodomo",
+    "meaning": "anak-anak (6歳)",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-026",
+    "kanji": "子どもが 生まれます",
+    "hiragana": "こどもが うまれます",
+    "romaji": "kodomoga umaremasu",
+    "meaning": "melahirkan anak",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-027",
+    "kanji": "死にます",
+    "hiragana": "しにます",
+    "romaji": "shinimasu",
+    "meaning": "meninggal",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-028",
+    "kanji": "就職します",
+    "hiragana": "しゅうしょくします",
+    "romaji": "shuushokushimasu",
+    "meaning": "mendapat pekerjaan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-029",
+    "kanji": "小学校",
+    "hiragana": "しょうがっこう",
+    "romaji": "shougakkou",
+    "meaning": "SD (6 tahun)",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-030",
+    "kanji": "生まれます",
+    "hiragana": "うまれます",
+    "romaji": "umaremasu",
+    "meaning": "lahir",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-031",
+    "kanji": "青年",
+    "hiragana": "せいねん",
+    "romaji": "seinen",
+    "meaning": "remaja (18歳)",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-032",
+    "kanji": "赤ちゃん",
+    "hiragana": "あかちゃん",
+    "romaji": "akachan",
+    "meaning": "bayi (0歳)",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-033",
+    "kanji": "専門学校",
+    "hiragana": "せんもんがっこう",
+    "romaji": "senmongakkou",
+    "meaning": "sekolah tinggi keahlian (2)",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-034",
+    "kanji": "大学",
+    "hiragana": "だいがく",
+    "romaji": "daigaku",
+    "meaning": "universitas (S1) (4)",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-035",
+    "kanji": "大学院",
+    "hiragana": "だいがくいん",
+    "romaji": "daigakuin",
+    "meaning": "universitas (S2) (2~6)",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-036",
+    "kanji": "短大",
+    "hiragana": "たんだい",
+    "romaji": "tandai",
+    "meaning": "akademi (2)",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-037",
+    "kanji": "中学校",
+    "hiragana": "ちゅうがっこう",
+    "romaji": "chuugakkou",
+    "meaning": "SMP (3)",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-038",
+    "kanji": "中年",
+    "hiragana": "ちゅうねん",
+    "romaji": "chuunen",
+    "meaning": "setengah baya (40歳)",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-039",
+    "kanji": "保育園",
+    "hiragana": "ほいくえん",
+    "romaji": "hoikuen",
+    "meaning": "*playgroup*",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-040",
+    "kanji": "幼稚園",
+    "hiragana": "ようちえん",
+    "romaji": "youchien",
+    "meaning": "TK",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-25-041",
+    "kanji": "老人",
+    "hiragana": "ろうじん",
+    "romaji": "roujin",
+    "meaning": "orang tua (70歳)",
+    "level": "N3",
+    "importinity": 2
+  }
+]

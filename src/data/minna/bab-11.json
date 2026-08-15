@@ -1,0 +1,749 @@
+[
+  {
+    "id": "mn-11-001",
+    "kanji": "～か月",
+    "hiragana": "～かげつ",
+    "romaji": "~kagetsu",
+    "meaning": "~ bulan",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-002",
+    "kanji": "～ぐらい",
+    "hiragana": "～ぐらい",
+    "romaji": "~gurai",
+    "meaning": "Kira-kira ~",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-003",
+    "kanji": "～だけ",
+    "hiragana": "～だけ",
+    "romaji": "~dake",
+    "meaning": "Hanya ~",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-004",
+    "kanji": "～回",
+    "hiragana": "～かい",
+    "romaji": "~kai",
+    "meaning": "~ kali ( Frekuensi )",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-005",
+    "kanji": "～時間",
+    "hiragana": "～じかん",
+    "romaji": "~jikan",
+    "meaning": "~ jam",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-006",
+    "kanji": "～週間",
+    "hiragana": "～しゅうかん",
+    "romaji": "~shuukan",
+    "meaning": "~ minggu",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-007",
+    "kanji": "～人",
+    "hiragana": "～にん",
+    "romaji": "~nin",
+    "meaning": "~ orang",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-008",
+    "kanji": "～台",
+    "hiragana": "～だい",
+    "romaji": "~dai",
+    "meaning": "~ unit ( Mesin )",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-009",
+    "kanji": "～年",
+    "hiragana": "～ねん",
+    "romaji": "~nen",
+    "meaning": "~ tahun",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-010",
+    "kanji": "～枚",
+    "hiragana": "～まい",
+    "romaji": "~mai",
+    "meaning": "~ lembar ( Benda Tipis )",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-011",
+    "kanji": "アイスクリーム",
+    "hiragana": "アイスクリーム",
+    "romaji": "aisukuriimu",
+    "meaning": "Es krim",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-012",
+    "kanji": "いい天気ですね",
+    "hiragana": "いいてんきですね",
+    "romaji": "iitenkidesune",
+    "meaning": "Cuacanya bagus ya...",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-013",
+    "kanji": "いくつ",
+    "hiragana": "いくつ",
+    "romaji": "ikutsu",
+    "meaning": "Berapa buah ?",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-014",
+    "kanji": "いつつ",
+    "hiragana": "いつつ",
+    "romaji": "itsutsu",
+    "meaning": "5 buah",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-015",
+    "kanji": "います",
+    "hiragana": "います",
+    "romaji": "imasu",
+    "meaning": "Ada / mempunyai",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-016",
+    "kanji": "エアメール",
+    "hiragana": "エアメール",
+    "romaji": "eameeru",
+    "meaning": "Pos udara",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-017",
+    "kanji": "オーストラリア",
+    "hiragana": "オーストラリア",
+    "romaji": "oosutoraria",
+    "meaning": "Australia",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-018",
+    "kanji": "お出かけですか",
+    "hiragana": "おでかけですか",
+    "romaji": "odekakedesuka",
+    "meaning": "Mau keluar ?",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-019",
+    "kanji": "かかります",
+    "hiragana": "かかります",
+    "romaji": "kakarimasu",
+    "meaning": "Memerlukan ( Waktu, Uang )",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-020",
+    "kanji": "かしこまりました",
+    "hiragana": "かしこまりました",
+    "romaji": "kashikomarimashita",
+    "meaning": "Baik / mengerti",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-021",
+    "kanji": "カレー[ライス]",
+    "hiragana": "カレー[ライス]",
+    "romaji": "karee[raisu]",
+    "meaning": "[nasi dan] kare",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-022",
+    "kanji": "クラス",
+    "hiragana": "クラス",
+    "romaji": "kurasu",
+    "meaning": "Kelas",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-023",
+    "kanji": "ここのつ",
+    "hiragana": "ここのつ",
+    "romaji": "kokonotsu",
+    "meaning": "9 buah",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-024",
+    "kanji": "サンドイッチ",
+    "hiragana": "サンドイッチ",
+    "romaji": "sandoitchi",
+    "meaning": "Sandwich",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-025",
+    "kanji": "とお",
+    "hiragana": "とお",
+    "romaji": "too",
+    "meaning": "10 buah",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-026",
+    "kanji": "どのくらい",
+    "hiragana": "どのくらい",
+    "romaji": "donokurai",
+    "meaning": "Berapa lama ?",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-027",
+    "kanji": "ななつ",
+    "hiragana": "ななつ",
+    "romaji": "nanatsu",
+    "meaning": "7 buah",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-028",
+    "kanji": "はがき",
+    "hiragana": "はがき",
+    "romaji": "hagaki",
+    "meaning": "Kartu pos",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-029",
+    "kanji": "ひとつ",
+    "hiragana": "ひとつ",
+    "romaji": "hitotsu",
+    "meaning": "1 buah",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-030",
+    "kanji": "ひとり",
+    "hiragana": "ひとり",
+    "romaji": "hitori",
+    "meaning": "1 orang",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-031",
+    "kanji": "ふたつ",
+    "hiragana": "ふたつ",
+    "romaji": "futatsu",
+    "meaning": "2 buah",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-032",
+    "kanji": "ふたり",
+    "hiragana": "ふたり",
+    "romaji": "futari",
+    "meaning": "2 orang",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-033",
+    "kanji": "みかん",
+    "hiragana": "みかん",
+    "romaji": "mikan",
+    "meaning": "Jeruk",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-034",
+    "kanji": "みっつ",
+    "hiragana": "みっつ",
+    "romaji": "mittsu",
+    "meaning": "3 buah",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-035",
+    "kanji": "みんな",
+    "hiragana": "みんな",
+    "romaji": "minna",
+    "meaning": "Semua",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-036",
+    "kanji": "むっつ",
+    "hiragana": "むっつ",
+    "romaji": "muttsu",
+    "meaning": "6 buah",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-037",
+    "kanji": "やっつ",
+    "hiragana": "やっつ",
+    "romaji": "yattsu",
+    "meaning": "8 buah",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-038",
+    "kanji": "よっつ",
+    "hiragana": "よっつ",
+    "romaji": "yottsu",
+    "meaning": "4 buah",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-039",
+    "kanji": "りんご",
+    "hiragana": "りんご",
+    "romaji": "ringo",
+    "meaning": "Apel",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-040",
+    "kanji": "外国",
+    "hiragana": "がいこく",
+    "romaji": "gaikoku",
+    "meaning": "Luar negeri",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-041",
+    "kanji": "休みます",
+    "hiragana": "やすみます （を）",
+    "romaji": "yasumimasu (wo)",
+    "meaning": "Tidak masuk kerja / libur",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-042",
+    "kanji": "航空便",
+    "hiragana": "こうくうびん",
+    "romaji": "koukuubin",
+    "meaning": "Pos udara",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-043",
+    "kanji": "行ってきます",
+    "hiragana": "いってきます",
+    "romaji": "ittekimasu",
+    "meaning": "Saya berangkat",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-044",
+    "kanji": "行ってらっしゃい",
+    "hiragana": "いってらっしゃい",
+    "romaji": "itterasshai",
+    "meaning": "Hati-hati (berangkatnya)",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-045",
+    "kanji": "切手",
+    "hiragana": "きって",
+    "romaji": "kitte",
+    "meaning": "Perangko",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-046",
+    "kanji": "船便",
+    "hiragana": "ふなびん",
+    "romaji": "funabin",
+    "meaning": "Pos laut",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-047",
+    "kanji": "全部で",
+    "hiragana": "ぜんぶで",
+    "romaji": "zenbude",
+    "meaning": "Semuanya",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-048",
+    "kanji": "封筒",
+    "hiragana": "ふうとう",
+    "romaji": "fuutou",
+    "meaning": "Amplop",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-049",
+    "kanji": "留学生",
+    "hiragana": "りゅうがくせい",
+    "romaji": "ryuugakusei",
+    "meaning": "Pelajar asing",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-11-050",
+    "kanji": "えびフライ",
+    "hiragana": "えびフライ",
+    "romaji": "ebifurai",
+    "meaning": "Udang goreng tepung",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-051",
+    "kanji": "おにぎり",
+    "hiragana": "おにぎり",
+    "romaji": "onigiri",
+    "meaning": "Nasi kepal",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-052",
+    "kanji": "カレーライス",
+    "hiragana": "カレーライス",
+    "romaji": "kareeraisu",
+    "meaning": "Nasi kare",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-053",
+    "kanji": "コーヒー",
+    "hiragana": "コーヒー",
+    "romaji": "koohii",
+    "meaning": "Kopi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-054",
+    "kanji": "コーラ",
+    "hiragana": "コーラ",
+    "romaji": "koora",
+    "meaning": "Coca cola",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-055",
+    "kanji": "ココア",
+    "hiragana": "ココア",
+    "romaji": "kokoa",
+    "meaning": "Minuman coklat",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-056",
+    "kanji": "コロッケ",
+    "hiragana": "コロッケ",
+    "romaji": "korokke",
+    "meaning": "Kroket",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-057",
+    "kanji": "サラダ",
+    "hiragana": "サラダ",
+    "romaji": "sarada",
+    "meaning": "Salad",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-058",
+    "kanji": "サンドイッチ",
+    "hiragana": "サンドイッチ",
+    "romaji": "sandoitchi",
+    "meaning": "sandwich",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-059",
+    "kanji": "ジュース",
+    "hiragana": "ジュース",
+    "romaji": "juusu",
+    "meaning": "Jus",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-060",
+    "kanji": "スープ",
+    "hiragana": "スープ",
+    "romaji": "suupu",
+    "meaning": "Sup",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-061",
+    "kanji": "スパゲッティ",
+    "hiragana": "スパゲッティ",
+    "romaji": "supagettei",
+    "meaning": "Spageti",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-062",
+    "kanji": "てんぷら",
+    "hiragana": "てんぷら",
+    "romaji": "tenpura",
+    "meaning": "Tempura",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-063",
+    "kanji": "トースト",
+    "hiragana": "トースト",
+    "romaji": "toosuto",
+    "meaning": "Roti panggang",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-064",
+    "kanji": "ハンバーガー",
+    "hiragana": "ハンバーガー",
+    "romaji": "hanbaagaa",
+    "meaning": "burger",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-065",
+    "kanji": "ハンバーグ",
+    "hiragana": "ハンバーグ",
+    "romaji": "hanbaagu",
+    "meaning": "hamburger",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-066",
+    "kanji": "ピザ",
+    "hiragana": "ピザ",
+    "romaji": "piza",
+    "meaning": "Pizza",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-067",
+    "kanji": "フライドチキン",
+    "hiragana": "フライドチキン",
+    "romaji": "furaidochikin",
+    "meaning": "Ayam goreng",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-068",
+    "kanji": "みそ汁",
+    "hiragana": "みそしる",
+    "romaji": "misoshiru",
+    "meaning": "Sup miso",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-069",
+    "kanji": "ランチ",
+    "hiragana": "ランチ",
+    "romaji": "ranchi",
+    "meaning": "Makan siang",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-070",
+    "kanji": "紅茶",
+    "hiragana": "こうちゃ",
+    "romaji": "koucha",
+    "meaning": "Teh",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-071",
+    "kanji": "焼肉",
+    "hiragana": "やきにく",
+    "romaji": "yakiniku",
+    "meaning": "Daging panggang",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-072",
+    "kanji": "漬物",
+    "hiragana": "つけもの",
+    "romaji": "tsukemono",
+    "meaning": "Asinan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-073",
+    "kanji": "定食",
+    "hiragana": "ていしょく",
+    "romaji": "teishoku",
+    "meaning": "Makanan paket",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-074",
+    "kanji": "野菜ため",
+    "hiragana": "やさいため",
+    "romaji": "yasaitame",
+    "meaning": "Sayur goreng",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-11-075",
+    "kanji": "うどん",
+    "hiragana": "うどん",
+    "romaji": "udon",
+    "meaning": "Mie jepang ukuran besar",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-11-076",
+    "kanji": "おやこどん",
+    "hiragana": "おやこどん",
+    "romaji": "oyakodon",
+    "meaning": "Semangkuk Nasi, daging ayam dan telur",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-11-077",
+    "kanji": "お好み焼き",
+    "hiragana": "おこのみやき",
+    "romaji": "okonomiyaki",
+    "meaning": "Gorengan dicampur daging di loyang",
+    "level": "N2",
+    "importinity": 3
+  },
+  {
+    "id": "mn-11-078",
+    "kanji": "すし",
+    "hiragana": "すし",
+    "romaji": "sushi",
+    "meaning": "Nasi dicampur cuka dan diberi ikan mentah",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-11-079",
+    "kanji": "そば",
+    "hiragana": "そば",
+    "romaji": "soba",
+    "meaning": "Mie jepang warna abu-abu",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-11-080",
+    "kanji": "ラーメン",
+    "hiragana": "ラーメン",
+    "romaji": "raamen",
+    "meaning": "Mie jepang ukuran biasa",
+    "level": "-",
+    "importinity": 3
+  },
+  {
+    "id": "mn-11-081",
+    "kanji": "牛どん",
+    "hiragana": "ぎゅうどん",
+    "romaji": "gyuudon",
+    "meaning": "Semangkuk nasi dan daging sapi",
+    "level": "N4",
+    "importinity": 3
+  },
+  {
+    "id": "mn-11-082",
+    "kanji": "焼きそば",
+    "hiragana": "やきそば",
+    "romaji": "yakisoba",
+    "meaning": "Mie goreng jepang",
+    "level": "N2",
+    "importinity": 3
+  },
+  {
+    "id": "mn-11-083",
+    "kanji": "天どん",
+    "hiragana": "てんどん",
+    "romaji": "tendon",
+    "meaning": "Semangkuk Nasi dan tempura",
+    "level": "N5",
+    "importinity": 3
+  }
+]

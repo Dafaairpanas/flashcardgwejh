@@ -1,0 +1,749 @@
+[
+  {
+    "id": "mn-46-001",
+    "kanji": "～の所",
+    "hiragana": "～のところ",
+    "romaji": "~notokoro",
+    "meaning": "tempat ~",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-002",
+    "kanji": "お待たせしました。",
+    "hiragana": "おまたせしました。",
+    "romaji": "omataseshimashita.",
+    "meaning": "Maaf lama menunggu.",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-003",
+    "kanji": "ガスサービスセンター",
+    "hiragana": "ガスサービスセンター",
+    "romaji": "gasusaabisusentaa",
+    "meaning": "pusat pelayanan gas",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-004",
+    "kanji": "ガスレンジ",
+    "hiragana": "ガスレンジ",
+    "romaji": "gasurenji",
+    "meaning": "kompor gas",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-005",
+    "kanji": "こちら",
+    "hiragana": "こちら",
+    "romaji": "kochira",
+    "meaning": "sini",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-006",
+    "kanji": "たった今",
+    "hiragana": "たったいま",
+    "romaji": "tattaima",
+    "meaning": "baru saja",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-007",
+    "kanji": "ちょうど",
+    "hiragana": "ちょうど",
+    "romaji": "choudo",
+    "meaning": "pas",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-008",
+    "kanji": "ついています",
+    "hiragana": "ついています",
+    "romaji": "tsuiteimasu",
+    "meaning": "mujur, untung",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-009",
+    "kanji": "どちら様でしょうか。",
+    "hiragana": "どちらさまでしょうか。",
+    "romaji": "dochirasamadeshouka.",
+    "meaning": "Atas nama siapa?",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-010",
+    "kanji": "ベル",
+    "hiragana": "ベル",
+    "romaji": "beru",
+    "meaning": "bel",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-011",
+    "kanji": "帰って来ます",
+    "hiragana": "かえってきます",
+    "romaji": "kaettekimasu",
+    "meaning": "pulang",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-012",
+    "kanji": "具合",
+    "hiragana": "ぐあい",
+    "romaji": "guai",
+    "meaning": "kondisi",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-013",
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "romaji": "gen'in",
+    "meaning": "sebab",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-014",
+    "kanji": "向かいます",
+    "hiragana": "むかいます",
+    "romaji": "mukaimasu",
+    "meaning": "menuju",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-015",
+    "kanji": "慌てて",
+    "hiragana": "あわてて",
+    "romaji": "awatete",
+    "meaning": "tergesa-gesa",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-016",
+    "kanji": "今いいですか。",
+    "hiragana": "いまいいですか。",
+    "romaji": "imaiidesuka.",
+    "meaning": "Sekarang boleh mengganggu?",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-017",
+    "kanji": "出ます",
+    "hiragana": "でます",
+    "romaji": "demasu",
+    "meaning": "[bus] berangkat",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-018",
+    "kanji": "出来事",
+    "hiragana": "できごと",
+    "romaji": "dekigoto",
+    "meaning": "peristiwa",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-019",
+    "kanji": "順番に",
+    "hiragana": "じゅんばんに",
+    "romaji": "junbanni",
+    "meaning": "sesuai dengan urutan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-020",
+    "kanji": "床",
+    "hiragana": "ゆか",
+    "romaji": "yuka",
+    "meaning": "lantai",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-021",
+    "kanji": "焼きます",
+    "hiragana": "やきます",
+    "romaji": "yakimasu",
+    "meaning": "membakar",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-022",
+    "kanji": "焼けます",
+    "hiragana": "やけます",
+    "romaji": "yakemasu",
+    "meaning": "[roti/daging] dibakar",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-023",
+    "kanji": "申し訳ありません。",
+    "hiragana": "もうしわけありません。",
+    "romaji": "moushiwakearimasen.",
+    "meaning": "Maaf.",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-024",
+    "kanji": "卒業します",
+    "hiragana": "そつぎょうします",
+    "romaji": "sotsugyoushimasu",
+    "meaning": "lulus/tamat [dari universitas]",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-025",
+    "kanji": "宅配便",
+    "hiragana": "たくはいびん",
+    "romaji": "takuhaibin",
+    "meaning": "titipan kilat",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-026",
+    "kanji": "転びます",
+    "hiragana": "ころびます",
+    "romaji": "korobimasu",
+    "meaning": "jatuh",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-027",
+    "kanji": "渡します",
+    "hiragana": "わたします",
+    "romaji": "watashimasu",
+    "meaning": "menyerahkan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-028",
+    "kanji": "届きます",
+    "hiragana": "とどきます",
+    "romaji": "todokimasu",
+    "meaning": "[barang] sampai",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-029",
+    "kanji": "入学します",
+    "hiragana": "にゅうがくします",
+    "romaji": "nyuugakushimasu",
+    "meaning": "masuk [universitas]",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-030",
+    "kanji": "半年",
+    "hiragana": "はんとし",
+    "romaji": "hantoshi",
+    "meaning": "setengah tahun",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-031",
+    "kanji": "鳴ります",
+    "hiragana": "なります",
+    "romaji": "narimasu",
+    "meaning": "berbunyi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-032",
+    "kanji": "留守",
+    "hiragana": "るす",
+    "romaji": "rusu",
+    "meaning": "ketidakadaan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-46-033",
+    "kanji": "アトリエ",
+    "hiragana": "アトリエ",
+    "romaji": "atorie",
+    "meaning": "studio",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-034",
+    "kanji": "アルバイト",
+    "hiragana": "アルバイト",
+    "romaji": "arubaito",
+    "meaning": "kerja paruh waktu",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-035",
+    "kanji": "アレルギー",
+    "hiragana": "アレルギー",
+    "romaji": "arerugii",
+    "meaning": "alergi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-036",
+    "kanji": "アンケート",
+    "hiragana": "アンケート",
+    "romaji": "ankeeto",
+    "meaning": "angket",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-037",
+    "kanji": "インフルエンザ",
+    "hiragana": "インフルエンザ",
+    "romaji": "infuruenza",
+    "meaning": "influenza",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-038",
+    "kanji": "エネルギー",
+    "hiragana": "エネルギー",
+    "romaji": "enerugii",
+    "meaning": "energi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-039",
+    "kanji": "エプロン",
+    "hiragana": "エプロン",
+    "romaji": "epuron",
+    "meaning": "celemek",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-040",
+    "kanji": "オペラ",
+    "hiragana": "オペラ",
+    "romaji": "opera",
+    "meaning": "opera",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-041",
+    "kanji": "オムレツ",
+    "hiragana": "オムレツ",
+    "romaji": "omuretsu",
+    "meaning": "telur dadar",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-042",
+    "kanji": "オルゴール",
+    "hiragana": "オルゴール",
+    "romaji": "orugooru",
+    "meaning": "kotak musik",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-043",
+    "kanji": "カステラ",
+    "hiragana": "カステラ",
+    "romaji": "kasutera",
+    "meaning": "kue bolu",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-044",
+    "kanji": "ガラス",
+    "hiragana": "ガラス",
+    "romaji": "garasu",
+    "meaning": "kaca",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-045",
+    "kanji": "カルタ",
+    "hiragana": "カルタ",
+    "romaji": "karuta",
+    "meaning": "kartu",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-046",
+    "kanji": "クッキー",
+    "hiragana": "クッキー",
+    "romaji": "kukkii",
+    "meaning": "kue kering",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-047",
+    "kanji": "コーヒー",
+    "hiragana": "コーヒー",
+    "romaji": "koohii",
+    "meaning": "kopi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-048",
+    "kanji": "コーラス",
+    "hiragana": "コーラス",
+    "romaji": "koorasu",
+    "meaning": "paduan suara",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-049",
+    "kanji": "コップ",
+    "hiragana": "コップ",
+    "romaji": "koppu",
+    "meaning": "gelas",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-050",
+    "kanji": "ゴム",
+    "hiragana": "ゴム",
+    "romaji": "gomu",
+    "meaning": "karet",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-051",
+    "kanji": "コロッケ",
+    "hiragana": "コロッケ",
+    "romaji": "korokke",
+    "meaning": "kroket",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-052",
+    "kanji": "コンクール",
+    "hiragana": "コンクール",
+    "romaji": "konkuuru",
+    "meaning": "kompetisi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-053",
+    "kanji": "ジャム",
+    "hiragana": "ジャム",
+    "romaji": "jamu",
+    "meaning": "selai",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-054",
+    "kanji": "スーツ",
+    "hiragana": "スーツ",
+    "romaji": "suutsu",
+    "meaning": "jas",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-055",
+    "kanji": "スカート",
+    "hiragana": "スカート",
+    "romaji": "sukaato",
+    "meaning": "rok",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-056",
+    "kanji": "スケジュール",
+    "hiragana": "スケジュール",
+    "romaji": "sukejuuru",
+    "meaning": "jadwal",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-057",
+    "kanji": "ズック",
+    "hiragana": "ズック",
+    "romaji": "zukku",
+    "meaning": "sepatu karet/sepatu olahraga",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-058",
+    "kanji": "ストレス",
+    "hiragana": "ストレス",
+    "romaji": "sutoresu",
+    "meaning": "stres",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-059",
+    "kanji": "スパゲッティ",
+    "hiragana": "スパゲッティ",
+    "romaji": "supagettei",
+    "meaning": "spageti",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-060",
+    "kanji": "ズボン",
+    "hiragana": "ズボン",
+    "romaji": "zubon",
+    "meaning": "celana",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-061",
+    "kanji": "チーズ",
+    "hiragana": "チーズ",
+    "romaji": "chiizu",
+    "meaning": "keju",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-062",
+    "kanji": "ティッシュペーパー",
+    "hiragana": "ティッシュペーパー",
+    "romaji": "teisshupeepaa",
+    "meaning": "tisu",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-063",
+    "kanji": "テーマ",
+    "hiragana": "テーマ",
+    "romaji": "teema",
+    "meaning": "tema",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-064",
+    "kanji": "トラブル",
+    "hiragana": "トラブル",
+    "romaji": "toraburu",
+    "meaning": "masalah",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-065",
+    "kanji": "ドラマ",
+    "hiragana": "ドラマ",
+    "romaji": "dorama",
+    "meaning": "drama",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-066",
+    "kanji": "パスタ",
+    "hiragana": "パスタ",
+    "romaji": "pasuta",
+    "meaning": "pasta",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-067",
+    "kanji": "ハム",
+    "hiragana": "ハム",
+    "romaji": "hamu",
+    "meaning": "ham",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-068",
+    "kanji": "バレエ",
+    "hiragana": "バレエ",
+    "romaji": "baree",
+    "meaning": "balet",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-069",
+    "kanji": "パン",
+    "hiragana": "パン",
+    "romaji": "pan",
+    "meaning": "roti",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-070",
+    "kanji": "ビール",
+    "hiragana": "ビール",
+    "romaji": "biiru",
+    "meaning": "bir",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-071",
+    "kanji": "ビロード",
+    "hiragana": "ビロード",
+    "romaji": "biroodo",
+    "meaning": "beledu",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-072",
+    "kanji": "ピンセット",
+    "hiragana": "ピンセット",
+    "romaji": "pinsetto",
+    "meaning": "penjepit",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-073",
+    "kanji": "フランクフルト［ソーセージ］",
+    "hiragana": "フランクフルト［ソーセージ］",
+    "romaji": "furankufuruto[sooseeji]",
+    "meaning": "sosis",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-074",
+    "kanji": "ペンキ",
+    "hiragana": "ペンキ",
+    "romaji": "penki",
+    "meaning": "cat",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-075",
+    "kanji": "ボタン",
+    "hiragana": "ボタン",
+    "romaji": "botan",
+    "meaning": "kancing",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-076",
+    "kanji": "ホック",
+    "hiragana": "ホック",
+    "romaji": "hokku",
+    "meaning": "kancing hak",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-077",
+    "kanji": "マカロニ",
+    "hiragana": "マカロニ",
+    "romaji": "makaroni",
+    "meaning": "makaroni",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-078",
+    "kanji": "メス",
+    "hiragana": "メス",
+    "romaji": "mesu",
+    "meaning": "pisau bedah",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-079",
+    "kanji": "メルヘン",
+    "hiragana": "メルヘン",
+    "romaji": "meruhen",
+    "meaning": "cerita dongeng",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-080",
+    "kanji": "メロディー",
+    "hiragana": "メロディー",
+    "romaji": "merodii",
+    "meaning": "melodi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-081",
+    "kanji": "ランジェリー",
+    "hiragana": "ランジェリー",
+    "romaji": "ranjierii",
+    "meaning": "pakaian dalam",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-082",
+    "kanji": "レジャー",
+    "hiragana": "レジャー",
+    "romaji": "rejaa",
+    "meaning": "hiburan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-46-083",
+    "kanji": "レントゲン",
+    "hiragana": "レントゲン",
+    "romaji": "rentogen",
+    "meaning": "ronsen",
+    "level": "-",
+    "importinity": 2
+  }
+]

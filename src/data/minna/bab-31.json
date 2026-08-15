@@ -1,0 +1,794 @@
+[
+  {
+    "id": "mn-31-001",
+    "kanji": "［お］葬式",
+    "hiragana": "［お］そうしき",
+    "romaji": "[o]soushiki",
+    "meaning": "upacara kematian",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-002",
+    "kanji": "～の 方",
+    "hiragana": "～の ほう",
+    "romaji": "~no hou",
+    "meaning": "sebelah ～",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-003",
+    "kanji": "ー号",
+    "hiragana": "ーごう",
+    "romaji": "-gou",
+    "meaning": "nomor ー (nomor yang dipakai untuk kereta, angin topan dan lain-lain)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-004",
+    "kanji": "お子さん",
+    "hiragana": "おこさん",
+    "romaji": "okosan",
+    "meaning": "anak orang lain",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-005",
+    "kanji": "ずっと",
+    "hiragana": "ずっと",
+    "romaji": "zutto",
+    "meaning": "seterusnya",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-006",
+    "kanji": "のぞみ",
+    "hiragana": "のぞみ",
+    "romaji": "nozomi",
+    "meaning": "nama Shinkansen, (～４２号：Nozomi No.42)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-007",
+    "kanji": "バリ",
+    "hiragana": "バリ",
+    "romaji": "bari",
+    "meaning": "Bali (pulau di Indonesia)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-008",
+    "kanji": "ピカソ",
+    "hiragana": "ピカソ",
+    "romaji": "pikaso",
+    "meaning": "Pablo Picasso, pelukis Spanyol (1881-1973)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-009",
+    "kanji": "映画館",
+    "hiragana": "えいがかん",
+    "romaji": "eigakan",
+    "meaning": "gedung bioskop",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-010",
+    "kanji": "温泉",
+    "hiragana": "おんせん",
+    "romaji": "onsen",
+    "meaning": "tempat pemandian air panas",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-011",
+    "kanji": "帰り",
+    "hiragana": "かえり",
+    "romaji": "kaeri",
+    "meaning": "pulang",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-012",
+    "kanji": "休憩します",
+    "hiragana": "きゅうけいします",
+    "romaji": "kyuukeishimasu",
+    "meaning": "beristirahat",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-013",
+    "kanji": "教会",
+    "hiragana": "きょうかい",
+    "romaji": "kyoukai",
+    "meaning": "gereja",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-014",
+    "kanji": "空",
+    "hiragana": "そら",
+    "romaji": "sora",
+    "meaning": "langit",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-015",
+    "kanji": "結婚式",
+    "hiragana": "けっこんしき",
+    "romaji": "kekkonshiki",
+    "meaning": "upacara pernikahan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-016",
+    "kanji": "月に",
+    "hiragana": "つきに",
+    "romaji": "tsukini",
+    "meaning": "dalam sebulan",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-017",
+    "kanji": "嫌［な］",
+    "hiragana": "いや［な］",
+    "romaji": "iya[na]",
+    "meaning": "tidak senang, tidak suka",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-018",
+    "kanji": "見つけます",
+    "hiragana": "みつけます",
+    "romaji": "mitsukemasu",
+    "meaning": "menemukan",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-019",
+    "kanji": "作文",
+    "hiragana": "さくぶん",
+    "romaji": "sakubun",
+    "meaning": "karangan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-020",
+    "kanji": "残ります",
+    "hiragana": "のこります",
+    "romaji": "nokorimasu",
+    "meaning": "tinggal",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-021",
+    "kanji": "子どもたち",
+    "hiragana": "こどもたち",
+    "romaji": "kodomotachi",
+    "meaning": "anak-anak",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-022",
+    "kanji": "支店",
+    "hiragana": "してん",
+    "romaji": "shiten",
+    "meaning": "kantor cabang",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-023",
+    "kanji": "自由に",
+    "hiragana": "じゆうに",
+    "romaji": "jiyuuni",
+    "meaning": "dengan bebas",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-024",
+    "kanji": "式",
+    "hiragana": "しき",
+    "romaji": "shiki",
+    "meaning": "upacara",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-025",
+    "kanji": "取ります［休みを～］",
+    "hiragana": "とります",
+    "romaji": "torimasu",
+    "meaning": "mengambil [cuti]",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-026",
+    "kanji": "受けます［試験を～］",
+    "hiragana": "うけます",
+    "romaji": "ukemasu",
+    "meaning": "mengikuti [ujian]",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-027",
+    "kanji": "新神戸",
+    "hiragana": "しんこうべ",
+    "romaji": "shinkoube",
+    "meaning": "nama stasiun yang ada di Hyogo prefektur",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-028",
+    "kanji": "申し込みます",
+    "hiragana": "もうしこみます",
+    "romaji": "moushikomimasu",
+    "meaning": "mendaftar",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-029",
+    "kanji": "続けます",
+    "hiragana": "つづけます",
+    "romaji": "tsuzukemasu",
+    "meaning": "melanjutkan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-030",
+    "kanji": "卒業します",
+    "hiragana": "そつぎょうします",
+    "romaji": "sotsugyoushimasu",
+    "meaning": "lulus, tamat",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-031",
+    "kanji": "村",
+    "hiragana": "むら",
+    "romaji": "mura",
+    "meaning": "desa, kampung",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-032",
+    "kanji": "大学院",
+    "hiragana": "だいがくいん",
+    "romaji": "daigakuin",
+    "meaning": "Program S2, S3 Universitas",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-033",
+    "kanji": "展覧会",
+    "hiragana": "てんらんかい",
+    "romaji": "tenrankai",
+    "meaning": "pameran",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-034",
+    "kanji": "都会",
+    "hiragana": "とかい",
+    "romaji": "tokai",
+    "meaning": "kota besar",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-035",
+    "kanji": "動物園",
+    "hiragana": "どうぶつえん",
+    "romaji": "doubutsuen",
+    "meaning": "kebun binatang",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-036",
+    "kanji": "入学試験",
+    "hiragana": "にゅうがくしけん",
+    "romaji": "nyuugakushiken",
+    "meaning": "ujian masuk",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-037",
+    "kanji": "発表",
+    "hiragana": "はっぴょう",
+    "romaji": "happyou",
+    "meaning": "presentasi (～します：mempresentasikan)",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-038",
+    "kanji": "閉じます",
+    "hiragana": "とじます",
+    "romaji": "tojimasu",
+    "meaning": "tutup",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-039",
+    "kanji": "本社",
+    "hiragana": "ほんしゃ",
+    "romaji": "honsha",
+    "meaning": "kantor pusat",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-040",
+    "kanji": "連休",
+    "hiragana": "れんきゅう",
+    "romaji": "renkyuu",
+    "meaning": "liburan berturutan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-31-041",
+    "kanji": "インターネット",
+    "hiragana": "インターネット",
+    "romaji": "intaanetto",
+    "meaning": "Internet",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-042",
+    "kanji": "お客",
+    "hiragana": "おきゃく",
+    "romaji": "okyaku",
+    "meaning": "Tamu, langganan",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-043",
+    "kanji": "コンピューター工学",
+    "hiragana": "コンピューターこうがく",
+    "romaji": "konpyuutaakougaku",
+    "meaning": "ilmu informatika",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-044",
+    "kanji": "すばらしさ",
+    "hiragana": "すばらしさ",
+    "romaji": "subarashisa",
+    "meaning": "Kebaikan, keindahan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-045",
+    "kanji": "だれか",
+    "hiragana": "だれか",
+    "romaji": "dareka",
+    "meaning": "Seseorang",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-046",
+    "kanji": "遺伝子工学",
+    "hiragana": "いでんしこうがく",
+    "romaji": "idenshikougaku",
+    "meaning": "ilmu genetika",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-047",
+    "kanji": "医学",
+    "hiragana": "いがく",
+    "romaji": "igaku",
+    "meaning": "ilmu kedokteran",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-048",
+    "kanji": "音楽",
+    "hiragana": "おんがく",
+    "romaji": "ongaku",
+    "meaning": "ilmu seni musik",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-049",
+    "kanji": "化学",
+    "hiragana": "かがく",
+    "romaji": "kagaku",
+    "meaning": "ilmu kimia",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-050",
+    "kanji": "環境科学",
+    "hiragana": "かんきょうかがく",
+    "romaji": "kankyoukagaku",
+    "meaning": "ilmu tata lingkungan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-051",
+    "kanji": "機械工学",
+    "hiragana": "きかいこうがく",
+    "romaji": "kikaikougaku",
+    "meaning": "ilmu teknik mesin",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-052",
+    "kanji": "気が付きます",
+    "hiragana": "きがつきます",
+    "romaji": "kigatsukimasu",
+    "meaning": "Menyadari",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-053",
+    "kanji": "教育学",
+    "hiragana": "きょういくがく",
+    "romaji": "kyouikugaku",
+    "meaning": "ilmu pendidikan",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-054",
+    "kanji": "経営学",
+    "hiragana": "けいえいがく",
+    "romaji": "keieigaku",
+    "meaning": "ilmu manajemen bisnis",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-055",
+    "kanji": "経済学",
+    "hiragana": "けいざいがく",
+    "romaji": "keizaigaku",
+    "meaning": "ilmu ekonomi",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-056",
+    "kanji": "芸術",
+    "hiragana": "げいじゅつ",
+    "romaji": "geijutsu",
+    "meaning": "ilmu seni",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-057",
+    "kanji": "建築学",
+    "hiragana": "けんちくがく",
+    "romaji": "kenchikugaku",
+    "meaning": "ilmu arsitektur",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-058",
+    "kanji": "言語学",
+    "hiragana": "げんごがく",
+    "romaji": "gengogaku",
+    "meaning": "ilmu linguistik",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-059",
+    "kanji": "工学",
+    "hiragana": "こうがく",
+    "romaji": "kougaku",
+    "meaning": "ilmu teknik",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-060",
+    "kanji": "国際関係学",
+    "hiragana": "こくさいかんけいがく",
+    "romaji": "kokusaikankeigaku",
+    "meaning": "ilmu hubungan internasional",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-061",
+    "kanji": "始まります",
+    "hiragana": "はじまります",
+    "romaji": "hajimarimasu",
+    "meaning": "Mulai, dimulai",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-062",
+    "kanji": "自然",
+    "hiragana": "しぜん",
+    "romaji": "shizen",
+    "meaning": "Alam",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-063",
+    "kanji": "社会学",
+    "hiragana": "しゃかいがく",
+    "romaji": "shakaigaku",
+    "meaning": "ilmu sosial",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-064",
+    "kanji": "宗教学",
+    "hiragana": "しゅうきょうがく",
+    "romaji": "shuukyougaku",
+    "meaning": "ilmu teologi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-065",
+    "kanji": "集まります",
+    "hiragana": "あつまります",
+    "romaji": "atsumarimasu",
+    "meaning": "Berkumpul",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-066",
+    "kanji": "出席します",
+    "hiragana": "しゅっせきします",
+    "romaji": "shussekishimasu",
+    "meaning": "Menghadiri",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-067",
+    "kanji": "心理学",
+    "hiragana": "しんりがく",
+    "romaji": "shinrigaku",
+    "meaning": "ilmu psikologi",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-068",
+    "kanji": "数学",
+    "hiragana": "すうがく",
+    "romaji": "suugaku",
+    "meaning": "ilmu matematika",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-069",
+    "kanji": "世界中",
+    "hiragana": "せかいじゅう",
+    "romaji": "sekaijuu",
+    "meaning": "Seluruh dunia",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-070",
+    "kanji": "政治学",
+    "hiragana": "せいじがく",
+    "romaji": "seijigaku",
+    "meaning": "ilmu politik",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-071",
+    "kanji": "生化学",
+    "hiragana": "せいかがく",
+    "romaji": "seikagaku",
+    "meaning": "ilmu biokimia",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-072",
+    "kanji": "生物学",
+    "hiragana": "せいぶつがく",
+    "romaji": "seibutsugaku",
+    "meaning": "ilmu biologi",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-073",
+    "kanji": "体育学",
+    "hiragana": "たいいくがく",
+    "romaji": "taiikugaku",
+    "meaning": "ilmu pendidikan jasmani",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-074",
+    "kanji": "地学",
+    "hiragana": "ちがく",
+    "romaji": "chigaku",
+    "meaning": "ilmu geologi",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-075",
+    "kanji": "地理学",
+    "hiragana": "ちりがく",
+    "romaji": "chirigaku",
+    "meaning": "ilmu geografi",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-076",
+    "kanji": "哲学",
+    "hiragana": "てつがく",
+    "romaji": "tetsugaku",
+    "meaning": "ilmu filsafat",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-077",
+    "kanji": "天文学",
+    "hiragana": "てんもんがく",
+    "romaji": "tenmongaku",
+    "meaning": "ilmu astronomi",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-078",
+    "kanji": "電気工学",
+    "hiragana": "でんきこうがく",
+    "romaji": "denkikougaku",
+    "meaning": "ilmu teknik listrik",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-079",
+    "kanji": "電子工学",
+    "hiragana": "でんしこうがく",
+    "romaji": "denshikougaku",
+    "meaning": "ilmu teknik elektronik",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-080",
+    "kanji": "土木工学",
+    "hiragana": "どぼくこうがく",
+    "romaji": "dobokukougaku",
+    "meaning": "ilmu teknik sipil",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-081",
+    "kanji": "農学",
+    "hiragana": "のうがく",
+    "romaji": "nougaku",
+    "meaning": "ilmu pertanian",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-082",
+    "kanji": "美しい",
+    "hiragana": "うつくしい",
+    "romaji": "utsukushii",
+    "meaning": "Indah",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-083",
+    "kanji": "美術",
+    "hiragana": "びじゅつ",
+    "romaji": "bijutsu",
+    "meaning": "ilmu seni murni",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-084",
+    "kanji": "普通の",
+    "hiragana": "ふつうの",
+    "romaji": "futsuuno",
+    "meaning": "Umum, biasa",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-085",
+    "kanji": "物理学",
+    "hiragana": "ぶつりがく",
+    "romaji": "butsurigaku",
+    "meaning": "ilmu fisika",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-086",
+    "kanji": "文学",
+    "hiragana": "ぶんがく",
+    "romaji": "bungaku",
+    "meaning": "ilmu sastra",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-087",
+    "kanji": "法律学",
+    "hiragana": "ほうりつがく",
+    "romaji": "houritsugaku",
+    "meaning": "ilmu hukum",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-31-088",
+    "kanji": "薬学",
+    "hiragana": "やくがく",
+    "romaji": "yakugaku",
+    "meaning": "ilmu farmasi",
+    "level": "N3",
+    "importinity": 2
+  }
+]

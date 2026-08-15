@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "ir-a2-2-09-001",
+    "kanji": "季節",
+    "hiragana": "きせつ",
+    "romaji": "kisetsu",
+    "meaning": "musim",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-002",
+    "kanji": "行事",
+    "hiragana": "ぎょうじ",
+    "romaji": "gyouji",
+    "meaning": "acara,  kegiatan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-003",
+    "kanji": "正月／お正月",
+    "hiragana": "しょうがつ／おしょうがつ",
+    "romaji": "shougatsu/oshougatsu",
+    "meaning": "Hari Tahun Baru",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-004",
+    "kanji": "成人の日",
+    "hiragana": "せいじんのひ",
+    "romaji": "seijinnohi",
+    "meaning": "Hari Kedewasaan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-005",
+    "kanji": "ひな祭り",
+    "hiragana": "ひなまつり",
+    "romaji": "hinamatsuri",
+    "meaning": "Hinamatsuri (Festival Boneka)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-006",
+    "kanji": "こどもの日",
+    "hiragana": "こどものひ",
+    "romaji": "kodomonohi",
+    "meaning": "Kodomo-no-hi (Hari Anak-Anak)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-007",
+    "kanji": "七夕",
+    "hiragana": "たなばた",
+    "romaji": "tanabata",
+    "meaning": "Tanabata (Festival Bintang)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-008",
+    "kanji": "クリスマス",
+    "hiragana": "クリスマス",
+    "romaji": "kurisumasu",
+    "meaning": "Hari Natal",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-009",
+    "kanji": "式",
+    "hiragana": "しき",
+    "romaji": "shiki",
+    "meaning": "upacara",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-010",
+    "kanji": "市長",
+    "hiragana": "しちょう",
+    "romaji": "shichou",
+    "meaning": "wali kota",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-011",
+    "kanji": "話",
+    "hiragana": "はなし",
+    "romaji": "hanashi",
+    "meaning": "sambutan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-012",
+    "kanji": "チキン",
+    "hiragana": "チキン",
+    "romaji": "chikin",
+    "meaning": "ayam",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-013",
+    "kanji": "笹の葉",
+    "hiragana": "ささのは",
+    "romaji": "sasanoha",
+    "meaning": "daun bambu",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-014",
+    "kanji": "飾り",
+    "hiragana": "かざり",
+    "romaji": "kazari",
+    "meaning": "dekorasi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-015",
+    "kanji": "つける（飾りをつける）",
+    "hiragana": "つける（かざりをつける）",
+    "romaji": "tsukeru(kazariwotsukeru)",
+    "meaning": "memasang (cth : memasang dekorasi)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-016",
+    "kanji": "着物",
+    "hiragana": "きもの",
+    "romaji": "kimono",
+    "meaning": "kimono (pakaian tradisional Jepang)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-017",
+    "kanji": "ちらしずし",
+    "hiragana": "ちらしずし",
+    "romaji": "chirashizushi",
+    "meaning": "chirashi-zushi (hidangan yang terbuat dari nasi sushi dengan hiasan berbagai topping)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-018",
+    "kanji": "デートする",
+    "hiragana": "デートする",
+    "romaji": "deetosuru",
+    "meaning": "berkencan,  kencan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-019",
+    "kanji": "短冊",
+    "hiragana": "たんざく",
+    "romaji": "tanzaku",
+    "meaning": "tanzaku (lembaran kertas yang digunakan saat perayaan Tanabata)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-020",
+    "kanji": "願い事",
+    "hiragana": "ねがいごと",
+    "romaji": "negaigoto",
+    "meaning": "harapan,  keinginan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-021",
+    "kanji": "書く",
+    "hiragana": "かく",
+    "romaji": "kaku",
+    "meaning": "menulis",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-022",
+    "kanji": "甘酒",
+    "hiragana": "あまざけ",
+    "romaji": "amazake",
+    "meaning": "amazake (minuman manis yang terbuat dari beras)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-023",
+    "kanji": "こうして",
+    "hiragana": "こうして",
+    "romaji": "koushite",
+    "meaning": "seperti ini",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-024",
+    "kanji": "お米",
+    "hiragana": "おこめ",
+    "romaji": "okome",
+    "meaning": "beras",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-025",
+    "kanji": "アルコール",
+    "hiragana": "アルコール",
+    "romaji": "arukooru",
+    "meaning": "alkohol",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-026",
+    "kanji": "若い",
+    "hiragana": "わかい",
+    "romaji": "wakai",
+    "meaning": "muda",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-027",
+    "kanji": "お祝いする",
+    "hiragana": "おいわいする",
+    "romaji": "oiwaisuru",
+    "meaning": "merayakan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-028",
+    "kanji": "成人式",
+    "hiragana": "せいじんしき",
+    "romaji": "seijinshiki",
+    "meaning": "Upacara Hari Kedewasaan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-029",
+    "kanji": "おしゃれをする",
+    "hiragana": "おしゃれをする",
+    "romaji": "osharewosuru",
+    "meaning": "berdandan,  berpakaian indah",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-030",
+    "kanji": "中学校",
+    "hiragana": "ちゅうがっこう",
+    "romaji": "chuugakkou",
+    "meaning": "SMP (Sekolah Menengah Pertama)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-031",
+    "kanji": "盛り上がる",
+    "hiragana": "もりあがる",
+    "romaji": "moriagaru",
+    "meaning": "meriah,  semarak",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-032",
+    "kanji": "フライドチキン",
+    "hiragana": "フライドチキン",
+    "romaji": "furaidochikin",
+    "meaning": "fried chicken (ayam goreng)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-033",
+    "kanji": "必ず",
+    "hiragana": "かならず",
+    "romaji": "kanarazu",
+    "meaning": "selalu",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-034",
+    "kanji": "過ごす",
+    "hiragana": "すごす",
+    "romaji": "sugosu",
+    "meaning": "menghabiskan waktu",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-035",
+    "kanji": "DVD",
+    "hiragana": "ディーブイディイー",
+    "romaji": "diibuidiii",
+    "meaning": "DVD",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-036",
+    "kanji": "実家",
+    "hiragana": "じっか",
+    "romaji": "jikka",
+    "meaning": "rumah orang tua",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-037",
+    "kanji": "ごろごろする",
+    "hiragana": "ごろごろする",
+    "romaji": "gorogorosuru",
+    "meaning": "bermalas-malasan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-038",
+    "kanji": "お年玉",
+    "hiragana": "おとしだま",
+    "romaji": "otoshidama",
+    "meaning": "otoshidama (angpau / uang hadiah saat perayaan Tahun Baru)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-039",
+    "kanji": "乗り物",
+    "hiragana": "のりもの",
+    "romaji": "norimono",
+    "meaning": "wahana permainan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-040",
+    "kanji": "今年",
+    "hiragana": "ことし",
+    "romaji": "kotoshi",
+    "meaning": "tahun ini",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-041",
+    "kanji": "親戚",
+    "hiragana": "しんせき",
+    "romaji": "shinseki",
+    "meaning": "kerabat",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-042",
+    "kanji": "集まる",
+    "hiragana": "あつまる",
+    "romaji": "atsumaru",
+    "meaning": "berkumpul",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-043",
+    "kanji": "毎年",
+    "hiragana": "まいとし",
+    "romaji": "maitoshi",
+    "meaning": "setiap tahun",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-044",
+    "kanji": "甥",
+    "hiragana": "おい",
+    "romaji": "oi",
+    "meaning": "keponakan laki-laki",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-045",
+    "kanji": "姪",
+    "hiragana": "めい",
+    "romaji": "mei",
+    "meaning": "keponakan perempuan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-046",
+    "kanji": "あけましておめでとうございます",
+    "hiragana": "あけましておめでとうございます",
+    "romaji": "akemashiteomedetougozaimasu",
+    "meaning": "Selamat Tahun Baru",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-047",
+    "kanji": "祭り",
+    "hiragana": "まつり",
+    "romaji": "matsuri",
+    "meaning": "festival",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-048",
+    "kanji": "田舎",
+    "hiragana": "いなか",
+    "romaji": "inaka",
+    "meaning": "kampung halaman (di pedesaan)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-049",
+    "kanji": "飾る",
+    "hiragana": "かざる",
+    "romaji": "kazaru",
+    "meaning": "menghias",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-050",
+    "kanji": "特別（な）",
+    "hiragana": "とくべつ（な）",
+    "romaji": "tokubetsu(na)",
+    "meaning": "spesial,  khusus",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-051",
+    "kanji": "パーティー",
+    "hiragana": "パーティー",
+    "romaji": "paateii",
+    "meaning": "pesta",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-052",
+    "kanji": "歌う",
+    "hiragana": "うたう",
+    "romaji": "utau",
+    "meaning": "menyanyi",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-053",
+    "kanji": "踊る",
+    "hiragana": "おどる",
+    "romaji": "odoru",
+    "meaning": "menari",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-054",
+    "kanji": "お金",
+    "hiragana": "おかね",
+    "romaji": "okane",
+    "meaning": "uang",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-055",
+    "kanji": "断食",
+    "hiragana": "だんじき",
+    "romaji": "danjiki",
+    "meaning": "berpuasa",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-056",
+    "kanji": "～明け（断食明け）",
+    "hiragana": "～あけ（だんじきあけ）",
+    "romaji": "~ake(danjikiake)",
+    "meaning": "setelah ~ (cth : setelah berpuasa)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-057",
+    "kanji": "旧暦",
+    "hiragana": "きゅうれき",
+    "romaji": "kyuureki",
+    "meaning": "kalender lunar Tiongkok",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-058",
+    "kanji": "キリスト教",
+    "hiragana": "きりすときょう",
+    "romaji": "kirisutokyou",
+    "meaning": "agama Kristen",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-059",
+    "kanji": "お祝い",
+    "hiragana": "おいわい",
+    "romaji": "oiwai",
+    "meaning": "perayaan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-060",
+    "kanji": "水かけ祭り",
+    "hiragana": "みずかけまつり",
+    "romaji": "mizukakematsuri",
+    "meaning": "Festival Air (festival khas Thailand)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-061",
+    "kanji": "年",
+    "hiragana": "とし",
+    "romaji": "toshi",
+    "meaning": "tahun",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-062",
+    "kanji": "～によって（年によって）",
+    "hiragana": "～によって（としによって）",
+    "romaji": "~niyotte(toshiniyotte)",
+    "meaning": "bergantung pada ~ (cth : bergantung pada tahun)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-063",
+    "kanji": "春節",
+    "hiragana": "しゅんせつ",
+    "romaji": "shunsetsu",
+    "meaning": "Tahun Baru Imlek",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-064",
+    "kanji": "ソンクラーン",
+    "hiragana": "ソンクラーン",
+    "romaji": "sonkuraan",
+    "meaning": "Songkran (perayaan tahun baru tradisional masyarakat Thailand)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-065",
+    "kanji": "レバラン",
+    "hiragana": "レバラン",
+    "romaji": "rebaran",
+    "meaning": "Lebaran (hari raya dalam agama Islam)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-066",
+    "kanji": "海外旅行",
+    "hiragana": "かいがいりょこう",
+    "romaji": "kaigairyokou",
+    "meaning": "berwisata ke luar negeri",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-067",
+    "kanji": "赤い",
+    "hiragana": "あかい",
+    "romaji": "akai",
+    "meaning": "merah",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-068",
+    "kanji": "かけ合う",
+    "hiragana": "かけあう",
+    "romaji": "kakeau",
+    "meaning": "saling melempar / mencipratkan (air)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-069",
+    "kanji": "クトゥッパット",
+    "hiragana": "クトゥッパット",
+    "romaji": "kutouppatto",
+    "meaning": "ketupat (makanan khas Indonesia)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-070",
+    "kanji": "餃子",
+    "hiragana": "ぎょうざ",
+    "romaji": "gyouza",
+    "meaning": "pangsit dengan isian",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-071",
+    "kanji": "豚",
+    "hiragana": "ぶた",
+    "romaji": "buta",
+    "meaning": "babi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-072",
+    "kanji": "丸焼き",
+    "hiragana": "まるやき",
+    "romaji": "maruyaki",
+    "meaning": "panggang (secara) utuh",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-073",
+    "kanji": "クッキー",
+    "hiragana": "クッキー",
+    "romaji": "kukkii",
+    "meaning": "kue kering",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-074",
+    "kanji": "大切（な）",
+    "hiragana": "たいせつ（な）",
+    "romaji": "taisetsu(na)",
+    "meaning": "penting,  berharga",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-075",
+    "kanji": "どんなふうに",
+    "hiragana": "どんなふうに",
+    "romaji": "donnafuuni",
+    "meaning": "bagaimana",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-076",
+    "kanji": "祝う",
+    "hiragana": "いわう",
+    "romaji": "iwau",
+    "meaning": "merayakan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-077",
+    "kanji": "赤",
+    "hiragana": "あか",
+    "romaji": "aka",
+    "meaning": "merah",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-078",
+    "kanji": "おめでたい",
+    "hiragana": "おめでたい",
+    "romaji": "omedetai",
+    "meaning": "bernuansa perayaan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-079",
+    "kanji": "色",
+    "hiragana": "いろ",
+    "romaji": "iro",
+    "meaning": "warna",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-080",
+    "kanji": "イスラム教",
+    "hiragana": "イスラムきょう",
+    "romaji": "isuramukyou",
+    "meaning": "agama Islam",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-081",
+    "kanji": "ラマダン",
+    "hiragana": "ラマダン",
+    "romaji": "ramadan",
+    "meaning": "Ramadan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-082",
+    "kanji": "例えば",
+    "hiragana": "たとえば",
+    "romaji": "tatoeba",
+    "meaning": "misalnya",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-083",
+    "kanji": "飾りつけ",
+    "hiragana": "かざりつけ",
+    "romaji": "kazaritsuke",
+    "meaning": "dekorasi,  hiasan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-084",
+    "kanji": "半分",
+    "hiragana": "はんぶん",
+    "romaji": "hanbun",
+    "meaning": "setengah",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-085",
+    "kanji": "餅つき",
+    "hiragana": "もちつき",
+    "romaji": "mochitsuki",
+    "meaning": "menumbuk kue Mochi (kue beras khas Jepang)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-086",
+    "kanji": "当日",
+    "hiragana": "とうじつ",
+    "romaji": "toujitsu",
+    "meaning": "pada hari itu",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-087",
+    "kanji": "大人",
+    "hiragana": "おとな",
+    "romaji": "otona",
+    "meaning": "orang dewasa",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-088",
+    "kanji": "味わう",
+    "hiragana": "あじわう",
+    "romaji": "ajiwau",
+    "meaning": "merasakan,  menikmati",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-089",
+    "kanji": "伝統的（な）",
+    "hiragana": "でんとうてき（な）",
+    "romaji": "dentouteki(na)",
+    "meaning": "tradisional",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-090",
+    "kanji": "文化",
+    "hiragana": "ぶんか",
+    "romaji": "bunka",
+    "meaning": "kebudayaan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-091",
+    "kanji": "感想",
+    "hiragana": "かんそう",
+    "romaji": "kansou",
+    "meaning": "impresi,  kesan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-092",
+    "kanji": "語る",
+    "hiragana": "かたる",
+    "romaji": "kataru",
+    "meaning": "bercerita",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-093",
+    "kanji": "活動報告",
+    "hiragana": "かつどうほうこく",
+    "romaji": "katsudouhoukoku",
+    "meaning": "laporan kegiatan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-094",
+    "kanji": "実際に",
+    "hiragana": "じっさいに",
+    "romaji": "jissaini",
+    "meaning": "sebenarnya",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-095",
+    "kanji": "杵",
+    "hiragana": "きね",
+    "romaji": "kine",
+    "meaning": "alu (semacam alat dari kayu untuk menumbuk)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-096",
+    "kanji": "体験する",
+    "hiragana": "たいけんする",
+    "romaji": "taikensuru",
+    "meaning": "mencoba,  merasakan (pengalaman baru)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-097",
+    "kanji": "つきたて",
+    "hiragana": "つきたて",
+    "romaji": "tsukitate",
+    "meaning": "baru dibuat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-098",
+    "kanji": "お餅",
+    "hiragana": "おもち",
+    "romaji": "omochi",
+    "meaning": "mochi (kue beras khas Jepang)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-099",
+    "kanji": "きなこ",
+    "hiragana": "きなこ",
+    "romaji": "kinako",
+    "meaning": "kinako (tepung kedelai)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-100",
+    "kanji": "あんこ",
+    "hiragana": "あんこ",
+    "romaji": "anko",
+    "meaning": "anko (pasta kacang merah)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-101",
+    "kanji": "餅をつく",
+    "hiragana": "もちをつく",
+    "romaji": "mochiwotsuku",
+    "meaning": "menumbuk",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-102",
+    "kanji": "チームワーク",
+    "hiragana": "チームワーク",
+    "romaji": "chiimuwaaku",
+    "meaning": "kerja tim",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-103",
+    "kanji": "トック",
+    "hiragana": "トック",
+    "romaji": "tokku",
+    "meaning": "tteok (kue beras khas Korea)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-104",
+    "kanji": "思ったより（も）",
+    "hiragana": "おもったより（も）",
+    "romaji": "omottayori(mo)",
+    "meaning": "lebih dari yang diharapkan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-105",
+    "kanji": "昨年",
+    "hiragana": "さくねん",
+    "romaji": "sakunen",
+    "meaning": "tahun lalu",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-106",
+    "kanji": "昨年はいろいろお世話になりました",
+    "hiragana": "さくねんはいろいろおせわになりました",
+    "romaji": "sakunenhairoiroosewaninarimashita",
+    "meaning": "Terima kasih banyak untuk semua hal di tahun lalu.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-107",
+    "kanji": "今年もよろしくお願いします",
+    "hiragana": "こともよろしくおねがいします",
+    "romaji": "kotomoyoroshikuonegaishimasu",
+    "meaning": "Saya berharap dapat bekerja bersama Anda kembali di tahun ini.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-108",
+    "kanji": "あけおめ",
+    "hiragana": "あけおめ",
+    "romaji": "akeome",
+    "meaning": "(bentuk singkat untuk mengatakan akemashite omedetou)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-109",
+    "kanji": "ことよろ",
+    "hiragana": "ことよろ",
+    "romaji": "kotoyoro",
+    "meaning": "(bentuk singkat untuk mengatakan kotoshio yoroshiku)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-110",
+    "kanji": "謹賀新年",
+    "hiragana": "きんがしんねん",
+    "romaji": "kingashinnen",
+    "meaning": "Selamat Tahun Baru (ungkapan salam ucapan tahun baru yang digunakan dalam kartu ucapan)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-111",
+    "kanji": "遊ぼう",
+    "hiragana": "あそぼう",
+    "romaji": "asobou",
+    "meaning": "Ayo nongkrong / hang out!",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-09-112",
+    "kanji": "また遊ぼうね",
+    "hiragana": "またあそぼうね",
+    "romaji": "mataasoboune",
+    "meaning": "Ayo nongkrong / hang out lagi selanjutnya, ya!",
+    "level": "N3",
+    "isExtra": false
+  }
+]

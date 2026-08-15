@@ -1,0 +1,650 @@
+[
+  {
+    "id": "ir-a2-1-18-001",
+    "kanji": "結婚（する）",
+    "hiragana": "けっこん（する）",
+    "romaji": "kekkon(suru)",
+    "meaning": "menikah",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-002",
+    "kanji": "出産",
+    "hiragana": "しゅっさん",
+    "romaji": "shussan",
+    "meaning": "melahirkan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-003",
+    "kanji": "生まれる",
+    "hiragana": "うまれる",
+    "romaji": "umareru",
+    "meaning": "lahir",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-004",
+    "kanji": "合格（する）",
+    "hiragana": "ごうかく（する）",
+    "romaji": "goukaku(suru)",
+    "meaning": "lulus",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-005",
+    "kanji": "男の子",
+    "hiragana": "おとこのこ",
+    "romaji": "otokonoko",
+    "meaning": "anak laki-laki",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-006",
+    "kanji": "女の子",
+    "hiragana": "おんなのこ",
+    "romaji": "onnanoko",
+    "meaning": "anak perempuan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-007",
+    "kanji": "決める",
+    "hiragana": "きめる",
+    "romaji": "kimeru",
+    "meaning": "memutuskan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-008",
+    "kanji": "考える",
+    "hiragana": "かんがえる",
+    "romaji": "kangaeru",
+    "meaning": "berpikir",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-009",
+    "kanji": "ご結婚",
+    "hiragana": "ごけっこん",
+    "romaji": "gokekkon",
+    "meaning": "pernikahan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-010",
+    "kanji": "私たち",
+    "hiragana": "わたしたち",
+    "romaji": "watashitachi",
+    "meaning": "kami,  kita",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-011",
+    "kanji": "うれしい",
+    "hiragana": "うれしい",
+    "romaji": "ureshii",
+    "meaning": "senang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-012",
+    "kanji": "相手",
+    "hiragana": "あいて",
+    "romaji": "aite",
+    "meaning": "pasangan,  suami / istri",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-013",
+    "kanji": "お祝い",
+    "hiragana": "おいわい",
+    "romaji": "oiwai",
+    "meaning": "perayaan,  hadiah",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-014",
+    "kanji": "ごちそうする",
+    "hiragana": "ごちそうする",
+    "romaji": "gochisousuru",
+    "meaning": "menjamu,  mentraktir",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-015",
+    "kanji": "きっと",
+    "hiragana": "きっと",
+    "romaji": "kitto",
+    "meaning": "pasti",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-016",
+    "kanji": "あげる",
+    "hiragana": "あげる",
+    "romaji": "ageru",
+    "meaning": "memberi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-017",
+    "kanji": "楽しみですね",
+    "hiragana": "たのしみですね",
+    "romaji": "tanoshimidesune",
+    "meaning": "Wah, menyenangkan, ya.",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-018",
+    "kanji": "おめでとう（ございます）",
+    "hiragana": "おめでとう（ございます）",
+    "romaji": "omedetou(gozaimasu)",
+    "meaning": "Selamat.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-019",
+    "kanji": "お幸せに",
+    "hiragana": "おしあわせに",
+    "romaji": "oshiawaseni",
+    "meaning": "Semoga bahagia.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-020",
+    "kanji": "JLPT",
+    "hiragana": "ジェーエルピーティー",
+    "romaji": "jieeerupiiteii",
+    "meaning": "JLPT (Japanese-Language Proficiency Test)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-021",
+    "kanji": "フォトフレーム",
+    "hiragana": "フォトフレーム",
+    "romaji": "fotofureemu",
+    "meaning": "bingkai foto",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-022",
+    "kanji": "時計",
+    "hiragana": "とけい",
+    "romaji": "tokei",
+    "meaning": "jam",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-023",
+    "kanji": "ネクタイ",
+    "hiragana": "ネクタイ",
+    "romaji": "nekutai",
+    "meaning": "dasi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-024",
+    "kanji": "アクセサリー",
+    "hiragana": "アクセサリー",
+    "romaji": "akusesarii",
+    "meaning": "aksesori",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-025",
+    "kanji": "ハンカチ",
+    "hiragana": "ハンカチ",
+    "romaji": "hankachi",
+    "meaning": "saputangan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-026",
+    "kanji": "ケーキ",
+    "hiragana": "ケーキ",
+    "romaji": "keeki",
+    "meaning": "kue",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-027",
+    "kanji": "ギフトカード",
+    "hiragana": "ギフトカード",
+    "romaji": "gifutokaado",
+    "meaning": "voucer,  kartu diskon",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-028",
+    "kanji": "帰国（する）",
+    "hiragana": "きこく（する）",
+    "romaji": "kikoku(suru)",
+    "meaning": "pulang ke negara asal",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-029",
+    "kanji": "さびしい",
+    "hiragana": "さびしい",
+    "romaji": "sabishii",
+    "meaning": "sepi (dirindukan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-030",
+    "kanji": "送別会",
+    "hiragana": "そうべつかい",
+    "romaji": "soubetsukai",
+    "meaning": "pesta perpisahan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-031",
+    "kanji": "呼ぶ",
+    "hiragana": "よぶ",
+    "romaji": "yobu",
+    "meaning": "memanggil (mengundang)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-032",
+    "kanji": "予約する",
+    "hiragana": "よやくする",
+    "romaji": "yoyakusuru",
+    "meaning": "memesan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-033",
+    "kanji": "思い出",
+    "hiragana": "おもいで",
+    "romaji": "omoide",
+    "meaning": "kenangan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-034",
+    "kanji": "残る",
+    "hiragana": "のこる",
+    "romaji": "nokoru",
+    "meaning": "tetap tinggal,  tetap ada",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-035",
+    "kanji": "思う",
+    "hiragana": "おもう",
+    "romaji": "omou",
+    "meaning": "mengira,  berpikir",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-036",
+    "kanji": "予算",
+    "hiragana": "よさん",
+    "romaji": "yosan",
+    "meaning": "anggaran",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-037",
+    "kanji": "参加者",
+    "hiragana": "さんかしゃ",
+    "romaji": "sankasha",
+    "meaning": "peserta",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-038",
+    "kanji": "それなら",
+    "hiragana": "それなら",
+    "romaji": "sorenara",
+    "meaning": "kalau begitu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-039",
+    "kanji": "デジタルフォトフレーム",
+    "hiragana": "デジタルフォトフレーム",
+    "romaji": "dejitarufotofureemu",
+    "meaning": "bingkai foto digital",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-040",
+    "kanji": "選ぶ",
+    "hiragana": "えらぶ",
+    "romaji": "erabu",
+    "meaning": "memilih",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-041",
+    "kanji": "それでは",
+    "hiragana": "それでは",
+    "romaji": "soredeha",
+    "meaning": "sekarang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-042",
+    "kanji": "あいさつ",
+    "hiragana": "あいさつ",
+    "romaji": "aisatsu",
+    "meaning": "sambutan,  salam (perpisahan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-043",
+    "kanji": "はじめ",
+    "hiragana": "はじめ",
+    "romaji": "hajime",
+    "meaning": "pertama-tama",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-044",
+    "kanji": "友だちができる",
+    "hiragana": "ともだちができる",
+    "romaji": "tomodachigadekiru",
+    "meaning": "mendapat teman",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-045",
+    "kanji": "大切にする",
+    "hiragana": "たいせつにする",
+    "romaji": "taisetsunisuru",
+    "meaning": "jaga,  rawat dengan baik",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-046",
+    "kanji": "飾る",
+    "hiragana": "かざる",
+    "romaji": "kazaru",
+    "meaning": "memajang",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-047",
+    "kanji": "～のこと（私のこと）",
+    "hiragana": "～のこと（わたしのこと）",
+    "romaji": "~nokoto(watashinokoto)",
+    "meaning": "tentang ~ (tentang saya)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-048",
+    "kanji": "忘れる",
+    "hiragana": "わすれる",
+    "romaji": "wasureru",
+    "meaning": "lupa",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-049",
+    "kanji": "お元気で",
+    "hiragana": "おげんきで",
+    "romaji": "ogenkide",
+    "meaning": "Jaga diri baik-baik. / Sehat selalu.",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-050",
+    "kanji": "乾杯",
+    "hiragana": "かんぱい",
+    "romaji": "kanpai",
+    "meaning": "Bersulang",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-051",
+    "kanji": "お世話になりました",
+    "hiragana": "おせわになりました",
+    "romaji": "osewaninarimashita",
+    "meaning": "Terima kasih untuk segala bantuannya.",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-052",
+    "kanji": "元気でいてください",
+    "hiragana": "げんきでいてください",
+    "romaji": "genkideitekudasai",
+    "meaning": "Semoga sehat selalu.",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-053",
+    "kanji": "メッセージ",
+    "hiragana": "メッセージ",
+    "romaji": "messeeji",
+    "meaning": "pesan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-054",
+    "kanji": "とうとう",
+    "hiragana": "とうとう",
+    "romaji": "toutou",
+    "meaning": "akhirnya",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-055",
+    "kanji": "～代（30代）",
+    "hiragana": "～だい（さんじゅうだい）",
+    "romaji": "~dai(sanjuudai)",
+    "meaning": "~ an (usia 30-an)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-056",
+    "kanji": "歌う",
+    "hiragana": "うたう",
+    "romaji": "utau",
+    "meaning": "menyanyi",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-057",
+    "kanji": "踊る",
+    "hiragana": "おどる",
+    "romaji": "odoru",
+    "meaning": "menari",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-058",
+    "kanji": "サービス",
+    "hiragana": "サービス",
+    "romaji": "saabisu",
+    "meaning": "layanan,  layanan gratis",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-059",
+    "kanji": "あたたかい",
+    "hiragana": "あたたかい",
+    "romaji": "atatakai",
+    "meaning": "hangat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-060",
+    "kanji": "カラオケ",
+    "hiragana": "カラオケ",
+    "romaji": "karaoke",
+    "meaning": "karaoke",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-061",
+    "kanji": "幸せ（な）",
+    "hiragana": "しあわせ（な）",
+    "romaji": "shiawase(na)",
+    "meaning": "bahagia",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-062",
+    "kanji": "素敵（な）",
+    "hiragana": "すてき（な）",
+    "romaji": "suteki(na)",
+    "meaning": "istimewa,  indah",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-063",
+    "kanji": "～ますように",
+    "hiragana": "～ますように",
+    "romaji": "~masuyouni",
+    "meaning": "Semoga ~. (digunakan untuk mengekspresikan harapan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-064",
+    "kanji": "家庭",
+    "hiragana": "かてい",
+    "romaji": "katei",
+    "meaning": "rumah tangga,  keluarga",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-065",
+    "kanji": "いつまでも",
+    "hiragana": "いつまでも",
+    "romaji": "itsumademo",
+    "meaning": "selamanya",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-066",
+    "kanji": "築く",
+    "hiragana": "きずく",
+    "romaji": "kizuku",
+    "meaning": "membangun",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-067",
+    "kanji": "末永く",
+    "hiragana": "すえながく",
+    "romaji": "suenagaku",
+    "meaning": "selamanya",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-068",
+    "kanji": "いなくなる",
+    "hiragana": "いなくなる",
+    "romaji": "inakunaru",
+    "meaning": "pergi meninggalkan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-069",
+    "kanji": "がんばってください",
+    "hiragana": "がんばってください",
+    "romaji": "ganbattekudasai",
+    "meaning": "Sukses selalu dan tetap semangat.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-070",
+    "kanji": "これまで",
+    "hiragana": "これまで",
+    "romaji": "koremade",
+    "meaning": "sampai saat ini",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-071",
+    "kanji": "活躍",
+    "hiragana": "かつやく",
+    "romaji": "katsuyaku",
+    "meaning": "keberhasilan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-18-072",
+    "kanji": "期待する",
+    "hiragana": "きたいする",
+    "romaji": "kitaisuru",
+    "meaning": "berharap",
+    "level": "N3",
+    "isExtra": false
+  }
+]

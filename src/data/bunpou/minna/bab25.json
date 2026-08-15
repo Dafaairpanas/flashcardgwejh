@@ -1,0 +1,142 @@
+[
+  {
+    "id": "m_bab25_1",
+    "chapter": "Bab 25",
+    "source": "minna",
+    "title": "Bentuk Biasa Lampau ら、～(kalimat pokok)",
+    "romajiTitle": "Bentuk Biasa Lampau ra, ~ (kalimat pokok)",
+    "meaning": "Menyatakan persyaratan asumsi ('Kalau...') dengan membubuhkan ら pada Bentuk Biasa Lampau Kata Kerja, Kata Sifat, dan Kata Benda. Kalimat pokok di belakangnya dapat menggunakan ekspresi untuk menunjukkan keinginan, harapan, ajakan, permohonan, dll.",
+    "formula": "Kata Kerja/Kata Sifat/Kata Benda (Bentuk Biasa Lampau) + ら、～",
+    "examples": [
+      {
+        "jp": "お金が あったら、旅行します。",
+        "romaji": "Okane ga attara, ryokou shimasu.",
+        "id_translation": "Kalau punya uang, berwisata."
+      },
+      {
+        "jp": "時間が なかったら、テレビを 見ません。",
+        "romaji": "Jikan ga nakattara, terebi o mimasen.",
+        "id_translation": "Kalau tidak ada waktu, tidak menonton TV."
+      },
+      {
+        "jp": "安かったら、パソコンを 買いたいです。",
+        "romaji": "Yasukattara, pasokon o kaitai desu.",
+        "id_translation": "Kalau murah, ingin membeli komputer."
+      },
+      {
+        "jp": "暇だったら、手伝って ください。",
+        "romaji": "Hima dattara, tetsudatte kudasai.",
+        "id_translation": "Kalau sedang luang, tolong bantu saya."
+      },
+      {
+        "jp": "いい 天気だったら、散歩しませんか。",
+        "romaji": "Ii tenki dattara, sanpo shimasen ka.",
+        "id_translation": "Kalau cuaca baik, bagaimana kita jalan-jalan?"
+      }
+    ],
+    "notes": "Di belakang kalimat bentuk ～と, ekspresi untuk keinginan, harapan, ajakan, permohonan dan lain-lainnya tidak dapat dipakai (berbeda dengan bentuk ～たら).",
+    "tags": ["N5", "Pengandaian", "Syarat"]
+  },
+  {
+    "id": "m_bab25_2",
+    "chapter": "Bab 25",
+    "source": "minna",
+    "title": "Kata Kerja Bentuk たら、～(kalimat pokok)",
+    "romajiTitle": "Kata Kerja Bentuk tara, ~ (kalimat pokok)",
+    "meaning": "Berarti 'Kalau sudah..., ~'. Jika sebelumnya telah mengetahui bahwa maksud dari Kata Kerja Bentuk たら pasti terjadi, maka menyatakan terjadinya aksi atau kejadian selanjutnya di kalimat pokok.",
+    "formula": "Kata Kerja (Bentuk た) + ら、～",
+    "examples": [
+      {
+        "jp": "10時に なったら、出かけましょう。",
+        "romaji": "Juuji ni nattara, dekakemashou.",
+        "id_translation": "Kalau sudah sampai pukul sepuluh, kita berangkat."
+      },
+      {
+        "jp": "うちへ 帰ったら、すぐ シャワーを 浴びます。",
+        "romaji": "Uchi e kaettara, sugu shawaa o abimasu.",
+        "id_translation": "Kalau pulang ke rumah, saya langsung mandi."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Kata Kerja", "Kejadian Berurutan"]
+  },
+  {
+    "id": "m_bab25_3",
+    "chapter": "Bab 25",
+    "source": "minna",
+    "title": "Kata Kerja / Kata Sifat / Kata Benda + も、～(kalimat pokok)",
+    "romajiTitle": "Kata Kerja / Kata Sifat / Kata Benda + mo, ~ (kalimat pokok)",
+    "meaning": "Menunjukkan persyaratan asumsi paradoks yang berarti 'Walaupun...'. Menunjukkan hal sebaliknya atau yang tidak biasa terjadi di bawah asumsi tersebut.",
+    "formula": "Kata Kerja (Bentuk て / なくて) / Kata Sifat い (～くて) / Kata Sifat な (～で) / Kata Benda (～で) + も、～",
+    "examples": [
+      {
+        "jp": "雨が 降っても、洗濯します。",
+        "romaji": "Ame ga futte mo, sentaku shimasu.",
+        "id_translation": "Walaupun hujan, mencuci pakaian."
+      },
+      {
+        "jp": "安くても、わたしは グループ旅行が 嫌いです。",
+        "romaji": "Yasukute mo, watashi wa guruupu ryokou ga kirai desu.",
+        "id_translation": "Walaupun murah, saya tidak suka tur rombongan."
+      },
+      {
+        "jp": "便利でも、パソコンを 使いません。",
+        "romaji": "Benri de mo, pasokon o tsukaimasen.",
+        "id_translation": "Walaupun praktis, tidak memakai komputer."
+      },
+      {
+        "jp": "日曜日でも、働きます。",
+        "romaji": "Nichiyoubi de mo, hatarakimasu.",
+        "id_translation": "Walaupun hari Minggu, bekerja."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Paradoks", "Walaupun"]
+  },
+  {
+    "id": "m_bab25_4",
+    "chapter": "Bab 25",
+    "source": "minna",
+    "title": "もし",
+    "romajiTitle": "moshi",
+    "meaning": "Dipakai bersama dengan ～たら untuk memberitahukan sebelumnya bahwa kalimat tersebut adalah kalimat persyaratan. Berfungsi menekankan perasaan asumsi si pembicara.",
+    "formula": "もし + [Kalimat] + たら、～",
+    "examples": [
+      {
+        "jp": "もし 1億円 あったら、いろいろな 国を 旅行したいです。",
+        "romaji": "Moshi ichi-okuen attara, iroiro na kuni o ryokou shitai desu.",
+        "id_translation": "Kalau punya seratus juta yen, ingin berwisata di berbagai negara."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Kata Keterangan", "Penekanan Pengandaian"]
+  },
+  {
+    "id": "m_bab25_5",
+    "chapter": "Bab 25",
+    "source": "minna",
+    "title": "Subjek dalam anak kalimat",
+    "romajiTitle": "Subjek dalam anak kalimat",
+    "meaning": "Sama halnya dengan ～てから, ～とき atau ～まえに, untuk pola ～たら dan ～ても subjek di dalam anak kalimat ditunjuk dengan partikel が.",
+    "formula": "Subjek + が + Predikat Anak Kalimat (～たら / ～ても)",
+    "examples": [
+      {
+        "jp": "友達が 来る まえに、部屋を 掃除します。",
+        "romaji": "Tomodachi ga kuru mae ni, heya o souji shimasu.",
+        "id_translation": "Sebelum teman datang, membersihkan kamar. (Pel.18)"
+      },
+      {
+        "jp": "妻が 病気の とき、会社を 休みます。",
+        "romaji": "Tsuma ga byouki no toki, kaisha o yasumimasu.",
+        "id_translation": "Waktu istri sakit, saya tidak masuk kerja. (Pel.23)"
+      },
+      {
+        "jp": "友達が 約束の 時間に 来なかったら、どう しますか。",
+        "romaji": "Tomodachi ga yakusoku no jikan ni konakattara, dou shimasu ka.",
+        "id_translation": "Kalau teman tidak datang pada waktu janji, bagaimana? (Pel.25)"
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Partikel", "Penanda Subjek"]
+  }
+]

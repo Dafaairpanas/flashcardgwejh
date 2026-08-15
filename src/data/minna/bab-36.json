@@ -1,0 +1,587 @@
+[
+  {
+    "id": "mn-36-001",
+    "kanji": "－世紀",
+    "hiragana": "－せいき",
+    "romaji": "-seiki",
+    "meaning": "abad ke －",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-002",
+    "kanji": "お客様",
+    "hiragana": "おきゃくさま",
+    "romaji": "okyakusama",
+    "meaning": "tamu (Kata Hormat dari おきゃくさん)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-003",
+    "kanji": "かなり",
+    "hiragana": "かなり",
+    "romaji": "kanari",
+    "meaning": "cukup",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-004",
+    "kanji": "このごろ",
+    "hiragana": "このごろ",
+    "romaji": "konogoro",
+    "meaning": "akhir-akhir ini",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-005",
+    "kanji": "していらっしゃいます",
+    "hiragana": "していらっしゃいます",
+    "romaji": "shiteirasshaimasu",
+    "meaning": "melakukan (Kata Hormat dari しています)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-006",
+    "kanji": "ショパン",
+    "hiragana": "ショパン",
+    "romaji": "shopan",
+    "meaning": "Chopin, musisi Polandia (1810-1849)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-007",
+    "kanji": "チャレンジします",
+    "hiragana": "チャレンジします",
+    "romaji": "charenjishimasu",
+    "meaning": "menantang",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-008",
+    "kanji": "できるだけ",
+    "hiragana": "できるだけ",
+    "romaji": "dekirudake",
+    "meaning": "sedapat mungkin",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-009",
+    "kanji": "ほとんど",
+    "hiragana": "ほとんど",
+    "romaji": "hotondo",
+    "meaning": "sebagian besar",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-010",
+    "kanji": "やっと",
+    "hiragana": "やっと",
+    "romaji": "yatto",
+    "meaning": "akhirnya",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-011",
+    "kanji": "ラッシュ",
+    "hiragana": "ラッシュ",
+    "romaji": "rasshu",
+    "meaning": "keramaian, kesibukan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-012",
+    "kanji": "違います",
+    "hiragana": "ちがいます",
+    "romaji": "chigaimasu",
+    "meaning": "salah, tidak benar",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-013",
+    "kanji": "宇宙",
+    "hiragana": "うちゅう",
+    "romaji": "uchuu",
+    "meaning": "angkasa",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-014",
+    "kanji": "運びます",
+    "hiragana": "はこびます",
+    "romaji": "hakobimasu",
+    "meaning": "mengangkut",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-015",
+    "kanji": "遠く",
+    "hiragana": "とおく",
+    "romaji": "tooku",
+    "meaning": "jauh",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-016",
+    "kanji": "過ぎます［７時を～］",
+    "hiragana": "すぎます［７じを～］",
+    "romaji": "sugimasu[7jiwo~]",
+    "meaning": "lewat [pukul tujuh]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-017",
+    "kanji": "慣れます［仕事に～］",
+    "hiragana": "なれます［しごとに～］",
+    "romaji": "naremasu[shigotoni~]",
+    "meaning": "terbiasa [dengan tugas]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-018",
+    "kanji": "気持ち",
+    "hiragana": "きもち",
+    "romaji": "kimochi",
+    "meaning": "sikap",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-019",
+    "kanji": "汽車",
+    "hiragana": "きしゃ",
+    "romaji": "kisha",
+    "meaning": "kereta api",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-020",
+    "kanji": "汽船",
+    "hiragana": "きせん",
+    "romaji": "kisen",
+    "meaning": "kapal api",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-021",
+    "kanji": "曲",
+    "hiragana": "きょく",
+    "romaji": "kyoku",
+    "meaning": "musik",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-022",
+    "kanji": "剣道",
+    "hiragana": "けんどう",
+    "romaji": "kendou",
+    "meaning": "kendo (anggar gaya Jepang)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-023",
+    "kanji": "使っていらっしゃるんですね。",
+    "hiragana": "つかっていらっしゃるんですね。",
+    "romaji": "tsukatteirassharundesune.",
+    "meaning": "Menggunakan ~, ya./Memakai ~, ya.",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-024",
+    "kanji": "自由に",
+    "hiragana": "じゆうに",
+    "romaji": "jiyuuni",
+    "meaning": "dengan bebas",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-025",
+    "kanji": "柔道",
+    "hiragana": "じゅうどう",
+    "romaji": "juudou",
+    "meaning": "judo",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-026",
+    "kanji": "上手に",
+    "hiragana": "じょうずに",
+    "romaji": "jouzuni",
+    "meaning": "dengan pandai",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-027",
+    "kanji": "乗り物",
+    "hiragana": "のりもの",
+    "romaji": "norimono",
+    "meaning": "kendaraan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-028",
+    "kanji": "水泳",
+    "hiragana": "すいえい",
+    "romaji": "suiei",
+    "meaning": "renang",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-029",
+    "kanji": "絶対に",
+    "hiragana": "ぜったいに",
+    "romaji": "zettaini",
+    "meaning": "mutlak",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-030",
+    "kanji": "遭います［事故に～］",
+    "hiragana": "あいます［じこに～］",
+    "romaji": "aimasu[jikoni~]",
+    "meaning": "tertimpa [kecelakaan]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-031",
+    "kanji": "大勢の～",
+    "hiragana": "おおぜいの～",
+    "romaji": "oozeino~",
+    "meaning": "banyak ~",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-032",
+    "kanji": "貯金します",
+    "hiragana": "ちょきんします",
+    "romaji": "chokinshimasu",
+    "meaning": "menabung",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-033",
+    "kanji": "珍しい",
+    "hiragana": "めずらしい",
+    "romaji": "mezurashii",
+    "meaning": "langka",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-034",
+    "kanji": "特別な",
+    "hiragana": "とくべつな",
+    "romaji": "tokubetsuna",
+    "meaning": "khusus, spesial",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-035",
+    "kanji": "必ず",
+    "hiragana": "かならず",
+    "romaji": "kanarazu",
+    "meaning": "pasti",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-036",
+    "kanji": "腐ります［食べ物が～］",
+    "hiragana": "くさります［たべものが～］",
+    "romaji": "kusarimasu[tabemonoga~]",
+    "meaning": "[makanan] busuk",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-037",
+    "kanji": "毎月",
+    "hiragana": "まいつき",
+    "romaji": "maitsuki",
+    "meaning": "setiap bulan",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-038",
+    "kanji": "毎週",
+    "hiragana": "まいしゅう",
+    "romaji": "maishuu",
+    "meaning": "setiap minggu",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-039",
+    "kanji": "毎年",
+    "hiragana": "まいとし（まいねん）",
+    "romaji": "maitoshi(mainen)",
+    "meaning": "setiap tahun",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-040",
+    "kanji": "利用します",
+    "hiragana": "りようします",
+    "romaji": "riyoushimasu",
+    "meaning": "menggunakan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-36-041",
+    "kanji": "５つの大切な栄養素とそれを含む食べ物",
+    "hiragana": "いつつのたいせつなえいようそとそれをふくむたべもの",
+    "romaji": "itsutsunotaisetsunaeiyousotosorewofukumutabemono",
+    "meaning": "Lima nutrisi penting dan makanan yang mengandungnya",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-042",
+    "kanji": "あまり運動しない",
+    "hiragana": "あまりうんどうしない",
+    "romaji": "amariundoushinai",
+    "meaning": "kurang berolahraga",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-043",
+    "kanji": "いも",
+    "hiragana": "いも",
+    "romaji": "imo",
+    "meaning": "kentang",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-044",
+    "kanji": "カルシウム",
+    "hiragana": "カルシウム",
+    "romaji": "karushiumu",
+    "meaning": "kalsium",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-045",
+    "kanji": "たばこを吸う",
+    "hiragana": "たばこをすう",
+    "romaji": "tabakowosuu",
+    "meaning": "merokok",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-046",
+    "kanji": "たんぱく質",
+    "hiragana": "たんぱくしつ",
+    "romaji": "tanpakushitsu",
+    "meaning": "protein",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-047",
+    "kanji": "とうふ",
+    "hiragana": "とうふ",
+    "romaji": "toufu",
+    "meaning": "tahu",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-048",
+    "kanji": "のり",
+    "hiragana": "のり",
+    "romaji": "nori",
+    "meaning": "Nori (olahan rumput laut)",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-049",
+    "kanji": "ビタミン",
+    "hiragana": "ビタミン",
+    "romaji": "bitamin",
+    "meaning": "vitamin",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-050",
+    "kanji": "よくインスタント食品を食べる",
+    "hiragana": "よくインスタントしょくひんをたべる",
+    "romaji": "yokuinsutantoshokuhinwotaberu",
+    "meaning": "suka makan makanan instan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-051",
+    "kanji": "よくお酒を飲む",
+    "hiragana": "よくおさけをのむ",
+    "romaji": "yokuosakewonomu",
+    "meaning": "suka minum minuman keras",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-052",
+    "kanji": "よく歩く",
+    "hiragana": "よくあるく",
+    "romaji": "yokuaruku",
+    "meaning": "suka berjalan kaki",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-053",
+    "kanji": "運動する／スポーツをする",
+    "hiragana": "うんどうする／スポーツをする",
+    "romaji": "undousuru/supootsuwosuru",
+    "meaning": "berolahraga",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-054",
+    "kanji": "栄養のバランスを考えて食べる",
+    "hiragana": "えいようのバランスをかんがえてたべる",
+    "romaji": "eiyounobaransuwokangaetetaberu",
+    "meaning": "makan dengan mempertimbangkan keseimbangan gizi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-055",
+    "kanji": "海草",
+    "hiragana": "かいそう",
+    "romaji": "kaisou",
+    "meaning": "rumput laut",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-056",
+    "kanji": "外食が多い",
+    "hiragana": "がいしょくがおおい",
+    "romaji": "gaishokugaooi",
+    "meaning": "sering makan di luar",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-057",
+    "kanji": "規則正しい生活をする",
+    "hiragana": "きそくただしいせいかつをする",
+    "romaji": "kisokutadashiiseikatsuwosuru",
+    "meaning": "hidup secara teratur",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-058",
+    "kanji": "健康診断を受ける",
+    "hiragana": "けんこうしんだんをうける",
+    "romaji": "kenkoushindanwoukeru",
+    "meaning": "mengikuti pemeriksaan kesehatan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-059",
+    "kanji": "好き嫌いがある",
+    "hiragana": "すききらいがある",
+    "romaji": "sukikiraigaaru",
+    "meaning": "pilih makan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-060",
+    "kanji": "好き嫌いがない",
+    "hiragana": "すききらいがない",
+    "romaji": "sukikiraiganai",
+    "meaning": "tidak pilih makan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-061",
+    "kanji": "脂肪",
+    "hiragana": "しぼう",
+    "romaji": "shibou",
+    "meaning": "lemak",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-062",
+    "kanji": "早寝, 早起きをする",
+    "hiragana": "はやね、はやおきをする",
+    "romaji": "hayane,hayaokiwosuru",
+    "meaning": "cepat tidur dan bangun pagi-pagi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-063",
+    "kanji": "炭水化物",
+    "hiragana": "たんすいかぶつ",
+    "romaji": "tansuikabutsu",
+    "meaning": "karbohidrat",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-064",
+    "kanji": "豆",
+    "hiragana": "まめ",
+    "romaji": "mame",
+    "meaning": "kacang-kacangan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-36-065",
+    "kanji": "夜更かしをする",
+    "hiragana": "よふかしをする",
+    "romaji": "yofukashiwosuru",
+    "meaning": "begadang",
+    "level": "-",
+    "importinity": 2
+  }
+]

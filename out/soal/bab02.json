@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Televisi itu buatan mana?",
+    "answer": "その テレビ は どこ の です か"
+  },
+  {
+    "question": "いいえ、とけい じゃ ありません。めがね です",
+    "answer": "Bukan, itu bukan jam tangan. Itu kacamata."
+  },
+  {
+    "question": "この カセットテープ は だれ の です か",
+    "answer": "Kaset ini milik siapa?"
+  },
+  {
+    "question": "あれ は えいご の じしょ です",
+    "answer": "Itu (jauh) adalah kamus bahasa Inggris."
+  },
+  {
+    "question": "これ は コンピューター の ざっし です か。いいえ、コンピューター の ざっし じゃ ありません",
+    "answer": "Apakah ini majalah komputer? Bukan, bukan majalah komputer."
+  },
+  {
+    "question": "この ほん は サントスさん の ほん です",
+    "answer": "Buku ini adalah buku Sdr. Santos."
+  },
+  {
+    "question": "Kunci ini milik siapa?",
+    "answer": "この かぎ は だれ の です か"
+  },
+  {
+    "question": "これ は ボールペン です か、 えんぴつ です か",
+    "answer": "Apakah ini bolpoin atau pensil?"
+  },
+  {
+    "question": "Meja itu milik siapa?",
+    "answer": "あの つくえ は だれ の です か"
+  },
+  {
+    "question": "Ini adalah majalah mobil.",
+    "answer": "これ は くるま の ざっし です"
+  },
+  {
+    "question": "この かばん は わたし の です",
+    "answer": "Tas ini adalah milik saya."
+  },
+  {
+    "question": "それ は くるま の かぎ です",
+    "answer": "Itu (dekat kamu) adalah kunci mobil."
+  },
+  {
+    "question": "Apakah payung itu milik Sdr. Miller?",
+    "answer": "その かさ は ミラーさん の です か"
+  },
+  {
+    "question": "Kamus itu adalah milik saya.",
+    "answer": "あの じしょ は わたし の です"
+  },
+  {
+    "question": "Kamera ini bukan milik Sdr. Yamada.",
+    "answer": "この カメラ は やまださん の じゃ ありません"
+  },
+  {
+    "question": "あれ は とけい です か",
+    "answer": "Apakah itu (jauh) jam tangan?"
+  },
+  {
+    "question": "Ini adalah CD bahasa Jepang.",
+    "answer": "これ は にほんご の CD です"
+  },
+  {
+    "question": "Bukan, buku catatan ini bukan milik saya.",
+    "answer": "いいえ、この ノート は わたし の じゃ ありません"
+  },
+  {
+    "question": "その くつ は イタリア の です",
+    "answer": "Sepatu itu adalah buatan Italia."
+  },
+  {
+    "question": "Apakah ini kartu Sdr. Tanaka?",
+    "answer": "これ は たなかさん の カード です か"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "m_bab30_1",
+    "chapter": "Bab 30",
+    "source": "minna",
+    "title": "動詞て形 あります",
+    "romajiTitle": "Doushi te-kei arimasu",
+    "meaning": "Menyatakan bahwa akibat atau hasil dari perbuatan seseorang (dengan suatu tujuan) sedang berlangsung. Kata kerja yang digunakan harus berupa Kata Kerja Transitif.",
+    "formula": "Kata Benda 1 (Tempat) + に + Kata Benda 2 (Objek) + が + Kata Kerja (Bentuk て) + あります / Kata Benda 2 + は + Kata Benda 1 + に + Kata Kerja (Bentuk て) + あります",
+    "examples": [
+      {
+        "jp": "机の上にメモが置いてあります。",
+        "romaji": "Tsukue no ue ni memo ga oite arimasu.",
+        "id_translation": "Di atas meja diletakkan catatan."
+      },
+      {
+        "jp": "カレンダーに今月の予定が書いてあります。",
+        "romaji": "Karendaa ni kongetsu no yotei ga kaite arimasu.",
+        "id_translation": "Pada kalender ditulis rencana bulan ini."
+      },
+      {
+        "jp": "メモはどこですか。……［メモは］机の上に置いてあります。",
+        "romaji": "Memo wa doko desu ka. ......[Memo wa] tsukue no ue ni oite arimasu.",
+        "id_translation": "Di mana catatan? ……[Catatan] Diletakkan di atas meja."
+      },
+      {
+        "jp": "今月の予定はカレンダーに書いてあります。",
+        "romaji": "Kongetsu no yotei wa karendaa ni kaite arimasu.",
+        "id_translation": "Rencana bulan ini ditulis pada kalender."
+      }
+    ],
+    "notes": "Terdapat perbedaan antara ～ています dan ～てあります. Jika dipakai Kata Kerja Intransitif (閉まります) + ています, itu hanya menjelaskan keadaan secara objektif (jendela tertutup). Jika dipakai Kata Kerja Transitif (閉めます) + てあります, itu menyatakan bahwa keadaan tersebut terjadi karena perbuatan sengaja dari seseorang (jendela ditutup).",
+    "tags": ["N4", "Kata Kerja", "Keadaan Akibat Kesengajaan"]
+  },
+  {
+    "id": "m_bab30_2",
+    "chapter": "Bab 30",
+    "source": "minna",
+    "title": "動詞て形 おきます",
+    "romajiTitle": "Doushi te-kei okimasu",
+    "meaning": "Pola kalimat ini memiliki 3 fungsi: 1) Menyelesaikan aksi/persiapan yang diperlukan sampai dengan batas waktu tertentu. 2) Menyelesaikan aksi/tindakan sementara untuk persiapan pemakaian berikutnya. 3) Membiarkan/mempertahankan suatu keadaan.",
+    "formula": "Kata Kerja (Bentuk て) + おきます",
+    "examples": [
+      {
+        "jp": "旅行のまえに、切符を買っておきます。",
+        "romaji": "Ryokou no mae ni, kippu o katte okimasu.",
+        "id_translation": "Sebelum perjalanan, membeli karcis."
+      },
+      {
+        "jp": "次の会議までに何をしておいたらいいですか。……この資料を読んでおいてください。",
+        "romaji": "Tsugi no kaigi made ni nani o shite oitara ii desu ka. ......Kono shiryou o yonde oite kudasai.",
+        "id_translation": "Apa yang harus saya lakukan sampai dengan rapat berikut? ……Diharapkan untuk membaca materi ini."
+      },
+      {
+        "jp": "はさみを使ったら、元の所に戻しておいてください。",
+        "romaji": "Hasami o tsukattara, moto no tokoro ni modoshite oite kudasai.",
+        "id_translation": "Jika memakai gunting, tolong kembalikan ke tempat semula."
+      },
+      {
+        "jp": "あした会議がありますから、いすはこのままにしておいてください。",
+        "romaji": "Ashita kaigi ga arimasu kara, isu wa kono mama ni shite oite kudasai.",
+        "id_translation": "Karena besok ada rapat, kursinya dibiarkan begini saja."
+      }
+    ],
+    "notes": "Dalam bahasa lisan percakapan, ～て おきます sering disingkat dan berubah menjadi ～ときます (Contoh: 置いておいてください menjadi 置いといてください).",
+    "tags": ["N4", "Kata Kerja", "Persiapan / Membiarkan Keadaan"]
+  },
+  {
+    "id": "m_bab30_3",
+    "chapter": "Bab 30",
+    "source": "minna",
+    "title": "まだ ＋ 肯定形",
+    "romajiTitle": "Mada + Kouteikei",
+    "meaning": "Kata 'mada' yang diikuti oleh bentuk positif berarti 'masih...', dan menyatakan bahwa suatu aksi atau keadaannya sedang berlangsung saat ini.",
+    "formula": "まだ + Kata Kerja (Bentuk Positif / ています)",
+    "examples": [
+      {
+        "jp": "まだ雨が降っています。",
+        "romaji": "Mada ame ga futte imasu.",
+        "id_translation": "Masih turun hujan."
+      },
+      {
+        "jp": "道具を片づけましょうか。……まだ使っていますから、そのままにしておいてください。",
+        "romaji": "Dougu o katazukemashou ka. ......Mada tsukatte imasu kara, sono mama ni shite oite kudasai.",
+        "id_translation": "Apa saya yang membereskan alatnya? ……Karena masih dipakai, tolong dibiarkan begitu saja."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Kata Keterangan", "Keadaan Berlangsung"]
+  },
+  {
+    "id": "m_bab30_4",
+    "chapter": "Bab 30",
+    "source": "minna",
+    "title": "～とか～とか",
+    "romajiTitle": "~toka ~toka",
+    "meaning": "Digunakan untuk memberikan contoh beberapa hal, sama halnya dengan partikel や. Bedanya, とか lebih sering digunakan dalam bahasa lisan dan dapat ditambahkan di belakang Kata Benda terakhir di antara yang disebutkan.",
+    "formula": "Kata Benda 1 + とか + Kata Benda 2 + とか",
+    "examples": [
+      {
+        "jp": "どんなスポーツをしていますか。……そうですね。テニスとか水泳とか……。",
+        "romaji": "Donna supootsu o shite imasu ka. ......Sou desu ne. Tenisu toka suiei toka......",
+        "id_translation": "Berolahraga apa saja? ……Apa ya? Tenis, atau renang..."
+      }
+    ],
+    "notes": "",
+    "tags": ["N4", "Partikel", "Memberikan Contoh"]
+  },
+  {
+    "id": "m_bab30_5",
+    "chapter": "Bab 30",
+    "source": "minna",
+    "title": "助詞 ＋ も",
+    "romajiTitle": "Joshi + mo",
+    "meaning": "Jika partikel も digabung dengan Kata Benda yang biasanya dibubuhi が atau を, maka が/を dihapuskan. Jika Partikel/Kata Bantu lain (seperti に, で, から, まで, と) dibubuhkan, maka も diletakkan di belakangnya (misal: にも, でも). Khusus untuk partikel へ, boleh dihapuskan dan juga boleh untuk tidak dihapuskan (へも).",
+    "formula": "Kata Benda + Partikel (selain が/を) + も",
+    "examples": [
+      {
+        "jp": "ほかにもいろいろあります。",
+        "romaji": "Hoka ni mo iroiro arimasu.",
+        "id_translation": "Selain itu masih ada macam-macam."
+      },
+      {
+        "jp": "どこ［へ］も行きません。",
+        "romaji": "Doko [e] mo ikimasen.",
+        "id_translation": "Tidak pergi ke mana-mana."
+      }
+    ],
+    "notes": "",
+    "tags": ["N4", "Partikel", "Penggabungan Partikel"]
+  }
+]

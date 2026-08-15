@@ -1,0 +1,488 @@
+[
+  {
+    "id": "mn-01-001",
+    "kanji": "～から来ました",
+    "hiragana": "～からきました",
+    "romaji": "~karakimashita",
+    "meaning": "Datang dari…..",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-002",
+    "kanji": "～さん",
+    "hiragana": "～さん",
+    "romaji": "~san",
+    "meaning": "Saudara……. (Sopan ke lebih tua)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-003",
+    "kanji": "～ちゃん",
+    "hiragana": "～ちゃん",
+    "romaji": "~chan",
+    "meaning": "Panggilan untuk anak laki/perempuan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-004",
+    "kanji": "～歳",
+    "hiragana": "～さい",
+    "romaji": "~sai",
+    "meaning": "Tahun….. ( Umur )",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-005",
+    "kanji": "～人",
+    "hiragana": "～じん",
+    "romaji": "~jin",
+    "meaning": "Orang……. ( Orang dari negara....)",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-006",
+    "kanji": "あなた",
+    "hiragana": "あなた",
+    "romaji": "anata",
+    "meaning": "Anda",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-007",
+    "kanji": "あの人",
+    "hiragana": "あのひと",
+    "romaji": "anohito",
+    "meaning": "Orang itu (biasa)",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-008",
+    "kanji": "あの方",
+    "hiragana": "あのかた",
+    "romaji": "anokata",
+    "meaning": "Orang itu / Beliau (sopan)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-009",
+    "kanji": "アメリカ",
+    "hiragana": "アメリカ",
+    "romaji": "amerika",
+    "meaning": "Amerika Serikat",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-010",
+    "kanji": "いいえ",
+    "hiragana": "いいえ",
+    "romaji": "iie",
+    "meaning": "Tidak",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-011",
+    "kanji": "イギリス",
+    "hiragana": "イギリス",
+    "romaji": "igirisu",
+    "meaning": "Inggris",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-012",
+    "kanji": "イタリア",
+    "hiragana": "イタリア",
+    "romaji": "itaria",
+    "meaning": "Italia",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-013",
+    "kanji": "インド",
+    "hiragana": "インド",
+    "romaji": "indo",
+    "meaning": "India",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-014",
+    "kanji": "インドネシア",
+    "hiragana": "インドネシア",
+    "romaji": "indoneshia",
+    "meaning": "Indonesia",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-015",
+    "kanji": "おいくつ",
+    "hiragana": "おいくつ",
+    "romaji": "oikutsu",
+    "meaning": "Umur berapa?(sopan)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-016",
+    "kanji": "お名前は",
+    "hiragana": "おなまえは",
+    "romaji": "onamaeha",
+    "meaning": "Nama anda siapa?",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-017",
+    "kanji": "タイ",
+    "hiragana": "タイ",
+    "romaji": "tai",
+    "meaning": "Thailand",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-018",
+    "kanji": "だれ",
+    "hiragana": "だれ",
+    "romaji": "dare",
+    "meaning": "Siapa (biasa)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-019",
+    "kanji": "ドイツ",
+    "hiragana": "ドイツ",
+    "romaji": "doitsu",
+    "meaning": "Jerman",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-020",
+    "kanji": "どうぞよろしくお願します",
+    "hiragana": "どうぞよろしくおねがいします",
+    "romaji": "douzoyoroshikuonegaishimasu",
+    "meaning": "Salam Kenal ( Terimalah perkenalan saya )",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-021",
+    "kanji": "どなた",
+    "hiragana": "どなた",
+    "romaji": "donata",
+    "meaning": "Siapa (sopan)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-022",
+    "kanji": "はい",
+    "hiragana": "はい",
+    "romaji": "hai",
+    "meaning": "Iya",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-023",
+    "kanji": "はじめまして",
+    "hiragana": "はじめまして",
+    "romaji": "hajimemashite",
+    "meaning": "Perkenalkan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-024",
+    "kanji": "ブラジル",
+    "hiragana": "ブラジル",
+    "romaji": "burajiru",
+    "meaning": "Brazil",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-025",
+    "kanji": "医者",
+    "hiragana": "いしゃ",
+    "romaji": "isha",
+    "meaning": "Dokter",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-026",
+    "kanji": "何歳",
+    "hiragana": "なんさい",
+    "romaji": "nansai",
+    "meaning": "Umur berapa?(biasa)",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-027",
+    "kanji": "会社員",
+    "hiragana": "かいしゃいん",
+    "romaji": "kaishain",
+    "meaning": "Pegawai / Karyawan perusahaan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-028",
+    "kanji": "学生",
+    "hiragana": "がくせい",
+    "romaji": "gakusei",
+    "meaning": "Siswa,murid",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-029",
+    "kanji": "韓国",
+    "hiragana": "かんこく",
+    "romaji": "kankoku",
+    "meaning": "Korea Selatan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-030",
+    "kanji": "教師",
+    "hiragana": "きょうし",
+    "romaji": "kyoushi",
+    "meaning": "Guru,dosen (dipakai untuk kalangan sendiri)",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-031",
+    "kanji": "銀行員",
+    "hiragana": "ぎんこういん",
+    "romaji": "ginkouin",
+    "meaning": "Pegawai bank",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-032",
+    "kanji": "研究者",
+    "hiragana": "けんきゅうしゃ",
+    "romaji": "kenkyuusha",
+    "meaning": "Peneliti",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-033",
+    "kanji": "私",
+    "hiragana": "わたし",
+    "romaji": "watashi",
+    "meaning": "Saya",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-034",
+    "kanji": "失礼ですが",
+    "hiragana": "しつれいですが",
+    "romaji": "shitsureidesuga",
+    "meaning": "Permisi",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-035",
+    "kanji": "社員",
+    "hiragana": "しゃいん",
+    "romaji": "shain",
+    "meaning": "Pegawai / Karyawan perusahaan ( A の しゃいん)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-036",
+    "kanji": "先生",
+    "hiragana": "せんせい",
+    "romaji": "sensei",
+    "meaning": "Guru,dosen ( Tidak untuk menyebut pekerjaan sendiri )",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-037",
+    "kanji": "大学",
+    "hiragana": "だいがく",
+    "romaji": "daigaku",
+    "meaning": "Universitas",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-038",
+    "kanji": "中国",
+    "hiragana": "ちゅうごく",
+    "romaji": "chuugoku",
+    "meaning": "Cina",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-039",
+    "kanji": "日本",
+    "hiragana": "にほん",
+    "romaji": "nihon",
+    "meaning": "Jepang",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-040",
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "romaji": "byouin",
+    "meaning": "Rumah sakit",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-01-041",
+    "kanji": "イラン",
+    "hiragana": "イラン",
+    "romaji": "iran",
+    "meaning": "Iran",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-01-042",
+    "kanji": "エジプト",
+    "hiragana": "エジプト",
+    "romaji": "ejiputo",
+    "meaning": "Mesir",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-01-043",
+    "kanji": "オーストラリア",
+    "hiragana": "オーストラリア",
+    "romaji": "oosutoraria",
+    "meaning": "Australia",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-01-044",
+    "kanji": "カナダ",
+    "hiragana": "カナダ",
+    "romaji": "kanada",
+    "meaning": "Kanada",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-01-045",
+    "kanji": "サウジアラビア",
+    "hiragana": "サウジアラビア",
+    "romaji": "saujiarabia",
+    "meaning": "Arab Saudi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-01-046",
+    "kanji": "シンガポール",
+    "hiragana": "シンガポール",
+    "romaji": "shingapooru",
+    "meaning": "Singapura",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-01-047",
+    "kanji": "スペイン",
+    "hiragana": "スペイン",
+    "romaji": "supein",
+    "meaning": "Spanyol",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-01-048",
+    "kanji": "フィリピン",
+    "hiragana": "フィリピン",
+    "romaji": "firipin",
+    "meaning": "Filipina",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-01-049",
+    "kanji": "フランス",
+    "hiragana": "フランス",
+    "romaji": "furansu",
+    "meaning": "Perancis",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-01-050",
+    "kanji": "ベトナム",
+    "hiragana": "ベトナム",
+    "romaji": "betonamu",
+    "meaning": "Vietnam",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-01-051",
+    "kanji": "ペルシア",
+    "hiragana": "ペルシア",
+    "romaji": "perushia",
+    "meaning": "Persia",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-01-052",
+    "kanji": "マレーシア",
+    "hiragana": "マレーシア",
+    "romaji": "mareeshia",
+    "meaning": "Malaysia",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-01-053",
+    "kanji": "メキシコ",
+    "hiragana": "メキシコ",
+    "romaji": "mekishiko",
+    "meaning": "Meksiko",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-01-054",
+    "kanji": "ロシア",
+    "hiragana": "ロシア",
+    "romaji": "roshia",
+    "meaning": "Rusia",
+    "level": "-",
+    "importinity": 2
+  }
+]

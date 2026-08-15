@@ -1,0 +1,954 @@
+番号 漢字 読み方 意味
+1 魚 さかな Ikan
+2 肉 にく Daging
+3 卵 たまご Telur
+4 水 みず Air
+5 食べます たべます Makan
+6 飲みます のみます Minum
+7 大きい おおきい Besar
+8 小さい ちいさい Kecil
+9 新しい あたらしい Baru
+10 古い ふるい Lama, usang
+11 ～時 ～じ ~ jam
+12 ～分 ～ふん、ぷん、ぶん ~ menit
+13 ～半 ～はん ~ setengah
+14 月曜日 げつようび Senin
+15 火曜日 かようび Selasa
+16 水曜日 すいようび Rabo
+17 木曜日 もくようび Kamis
+18 金曜日 きんようび Jumat
+19 土曜日 どようび Sabtu
+20 日曜日 にちようび Minggu
+21 言います いいます Berkata
+22 話します はなします Berbicara
+23 読みます よみます Membaca
+24 見ます みます Melihat
+25 聞きます ききます Mendengarkan
+26 書きます かきます Menulis
+27 一 いち Satu
+28 二 に Dua
+29 三 さん Tiga
+30 四 よん、し Empat
+31 五 ご Lima
+32 六 ろく Enam
+33 七 なな、しち Tujuh
+34 八 はち Delapan
+35 九 きゅう Sembilan
+36 十 じゅう Sepuluh
+37 ～年 ～ねん ~ tahun
+38 ～月 ～がつ ~ bulan
+39 ～日 ～にち ~ tanggal
+2
+40
+東 ひがし
+Timur
+41
+西 にし
+Barat
+42
+南 みなみ
+Selatan
+43
+北 きた
+Utara
+44 ～口 ～ぐち ~ pintu
+45 東口 ひがしぐち
+Pintu timur
+46 西口 にしぐち
+Pintu barat
+47 南口 みなみぐち
+Pintu selatan
+48 北口 きたぐち
+Pintu utara
+49 買います かいます
+Membeli
+50 買い物 かいもの
+Belanja
+51 お金 おかね
+Uang
+52 ～円 ～えん ~ yen
+53
+百 ひゃく 100
+54
+千 せん 1000
+55
+万 まん 10000
+56 百円 ひゃくえん 100 yen
+57 千円 せんえん 1000 yen
+58 一万円 いちまんえん 10000 yen
+59 行きます いきます
+Pergi
+60 来ます きます Dat
+ang
+61 会います あいます
+Bertemu
+62 休みます やすみます
+Libur,istirahat
+63 日本 にほん
+Jepang
+64 東京 とうきょう Tokyo
+65
+私 わたし
+Saya
+66
+父 ちち
+Ayah
+67
+母 はは Ibu
+68 子供 こども
+Anak
+69
+男 おとこ
+Laki
+-laki
+70
+女 おんな
+Perempuan
+71
+人 ひと
+Orang
+72 お父さん おとうさん
+Ayah (orang lain)
+73 お母さん おかあさん Ibu (orang lain)
+74 何人 なんにん
+Berapa orang?
+75
+国 くに
+Negara
+76 外国 がいこく
+Luar negri
+77 ～語 ～ご ~ Bahasa
+78 日本語 にほんご Bahasa jepang
+79 英語 えいご Bahasa inggris
+80 中国語 ちゅうごくご Bahasa china
+81 ～人 ～じん／～にん ~ orang
+82 日本人 にほんじん
+Orang jepang
+3
+83 好き すき
+Suka
+84
+本 ほん
+Buku
+85 読書 どくしょ
+Bacaan
+86
+何 なに
+Apa?
+87
+春 はる
+Musim semi
+88
+夏 なつ
+Musim panas
+89
+秋 あき
+Musim gugur
+90
+冬 ふゆ
+Musim dingin
+91
+今 いま
+Sekarang
+92
+花 はな
+Bunga
+93
+海 うみ
+Laut
+94
+山 やま
+Gunung
+95
+川 かわ
+Sungai
+96 今日 きょう
+Hari ini
+97 天気 てんき
+Cuaca
+98 晴れ はれ
+Cerah
+99
+雨 あめ
+Hujan
+100
+雪 ゆき
+Salju
+101
+雲 くも
+Mendung
+102
+風 かぜ Angin
+103
+空 そら
+Langit
+104
+町 まち
+Kota
+105
+店 みせ Toko
+106 人気 にんき Popularitas, ketenaran
+107 多い おおい
+Banyak
+108 少ない すくない
+Sedikit
+109 高い たかい
+Mahal
+110 安い やすい
+Murah
+111 広い ひろい
+Luas
+112
+道 みち
+Jalan
+113 通り とおり
+Jalan
+114
+右 みぎ
+Kanan
+115
+左 ひだり
+Kiri
+116 一つ ひとつ
+Satu buah
+117 二つ ふたつ
+Dua buah
+118 赤い あかい
+Merah
+119 青い あおい
+Biru
+120 黒い くろい
+Hitam
+121 白い しろい
+Putih
+122 時間 じかん
+Waktu
+123 場所 ばしょ
+Tempat
+124
+駅 えき
+Stasiun
+125
+日
+ひ
+Matahari
+4
+126 出かけます でかけます
+Meninggalkan rumah
+127 待ちます まちます
+Menunggu
+128 止まります とまります
+Berhenti
+129 食事 しょくじ
+Makan bersama
+130 仕事 しごと
+Pekerjaan
+131
+前 まえ
+Sebelum
+132
+後 あと
+Setelah
+133
+朝 あさ
+Pagi
+134
+昼 ひる
+Siang
+135
+夜 よる
+Malam
+136 乗ります のります
+Naik
+137 学校 がっこう
+Sekolahan
+138 小学校 しょうがっこう SD
+139 中学校 ちゅうがっこう SMP
+140 高校 こうこう SMA
+141 大学 だいがく
+Universitas
+142 先生 せんせい
+Guru
+143 学生 がくせい
+Murid , siswa
+144 ～年生 ～ねんせい
+Kelas ~
+145 勉強 べんきょう
+Pelajaran
+146 文化 ぶんか
+Kebudayaan
+147 音楽 おんがく
+Musik
+148 旅行 りょこう
+Wisata
+149 留学 りゅうがく
+Belajar di luar negri
+150 友達 ともだち
+Teman
+151 楽しい たのしい
+Gembira
+152
+週 しゅう
+Minggu
+153 ～回 ～かい ~kali
+154 食べ物 たべもの
+Makanan
+155 飲物 のみもの
+Minuman
+156 お茶 おちゃ Teh hijau
+157 お酒 おさけ
+Sake
+158 作ります つくります
+Membuat
+159 持っていきます もっていきます
+Membawa pergi
+160 お願いします おねがいします
+Tolong
+161 料理 りょうり
+Masakan
+162
+味 あじ
+Rasa
+163
+色 いろ
+Warna
+164 野菜 やさい
+Sayuran
+165 少し すこし
+Sedikit
+166
+中 なか
+Dalam
+167 入っています はいっています
+Masuk
+168 会社 かいしゃ
+Perusahaan
+5
+169 本社 ほんしゃ
+Kantor pusat
+170 支社 ししゃ
+Kantor cabang
+171 出張 しゅっちょう
+Dinas luar kota
+172 空港 くうこう
+Bandara
+173 出発 しゅっぱつ
+Keberangkatan
+174 到着 とうちゃく
+Kedatangan
+175 午前 ごぜん AM
+176 午後 ごご PM
+177 自分 じぶん
+Sendiri
+178 電話 でんわ
+Telepon
+179 電気 でんき
+Listrik
+180 電車 でんしゃ
+Kereta
+181
+車 くるま
+Mobil
+182 送ります おくります
+Mengirim
+183 使います つかいます
+Menggunakan
+184 借ります かります
+Meminjam
+185
+体 からだ
+Badan
+186
+頭 あたま
+Kepala
+187
+目
+め
+Mata
+188
+口 くち
+Mulut
+189
+耳 みみ
+Telinga
+190
+手
+て
+Tangan
+191
+足 あし
+Kaki
+192
+上 うえ
+Atas
+193
+下 した
+Bawah
+194 毎～ まい～ ~ setiap
+195 毎朝 まいあさ setiap pagi
+196 毎日 まいにち
+Setiap hari
+197 週末 しゅうまつ
+Akhir pe
+kan
+198 元気 げんき
+Sehat
+199
+外 そと
+Luar
+200 起きます おきます
+Bangun tidur
+201 歩きます あるきます
+Berjalan
+202 走ります はしります
+Berlari
+203 泳ぎます およぎます
+Berenang
+204 お祝い おいわい
+Perayaan
+205 誕生日 たんじょうび
+Ulang tahun
+206 結婚 けっこん
+Pernikahan
+207
+絵
+え
+Gambar , lukisan
+208 写真 しゃしん
+Foto
+209 時計 とけい
+Jam
+210 着ます きます
+Memakai pakaian
+211 先～ せん～ ~lalu
+6
+212 先週 せんしゅう
+Minggu lalu
+213 今月 こんげつ
+Bulan ini
+214 来年 らいねん
+Tahun depan
+215 今年 ことし
+Tahun ini
+216 去年 きょねん
+Tahun lalu
+217
+家 いえ
+Rumah
+218 思います おもいます
+Mengira
+219 自己紹介 じこしょうかい
+Perkenalan
+220 名前 なまえ
+Nama
+221 意味 いみ
+Arti
+222 本屋 ほんや Toko buku
+223 近く ちかく
+Dekat
+224 住みます すみます
+Tinggal
+225 働きます はたらきます
+Bekerja
+226 ～番目 ～ばんめ
+Urutan yang ~
+227
+兄 あに
+Kakak laki2 (sendiri)
+228 兄いさん おにいさん
+Kakak laki2 (orang lain)
+229
+姉 あね
+Kakak perempuan (sendiri)
+230 お姉さん おねえさん
+Kakak perempuan (orang lain)
+231
+弟 おとうと
+Adik laki2 (sendiri)
+232
+妹 いもうと
+Adik perempuan (sendiri)
+233 家族 かぞく
+Keluarga
+234 長い ながい
+Panjang
+235 短い みじかい
+Pendek
+236 低い ひくい
+Rendah
+237 上手 じょうず
+Pandai
+238
+歌 うた
+Lagu
+239 歌います うたいます
+Menyanyi
+240
+客 きゃく
+Tamu
+241 注文 ちゅうもん
+Pesanan
+242 洋食 ようしょく
+Makanan barat
+243 和食 わしょく
+Makanan jepang
+244 牛肉 ぎゅうにく
+Daging sapi
+245 地方 ちほう
+Daerah ,wilayah
+246 有名 ゆうめい
+Terkenal
+247
+生 なま
+Mentah
+248 冷たい つめたい
+Dingin (benda)
+249 ご飯 ごはん
+Nasi
+250
+塩 しお
+Garam
+251 全部 ぜんぶ
+Semua
+252 ～方 ～かた
+Cara~
+253 食べ方 たべかた
+Cara makan
+254 熱い あつい
+Panas
+7
+255 苦手 にがて
+Susah, berat,tidak begitu suka
+256 入れます いれます
+Memasukkan
+257
+木
+き
+Pohon
+258
+森 もり
+Hutan
+259
+島 しま
+Pulau
+260 自然 しぜん
+Alam
+261
+船 ふね
+Kapal
+262 暑い あつい
+Panas
+263 帰ります かえります
+Pulang
+264 予約します よやくします
+Memesan
+265 運転します うんてんします
+Menyetir
+266 ～中 ～ちゅう ／～じゅう
+Sedang/dalam ~
+267 旅行中 りょこうちゅう
+Sedang wisata
+268 観光地 かんこうち
+Tempat wisata
+269 女性 じょせい
+Wanita
+270 男性 だんせい
+Pria
+271 動物 どうぶつ
+Hewan
+272 空気 くうき
+Udara
+273 料金 りょうきん Biaya / tarif
+274 無料 むりょう
+Gratis
+275 明るい あかるい
+Terang
+276 便利 べんり
+Praktis
+277 一年中 いちねんじゅう
+Dalam satu tahun
+278 受付 うけつけ
+Penerima tamu
+279 広場 ひろば
+Lapangan
+280 問題 もんだい
+Soal, masalah
+281 同じ おなじ
+Sama
+282 集まります あつまります
+Berkumpul
+283 始まります はじまります
+Mulai
+284 終わります おわります
+Selesai
+285 中止します ちゅうしします
+Mengurungkan ,membatalkan
+286 教えます おしえます
+Memberitahu
+287 祭り まつり
+Perayaan
+288 日本祭り にほんまつり
+Perayaan jepang
+289 会場 かいじょう
+Ruang pertemuan
+290 入場料 にゅうじょうりょう Tarif masuk
+291 参加者 さんかしゃ
+Peserta
+292 急ぎます いそぎます
+Buru
+-buru
+293 決めます きめます
+Menentukan
+294 知ります しります
+Kenal, tahu
+295 正月 しょうがつ Tahun baru
+296 年末 ねんまつ
+Akhir tahun
+297 年始 ねんし
+Awal tahun
+8
+298 親 おや Orang tua
+299 忙しい いそがしい Sibuk
+300 特別 とくべつ Istimewa, special
+301 帰国 きこく Pulang ke negara
+302 喜びます よろこびます Merasa senang/gembira
+303 幸せ しあわせ Bahagia
+304 成長 せいちょう Pertumbuhan, perkembangan
+305 長生き ながいき Umur panjang, hidup lama
+306 願い事 ねがいこと Keinginan, kemauan, harapan
+307 合格 ごうかく Lulus
+308 試験 しけん Ujian
+309 大人 おとな Orang Dewasa
+310 ～式（成人式） ～しき（せいじんしき） Upacara ~(upacara kedewasaan)
+311 ～市（さいたま市） ～し（さいたまし） Kota~(kota saitama)
+312 商品 しょうひん Barang dagangan
+313 電気製品 でんきせいひん Peralatan listrik
+314 電子レンジ でんしレンジ Oven
+315 ～機（そうじ機） ～き（そうじき） Mesin~(mesin penghisap debu)
+316 店員 てんいん Penjaga toko
+317 調子 ちょうし Keadaan, kondisi
+318 悪い わるい Jelek
+319 動きます うごきます Bergerak
+320 考えます かんがえます Berfikir
+321 音 おと Suara
+322 出ます でます Keluar
+323 機能 きのう Fungsi
+324 省エネ しょうエネ Penghematan energy
+325 日本製 にほんせい Produk/buatan jepang
+326 重い おもい Berat
+327 軽い かるい Ringan
+328 静か しずか Tenang
+329 早く はやく Cepat
+330 方（こっちの方） ほう（こっちのほう） Arah(arah disini)
+331 洗います あらいます Mencuci
+332 満足します まんぞくします Puas, merasa puas
+333 京都 きょうと Kyoto
+334 神社 じんじゃ Kuil sinto
+335 お寺 おてら Kuil
+336 仏教 ぶっきょう Agama budha
+337 歴史 れきし Sejarah
+338 世界 せかい Dunia
+339 中心 ちゅうしん Pusat
+340 ～世紀（８世紀） ～せいき（はっせいき） Abad~
+9
+341 ～的 ～てき Berbau~ / ke~ an
+342 日本的 にほんてき Berbau jepang
+343 歴史的 れきしてき Bersejarah
+344 飲食 いんしょく Makan minum
+345 禁止 きんし Larangan
+346 説明 せつめい Penjelasan
+347 道具 どうぐ Peralatan
+348 博物館 はくぶつかん Museum
+349 必要 ひつよう Keperluan, kebutuhan
+350 ～階（２階） ～かい（にかい） Lantai ~ ( lantai 2 )
+351 油 あぶら Minyak , oli
+352 紙 かみ Kertas
+353 温度 おんど Suhu , derajat
+354 活動 かつどう Kegiatan , aktivitas
+355 会議室 かいぎしつ Ruang rapat
+356 寒い さむい Dingin ( suhu )
+357 出します だします Mengeluarkan , mengirim (surat )
+358 ～度（２８度） ～ど（にじゅうはちど） ~derajat ( 28 derajat )
+359 ～点（１００点） ～てん（１００てん） Nilai ~ ( nilai 100 )
+360 服 ふく Baju , pakaian
+361 自転車 じてんしゃ Sepeda
+362 自動車 じどうしゃ Mobil
+363 売ります うります Menjual
+364 貸します かします Meminjamkan
+365 返します かえします Mengembalikan
+366 変わります かわります Mengganti
+367 ～用 ～よう Urusan , keperluan ~
+368 子供用 こどもよう Urusan anak
+369 人生 じんせい Kehidupan
+370 歌手 かしゅ Penyanyi
+371 選手 せんしゅ Atlit, pemain
+372 画家 がか Pelukis
+373 作家 さっか Pengarang
+374 入学 にゅうがく Masuk sekolah
+375 卒業 そつぎょう Lulus
+376 病気 びょうき Sakit
+377 若い わかい Muda
+378 生まれます うまれます Lahir
+379 思い出 おもいで Kenang-kenangan, kenangan
+380 生活 せいかつ Kehidupan
+381 映画 えいが Film
+382 夫 おっと Suami ( sendiri )
+383 妻 つま Istri ( sendiri )
+10
+384 両親 りょうしん Orang tua
+385 不便 ふべん Tidak praktis
+386 選びます えらびます Memilih
+387 寝ます ねます Tidur
+388 サッカー場 サッカーじょう Lapangan sepak bola
+389 試合 しあい Pertandingan
+390 日曜日 にちようび Minggu
+391 強い つよい Kuat
+392 弱い よわい Lemah
+393 勝ちます かちます Menang
+394 負けます まけます Kalah
+395 ～対～（２対１） ～たい～（にたいいち） ~lawan~ ( 2 lawan 1 )
+396 庭 にわ Halaman
+397 公園 こうえん Taman
+398 病院 びょういん Rumah sakit
+399 交通 こうつう Lalu lintas
+400 通勤 つうきん Perjalanan ke kantor
+401 安全 あんぜん Keselamatan
+402 危ない あぶない Bahaya
+403 遠い とおい Jauh
+404 努めます つとめます Bekerja
+405 ～以上（２時間以上） ～いじょう（にじかんいじょう） ~ lebih ( 2 jam lebih )
+406 ～以下（６万円以下） ～いか（ろくまんえんいか） ~kurang ( kurang dari 6 man yen )
+407 海外 かいがい Luar negri
+408 食生活 しょくせいかつ Susunan makanan
+409 健康 けんこう Kesehatan
+410 家庭料理 かていりょうり Masakan rumah tangga
+411 材料 ざいりょう Bahan
+412 量 りょう Jumlah, kuantitas, banyaknya
+413 米 こめ Beras
+414 ～食 ～しょく Makan ~
+415 朝食 ちょうしょく Makan pagi
+416 昼食 ちゅうしょく Makan siang
+417 夕食 ゆうしょく Makan malam
+418 外食 がいしょく Makan di luar
+419 定食 ていしょく Makanan dengan menu tetap
+420 住所 じゅうしょ Alamat
+421 訪問 ほうもん Kunjungan
+422 経験 けいけん Pengalaman
+423 親切 しんせつ Ramah
+424 座ります すわります Duduk
+425 立ちます たちます Berdiri
+426 ～観（人生観） ～かん（じんせいかん） Pandangan ~ ( pandangan hidup )
+11
+427 約～（約６年間） やく～（やくろくねんかん） Kira2, sekitar ( sekitar 6 tahun )
+428 計画 けいかく Rencana , program
+429 自信 じしん Percaya diri
+430 方法 ほうほう Cara
+431 目的 もくてき Tujuan
+432 難しい むずかしい Sulit
+433 通じます つうじます Mengalirkan,menguasai,berhubungan
+434 習います ならいます Belajar kepada
+435 学びます まなびます Belajar
+436 ～級 ～きゅう Kelas ,tingkat ~
+437 初級 しょきゅう Kelas dasar
+438 中級 ちゅうきゅう Kelas menengah
+439 上級 じょうきゅう Kelas atas
+440 相手 あいて Pasangan, lawan
+441 気持ち きもち Perasaan enak
+442 恋人 こいびと Pacar
+443 出会い であい Pertemuan
+444 最近 さいきん Akhir-akhir ini
+445 最高 さいこう Teratas, tertinggi
+446 出席 しゅっせき Kehadiran
+447 招待 しょうたい Undangan
+448 ～合う（知り合う） ～あう（しりあう） Cocok ~ ( kenal mengenal )
+449 社会人 しゃかいじん Anggota masyarakat
+450 職場 しょくば Tempat kerja
+451 給料 きゅうりょう Gaji
+452 人間関係 にんげんかんけい Hubungan antar manusia
+453 親友 しんゆう Teman karib
+454 恋愛 れんあい Percintaan , asmara
+455 相談 そうだん Musyawarah
+456 心 こころ Hati
+457 心配 しんぱい Khawatir
+458 不安 ふあん Kegelisahan, kekhawatiran
+459 お客様 おきゃくさま Tamu
+460 手続き てつづき Prosedur
+461 飛行機 ひこうき Pesawat terbang
+462 変更 へんこう Perubahan
+463 予定 よてい Rencana
+464 利用 りよう Penggunaan, pemakaian
+465 忘れ物 わすれもの Benda yang tertinggal
+466 助けます たすけます Menolong
+467 ～航空（ＪＦ航空） ～こうくう（ＪＦこうくう） Penerbangan ~ ( penerbangan JF )
+468 ～便（１１５便） ～びん（いちいちごびん） Penerbangan , pos ( pos 115 )
+469 体力 たいりょく Kekuatan
+12
+470 協力 きょうりょく Kerjasama
+471 担当 たんとう Petugas
+472 報告 ほうこく Melapor
+473 連絡 れんらく Menghubungi
+474 募集 ぼしゅう Penerimaan, perekrutan
+475 輸出 ゆしゅつ Ekspor
+476 輸入 ゆにゅう Impor
+477 会話 かいわ Percakapan
+478
+形 かたち Bentuk
+479 漢字 かんじ Kanji
+480 答え こたえ Jawaban
+481 質問 しつもん Pertanyaan
+482 正しい ただしい Benar
+483 読解 どっかい Bacaan
+484 表現 ひょうげん Pengucapan
+485
+文 ぶん Kalimat
+486 文型 ぶんけい Pola kalimat
+487 文法 ぶんぽう Tata Bahasa
+488 もう一度 もういちど Sekali lagi
+489
+例 れい Contoh
+490 練習 れんしゅう latihan
+491 ～枚 ～まい
+～lembar
+492 今週 こんしゅう Minggu ini
+493 今度 こんど Lain kali, yang akan datang
+494
+横 よこ Sebelah
+495 押します おします Menekan, mendorong
+496 引きます ひきます Menarik
+497 温泉 おんせん Pemandian air panas
+498 来週 らいしゅう Minggu depan
+499
+犬 いぬ Anjing
+500 夕方 ゆうがた Sore
+501 季節 きせつ Musim
+502 昨日 きのう Kemarin
+503 明日 あした Besok
+504 食堂 しょくどう Kantin
+505 銀行 ぎんこう Bank
+506 受付 うけつけ Resepsionis
+507
+門 もん Pintu gerbang
+508 登ります のぼります Mendaki
+509 教科書 きょうかしょ Buku panduan
+510 教室 きょうしつ Ruang kelas
+511 参加します さんかします Berpartisipasi
+512 用意します よういします Menyiapkan
+13
+513 牛肉 ぎゅうにく Daging sapi
+514 豚肉 ぶたにく Daging babi
+515
+皿 さら Piring
+516 お湯 おゆ Air panas
+517 調理方法 ちょうりほうほう Cara memasak
+518 甘い あまい Manis
+519 辛い からい Pedas
+520 数字 すうじ Angka, bilangan
+521
+机 つくえ Meja
+522 都合 つごう Keadaan
+523 用事 ようじ Keperluan
+524 氏名 しめい Nama lengkap
+525 理由 りゆう Alasan
+526 別に べつに Beda
+-beda
+527 連絡先 れんらくさき Alamat yang dapat dihubungi
+528 吸います すいます Menghisap
+529 取ります とります Mengambil
+530 伝えます つたえます Menyampaikan
+531
+熱 ねつ Demam
+532
+薬 くすり Obat
+533 医者 いしゃ Dokter
+534 ～才 ～さい Bakat
+～
+／
+umur
+～
+535 眠い ねむい Ngantuk
+536 記入します きにゅうします Mengisi di kertas
+537
+顔 かお Wajah
+538 泣きます なきます Menangis
+539 会計 かいけい Pembayaran
+540 電話番号 でんわばんごう Nomor telepon
+541 牛乳 ぎゅうにゅう Susu sapi
+542 禁煙 きんえん Larangan merokok
+543 自由 じゆう Bebas
+544 切ります きります Memotong
+545 焼きます やきます Memanggang
+546 旅館 りょかん Penginapan
+547 遊びます あそびます Bermain
+548 調べます しらべます Memeriksa
+549 事故 じこ Kecelakaan
+550 故障 こしょう Kerusakan
+551 指定席 していせき Tempat duduk yang ditetapkan
+552 光ります ひかります Bercahaya , bersinar
+553 お知らせ おしらせ Pengumuman
+554 水道 すいどう Ledeng
+555 工事 こうじ Konstruksi
+14
+556 場合 ばあい Kesempatan
+557 条件 じょうけん Syarat
+-syarat, kondisi
+558 開きます ひらきます Membuka
+559 生産します せいさんします Memproduksi
+560 体験 たいけん Percobaan
+561 国際交流 こくさいこうりゅう Pertukaran budaya internasional
+562 申し込みます もうしこみます Melamar (pekerjaan)
+563 昨年 さくねん Tahun lalu
+564 毎年 まいとし Setiap tahun
+565
+袋 ふくろ Kantong plastik
+566 店長 てんちょう Manajer toko
+567 全員 ぜんいん Semuanya
+568 習慣 しゅうかん Kebiasaan
+569 普通 ふつう Biasa
+570 暗い くらい Gelap
+571 怒ります おこります Marah
+572 入院します にゅういんします Masuk rumah sakit
+573 退院します たいいんします Keluar rumah sakit
+574 急に きゅうに Tiba
+-tiba
+575 営業します えいぎょうします Mengusahakan
+576 案内します あんないします Memandu
+577 値段 ねだん Harga
+578 価格 かかく Harga
+579 消費税 しょうひぜい Pajak konsumen
+580 税別 ぜいべつ Harga belum termasuk pajak
+581 図書館 としょかん Perpustakaan
+582 開きます あきます Terbuka
+583 閉まります しまります Tertutup
+584 利用します りようします Menggunakan
+585 窓口 まどぐち Pintu jendela
+586 郵便局 ゆうびんきょく Kantor pos
+587 近所 きんじょ Tetangga
+588 自動 じどう Otomatis
+589 危険 きけん Bahaya
+590 ～種類 ～しゅるい
+～macam, jenis
+591 消します けします Memadamkan
+592 捨てます すてます Membuang
+593 分けます わけます Membagi
+594 燃えます もえます Terbakar
+595 設定します せっていします Mengeset,menyeting
+596 地震 じしん Gempa
+597 台風 たいふう Angin topan
+598
+声 こえ Suara (benda hidup)
+15
+599 大切な たいせつな Penting
+600 進みます すすみます Rekomendasi
+601 授業 じゅぎょう Pelajaran
+602 大変な たいへんな Berat (perasaan)
+603 困ります こまります Susah
+604 違います ちがいます Salah , berbeda
+605 慣れます なれます terbiasa
+606 増えます ふえます Bertambah
+607 笑います わらいます Tertawa
+608 苦労します くろうします Bersakit-sakit ( dalam usaha)
+609 希望 きぼう Harapan, keinginan
+610 特に とくに Terutama
+611 建てます たてます Mendirikan
+612 続けます つづけます Melanjutkan
+613 役に立ちます やくにたちます Bermanfaat 

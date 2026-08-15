@@ -1,0 +1,560 @@
+[
+  {
+    "id": "mn-35-001",
+    "kanji": "IMCパソコン教室",
+    "hiragana": "IMCパソコンきょうしつ",
+    "romaji": "IMCpasokonkyoushitsu",
+    "meaning": "nama kursus komputer fiksi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-002",
+    "kanji": "アフリカ",
+    "hiragana": "アフリカ",
+    "romaji": "afurika",
+    "meaning": "Afrika",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-003",
+    "kanji": "カーテン",
+    "hiragana": "カーテン",
+    "romaji": "kaaten",
+    "meaning": "gorden, tirai",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-004",
+    "kanji": "キー",
+    "hiragana": "キー",
+    "romaji": "kii",
+    "meaning": "keyboard, tombol",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-005",
+    "kanji": "クリックします",
+    "hiragana": "クリックします",
+    "romaji": "kurikkushimasu",
+    "meaning": "klik",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-006",
+    "kanji": "ことわざ",
+    "hiragana": "ことわざ",
+    "romaji": "kotowaza",
+    "meaning": "pepatah",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-007",
+    "kanji": "これで終わりましょう。",
+    "hiragana": "これでおわりましょう。",
+    "romaji": "koredeowarimashou.",
+    "meaning": "Mari kita selesai sampai di sini.",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-008",
+    "kanji": "さあ",
+    "hiragana": "さあ",
+    "romaji": "saa",
+    "meaning": "Yaaa... (dipakai ketika kurang mengerti mengenai sesuatu hal)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-009",
+    "kanji": "スキー場",
+    "hiragana": "スキーじょう",
+    "romaji": "sukiijou",
+    "meaning": "lapangan ski",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-010",
+    "kanji": "それなら",
+    "hiragana": "それなら",
+    "romaji": "sorenara",
+    "meaning": "kalau begitu",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-011",
+    "kanji": "はる",
+    "hiragana": "はる",
+    "romaji": "haru",
+    "meaning": "nama salon kecantikan fiksi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-012",
+    "kanji": "ひも",
+    "hiragana": "ひも",
+    "romaji": "himo",
+    "meaning": "tali",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-013",
+    "kanji": "ふりがな",
+    "hiragana": "ふりがな",
+    "romaji": "furigana",
+    "meaning": "huruf yang menyatakan cara membaca huruf Kanji",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-014",
+    "kanji": "マンガミュージアム",
+    "hiragana": "マンガミュージアム",
+    "romaji": "mangamyuujiamu",
+    "meaning": "Kyoto International Manga Museum",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-015",
+    "kanji": "みんなの学校",
+    "hiragana": "みんなのがっこう",
+    "romaji": "minnanogakkou",
+    "meaning": "nama sekolah Bahasa Jepang fiksi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-016",
+    "kanji": "もっと",
+    "hiragana": "もっと",
+    "romaji": "motto",
+    "meaning": "lebih",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-017",
+    "kanji": "レバー",
+    "hiragana": "レバー",
+    "romaji": "rebaa",
+    "meaning": "tuas",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-018",
+    "kanji": "屋上",
+    "hiragana": "おくじょう",
+    "romaji": "okujou",
+    "meaning": "loteng",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-019",
+    "kanji": "海外",
+    "hiragana": "かいがい",
+    "romaji": "kaigai",
+    "meaning": "luar negeri",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-020",
+    "kanji": "関係",
+    "hiragana": "かんけい",
+    "romaji": "kankei",
+    "meaning": "hubungan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-021",
+    "kanji": "丸",
+    "hiragana": "まる",
+    "romaji": "maru",
+    "meaning": "bulat",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-022",
+    "kanji": "機会",
+    "hiragana": "きかい",
+    "romaji": "kikai",
+    "meaning": "kesempatan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-023",
+    "kanji": "許可",
+    "hiragana": "きょか",
+    "romaji": "kyoka",
+    "meaning": "izin",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-024",
+    "kanji": "近所",
+    "hiragana": "きんじょ",
+    "romaji": "kinjo",
+    "meaning": "tetangga",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-025",
+    "kanji": "交わります",
+    "hiragana": "まじわります",
+    "romaji": "majiwarimasu",
+    "meaning": "bergaul",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-026",
+    "kanji": "向こう",
+    "hiragana": "むこう",
+    "romaji": "mukou",
+    "meaning": "(di) sana, seberang",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-027",
+    "kanji": "港",
+    "hiragana": "みなと",
+    "romaji": "minato",
+    "meaning": "pelabuhan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-028",
+    "kanji": "困ります",
+    "hiragana": "こまります",
+    "romaji": "komarimasu",
+    "meaning": "bingung",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-029",
+    "kanji": "佐藤歯科",
+    "hiragana": "さとうしか",
+    "romaji": "satoushika",
+    "meaning": "nama klinik gigi fiksi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-030",
+    "kanji": "咲きます［花が～］",
+    "hiragana": "さきます",
+    "romaji": "sakimasu",
+    "meaning": "[bunga] mekar",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-031",
+    "kanji": "山登り",
+    "hiragana": "やまのぼり",
+    "romaji": "yamanobori",
+    "meaning": "mendaki gunung",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-032",
+    "kanji": "志賀高原",
+    "hiragana": "しがこうげん",
+    "romaji": "shigakougen",
+    "meaning": "nama dataran tinggi yang terletak di taman nasional di prefektur Nagano",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-033",
+    "kanji": "治ります",
+    "hiragana": "なおります",
+    "romaji": "naorimasu",
+    "meaning": "[penyakit] sembuh",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-034",
+    "kanji": "朱",
+    "hiragana": "しゅ",
+    "romaji": "shu",
+    "meaning": "merah terang",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-035",
+    "kanji": "詳しい",
+    "hiragana": "くわしい",
+    "romaji": "kuwashii",
+    "meaning": "teliti",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-036",
+    "kanji": "炊飯器",
+    "hiragana": "すいはんき",
+    "romaji": "suihanki",
+    "meaning": "rice cooker",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-037",
+    "kanji": "正しい",
+    "hiragana": "ただしい",
+    "romaji": "tadashii",
+    "meaning": "benar",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-038",
+    "kanji": "昔",
+    "hiragana": "むかし",
+    "romaji": "mukashi",
+    "meaning": "dulu",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-039",
+    "kanji": "設備",
+    "hiragana": "せつび",
+    "romaji": "setsubi",
+    "meaning": "fasilitas",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-040",
+    "kanji": "草津",
+    "hiragana": "くさつ",
+    "romaji": "kusatsu",
+    "meaning": "nama tempat peristirahatan di prefektur Gunma",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-041",
+    "kanji": "大黒ずし",
+    "hiragana": "だいこくずし",
+    "romaji": "daikokuzushi",
+    "meaning": "nama restoran sushi fiksi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-042",
+    "kanji": "仲よくします",
+    "hiragana": "なかよくします",
+    "romaji": "nakayokushimasu",
+    "meaning": "bergaul dengan akrab",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-043",
+    "kanji": "直ります［病気が～／故障が～］",
+    "hiragana": "なおります",
+    "romaji": "naorimasu",
+    "meaning": "[kerusakan] membaik",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-044",
+    "kanji": "島",
+    "hiragana": "しま",
+    "romaji": "shima",
+    "meaning": "pulau",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-045",
+    "kanji": "日光",
+    "hiragana": "にっこう",
+    "romaji": "nikkou",
+    "meaning": "nama daerah pariwisata di prefektur Tochigi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-046",
+    "kanji": "入力します",
+    "hiragana": "にゅうりょくします",
+    "romaji": "nyuuryokushimasu",
+    "meaning": "mengisi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-047",
+    "kanji": "箱根",
+    "hiragana": "はこね",
+    "romaji": "hakone",
+    "meaning": "nama daerah pariwisata, peristirahatan di prefektur Kanagawa",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-048",
+    "kanji": "必要[な]",
+    "hiragana": "ひつよう[な]",
+    "romaji": "hitsuyou[na]",
+    "meaning": "perlu",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-049",
+    "kanji": "付けます［丸を～］",
+    "hiragana": "つけます",
+    "romaji": "tsukemasu",
+    "meaning": "memberikan [tanda (benar)]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-050",
+    "kanji": "変わります［色が～］",
+    "hiragana": "かわります",
+    "romaji": "kawarimasu",
+    "meaning": "[warna] berubah",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-051",
+    "kanji": "母の味",
+    "hiragana": "ははのあじ",
+    "romaji": "hahanoaji",
+    "meaning": "judul buku fiksi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-052",
+    "kanji": "毎日クッキング",
+    "hiragana": "まいにちクッキング",
+    "romaji": "mainichikukkingu",
+    "meaning": "nama sekolah masak fiksi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-053",
+    "kanji": "夜行バス",
+    "hiragana": "やこうバス",
+    "romaji": "yakoubasu",
+    "meaning": "bus malam",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-054",
+    "kanji": "葉",
+    "hiragana": "は",
+    "romaji": "ha",
+    "meaning": "daun",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-055",
+    "kanji": "旅行社",
+    "hiragana": "りょこうしゃ",
+    "romaji": "ryokousha",
+    "meaning": "agen perjalanan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-056",
+    "kanji": "歴史",
+    "hiragana": "れきし",
+    "romaji": "rekishi",
+    "meaning": "sejarah",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-35-057",
+    "kanji": "うわさをすれば影",
+    "hiragana": "うわさをすればかげ",
+    "romaji": "uwasawosurebakage",
+    "meaning": "Panjang umur (Kalau orang yang dibicarakan, yang dibicarakan suka muncul.)",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-35-058",
+    "kanji": "ちりも積もれば山となる",
+    "hiragana": "ちりもつもればやまとなる",
+    "romaji": "chirimotsumorebayamatonaru",
+    "meaning": "Sedikit demi sedikit, lama-lama menjadi bukit (Barang sekecil apa pun, kalau berkumpul menjadi barang yang besar seperti gunung.)",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-35-059",
+    "kanji": "苦あれば楽あり、楽あれば苦あり",
+    "hiragana": "くあればらくあり、らくあればくあり",
+    "romaji": "kuarebarakuari,rakuarebakuari",
+    "meaning": "Berakit-rakit kita ke hulu, berenang kemudian (Kalau bersusah payah, dapat kesenangan di kemudian hari. Sebaliknya bersenang-senang dulu, akan mengalami kesengsaraan...)",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-35-060",
+    "kanji": "三人寄れば文殊の知恵",
+    "hiragana": "さんにんよればもんじゅのちえ",
+    "romaji": "sanninyorebamonjunochie",
+    "meaning": "Dua kepala lebih baik daripada satu (Walaupun bukan orang yang unggul, jika tiga orang berkumpul kemudian berunding mendapatkan ide yang bagus.)",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-35-061",
+    "kanji": "住めば都",
+    "hiragana": "すめばみやこ",
+    "romaji": "sumebamiyako",
+    "meaning": "Alah bisa karena biasa (Biar tempat bagaimana pun, kalau didiami lama akhirnya terasa tempat yang paling baik.)",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-35-062",
+    "kanji": "立てばしゃくやく、座ればぼたん、歩く姿はゆりの花",
+    "hiragana": "たてばしゃくやく、すわればぼたん、あるくすがたはゆりのはな",
+    "romaji": "tatebashakuyaku,suwarebabotan,arukusugatahayurinohana",
+    "meaning": "Cantiknya bagaikan bulan (Perumpamaan untuk orang cantik.)",
+    "level": "-",
+    "importinity": 2
+  }
+]

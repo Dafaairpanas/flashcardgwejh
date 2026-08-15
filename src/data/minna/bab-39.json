@@ -1,0 +1,578 @@
+[
+  {
+    "id": "mn-39-001",
+    "kanji": "－号室",
+    "hiragana": "－ごうしつ",
+    "romaji": "-goushitsu",
+    "meaning": "kamar nomor －",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-002",
+    "kanji": "［お］見合い",
+    "hiragana": "［お］みあい",
+    "romaji": "[o]miai",
+    "meaning": "perjodohan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-003",
+    "kanji": "～屋",
+    "hiragana": "～や",
+    "romaji": "~ya",
+    "meaning": "penjual ～",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-004",
+    "kanji": "～代",
+    "hiragana": "～だい",
+    "romaji": "~dai",
+    "meaning": "biaya untuk ～",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-005",
+    "kanji": "うれしい",
+    "hiragana": "うれしい",
+    "romaji": "ureshii",
+    "meaning": "senang",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-006",
+    "kanji": "お疲れさまでした。",
+    "hiragana": "おつかれさまでした。",
+    "romaji": "otsukaresamadeshita.",
+    "meaning": "Terima kasih atas kerja samanya. (perkataan terhadap rekan atau bawahan untuk menghargai tenaga kerja mereka)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-007",
+    "kanji": "がっかりします",
+    "hiragana": "がっかりします",
+    "romaji": "gakkarishimasu",
+    "meaning": "putus asa",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-008",
+    "kanji": "けんかします",
+    "hiragana": "けんかします",
+    "romaji": "kenkashimasu",
+    "meaning": "bertengkar",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-009",
+    "kanji": "しかし",
+    "hiragana": "しかし",
+    "romaji": "shikashi",
+    "meaning": "tetapi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-010",
+    "kanji": "せっけん",
+    "hiragana": "せっけん",
+    "romaji": "sekken",
+    "meaning": "sabun",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-011",
+    "kanji": "タオル",
+    "hiragana": "タオル",
+    "romaji": "taoru",
+    "meaning": "handuk",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-012",
+    "kanji": "トラック",
+    "hiragana": "トラック",
+    "romaji": "torakku",
+    "meaning": "truk",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-013",
+    "kanji": "ハイキング",
+    "hiragana": "ハイキング",
+    "romaji": "haikingu",
+    "meaning": "hiking",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-014",
+    "kanji": "びっくりします",
+    "hiragana": "びっくりします",
+    "romaji": "bikkurishimasu",
+    "meaning": "kaget",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-015",
+    "kanji": "ぶつかります",
+    "hiragana": "ぶつかります",
+    "romaji": "butsukarimasu",
+    "meaning": "menabrak",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-016",
+    "kanji": "フロント",
+    "hiragana": "フロント",
+    "romaji": "furonto",
+    "meaning": "resepsionis",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-017",
+    "kanji": "また",
+    "hiragana": "また",
+    "romaji": "mata",
+    "meaning": "dan",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-018",
+    "kanji": "やせます",
+    "hiragana": "やせます",
+    "romaji": "yasemasu",
+    "meaning": "menjadi kurus",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-019",
+    "kanji": "安心します",
+    "hiragana": "あんしんします",
+    "romaji": "anshinshimasu",
+    "meaning": "lega",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-020",
+    "kanji": "汚い",
+    "hiragana": "きたない",
+    "romaji": "kitanai",
+    "meaning": "kotor",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-021",
+    "kanji": "火事",
+    "hiragana": "かじ",
+    "romaji": "kaji",
+    "meaning": "kebakaran",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-022",
+    "kanji": "会場",
+    "hiragana": "かいじょう",
+    "romaji": "kaijou",
+    "meaning": "tempat",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-023",
+    "kanji": "硬い",
+    "hiragana": "かたい",
+    "romaji": "katai",
+    "meaning": "keras",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-024",
+    "kanji": "合います",
+    "hiragana": "あいます",
+    "romaji": "aimasu",
+    "meaning": "cocok",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-025",
+    "kanji": "今では",
+    "hiragana": "いまでは",
+    "romaji": "imadeha",
+    "meaning": "sekarang",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-026",
+    "kanji": "伺います。",
+    "hiragana": "うかがいます。",
+    "romaji": "ukagaimasu.",
+    "meaning": "pergi (Kata Merendahkan Diri dari いきます)",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-027",
+    "kanji": "死にます",
+    "hiragana": "しにます",
+    "romaji": "shinimasu",
+    "meaning": "meninggal dunia",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-028",
+    "kanji": "事故",
+    "hiragana": "じこ",
+    "romaji": "jiko",
+    "meaning": "kecelakaan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-029",
+    "kanji": "邪魔な",
+    "hiragana": "じゃまな",
+    "romaji": "jamana",
+    "meaning": "gangguan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-030",
+    "kanji": "首相",
+    "hiragana": "しゅしょう",
+    "romaji": "shushou",
+    "meaning": "perdana menteri",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-031",
+    "kanji": "成人式",
+    "hiragana": "せいじんしき",
+    "romaji": "seijinshiki",
+    "meaning": "upacara pendewasaan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-032",
+    "kanji": "西洋化します",
+    "hiragana": "せいようかします",
+    "romaji": "seiyoukashimasu",
+    "meaning": "kebarat-baratan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-033",
+    "kanji": "操作",
+    "hiragana": "そうさ",
+    "romaji": "sousa",
+    "meaning": "operasi (～します：mengoperasi)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-034",
+    "kanji": "太ります",
+    "hiragana": "ふとります",
+    "romaji": "futorimasu",
+    "meaning": "menjadi gemuk",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-035",
+    "kanji": "台風",
+    "hiragana": "たいふう",
+    "romaji": "taifuu",
+    "meaning": "angin topan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-036",
+    "kanji": "大人",
+    "hiragana": "おとな",
+    "romaji": "otona",
+    "meaning": "orang dewasa",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-037",
+    "kanji": "大勢",
+    "hiragana": "おおぜい",
+    "romaji": "oozei",
+    "meaning": "banyak",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-038",
+    "kanji": "地震",
+    "hiragana": "じしん",
+    "romaji": "jishin",
+    "meaning": "gempa bumi",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-039",
+    "kanji": "恥ずかしい",
+    "hiragana": "はずかしい",
+    "romaji": "hazukashii",
+    "meaning": "malu",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-040",
+    "kanji": "津波",
+    "hiragana": "つなみ",
+    "romaji": "tsunami",
+    "meaning": "tsunami",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-041",
+    "kanji": "通ります［道を～］",
+    "hiragana": "とおります",
+    "romaji": "toorimasu",
+    "meaning": "lewat, melalui [jalan]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-042",
+    "kanji": "伝統的な",
+    "hiragana": "でんとうてきな",
+    "romaji": "dentoutekina",
+    "meaning": "secara tradisional",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-043",
+    "kanji": "途中で",
+    "hiragana": "とちゅうで",
+    "romaji": "tochuude",
+    "meaning": "di tengah",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-044",
+    "kanji": "倒れます［ビルが～］",
+    "hiragana": "たおれます",
+    "romaji": "taoremasu",
+    "meaning": "[bangunan] roboh",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-045",
+    "kanji": "答えます［質問に～］",
+    "hiragana": "こたえます",
+    "romaji": "kotaemasu",
+    "meaning": "menjawab [pada pertanyaan]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-046",
+    "kanji": "軟らかい",
+    "hiragana": "やわらかい",
+    "romaji": "yawarakai",
+    "meaning": "lembut",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-047",
+    "kanji": "悲しい",
+    "hiragana": "かなしい",
+    "romaji": "kanashii",
+    "meaning": "sedih",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-048",
+    "kanji": "複雑な",
+    "hiragana": "ふくざつな",
+    "romaji": "fukuzatsuna",
+    "meaning": "rumit",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-049",
+    "kanji": "洋服",
+    "hiragana": "ようふく",
+    "romaji": "youfuku",
+    "meaning": "baju",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-050",
+    "kanji": "雷",
+    "hiragana": "かみなり",
+    "romaji": "kaminari",
+    "meaning": "petir",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-051",
+    "kanji": "離婚します",
+    "hiragana": "りこんします",
+    "romaji": "rikonshimasu",
+    "meaning": "bercerai",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-39-052",
+    "kanji": "いらいらする",
+    "hiragana": "いらいらする",
+    "romaji": "irairasuru",
+    "meaning": "jengkel",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-39-053",
+    "kanji": "うっとりする",
+    "hiragana": "うっとりする",
+    "romaji": "uttorisuru",
+    "meaning": "terpesona",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-39-054",
+    "kanji": "うらやましい",
+    "hiragana": "うらやましい",
+    "romaji": "urayamashii",
+    "meaning": "iri hati",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-39-055",
+    "kanji": "おもしろい",
+    "hiragana": "おもしろい",
+    "romaji": "omoshiroi",
+    "meaning": "menarik",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-39-056",
+    "kanji": "がっかりする",
+    "hiragana": "がっかりする",
+    "romaji": "gakkarisuru",
+    "meaning": "putus asa",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-39-057",
+    "kanji": "どきどきする",
+    "hiragana": "どきどきする",
+    "romaji": "dokidokisuru",
+    "meaning": "takut",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-39-058",
+    "kanji": "はらはらする",
+    "hiragana": "はらはらする",
+    "romaji": "haraharasuru",
+    "meaning": "merasa tidak nyaman",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-39-059",
+    "kanji": "びっくりする",
+    "hiragana": "びっくりする",
+    "romaji": "bikkurisuru",
+    "meaning": "kaget",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-39-060",
+    "kanji": "わくわくする",
+    "hiragana": "わくわくする",
+    "romaji": "wakuwakusuru",
+    "meaning": "sangat bersemangat, menggugah",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-39-061",
+    "kanji": "懐かしい",
+    "hiragana": "なつかしい",
+    "romaji": "natsukashii",
+    "meaning": "terkenang",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-39-062",
+    "kanji": "楽しい",
+    "hiragana": "たのしい",
+    "romaji": "tanoshii",
+    "meaning": "senang",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-39-063",
+    "kanji": "気持ち",
+    "hiragana": "きもち",
+    "romaji": "kimochi",
+    "meaning": "Perasaan",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-39-064",
+    "kanji": "寂しい",
+    "hiragana": "さびしい",
+    "romaji": "sabishii",
+    "meaning": "sepi",
+    "level": "-",
+    "importinity": 2
+  }
+]

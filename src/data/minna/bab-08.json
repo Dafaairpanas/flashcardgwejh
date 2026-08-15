@@ -1,0 +1,614 @@
+[
+  {
+    "id": "mn-08-001",
+    "kanji": "（いいえ）けっこうです",
+    "hiragana": "（いいえ）けっこうです",
+    "romaji": "(iie)kekkoudesu",
+    "meaning": "Cukup",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-002",
+    "kanji": "～が～",
+    "hiragana": "～が～",
+    "romaji": "~ga~",
+    "meaning": "Tetapi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-003",
+    "kanji": "～もういっぱいいかがですか",
+    "hiragana": "～もういっぱいいかがですか",
+    "romaji": "~mouippaiikagadesuka",
+    "meaning": "Mau nambah secangkir lagi ?",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-004",
+    "kanji": "あまり",
+    "hiragana": "あまり",
+    "romaji": "amari",
+    "meaning": "Tidak begitu ~ / kurang begitu ~",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-005",
+    "kanji": "いい（よい）",
+    "hiragana": "いい（よい）",
+    "romaji": "ii(yoi)",
+    "meaning": "Baik / bagus",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-006",
+    "kanji": "いいえ",
+    "hiragana": "いいえ",
+    "romaji": "iie",
+    "meaning": "Sama-sama",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-007",
+    "kanji": "おいしい",
+    "hiragana": "おいしい",
+    "romaji": "oishii",
+    "meaning": "Enak",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-008",
+    "kanji": "おもしろい",
+    "hiragana": "おもしろい",
+    "romaji": "omoshiroi",
+    "meaning": "Menarik",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-009",
+    "kanji": "お元気ですか",
+    "hiragana": "おげんきですか",
+    "romaji": "ogenkidesuka",
+    "meaning": "Apa kabar ?",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-010",
+    "kanji": "きれい（な）",
+    "hiragana": "きれい（な）",
+    "romaji": "kirei(na)",
+    "meaning": "Cantik / bersih",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-011",
+    "kanji": "シャンハイ",
+    "hiragana": "シャンハイ",
+    "romaji": "shanhai",
+    "meaning": "Shanghai",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-012",
+    "kanji": "すてき（な）",
+    "hiragana": "すてき（な）",
+    "romaji": "suteki(na)",
+    "meaning": "Bagus",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-013",
+    "kanji": "そうですね",
+    "hiragana": "そうですね",
+    "romaji": "soudesune",
+    "meaning": "Bagaimana ya?",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-014",
+    "kanji": "そして",
+    "hiragana": "そして",
+    "romaji": "soshite",
+    "meaning": "Kemudian",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-015",
+    "kanji": "そろそろ失礼します",
+    "hiragana": "そろそろしつれいします",
+    "romaji": "sorosoroshitsureishimasu",
+    "meaning": "Maaf saya mau pamit dulu",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-016",
+    "kanji": "どう",
+    "hiragana": "どう",
+    "romaji": "dou",
+    "meaning": "Bagaimana?",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-017",
+    "kanji": "とても",
+    "hiragana": "とても",
+    "romaji": "totemo",
+    "meaning": "Sangat / ~sekali",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-018",
+    "kanji": "どんな～",
+    "hiragana": "どんな～",
+    "romaji": "donna~",
+    "meaning": "Yang bagaimana ?",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-019",
+    "kanji": "にぎやか（な）",
+    "hiragana": "にぎやか（な）",
+    "romaji": "nigiyaka(na)",
+    "meaning": "Ramai",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-020",
+    "kanji": "ハンサム（な）",
+    "hiragana": "ハンサム（な）",
+    "romaji": "hansamu(na)",
+    "meaning": "Tampan / gagah / ganteng",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-021",
+    "kanji": "またいらっしゃってください",
+    "hiragana": "またいらっしゃってください",
+    "romaji": "matairasshattekudasai",
+    "meaning": "Silakan datang lagi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-022",
+    "kanji": "レストラン",
+    "hiragana": "レストラン",
+    "romaji": "resutoran",
+    "meaning": "Restoran",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-023",
+    "kanji": "悪い",
+    "hiragana": "わるい",
+    "romaji": "warui",
+    "meaning": "Jelek",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-024",
+    "kanji": "安い",
+    "hiragana": "やすい",
+    "romaji": "yasui",
+    "meaning": "Murah",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-025",
+    "kanji": "易しい",
+    "hiragana": "やさしい",
+    "romaji": "yasashii",
+    "meaning": "Mudah / gampang",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-026",
+    "kanji": "暇（な）",
+    "hiragana": "ひま（な）",
+    "romaji": "hima(na)",
+    "meaning": "Senggang",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-027",
+    "kanji": "楽しい",
+    "hiragana": "たのしい",
+    "romaji": "tanoshii",
+    "meaning": "Senang",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-028",
+    "kanji": "寒い",
+    "hiragana": "さむい",
+    "romaji": "samui",
+    "meaning": "Dingin suhu",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-029",
+    "kanji": "元気（な）",
+    "hiragana": "げんき（な）",
+    "romaji": "genki(na)",
+    "meaning": "Sehat",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-030",
+    "kanji": "古い",
+    "hiragana": "ふるい",
+    "romaji": "furui",
+    "meaning": "Lama / tua",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-031",
+    "kanji": "高い",
+    "hiragana": "たかい",
+    "romaji": "takai",
+    "meaning": "Mahal / tinggi",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-032",
+    "kanji": "黒い",
+    "hiragana": "くろい",
+    "romaji": "kuroi",
+    "meaning": "Hitam",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-033",
+    "kanji": "桜",
+    "hiragana": "さくら",
+    "romaji": "sakura",
+    "meaning": "Sakura",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-034",
+    "kanji": "山",
+    "hiragana": "やま",
+    "romaji": "yama",
+    "meaning": "Gunung",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-035",
+    "kanji": "仕事",
+    "hiragana": "しごと",
+    "romaji": "shigoto",
+    "meaning": "Pekerjaan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-036",
+    "kanji": "所",
+    "hiragana": "ところ",
+    "romaji": "tokoro",
+    "meaning": "Tempat",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-037",
+    "kanji": "暑い",
+    "hiragana": "あつい",
+    "romaji": "atsui",
+    "meaning": "Panas ( Udara, Cuaca )",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-038",
+    "kanji": "小さい",
+    "hiragana": "ちいさい",
+    "romaji": "chiisai",
+    "meaning": "Kecil",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-039",
+    "kanji": "食べ物",
+    "hiragana": "たべもの",
+    "romaji": "tabemono",
+    "meaning": "Makanan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-040",
+    "kanji": "新しい",
+    "hiragana": "あたらしい",
+    "romaji": "atarashii",
+    "meaning": "Baru",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-041",
+    "kanji": "新設（な）",
+    "hiragana": "しんせつ（な）",
+    "romaji": "shinsetsu(na)",
+    "meaning": "Baik hati ( Tidak untuk sendiri )",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-042",
+    "kanji": "生活",
+    "hiragana": "せいかつ",
+    "romaji": "seikatsu",
+    "meaning": "Kehidupan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-043",
+    "kanji": "青い",
+    "hiragana": "あおい",
+    "romaji": "aoi",
+    "meaning": "Biru",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-044",
+    "kanji": "静香（な）",
+    "hiragana": "しずか（な）",
+    "romaji": "shizuka(na)",
+    "meaning": "Sunyi / tenang",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-045",
+    "kanji": "赤い",
+    "hiragana": "あかい",
+    "romaji": "akai",
+    "meaning": "Merah",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-046",
+    "kanji": "大きい",
+    "hiragana": "おおきい",
+    "romaji": "ookii",
+    "meaning": "Besar",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-047",
+    "kanji": "町",
+    "hiragana": "まち",
+    "romaji": "machi",
+    "meaning": "Kota",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-048",
+    "kanji": "低い",
+    "hiragana": "ひくい",
+    "romaji": "hikui",
+    "meaning": "Rendah",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-049",
+    "kanji": "難しい",
+    "hiragana": "むずかしい",
+    "romaji": "muzukashii",
+    "meaning": "Sulit / susah",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-050",
+    "kanji": "熱い",
+    "hiragana": "あつい",
+    "romaji": "atsui",
+    "meaning": "Panas ( Benda, perasaan )",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-051",
+    "kanji": "白い",
+    "hiragana": "しろい",
+    "romaji": "shiroi",
+    "meaning": "Putih",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-052",
+    "kanji": "便利（な）",
+    "hiragana": "べんり（な）",
+    "romaji": "benri(na)",
+    "meaning": "Praktis",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-053",
+    "kanji": "忙しい",
+    "hiragana": "いそがしい",
+    "romaji": "isogashii",
+    "meaning": "Sibuk",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-054",
+    "kanji": "有名（な）",
+    "hiragana": "ゆうめい（な）",
+    "romaji": "yuumei(na)",
+    "meaning": "Terkenal",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-055",
+    "kanji": "寮",
+    "hiragana": "りょう",
+    "romaji": "ryou",
+    "meaning": "Asrama",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-056",
+    "kanji": "冷たい",
+    "hiragana": "つめたい",
+    "romaji": "tsumetai",
+    "meaning": "Dingin benda",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-08-057",
+    "kanji": "オレンジ",
+    "hiragana": "オレンジ",
+    "romaji": "orenji",
+    "meaning": "Oranye",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-08-058",
+    "kanji": "きいろい",
+    "hiragana": "きいろい",
+    "romaji": "kiiroi",
+    "meaning": "Kuning",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-08-059",
+    "kanji": "グレー",
+    "hiragana": "グレー",
+    "romaji": "guree",
+    "meaning": "Abu-abu",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-08-060",
+    "kanji": "ちゃいろい",
+    "hiragana": "ちゃいろい",
+    "romaji": "chairoi",
+    "meaning": "coklat",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-08-061",
+    "kanji": "ピンク",
+    "hiragana": "ピンク",
+    "romaji": "pinku",
+    "meaning": "Merah muda",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-08-062",
+    "kanji": "ベージュ",
+    "hiragana": "ベージュ",
+    "romaji": "beeju",
+    "meaning": "krem",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-08-063",
+    "kanji": "みどり",
+    "hiragana": "みどり",
+    "romaji": "midori",
+    "meaning": "Hijau",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-08-064",
+    "kanji": "むらさき",
+    "hiragana": "むらさき",
+    "romaji": "murasaki",
+    "meaning": "Ungu",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-08-065",
+    "kanji": "夏",
+    "hiragana": "なつ",
+    "romaji": "natsu",
+    "meaning": "Musim panas",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-08-066",
+    "kanji": "秋",
+    "hiragana": "あき",
+    "romaji": "aki",
+    "meaning": "Musim gugur",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-08-067",
+    "kanji": "春",
+    "hiragana": "はる",
+    "romaji": "haru",
+    "meaning": "Musim semi",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-08-068",
+    "kanji": "冬",
+    "hiragana": "ふゆ",
+    "romaji": "fuyu",
+    "meaning": "Musim dingin",
+    "level": "N4",
+    "importinity": 2
+  }
+]

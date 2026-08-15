@@ -1,0 +1,713 @@
+[
+  {
+    "id": "mn-37-001",
+    "kanji": "－キロ",
+    "hiragana": "－キロ",
+    "romaji": "-kiro",
+    "meaning": "－ kilogram, － kilometer",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-002",
+    "kanji": "－世紀",
+    "hiragana": "－せいき",
+    "romaji": "-seiki",
+    "meaning": "abad ke －",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-003",
+    "kanji": "～の一つ",
+    "hiragana": "～のひとつ",
+    "romaji": "~nohitotsu",
+    "meaning": "salah satu ~",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-004",
+    "kanji": "～中",
+    "hiragana": "～じゅう",
+    "romaji": "~juu",
+    "meaning": "seluruh ~",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-005",
+    "kanji": "インスタントラーメン",
+    "hiragana": "インスタントラーメン",
+    "romaji": "insutantoraamen",
+    "meaning": "mie instan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-006",
+    "kanji": "オリンピック",
+    "hiragana": "オリンピック",
+    "romaji": "orinpikku",
+    "meaning": "Olimpiade",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-007",
+    "kanji": "サウジアラビア",
+    "hiragana": "サウジアラビア",
+    "romaji": "saujiarabia",
+    "meaning": "Arab Saudi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-008",
+    "kanji": "しかし",
+    "hiragana": "しかし",
+    "romaji": "shikashi",
+    "meaning": "tetapi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-009",
+    "kanji": "しかります",
+    "hiragana": "しかります",
+    "romaji": "shikarimasu",
+    "meaning": "memarahi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-010",
+    "kanji": "そのあと",
+    "hiragana": "そのあと",
+    "romaji": "sonoato",
+    "meaning": "setelah itu, sesudah itu",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-011",
+    "kanji": "その後",
+    "hiragana": "そのご",
+    "romaji": "sonogo",
+    "meaning": "setelah, sesudah",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-012",
+    "kanji": "だれか",
+    "hiragana": "だれか",
+    "romaji": "dareka",
+    "meaning": "siapa",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-013",
+    "kanji": "デート",
+    "hiragana": "デート",
+    "romaji": "deeto",
+    "meaning": "kencan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-014",
+    "kanji": "とります",
+    "hiragana": "とります",
+    "romaji": "torimasu",
+    "meaning": "mencuri",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-015",
+    "kanji": "ねずみ",
+    "hiragana": "ねずみ",
+    "romaji": "nezumi",
+    "meaning": "tikus",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-016",
+    "kanji": "ポルトガル",
+    "hiragana": "ポルトガル",
+    "romaji": "porutogaru",
+    "meaning": "Portugis",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-017",
+    "kanji": "よかったですね。",
+    "hiragana": "よかったですね。",
+    "romaji": "yokattadesune.",
+    "meaning": "Bagus, ya.",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-018",
+    "kanji": "ロシア",
+    "hiragana": "ロシア",
+    "romaji": "roshia",
+    "meaning": "Rusia",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-019",
+    "kanji": "ワールドカップ",
+    "hiragana": "ワールドカップ",
+    "romaji": "waarudokappu",
+    "meaning": "piala dunia",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-020",
+    "kanji": "一生懸命",
+    "hiragana": "いっしょうけんめい",
+    "romaji": "isshoukenmei",
+    "meaning": "sungguh-sungguh",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-021",
+    "kanji": "一匹もいません。",
+    "hiragana": "いっぴきもいません。",
+    "romaji": "ippikimoimasen.",
+    "meaning": "Tidak ada seekor pun.",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-022",
+    "kanji": "汚します",
+    "hiragana": "よごします",
+    "romaji": "yogoshimasu",
+    "meaning": "mengotori",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-023",
+    "kanji": "何語",
+    "hiragana": "なにご",
+    "romaji": "nanigo",
+    "meaning": "bahasa apa",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-024",
+    "kanji": "壊します",
+    "hiragana": "こわします",
+    "romaji": "kowashimasu",
+    "meaning": "merusak",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-025",
+    "kanji": "皆様",
+    "hiragana": "みなさま",
+    "romaji": "minasama",
+    "meaning": "semuanya (Kata Hormat dari みなさん)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-026",
+    "kanji": "金",
+    "hiragana": "きん",
+    "romaji": "kin",
+    "meaning": "emas",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-027",
+    "kanji": "金色",
+    "hiragana": "きんいろ",
+    "romaji": "kin'iro",
+    "meaning": "warna emas",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-028",
+    "kanji": "警官",
+    "hiragana": "けいかん",
+    "romaji": "keikan",
+    "meaning": "polisi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-029",
+    "kanji": "原料",
+    "hiragana": "げんりょう",
+    "romaji": "genryou",
+    "meaning": "bahan baku",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-030",
+    "kanji": "言い伝え",
+    "hiragana": "いいつたえ",
+    "romaji": "iitsutae",
+    "meaning": "tradisi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-031",
+    "kanji": "江戸時代",
+    "hiragana": "えどじだい",
+    "romaji": "edojidai",
+    "meaning": "Zaman Edo (1603-1868)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-032",
+    "kanji": "行います",
+    "hiragana": "おこないます",
+    "romaji": "okonaimasu",
+    "meaning": "mengadakan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-033",
+    "kanji": "豪華［な］",
+    "hiragana": "ごうか［な］",
+    "romaji": "gouka[na]",
+    "meaning": "mewah",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-034",
+    "kanji": "左甚五郎",
+    "hiragana": "ひだりじんごろう",
+    "romaji": "hidarijingorou",
+    "meaning": "pemahat terkenal pada zaman Edo (1594-1651)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-035",
+    "kanji": "招待します",
+    "hiragana": "しょうたいします",
+    "romaji": "shoutaishimasu",
+    "meaning": "mengundang",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-036",
+    "kanji": "焼けます［うちが～］",
+    "hiragana": "やけます",
+    "romaji": "yakemasu",
+    "meaning": "[rumah] terbakar",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-037",
+    "kanji": "世界遺産",
+    "hiragana": "せかいいさん",
+    "romaji": "sekaiisan",
+    "meaning": "Situs Warisan Dunia UNESCO",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-038",
+    "kanji": "世界中",
+    "hiragana": "せかいじゅう",
+    "romaji": "sekaijuu",
+    "meaning": "seluruh dunia",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-039",
+    "kanji": "石油",
+    "hiragana": "せきゆ",
+    "romaji": "sekiyu",
+    "meaning": "minyak tanah",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-040",
+    "kanji": "大仏",
+    "hiragana": "だいぶつ",
+    "romaji": "daibutsu",
+    "meaning": "Daibutsu (patung Budha yang besar)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-041",
+    "kanji": "仲間",
+    "hiragana": "なかま",
+    "romaji": "nakama",
+    "meaning": "teman",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-042",
+    "kanji": "注意します",
+    "hiragana": "ちゅういします",
+    "romaji": "chuuishimasu",
+    "meaning": "menasihati",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-043",
+    "kanji": "彫ります",
+    "hiragana": "ほります",
+    "romaji": "horimasu",
+    "meaning": "mengukir, memahat",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-044",
+    "kanji": "彫刻",
+    "hiragana": "ちょうこく",
+    "romaji": "choukoku",
+    "meaning": "ukiran, pahatan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-045",
+    "kanji": "泥棒",
+    "hiragana": "どろぼう",
+    "romaji": "dorobou",
+    "meaning": "pencuri",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-046",
+    "kanji": "東照宮",
+    "hiragana": "とうしょうぐう",
+    "romaji": "toushouguu",
+    "meaning": "kuil yang ada di Nikko, prefektur Tochigi yang mengabadikan Tokugawa Ieyasu",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-047",
+    "kanji": "東大寺",
+    "hiragana": "とうだいじ",
+    "romaji": "toudaiji",
+    "meaning": "Todaiji (nama kuil)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-048",
+    "kanji": "踏みます",
+    "hiragana": "ふみます",
+    "romaji": "fumimasu",
+    "meaning": "menginjak",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-049",
+    "kanji": "麦",
+    "hiragana": "むぎ",
+    "romaji": "mugi",
+    "meaning": "gandum",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-050",
+    "kanji": "発見します",
+    "hiragana": "はっけんします",
+    "romaji": "hakkenshimasu",
+    "meaning": "menemukan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-051",
+    "kanji": "発明します",
+    "hiragana": "はつめいします",
+    "romaji": "hatsumeishimasu",
+    "meaning": "menciptakan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-052",
+    "kanji": "美しい",
+    "hiragana": "うつくしい",
+    "romaji": "utsukushii",
+    "meaning": "indah, elok",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-053",
+    "kanji": "米",
+    "hiragana": "こめ",
+    "romaji": "kome",
+    "meaning": "beras",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-054",
+    "kanji": "褒めます",
+    "hiragana": "ほめます",
+    "romaji": "homemasu",
+    "meaning": "memuji",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-055",
+    "kanji": "本物",
+    "hiragana": "ほんもの",
+    "romaji": "honmono",
+    "meaning": "asli",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-056",
+    "kanji": "翻訳します",
+    "hiragana": "ほんやくします",
+    "romaji": "honyakushimasu",
+    "meaning": "menerjemahkan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-057",
+    "kanji": "眠ります",
+    "hiragana": "ねむります",
+    "romaji": "nemurimasu",
+    "meaning": "tidur",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-058",
+    "kanji": "眠り猫",
+    "hiragana": "ねむりねこ",
+    "romaji": "nemurineko",
+    "meaning": "kucing yang sedang tidur, nama ukiran",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-059",
+    "kanji": "輸出します",
+    "hiragana": "ゆしゅつします",
+    "romaji": "yushutsushimasu",
+    "meaning": "mengekspor",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-060",
+    "kanji": "輸入します",
+    "hiragana": "ゆにゅうします",
+    "romaji": "yunyuushimasu",
+    "meaning": "mengimpor",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-061",
+    "kanji": "誘います",
+    "hiragana": "さそいます",
+    "romaji": "sasoimasu",
+    "meaning": "mengajak",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-062",
+    "kanji": "頼みます",
+    "hiragana": "たのみます",
+    "romaji": "tanomimasu",
+    "meaning": "meminta",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-37-063",
+    "kanji": "かむ",
+    "hiragana": "かむ",
+    "romaji": "kamu",
+    "meaning": "menggigit",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-37-064",
+    "kanji": "ハイジャックする",
+    "hiragana": "ハイジャックする",
+    "romaji": "haijakkusuru",
+    "meaning": "membajak",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-37-065",
+    "kanji": "はねる",
+    "hiragana": "はねる",
+    "romaji": "haneru",
+    "meaning": "menabrak",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-37-066",
+    "kanji": "ひく",
+    "hiragana": "ひく",
+    "romaji": "hiku",
+    "meaning": "melindas",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-37-067",
+    "kanji": "運ぶ",
+    "hiragana": "はこぶ",
+    "romaji": "hakobu",
+    "meaning": "mengangkut",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-37-068",
+    "kanji": "撃つ",
+    "hiragana": "うつ",
+    "romaji": "utsu",
+    "meaning": "menembak",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-37-069",
+    "kanji": "殺す",
+    "hiragana": "ころす",
+    "romaji": "korosu",
+    "meaning": "membunuh",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-37-070",
+    "kanji": "刺す",
+    "hiragana": "さす",
+    "romaji": "sasu",
+    "meaning": "menikam",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-37-071",
+    "kanji": "事故・事件",
+    "hiragana": "じこ・じけん",
+    "romaji": "jiko・jiken",
+    "meaning": "Kecelakaan, Kejadian",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-37-072",
+    "kanji": "助ける",
+    "hiragana": "たすける",
+    "romaji": "tasukeru",
+    "meaning": "membantu",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-37-073",
+    "kanji": "衝突する",
+    "hiragana": "しょうとつする",
+    "romaji": "shoutotsusuru",
+    "meaning": "menabrak",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-37-074",
+    "kanji": "沈没する",
+    "hiragana": "ちんぼつする",
+    "romaji": "chinbotsusuru",
+    "meaning": "tenggelam",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-37-075",
+    "kanji": "墜落する",
+    "hiragana": "ついらくする",
+    "romaji": "tsuirakusuru",
+    "meaning": "jatuh",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-37-076",
+    "kanji": "追突する",
+    "hiragana": "ついとつする",
+    "romaji": "tsuitotsusuru",
+    "meaning": "menabrak dari belakang",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-37-077",
+    "kanji": "盗む",
+    "hiragana": "ぬすむ",
+    "romaji": "nusumu",
+    "meaning": "mencuri",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-37-078",
+    "kanji": "爆発する",
+    "hiragana": "ばくはつする",
+    "romaji": "bakuhatsusuru",
+    "meaning": "meledak",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-37-079",
+    "kanji": "誘拐する",
+    "hiragana": "ゆうかいする",
+    "romaji": "yuukaisuru",
+    "meaning": "menculik",
+    "level": "-",
+    "importinity": 2
+  }
+]

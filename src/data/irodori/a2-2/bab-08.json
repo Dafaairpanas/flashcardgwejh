@@ -1,0 +1,956 @@
+[
+  {
+    "id": "ir-a2-2-08-001",
+    "kanji": "イベント会場",
+    "hiragana": "イベントかいじょう",
+    "romaji": "ibentokaijou",
+    "meaning": "tempat acara / kegiatan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-002",
+    "kanji": "屋台",
+    "hiragana": "やたい",
+    "romaji": "yatai",
+    "meaning": "warung,  pedagang kaki lima (PKL.)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-003",
+    "kanji": "ステージ",
+    "hiragana": "ステージ",
+    "romaji": "suteeji",
+    "meaning": "panggung",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-004",
+    "kanji": "パフォーマンス",
+    "hiragana": "パフォーマンス",
+    "romaji": "pafoomansu",
+    "meaning": "penampilan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-005",
+    "kanji": "観光紹介",
+    "hiragana": "かんこうしょうかい",
+    "romaji": "kankoushoukai",
+    "meaning": "gerai / konter informasi wisata",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-006",
+    "kanji": "～コーナー",
+    "hiragana": "～コーナー",
+    "romaji": "~koonaa",
+    "meaning": "gerai / konter ~",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-007",
+    "kanji": "スピーチコンテスト",
+    "hiragana": "スピーチコンテスト",
+    "romaji": "supiichikontesuto",
+    "meaning": "kontes / lomba pidato",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-008",
+    "kanji": "～コンテスト",
+    "hiragana": "～コンテスト",
+    "romaji": "~kontesuto",
+    "meaning": "kontes / lomba ~",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-009",
+    "kanji": "カラオケ",
+    "hiragana": "カラオケ",
+    "romaji": "karaoke",
+    "meaning": "karaoke",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-010",
+    "kanji": "～大会",
+    "hiragana": "～たいかい",
+    "romaji": "~taikai",
+    "meaning": "kompetisi ~",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-011",
+    "kanji": "合気道",
+    "hiragana": "あいきどう",
+    "romaji": "aikidou",
+    "meaning": "aikido",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-012",
+    "kanji": "～デモンストレーション",
+    "hiragana": "～デモンストレーション",
+    "romaji": "~demonsutoreeshon",
+    "meaning": "peragaan ~",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-013",
+    "kanji": "世界",
+    "hiragana": "せかい",
+    "romaji": "sekai",
+    "meaning": "dunia",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-014",
+    "kanji": "遊び",
+    "hiragana": "あそび",
+    "romaji": "asobi",
+    "meaning": "permainan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-015",
+    "kanji": "～体験",
+    "hiragana": "～たいけん",
+    "romaji": "~taiken",
+    "meaning": "mencoba ~ (sesuatu)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-016",
+    "kanji": "ファッションショー",
+    "hiragana": "ファッションショー",
+    "romaji": "fasshonshoo",
+    "meaning": "fashion show (peragaan busana)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-017",
+    "kanji": "～ショー",
+    "hiragana": "～ショー",
+    "romaji": "~shoo",
+    "meaning": "pertunjukan,  peragaan ~",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-018",
+    "kanji": "スタンプラリー",
+    "hiragana": "スタンプラリー",
+    "romaji": "sutanpurarii",
+    "meaning": "mengoleksi stempel",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-019",
+    "kanji": "国際交流",
+    "hiragana": "こくさいこうりゅう",
+    "romaji": "kokusaikouryuu",
+    "meaning": "pertukaran budaya internasional",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-020",
+    "kanji": "入場料",
+    "hiragana": "にゅうじょうりょう",
+    "romaji": "nyuujouryou",
+    "meaning": "harga tiket masuk (HTM)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-021",
+    "kanji": "交流プラザ",
+    "hiragana": "こうりゅうプラザ",
+    "romaji": "kouryuupuraza",
+    "meaning": "exchange plaza (ruang pertemuan / ruang pertukaran)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-022",
+    "kanji": "主催",
+    "hiragana": "しゅさい",
+    "romaji": "shusai",
+    "meaning": "pelaksana",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-023",
+    "kanji": "協力",
+    "hiragana": "きょうりょく",
+    "romaji": "kyouryoku",
+    "meaning": "kerja sama",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-024",
+    "kanji": "民族衣装",
+    "hiragana": "みんぞくいしょう",
+    "romaji": "minzokuishou",
+    "meaning": "pakaian tradisional",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-025",
+    "kanji": "本部",
+    "hiragana": "ほんぶ",
+    "romaji": "honbu",
+    "meaning": "kantor pusat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-026",
+    "kanji": "ふれあい",
+    "hiragana": "ふれあい",
+    "romaji": "fureai",
+    "meaning": "berinteraksi,  bersentuhan langsung",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-027",
+    "kanji": "フラダンス",
+    "hiragana": "フラダンス",
+    "romaji": "furadansu",
+    "meaning": "tarian Hula / Hula-Hula (tarian khas Hawaii)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-028",
+    "kanji": "和太鼓",
+    "hiragana": "わだいこ",
+    "romaji": "wadaiko",
+    "meaning": "Wadaiko (beduk khas Jepang)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-029",
+    "kanji": "ワールドマーケット",
+    "hiragana": "ワールドマーケット",
+    "romaji": "waarudomaaketto",
+    "meaning": "world market,  pasar aneka barang dunia",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-030",
+    "kanji": "トルコ",
+    "hiragana": "トルコ",
+    "romaji": "toruko",
+    "meaning": "Turki",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-031",
+    "kanji": "ペルー",
+    "hiragana": "ペルー",
+    "romaji": "peruu",
+    "meaning": "Peru",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-032",
+    "kanji": "雑貨",
+    "hiragana": "ざっか",
+    "romaji": "zakka",
+    "meaning": "aneka barang,  pernak-pernik",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-033",
+    "kanji": "団体紹介",
+    "hiragana": "だんたいしょうかい",
+    "romaji": "dantaishoukai",
+    "meaning": "pengenalan organisasi",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-034",
+    "kanji": "民芸品",
+    "hiragana": "みんげいひん",
+    "romaji": "mingeihin",
+    "meaning": "kerajinan tradisional masyarakat",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-035",
+    "kanji": "手芸品",
+    "hiragana": "しゅげいひん",
+    "romaji": "shugeihin",
+    "meaning": "kerajinan tangan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-036",
+    "kanji": "ガーナ",
+    "hiragana": "ガーナ",
+    "romaji": "gaana",
+    "meaning": "Ghana",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-037",
+    "kanji": "フェアトレード",
+    "hiragana": "フェアトレード",
+    "romaji": "featoreedo",
+    "meaning": "fair trade (perdagangan adil)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-038",
+    "kanji": "外国人支援ネットワーク",
+    "hiragana": "がいこくじんしえんネットワーク",
+    "romaji": "gaikokujinshiennettowaaku",
+    "meaning": "jaringan dukungan bagi orang asing",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-039",
+    "kanji": "ピニャータ",
+    "hiragana": "ピニャータ",
+    "romaji": "pinyaata",
+    "meaning": "pinata (benda yang menjadi simbol tradisi saat anak-anak di Meksiko berulang tahun)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-040",
+    "kanji": "くす玉割り",
+    "hiragana": "くすだまわり",
+    "romaji": "kusudamawari",
+    "meaning": "memecahkan bola berisi konfeti",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-041",
+    "kanji": "中国ゴマ",
+    "hiragana": "ちゅうごくゴマ",
+    "romaji": "chuugokugoma",
+    "meaning": "diabolo (semacam mainan yoyo khas Tiongkok)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-042",
+    "kanji": "回す",
+    "hiragana": "まわす",
+    "romaji": "mawasu",
+    "meaning": "memutar",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-043",
+    "kanji": "手作り",
+    "hiragana": "てづくり",
+    "romaji": "tezukuri",
+    "meaning": "buatan tangan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-044",
+    "kanji": "やっている",
+    "hiragana": "やっている",
+    "romaji": "yatteiru",
+    "meaning": "berlangsung,  dilaksanakan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-045",
+    "kanji": "まだ",
+    "hiragana": "まだ",
+    "romaji": "mada",
+    "meaning": "masih",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-046",
+    "kanji": "受け付け",
+    "hiragana": "うけつけ",
+    "romaji": "uketsuke",
+    "meaning": "penerimaan tamu",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-047",
+    "kanji": "あっち",
+    "hiragana": "あっち",
+    "romaji": "atchi",
+    "meaning": "di sana",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-048",
+    "kanji": "つきあたり",
+    "hiragana": "つきあたり",
+    "romaji": "tsukiatari",
+    "meaning": "di ujung ~ (jalan,  lorong)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-049",
+    "kanji": "たぶん",
+    "hiragana": "たぶん",
+    "romaji": "tabun",
+    "meaning": "mungkin",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-050",
+    "kanji": "無理ですか？",
+    "hiragana": "むりですか？",
+    "romaji": "muridesuka？",
+    "meaning": "Apakah tidak memungkinkan (lagi)?",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-051",
+    "kanji": "さあ",
+    "hiragana": "さあ",
+    "romaji": "saa",
+    "meaning": "Hmmm.. (ekspresi saat Anda menyatakan tidak begitu yakin tentang sesuatu)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-052",
+    "kanji": "中学生",
+    "hiragana": "ちゅうがくせい",
+    "romaji": "chuugakusei",
+    "meaning": "siswa SMP (Sekolah Menengah Pertama)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-053",
+    "kanji": "プロ",
+    "hiragana": "プロ",
+    "romaji": "puro",
+    "meaning": "profesional",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-054",
+    "kanji": "遠慮する",
+    "hiragana": "えんりょする",
+    "romaji": "enryosuru",
+    "meaning": "diharapkan tidak melakukan (sesuatu)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-055",
+    "kanji": "出る",
+    "hiragana": "でる",
+    "romaji": "deru",
+    "meaning": "berpartisipasi (cth : berpartisipasi pada kompetisi karaoke)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-056",
+    "kanji": "参加費",
+    "hiragana": "さんかひ",
+    "romaji": "sankahi",
+    "meaning": "biaya pendaftaran",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-057",
+    "kanji": "優勝する",
+    "hiragana": "ゆうしょうする",
+    "romaji": "yuushousuru",
+    "meaning": "memenangkan (kompetisi),  pemenang pertama",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-058",
+    "kanji": "賞品",
+    "hiragana": "しょうひん",
+    "romaji": "shouhin",
+    "meaning": "hadiah",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-059",
+    "kanji": "出る",
+    "hiragana": "でる",
+    "romaji": "deru",
+    "meaning": "(ada) hadiahnya",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-060",
+    "kanji": "楽器",
+    "hiragana": "がっき",
+    "romaji": "gakki",
+    "meaning": "alat musik",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-061",
+    "kanji": "曲",
+    "hiragana": "きょく",
+    "romaji": "kyoku",
+    "meaning": "lagu",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-062",
+    "kanji": "相談する",
+    "hiragana": "そうだんする",
+    "romaji": "soudansuru",
+    "meaning": "berkonsultasi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-063",
+    "kanji": "申込書",
+    "hiragana": "もうしこみしょ",
+    "romaji": "moushikomisho",
+    "meaning": "formulir pendaftaran",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-064",
+    "kanji": "必要事項",
+    "hiragana": "ひつようじこう",
+    "romaji": "hitsuyoujikou",
+    "meaning": "informasi yang dibutuhkan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-065",
+    "kanji": "申し込み",
+    "hiragana": "もうしこみ",
+    "romaji": "moushikomi",
+    "meaning": "pendaftaran,  registrasi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-066",
+    "kanji": "先着順",
+    "hiragana": "せんちゃくじゅん",
+    "romaji": "senchakujun",
+    "meaning": "berdasarkan urutan tiba (siapa cepat dia dapat)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-067",
+    "kanji": "順番に",
+    "hiragana": "じゅんばんに",
+    "romaji": "junbanni",
+    "meaning": "secara berurutan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-068",
+    "kanji": "いただく",
+    "hiragana": "いただく",
+    "romaji": "itadaku",
+    "meaning": "menerima (ungkapan bentuk sopan dari もらう)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-069",
+    "kanji": "スピーチ",
+    "hiragana": "スピーチ",
+    "romaji": "supiichi",
+    "meaning": "pidato",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-070",
+    "kanji": "テーマ",
+    "hiragana": "テーマ",
+    "romaji": "teema",
+    "meaning": "topik,  tema",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-071",
+    "kanji": "動画",
+    "hiragana": "どうが",
+    "romaji": "douga",
+    "meaning": "video",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-072",
+    "kanji": "撮影",
+    "hiragana": "さつえい",
+    "romaji": "satsuei",
+    "meaning": "fotografi / pembuatan video",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-073",
+    "kanji": "飲食",
+    "hiragana": "いんしょく",
+    "romaji": "inshoku",
+    "meaning": "makan dan minum",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-074",
+    "kanji": "販売",
+    "hiragana": "はんばい",
+    "romaji": "hanbai",
+    "meaning": "penjualan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-075",
+    "kanji": "携帯電話",
+    "hiragana": "けいたいでんわ",
+    "romaji": "keitaidenwa",
+    "meaning": "telepon genggam,  handphone",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-076",
+    "kanji": "～内（公園内）",
+    "hiragana": "～ない（こうえんない）",
+    "romaji": "~nai(kouennai)",
+    "meaning": "dalam ~ (cth : dalam taman)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-077",
+    "kanji": "協力する",
+    "hiragana": "きょうりょくする",
+    "romaji": "kyouryokusuru",
+    "meaning": "bekerja sama",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-078",
+    "kanji": "お子様",
+    "hiragana": "おこさま",
+    "romaji": "okosama",
+    "meaning": "anak-anak (ungkapan bentuk sopan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-079",
+    "kanji": "皆様にお願いいたします",
+    "hiragana": "みなさまにおねがいいたします",
+    "romaji": "minasamanionegaiitashimasu",
+    "meaning": "Kami mohon kepada Anda sekalian. (ungkapan bentuk sopan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-080",
+    "kanji": "お見えです",
+    "hiragana": "おみえです",
+    "romaji": "omiedesu",
+    "meaning": "ada,  datang (ungkapan bentuk sopan)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-081",
+    "kanji": "ご遠慮ください（ませ）",
+    "hiragana": "ごえんりょください（ませ）",
+    "romaji": "goenryokudasai(mase)",
+    "meaning": "Harap menahan diri (untuk tidak melakukan) ~. (ungkapan bentuk sopan)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-082",
+    "kanji": "ご協力よろしくお願いいたします",
+    "hiragana": "ごきょうりょくよろしくおねがいいたします",
+    "romaji": "gokyouryokuyoroshikuonegaiitashimasu",
+    "meaning": "Kami mohon kerja sama Anda. (ungkapan bentuk sopan)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-083",
+    "kanji": "電源",
+    "hiragana": "でんげん",
+    "romaji": "dengen",
+    "meaning": "power,  sumber daya (listrik)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-084",
+    "kanji": "切る（電源を切る）",
+    "hiragana": "きる（でんげんを切る）",
+    "romaji": "kiru(dengenwokiru)",
+    "meaning": "mematikan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-085",
+    "kanji": "マナーモード",
+    "hiragana": "マナーモード",
+    "romaji": "manaamoodo",
+    "meaning": "mode senyap (silent mode)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-086",
+    "kanji": "設定する",
+    "hiragana": "せっていする",
+    "romaji": "setteisuru",
+    "meaning": "mengeset,  mengatur",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-087",
+    "kanji": "通話する",
+    "hiragana": "つうわする",
+    "romaji": "tsuuwasuru",
+    "meaning": "berbicara di telepon",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-088",
+    "kanji": "お忙しい中",
+    "hiragana": "おいそがいしいなか",
+    "romaji": "oisogaishiinaka",
+    "meaning": "Meskipun sibuk / sedang dalam kesibukan (ungkapan bentuk sopan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-089",
+    "kanji": "おいでくださって、ありがとうございます",
+    "hiragana": "おいでくださって、ありがとうございます",
+    "romaji": "oidekudasatte,arigatougozaimasu",
+    "meaning": "Terima kasih atas kedatangan Anda. (ungkapan bentuk sopan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-090",
+    "kanji": "かまいません",
+    "hiragana": "かまいません",
+    "romaji": "kamaimasen",
+    "meaning": "tidak apa-apa,  tidak masalah",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-091",
+    "kanji": "持ち込み",
+    "hiragana": "もちこみ",
+    "romaji": "mochikomi",
+    "meaning": "membawa",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-092",
+    "kanji": "禁止",
+    "hiragana": "きんし",
+    "romaji": "kinshi",
+    "meaning": "dilarang",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-093",
+    "kanji": "ロビー",
+    "hiragana": "ロビー",
+    "romaji": "robii",
+    "meaning": "lobi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-094",
+    "kanji": "ロールケーキ",
+    "hiragana": "ロールケーキ",
+    "romaji": "roorukeeki",
+    "meaning": "kue bolu gulung",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-095",
+    "kanji": "終了する",
+    "hiragana": "しゅうりょうする",
+    "romaji": "shuuryousuru",
+    "meaning": "berakhir,  selesai",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-096",
+    "kanji": "個数",
+    "hiragana": "こすう",
+    "romaji": "kosuu",
+    "meaning": "jumlah,  kuantitas",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-097",
+    "kanji": "限られている",
+    "hiragana": "かぎられている",
+    "romaji": "kagirareteiru",
+    "meaning": "dibatasi,  terbatas",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-098",
+    "kanji": "列",
+    "hiragana": "れつ",
+    "romaji": "retsu",
+    "meaning": "antrean",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-099",
+    "kanji": "お求めの",
+    "hiragana": "おもとめのかた",
+    "romaji": "omotomenokata",
+    "meaning": "ingin membeli (ungkapan bentuk sopan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-100",
+    "kanji": "お並びください",
+    "hiragana": "おならびください",
+    "romaji": "onarabikudasai",
+    "meaning": "Silakan berbaris. (ungkapan bentuk sopan)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-101",
+    "kanji": "太鼓",
+    "hiragana": "たいこ",
+    "romaji": "taiko",
+    "meaning": "drums / beduk khas Jepang",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-102",
+    "kanji": "たたく",
+    "hiragana": "たたく",
+    "romaji": "tataku",
+    "meaning": "menabuh,  memukul",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-103",
+    "kanji": "来年",
+    "hiragana": "らいねん",
+    "romaji": "rainen",
+    "meaning": "tahun depan",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-104",
+    "kanji": "バンブーダンス",
+    "hiragana": "バンブーダンス",
+    "romaji": "banbuudansu",
+    "meaning": "Tinikling (tarian tradisional Filipina menggunakan bambu)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-105",
+    "kanji": "バングラデシュ",
+    "hiragana": "バングラデシュ",
+    "romaji": "banguradeshu",
+    "meaning": "Bangladesh",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-08-106",
+    "kanji": "サテー",
+    "hiragana": "サテー",
+    "romaji": "satee",
+    "meaning": "sate (makanan khas Indonesia)",
+    "level": "-",
+    "isExtra": false
+  }
+]

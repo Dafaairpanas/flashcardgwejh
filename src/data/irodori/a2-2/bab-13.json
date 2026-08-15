@@ -1,0 +1,794 @@
+[
+  {
+    "id": "ir-a2-2-13-001",
+    "kanji": "公共",
+    "hiragana": "こうきょう",
+    "romaji": "koukyou",
+    "meaning": "publik",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-002",
+    "kanji": "施設",
+    "hiragana": "しせつ",
+    "romaji": "shisetsu",
+    "meaning": "fasilitas",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-003",
+    "kanji": "図書館",
+    "hiragana": "としょかん",
+    "romaji": "toshokan",
+    "meaning": "perpustakaan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-004",
+    "kanji": "美術館",
+    "hiragana": "びじゅつかん",
+    "romaji": "bijutsukan",
+    "meaning": "museum seni",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-005",
+    "kanji": "民俗資料館",
+    "hiragana": "みんぞくしりょうかん",
+    "romaji": "minzokushiryoukan",
+    "meaning": "museum rakyat",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-006",
+    "kanji": "体育館",
+    "hiragana": "たいいくかん",
+    "romaji": "taiikukan",
+    "meaning": "gimnasium,  gedung olahraga",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-007",
+    "kanji": "スポーツジム",
+    "hiragana": "スポーツジム",
+    "romaji": "supootsujimu",
+    "meaning": "pusat kebugaran",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-008",
+    "kanji": "お風呂",
+    "hiragana": "おふろ",
+    "romaji": "ofuro",
+    "meaning": "ruang berendam",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-009",
+    "kanji": "入浴施設",
+    "hiragana": "にゅうよくしせつ",
+    "romaji": "nyuuyokushisetsu",
+    "meaning": "ruang mandi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-010",
+    "kanji": "インフォメーションコーナー",
+    "hiragana": "インフォメーションコーナー",
+    "romaji": "infomeeshonkoonaa",
+    "meaning": "pojok / ruang layanan informasi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-011",
+    "kanji": "プラネタリウム",
+    "hiragana": "プラネタリウム",
+    "romaji": "puranetariumu",
+    "meaning": "planetarium",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-012",
+    "kanji": "物産コーナー",
+    "hiragana": "ぶっさんコーナー",
+    "romaji": "bussankoonaa",
+    "meaning": "pojok atau ruang berbagai produk / barang jadi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-013",
+    "kanji": "市内",
+    "hiragana": "しない",
+    "romaji": "shinai",
+    "meaning": "dalam kota",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-014",
+    "kanji": "パンフレット",
+    "hiragana": "パンフレット",
+    "romaji": "panfuretto",
+    "meaning": "pamflet",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-015",
+    "kanji": "外国語",
+    "hiragana": "がいこくご",
+    "romaji": "gaikokugo",
+    "meaning": "bahasa asing",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-016",
+    "kanji": "CD",
+    "hiragana": "シーディー",
+    "romaji": "shiidii",
+    "meaning": "CD",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-017",
+    "kanji": "昔",
+    "hiragana": "むかし",
+    "romaji": "mukashi",
+    "meaning": "dahulu,  masa lalu",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-018",
+    "kanji": "道具",
+    "hiragana": "どうぐ",
+    "romaji": "dougu",
+    "meaning": "peralatan,  alat",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-019",
+    "kanji": "文化施設",
+    "hiragana": "ぶんかしせつ",
+    "romaji": "bunkashisetsu",
+    "meaning": "pusat kebudayaan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-020",
+    "kanji": "立てる",
+    "hiragana": "たてる",
+    "romaji": "tateru",
+    "meaning": "mendirikan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-021",
+    "kanji": "メイン",
+    "hiragana": "メイン",
+    "romaji": "mein",
+    "meaning": "utama",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-022",
+    "kanji": "PC",
+    "hiragana": "ピーシー",
+    "romaji": "piishii",
+    "meaning": "personal computer",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-023",
+    "kanji": "自由に",
+    "hiragana": "じゆうに",
+    "romaji": "jiyuuni",
+    "meaning": "dengan bebas",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-024",
+    "kanji": "展示する",
+    "hiragana": "てんじする",
+    "romaji": "tenjisuru",
+    "meaning": "memamerkan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-025",
+    "kanji": "歴史",
+    "hiragana": "れきし",
+    "romaji": "rekishi",
+    "meaning": "sejarah",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-026",
+    "kanji": "利用（する）",
+    "hiragana": "りよう（する）",
+    "romaji": "riyou(suru)",
+    "meaning": "menggunakan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-027",
+    "kanji": "室内用",
+    "hiragana": "しつないよう",
+    "romaji": "shitsunaiyou",
+    "meaning": "untuk (penggunaan) dalam ruangan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-028",
+    "kanji": "オリエンテーション",
+    "hiragana": "オリエンテーション",
+    "romaji": "orienteeshon",
+    "meaning": "orientasi,  pengenalan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-029",
+    "kanji": "延長料金",
+    "hiragana": "えんちょうりょうきん",
+    "romaji": "enchouryoukin",
+    "meaning": "biaya perpanjangan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-030",
+    "kanji": "～につき（30分につき）",
+    "hiragana": "～につき（さんじゅっぷんにつき）",
+    "romaji": "~nitsuki(sanjuppunnitsuki)",
+    "meaning": "untuk setiap ~ (cth : untuk setiap 30 menit)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-031",
+    "kanji": "かかる",
+    "hiragana": "かかる",
+    "romaji": "kakaru",
+    "meaning": "(dikenakan) biaya,  biayanya",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-032",
+    "kanji": "下りる",
+    "hiragana": "おりる",
+    "romaji": "oriru",
+    "meaning": "turun",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-033",
+    "kanji": "シューズ",
+    "hiragana": "シューズ",
+    "romaji": "shuuzu",
+    "meaning": "sepatu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-034",
+    "kanji": "マシン",
+    "hiragana": "マシン",
+    "romaji": "mashin",
+    "meaning": "mesin",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-035",
+    "kanji": "トレーナー",
+    "hiragana": "トレーナー",
+    "romaji": "toreenaa",
+    "meaning": "pelatih,  trainer",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-036",
+    "kanji": "～ほど（30分ほど）",
+    "hiragana": "～ほど（さんじゅっぷんほど）",
+    "romaji": "~hodo(sanjuppunhodo)",
+    "meaning": "sekitar ~ (cth : sekitar 30 menit)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-037",
+    "kanji": "受ける",
+    "hiragana": "うける",
+    "romaji": "ukeru",
+    "meaning": "menerima",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-038",
+    "kanji": "声をかける",
+    "hiragana": "こえをかける",
+    "romaji": "koewokakeru",
+    "meaning": "menyapa,  berbicara kepada",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-039",
+    "kanji": "ご了承ください",
+    "hiragana": "ごりょうしょうください",
+    "romaji": "goryoushoukudasai",
+    "meaning": "Mohon dicatat,  Mohon dipahami (ungkapan bentuk sopan)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-040",
+    "kanji": "受けていただきます",
+    "hiragana": "うけていただきます",
+    "romaji": "uketeitadakimasu",
+    "meaning": "Kami mohon Anda untuk bersedia mengikuti ~ (ungkapan bentuk sopan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-041",
+    "kanji": "絵",
+    "hiragana": "え",
+    "romaji": "e",
+    "meaning": "lukisan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-042",
+    "kanji": "さまざまな",
+    "hiragana": "さまざまな",
+    "romaji": "samazamana",
+    "meaning": "berbagai macam",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-043",
+    "kanji": "彫刻",
+    "hiragana": "ちょうこく",
+    "romaji": "choukoku",
+    "meaning": "ukiran",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-044",
+    "kanji": "画家",
+    "hiragana": "がか",
+    "romaji": "gaka",
+    "meaning": "pelukis",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-045",
+    "kanji": "～を中心に",
+    "hiragana": "～をちゅうしんに",
+    "romaji": "~wochuushinni",
+    "meaning": "utamanya",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-046",
+    "kanji": "セット券",
+    "hiragana": "セットけん",
+    "romaji": "settoken",
+    "meaning": "tiket terusan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-047",
+    "kanji": "フラッシュ",
+    "hiragana": "フラッシュ",
+    "romaji": "furasshu",
+    "meaning": "lampu kilat,  blitz",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-048",
+    "kanji": "券売機",
+    "hiragana": "けんばいき",
+    "romaji": "kenbaiki",
+    "meaning": "mesin penjualan tiket",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-049",
+    "kanji": "休憩室",
+    "hiragana": "きゅうけいしつ",
+    "romaji": "kyuukeishitsu",
+    "meaning": "lounge,  ruang santai",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-050",
+    "kanji": "ついている（タオルがついている）",
+    "hiragana": "ついている（タオルがついている）",
+    "romaji": "tsuiteiru(taorugatsuiteiru)",
+    "meaning": "disertai dengan ~,  termasuk ~ (cth : termasuk handuk)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-051",
+    "kanji": "IT",
+    "hiragana": "アイティー",
+    "romaji": "aiteii",
+    "meaning": "IT,  teknologi informasi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-052",
+    "kanji": "利用者カード",
+    "hiragana": "りようしゃカード",
+    "romaji": "riyoushakaado",
+    "meaning": "kartu pengguna",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-053",
+    "kanji": "プリントアウト",
+    "hiragana": "プリントアウト",
+    "romaji": "purintoauto",
+    "meaning": "print-out,  hasil cetak",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-054",
+    "kanji": "インターネット",
+    "hiragana": "インターネット",
+    "romaji": "intaanetto",
+    "meaning": "internet",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-055",
+    "kanji": "プリンター",
+    "hiragana": "プリンター",
+    "romaji": "purintaa",
+    "meaning": "printer,  mesin cetak",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-056",
+    "kanji": "空いている",
+    "hiragana": "あいている",
+    "romaji": "aiteiru",
+    "meaning": "kosong",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-057",
+    "kanji": "確認する",
+    "hiragana": "かくにんする",
+    "romaji": "kakuninsuru",
+    "meaning": "mengecek,  memastikan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-058",
+    "kanji": "在留カード",
+    "hiragana": "ざいりゅうカード",
+    "romaji": "zairyuukaado",
+    "meaning": "kartu izin tinggal",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-059",
+    "kanji": "何冊",
+    "hiragana": "なんさつ",
+    "romaji": "nansatsu",
+    "meaning": "berapa banyak (jilid) buku",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-060",
+    "kanji": "～冊（10冊）",
+    "hiragana": "～さつ（じゅっさつ）",
+    "romaji": "~satsu(jussatsu)",
+    "meaning": "~ jilid (buku) (cth : 10 jilid buku)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-061",
+    "kanji": "合わせて",
+    "hiragana": "あわせて",
+    "romaji": "awasete",
+    "meaning": "secara keseluruhan,  total",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-062",
+    "kanji": "～点（3点）",
+    "hiragana": "～てん（さんてん）",
+    "romaji": "~ten(santen)",
+    "meaning": "~ item,  ~ buah (barang) (cth : 3 buah barang)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-063",
+    "kanji": "飲食禁止",
+    "hiragana": "いんしょくきんし",
+    "romaji": "inshokukinshi",
+    "meaning": "larangan makan dan minum",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-064",
+    "kanji": "返す",
+    "hiragana": "かえす",
+    "romaji": "kaesu",
+    "meaning": "mengembalikan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-065",
+    "kanji": "閉まる",
+    "hiragana": "しまる",
+    "romaji": "shimaru",
+    "meaning": "tutup",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-066",
+    "kanji": "返却ポスト",
+    "hiragana": "へんきゃくポスト",
+    "romaji": "henkyakuposuto",
+    "meaning": "kotak pengembalian",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-067",
+    "kanji": "開く",
+    "hiragana": "あく",
+    "romaji": "aku",
+    "meaning": "buka",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-068",
+    "kanji": "返却",
+    "hiragana": "へんきゃく",
+    "romaji": "henkyaku",
+    "meaning": "pengembalian",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-069",
+    "kanji": "お読みください",
+    "hiragana": "およみください",
+    "romaji": "oyomikudasai",
+    "meaning": "Silakan baca. (ungkapan bentuk sopan)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-070",
+    "kanji": "延ばす",
+    "hiragana": "のばす",
+    "romaji": "nobasu",
+    "meaning": "memperpanjang",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-071",
+    "kanji": "～のうち（15点のうち）",
+    "hiragana": "～のうち（じゅうごてんのうち）",
+    "romaji": "~nouchi(juugotennouchi)",
+    "meaning": "dalam ~ (cth : dalam 15 buah barang)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-072",
+    "kanji": "カセットテープ",
+    "hiragana": "カセットテープ",
+    "romaji": "kasettoteepu",
+    "meaning": "kaset",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-073",
+    "kanji": "～禁止（撮影禁止）",
+    "hiragana": "～きんし（さつえいきんし）",
+    "romaji": "~kinshi(satsueikinshi)",
+    "meaning": "larangan (untuk) ~ (cth : larangan (untuk) mengambil foto)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-074",
+    "kanji": "立入禁止",
+    "hiragana": "たちいりきんし",
+    "romaji": "tachiirikinshi",
+    "meaning": "larangan masuk",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-075",
+    "kanji": "関係者",
+    "hiragana": "かんけいしゃ",
+    "romaji": "kankeisha",
+    "meaning": "staf / personel yang berwenang",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-076",
+    "kanji": "～以外（関係者以外）",
+    "hiragana": "～以外（かんけいしゃいがい）",
+    "romaji": "~igai(kankeishaigai)",
+    "meaning": "kecuali ~ (cth : kecuali staf / personel yang berwenang)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-077",
+    "kanji": "預ける",
+    "hiragana": "あづける",
+    "romaji": "azukeru",
+    "meaning": "menitipkan,  menyimpan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-078",
+    "kanji": "お預けください",
+    "hiragana": "おあづけください",
+    "romaji": "oazukekudasai",
+    "meaning": "Silakan menyimpan ~. (ungkapan bentuk sopan)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-079",
+    "kanji": "館内",
+    "hiragana": "かんない",
+    "romaji": "kannai",
+    "meaning": "(di) dalam gedung",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-080",
+    "kanji": "通話",
+    "hiragana": "つうわ",
+    "romaji": "tsuuwa",
+    "meaning": "panggilan telepon",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-081",
+    "kanji": "ご遠慮ください",
+    "hiragana": "ごえんりょください",
+    "romaji": "goenryokudasai",
+    "meaning": "Mohon (menahan diri) untuk tidak ~ . (ungkapan bentuk sopan)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-082",
+    "kanji": "お控えください",
+    "hiragana": "おひかえください",
+    "romaji": "ohikaekudasai",
+    "meaning": "Mohon (menahan diri) untuk tidak ~ . (ungkapan bentuk sopan)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-083",
+    "kanji": "入館",
+    "hiragana": "にゅうかん",
+    "romaji": "nyuukan",
+    "meaning": "masuk ke gedung / ruangan,  memasuki suatu tempat",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-084",
+    "kanji": "入れ墨",
+    "hiragana": "いれずみ",
+    "romaji": "irezumi",
+    "meaning": "tato khas Jepang",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-085",
+    "kanji": "タトゥー",
+    "hiragana": "タトゥー",
+    "romaji": "tatouu",
+    "meaning": "tato",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-086",
+    "kanji": "シール",
+    "hiragana": "シール",
+    "romaji": "shiiru",
+    "meaning": "stiker tato",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-087",
+    "kanji": "ボディペイント",
+    "hiragana": "ボディペイント",
+    "romaji": "bodipeinto",
+    "meaning": "body paint,  lukis tubuh",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-13-088",
+    "kanji": "お断りしています",
+    "hiragana": "おことわりしています",
+    "romaji": "okotowarishiteimasu",
+    "meaning": "Kami menolak ~ . (ungkapan bentuk sopan)",
+    "level": "N3",
+    "isExtra": false
+  }
+]

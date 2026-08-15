@@ -1,0 +1,524 @@
+[
+  {
+    "id": "ir-a1-04-001",
+    "kanji": "父",
+    "hiragana": "ちち",
+    "romaji": "chichi",
+    "meaning": "ayah (saya)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-002",
+    "kanji": "母",
+    "hiragana": "はは",
+    "romaji": "haha",
+    "meaning": "ibu (saya)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-003",
+    "kanji": "兄",
+    "hiragana": "あに",
+    "romaji": "ani",
+    "meaning": "kakak laki-laki (saya)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-004",
+    "kanji": "姉",
+    "hiragana": "あね",
+    "romaji": "ane",
+    "meaning": "kakak perempuan (saya)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-005",
+    "kanji": "弟",
+    "hiragana": "おとうと",
+    "romaji": "otouto",
+    "meaning": "adik laki-laki (saya)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-006",
+    "kanji": "妹",
+    "hiragana": "いもうと",
+    "romaji": "imouto",
+    "meaning": "adik perempuan (saya)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-007",
+    "kanji": "夫",
+    "hiragana": "おっと",
+    "romaji": "otto",
+    "meaning": "suami (saya)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-008",
+    "kanji": "妻",
+    "hiragana": "つま",
+    "romaji": "tsuma",
+    "meaning": "istri (saya)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-009",
+    "kanji": "子ども",
+    "hiragana": "こども",
+    "romaji": "kodomo",
+    "meaning": "anak",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-010",
+    "kanji": "～先生",
+    "hiragana": "～せんせい",
+    "romaji": "~sensei",
+    "meaning": "～ sensee (kata sapaan untuk guru)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-011",
+    "kanji": "紹介する",
+    "hiragana": "しょうかいする",
+    "romaji": "shoukaisuru",
+    "meaning": "memperkenalkan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-012",
+    "kanji": "こちら",
+    "hiragana": "こちら",
+    "romaji": "kochira",
+    "meaning": "ini (digunakan ketika memperkenalkan orang lain)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-013",
+    "kanji": "あれ？",
+    "hiragana": "あれ？",
+    "romaji": "are？",
+    "meaning": "lho? (mengungkapkan keterkejutan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-014",
+    "kanji": "紹介します",
+    "hiragana": "しょうかいします",
+    "romaji": "shoukaishimasu",
+    "meaning": "Akan saya perkenalkan.",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-015",
+    "kanji": "（どうぞ）よろしく",
+    "hiragana": "（どうぞ）よろしく",
+    "romaji": "(douzo)yoroshiku",
+    "meaning": "Senang berkenalan dengan Anda.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-016",
+    "kanji": "うちの",
+    "hiragana": "うちの",
+    "romaji": "uchino",
+    "meaning": "～ saya,  ～ kami",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-017",
+    "kanji": "家族／ご家族",
+    "hiragana": "かぞく／ごかぞく",
+    "romaji": "kazoku/gokazoku",
+    "meaning": "keluarga,  keluarga (orang lain)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-018",
+    "kanji": "それから",
+    "hiragana": "それから",
+    "romaji": "sorekara",
+    "meaning": "kemudian",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-019",
+    "kanji": "何歳",
+    "hiragana": "なんさい",
+    "romaji": "nansai",
+    "meaning": "Berapa usianya?",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-020",
+    "kanji": "いくつ",
+    "hiragana": "いくつ",
+    "romaji": "ikutsu",
+    "meaning": "Berapa usianya?",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-021",
+    "kanji": "～歳",
+    "hiragana": "～さい",
+    "romaji": "~sai",
+    "meaning": "～ tahun (usia)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-022",
+    "kanji": "どこ",
+    "hiragana": "どこ",
+    "romaji": "doko",
+    "meaning": "di mana",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-023",
+    "kanji": "住んでいます",
+    "hiragana": "すんでいます",
+    "romaji": "sundeimasu",
+    "meaning": "bertempat tinggal,  berdomisili",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-024",
+    "kanji": "住む",
+    "hiragana": "すむ",
+    "romaji": "sumu",
+    "meaning": "tinggal",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-025",
+    "kanji": "フィリピン",
+    "hiragana": "フィリピン",
+    "romaji": "firipin",
+    "meaning": "Filipina",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-026",
+    "kanji": "そう",
+    "hiragana": "そう",
+    "romaji": "sou",
+    "meaning": "Begitu... (bentuk informal dari そうですか)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-027",
+    "kanji": "11",
+    "hiragana": "じゅういち",
+    "romaji": "juuichi",
+    "meaning": "sebelas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-028",
+    "kanji": "12",
+    "hiragana": "じゅうに",
+    "romaji": "juuni",
+    "meaning": "dua belas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-029",
+    "kanji": "13",
+    "hiragana": "じゅうさん",
+    "romaji": "juusan",
+    "meaning": "tiga belas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-030",
+    "kanji": "14",
+    "hiragana": "じゅうよん",
+    "romaji": "juuyon",
+    "meaning": "empat belas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-031",
+    "kanji": "15",
+    "hiragana": "じゅうご",
+    "romaji": "juugo",
+    "meaning": "lima belas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-032",
+    "kanji": "16",
+    "hiragana": "じゅうろく",
+    "romaji": "juuroku",
+    "meaning": "enam belas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-033",
+    "kanji": "17",
+    "hiragana": "じゅうなな",
+    "romaji": "juunana",
+    "meaning": "tujuh belas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-034",
+    "kanji": "18",
+    "hiragana": "じゅうはち",
+    "romaji": "juuhachi",
+    "meaning": "delapan belas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-035",
+    "kanji": "19",
+    "hiragana": "じゅうきゅう",
+    "romaji": "juukyuu",
+    "meaning": "sembilan belas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-036",
+    "kanji": "20",
+    "hiragana": "にじゅう",
+    "romaji": "nijuu",
+    "meaning": "dua puluh",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-037",
+    "kanji": "30",
+    "hiragana": "さんじゅう",
+    "romaji": "sanjuu",
+    "meaning": "tiga puluh",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-038",
+    "kanji": "40",
+    "hiragana": "よんじゅう",
+    "romaji": "yonjuu",
+    "meaning": "empat puluh",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-039",
+    "kanji": "50",
+    "hiragana": "ごじゅう",
+    "romaji": "gojuu",
+    "meaning": "lima puluh",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-040",
+    "kanji": "60",
+    "hiragana": "ろくじゅう",
+    "romaji": "rokujuu",
+    "meaning": "enam puluh",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-041",
+    "kanji": "70",
+    "hiragana": "ななじゅう",
+    "romaji": "nanajuu",
+    "meaning": "tujuh puluh",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-042",
+    "kanji": "80",
+    "hiragana": "はちじゅう",
+    "romaji": "hachijuu",
+    "meaning": "delapan puluh",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-043",
+    "kanji": "90",
+    "hiragana": "きゅうじゅう",
+    "romaji": "kyuujuu",
+    "meaning": "sembilan puluh",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-044",
+    "kanji": "20歳",
+    "hiragana": "にじゅっさい／はたち",
+    "romaji": "nijussai/hatachi",
+    "meaning": "dua puluh tahun (usia)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-045",
+    "kanji": "恋人",
+    "hiragana": "こいびと",
+    "romaji": "koibito",
+    "meaning": "pacar,  kekasih",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-046",
+    "kanji": "ペット",
+    "hiragana": "ペット",
+    "romaji": "petto",
+    "meaning": "hewan peliharaan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-047",
+    "kanji": "だれ",
+    "hiragana": "だれ",
+    "romaji": "dare",
+    "meaning": "siapa",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-048",
+    "kanji": "犬",
+    "hiragana": "いぬ",
+    "romaji": "inu",
+    "meaning": "anjing",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-049",
+    "kanji": "おじいさん",
+    "hiragana": "おじいさん",
+    "romaji": "ojiisan",
+    "meaning": "kakek-kakek",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-050",
+    "kanji": "日本",
+    "hiragana": "にほん",
+    "romaji": "nihon",
+    "meaning": "Jepang",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-051",
+    "kanji": "東京",
+    "hiragana": "とうきょう",
+    "romaji": "toukyou",
+    "meaning": "Tokyo",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-052",
+    "kanji": "へー",
+    "hiragana": "へー",
+    "romaji": "hee",
+    "meaning": "Waah... (mengungkapkan sedikit ketertarikan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-053",
+    "kanji": "かわいいですね",
+    "hiragana": "かわいいですね",
+    "romaji": "kawaiidesune",
+    "meaning": "Manis, ya,  Imut, ya.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-054",
+    "kanji": "誕生日",
+    "hiragana": "たんじょうび",
+    "romaji": "tanjoubi",
+    "meaning": "ulang tahun",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-055",
+    "kanji": "海",
+    "hiragana": "うみ",
+    "romaji": "umi",
+    "meaning": "laut",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-056",
+    "kanji": "天気／お天気",
+    "hiragana": "てんき／おてんき",
+    "romaji": "tenki/otenki",
+    "meaning": "cuaca",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-057",
+    "kanji": "最高",
+    "hiragana": "さいこう",
+    "romaji": "saikou",
+    "meaning": "luar biasa,  sangat bagus",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-04-058",
+    "kanji": "ツーショット",
+    "hiragana": "ツーショット",
+    "romaji": "tsuushotto",
+    "meaning": "foto berdua",
+    "level": "-",
+    "isExtra": false
+  }
+]

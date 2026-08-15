@@ -1,0 +1,4242 @@
+おはよう（ございます）;おはよう（ございます）;Selamat pagi.;1;ir1:n0
+こんにちは;こんにちは;Selamat siang.;1;ir1:n0
+こんばんは;こんばんは;Selamat malam.;1;ir1:n0
+じゃあ、また;じゃあ、また;Sampai jumpa.;1;ir1:n0
+おやすみ（なさい）;おやすみ（なさい）;Selamat tidur,  Selamat beristirahat.;1;ir1:n0
+失礼します;しつれいします;Saya permisi,  Saya pamit.;1;ir1:n3
+お先に失礼します;おさきにしつれいします;Permisi, saya duluan.;1;ir1:n3
+お疲れさま（でした）;おつかれさま（でした）;Sampai jumpa, terima kasih atas kerja kerasnya.;1;ir1:n3
+これ;これ;ini;1;ir1:n0
+あめ;あめ;permen;1;ir1:n0
+プレゼント;プレゼント;hadiah;1;ir1:n0
+ありがとうございます;ありがとうございます;Terima kasih.;1;ir1:n0
+すみません;すみません;Terima kasih.;1;ir1:n0
+（どうも）ありがとう;（どうも）ありがとう;Terima kasih banyak.;1;ir1:n0
+どうも;どうも;Makasih.;1;ir1:n0
+落としましたよ;おとしましたよ;Anda menjatuhkannya.;1;ir1:n3
+どうぞ;どうぞ;Silakan.;1;ir1:n0
+いいえ;いいえ;Sama-sama.;1;ir1:n0
+わあ;わあ;Wah! (menunjukkan rasa terkejut);1;ir1:n0
+すみません;すみません;Saya mohon maaf.;1;ir1:n0
+ごめん;ごめん;Maaf.;1;ir1:n0
+痛い！;いたい！;Aduh!;1;ir1:n3
+おめでとうございます;おめでとうございます;Selamat!;1;ir1:n0
+わかりました;わかりました;Saya mengerti.;1;ir1:n0
+よく;よく;dengan baik;2;ir1:n0
+もういちど;もういちど;sekali lagi;2;ir1:n0
+もう少し;もうすこし;sedikit lagi;2;ir1:n4
+ゆっくり;ゆっくり;perlahan, pelan;2;ir1:n0
+在留カード;ざいりゅうカード;kartu izin tinggal;2;ir1:n3
+ここ;ここ;(di) sini;2;ir1:n0
+名前;なまえ;nama;2;ir1:n5
+部屋;へや;kamar, ruangan;2;ir1:n3
+わかりません;わかりません;Saya tidak mengerti/paham.;2;ir1:n0
+お願いします;おねがいします;Tolong.;2;ir1:n3
+言ってください;いってください;Tolong katakan/ucapkan.;2;ir1:n4
+見せてください;みせてください;Tolong tunjukkan.;2;ir1:n5
+書いてください;かいてください;Tolong tulis.;2;ir1:n5
+わかりました;わかりました;Saya mengerti/paham.;2;ir1:n0
+0;ゼロ;nol;2;ir1:n0
+1;いち;satu;2;ir1:n0
+2;に;dua;2;ir1:n0
+3;さん;tiga;2;ir1:n0
+4;よん;empat;2;ir1:n0
+5;ご;lima;2;ir1:n0
+6;ろく;enam;2;ir1:n0
+7;なな;tujuh;2;ir1:n0
+8;はち;delapan;2;ir1:n0
+9;きゅう;sembilan;2;ir1:n0
+10;じゅう;sepuluh;2;ir1:n0
+日本語;にほんご;bahasa Jepang;2;ir1:n5
+英語;えいご;bahasa Inggris;2;ir1:n4
+中国語;ちゅうごくご;bahasa Mandarin;2;ir1:n5
+インドネシア語;インドネシアご;bahasa Indonesia;2;ir1:n5
+はい;はい;ya;2;ir1:n0
+少し;すこし;sedikit;2;ir1:n4
+お客さん;おきゃくさん;pelanggan, pembeli (digunakan untuk memanggil pelanggan yang tidak diketahui namanya);2;ir1:n3
+わかりますか？;わかりますか？;Apakah Anda paham/mengerti?;2;ir1:n0
+できますか？;できますか？;Apakah Anda bisa?;2;ir1:n0
+できます;できます;Saya bisa.;2;ir1:n0
+わかります;わかります;Saya paham/mengerti.;2;ir1:n0
+はい、どうぞ;はい、どうぞ;Silakan.;2;ir1:n0
+じゃあ;じゃあ;Kalau begitu...;2;ir1:n0
+あのう;あのう;Emm... (ungkapan yang digunakan saat pembicara ingin mulai berbicara dengan seseorang);2;ir1:n0
+日本語で;にほんごで;dalam bahasa Jepang;2;ir1:n5
+何;なん;apa;2;ir1:n5
+消しゴム;けしゴム;penghapus karet;2;ir1:n3
+傘;かさ;payung;2;ir1:n1
+スマホ;スマホ;ponsel pintar;2;ir1:n0
+免許証;めんきょしょう;surat izin, lisensi;2;ir1:n1
+蚊;か;nyamuk;2;ir1:n1
+何ですか？;なんですか？;Apa?;2;ir1:n5
+何と言いますか？;なんといいますか？;Apakah penyebutannya?;2;ir1:n4
+え？;え？;Hah?;2;ir1:n0
+そうそう;そうそう;Ya, ya... Benar.;2;ir1:n0
+ミャンマー;ミャンマー;Myanmar;3;ir1:n0
+韓国;かんこく;Korea Selatan;3;ir1:n1
+タイ;タイ;Thailand;3;ir1:n0
+ブラジル;ブラジル;Brazil;3;ir1:n0
+～から来ました;～からきました;berasal dari ~ / datang dari ~;3;ir1:n5
+来る / 来ます;くる / きます;datang;3;ir1:n5
+私;わたし;saya;3;ir1:n4
+はじめまして;はじめまして;Halo, Perkenalkan. (diucapkan ketika bertemu seseorang untuk pertama kalinya);3;ir1:n0
+（どうぞ）よろしくお願いします;（どうぞ）よろしくおねがいします;Senang berkenalan dengan Anda.;3;ir1:n3
+インドネシア;インドネシア;Indonesia;3;ir1:n0
+名前 / お名前;なまえ / おなまえ;nama, nama (orang lain);3;ir1:n5
+出身 / ご出身;しゅっしん / ごしゅっしん;daerah asal, daerah asal (orang lain);3;ir1:n1
+ベトナム;ベトナム;Vietnam;3;ir1:n0
+ハノイ;ハノイ;Hanoi;3;ir1:n0
+国 / お国;くに / おくに;negara, negara (orang lain);3;ir1:n5
+どちら;どちら;mana (bentuk sopan);3;ir1:n0
+フエ;フエ;Hue;3;ir1:n0
+カンボジア;カンボジア;Kamboja;3;ir1:n0
+みなさん;みなさん;Anda semua;3;ir1:n0
+友だち;ともだち;teman;3;ir1:n5
+同じ;おなじ;sama;3;ir1:n4
+会社;かいしゃ;perusahaan;3;ir1:n4
+えーと;えーと;Emm... (menunjukkan bahwa pembicara sedang berpikir);3;ir1:n0
+そうですか;そうですか;Oh, begitu... (respon yang menunjukkan bahwa pembicara memahami apa yang dibicarakan oleh lawan bicara);3;ir1:n0
+どちらからですか？;どちらからですか？;Anda berasal dari mana?;3;ir1:n0
+～からですか？;～からですか？;Apakah Anda dari ~?;3;ir1:n0
+国籍;こくせき;kewarganegaraan;3;ir1:n2
+生年月日;せいねんがっぴ;tanggal lahir;3;ir1:n5
+西暦;せいれき;penanggalan Masehi;3;ir1:n1
+～年;～ねん;tahun ~;3;ir1:n5
+～月 (12月);～がつ (じゅうにがつ);bulan ~ (contoh: 12月 = bulan ke-12 = Desember);3;ir1:n5
+～日;～にち;tanggal ~;3;ir1:n5
+住所;じゅうしょ;alamat;3;ir1:n3
+電話番号;でんわばんごう;nomor telepon;3;ir1:n3
+メール;メール;surel (surat elektronik, e-mail);3;ir1:n0
+申込書;もうしこみしょ;formulir pendaftaran;3;ir1:n3
+父;ちち;ayah (saya);4;ir1:n5
+母;はは;ibu (saya);4;ir1:n5
+兄;あに;kakak laki-laki (saya);4;ir1:n4
+姉;あね;kakak perempuan (saya);4;ir1:n4
+弟;おとうと;adik laki-laki (saya);4;ir1:n4
+妹;いもうと;adik perempuan (saya);4;ir1:n4
+夫;おっと;suami (saya);4;ir1:n3
+妻;つま;istri (saya);4;ir1:n3
+子ども;こども;anak;4;ir1:n5
+～先生;～せんせい;～ sensee (kata sapaan untuk guru);4;ir1:n5
+紹介する;しょうかいする;memperkenalkan;4;ir1:n2
+こちら;こちら;ini (digunakan ketika memperkenalkan orang lain);4;ir1:n0
+あれ？;あれ？;lho? (mengungkapkan keterkejutan);4;ir1:n0
+紹介します;しょうかいします;Akan saya perkenalkan.;4;ir1:n2
+（どうぞ）よろしく;（どうぞ）よろしく;Senang berkenalan dengan Anda.;4;ir1:n0
+うちの;うちの;～ saya,  ～ kami;4;ir1:n0
+家族／ご家族;かぞく／ごかぞく;keluarga,  keluarga (orang lain);4;ir1:n4
+それから;それから;kemudian;4;ir1:n0
+何歳;なんさい;Berapa usianya?;4;ir1:n3
+いくつ;いくつ;Berapa usianya?;4;ir1:n0
+～歳;～さい;～ tahun (usia);4;ir1:n3
+どこ;どこ;di mana;4;ir1:n0
+住んでいます;すんでいます;bertempat tinggal,  berdomisili;4;ir1:n4
+住む;すむ;tinggal;4;ir1:n4
+フィリピン;フィリピン;Filipina;4;ir1:n0
+そう;そう;Begitu... (bentuk informal dari そうですか);4;ir1:n0
+11;じゅういち;sebelas;4;ir1:n0
+12;じゅうに;dua belas;4;ir1:n0
+13;じゅうさん;tiga belas;4;ir1:n0
+14;じゅうよん;empat belas;4;ir1:n0
+15;じゅうご;lima belas;4;ir1:n0
+16;じゅうろく;enam belas;4;ir1:n0
+17;じゅうなな;tujuh belas;4;ir1:n0
+18;じゅうはち;delapan belas;4;ir1:n0
+19;じゅうきゅう;sembilan belas;4;ir1:n0
+20;にじゅう;dua puluh;4;ir1:n0
+30;さんじゅう;tiga puluh;4;ir1:n0
+40;よんじゅう;empat puluh;4;ir1:n0
+50;ごじゅう;lima puluh;4;ir1:n0
+60;ろくじゅう;enam puluh;4;ir1:n0
+70;ななじゅう;tujuh puluh;4;ir1:n0
+80;はちじゅう;delapan puluh;4;ir1:n0
+90;きゅうじゅう;sembilan puluh;4;ir1:n0
+20歳;にじゅっさい／はたち;dua puluh tahun (usia);4;ir1:n3
+恋人;こいびと;pacar,  kekasih;4;ir1:n2
+ペット;ペット;hewan peliharaan;4;ir1:n0
+だれ;だれ;siapa;4;ir1:n0
+犬;いぬ;anjing;4;ir1:n4
+おじいさん;おじいさん;kakek-kakek;4;ir1:n0
+日本;にほん;Jepang;4;ir1:n5
+東京;とうきょう;Tokyo;4;ir1:n4
+へー;へー;Waah... (mengungkapkan sedikit ketertarikan);4;ir1:n0
+かわいいですね;かわいいですね;Manis, ya,  Imut, ya.;4;ir1:n0
+誕生日;たんじょうび;ulang tahun;4;ir1:n1
+海;うみ;laut;4;ir1:n4
+天気／お天気;てんき／おてんき;cuaca;4;ir1:n5
+最高;さいこう;luar biasa,  sangat bagus;4;ir1:n3
+ツーショット;ツーショット;foto berdua;4;ir1:n0
+魚;さかな;ikan;5;ir1:n4
+肉;にく;daging;5;ir1:n4
+野菜;やさい;sayuran;5;ir1:n2
+好きです;すきです;Saya suka.;5;ir1:n3
+刺身;さしみ;sashimi (irisan ikan mentah);5;ir1:n1
+すし;すし;sushi;5;ir1:n0
+天ぷら;てんぷら;tempura;5;ir1:n5
+牛丼;ぎゅうどん;nasi daging sapi (beef bowl);5;ir1:n1
+カレー;カレー;kari;5;ir1:n0
+ラーメン;ラーメン;ramen (mi kuah khas Jepang);5;ir1:n0
+うどん;うどん;mi udon;5;ir1:n0
+そば;そば;mi soba;5;ir1:n0
+納豆;なっとう;natto (kedelai fermentasi);5;ir1:n1
+梅干し;うめぼし;umeboshi (acar buah prem);5;ir1:n1
+わさび;わさび;wasabi (lobak pedas Jepang);5;ir1:n0
+食べ物;たべもの;makanan;5;ir1:n4
+何;なに;apa;5;ir1:n5
+すごい！;すごい！;Wah, hebat!;5;ir1:n0
+～はちょっと…;～はちょっと…;Saya tidak begitu suka ~.;5;ir1:n0
+だいじょうぶですか？;だいじょうぶですか？;Apa Anda bisa (makan)?;5;ir1:n0
+コーヒー;コーヒー;kopi;5;ir1:n0
+紅茶;こうちゃ;teh hitam;5;ir1:n2
+お茶;おちゃ;teh Jepang;5;ir1:n4
+水;みず;air;5;ir1:n5
+ジュース;ジュース;jus;5;ir1:n0
+コーラ;コーラ;kola;5;ir1:n0
+ビール;ビール;bir;5;ir1:n0
+お酒;おさけ;sake,  minuman beralkohol;5;ir1:n3
+飲む / 飲みます;のむ / のみます;minum;5;ir1:n4
+いえ / いいえ;いえ / いいえ;tidak;5;ir1:n0
+はい、お願いします;はい、おねがいします;Ya, saya mau.;5;ir1:n3
+いえ、けっこうです;いえ、けっこうです;Tidak, terima kasih.;5;ir1:n0
+～お願いします;～おねがいします;Saya mau ~;5;ir1:n3
+ご飯;ごはん;nasi;5;ir1:n4
+パン;パン;roti;5;ir1:n0
+卵;たまご;telur;5;ir1:n2
+ヨーグルト;ヨーグルト;yoghurt;5;ir1:n0
+シリアル;シリアル;sereal;5;ir1:n0
+果物;くだもの;buah-buahan;5;ir1:n3
+サラダ;サラダ;selada;5;ir1:n0
+みそ汁;みそしる;sup miso;5;ir1:n1
+スープ;スープ;sup;5;ir1:n0
+牛乳;ぎゅうにゅう;susu;5;ir1:n2
+トマトジュース;トマトジュース;jus tomat;5;ir1:n0
+オレンジジュース;オレンジジュース;jus jeruk;5;ir1:n0
+りんごジュース;りんごジュース;jus apel;5;ir1:n0
+食べる / 食べます;たべる / たべます;makan;5;ir1:n5
+朝ご飯;あさごはん;sarapan;5;ir1:n4
+いつも;いつも;selalu;5;ir1:n0
+よく;よく;sering;5;ir1:n0
+あまり;あまり;jarang,  tidak terlalu sering;5;ir1:n0
+え～！;え～！;Hah?! (mengungkapkan keterkejutan,  keheranan);5;ir1:n0
+今日;きょう;hari ini;5;ir1:n5
+いただきます;いただきます;Terima kasih atas hidangannya! (Ungkapan sopan santun yang diucapkan sebelum makan);5;ir1:n0
+ハンバーガー;ハンバーガー;burger;6;ir1:n0
+～バーガー（ダブルバーガー）;～バーガー（ダブルバーガー）;burger ～ (contoh : burger dobel);6;ir1:n0
+ダブル;ダブル;dobel;6;ir1:n0
+チーズ;チーズ;keju;6;ir1:n0
+てりやき;てりやき;teriyaki;6;ir1:n0
+チキン;チキン;ayam;6;ir1:n0
+フィッシュ;フィッシュ;ikan;6;ir1:n0
+単品;たんぴん;menu satuan;6;ir1:n3
+セット;セット;menu set, menu paket;6;ir1:n0
+フライドポテト;フライドポテト;kentang goreng;6;ir1:n0
+S;エス;small (menu ukuran kecil);6;ir1:n0
+M;エム;medium (menu ukuran sedang);6;ir1:n0
+L;エル;large (menu ukuran besar);6;ir1:n0
+デザート;デザート;hidangan penutup, pencuci mulut;6;ir1:n0
+アイスクリーム;アイスクリーム;es krim;6;ir1:n0
+アップルパイ;アップルパイ;pai apel;6;ir1:n0
+ドリンク;ドリンク;minuman;6;ir1:n0
+ホットコーヒー;ホットコーヒー;kopi panas;6;ir1:n0
+アイスコーヒー;アイスコーヒー;es kopi;6;ir1:n0
+ウーロン茶;ウーロンちゃ;teh oolong;6;ir1:n4
+コカコーラ;コカコーラ;Coca-Cola;6;ir1:n0
+サイズ;サイズ;ukuran;6;ir1:n0
+～ください;～ください;Saya pesan/ minta ～.;6;ir1:n0
+テイクアウトで;テイクアウトで;takeout, untuk dibawa pulang;6;ir1:n0
+ここで;ここで;makan di tempat;6;ir1:n0
+いらっしゃいませ;いらっしゃいませ;Selamat datang.;6;ir1:n0
+おうかがいします;おうかがいします;Mau pesan apa? (ragam hormat);6;ir1:n0
+こちらでおめしあがりですか？;こちらでおめしあがりですか？;Apa Anda ingin makan di tempat? (ragam hormat);6;ir1:n0
+お持ち帰りですね;おもちかえりですね;Pesanannya untuk dibawa pulang, ya. (ragam hormat);6;ir1:n4
+何になさいますか？;なにになさいますか？;Anda mau pesan apa? (ragam hormat);6;ir1:n5
+～にします;～にします;Saya pilih ～.;6;ir1:n0
+うーん;うーん;Hmm... (pembicara sedang mempertimbangkan sesuatu yang agak membingungkan);6;ir1:n0
+ここ、いいですか？;ここ、いいですか？;Bolehkah saya duduk di sini?;6;ir1:n0
+どうですか？;どうですか？;Bagaimana (rasanya)?;6;ir1:n0
+おいしいです;おいしいです;(Rasanya) enak.;6;ir1:n0
+刺身;さしみ;sashimi (irisan ikan mentah);6;ir1:n1
+唐揚げ;からあげ;karage;6;ir1:n1
+焼き鳥／焼鳥;やきとり;yakitori (sate ayam ala Jepang);6;ir1:n2
+枝豆;えだまめ;edamame (kacang kedelai muda yang masih berada dalam polong);6;ir1:n1
+生ビール;なまビール;draft beer;6;ir1:n5
+メニュー;メニュー;menu;6;ir1:n0
+お魚;おさかな;ikan;6;ir1:n4
+盛り合わせ;もりあわせ;kombinasi;6;ir1:n1
+～点盛（7点盛）;～てんもり（ななてんもり）;kombinasi ～ jenis makanan (kombinasi 7 jenis makanan);6;ir1:n1
+焼魚;やきざかな;ikan bakar;6;ir1:n2
+お肉;おにく;daging;6;ir1:n4
+とり;とり;ayam;6;ir1:n0
+サイコロステーキ;サイコロステーキ;saikoro steak (steak berbentuk dadu);6;ir1:n0
+特製つくね;とくせいつくね;tsukune (bakso ayam) spesial;6;ir1:n1
+馬刺;ばさし;basashi (sashimi daging kuda);6;ir1:n2
+おつまみ;おつまみ;makanan pendamping minuman beralkohol;6;ir1:n0
+冷奴;ひややっこ;tahu sutra dingin;6;ir1:n1
+冷やしトマト;ひやしトマト;tomat dingin;6;ir1:n3
+たこわさ;たこわさ;takowasa (gurita mentah yang dibumbui wasabi);6;ir1:n0
+しおから;しおから;shiokara (seafood yang difermentasi);6;ir1:n0
+日本酒;にほんしゅ;sake (arak Jepang yang dibuat dari beras);6;ir1:n3
+焼酎;しょうちゅう;shochu (minuman beralkohol hasil penyulingan);6;ir1:n1
+酎ハイ;ちゅうハイ;chu-hai/ chu-hi (minuman beralkohol yang dicampur dengan soda);6;ir1:n1
+レモンハイ;レモンハイ;chu-hi rasa lemon;6;ir1:n0
+ウーロンハイ;ウーロンハイ;chu-hi rasa teh oolong;6;ir1:n0
+緑茶ハイ;りょくちゃハイ;chu-hi rasa teh hijau;6;ir1:n2
+カルピスハイ;カルピスハイ;chu-hi rasa calpico (susu fermentasi);6;ir1:n0
+ソフトドリンク;ソフトドリンク;minuman ringan (tidak beralkohol);6;ir1:n0
+緑茶;りょくちゃ;teh hijau;6;ir1:n2
+カルピス;カルピス;Calpico (minuman susu fermentasi);6;ir1:n0
+お問い合わせください;おといあわせください;Mohon tanyakan ketersediaan. (ragam hormat);6;ir1:n3
+あと;あと;selain itu, juga;6;ir1:n0
+マヨネーズ;マヨネーズ;mayones;6;ir1:n0
+ある／あります;ある／あります;ada (tersedia);6;ir1:n0
+すみません;すみません;Maaf, Permisi. (Ungkapan ketika akan memulai pembicaraan dengan seseorang);6;ir1:n0
+お待ちします;おまちします;Akan saya bawakan. (Ragam hormat yang digunakan pegawai toko atau pelayan restoran);6;ir1:n4
+1つ;ひとつ;satu (untuk benda);6;ir1:n0
+2つ;ふたつ;dua (untuk benda);6;ir1:n0
+3つ;みっつ;tiga (untuk benda);6;ir1:n0
+4つ;よっつ;empat (untuk benda);6;ir1:n0
+5つ;いつつ;lima (untuk benda);6;ir1:n0
+6つ;むっつ;enam (untuk benda);6;ir1:n0
+7つ;ななつ;tujuh (untuk benda);6;ir1:n0
+8つ;やっつ;delapan (untuk benda);6;ir1:n0
+9つ;ここのつ;sembilan (untuk benda);6;ir1:n0
+いくつ;いくつ;berapa (menanyakan jumlah benda);6;ir1:n0
+ケチャップ;ケチャップ;saus tomat;6;ir1:n0
+スプーン;スプーン;sendok;6;ir1:n0
+おしぼり;おしぼり;handuk basah untuk tangan;6;ir1:n0
+取り皿;とりざら;piring kecil, piring makan;6;ir1:n2
+グラス;グラス;gelas;6;ir1:n0
+はし／おはし;はし／おはし;sumpit;6;ir1:n0
+居酒屋;いざかや;izakaya (kedai minum khas Jepang);6;ir1:n3
+すし;すし;sushi;6;ir1:n0
+そば;そば;mi soba;6;ir1:n0
+うどん;うどん;mi udon;6;ir1:n0
+ラーメン;ラーメン;ramen (mi kuah khas Jepang);6;ir1:n0
+カレー;カレー;kari;6;ir1:n0
+牛丼;ぎゅうどん;nasi daging sapi (beef bowl);6;ir1:n1
+玄関;げんかん;pintu/jalan masuk;7;ir1:n1
+お風呂;おふろ;kamar mandi;7;ir1:n1
+トイレ;トイレ;toilet;7;ir1:n0
+階段;かいだん;tangga;7;ir1:n2
+部屋;へや;kamar,  ruangan;7;ir1:n3
+ベランダ;ベランダ;beranda,  serambi;7;ir1:n0
+バルコニー;バルコニー;balkon;7;ir1:n0
+台所;だいどころ;dapur;7;ir1:n3
+キッチン;キッチン;dapur;7;ir1:n0
+庭;にわ;halaman,  pekarangan;7;ir1:n3
+居間;いま;ruang keluarga,  ruang tamu;7;ir1:n3
+リビング;リビング;ruang keluarga,  ruang tamu;7;ir1:n0
+１階;いっかい;lantai satu;7;ir1:n2
+２階;にかい;lantai dua;7;ir1:n2
+管理人室;かんりにんしつ;kantor/ruang pengawas gedung;7;ir1:n2
+食堂;しょくどう;ruang makan,  kantin;7;ir1:n4
+入る / 入ります;はいる / はいります;masuk;7;ir1:n5
+くつ;くつ;sepatu;7;ir1:n0
+脱ぐ / 脱ぎます;ぬぐ / ぬぎます;melepas;7;ir1:n1
+ご飯;ごはん;makanan;7;ir1:n4
+入ってください;はいってください;Silakan masuk.;7;ir1:n5
+脱いでください;ぬいでください;Mohon dilepas.;7;ir1:n1
+お世話になります;おせわになります;Mohon bantuannya. (ungkapan halus yang digunakan ketika bertemu dengan orang yang akan membantu kita);7;ir1:n4
+エアコン;エアコン;AC (air conditioner);7;ir1:n0
+冷蔵庫;れいぞうこ;kulkas,  lemari pendingin;7;ir1:n2
+電子レンジ;でんしレンジ;microwave;7;ir1:n5
+炊飯器;すいはんき;penanak nasi;7;ir1:n1
+トースター;トースター;pemanggang roti;7;ir1:n0
+ベッド;ベッド;tempat tidur;7;ir1:n0
+ふとん;ふとん;futon (kasur lipat tradisional Jepang);7;ir1:n0
+テーブル;テーブル;meja;7;ir1:n0
+いす;いす;kursi;7;ir1:n0
+洗濯機;せんたくき;mesin cuci;7;ir1:n2
+テレビ;テレビ;televisi;7;ir1:n0
+Wi-Fi;ワイファイ;Wi-Fi;7;ir1:n0
+みんなで;みんなで;bersama-sama;7;ir1:n0
+使う / 使います;つかう / つかいます;menggunakan;7;ir1:n4
+ない;ない;Tidak ada (bentuk negatif dari ある);7;ir1:n0
+使ってください;つかってください;Silakan pakai.;7;ir1:n4
+新しい;あたらしい;baru;7;ir1:n4
+古い;ふるい;tua,  lama;7;ir1:n4
+静か（な）;しずか（な）;sepi,  tenang;7;ir1:n3
+うるさい;うるさい;bising,  berisik;7;ir1:n0
+きれい（な）;きれい（な）;bersih,  rapi;7;ir1:n0
+きたない;きたない;kotor,  berantakan;7;ir1:n0
+家;いえ;rumah;7;ir1:n4
+どう;どう;bagaimana;7;ir1:n0
+ちょっと;ちょっと;agak;7;ir1:n0
+とても;とても;sangat;7;ir1:n0
+うち;うち;rumah;7;ir1:n0
+近く;ちかく;dekat;7;ir1:n4
+でも;でも;tetapi;7;ir1:n0
+～区（南区）;～く（みなみく）;Distrik ~ (contoh: Distrik Minami);7;ir1:n2
+いいですね;いいですね;Bagus, ya.;7;ir1:n0
+どう？;どう？;Gimana? (bentuk informal dari どうですか？);7;ir1:n0
+ふーん;ふーん;Hmm... (respon informal untuk menunjukkan bahwa pembicara mendengarkan ucapan lawan bicara);7;ir1:n0
+アパート;アパート;apartemen;7;ir1:n0
+マンション;マンション;kondominium;7;ir1:n0
+寮;りょう;asrama;7;ir1:n1
+シェアハウス;シェアハウス;shared house;7;ir1:n0
+一戸建て;いっこだて;rumah tapak;7;ir1:n2
+お寺;おてら;kuil Buddha;7;ir1:n2
+学校;がっこう;sekolah;7;ir1:n5
+公園;こうえん;taman;7;ir1:n3
+すごい;すごい;hebat,  luar biasa;7;ir1:n0
+すごいですね;すごいですね;Hebat, ya.;7;ir1:n0
+入れる / 入;いれる;menyalakan / ON;7;ir1:n5
+切る / 切;きる;mematikan / OFF;7;ir1:n4
+スタート;スタート;mulai,  start;7;ir1:n0
+コース;コース;mode cuci;7;ir1:n0
+電源;でんげん;tombol daya;7;ir1:n1
+一時停止;いちじていし;jeda,  pause;7;ir1:n2
+標準;ひょうじゅん;mode pencucian normal;7;ir1:n1
+おいそぎ;おいそぎ;mode pencucian cepat;7;ir1:n0
+手洗い;てあらい;mode pencucian hand wash;7;ir1:n3
+毛布;もうふ;selimut;7;ir1:n2
+ドライ;ドライ;mode pencucian delicate wash;7;ir1:n0
+槽洗浄;そうせんじょう;mode pembersihan tabung;7;ir1:n1
+予約;よやく;pewaktu (timer);7;ir1:n3
+残り;のこり;sisa (waktu);7;ir1:n3
+水量;すいりょう;volume air;7;ir1:n2
+冷房;れいぼう;sejuk;7;ir1:n1
+暖房;だんぼう;hangat;7;ir1:n1
+除湿;じょしつ;menghilangkan kelembapan;7;ir1:n2
+自動;じどう;otomatis;7;ir1:n4
+温度;おんど;suhu;7;ir1:n2
+風向;かざむき / ふうこう;arah angin;7;ir1:n3
+風量;ふうりょう;kecepatan angin;7;ir1:n2
+停止;ていし;stop;7;ir1:n2
+タイマー;タイマー;pewaktu (timer);7;ir1:n0
+取消;とりけし;batal (cancel);7;ir1:n3
+更衣室;こういしつ;ruang ganti;8;ir1:n2
+食堂;しょくどう;kantin;8;ir1:n4
+給湯室;きゅうとうしつ;pantri (pantry);8;ir1:n2
+会議室;かいぎしつ;ruang rapat;8;ir1:n3
+喫煙所;きつえんじょ;ruang merokok,  area merokok;8;ir1:n2
+倉庫;そうこ;gudang;8;ir1:n1
+着替える / 着替えます;きがえる / きがえます;berganti pakaian;8;ir1:n2
+ご飯を食べる / 食べます;ごはんをたべる / たべます;makan;8;ir1:n4
+お茶をいれる / いれます;おちゃをいれる / いれます;membuat/menyeduh teh;8;ir1:n4
+打ち合わせをする / します;うちあわせをする / します;mengadakan rapat;8;ir1:n3
+男性;だんせい;pria;8;ir1:n3
+いる / います;いる / います;ada;8;ir1:n0
+たぶん;たぶん;mungkin;8;ir1:n0
+～よ（いるよ）;～よ（いるよ）;digunakan ketika memberitahukan informasi yang tidak diketahui lawan bicara;8;ir1:n0
+～ね（いませんね）;～ね（いませんね）;digunakan ketika berbagi informasi dengan lawan bicara;8;ir1:n0
+探してみます;さがしてみます;Saya akan mencoba mencarinya.;8;ir1:n3
+上;うえ;atas;8;ir1:n5
+下;した;bawah;8;ir1:n5
+中;なか;dalam;8;ir1:n5
+横;よこ;samping;8;ir1:n3
+のり;のり;lem;8;ir1:n0
+引き出し;ひきだし;laci;8;ir1:n3
+ガムテープ;ガムテープ;lakban;8;ir1:n0
+箱;はこ;kotak;8;ir1:n3
+FAX;ファックス;faksimile;8;ir1:n0
+コピー機;コピーき;mesin fotokopi;8;ir1:n3
+はさみ;はさみ;gunting;8;ir1:n0
+机;つくえ;meja;8;ir1:n2
+ごみ箱;ごみばこ;tempat sampah;8;ir1:n3
+ここ;ここ;sini;8;ir1:n0
+そこ;そこ;situ;8;ir1:n0
+あそこ;あそこ;sana;8;ir1:n0
+ありました;ありました;Ada. (digunakan ketika menemukan benda yang dicari);8;ir1:n0
+応接室;おうせつしつ;ruang penerimaan tamu;8;ir1:n1
+事務室;じむしつ;ruang administrasi,  ruang tata usaha;8;ir1:n3
+今;いま;sekarang;9;ir1:n5
+何時;なんじ;jam berapa;9;ir1:n5
+朝;あさ;pagi;9;ir1:n4
+昼;ひる;siang;9;ir1:n4
+夜;よる;malam;9;ir1:n4
+午前;ごぜん;a.m. (Ante Meridiem: 00:00 - 11:59);9;ir1:n5
+午後;ごご;p.m. (Post Meridiem: 12:00-23:59);9;ir1:n5
+～時;～じ;pukul/jam ～;9;ir1:n5
+1時;いちじ;pukul satu, jam satu;9;ir1:n5
+2時;にじ;pukul dua, jam dua;9;ir1:n5
+3時;さんじ;pukul tiga, jam tiga;9;ir1:n5
+4時;よじ;pukul empat, jam empat;9;ir1:n5
+5時;ごじ;pukul lima, jam lima;9;ir1:n5
+6時;ろくじ;pukul enam, jam enam;9;ir1:n5
+7時;しちじ;pukul tujuh, jam tujuh;9;ir1:n5
+8時;はちじ;pukul delapan, jam delapan;9;ir1:n5
+9時;くじ;pukul sembilan, jam sembilan;9;ir1:n5
+10時;じゅうじ;pukul sepuluh, jam sepuluh;9;ir1:n5
+11時;じゅういちじ;pukul sebelas, jam sebelas;9;ir1:n5
+12時;じゅうにじ;pukul dua belas, jam dua belas;9;ir1:n5
+～分;～ふん／ぷん;～ menit (menunjukkan waktu);9;ir1:n1
+15分;じゅうごふん;～ :15 / ～ lewat seperempat;9;ir1:n1
+30分;さんじゅっぷん;～ :30 / setengah ～;9;ir1:n1
+45分;よんじゅうごふん;～ :45 / ～ kurang lima belas menit;9;ir1:n1
+半;はん;～ :30 / setengah ～;9;ir1:n5
+起きる／起きます;おきる／おきます;bangun;9;ir1:n4
+寝る／寝ます;ねる／ねます;tidur;9;ir1:n3
+毎日;まいにち;setiap hari;9;ir1:n5
+早い;はやい;awal, dini, cepat;9;ir1:n4
+ええ;ええ;ya;9;ir1:n0
+毎朝;まいあさ;setiap pagi;9;ir1:n4
+ジョギング;ジョギング;joging;9;ir1:n0
+する／します;する／します;melakukan;9;ir1:n0
+だいたい;だいたい;biasanya;9;ir1:n0
+～ごろ;～ごろ;sekitar ～;9;ir1:n0
+遅い;おそい;larut;9;ir1:n3
+ゲーム;ゲーム;gim (game);9;ir1:n0
+早いですね;はやいですね;Pagi sekali, Cepat sekali.;9;ir1:n4
+遅いですね;おそいですね;Larut sekali.;9;ir1:n3
+お祈り;おいのり;doa, sembahyang;9;ir1:n2
+勉強する／勉強します;べんきょうする／べんきょうします;belajar;9;ir1:n4
+音楽;おんがく;musik;9;ir1:n4
+聞く／聞きます;きく／ききます;mendengarkan;9;ir1:n5
+ネット;ネット;internet;9;ir1:n0
+見る／見ます;みる／みます;melihat, menonton;9;ir1:n5
+朝礼;ちょうれい;apel pagi;9;ir1:n3
+仕事;しごと;pekerjaan;9;ir1:n4
+昼休み;ひるやすみ;istirahat siang;9;ir1:n4
+休み時間;やすみじかん;waktu istirahat;9;ir1:n5
+残業;ざんぎょう;lembur;9;ir1:n3
+はじめに;はじめに;mula-mula;9;ir1:n0
+ときどき;ときどき;kadang-kadang;9;ir1:n0
+1日;いちにち;satu hari;9;ir1:n5
+スケジュール;スケジュール;jadwal;9;ir1:n0
+説明する／説明します;せつめいする／せつめいします;menjelaskan;9;ir1:n3
+在;ざい;hadir;9;ir1:n3
+不在;ふざい;tidak hadir, absen;9;ir1:n3
+遅刻;ちこく;terlambat;9;ir1:n3
+休み;やすみ;cuti;9;ir1:n5
+外出;がいしゅつ;tugas luar;9;ir1:n5
+早退;そうたい;pulang cepat;9;ir1:n3
+行動;こうどう;aktivitas, kegiatan;9;ir1:n4
+予定表;よていひょう;papan jadwal;9;ir1:n3
+氏名;しめい;nama lengkap;9;ir1:n1
+銀行;ぎんこう;bank;9;ir1:n4
+何曜日;なんようび;hari apa;9;ir1:n4
+月曜日／月;げつようび／げつ;Senin;9;ir1:n4
+火曜日／火;かようび／か;Selasa;9;ir1:n4
+水曜日／水;すいようび／すい;Rabu;9;ir1:n4
+木曜日／木;もくようび／もく;Kamis;9;ir1:n4
+金曜日／金;きんようび／きん;Jumat;9;ir1:n4
+土曜日／土;どようび／ど;Sabtu;9;ir1:n4
+日曜日／日;にちようび／にち;Minggu;9;ir1:n4
+プール;プール;kolam renang;9;ir1:n0
+ご飯;ごはん;makan;9;ir1:n4
+映画;えいが;film;9;ir1:n4
+いつ;いつ;kapan;9;ir1:n0
+行く／行きます;いく／いきます;pergi;9;ir1:n5
+いい;いい;bisa, boleh;9;ir1:n0
+だいじょうぶ（な）;だいじょうぶ（な）;bisa, oke;9;ir1:n0
+だめ（な）;だめ（な）;tidak bisa;9;ir1:n0
+～にしましょう;～にしましょう;Ayo kita lakukan pada ～!;9;ir1:n0
+段ボール;だんボール;kardus;10;ir1:n3
+ドライバー;ドライバー;obeng;10;ir1:n0
+ごみ;ごみ;sampah;10;ir1:n0
+窓;まど;jendela;10;ir1:n3
+プロジェクタ;プロジェクタ;proyektor;10;ir1:n0
+リモコン;リモコン;alat kendali jarak jauh (remote control);10;ir1:n0
+置いて（ください）;おいて（ください）;(Tolong) letakkan.;10;ir1:n3
+取って（ください）;とって（ください）;(Tolong) ambilkan.;10;ir1:n3
+並べて（ください）;ならべて（ください）;(Tolong) susun.;10;ir1:n2
+片付けて（ください）;かたづけて（ください）;(Tolong) rapikan.;10;ir1:n2
+捨てて（ください）;すてて（ください）;(Tolong) buang.;10;ir1:n2
+持って来て（ください）;もってきて（ください）;(Tolong) bawakan ke sini.;10;ir1:n4
+持って行って（ください）;もっていって（ください）;(Tolong) bawakan ke sana.;10;ir1:n4
+閉めて（ください）;しめて（ください）;(Tolong) tutup.;10;ir1:n3
+手伝って（ください）;てつだって（ください）;(Tolong) bantu.;10;ir1:n3
+～枚;～まい;~ lembar;10;ir1:n2
+コピー;コピー;fotokopi;10;ir1:n0
+隣;となり;sebelah;10;ir1:n1
+～までに;～までに;sampai ~;10;ir1:n0
+あとで;あとで;nanti;10;ir1:n0
+もしもし;もしもし;Halo (untuk di telepon);10;ir1:n0
+来てください;きてください;Tolong datang.;10;ir1:n5
+13時;じゅうさんじ;pukul 13:00 (1:00 p.m.);10;ir1:n5
+14時;じゅうよじ;pukul 14:00 (2:00 p.m.);10;ir1:n5
+15時;じゅうごじ;pukul 15:00 (3:00 p.m.);10;ir1:n5
+16時;じゅうろくじ;pukul 16:00 (4:00 p.m.);10;ir1:n5
+17時;じゅうしちじ;pukul 17:00 (5:00 p.m.);10;ir1:n5
+18時;じゅうはちじ;pukul 18:00 (6:00 p.m.);10;ir1:n5
+19時;じゅうくじ;pukul 19:00 (7:00 p.m.);10;ir1:n5
+20時;にじゅうじ;pukul 20:00 (8:00 p.m.);10;ir1:n5
+21時;にじゅういちじ;pukul 21:00 (9:00 p.m.);10;ir1:n5
+22時;にじゅうにじ;pukul 22:00 (10:00 p.m.);10;ir1:n5
+23時;にじゅうさんじ;pukul 23:00 (11:00 p.m.);10;ir1:n5
+0時;れいじ;pukul 00:00 (12:00 tengah malam);10;ir1:n5
+すぐに;すぐに;segera;10;ir1:n0
+第～（第2）;だい～（だいに）;No. ~ (contoh: No. 2);10;ir1:n1
+～部（100部）;～ぶ（ひゃくぶ）;~ eksemplar, lembar (contoh: 100 eksemplar, 100 lembar);10;ir1:n3
+電話する / 電話します;でんわする / でんわします;menelepon;10;ir1:n5
+電話してください;でんわしてください;Tolong telepon, Tolong hubungi.;10;ir1:n5
+折り返し;おりかえし;menghubungi kembali;10;ir1:n3
+電話がありました;でんわがありました;Ada telepon.;10;ir1:n5
+貸す / 貸します;かす / かします;meminjamkan;10;ir1:n4
+借りる / 借ります;かりる / かります;meminjam;10;ir1:n4
+はさみ;はさみ;gunting;10;ir1:n0
+カッター;カッター;pisau cutter;10;ir1:n0
+のり;のり;lem;10;ir1:n0
+ホチキス;ホチキス;stapler;10;ir1:n0
+えんぴつ;えんぴつ;pensil;10;ir1:n0
+ペン;ペン;pena;10;ir1:n0
+電卓;でんたく;kalkulator;10;ir1:n1
+充電器;じゅうでんき;pengisi daya (charger);10;ir1:n1
+ふせん;ふせん;notes tempel (sticky note);10;ir1:n0
+いいよ;いいよ;Oke. (Bentuk informal dari いいですよ (Boleh));10;ir1:n0
+ありますよ / あるよ;ありますよ / あるよ;Saya punya/ Ada, kok.;10;ir1:n0
+フォーク;フォーク;garpu;10;ir1:n0
+ナイフ;ナイフ;pisau;10;ir1:n0
+スプーン;スプーン;sendok;10;ir1:n0
+はし;はし;sumpit;10;ir1:n0
+塩;しお;garam;10;ir1:n2
+こしょう;こしょう;lada;10;ir1:n0
+砂糖;さとう;gula;10;ir1:n1
+ミルク;ミルク;susu;10;ir1:n0
+備品リスト;びひんリスト;inventaris (daftar barang);10;ir1:n3
+品名;ひんめい;nama barang;10;ir1:n4
+数量;すうりょう;kuantitas, jumlah;10;ir1:n2
+石けん;せっけん;sabun batang;10;ir1:n3
+シャンプー;シャンプー;sampo;10;ir1:n0
+コンディショナー;コンディショナー;kondisioner;10;ir1:n0
+歯ブラシ;はブラシ;sikat gigi;10;ir1:n3
+かみそり;かみそり;pisau cukur;10;ir1:n0
+タオル;タオル;handuk;10;ir1:n0
+バスタオル;バスタオル;handuk mandi;10;ir1:n0
+トイレットペーパー;トイレットペーパー;tisu toilet;10;ir1:n0
+バスルーム;バスルーム;kamar mandi;10;ir1:n0
+趣味;しゅみ;hobi;11;ir1:n1
+スポーツ;スポーツ;olahraga;11;ir1:n0
+音楽;おんがく;musik;11;ir1:n4
+映画;えいが;film;11;ir1:n4
+読書;どくしょ;baca;11;ir1:n5
+買い物;かいもの;belanja;11;ir1:n4
+料理;りょうり;masak;11;ir1:n4
+ゲーム;ゲーム;gim (game);11;ir1:n0
+マンガ;マンガ;manga (komik);11;ir1:n0
+アニメ;アニメ;anime (animasi);11;ir1:n0
+どんな;どんな;seperti apa?;11;ir1:n0
+バスケットボール;バスケットボール;bola basket;11;ir1:n0
+水泳;すいえい;renang;11;ir1:n3
+大好き（な）;だいすき（な）;suka sekali;11;ir1:n3
+そうですねえ;そうですねえ;Apa, ya...? (Ungkapan yang digunakan ketika pembicara sedang berpikir);11;ir1:n0
+ドラゴンボール;ドラゴンボール;Dragon Ball;11;ir1:n0
+サッカー;サッカー;sepak bola;11;ir1:n0
+ラグビー;ラグビー;rugbi;11;ir1:n0
+バドミントン;バドミントン;bulu tangkis;11;ir1:n0
+卓球;たっきゅう;tenis meja;11;ir1:n1
+ミステリー;ミステリー;misteri;11;ir1:n0
+ファンタジー;ファンタジー;fantasi;11;ir1:n0
+村上春樹;むらかみはるき;Murakami Haruki;11;ir1:n1
+夏目漱石;なつめそうせき;Natsume Soseki;11;ir1:n1
+恋愛映画;れんあいえいが;film percintaan/romansa;11;ir1:n2
+アクション映画;アクションえいが;film laga;11;ir1:n4
+SF;エスエフ;science fiction (fiksi ilmiah);11;ir1:n0
+ホラー;ホラー;horor;11;ir1:n0
+ハリー・ポッター;ハリー・ポッター;Harry Potter;11;ir1:n0
+スターウォーズ;スターウォーズ;Star Wars;11;ir1:n0
+ロック;ロック;rock;11;ir1:n0
+ジャズ;ジャズ;jazz;11;ir1:n0
+クラシック;クラシック;musik klasik;11;ir1:n0
+クイーン;クイーン;Queen;11;ir1:n0
+ショパン;ショパン;Chopin;11;ir1:n0
+聞く／聞きます;きく／ききます;mendengarkan;11;ir1:n5
+本;ほん;buku;11;ir1:n5
+読む／読みます;よむ／よみます;membaca;11;ir1:n5
+テレビ;テレビ;televisi;11;ir1:n0
+見る／見ます;みる／みます;menonton;11;ir1:n5
+する／します;する／します;melakukan,  bermain;11;ir1:n0
+掃除;そうじ;bersih-bersih;11;ir1:n2
+洗濯;せんたく;cuci baju;11;ir1:n2
+散歩;さんぽ;jalan-jalan;11;ir1:n3
+勉強する／勉強します;べんきょうする／べんきょうします;belajar;11;ir1:n4
+ゆっくりする／ゆっくりします;ゆっくりする／ゆっくりします;bersantai;11;ir1:n0
+休みの日;やすみのひ;hari libur;11;ir1:n5
+いつも;いつも;selalu;11;ir1:n0
+たいてい;たいてい;umumnya,  kebanyakan;11;ir1:n0
+よく;よく;sering;11;ir1:n0
+ときどき;ときどき;kadang-kadang;11;ir1:n0
+あまり;あまり;tidak begitu;11;ir1:n0
+ぜんぜん;ぜんぜん;sama sekali;11;ir1:n0
+テニス;テニス;tenis;11;ir1:n0
+パチンコ;パチンコ;pachinko;11;ir1:n0
+外;そと;di luar rumah;11;ir1:n5
+1人で;ひとりで;sendirian;11;ir1:n5
+ごろごろ（する）／ごろごろ（します）;ごろごろ（する）／ごろごろ（します）;bermalas-malasan;11;ir1:n0
+～かなあ;～かなあ;～ kali, ya. (menunjukkan bahwa pembicara berbicara sambil berpikir);11;ir1:n0
+えらいですね;えらいですね;Itu mengagumkan/ Hebat sekali, ya.;11;ir1:n0
+ショッピング;ショッピング;belanja;11;ir1:n0
+ファッション;ファッション;fesyen, mode;11;ir1:n0
+投稿;とうこう;unggahan (postingan);11;ir1:n1
+フォロワー;フォロワー;pengikut;11;ir1:n0
+フォロー中;フォローちゅう;mengikuti;11;ir1:n5
+募集中;ぼしゅうちゅう;sedang mencari ～;11;ir1:n2
+夏祭り;なつまつり;festival musim panas;12;ir1:n2
+会場;かいじょう;tempat acara;12;ir1:n4
+イベント;イベント;acara;12;ir1:n0
+広場;ひろば;lapangan;12;ir1:n4
+食べ物;たべもの;makanan;12;ir1:n4
+飲み物;のみもの;minuman;12;ir1:n4
+ステージ;ステージ;pertunjukan;12;ir1:n0
+縁日;えんにち;pekan raya;12;ir1:n1
+文化センター;ぶんかセンター;pusat kebudayaan;12;ir1:n3
+野外;やがい;luar ruangan, tempa terbuka;12;ir1:n4
+入場料;にゅうじょうりょう;HTM (harga tiket masuk);12;ir1:n4
+～円;～えん;~ yen;12;ir1:n5
+場所;ばしょ;tempat, lokasi;12;ir1:n3
+ホール;ホール;aula;12;ir1:n0
+映画上映会;えいがじょうえいかい;pemutaran film;12;ir1:n4
+プログラム;プログラム;program;12;ir1:n0
+上映作品;じょうえいさくひん;film yang ditayangkan;12;ir1:n4
+お問い合わせ;おといあわせ;pertanyaan;12;ir1:n3
+楽しもう！;たのしもう！;Mari nikmati ~.;12;ir1:n4
+交流;こうりゅう;pertukaran;12;ir1:n3
+バーベキュー;バーベキュー;barbeku;12;ir1:n0
+日時;にちじ;tanggal dan waktu;12;ir1:n5
+駐車場;ちゅうしゃじょう;tempat parkir;12;ir1:n2
+あおぞら;あおぞら;langit biru;12;ir1:n0
+問い合わせ先;といあわせさき;narahubung;12;ir1:n3
+日本語ボランティア教室;にほんごボランティアきょうしつ;kelas sukarelawan Bahasa Jepang;12;ir1:n4
+フェスティバル;フェスティバル;festival;12;ir1:n0
+入場無料;にゅうじょうむりょう;gratis masuk;12;ir1:n1
+1月;いちがつ;Januari;12;ir1:n5
+2月;にがつ;Februari;12;ir1:n5
+3月;さんがつ;Maret;12;ir1:n5
+4月;しがつ;April;12;ir1:n5
+5月;ごがつ;Mei;12;ir1:n5
+6月;ろくがつ;Juni;12;ir1:n5
+7月;しちがつ;Juli;12;ir1:n5
+8月;はちがつ;Agustus;12;ir1:n5
+9月;くがつ;September;12;ir1:n5
+10月;じゅうがつ;Oktober;12;ir1:n5
+11月;じゅういちがつ;November;12;ir1:n5
+12月;じゅうにがつ;Desember;12;ir1:n5
+何月;なんがつ;bulan apa;12;ir1:n5
+1日;ついたち;tanggal 1;12;ir1:n5
+2日;ふつか;tanggal 2;12;ir1:n5
+3日;みっか;tanggal 3;12;ir1:n5
+4日;よっか;tanggal 4;12;ir1:n5
+5日;いつか;tanggal 5;12;ir1:n5
+6日;むいか;tanggal 6;12;ir1:n5
+7日;なのか;tanggal 7;12;ir1:n5
+8日;ようか;tanggal 8;12;ir1:n5
+9日;ここのか;tanggal 9;12;ir1:n5
+10日;とおか;tanggal 10;12;ir1:n5
+11日;じゅういちにち;tanggal 11;12;ir1:n5
+12日;じゅうににち;tanggal 12;12;ir1:n5
+13日;じゅうさんにち;tanggal 13;12;ir1:n5
+14日;じゅうよっか;tanggal 14;12;ir1:n5
+15日;じゅうごにち;tanggal 15;12;ir1:n5
+16日;じゅうろくにち;tanggal 16;12;ir1:n5
+17日;じゅうしちにち;tanggal 17;12;ir1:n5
+18日;じゅうはちにち;tanggal 18;12;ir1:n5
+19日;じゅうくにち;tanggal 19;12;ir1:n5
+20日;はつか;tanggal 20;12;ir1:n5
+21日;にじゅういちにち;tanggal 21;12;ir1:n5
+22日;にじゅうににち;tanggal 22;12;ir1:n5
+23日;にじゅうさんにち;tanggal 23;12;ir1:n5
+24日;にじゅうよっか;tanggal 24;12;ir1:n5
+25日;にじゅうごにち;tanggal 25;12;ir1:n5
+26日;にじゅうろくにち;tanggal 26;12;ir1:n5
+27日;にじゅうしちにち;tanggal 27;12;ir1:n5
+28日;にじゅうはちにち;tanggal 28;12;ir1:n5
+29日;にじゅうくにち;tanggal 29;12;ir1:n5
+30日;さんじゅうにち;tanggal 30;12;ir1:n5
+31日;さんじゅういちにち;tanggal 31;12;ir1:n5
+何日;なんにち;tanggal berapa;12;ir1:n5
+今日;きょう;hari ini;12;ir1:n5
+明日;あした;besok;12;ir1:n4
+あさって;あさって;lusa;12;ir1:n0
+今週;こんしゅう;minggu ini;12;ir1:n4
+来週;らいしゅう;minggu depan;12;ir1:n4
+パーティー;パーティー;pesta;12;ir1:n0
+空手;からて;karate;12;ir1:n4
+試合;しあい;pertandingan;12;ir1:n3
+忘年会;ぼうねんかい;pesta akhir tahun;12;ir1:n3
+もちろん;もちろん;tentu saja;12;ir1:n0
+楽しみですね;たのしみですね;Saya menantikannya.;12;ir1:n4
+そうですね;そうですね;Ya, benar, Saya setuju (digunakan ketika pembicara setuju dengan ucapan lawan bicaranya);12;ir1:n0
+まだわかりません;まだわかりません;Saya belum tahu.;12;ir1:n0
+残念です;ざんねんです;Sayang sekali.;12;ir1:n3
+焼肉;やきにく;yakiniku (daging panggang khas Jepang);12;ir1:n2
+ハイキング;ハイキング;haiking (menjelajah, mendaki gunung);12;ir1:n0
+飲み会;のみかい;pesta minum;12;ir1:n4
+いっしょに;いっしょに;bersama-sama;12;ir1:n0
+今度;こんど;nanti, yang akan datang;12;ir1:n4
+今晩;こんばん;malam ini;12;ir1:n3
+また今度;またこんど;Mungkin lain kali.;12;ir1:n4
+男はつらいよ;おとこはつらいよ;Otoko wa Tsurai yo ("Sulitnya Menjadi Pria");12;ir1:n5
+いいね！;いいね！;Boleh!;12;ir1:n0
+残念;ざんねん;Sayang sekali.;12;ir1:n3
+了解;りょうかい;Oke.;12;ir1:n2
+ぐすん;ぐすん;Hiks.;12;ir1:n0
+電車;でんしゃ;kereta;13;ir1:n5
+バス;バス;bus;13;ir1:n0
+タクシー;タクシー;taksi;13;ir1:n0
+地下鉄;ちかてつ;kereta bawah tanah;13;ir1:n2
+飛行機;ひこうき;pesawat;13;ir1:n3
+船;ふね;kapal;13;ir1:n3
+～に乗ります;～にのります;Saya naik ～.;13;ir1:n3
+空港;くうこう;bandara;13;ir1:n3
+市民病院;しみんびょういん;rumah sakit kota;13;ir1:n3
+～番;～ばん;nomor ～;13;ir1:n3
+駅;えき;stasiun;13;ir1:n4
+～番線;～ばんせん;peron nomor ～;13;ir1:n2
+～番乗り場;～ばんのりば;dermaga nomor ～;13;ir1:n3
+快速;かいそく;(kereta) ekspres;13;ir1:n2
+各駅停車／各停;かくえきていしゃ／かくてい;(kereta) lokal (berhenti di setiap stasiun);13;ir1:n2
+この;この;～ ini;13;ir1:n0
+反対側;はんたいがわ;sisi sebaliknya, sisi yang berlawanan;13;ir1:n3
+何番線;なんばんせん;peron berapa;13;ir1:n2
+先;さき;setelahnya, sesudahnya;13;ir1:n5
+止まる／止まります;とまる／とまります;berhenti;13;ir1:n4
+乗る／乗ります;のる／のります;naik (kendaraan);13;ir1:n3
+次;つぎ;berikutnya;13;ir1:n3
+止まりません;とまりません;Tidak berhenti.;13;ir1:n4
+乗ってください;のってください;Silakan naik ～.;13;ir1:n3
+終点;しゅうてん;pemberhentian terakhir;13;ir1:n3
+～線（武蔵山線）;～せん（むさしやません）;jalur ～, rute ～ (contoh: Jalur Musashiyama);13;ir1:n2
+乗り換え／お乗換え;のりかえ／おのりかえ;transit;13;ir1:n2
+出口／お出口;でぐち／おでぐち;pintu keluar;13;ir1:n4
+右側;みぎがわ;sebelah kanan;13;ir1:n3
+はい、そうです;はい、そうです;Ya, benar.;13;ir1:n0
+お忘れ物のないよう、お降りください;おわすれもののないよう、おおりください;Periksa kembali agar tidak ada barang yang tertinggal ketika Anda turun. (ragam hormat);13;ir1:n3
+～時間;～じかん;～ jam;13;ir1:n5
+1時間;いちじかん;satu jam;13;ir1:n5
+1時間半;いちじかんはん;1,5 jam;13;ir1:n5
+2時間;にじかん;dua jam;13;ir1:n5
+～分;～ふん／ぷん;～ menit (menunjukkan lamanya waktu);13;ir1:n1
+10分;じゅっぷん;10 menit;13;ir1:n1
+20分;にじゅっぷん;20 menit;13;ir1:n1
+30分;さんじゅっぷん;30 menit;13;ir1:n1
+40分;よんじゅっぷん;40 menit;13;ir1:n1
+50分;ごじゅっぷん;50 menit;13;ir1:n1
+1分;いっぷん;1 menit;13;ir1:n1
+2分;にふん;2 menit;13;ir1:n1
+3分;さんぷん;3 menit;13;ir1:n1
+4分;よんふん／よんぷん;4 menit;13;ir1:n1
+5分;ごふん;5 menit;13;ir1:n1
+6分;ろっぷん;6 menit;13;ir1:n1
+7分;ななふん;7 menit;13;ir1:n1
+8分;はちふん／はっぷん;8 menit;13;ir1:n1
+9分;きゅうふん;9 menit;13;ir1:n1
+どうやって;どうやって;bagaimana;13;ir1:n0
+自転車;じてんしゃ;sepeda;13;ir1:n4
+バイク;バイク;sepeda motor;13;ir1:n0
+車;くるま;mobil;13;ir1:n5
+歩いて;あるいて;jalan kaki;13;ir1:n4
+どのぐらい;どのぐらい;berapa lama;13;ir1:n0
+かかる／かかります;かかる／かかります;memakan (waktu), membutuhkan (waktu);13;ir1:n0
+～ぐらい（10分ぐらい）;～ぐらい（じゅっぷんぐらい）;sekitar ～, kurang lebih ～ (contoh: sekitar 10 menit);13;ir1:n1
+雨の日;あめのひ;ketika hujan, di hari hujan;13;ir1:n5
+大変ですね;たいへんですね;Berat juga, ya.;13;ir1:n3
+乗る／乗ります;のる／のります;naik (kendaraan);13;ir1:n3
+降りる／降ります;おりる／おります;turun (kendaraan);13;ir1:n3
+乗り換える／乗り換えます;のりかえる／のりかえます;transit, berganti kendaraan;13;ir1:n2
+市場;いちば;pasar;13;ir1:n3
+市役所;しやくしょ;balai kota;13;ir1:n3
+バスセンター;バスセンター;terminal bus;13;ir1:n0
+～モール（さくらモール）;～モール（さくらモール）;mal ～ (contoh: Mal Sakura);13;ir1:n0
+東口;ひがしぐち;pintu timur;13;ir1:n4
+西口;にしぐち;pintu barat;13;ir1:n4
+南口;みなみぐち;pintu selatan;13;ir1:n4
+北口;きたぐち;pintu utara;13;ir1:n4
+改札;かいさつ;gerbang tiket;13;ir1:n2
+エスカレーター;エスカレーター;eskalator;13;ir1:n0
+エレベーター;エレベーター;lift;13;ir1:n0
+待合室;まちあいしつ;ruang tunggu;13;ir1:n3
+バス乗り場;バスのりば;halte bus;13;ir1:n3
+タクシー乗り場;タクシーのりば;pangkalan taksi, tempat naik taksi;13;ir1:n3
+トイレ;トイレ;toilet;14;ir1:n0
+コインロッカー;コインロッカー;loker koin;14;ir1:n0
+自動販売機;じどうはんばいき;mesin penjual otomatis;14;ir1:n2
+コンビニ;コンビニ;minimarket (pasar swalayan kecil);14;ir1:n0
+ATM;エーティーエム;ATM (Anjungan Tunai Mandiri);14;ir1:n0
+喫煙所;きつえんじょ;ruang merokok,  area merokok;14;ir1:n2
+あちら;あちら;di sana;14;ir1:n0
+飲み物;のみもの;minuman;14;ir1:n4
+あっち;あっち;di sana (bentuk kasual dari あちら);14;ir1:n0
+ビル;ビル;gedung;14;ir1:n0
+奥;おく;di dalam;14;ir1:n2
+すいません;すいません;Sori. (bentuk informal dari すみません);14;ir1:n0
+ちょっと、わからないですね;ちょっと、わからないですね;Saya kurang tahu.;14;ir1:n0
+上;うえ;atas;14;ir1:n5
+下;した;bawah;14;ir1:n5
+前;まえ;depan;14;ir1:n5
+後ろ;うしろ;belakang;14;ir1:n5
+中;なか;dalam;14;ir1:n5
+横;よこ;samping;14;ir1:n3
+エスカレーター;エスカレーター;eskalator;14;ir1:n0
+改札;かいさつ;gerbang tiket;14;ir1:n2
+インフォメーション;インフォメーション;bagian informasi;14;ir1:n0
+そっち;そっち;di situ;14;ir1:n0
+すぐ;すぐ;segera;14;ir1:n0
+わかった;わかった;Baik, saya mengerti. (bentuk kasual dari わかりました);14;ir1:n0
+待っててください;まっててください;Tolong tunggu.;14;ir1:n4
+古い;ふるい;tua,  lama;14;ir1:n4
+新しい;あたらしい;baru;14;ir1:n4
+大きい;おおきい;besar;14;ir1:n5
+大きな;おおきな;besar;14;ir1:n5
+小さい;ちいさい;kecil;14;ir1:n5
+小さな;ちいさな;kecil;14;ir1:n5
+高い;たかい;tinggi;14;ir1:n5
+低い;ひくい;rendah;14;ir1:n2
+にぎやか（な）;にぎやか（な）;ramai;14;ir1:n0
+静か（な）;しずか（な）;sepi,  tenang;14;ir1:n3
+広い;ひろい;luas;14;ir1:n4
+せまい;せまい;sempit;14;ir1:n0
+きれい（な）;きれい（な）;bersih;14;ir1:n0
+きたない;きたない;kotor;14;ir1:n0
+商店街;しょうてんがい;daerah pertokoan;14;ir1:n1
+お寺;おてら;kuil Buddha;14;ir1:n2
+野球場;やきゅうじょう;stadion bisbol;14;ir1:n3
+公園;こうえん;taman;14;ir1:n3
+川;かわ;sungai;14;ir1:n5
+通り;とおり;jalan;14;ir1:n4
+有名（な）;ゆうめい（な）;terkenal;14;ir1:n4
+あれ;あれ;itu;14;ir1:n0
+建物;たてもの;bangunan;14;ir1:n4
+～ドーム（札幌ドーム）;～ドーム（さっぽろドーム）;~ Dome (sebutan untuk bangunan berkubah. Contoh : Sapporo Dome);14;ir1:n1
+～でしょう？;～でしょう？;~ ya, kan? (ungkapan yang digunakan untuk mendapatkan persetujuan/kesamaan pendapat dari lawan bicara);14;ir1:n0
+たくさん;たくさん;banyak;14;ir1:n0
+見て;みて;Lihat itu!;14;ir1:n5
+そうだね;そうだね;Iya, ya. / Benar juga. (bentuk kasual dari そうですね);14;ir1:n0
+危険;きけん;bahaya;14;ir1:n3
+注意;ちゅうい;Perhatian!;14;ir1:n4
+通行止;つうこうどめ;Jalan ditutup;14;ir1:n4
+工事中;こうじちゅう;Sedang ada pekerjaan/pembangunan;14;ir1:n4
+たばこ;たばこ;rokok;14;ir1:n0
+銀行;ぎんこう;bank;14;ir1:n4
+酒;さけ;minuman beralkohol;14;ir1:n3
+定休日;ていきゅうび;Hari libur tetap,  Tutup setiap hari ~;14;ir1:n3
+準備中;じゅんびちゅう;Dalam persiapan;14;ir1:n2
+営業中;えいぎょうちゅう;Buka;14;ir1:n2
+祭 (日);さい (じつ);Hari raya;14;ir1:n2
+祝 (日);しゅく (じつ);Hari libur nasional;14;ir1:n2
+24時間営業;にじゅうよじかんえいぎょう;Buka 24 jam;14;ir1:n2
+年中無休;ねんじゅうむきゅう;Buka sepanjang tahun;14;ir1:n1
+営業時間;えいぎょうじかん;jam operasional;14;ir1:n2
+ランチ;ランチ;makan siang;14;ir1:n0
+ディナー;ディナー;makan malam;14;ir1:n0
+受付時間;うけつけじかん;jam penerimaan pesanan;14;ir1:n3
+休;やすみ;libur,  tutup;14;ir1:n5
+コンビニ;コンビニ;minimarket (pasar swalayan kecil);15;ir1:n0
+スーパー;スーパー;supermarket (pasar swalayan);15;ir1:n0
+100円ショップ;ひゃくえんショップ;toko serba 100-yen;15;ir1:n5
+ドラッグストア;ドラッグストア;toko obat;15;ir1:n0
+ショッピングセンター;ショッピングセンター;pusat perbelanjaan;15;ir1:n0
+ショッピングモール;ショッピングモール;mal;15;ir1:n0
+ホームセンター;ホームセンター;home center (toko perlengkapan rumah tangga);15;ir1:n0
+デパート;デパート;department store (pasaraya);15;ir1:n0
+電池;でんち;baterai;15;ir1:n2
+洗濯ばさみ;せんたくばさみ;jepitan baju;15;ir1:n2
+浴衣;ゆかた;yukata (kimono berbahan katun yang digunakan saat musim panas);15;ir1:n2
+懐中電灯;かいちゅうでんとう;senter;15;ir1:n1
+弁当箱／お弁当箱;べんとうばこ／おべんとうばこ;kotak bekal;15;ir1:n1
+ココナッツミルク;ココナッツミルク;santan;15;ir1:n0
+ほしい;ほしい;ingin;15;ir1:n0
+駅前;えきまえ;di depan stasiun;15;ir1:n4
+店／お店;みせ／おみせ;toko;15;ir1:n4
+～とか;～とか;misalnya (digunakan ketika memberikan contoh);15;ir1:n0
+どこで買えますか？;どこでかえますか？;Di mana saya bisa membelinya?;15;ir1:n4
+しょうゆ;しょうゆ;shoyu (kecap asin);15;ir1:n0
+スカート;スカート;rok;15;ir1:n0
+蛍光灯;けいこうとう;lampu neon;15;ir1:n1
+ダンベル;ダンベル;dumbel;15;ir1:n0
+～階;～かい;lantai ～;15;ir1:n2
+暮らし;くらし;(perlengkapan) rumah;15;ir1:n3
+フロア;フロア;lantai;15;ir1:n0
+服;ふく;pakaian;15;ir1:n4
+メンズ;メンズ;pria (men's);15;ir1:n0
+紳士;しんし;pria;15;ir1:n1
+レディース;レディース;wanita (ladies');15;ir1:n0
+婦人;ふじん;wanita;15;ir1:n3
+食品;しょくひん;makanan;15;ir1:n4
+屋上駐車場;おくじょうちゅうしゃじょう;tempat parkir atap (rooftop);15;ir1:n2
+生活用品;せいかつようひん;kebutuhan sehari-hari;15;ir1:n3
+家電;かでん;peralatan elektronik;15;ir1:n4
+家具;かぐ;perabot;15;ir1:n3
+インテリア;インテリア;perabot interior;15;ir1:n0
+おもちゃ;おもちゃ;mainan;15;ir1:n0
+文房具;ぶんぼうぐ;alat tulis;15;ir1:n1
+雑貨;ざっか;pernak-pernik;15;ir1:n2
+肌着;はだぎ;pakaian dalam;15;ir1:n2
+靴;くつ;sepatu;15;ir1:n3
+バッグ;バッグ;tas;15;ir1:n0
+スポーツ用品;スポーツようひん;peralatan olahraga;15;ir1:n4
+服飾雑貨;ふくしょくざっか;aksesori;15;ir1:n1
+化粧品;けしょうひん;kosmetik;15;ir1:n1
+食料品;しょくりょうひん;produk makanan;15;ir1:n4
+酒;さけ;minuman beralkohol;15;ir1:n3
+銘店;めいてん;toko terkenal;15;ir1:n1
+ドライヤー;ドライヤー;pengering rambut;15;ir1:n0
+カメラ;カメラ;kamera;15;ir1:n0
+スマホケース;スマホケース;pelindung ponsel (case);15;ir1:n0
+延長コード;えんちょうコード;kabel sambungan listrik;15;ir1:n2
+何階;なんかい／なんがい;lantai berapa;15;ir1:n2
+こちら;こちら;di sebelah sini;15;ir1:n0
+～でございます;～でございます;bentuk sopan dari です;15;ir1:n0
+ご案内します／ご案内いたします;ごあんないします／ごあんないいたします;Akan saya antarkan. (ungkapan sopan);15;ir1:n1
+～になります;～になります;bentuk sopan dari です;15;ir1:n0
+1階;いっかい;lantai satu;15;ir1:n2
+2階;にかい;lantai dua;15;ir1:n2
+3階;さんかい／さんがい;lantai tiga;15;ir1:n2
+4階;よんかい;lantai empat;15;ir1:n2
+5階;ごかい;lantai lima;15;ir1:n2
+6階;ろっかい;lantai enam;15;ir1:n2
+7階;ななかい;lantai tujuh;15;ir1:n2
+8階;はちかい／はっかい;lantai delapan;15;ir1:n2
+9階;きゅうかい;lantai sembilan;15;ir1:n2
+10階;じゅっかい;lantai sepuluh;15;ir1:n2
+かっこいい;かっこいい;keren;15;ir1:n0
+かわいい;かわいい;lucu, imut;15;ir1:n0
+高い;たかい;mahal;15;ir1:n5
+安い;やすい;murah;15;ir1:n4
+おもしろい;おもしろい;menarik;15;ir1:n0
+きれい（な）;きれい（な）;cantik;15;ir1:n0
+すてき（な）;すてき（な）;sangat bagus, luar biasa;15;ir1:n0
+おしゃれ（な）;おしゃれ（な）;modis, bergaya;15;ir1:n0
+変（な）;へん（な）;aneh;15;ir1:n3
+バッグ;バッグ;tas;15;ir1:n0
+かばん;かばん;tas;15;ir1:n0
+靴下;くつした;kaus kaki;15;ir1:n3
+シャツ;シャツ;kemeja;15;ir1:n0
+ズボン;ズボン;celana panjang;15;ir1:n0
+パンツ;パンツ;celana;15;ir1:n0
+Tシャツ;ティーシャツ;kaus;15;ir1:n0
+ワンピース;ワンピース;baju terusan;15;ir1:n0
+くつ;くつ;sepatu;15;ir1:n0
+ネクタイ;ネクタイ;dasi;15;ir1:n0
+帽子;ぼうし;topi;15;ir1:n2
+傘;かさ;payung;15;ir1:n1
+ジャケット;ジャケット;jaket;15;ir1:n0
+コート;コート;mantel;15;ir1:n0
+それに;それに;selain itu;15;ir1:n0
+本当！;ほんとう！;Iya, benar!;15;ir1:n3
+入口;いりぐち;pintu masuk;15;ir1:n4
+出口;でぐち;pintu keluar;15;ir1:n4
+化粧室;けしょうしつ;kamar kecil;15;ir1:n1
+非常口;ひじょうぐち;pintu darurat;15;ir1:n3
+お客様;おきゃくさま;pelanggan (ragam hormat);15;ir1:n3
+押す／押;おす;dorong;15;ir1:n3
+引く／引;ひく;tarik;15;ir1:n3
+開く／開;ひらく;buka;15;ir1:n4
+閉じる／閉;とじる;tutup;15;ir1:n3
+上り;のぼり;naik;15;ir1:n5
+下り;くだり;turun;15;ir1:n5
+1円;いちえん;1 yen;16;ir1:n5
+5円;ごえん;5 yen;16;ir1:n5
+10円;じゅうえん;10 yen;16;ir1:n5
+50円;ごじゅうえん;50 yen;16;ir1:n5
+100;ひゃく;seratus;16;ir1:n0
+200;にひゃく;dua ratus;16;ir1:n0
+300;さんびゃく;tiga ratus;16;ir1:n0
+400;よんひゃく;empat ratus;16;ir1:n0
+500;ごひゃく;lima ratus;16;ir1:n0
+600;ろっぴゃく;enam ratus;16;ir1:n0
+700;ななひゃく;tujuh ratus;16;ir1:n0
+800;はっぴゃく;delapan ratus;16;ir1:n0
+900;きゅうひゃく;sembilan ratus;16;ir1:n0
+1,000;せん;seribu;16;ir1:n0
+2,000;にせん;dua ribu;16;ir1:n0
+3,000;さんぜん;tiga ribu;16;ir1:n0
+4,000;よんせん;empat ribu;16;ir1:n0
+5,000;ごせん;lima ribu;16;ir1:n0
+6,000;ろくせん;enam ribu;16;ir1:n0
+7,000;ななせん;tujuh ribu;16;ir1:n0
+8,000;はっせん;delapan ribu;16;ir1:n0
+9,000;きゅうせん;sembilan ribu;16;ir1:n0
+10,000;いちまん;sepuluh ribu;16;ir1:n0
+100円;ひゃくえん;100 yen;16;ir1:n5
+200円;にひゃくえん;200 yen;16;ir1:n5
+300円;さんびゃくえん;300 yen;16;ir1:n5
+400円;よんひゃくえん;400 yen;16;ir1:n5
+500円;ごひゃくえん;500 yen;16;ir1:n5
+600円;ろっぴゃくえん;600 yen;16;ir1:n5
+700円;ななひゃくえん;700 yen;16;ir1:n5
+800円;はっぴゃくえん;800 yen;16;ir1:n5
+900円;きゅうひゃくえん;900 yen;16;ir1:n5
+1,000円;せんえん;1,000 yen;16;ir1:n5
+2,000円;にせんえん;2,000 yen;16;ir1:n5
+3,000円;さんぜんえん;3,000 yen;16;ir1:n5
+4,000円;よんせんえん;4,000 yen;16;ir1:n5
+5,000円;ごせんえん;5,000 yen;16;ir1:n5
+6,000円;ろくせんえん;6,000 yen;16;ir1:n5
+7,000円;ななせんえん;7,000 yen;16;ir1:n5
+8,000円;はっせんえん;8,000 yen;16;ir1:n5
+9,000円;きゅうせんえん;9,000 yen;16;ir1:n5
+10,000円;いちまんえん;10,000 yen;16;ir1:n5
+いくら;いくら;berapa (menanyakan harga);16;ir1:n0
+カレンダー;カレンダー;kalender;16;ir1:n0
+お菓子;おかし;kue, kudapan;16;ir1:n2
+招き猫;まねきねこ;maneki-neko (pajangan kucing pembawa keberuntungan);16;ir1:n3
+Tシャツ;ティーシャツ;kaus;16;ir1:n0
+その;その;~ itu (di dekat pendengar);16;ir1:n0
+それ;それ;itu (dekat pembicara);16;ir1:n0
+この;この;~ ini (dekat pembicara);16;ir1:n0
+これ;これ;ini (dekat pembicara);16;ir1:n0
+あの;あの;~ itu (jauh dari pembicara dan pendengar);16;ir1:n0
+あれ;あれ;itu (jauh dari pembicara dan pendengar);16;ir1:n0
+いいです;いいです;Tidak, terima kasih. (Digunakan ketika menolak sesuatu. Sama seperti けっこうです);16;ir1:n0
+たい焼き;たいやき;taiyaki (kue panggang berbentuk ikan kakap);16;ir1:n2
+コロッケ;コロッケ;korokke (kroket);16;ir1:n0
+シュウマイ;シュウマイ;shumai (dimsum/ pangsit kukus);16;ir1:n0
+ひき肉;ひきにく;daging giling;16;ir1:n4
+チョコレートケーキ;チョコレートケーキ;kue cokelat;16;ir1:n0
+チーズケーキ;チーズケーキ;kue keju;16;ir1:n0
+昆布;こんぶ;kombu (ganggang laut);16;ir1:n1
+たらこ;たらこ;tarako (telur ikan cod);16;ir1:n0
+梅;うめ;ume (acar plum);16;ir1:n1
+～個;～こ;~ buah (untuk menghitung benda kecil);16;ir1:n2
+～ｇ;～グラム;~ g (gram);16;ir1:n0
+～ずつ;～ずつ;masing-masing ~;16;ir1:n0
+かしこまりました;かしこまりました;Saya mengerti. (ragam hormat);16;ir1:n0
+1個;いっこ;1 buah;16;ir1:n2
+2個;にこ;2 buah;16;ir1:n2
+3個;さんこ;3 buah;16;ir1:n2
+4個;よんこ;4 buah;16;ir1:n2
+5個;ごこ;5 buah;16;ir1:n2
+6個;ろっこ;6 buah;16;ir1:n2
+7個;ななこ;7 buah;16;ir1:n2
+8個;はちこ / はっこ;8 buah;16;ir1:n2
+9個;きゅうこ;9 buah;16;ir1:n2
+10個;じゅっこ;10 buah;16;ir1:n2
+何個;なんこ;berapa buah;16;ir1:n2
+温める / 温めます;あたためる / あたためます;menghangatkan;16;ir1:n2
+袋;ふくろ;kantong belanja, tas belanja;16;ir1:n2
+Suica;スイカ;Suica (kartu prabayar yang digunakan untuk membayar biaya transportasi seperti kereta dan bus, serta untuk berbelanja);16;ir1:n0
+タッチする / タッチします;タッチする / タッチします;menempelkan, menyentuhkan;16;ir1:n0
+～は、どうしますか？;～は、どうしますか？;Bagaimana dengan ~?;16;ir1:n0
+だいじょうぶです;だいじょうぶです;Tidak usah. (Ungkapan untuk menolak suatu tawaran);16;ir1:n0
+～でお願いします;～でおねがいします;Saya ingin bayar dengan ~;16;ir1:n3
+タッチしてください;タッチしてください;Silakan tempelkan kartu Anda.;16;ir1:n0
+ありがとうございました;ありがとうございました;Terima kasih banyak. (Digunakan untuk menyatakan terima kasih atas sesuatu yang telah selesai dilakukan);16;ir1:n0
+こちら;こちら;ini (bentuk sopan);16;ir1:n0
+お次の方;おつぎのかた;Pelanggan berikutnya. (ragam hormat);16;ir1:n3
+おつけしますか？;おつけしますか？;Perlu saya tambahkan ~? (ragam hormat);16;ir1:n0
+お会計、～になります;おかいけい、～になります;Totalnya menjadi ~. (ragam hormat);16;ir1:n4
+おはし;おはし;sumpit;16;ir1:n0
+フォーク;フォーク;garpu;16;ir1:n0
+ストロー;ストロー;sedotan;16;ir1:n0
+クレジットカード;クレジットカード;kartu kredit;16;ir1:n0
+Edy;エディー;Edy (kartu pembayaran elektronik);16;ir1:n0
+PayPay;ペイペイ;PayPay (metode pembayaran elektronik berbasis kode QR);16;ir1:n0
+～割引（二割引）;～わりびき（にわりびき）;~ diskon sepersepuluh (contoh: diskon 20%);16;ir1:n3
+表示価格より;ひょうじかかくより;dari harga tertera;16;ir1:n1
+若鶏;わかどり;ayam muda;16;ir1:n1
+税込;ぜいこみ;termasuk pajak;16;ir1:n2
+～％引（10％引）;～パーセントびき（じゅっパーセントびき）;~ diskon % (contoh: diskon 10%);16;ir1:n3
+全品;ぜんぴん;semua barang (all items);16;ir1:n3
+一人暮らし;ひとりぐらし;tinggal sendiri;16;ir1:n3
+応援;おうえん;dukungan, bantuan;16;ir1:n1
+セール;セール;obral;16;ir1:n0
+小型;こがた;ukuran kecil;16;ir1:n2
+さらに;さらに;tambahan lagi, selain itu;16;ir1:n0
+ポイントサービス;ポイントサービス;poin penghargaan (reward points);16;ir1:n0
+～円引（50円引）;～えんびき（ごじゅうえんびき）;diskon ~ yen (contoh: diskon 50 yen);16;ir1:n3
+苺ショートケーキ;いちごショートケーキ;kue bolu stroberi (strawberry shortcake);16;ir1:n1
+本日;ほんじつ;hari ini;16;ir1:n5
+値下げ価格;ねさげかかく;harga setelah diskon;16;ir1:n1
+税抜;ぜいぬき;belum termasuk pajak;16;ir1:n2
+半額;はんがく;setengah harga;16;ir1:n2
+レジにて;レジにて;di kasir;16;ir1:n0
+国産銘柄鶏胸肉;こくさんめいがらとりむねにく;dada ayam lokal;16;ir1:n1
+～円均一（50円均一）;～えんきんいつ（ごじゅうえんきんいつ）;semua ~ yen (contoh: semua 50 yen);16;ir1:n2
+ワゴン;ワゴン;troli;16;ir1:n0
+商品;しょうひん;produk;16;ir1:n3
+休み;やすみ;libur;17;ir1:n5
+運動する／運動します;うんどうする／うんどうします;berolahraga;17;ir1:n4
+服;ふく;pakaian;17;ir1:n4
+買う／買います;かう／かいます;membeli;17;ir1:n4
+飲みに行く／飲みに行きます;のみにいく／のみにいきます;pergi minum (minuman beralkohol);17;ir1:n4
+家族;かぞく;keluarga;17;ir1:n4
+話す／話します;はなす／はなします;berbicara, bercakap-cakap;17;ir1:n5
+コンサート;コンサート;konser;17;ir1:n0
+ゆっくりする／ゆっくりします;ゆっくりする／ゆっくりします;bersantai;17;ir1:n0
+掃除する／掃除します;そうじする／そうじします;bersih-bersih;17;ir1:n2
+寝る／寝ます;ねる／ねます;tidur;17;ir1:n3
+ジム;ジム;gym, pusat kebugaran;17;ir1:n0
+週末;しゅうまつ;akhir pekan;17;ir1:n3
+オーケストラ;オーケストラ;orkestra;17;ir1:n0
+昨日;きのう;kemarin;17;ir1:n3
+土日;どにち;Sabtu dan Minggu;17;ir1:n5
+何も;なにも;apa pun;17;ir1:n5
+ネットで;ネットで;online, daring;17;ir1:n0
+勉強;べんきょう;belajar;17;ir1:n4
+洗濯;せんたく;cuci baju;17;ir1:n2
+掃除;そうじ;bersih-bersih;17;ir1:n2
+国際フェスティバル;こくさいフェスティバル;festival internasional;17;ir1:n3
+楽しい;たのしい;menyenangkan;17;ir1:n4
+おもしろい;おもしろい;menarik;17;ir1:n0
+いい;いい;bagus;17;ir1:n0
+まあまあ（な）;まあまあ（な）;lumayan;17;ir1:n0
+大変（な）;たいへん（な）;sulit, berat;17;ir1:n3
+一日中;いちにちじゅう;sepanjang hari;17;ir1:n5
+どこにも;どこにも;mana pun;17;ir1:n0
+よかった（です）;よかった（です）;Bagus.;17;ir1:n0
+ゴジラ;ゴジラ;Godzilla;17;ir1:n0
+すばらしい;すばらしい;menakjubkan, luar biasa;17;ir1:n0
+つまらない;つまらない;membosankan;17;ir1:n0
+いまいち（な）;いまいち（な）;tidak begitu bagus;17;ir1:n0
+家族で;かぞくで;dengan keluarga;17;ir1:n4
+水族館;すいぞくかん;akuarium raksasa (sea world);17;ir1:n4
+ペンギン;ペンギン;penguin;17;ir1:n0
+そして;そして;kemudian;17;ir1:n0
+クラゲ;クラゲ;ubur-ubur;17;ir1:n0
+気持ちいい;きもちいい;nyaman, menyegarkan;17;ir1:n4
+コスモス;コスモス;kenikir;17;ir1:n0
+花;はな;bunga;17;ir1:n4
+気持ちよかったです;きもちよかったです;Rasanya nyaman.;17;ir1:n4
+多い;おおい;banyak;17;ir1:n4
+まだまだ;まだまだ;masih;17;ir1:n0
+元気（な）;げんき（な）;sehat, bugar;17;ir1:n4
+お祝い;おいわい;perayaan;17;ir1:n2
+寿司屋;すしや;restoran sushi;17;ir1:n1
+二人で;ふたりで;berdua;17;ir1:n5
+おいしい;おいしい;enak, lezat;17;ir1:n0
+チケット;チケット;tiket;17;ir1:n0
+大人;おとな／だいにん;dewasa;17;ir1:n5
+高校生;こうこうせい;siswa SMA;17;ir1:n5
+小・中学生;しょうちゅうがくせい;siswa SD dan SMP;17;ir1:n5
+発売中;はつばいちゅう;tersedia (sedang dijual);17;ir1:n4
+入館券;にゅうかんけん;tiket masuk;17;ir1:n2
+一般;いっぱん;umum;17;ir1:n2
+大学生;だいがくせい;mahasiswa;17;ir1:n5
+中人;ちゅうにん;remaja;17;ir1:n5
+小人;しょうにん;anak-anak;17;ir1:n5
+つり銭のお取り忘れに注意！;つりせんのおとりわすれにちゅうい！;Jangan lupa mengambil kembalian Anda!;17;ir1:n1
+料金;りょうきん;tarif;17;ir1:n4
+～歳以上（十二歳以上）;～さいいじょう（じゅうにさいいじょう）;usia ～ tahun ke atas (contoh: usia 12 tahun ke atas);17;ir1:n3
+古総湯;こそうゆ;Pemandian Umum Kosoyu (pemandiam umum di Onsen Yamashiro, Prefektur Ishikawa);17;ir1:n2
+営業時間;えいぎょうじかん;jam operasional;17;ir1:n2
+休業日;きゅうぎょうび;hari libur;17;ir1:n4
+入浴;にゅうよく;mandi;17;ir1:n2
+毎月;まいつき;setiap bulan;17;ir1:n5
+第～▲曜日（第四水曜日）;だい～▲ようび（だいよんすいようび）;hari ～ ke ～ (contoh: hari Rabu keempat);17;ir1:n1
+正午;しょうご;jam 12 siang, tengah hari;17;ir1:n4
+食べ放題;たべほうだい;makan sepuasnya;17;ir1:n3
+飲み放題;のみほうだい;minum sepuasnya;17;ir1:n3
+～名様より（2名様より）;～めいさまより（にめいさまより）;～ orang atau lebih (ragam hormat) (contoh: 2 orang atau lebih);17;ir1:n3
+お1人様;おひとりさま;satu orang (ragam hormat);17;ir1:n3
+プラス;プラス;tambah;17;ir1:n0
+全品;ぜんぴん;semua barang (all items);17;ir1:n3
+～付き（飲み放題付き）;～つき（のみほうだいつき）;termasuk ～ (contoh: termasuk minum sepuasnya);17;ir1:n3
+パック;パック;paket;17;ir1:n0
+ブース;ブース;stan, ruangan bersekat;17;ir1:n0
+個室;こしつ;ruangan privat;17;ir1:n2
+料金システム;りょうきんシステム;sistem tarif;17;ir1:n4
+基本料金;きほんりょうきん;tarif dasar;17;ir1:n1
+延長料金;えんちょうりょうきん;biaya perpanjangan;17;ir1:n2
+～毎に（10分毎に）;～ごとに（じゅっぷんごとに）;per ～ (contoh: per 10 menit);17;ir1:n1
+いつでも;いつでも;kapan pun, kapan saja;17;ir1:n0
+ナイト;ナイト;malam;17;ir1:n0
+鍵付き;かぎつき;dengan kunci;17;ir1:n1
+席;せき;kursi;17;ir1:n3
+完全（な）;かんぜん（な）;benar-benar, sepenuhnya;17;ir1:n3
+着く／着きます;つく／つきます;tiba, sampai;17;ir1:n4
+はじめて;はじめて;pertama kalinya;17;ir1:n0
+また;また;lagi;17;ir1:n0
+着きました;つきました;Saya sudah sampai.;17;ir1:n4
+旅行する／旅行します;りょこうする／りょこうします;berwisata, bepergian;18;ir1:n4
+友だち;ともだち;teman;18;ir1:n5
+会う／会います;あう／あいます;bertemu;18;ir1:n4
+行く／行きます;いく／いきます;pergi;18;ir1:n5
+炊飯器;すいはんき;penanak nasi;18;ir1:n1
+買う／買います;かう／かいます;membeli;18;ir1:n4
+うち;うち;rumah;18;ir1:n0
+もうすぐ;もうすぐ;sebentar lagi;18;ir1:n0
+夏休み;なつやすみ;libur musim panas;18;ir1:n4
+広島;ひろしま;Hiroshima;18;ir1:n2
+連休;れんきゅう;libur panjang;18;ir1:n3
+どこか;どこか;ke suatu tempat;18;ir1:n0
+ゴールデンウィーク;ゴールデンウィーク;Golden Week;18;ir1:n0
+予定;よてい;rencana;18;ir1:n3
+池袋;いけぶくろ;Ikebukuro;18;ir1:n2
+ディズニーランド;ディズニーランド;Disneyland;18;ir1:n0
+富士山;ふじさん;Gunung Fuji;18;ir1:n1
+登る／登ります;のぼる／のぼります;mendaki;18;ir1:n3
+京都;きょうと;Kyoto;18;ir1:n3
+神社;じんじゃ;kuil Shinto;18;ir1:n3
+新幹線;しんかんせん;Shinkansen (kereta peluru);18;ir1:n1
+雪;ゆき;salju;18;ir1:n3
+見る／見ます;みる／みます;melihat, menonton;18;ir1:n5
+どら焼き;どらやき;dorayaki (kue yang berisi pasta kacang merah);18;ir1:n2
+食べる／食べます;たべる／たべます;makan;18;ir1:n5
+温泉;おんせん;onsen (kolam pemandian air panas);18;ir1:n2
+入る／入ります;はいる／はいります;masuk;18;ir1:n5
+お土産;おみやげ;oleh-oleh, buah tangan;18;ir1:n3
+ぜひ;ぜひ;harus;18;ir1:n0
+ほかに;ほかに;selain itu;18;ir1:n0
+あと;あと;dan, juga;18;ir1:n0
+どうして;どうして;mengapa, kenapa;18;ir1:n0
+行って;いって;Anda harus pergi, Pergilah.;18;ir1:n5
+新宿;しんじゅく;Shinjuku;18;ir1:n3
+須賀神社;すがじんじゃ;Kuil Suga;18;ir1:n1
+君の名は。;きみのなは;Kimi no Na wa (Your Name);18;ir1:n3
+ドラえもん;ドラえもん;Doraemon;18;ir1:n0
+写真;しゃしん;foto;18;ir1:n4
+動画;どうが;video;18;ir1:n4
+友達をタグ付け;ともだちをタグづけ;tandai orang;18;ir1:n3
+気分;きぶん;perasaan;18;ir1:n1
+アクティビティ;アクティビティ;aktivitas;18;ir1:n0
+チェックイン;チェックイン;singgah;18;ir1:n0
+露天風呂;ろてんぶろ;kolam berendam di alam terbuka (onsen outdoor);18;ir1:n1
+それに;それに;selain itu;18;ir1:n0
+景色;けしき;pemandangan;18;ir1:n3
+それから;それから;kemudian;18;ir1:n0
+鶏;とり;ayam;18;ir1:n1
+でも;でも;tetapi;18;ir1:n0
+それは、よかったですね;それは、よかったですね;Wah, boleh juga. / Kedengarannya bagus, ya.;18;ir1:n0
+別府温泉;べっぷおんせん;Onsen Beppu (area kolam pemandian air panas);18;ir1:n2
+先輩;せんぱい;kakak tingkat, senior;1;ir2.1:n1
+後輩;こうはい;adik tingkat, junior;1;ir2.1:n1
+知り合い;しりあい;kenalan;1;ir2.1:n3
+久しぶり;ひさしぶり;sudah lama tidak berjumpa;1;ir2.1:n2
+元気（な）;げんき（な）;sehat;1;ir2.1:n4
+おかげさまで;おかげさまで;Terima kasih.;1;ir2.1:n0
+半年;はんとし;setengah tahun;1;ir2.1:n5
+１年;いちねん;satu tahun;1;ir2.1:n5
+先月;せんげつ;bulan lalu;1;ir2.1:n5
+去年;きょねん;tahun lalu;1;ir2.1:n4
+生活;せいかつ;kehidupan;1;ir2.1:n3
+もう;もう;sudah;1;ir2.1:n0
+慣れる;なれる;terbiasa, betah;1;ir2.1:n3
+ちょうど;ちょうど;pas, tepat;1;ir2.1:n0
+なんとか;なんとか;lumayan;1;ir2.1:n0
+まだ;まだ;belum;1;ir2.1:n0
+～になる（１年になる）;～になる（いちねんになる）;sudah ~tahun/bulan (Sudah setahun saya di Jepang.);1;ir2.1:n5
+～か月;～かげつ;~bulan;1;ir2.1:n5
+１か月;いっかげつ;satu bulan;1;ir2.1:n5
+２か月;にかげつ;dua bulan;1;ir2.1:n5
+３か月;さんかげつ;tiga bulan;1;ir2.1:n5
+４か月;よんかげつ;empat bulan;1;ir2.1:n5
+５か月;ごかげつ;lima bulan;1;ir2.1:n5
+６か月;ろっかげつ;enam bulan;1;ir2.1:n5
+７か月;ななかげつ;tujuh bulan;1;ir2.1:n5
+８か月;はちかげつ;delapan bulan;1;ir2.1:n5
+９か月;きゅうかげつ;sembilan bulan;1;ir2.1:n5
+１０か月;じゅっかげつ;sepuluh bulan;1;ir2.1:n5
+１１か月;じゅういっかげつ;sebelas bulan;1;ir2.1:n5
+１２か月;じゅうにかげつ;dua belas bulan;1;ir2.1:n5
+～年;～ねん;~ tahun;1;ir2.1:n5
+２年;にねん;dua tahun;1;ir2.1:n5
+３年;さんねん;tiga tahun;1;ir2.1:n5
+４年;よねん;empat tahun;1;ir2.1:n5
+５年;ごねん;lima tahun;1;ir2.1:n5
+６年;ろくねん;enam tahun;1;ir2.1:n5
+７年;ななねん / しちねん;tujuh tahun;1;ir2.1:n5
+８年;はちねん;delapan tahun;1;ir2.1:n5
+９年;きゅうねん;sembilan tahun;1;ir2.1:n5
+１０年;じゅうねん;sepuluh tahun;1;ir2.1:n5
+先週;せんしゅう;minggu lalu;1;ir2.1:n4
+仕事;しごと;pekerjaan;1;ir2.1:n4
+レストラン;レストラン;restoran;1;ir2.1:n0
+働く;はたらく;bekerja;1;ir2.1:n3
+ホテル;ホテル;hotel;1;ir2.1:n0
+工場;こうじょう;pabrik;1;ir2.1:n4
+介護;かいご;pengasuhan, perawatan (lansia);1;ir2.1:n1
+仕事をする;しごとをする;bekerja;1;ir2.1:n4
+建設;けんせつ;konstruksi;1;ir2.1:n2
+野菜;やさい;sayur;1;ir2.1:n2
+作る;つくる;menanam (sayur), membuat;1;ir2.1:n4
+日本語学校;にほんごがっこう;Sekolah Bahasa Jepang;1;ir2.1:n5
+勉強する;べんきょうする;belajar;1;ir2.1:n4
+専門学校;せんもんがっこう;sekolah kejuruan;1;ir2.1:n2
+通う;かよう;pergi, menjalani pendidikan (sekolah);1;ir2.1:n4
+主婦;しゅふ;ibu rumah tangga;1;ir2.1:n3
+主夫;しゅふ;bapak rumah tangga;1;ir2.1:n3
+忙しい;いそがしい;sibuk;1;ir2.1:n3
+大変（な）;たいへん（な）;sulit, berat;1;ir2.1:n3
+疲れる;つかれる;capek, lelah;1;ir2.1:n3
+まあまあ（な）;まあまあ（な）;lumayan;1;ir2.1:n0
+楽しい;たのしい;menyenangkan;1;ir2.1:n4
+みんな;みんな;semua orang;1;ir2.1:n0
+親切（な）;しんせつ（な）;ramah, baik hati;1;ir2.1:n4
+勉強になる;べんきょうになる;belajar banyak hal;1;ir2.1:n4
+毎日;まいにち;setiap hari;1;ir2.1:n5
+学生;がくせい;siswa;1;ir2.1:n5
+プログラミング;プログラミング;pemrograman;1;ir2.1:n0
+趣味;しゅみ;hobi;2;ir2.1:n1
+音楽;おんがく;musik;2;ir2.1:n4
+聞く;きく;mendengar;2;ir2.1:n5
+本;ほん;buku;2;ir2.1:n5
+読む;よむ;membaca;2;ir2.1:n5
+もの（おいしいもの）;もの（おいしいもの）;makanan, sesuatu (yang enak);2;ir2.1:n0
+写真;しゃしん;foto;2;ir2.1:n4
+撮る;とる;mengambil (foto, video);2;ir2.1:n1
+ピアノ;ピアノ;piano;2;ir2.1:n0
+ギター;ギター;gitar;2;ir2.1:n0
+弾く;ひく;bermain (alat musik);2;ir2.1:n1
+おしゃべり;おしゃべり;bincang-bincang, obrolan;2;ir2.1:n0
+料理;りょうり;masak, masakan;2;ir2.1:n4
+旅行;りょこう;perjalanan;2;ir2.1:n4
+テニス;テニス;tenis;2;ir2.1:n0
+いろいろ（な）;いろいろ（な）;bermacam-macam;2;ir2.1:n0
+こと（好きなこと）;こと（すきなこと）;hal, sesuatu (cth: hal yang disukai);2;ir2.1:n3
+人;ひと;orang;2;ir2.1:n5
+話す;はなす;berbicara;2;ir2.1:n5
+特にない;とくにない;tidak ada yang khusus;2;ir2.1:n4
+野球;やきゅう;bisbol, kasti;2;ir2.1:n3
+バドミントン;バドミントン;bulu tangkis;2;ir2.1:n0
+アニメ;アニメ;anime (animasi);2;ir2.1:n0
+市;し;kota;2;ir2.1:n3
+体育館;たいいくかん;gedung olahraga;2;ir2.1:n3
+毎週;まいしゅう;setiap minggu;2;ir2.1:n4
+夕方;ゆうがた;sore hari;2;ir2.1:n4
+そのあと;そのあと;setelah itu, kemudian;2;ir2.1:n0
+本当に;ほんとうに;sangat;2;ir2.1:n3
+～の？;～の？;(bentuk ungkapan pertanyaan yang digunakan dalam percakapan);2;ir2.1:n0
+ぼく;ぼく;aku (umumnya digunakan oleh laki-laki);2;ir2.1:n0
+出かける;でかける;pergi;2;ir2.1:n5
+特に;とくに;terutama;2;ir2.1:n4
+キャッチボール;キャッチボール;permainan lempar - tangkap bola bisbol;2;ir2.1:n0
+お子さん;おこさん;anak (orang lain);2;ir2.1:n5
+娘;むすめ;anak perempuan;2;ir2.1:n3
+～人家族（3人家族）;～にんかぞく（さんにんかぞく）;keluarga dengan ～ anggota (keluarga dengan tiga anggota);2;ir2.1:n4
+犬;いぬ;anjing;2;ir2.1:n4
+キャンプ;キャンプ;berkemah;2;ir2.1:n0
+つり;つり;memancing;2;ir2.1:n0
+海;うみ;laut;2;ir2.1:n4
+山;やま;gunung;2;ir2.1:n5
+～語（中国語）;～ご（ちゅうごくご）;bahasa ～ (bahasa Mandarin);2;ir2.1:n5
+ことば;ことば;bahasa;2;ir2.1:n0
+アウトドア;アウトドア;outdoor, aktivitas luar ruangan;2;ir2.1:n0
+サイクリング;サイクリング;bersepeda;2;ir2.1:n0
+教える;おしえる;memberi tahu;2;ir2.1:n4
+～人（フィリピン人）;～じん（フィリピンじん）;orang ～ (orang Filipina);2;ir2.1:n5
+習う;ならう;mempelajari;2;ir2.1:n4
+英語;えいご;bahasa Inggris;2;ir2.1:n4
+できる;できる;sesuatu yang bisa / dapat dilakukan;2;ir2.1:n0
+いけばな;いけばな;ikebana (seni merangkai bunga);2;ir2.1:n0
+フィリピノ語;フィリピノご;bahasa Filipina;2;ir2.1:n5
+スペイン語;スペインご;bahasa Spanyol;2;ir2.1:n5
+～人;～にん;～ orang;2;ir2.1:n5
+何人;なんにん;berapa (banyak) orang;2;ir2.1:n5
+1人;ひとり;satu orang;2;ir2.1:n5
+2人;ふたり;dua orang;2;ir2.1:n5
+3人;さんにん;tiga orang;2;ir2.1:n5
+4人;よにん;empat orang;2;ir2.1:n5
+5人;ごにん;lima orang;2;ir2.1:n5
+6人;ろくにん;enam orang;2;ir2.1:n5
+7人;ななにん／しちにん;tujuh orang;2;ir2.1:n5
+8人;はちにん;delapan orang;2;ir2.1:n5
+9人;きゅうにん;sembilan orang;2;ir2.1:n5
+10人;じゅうにん;sepuluh orang;2;ir2.1:n5
+季節;きせつ;musim;3;ir2.1:n1
+ことば;ことば;kata,  kosakata;3;ir2.1:n0
+暑い;あつい;panas;3;ir2.1:n1
+すずしい;すずしい;sejuk;3;ir2.1:n0
+寒い;さむい;dingin;3;ir2.1:n3
+暖かい;あたたかい;hangat;3;ir2.1:n1
+じめじめする;じめじめする;panas dan lembab;3;ir2.1:n0
+蒸し暑い;むしあつい;panas dan pengap / gerah;3;ir2.1:n1
+雨;あめ;hujan;3;ir2.1:n5
+降る;ふる;turun (hujan, salju, dll.);3;ir2.1:n3
+雪;ゆき;salju;3;ir2.1:n3
+桜;さくら;bunga sakura;3;ir2.1:n1
+花;はな;bunga;3;ir2.1:n4
+咲く;さく;mekar;3;ir2.1:n2
+もみじ;もみじ;daun yang berubah warna pada musim gugur;3;ir2.1:n0
+きれい（な）;きれい（な）;indah,  cantik;3;ir2.1:n0
+セミ;セミ;tonggeret;3;ir2.1:n0
+鳴く;なく;bersuara (hewan,  serangga);3;ir2.1:n3
+春;はる;musim semi;3;ir2.1:n4
+梅雨;つゆ;musim hujan pada akhir Mei s.d. pertengahan Juli sebelum memasuki musim panas di Jepang;3;ir2.1:n1
+夏;なつ;musim panas;3;ir2.1:n4
+秋;あき;musim gugur;3;ir2.1:n4
+冬;ふゆ;musim dingin;3;ir2.1:n4
+たくさん;たくさん;banyak;3;ir2.1:n0
+学校;がっこう;sekolah;3;ir2.1:n5
+なる（休みになる）;なる（やすみになる）;menjadi (cth : menjadi hari libur );3;ir2.1:n5
+一年中;いちねんじゅう;sepanjang tahun;3;ir2.1:n5
+長い;ながい;panjang;3;ir2.1:n5
+ずっと;ずっと;sepanjang waktu,  terus menerus;3;ir2.1:n0
+雨季;うき;musim hujan;3;ir2.1:n2
+乾季;かんき;musim kemarau;3;ir2.1:n2
+四季;しき;empat musim;3;ir2.1:n2
+同じ;おなじ;sama;3;ir2.1:n4
+～度（40度）;～ど（よんじゅうど）;~ derajat (40 derajat);3;ir2.1:n4
+マイナス;マイナス;minus;3;ir2.1:n0
+短い;みじかい;pendek;3;ir2.1:n2
+そうなんですか;そうなんですか;Oh, begitu;3;ir2.1:n0
+果物;くだもの;buah-buahan;3;ir2.1:n3
+おいしい;おいしい;enak,  lezat;3;ir2.1:n0
+景色;けしき;pemandangan;3;ir2.1:n3
+山;やま;gunung;3;ir2.1:n5
+遊ぶ;あそぶ;bermain;3;ir2.1:n3
+好き（な）;すき（な）;favorit;3;ir2.1:n3
+苦手（な）;にがて（な）;tidak suka;3;ir2.1:n3
+いちばん;いちばん;paling;3;ir2.1:n0
+どうして;どうして;mengapa;3;ir2.1:n0
+どの;どの;yang mana~ (lebih dari tiga);3;ir2.1:n0
+～よね;～よね;~ya, kan? (akhiran kalimat yang digunakan untuk memastikan bahwa lawan bicara berpendapat sama dengan pembicara);3;ir2.1:n0
+ぶどう;ぶどう;anggur;3;ir2.1:n0
+梨;なし;pir;3;ir2.1:n1
+天気;てんき;cuaca;4;ir2.1:n5
+晴れ;はれ;cerah, baik (cuaca);4;ir2.1:n3
+晴れる;はれる;cerah, menjadi cerah;4;ir2.1:n3
+いい天気;いいてんき;cuacanya cerah, cuacanya baik;4;ir2.1:n5
+くもり;くもり;berawan;4;ir2.1:n0
+くもる;くもる;berawan, mendung;4;ir2.1:n0
+雨;あめ;hujan;4;ir2.1:n5
+降る;ふる;turun (hujan, salju dll.);4;ir2.1:n3
+風;かぜ;angin;4;ir2.1:n4
+吹く;ふく;(angin) bertiup, meniup;4;ir2.1:n3
+雷;かみなり;guntur;4;ir2.1:n1
+鳴る;なる;(guntur) bergemuruh;4;ir2.1:n3
+今;いま;sekarang;4;ir2.1:n5
+昨日;きのう;kemarin;4;ir2.1:n3
+だいぶ;だいぶ;banyak, cukup;4;ir2.1:n0
+嫌になる;いやになる;mengganggu, mengesalkan;4;ir2.1:n1
+ゆうべ;ゆうべ;tadi malam;4;ir2.1:n0
+すごい;すごい;deras (hujan), hebat;4;ir2.1:n0
+本当ですね;ほんとうですね;benar sekali;4;ir2.1:n3
+夜中;よなか;tengah malam;4;ir2.1:n4
+明日;あした;besok;4;ir2.1:n4
+1日;いちにち;sepanjang hari;4;ir2.1:n5
+やむ;やむ;berhenti;4;ir2.1:n0
+ただ;ただ;tapi;4;ir2.1:n0
+強い;つよい;kuat;4;ir2.1:n4
+服装;ふくそう;pakaian;4;ir2.1:n2
+お出かけください;おでかけください;silakan bepergian.;4;ir2.1:n5
+台風;たいふう;topan;4;ir2.1:n4
+外;そと;di luar;4;ir2.1:n5
+死ぬ;しぬ;mati;4;ir2.1:n4
+気温;きおん;suhu udara;4;ir2.1:n2
+アイス;アイス;es krim;4;ir2.1:n0
+町;まち;kota;4;ir2.1:n4
+触る;さわる;menyentuh;4;ir2.1:n2
+冷たい;つめたい;dingin;4;ir2.1:n3
+まっしろ（な）;まっしろ（な）;putih bersih;4;ir2.1:n0
+とっても;とっても;sangat, banget (bentuk informal dari とても);4;ir2.1:n0
+まだ;まだ;belum;4;ir2.1:n0
+遅れる;おくれる;terlambat;4;ir2.1:n3
+どんな;どんな;bagaimana;5;ir2.1:n0
+町;まち;kota;5;ir2.1:n4
+便利（な）;べんり（な）;praktis;5;ir2.1:n3
+不便（な）;ふべん（な）;tidak praktis;5;ir2.1:n3
+にぎやか（な）;にぎやか（な）;ramai;5;ir2.1:n0
+緑;みどり;pepohonan,  tanaman hijau;5;ir2.1:n2
+多い;おおい;banyak;5;ir2.1:n4
+少ない;すくない;sedikit;5;ir2.1:n4
+人;ひと;orang;5;ir2.1:n5
+やさしい;やさしい;ramah;5;ir2.1:n0
+親切（な）;しんせつ（な）;baik hati;5;ir2.1:n4
+冷たい;つめたい;dingin (sikap),  tidak peduli;5;ir2.1:n3
+田舎;いなか;desa,  pedesaan;5;ir2.1:n1
+都会;とかい;kota;5;ir2.1:n3
+きれい（な）;きれい（な）;indah;5;ir2.1:n0
+確かに;たしかに;pastinya;5;ir2.1:n3
+住みやすい;すみやすい;nyaman;5;ir2.1:n4
+店;みせ;toko / restoran;5;ir2.1:n4
+安い;やすい;murah;5;ir2.1:n4
+おもしろい;おもしろい;menarik;5;ir2.1:n0
+遠い;とおい;jauh;5;ir2.1:n3
+どこか;どこか;suatu tempat;5;ir2.1:n0
+ところ;ところ;tempat;5;ir2.1:n0
+スポーツセンター;スポーツセンター;sports center,  pusat olahraga;5;ir2.1:n0
+建物;たてもの;bangunan;5;ir2.1:n4
+ショッピングモール;ショッピングモール;pusat perbelanjaan;5;ir2.1:n0
+一度;いちど;sekali,  satu kali;5;ir2.1:n4
+行ってみる;いってみる;mencoba pergi;5;ir2.1:n5
+場所;ばしょ;tempat;5;ir2.1:n3
+ぜひ;ぜひ;pastikan,  jangan sampai tidak;5;ir2.1:n0
+おすすめ;おすすめ;direkomendasikan;5;ir2.1:n0
+知っている;しっている;mengetahui;5;ir2.1:n4
+知る;しる;mengetahui;5;ir2.1:n4
+休憩所;きゅうけいじょ;tempat istirahat;5;ir2.1:n1
+そうね……;そうね……;Hmm... (digunakan saat pembicara sedang berpikir);5;ir2.1:n0
+そうだなあ;そうだなあ;Hmm...apa ya.. (digunakan saat pembicara sedang berpikir);5;ir2.1:n0
+美しい;うつくしい;indah;5;ir2.1:n3
+砂浜;すなはま;pantai berpasir;5;ir2.1:n1
+有名（な）;ゆうめい（な）;terkenal;5;ir2.1:n4
+泳ぐ;およぐ;berenang;5;ir2.1:n3
+丘;おか;bukit;5;ir2.1:n1
+見渡す;みわたす;memandang/melihat ke sekeliling;5;ir2.1:n3
+夕日;ゆうひ;matahari terbenam;5;ir2.1:n4
+タウンマップ;タウンマップ;peta kota;5;ir2.1:n0
+名物;めいぶつ;makanan khas lokal;5;ir2.1:n4
+評判;ひょうばん;reputasi;5;ir2.1:n1
+～ha;～ヘクタール;~ ha (hektar, 1 ha = 10,000 m²);5;ir2.1:n0
+バーベキュー場;バーベキューじょう;area barbeku (BBQ);5;ir2.1:n4
+サイクリングコース;サイクリングコース;jalur sepeda;5;ir2.1:n0
+人気;にんき;populer;5;ir2.1:n5
+ビーチ;ビーチ;pantai;5;ir2.1:n0
+展望台;てんぼうだい;observatorium;5;ir2.1:n1
+ある（町にあるもの）;ある（まちにあるもの）;ada (berbagai hal / sesuatu yang ada di kota);6;ir2.1:n4
+もの;もの;hal / sesuatu,  benda;6;ir2.1:n0
+信号;しんごう;lampu lalu lintas;6;ir2.1:n3
+横断歩道;おうだんほどう;penyeberangan pejalan kaki,  zebra cross;6;ir2.1:n3
+角;かど;sudut;6;ir2.1:n2
+交差点;こうさてん;persimpangan;6;ir2.1:n3
+道;みち;jalan;6;ir2.1:n4
+橋;はし;jembatan;6;ir2.1:n2
+道案内;みちあんない;petunjuk arah;6;ir2.1:n1
+まっすぐ;まっすぐ;lurus;6;ir2.1:n0
+左;ひだり;kiri;6;ir2.1:n5
+曲がる;まがる;belok,  berbelok;6;ir2.1:n3
+右;みぎ;kanan;6;ir2.1:n5
+渡る;わたる;menyeberang;6;ir2.1:n3
+～つ目;～つめ;yang～ (menyatakan urutan,  angka);6;ir2.1:n4
+1つ目;ひとつめ;pertama;6;ir2.1:n4
+2つ目;ふたつめ;kedua;6;ir2.1:n4
+バス停;バスてい;pemberhentian bus,  halte bus;6;ir2.1:n2
+郵便局;ゆうびんきょく;kantor pos;6;ir2.1:n2
+デパート;デパート;toserba,  pasaraya,  department store;6;ir2.1:n0
+科学;かがく;ilmu pengetahuan;6;ir2.1:n3
+博物館;はくぶつかん;museum;6;ir2.1:n1
+ずっと;ずっと;(lurus) terus;6;ir2.1:n0
+市立;しりつ;(milik) kota;6;ir2.1:n3
+すぐ;すぐ;langsung,  tepat;6;ir2.1:n0
+曲がったところ;まがったところ;setelah berbelok;6;ir2.1:n3
+銀行;ぎんこう;bank;6;ir2.1:n4
+神社;じんじゃ;kuil Shinto;6;ir2.1:n3
+駐車場;ちゅうしゃじょう;tempat parkir;6;ir2.1:n2
+交番;こうばん;pos polisi;6;ir2.1:n3
+病院;びょういん;rumah sakit;6;ir2.1:n4
+黒い;くろい;hitam;6;ir2.1:n4
+白い;しろい;putih;6;ir2.1:n5
+青い;あおい;biru;6;ir2.1:n4
+ビル;ビル;bangunan;6;ir2.1:n0
+アジア食材;アジアしょくざい;bahan makanan khas Asia;6;ir2.1:n2
+そちら;そちら;di situ;6;ir2.1:n0
+北口;きたぐち;pintu utara;6;ir2.1:n4
+間（～と～の間）;あいだ（～と～のあいだ）;di antara ～ dan ～;6;ir2.1:n5
+そうすると;そうすると;setelah itu;6;ir2.1:n0
+見える;みえる;terlihat;6;ir2.1:n5
+お待ちしております;おまちしております;kami menantikan kedatangan Anda.;6;ir2.1:n4
+帰る;かえる;pulang;6;ir2.1:n4
+～町（小島町）;～ちょう（こじまちょう）;Kota～ (pembagian geografis dalam suatu distrik, mis. Kojima-cho / Kota Kojima);6;ir2.1:n2
+高校;こうこう;SMA;6;ir2.1:n5
+送る;おくる;mengantar (orang);6;ir2.1:n4
+大きな;おおきな;besar;6;ir2.1:n5
+入る;はいる;masuk,  berbelok;6;ir2.1:n5
+どの辺？;どのへん？;Di daerah mana?;6;ir2.1:n2
+ここでいいです;ここでいいです;Di sini saja.;6;ir2.1:n0
+駅;えき;stasiun;7;ir2.1:n4
+受付;うけつけ;resepsionis,  meja informasi;7;ir2.1:n3
+ホール;ホール;aula;7;ir2.1:n0
+会社;かいしゃ;perusahaan;7;ir2.1:n4
+門;もん;gerbang;7;ir2.1:n2
+集合（する）;しゅうごう（する）;berkumpul;7;ir2.1:n3
+では;では;jadi;7;ir2.1:n0
+案内する;あんないする;memandu;7;ir2.1:n1
+待ち合わせ;まちあわせ;janjian bertemu;7;ir2.1:n3
+イベント;イベント;acara;7;ir2.1:n0
+始まる;はじまる;mulai;7;ir2.1:n4
+スタッフ;スタッフ;staf;7;ir2.1:n0
+～前（30分前）;～まえ（さんじゅっぷんまえ）;~sebelum (30 menit sebelum);7;ir2.1:n1
+待ち合わせする;まちあわせする;bertemu (satu sama lain);7;ir2.1:n3
+平和;へいわ;perdamaian;7;ir2.1:n3
+鳥;とり;burung;7;ir2.1:n4
+像;ぞう;patung;7;ir2.1:n2
+それ、何ですか？;それ、なんですか？;Apa itu? (Ungkapan konfirmasi yang digunakan untuk bertanya sebaliknya kepada pembicara ketika kita tidak memahami apa yang diucapkan olehnya);7;ir2.1:n5
+事故;じこ;kecelakaan;7;ir2.1:n1
+止まる;とまる;berhenti;7;ir2.1:n4
+連絡する;れんらくする;menghubungi;7;ir2.1:n2
+ねぼうする;ねぼうする;terlambat bangun,  kesiangan;7;ir2.1:n0
+今から;いまから;dari sekarang;7;ir2.1:n5
+急ぐ;いそぐ;bergegas;7;ir2.1:n4
+先に;さきに;lebih dulu;7;ir2.1:n5
+始める;はじめる;mulai,  memulai;7;ir2.1:n4
+道に迷う;みちにまよう;tersesat di jalan,  salah jalan;7;ir2.1:n3
+遅れる;おくれる;terlambat;7;ir2.1:n3
+着く;つく;tiba;7;ir2.1:n4
+大丈夫（な）;だいじょうぶ（な）;tidak apa-apa,  tidak masalah;7;ir2.1:n1
+時間;じかん;waktu;7;ir2.1:n5
+まちがえる;まちがえる;salah (salah paham);7;ir2.1:n0
+待つ;まつ;menunggu;7;ir2.1:n4
+カフェ;カフェ;kafe;7;ir2.1:n0
+動物園;どうぶつえん;kebun binatang;8;ir2.1:n3
+お城;おしろ;istana;8;ir2.1:n2
+レストラン;レストラン;restoran;8;ir2.1:n0
+博物館;はくぶつかん;museum;8;ir2.1:n1
+アウトレットモール;アウトレットモール;outlet mall;8;ir2.1:n0
+プロレス;プロレス;gulat profesional;8;ir2.1:n0
+タワー;タワー;menara;8;ir2.1:n0
+野球;やきゅう;bisbol;8;ir2.1:n3
+もう;もう;sudah;8;ir2.1:n0
+まだ;まだ;belum;8;ir2.1:n0
+アジア;アジア;Asia;8;ir2.1:n0
+すごく;すごく;sangat;8;ir2.1:n0
+市民体育館;しみんたいいくかん;gymnasium / gedung olahraga publik;8;ir2.1:n3
+試合;しあい;pertandingan;8;ir2.1:n3
+やる;やる;melakukan;8;ir2.1:n0
+メンバー;メンバー;anggota;8;ir2.1:n0
+足りない;たりない;tidak cukup,  kurang;8;ir2.1:n4
+無理（な）;むり（な）;tidak mungkin;8;ir2.1:n1
+わかる;わかる;mengerti;8;ir2.1:n0
+お金;おかね;uang;8;ir2.1:n5
+おろす;おろす;menarik / mengambil (uang);8;ir2.1:n0
+食事;しょくじ;makan;8;ir2.1:n4
+ちょっと;ちょっと;sedikit;8;ir2.1:n0
+休む;やすむ;istirahat;8;ir2.1:n5
+ジョギングシューズ;ジョギングシューズ;sepatu joging;8;ir2.1:n0
+ATM;エーティーエム;ATM (Anjungan Tunai Mandiri);8;ir2.1:n0
+ゲームコーナー;ゲームコーナー;game arcade,  pusat permainan arkade;8;ir2.1:n0
+フードコート;フードコート;food court,  pujasera (pusat jajanan serbaada);8;ir2.1:n0
+カフェ;カフェ;kafe;8;ir2.1:n0
+映画館;えいがかん;bioskop;8;ir2.1:n4
+スポーツ店;スポーツてん;toko peralatan olahraga;8;ir2.1:n4
+このあと;このあと;setelah ini,  kemudian;8;ir2.1:n0
+お腹がすく;おなかがすく;merasa lapar;8;ir2.1:n3
+何か;なにか;sesuatu;8;ir2.1:n5
+その前に;そのまえに;sebelum itu;8;ir2.1:n5
+すばらしい;すばらしい;bagus;8;ir2.1:n0
+難しい;むずかしい;sukar,  sulit;8;ir2.1:n3
+感動する;かんどうする;terkesan;8;ir2.1:n3
+かわいい;かわいい;lucu,  manis;8;ir2.1:n0
+展覧会;てんらんかい;pameran;8;ir2.1:n1
+パンダ;パンダ;panda;8;ir2.1:n0
+サル;サル;kera;8;ir2.1:n0
+現代;げんだい;modern;8;ir2.1:n3
+作品;さくひん;karya seni;8;ir2.1:n4
+ホラー映画;ホラーえいが;film horor;8;ir2.1:n4
+つまらない;つまらない;bosan,  membosankan;8;ir2.1:n0
+退屈（な）;たいくつ（な）;bosan,  membosankan;8;ir2.1:n1
+いまいち（な）;いまいち（な）;tidak cukup bagus;8;ir2.1:n0
+日本語学校;にほんごがっこう;Sekolah bahasa Jepang;9;ir2.1:n5
+高校;こうこう;SMA;9;ir2.1:n5
+どれぐらい;どれぐらい;berapa lama;9;ir2.1:n0
+上手（な）;じょうず（な）;pandai / terampil;9;ir2.1:n4
+～間（2年間）;～かん（にねんかん）;selama ~ (selama 2 tahun);9;ir2.1:n5
+自分で;じぶんで;melakukan sendiri;9;ir2.1:n1
+まだまだです;まだまだです;masih belum begitu mahir.;9;ir2.1:n0
+そんなことないです;そんなことないです;tidak juga;9;ir2.1:n0
+大学;だいがく;universitas;9;ir2.1:n5
+ラジオ;ラジオ;radio;9;ir2.1:n0
+ネット;ネット;internet;9;ir2.1:n0
+アプリ;アプリ;aplikasi;9;ir2.1:n0
+日本語;にほんご;Bahasa Jepang;9;ir2.1:n5
+勉強;べんきょう;belajar;9;ir2.1:n4
+簡単（な）;かんたん（な）;mudah,  gampang;9;ir2.1:n2
+難しい;むずかしい;susah,  sulit;9;ir2.1:n3
+似ている;にている;serupa,  mirip;9;ir2.1:n3
+違う;ちがう;berbeda;9;ir2.1:n3
+得意（な）;とくい（な）;mahir,  pandai;9;ir2.1:n3
+苦手（な）;にがて（な）;tidak mahir,  tidak pandai;9;ir2.1:n3
+文法;ぶんぽう;tata bahasa;9;ir2.1:n3
+発音;はつおん;pelafalan,  pengucapan;9;ir2.1:n4
+文字;もじ;huruf;9;ir2.1:n4
+ひらがな;ひらがな;hiragana;9;ir2.1:n0
+カタカナ;カタカナ;katakana;9;ir2.1:n0
+漢字;かんじ;kanji;9;ir2.1:n4
+会話;かいわ;percakapan;9;ir2.1:n4
+モンゴル語;モンゴルご;bahasa Mongolia;9;ir2.1:n5
+ベトナム語;ベトナムご;bahasa Vietnam;9;ir2.1:n5
+覚える;おぼえる;menghafal;9;ir2.1:n3
+教える;おしえる;mengajar,  mengajarkan;9;ir2.1:n4
+辞書;じしょ;kamus;9;ir2.1:n3
+貸す;かす;meminjamkan;9;ir2.1:n4
+見せる;みせる;memperlihatkan;9;ir2.1:n5
+チェックする;チェックする;memeriksa;9;ir2.1:n0
+説明する;せつめいする;menjelaskan;9;ir2.1:n3
+紙;かみ;kertas;9;ir2.1:n4
+書く;かく;menulis;9;ir2.1:n5
+言う;いう;mengatakan,  mengucapkan;9;ir2.1:n4
+ゆっくり;ゆっくり;pelan-pelan;9;ir2.1:n0
+～方（読み方）;～かた（よみかた）;cara ~ (cara membaca);9;ir2.1:n4
+メール;メール;surel (surat elektronik);9;ir2.1:n0
+書類;しょるい;dokumen;9;ir2.1:n3
+教科書;きょうかしょ;buku pelajaran;9;ir2.1:n3
+自信がありません;じしんがありません;tidak percaya diri;9;ir2.1:n3
+練習;れんしゅう;latihan;9;ir2.1:n2
+探す;さがす;mencari;9;ir2.1:n3
+何回も;なんかいも;berulang kali,  berkali-kali;9;ir2.1:n3
+教室;きょうしつ;ruang kelas;9;ir2.1:n4
+無料;むりょう;gratis;9;ir2.1:n1
+先生;せんせい;guru;9;ir2.1:n5
+知恵;ちえ;kebijaksanaan;9;ir2.1:n1
+拝借する;はいしゃくする;meminjam;9;ir2.1:n2
+サイト;サイト;situs web;9;ir2.1:n0
+トップ;トップ;(halaman) utama;9;ir2.1:n0
+カテゴリー;カテゴリー;kategori;9;ir2.1:n0
+ランキング;ランキング;peringkat;9;ir2.1:n0
+わし;わし;Saya (pengucapan ini biasanya digunakan oleh orang yang sudah tua atau lansia);9;ir2.1:n0
+検索;けんさく;pencarian;9;ir2.1:n1
+質問;しつもん;pertanyaan;9;ir2.1:n4
+相談;そうだん;konsultasi;9;ir2.1:n3
+おしゃべりする;おしゃべりする;berbincang;9;ir2.1:n0
+シャドーイングする;シャドーイングする;(melakukan latihan dengan) teknik shadowing;9;ir2.1:n0
+ボランティア;ボランティア;sukarelawan;9;ir2.1:n0
+曜日;ようび;hari;10;ir2.1:n4
+時間;じかん;waktu,  jam;10;ir2.1:n5
+費用;ひよう;biaya;10;ir2.1:n3
+毎月;まいつき;setiap bulan;10;ir2.1:n5
+第～（第3木曜日）;だい～（だいさんもしょくようび）;ke-～ (menyatakan urutan ke-1, ke-2, ke-3 dan seterusnya. Misalnya : hari Kamis ke-3 (ketiga) setiap bulannya);10;ir2.1:n1
+公民館;こうみんかん;balai kegiatan publik;10;ir2.1:n3
+問い合わせ;といあわせ;informasi lebih lanjut;10;ir2.1:n3
+スタート（10月スタート）;スタート（じゅうがつスタート）;mulai (mulai bulan Oktober);10;ir2.1:n5
+旬;しゅん;masakan,  makanan musiman;10;ir2.1:n1
+味わう;あじわう;merasakan,  mencicipi;10;ir2.1:n4
+全～回（全4回）;ぜん～かい（ぜんよんかい）;total sebanyak ～ kali (total sebanyak 4 kali);10;ir2.1:n3
+調理室;ちょうりしつ;dapur;10;ir2.1:n3
+各;かく;setiap,  masing-masing;10;ir2.1:n2
+先着;せんちゃく;pendaftaran dengan prinsip sesuai urutan waktu daftar,  pendaftar yang lebih dulu akan mendapatkan tempat;10;ir2.1:n4
+書道;しょどう;kaligrafi Jepang;10;ir2.1:n4
+日時;にちじ;tanggal, hari dan waktu;10;ir2.1:n5
+～代（テキスト代）;～だい（テキストだい）;biaya～ (biaya buku);10;ir2.1:n4
+外国人向け;がいこくじんむけ;bagi orang asing;10;ir2.1:n3
+体験教室;たいけんきょうしつ;kelas percobaan;10;ir2.1:n4
+身につける;みにつける;mempelajari;10;ir2.1:n1
+月;つき;bulan;10;ir2.1:n5
+テキスト;テキスト;buku pelajaran;10;ir2.1:n0
+道具;どうぐ;alat;10;ir2.1:n3
+各自;かくじ;setiap orang,  masing-masing orang;10;ir2.1:n2
+見学;けんがく;pengamatan,  observasi;10;ir2.1:n5
+申し込み;もうしこみ;pendaftaran;10;ir2.1:n3
+お持ちください;おもちください;Silakan membawa～。 (ungkapan bentuk sopan);10;ir2.1:n4
+参加されています;さんかされています;~ikut serta,  berpartisipasi (ungkapan bentuk sopan);10;ir2.1:n3
+いらしてください;いらしてください;Silakan datang. (ungkapan bentuk sopan);10;ir2.1:n0
+かかる;かかる;dikenakan (biaya);10;ir2.1:n0
+合気道;あいきどう;Aikido;10;ir2.1:n3
+～回完結（1回完結）;～かいかんけつ（いっかいかんけつ）;selesai dalam ～ pertemuan (contoh : selesai dalam 1 kali pertemuan);10;ir2.1:n1
+体育室;たいいくしつ;ruang olahraga;10;ir2.1:n3
+動きやすい;うごきやすい;mudah untuk bergerak;10;ir2.1:n4
+道着;どうぎ;dougi (seragam olahraga bela diri);10;ir2.1:n4
+かまいません;かまいません;tidak apa-apa;10;ir2.1:n0
+必要ありません;ひつようありません;tidak perlu;10;ir2.1:n3
+道具;どうぐ;alat;10;ir2.1:n3
+参加する;さんかする;ikut serta,  berpartisipasi;10;ir2.1:n3
+クラス;クラス;kelas,  kursus;10;ir2.1:n0
+必要（な）;ひつよう（な）;perlu;10;ir2.1:n3
+最初;さいしょ;awalnya;10;ir2.1:n3
+あとは;あとは;setelah itu;10;ir2.1:n0
+聞く;きく;bertanya,  menanyakan;10;ir2.1:n5
+まだ空いていますか？;まだあいていますか？;Apakah masih ada tempat?;10;ir2.1:n4
+払う;はらう;membayar;10;ir2.1:n3
+もういっぱいです;もういっぱいです;Sudah penuh;10;ir2.1:n0
+少々お待ちください;しょうしょうおまちください;Mohon menunggu sebentar;10;ir2.1:n4
+興味がある;きょうみがある;tertarik;10;ir2.1:n1
+それとも;それとも;atau;10;ir2.1:n0
+コース;コース;kursus,  program;10;ir2.1:n0
+全部;ぜんぶ;semua;10;ir2.1:n3
+用意する;よういする;menyediakan;10;ir2.1:n4
+もっと;もっと;lebih;10;ir2.1:n0
+週;しゅう;pekan,  minggu;10;ir2.1:n4
+何回;なんかい;berapa kali;10;ir2.1:n3
+～回（1回）;～かい（いっかい）;～ kali (satu kali);10;ir2.1:n3
+ただ;ただ;gratis;10;ir2.1:n0
+チラシ;チラシ;selebaran;10;ir2.1:n0
+持って来る;もってくる;membawakan,  membawa;10;ir2.1:n4
+ちょっといいですか？;ちょっといいですか？;Bisa minta waktu sebentar?;10;ir2.1:n0
+きびしい;きびしい;tegas,  ketat;10;ir2.1:n0
+申込書;もうしこみしょ;formulir pendaftaran;10;ir2.1:n3
+紹介する;しょうかいする;memperkenalkan;10;ir2.1:n2
+母語;ぼご;bahasa ibu;10;ir2.1:n5
+どういう;どういう;apa;10;ir2.1:n0
+意味;いみ;arti,  makna;10;ir2.1:n4
+使う;つかう;menggunakan;10;ir2.1:n4
+前に;まえに;sebelum,  sebelumnya;10;ir2.1:n5
+どんなこと;どんなこと;hal seperti apa;10;ir2.1:n0
+バーベキュー;バーベキュー;barbeku,  BBQ;11;ir2.1:n0
+肉;にく;daging;11;ir2.1:n4
+牛肉;ぎゅうにく;daging sapi;11;ir2.1:n4
+豚肉;ぶたにく;daging babi;11;ir2.1:n1
+鶏肉;とりにく;daging ayam;11;ir2.1:n1
+ソーセージ;ソーセージ;sosis;11;ir2.1:n0
+シーフード;シーフード;makanan laut,  seafood;11;ir2.1:n0
+魚;さかな;ikan;11;ir2.1:n4
+エビ;エビ;udang;11;ir2.1:n0
+イカ;イカ;cumi-cumi;11;ir2.1:n0
+ホタテ;ホタテ;kerang,  simping;11;ir2.1:n0
+りんご;りんご;apel;11;ir2.1:n0
+バナナ;バナナ;pisang;11;ir2.1:n0
+焼きそば;やきそば;yakisoba (mie goreng);11;ir2.1:n2
+おにぎり;おにぎり;onigiri (rice ball,  nasi kepal);11;ir2.1:n0
+焼肉;やきにく;yakiniku (daging panggang khas Jepang);11;ir2.1:n2
+たれ;たれ;tare (saus celup,  saus cocol);11;ir2.1:n0
+ソース;ソース;saus;11;ir2.1:n0
+お菓子;おかし;kue;11;ir2.1:n2
+ソフトドリンク;ソフトドリンク;soft drink,  minuman ringan (tanpa alkohol);11;ir2.1:n0
+お茶;おちゃ;teh,  teh khas Jepang;11;ir2.1:n4
+ジュース;ジュース;jus;11;ir2.1:n0
+お酒;おさけ;alkohol;11;ir2.1:n3
+ビール;ビール;bir;11;ir2.1:n0
+ワイン;ワイン;anggur;11;ir2.1:n0
+日本酒;にほんしゅ;sake (minuman beralkohol khas Jepang hasil fermentasi beras);11;ir2.1:n3
+焼酎;しょうちゅう;shochu (minuman beralkohol khas Jepang yang dibuat dengan proses penyulingan);11;ir2.1:n1
+コップ;コップ;cangkir;11;ir2.1:n0
+お皿;おさら;piring;11;ir2.1:n2
+割りばし;わりばし;sumpit kayu sekali pakai;11;ir2.1:n3
+ごみ袋;ごみぶくろ;kantong sampah;11;ir2.1:n2
+準備;じゅんび;persiapan;11;ir2.1:n2
+持って行く;もっていく;membawa,  pergi dengan membawa~;11;ir2.1:n4
+手伝う;てつだう;membantu;11;ir2.1:n3
+飲み物;のみもの;minuman;11;ir2.1:n4
+バーベキュー場;バーベキューじょう;area pesta barbeku;11;ir2.1:n4
+デザート;デザート;makanan pencuci mulut;11;ir2.1:n0
+焼く;やく;bakar,  panggang;11;ir2.1:n2
+からあげ;からあげ;karaage (ayam goreng khas Jepang);11;ir2.1:n0
+焼き鳥;やきとり;yakitori (sate ayam khas Jepang);11;ir2.1:n2
+塩;しお;garam;11;ir2.1:n2
+紅茶;こうちゃ;teh hitam;11;ir2.1:n2
+ウーロン茶;ウーロンちゃ;teh oolong;11;ir2.1:n4
+チョコレートケーキ;チョコレートケーキ;kue cokelat;11;ir2.1:n0
+チーズケーキ;チーズケーキ;kue keju;11;ir2.1:n0
+どっち;どっち;yang mana (kata tanya bentuk informal untuk memilih antara 2 pilihan);11;ir2.1:n0
+どれ;どれ;yang mana (kata tanya untuk memilih antara 3 pilihan atau lebih);11;ir2.1:n0
+売る;うる;menjual;11;ir2.1:n4
+双方;りょうほう;keduanya;11;ir2.1:n2
+アレルギー;アレルギー;alergi;11;ir2.1:n0
+エビ;エビ;udang;11;ir2.1:n0
+カニ;カニ;kepiting;11;ir2.1:n0
+卵;たまご;telur;11;ir2.1:n2
+ピーナッツ;ピーナッツ;kacang-kacangan;11;ir2.1:n0
+落花生;らっかせい;kacang tanah;11;ir2.1:n3
+そば粉;そばこ;tepung soba;11;ir2.1:n2
+小麦;こむぎ;gandum;11;ir2.1:n2
+小麦粉;こむぎこ;tepung gandum,  tepung terigu;11;ir2.1:n2
+乳製品;にゅうせいひん;produk susu;11;ir2.1:n1
+牛乳;ぎゅうにゅう;susu;11;ir2.1:n2
+バター;バター;mentega;11;ir2.1:n0
+チーズ;チーズ;keju;11;ir2.1:n0
+ヨーグルト;ヨーグルト;yoghurt;11;ir2.1:n0
+材料;ざいりょう;bahan;11;ir2.1:n2
+ハラル;ハラル;halal (bahan makanan dan masakan yang boleh dikonsumsi oleh orang muslim);11;ir2.1:n0
+消費期限;しょうひきげん;tanggal kedaluwarsa;11;ir2.1:n3
+ピザ;ピザ;piza;11;ir2.1:n0
+入っている;はいている;mengandung;11;ir2.1:n5
+よかったら;よかったら;kalau (Anda) mau;11;ir2.1:n0
+もつ;もつ;tahan, awet;11;ir2.1:n0
+今日中に;きょうじゅうに;hari ini;11;ir2.1:n5
+コーナー;コーナー;bagian,  pojok;11;ir2.1:n0
+商品;しょうひん;produk;11;ir2.1:n3
+すべて;すべて;semua;11;ir2.1:n0
+レトルト;レトルト;makanan siap santap dalam kemasan (dapat disantap setelah dipanaskan atau dimasak di dalam air mendidih);11;ir2.1:n0
+乳成分;にゅうせいぶん;kandungan susu;11;ir2.1:n1
+大豆;だいず;kedelai;11;ir2.1:n1
+名称;めいしょう;nama;11;ir2.1:n1
+原材料名;げんざいりょうめい;bahan baku;11;ir2.1:n2
+殺菌方法;さっきんほうほう;cara sterilisasi;11;ir2.1:n1
+内容量;ないようりょう;berat bersih;11;ir2.1:n2
+賞味期限;しょうみきげん;tanggal layak konsumsi;11;ir2.1:n2
+保存方法;ほぞんほうほう;cara menyimpan;11;ir2.1:n1
+販売者;はんばいしゃ;penjual;11;ir2.1:n2
+本品;ほんぴん;produk ini;11;ir2.1:n4
+含まれる;ふくまれる;terkandung;11;ir2.1:n2
+アレルギー物質;アレルギーぶっしつ;alergen (bahan penyebab alergi);11;ir2.1:n4
+おにぎり;おにぎり;onigiri (nasi kepal khas Jepang);11;ir2.1:n0
+エビピラフ;エビピラフ;pilaf udang (hidangan dengan tumisan udang);11;ir2.1:n0
+製造者;せいぞうしゃ;pembuat,  produsen;11;ir2.1:n1
+チョコレート;チョコレート;cokelat;11;ir2.1:n0
+～品;～ひん;~bahan (contoh : 27 bahan);11;ir2.1:n4
+味;あじ;rasa;12;ir2.1:n4
+甘い;あまい;manis;12;ir2.1:n2
+辛い;からい;pedas;12;ir2.1:n2
+すっぱい;すっぱい;asam;12;ir2.1:n0
+しょっぱい;しょっぱい;asin;12;ir2.1:n0
+苦い;にがい;pahit;12;ir2.1:n3
+こい（味がこい）;こい（あじがこい）;kental,  kuat (contoh : rasanya kental / kuat / kaya rasa);12;ir2.1:n4
+うすい（味がうすい）;うすい（あじがうすい）;hambar (contoh : rasanya hambar);12;ir2.1:n4
+まずい;まずい;tidak enak,  tidak lezat;12;ir2.1:n0
+お弁当;おべんとう;bekal;12;ir2.1:n1
+チョコレートバニラクリームラテ;チョコレートバニラクリームラテ;minuman chocolate vanilla cream latte;12;ir2.1:n0
+みかん;みかん;jeruk;12;ir2.1:n0
+庭;にわ;halaman,  pekarangan,  taman;12;ir2.1:n3
+とる;とる;petik,  memetik;12;ir2.1:n0
+そんなことない;そんなことない;sebenarnya tidak begitu;12;ir2.1:n0
+卵焼き;たまごやき;tamago-yaki (telur dadar gulung);12;ir2.1:n2
+お好み焼き;お好み焼き;okonomiyaki (panekuk khas Jepang yang isiannya berbagai macam jenis sayur, daging, dan seafood);12;ir2.1:n2
+梅干し;うめぼし;umeboshi (asinan buah prem Jepang);12;ir2.1:n1
+すき焼き;すき焼き;sukiyaki (hidangan rebus yang berisi irisan tipis daging sapi, daun bawang, sayur, dll yang dimasak dalam panci);12;ir2.1:n2
+生;なま;mentah;12;ir2.1:n5
+もう1つ;もうひとつ;satu lagi;12;ir2.1:n0
+バインセオ;バインセオ;banh xeo (panekuk gurih khas Vietnam);12;ir2.1:n0
+お腹がいっぱい（な）;おなかがいっぱい（な）;kenyang;12;ir2.1:n3
+苦手（な）;にがて（な）;tidak suka;12;ir2.1:n3
+どんどん;どんどん;tambah lagi;12;ir2.1:n0
+茶碗蒸し;ちゃわんむし;chawanmushi (telur kukus khas Jepang);12;ir2.1:n1
+プリン;プリン;puding;12;ir2.1:n0
+だし;だし;dashi (kaldu);12;ir2.1:n0
+まあ;まあ;(hmmm) ya mungkin;12;ir2.1:n0
+スープ;スープ;sup;12;ir2.1:n0
+きのこ;きのこ;jamur;12;ir2.1:n0
+銀杏;ぎんなん;kacang gingko;12;ir2.1:n1
+入れる;いれる;memasukkan;12;ir2.1:n5
+いいにおい;いいにおい;aroma yang lezat;12;ir2.1:n0
+調理方法;ちょうりほうほう;cara memasak;12;ir2.1:n3
+フタ;フタ;tutup;12;ir2.1:n0
+取り出す;とりだす;mengeluarkan;12;ir2.1:n3
+めん;めん;mie;12;ir2.1:n0
+熱湯;ねっとう;air mendidih;12;ir2.1:n2
+注ぐ;そそぐ;menuangkan;12;ir2.1:n4
+お湯;おゆ;air panas;12;ir2.1:n2
+捨てる;すてる;membuang;12;ir2.1:n2
+かける;かける;menaburkan;12;ir2.1:n0
+混ぜる;まぜる;mengaduk;12;ir2.1:n2
+はがす;はがす;melepas;12;ir2.1:n0
+かやく;かやく;bahan pelengkap (seperti irisan sayur, daging, dll);12;ir2.1:n0
+ふりかけ;ふりかけ;taburan,  topping dalam bentuk kering;12;ir2.1:n0
+あける;あける;mengosongkan isi,  memasukkan seluruhnya;12;ir2.1:n0
+内側;うちがわ;bagian dalam;12;ir2.1:n3
+線;せん;garis;12;ir2.1:n2
+フタをする;フタをする;menutup (penutup);12;ir2.1:n0
+湯切り口;ゆきりぐち;lubang untuk membuang air panas;12;ir2.1:n2
+できあがり;できあがり;selesai,  siap untuk disantap;12;ir2.1:n0
+電気;でんき;lampu,  listrik;13;ir2.1:n5
+つく（電気しつく）;つく（でんきがつく）;menyala (lampu menyala);13;ir2.1:n5
+変（な）;へん（な）;aneh;13;ir2.1:n3
+音;おと;bunyi;13;ir2.1:n4
+音がする;おとがする;berbunyi;13;ir2.1:n4
+動く;うごく;bergerak,  beroperasi;13;ir2.1:n4
+トイレットペーパー;トイレットペーパー;tisu toilet;13;ir2.1:n0
+なくなる;なくなる;habis;13;ir2.1:n0
+業者;ぎょうしゃ;dealer,  vendor;13;ir2.1:n4
+電話する;でんわする;menelepon;13;ir2.1:n5
+再起動する;さいきどうする;to restart,  memulai ulang;13;ir2.1:n2
+管理室;かんりしつ;ruang manajemen,  ruang kontrol;13;ir2.1:n2
+連絡する;れんらくする;menghubungi;13;ir2.1:n2
+倉庫;そうこ;gudang;13;ir2.1:n1
+取って来る;とってくる;mengambil (lalu kembali ke tempat semula);13;ir2.1:n3
+コーヒーマシーン;コーヒーマシーン;mesin pembuat kopi;13;ir2.1:n0
+パソコン;パソコン;PC,  komputer;13;ir2.1:n0
+とりあえず;とりあえず;untuk saat ini,  sementara ini;13;ir2.1:n0
+やり方;やりかた;cara melakukan (sesuatu);13;ir2.1:n4
+終わる;おわる;selesai;13;ir2.1:n4
+もうすぐ;もうすぐ;segera,  sebentar lagi,  hampir;13;ir2.1:n0
+できる;できる;selesai,  rampung;13;ir2.1:n0
+コピー機;コピーき;mesin fotokopi;13;ir2.1:n3
+原稿;げんこう;naskah,  dokumen;13;ir2.1:n1
+セットする;セットする;mengeset;13;ir2.1:n0
+枚数;まいすう;jumlah lembar;13;ir2.1:n2
+数字;すうじ;bilangan,  angka;13;ir2.1:n3
+入れる;いれる;memasukkan;13;ir2.1:n5
+スタート;スタート;mulai;13;ir2.1:n0
+ボタン;ボタン;tombol;13;ir2.1:n0
+押す;おす;menekan;13;ir2.1:n3
+両面;りょうめん;dua sisi;13;ir2.1:n3
+片面;かためん;satu sisi;13;ir2.1:n2
+カラー;カラー;berwarna;13;ir2.1:n0
+できるだけ;できるだけ;sedapat mungkin;13;ir2.1:n0
+白黒;しろくろ;hitam putih;13;ir2.1:n4
+スキャナ;スキャナ;pemindai;13;ir2.1:n0
+ファックス;ファックス;faks,  faksimile;13;ir2.1:n0
+自動選択;じどうせんたく;pemilihan otomatis;13;ir2.1:n1
+フルカラー;フルカラー;full color,  penuh warna;13;ir2.1:n0
+2色;にしょく;dua warna;13;ir2.1:n4
+単色;たんしょく;monokrom,  warna tunggal;13;ir2.1:n3
+自動濃度;じどうのうど;tingkat saturasi warna otomatis;13;ir2.1:n2
+用紙;ようし;kertas;13;ir2.1:n4
+手差し;てざし;memasukkan (kertas) secara manual;13;ir2.1:n3
+倍率;ばいりつ;pengaturan skala (ukuran dokumen);13;ir2.1:n1
+等倍;とうばい;ukuran sama;13;ir2.1:n2
+変倍;へんばい;ukuran berbeda;13;ir2.1:n2
+拡大;拡大;pembesaran;13;ir2.1:n1
+縮小;しゅくしょう;pengecilan;13;ir2.1:n1
+ソート;ソート;susunan, urutan;13;ir2.1:n0
+ホチキス止め;ホチキスどめ;staples;13;ir2.1:n4
+資料;しりょう;dokumen;13;ir2.1:n3
+キャビネット;キャビネット;lemari (dengan rak / laci untuk menyimpan dokumen);13;ir2.1:n0
+戻す;もどす;mengembalikan;13;ir2.1:n3
+扉;とびら;pintu;13;ir2.1:n1
+開ける;あける;membuka;13;ir2.1:n4
+棚;たな;rak;13;ir2.1:n1
+並べる;ならべる;menata,  menyusun;13;ir2.1:n2
+丸い;まるい;bundar;13;ir2.1:n2
+出す;だす;mengeluarkan;13;ir2.1:n5
+～列（3列）;～れつ（さんれつ）;～ baris (tiga baris);13;ir2.1:n3
+後ろ;うしろ;belakang;13;ir2.1:n5
+スペース;スペース;ruang,  jarak;13;ir2.1:n0
+あける;あける;menyediakan (ruang,  jarak);13;ir2.1:n0
+入り口;いりぐち;pintu masuk;13;ir2.1:n4
+四角い;しかくい;persegi empat;13;ir2.1:n2
+置く;おく;meletakkan,  menaruh;13;ir2.1:n3
+会議;かいぎ;rapat;13;ir2.1:n3
+セッティング;セッティング;penataan;13;ir2.1:n0
+コの字;コのじ;berbentuk huruf U;13;ir2.1:n4
+準備する;じゅんびする;mempersiapkan,  menyiapkan;13;ir2.1:n2
+人数分;にんずうぶん;sebanyak jumlah orang;13;ir2.1:n1
+～部（1部）;～ぶ（いちぶ）;～bundel fotokopi (1 berkas / bundel fotokopi);13;ir2.1:n3
+頼む;たのむ;meminta,  memesan;13;ir2.1:n3
+いいです;いいです;tidak usah,  tidak perlu;13;ir2.1:n0
+件名;けんめい;perihal;13;ir2.1:n3
+変更;へんこう;perubahan;13;ir2.1:n3
+お知らせ;おしらせ;pemberitahuan,  notifikasi;13;ir2.1:n4
+都合が悪い;つごうがわるい;berhalangan;13;ir2.1:n3
+注意（する）;ちゅうい（する）;memperhatikan;13;ir2.1:n4
+社内メール;しゃないメール;surel internal perusahaan;13;ir2.1:n3
+打ち合わせ;うちあわせ;pertemuan,  rapat;13;ir2.1:n3
+日程;にってい;jadwal;13;ir2.1:n3
+差出人;さしだしにん;pengirim;13;ir2.1:n3
+日付;ひづけ;tanggal;13;ir2.1:n3
+皆様;みなさま;(salam sejahtera untuk) Anda sekalian (ungkapan bentuk sopan);13;ir2.1:n3
+なお;なお;untuk itu,  oleh karena itu;13;ir2.1:n0
+お知らせします;おしらせします;menyampaikan pemberitahuan (ungkapan bentuk sopan);13;ir2.1:n4
+ご連絡ください;ごれんらくください;Mohon hubungi～. (ungkapan bentuk sopan);13;ir2.1:n2
+ご注意ください;ごちゅういください;Mohon perhatikan～. (ungkapan bentuk sopan);13;ir2.1:n4
+混んでいる;こんでいる;macet;14;ir2.1:n2
+せき;せき;batuk;14;ir2.1:n0
+ひどい;ひどい;parah;14;ir2.1:n0
+熱;ねつ;demam;14;ir2.1:n3
+熱がある;ねつがある;demam;14;ir2.1:n3
+財布;さいふ;dompet;14;ir2.1:n2
+忘れる;わすれる;lupa;14;ir2.1:n3
+病院;びょういん;rumah sakit;14;ir2.1:n4
+家;いえ;rumah;14;ir2.1:n4
+帰る;かえる;pulang;14;ir2.1:n4
+これから;これから;sekarang,  setelah ini;14;ir2.1:n0
+取る;とる;mengambil;14;ir2.1:n3
+それで;それで;oleh karena itu;14;ir2.1:n0
+遅くなる;おそくなる;terlambat;14;ir2.1:n3
+みなさん;みなさん;semua orang;14;ir2.1:n0
+伝える;つたえる;menyampaikan;14;ir2.1:n3
+遅刻する;ちこくする;terlambat;14;ir2.1:n3
+あとで;あとで;nanti;14;ir2.1:n0
+休む;やすむ;cuti,  tidak masuk kerja,  libur;14;ir2.1:n5
+申し訳ありません;もうしわけありません;Saya mohon maaf.;14;ir2.1:n1
+具合が悪い;ぐあいがわるい;kondisi tubuh kurang fit,  tidak enak badan;14;ir2.1:n3
+お祈り;おいのり;sembahyang,  doa;14;ir2.1:n2
+たばこ;たばこ;rokok;14;ir2.1:n0
+吸う（たばこを吸う）;すう（たばこをすう）;merokok,  mengisap (rokok);14;ir2.1:n3
+行って来る;いってくる;pergi (dan kembali lagi ke tempat tersebut setelahnya);14;ir2.1:n5
+休憩（する）;きゅうけい（する）;rehat,  istirahat sejenak;14;ir2.1:n1
+戻る;もどる;kembali;14;ir2.1:n3
+早退する;そうたいする;pulang lebih awal;14;ir2.1:n3
+休みを取る;やすみをとる;mengambil cuti;14;ir2.1:n3
+社長;しゃちょう;direktur utama;14;ir2.1:n4
+役所;やくしょ;balai kota;14;ir2.1:n3
+早く;はやく;lebih awal;14;ir2.1:n4
+用事;ようじ;urusan;14;ir2.1:n4
+済む;すむ;selesai;14;ir2.1:n3
+主任;しゅにん;kepala,  ketua (staf);14;ir2.1:n3
+来月;らいげつ;bulan depan;14;ir2.1:n5
+できたら;できたら;kalau memungkinkan,  kalau bisa;14;ir2.1:n0
+ちょっと、いいでしょうか？;ちょっと、いいでしょうか？;Maaf, bisa minta waktunya sebentar?;14;ir2.1:n0
+別にかまいません;べつにかまいません;Tidak masalah.;14;ir2.1:n4
+休暇届;きゅうかとどけ;formulir cuti;14;ir2.1:n1
+出す;だす;mengumpulkan,  menyerahkan;14;ir2.1:n5
+フォーム;フォーム;formulir;14;ir2.1:n0
+所属;しょぞく;tempat kerja,  bagian,  divisi;14;ir2.1:n1
+チーム;チーム;tim;14;ir2.1:n0
+総務;そうむ;bagian umum;14;ir2.1:n2
+氏名;しめい;nama lengkap;14;ir2.1:n1
+ハンコ;ハンコ;stempel;14;ir2.1:n0
+持っている;もっている;memiliki;14;ir2.1:n4
+持つ;もつ;memiliki;14;ir2.1:n4
+で;で;maka,  jadi,  oleh karena itu (bentuk informal untuk mengatakan それで);14;ir2.1:n0
+期間;きかん;durasi waktu;14;ir2.1:n3
+理由;りゆう;alasan;14;ir2.1:n3
+普通;ふつう;biasa;14;ir2.1:n2
+私用;しよう;urusan pribadi;14;ir2.1:n4
+～中（休み中）;～ちゅう（やすみちゅう）;sedang ~ (sedang cuti);14;ir2.1:n5
+連絡先;れんらくさき;alamat yang dapat dihubungi;14;ir2.1:n2
+備考;びこう;catatan;14;ir2.1:n3
+いる;いる;perlu;14;ir2.1:n0
+承認印;しょうにんいん;stempel konfirmasi;14;ir2.1:n2
+事前に;じぜんに;sebelumnya;14;ir2.1:n4
+提出する;ていしゅつする;menyerahkan;14;ir2.1:n1
+症状;しょうじょう;gejala penyakit;15;ir2.1:n1
+のど;のど;tenggorokan;15;ir2.1:n0
+痛い;いたい;sakit;15;ir2.1:n3
+お腹;おなか;perut;15;ir2.1:n3
+熱;ねつ;demam;15;ir2.1:n3
+せき;せき;batuk;15;ir2.1:n0
+出る（せき／鼻水が出る）;でる（せき／はなみずがでる）;keluar,  sedang mengalami (batuk / pilek);15;ir2.1:n2
+鼻水;はなみず;ingus (pada saat pilek);15;ir2.1:n2
+吐き気;はきけ;mual,  rasa ingin muntah;15;ir2.1:n1
+吐き気がする;はきけがする;merasa mual;15;ir2.1:n1
+食欲;しょくよく;nafsu makan;15;ir2.1:n3
+目;め;mata;15;ir2.1:n4
+かゆい;かゆい;gatal;15;ir2.1:n0
+足;あし;kaki;15;ir2.1:n4
+くじく;くじく;keseレオ;15;ir2.1:n0
+頭;あたま;kepala;15;ir2.1:n3
+ぶつける;ぶつける;terantuk,  terbentur,  menabrak;15;ir2.1:n0
+おととい;おととい;kemarin lusa,  2 hari lalu;15;ir2.1:n0
+転ぶ;ころぶ;jatuh;15;ir2.1:n4
+こう;こう;begini,  seperti ini;15;ir2.1:n0
+レントゲン;レントゲン;rontgen;15;ir2.1:n0
+～週間（1週間）;～しゅうかん（いっしゅうかん）;～ minggu / pekan (seminggu / sepekan);15;ir2.1:n4
+花粉症;かふんしょう;alergi polen (serbuk sari);15;ir2.1:n1
+どうしましたか？;どうしましたか？;Kenapa? ,  Ada masalah apa?;15;ir2.1:n0
+どうされましたか？;どうされましたか？;Kenapa? ,  Ada masalah apa? (ungkapan bentuk sopan dari どうしましたか？);15;ir2.1:n0
+保険証;ほけんしょう;kartu asuransi kesehatan;15;ir2.1:n1
+問診票;もんしんひょう;kuesioner,  daftar pertanyaan (seputar pemeriksaan);15;ir2.1:n1
+薬;くすり;obat;15;ir2.1:n3
+飲む（薬を飲む）;のむ（くすりをのむ）;minum (minum obat);15;ir2.1:n3
+会う;あう;bertemu;15;ir2.1:n4
+やわらかい;やわらかい;empuk,  lunak;15;ir2.1:n0
+辛い;からい;pedas;15;ir2.1:n2
+診察券;しんさつけん;kartu registrasi pasien (pada klinik / rumah sakit);15;ir2.1:n1
+処方せん;しょほうせん;resep obat;15;ir2.1:n3
+記入する;きにゅうする;mengisi;15;ir2.1:n3
+医者;いしゃ;dokter;15;ir2.1:n4
+～度～分（38度5分）;～ど～ぶ（さんじゅうはちどごぶ）;～ derajat (38,5 derajat);15;ir2.1:n1
+口;くち;mulut;15;ir2.1:n4
+インフルエンザ;インフルエンザ;influenza;15;ir2.1:n0
+検査する;けんさする;memeriksa;15;ir2.1:n1
+A型;エーがた;tipe A;15;ir2.1:n2
+下がる（熱が下がる）;さがる（ねつがさがる）;turun (demam turun);15;ir2.1:n3
+おかゆ;おかゆ;bubur nasi;15;ir2.1:n0
+薬局;やっきょく;apotek;15;ir2.1:n3
+もらう;もらう;menerima;15;ir2.1:n0
+お大事に;おだいじに;Semoga lekas sembuh. (Ungkapan untuk menyatakan simpati kepada orang yang sedang sakit);15;ir2.1:n4
+お持ちですか？;おもちですか？;Apakah Anda membawa,  mempunyai,  memiliki～ ? (ungkapan bentuk sopan dari 持っていますか？);15;ir2.1:n4
+フリガナ;フリガナ;cara baca dalam huruf Hiragana / Katakana;15;ir2.1:n0
+性別;せいべつ;jenis kelamin;15;ir2.1:n3
+病気にかかる;びょうきにかかる;menderita penyakit;15;ir2.1:n4
+現在;げんざい;saat ini;15;ir2.1:n3
+女性;じょせい;wanita;15;ir2.1:n3
+妊娠する;にんしんする;hamil;15;ir2.1:n1
+記入例;きにゅうれい;contoh pengisian;15;ir2.1:n3
+記入日;きにゅうび;tanggal pengisian;15;ir2.1:n3
+大正／大;たいしょう／だい;Taisho / T (nama era di Jepang);15;ir2.1:n4
+昭和／昭;しょうわ／しょう;Showa / S (nama era di Jepang);15;ir2.1:n1
+平成／平;へいせい／へい;Heisei / H (nama era di Jepang);15;ir2.1:n3
+令和／令;れいわ／れい;Reiwa / R (nama era di Jepang);15;ir2.1:n2
+～才（27才）;～さい（にじゅうななさい）;～ tahun (umur 27 tahun);15;ir2.1:n3
+今までに;いままでに;sejauh ini,  sampai saat ini;15;ir2.1:n5
+病気;びょうき;sakit,  penyakit;15;ir2.1:n4
+病名;びょうめい;nama penyakit;15;ir2.1:n4
+～本（1本）;～ほん／ぽん／ぼん（いっぽん）;～ botol (contoh : 1 botol);15;ir2.1:n5
+～の方（女性の方）;～のかた（じょせいのかた）;orang (imbuhan untuk menyatakan orang dalam bentuk sopan, contoh : perempuan / wanita);15;ir2.1:n3
+答える;こたえる;menjawab;15;ir2.1:n4
+～週目（10週目）;～しゅうめ（じゅっしゅうめ）;minggu ke-～ (contoh : minggu ke-10);15;ir2.1:n4
+お答えください;おこたえください;Mohon dijawab. (ungkapan bentuk sopan);15;ir2.1:n4
+下げる（熱を下げる）;さげる（ねつをさげる）;menurunkan (contoh : menurunkan demam);15;ir2.1:n3
+抑える;おさえる;meredakan;15;ir2.1:n1
+痛み止め;いたみどめ;obat penghilang rasa sakit;15;ir2.1:n3
+くしゃみ;くしゃみ;bersin;15;ir2.1:n0
+つらい;つらい;merasa berat,  payah;15;ir2.1:n0
+がまんする;がまんする;bertahan,  menahan diri;15;ir2.1:n0
+がまんできない;がまんできない;tidak mampu bertahan,  menahan diri;15;ir2.1:n0
+間をあける;あいだをあける;berselang,  memberi jarak antar waktu;15;ir2.1:n5
+～以上（38度5分以上）;～いじょう（さんじゅうはちどごぶいじょう）;～ atau lebih (38,5 derajat atau lebih);15;ir2.1:n1
+胃;い;lambung;15;ir2.1:n2
+守る;まもる;melindungi;15;ir2.1:n3
+運転する;うんてんする;berkendara,  mengemudi;15;ir2.1:n4
+食後;しょくご;sesudah makan;15;ir2.1:n5
+眠い;ねむい;mengantuk;15;ir2.1:n3
+解熱剤;げねつざい;obat penurun panas / demam;15;ir2.1:n1
+熱が高い;ねつがたかい;demam tinggi;15;ir2.1:n3
+それと;それと;dan;15;ir2.1:n0
+こっち;こっち;ini,  yang ini;15;ir2.1:n0
+夕方／夕;ゆうがた;sore,  sore hari;15;ir2.1:n4
+寝る前／寝前;ねるまえ;sebelum tidur;15;ir2.1:n3
+用法;ようほう;cara penggunaan;15;ir2.1:n3
+用量;ようりょう;dosis;15;ir2.1:n2
+説明書;せつめいしょ;instruksi,  deskripsi;15;ir2.1:n3
+効能;こうのう;efek;15;ir2.1:n2
+注意事項;ちゅういじこう;peringatan,  catatan;15;ir2.1:n1
+夕食後;ゆうしょくご;sesudah makan malam;15;ir2.1:n4
+～錠（2錠）;～じょう（にじょう）;～ butir (contoh : 2 butir obat);15;ir2.1:n1
+～日分（5日分）;～にちぶん（いつかぶん）;untuk ～ hari (contoh : untuk 5 hari);15;ir2.1:n1
+毎食後;まいしょくご;setiap sehabis makan;15;ir2.1:n5
+顔;かお;muka,  wajah;16;ir2.1:n3
+体;からだ;badan;16;ir2.1:n4
+頭;あたま;kepala;16;ir2.1:n3
+鼻;はな;hidung;16;ir2.1:n2
+歯;は;gigi;16;ir2.1:n3
+首;くび;leher;16;ir2.1:n3
+目;め;mata;16;ir2.1:n4
+耳;みみ;telinga;16;ir2.1:n3
+口;くち;mulut;16;ir2.1:n4
+肩;かた;bahu;16;ir2.1:n2
+胸;むね;dada;16;ir2.1:n2
+お腹;おなか;perut;16;ir2.1:n3
+足;あし;kaki;16;ir2.1:n4
+背中;せなか;punggung;16;ir2.1:n3
+腰;こし;pinggang;16;ir2.1:n2
+腕;うで;lengan;16;ir2.1:n2
+手;て;tangan;16;ir2.1:n4
+指;ゆび;jari;16;ir2.1:n3
+肩がこる;かたがこる;bahu kaku;16;ir2.1:n2
+だるい;だるい;lemas,  terlalu letih dan lesu;16;ir2.1:n0
+痛い;いたい;sakit;16;ir2.1:n3
+胃;い;lambung;16;ir2.1:n2
+調子が悪い;ちょうしがわるい;dalam kondisi tidak baik;16;ir2.1:n3
+二日酔い;ふつかよい;keadaan tidak nyaman setelah bangun tidur, akibat terlalu banyak mengonsumsi minuman beralkohol;16;ir2.1:n1
+眠れない;ねむれない;tidak bisa tidur;16;ir2.1:n3
+お風呂に入る;おふろにはいる;mandi;16;ir2.1:n1
+温める;あたためる;menghangatkan;16;ir2.1:n2
+暖かい;あたたかい;hangat;16;ir2.1:n1
+飲む;のむ;minum;16;ir2.1:n4
+マッサージする;マッサージする;memijat;16;ir2.1:n0
+薬;くすり;obat;16;ir2.1:n3
+飲む（薬を飲む）;のむ（くすりをのむ）;minum (minum obat);16;ir2.1:n3
+最近;さいきん;akhir-akhir ini;16;ir2.1:n3
+ぬるい;ぬるい;hangat,  suam kuku;16;ir2.1:n0
+試す;ためす;mencoba;16;ir2.1:n4
+飲みすぎる;のみすぎる;terlalu banyak minum,  kebanyakan minum;16;ir2.1:n4
+けっこう;けっこう;cukup;16;ir2.1:n0
+それはいけませんね;それはいけませんね;Itu tidak baik.;16;ir2.1:n0
+どうしていますか;どうしていますか;Bagaimana menanganinya?;16;ir2.1:n0
+疲れている;つかれている;lelah;16;ir2.1:n3
+寝不足;ねぶそく;kurang tidur;16;ir2.1:n3
+健康;けんこう;kesehatan;16;ir2.1:n1
+運動;うんどう;olahraga;16;ir2.1:n4
+ジム;ジム;gymnasium,  pusat latihan kebugaran;16;ir2.1:n0
+ジョギングする;ジョギングする;joging;16;ir2.1:n0
+走る;はしる;lari,  berlari;16;ir2.1:n4
+ウォーキングする;ウォーキングする;jalan santai,  walking;16;ir2.1:n0
+歩く;あるく;berjalan;16;ir2.1:n4
+プール;プール;kolam renang;16;ir2.1:n0
+泳ぐ;およぐ;berenang;16;ir2.1:n3
+ヨガ;ヨガ;yoga;16;ir2.1:n0
+食生活;しょくせいかつ;kebiasaan dalam mengonsumsi makanan atau minuman;16;ir2.1:n3
+食べすぎる;たべすぎる;terlalu banyak makan;16;ir2.1:n5
+睡眠;すいみん;tidur;16;ir2.1:n1
+早く;はやく;cepat,  awal;16;ir2.1:n4
+起きる;おきる;bangun;16;ir2.1:n4
+だいたい;だいたい;kira-kira;16;ir2.1:n0
+チキンサラダ;チキンサラダ;selada ayam;16;ir2.1:n0
+トマトジュース;トマトジュース;jus tomat;16;ir2.1:n0
+ダイエットする;ダイエットする;melakukan diet;16;ir2.1:n0
+気をつける;きをつける;berhati-hati,  memperhatikan;16;ir2.1:n5
+なるほど;なるほど;Oh, begitu;16;ir2.1:n0
+ノロウイルス;ノロウイルス;norovirus;16;ir2.1:n0
+食中毒;しょくちゅうどく;keracunan makanan;16;ir2.1:n2
+原因;げんいん;penyebab;16;ir2.1:n3
+症状;しょうじょう;gejala penyakit;16;ir2.1:n1
+予防法;よぼうほう;cara pencegahan;16;ir2.1:n2
+腹痛;ふくつう;sakit perut;16;ir2.1:n3
+おう吐;おうと;muntah;16;ir2.1:n1
+下痢;げり;diare;16;ir2.1:n1
+手洗い;てあらい;cuci tangan;16;ir2.1:n3
+加熱する;かねつする;memanaskan;16;ir2.1:n3
+増える;ふえる;bertambah;16;ir2.1:n3
+発生する;はっせいする;muncul,  terjadi;16;ir2.1:n4
+貝;かい;kerang;16;ir2.1:n2
+感染する;かんせんする;terinfeksi,  tertular;16;ir2.1:n1
+調理する;ちょうりする;memasak;16;ir2.1:n3
+予防する;よぼうする;mencegah;16;ir2.1:n2
+急増;きゅうぞう;bertambah dengan cepat;16;ir2.1:n3
+県内;けんない;dalam prefektur;16;ir2.1:n2
+話題;わだい;topik;16;ir2.1:n4
+汚染された;おせんされた;terkontaminasi;16;ir2.1:n1
+カキ;カキ;tiram;16;ir2.1:n0
+十分に;じゅうぶんに;dengan cukup;16;ir2.1:n1
+ウイルス;ウイルス;virus;16;ir2.1:n0
+つく;つく;menempel,  terkontaminasi (virus);16;ir2.1:n0
+起こす;おこす;menyebabkan;16;ir2.1:n4
+どうしたら;どうしたら;bagaimana;16;ir2.1:n0
+ポイント;ポイント;poin,  hal-hal penting;16;ir2.1:n0
+十分な;じゅうぶんな;cukup;16;ir2.1:n1
+食事前;しょくじまえ;sebelum makan;16;ir2.1:n4
+前後;ぜんご;sebelum dan sesudah;16;ir2.1:n5
+洗う;あらう;mencuci;16;ir2.1:n3
+中心部;ちゅうしんぶ;bagian dalam,  inti,  pusat;16;ir2.1:n3
+うつす;うつす;menularkan;16;ir2.1:n0
+マスク;マスク;masker;16;ir2.1:n0
+うがい;うがい;berkumur,  kumur-kumur;16;ir2.1:n0
+予防接種;よぼうせっしゅ;vaksinasi;16;ir2.1:n2
+発熱;はつねつ;demam;16;ir2.1:n3
+全身;ぜんしん;seluruh badan;16;ir2.1:n1
+だるさ;だるさ;kelelahan;16;ir2.1:n0
+関節痛;かんせつつう;sakit pada persendian,  nyeri sendi;16;ir2.1:n1
+痛み;いたみ;sakit;16;ir2.1:n3
+気持ち;きもち;sikap,  perasaan;16;ir2.1:n4
+大切な;たいせつな;penting;16;ir2.1:n4
+こまめに;こまめに;sering;16;ir2.1:n0
+しっかりと;しっかりと;dengan tepat;16;ir2.1:n0
+外出先;がいしゅつさき;tempat yang dikunjungi saat keluar rumah;16;ir2.1:n5
+帰宅する;きたくする;pulang ke rumah;16;ir2.1:n3
+流行する;りゅうこうする;mewabah (cth : mewabahnya influenza);16;ir2.1:n3
+受ける;うける;menerima;16;ir2.1:n3
+予約;よやく;memesan;16;ir2.1:n3
+受付中;うけつけちゅう;sedang menerima,  melayani;16;ir2.1:n3
+クリニック;クリニック;klinik;16;ir2.1:n0
+上がる;あがる;masuk ke rumah;17;ir2.1:n5
+うちの;うちの;~saya;17;ir2.1:n0
+奥さん;おくさん;istri;17;ir2.1:n2
+息子;むすこ;putra,  anak laki-laki;17;ir2.1:n3
+お茶;おちゃ;teh khas Jepang;17;ir2.1:n4
+足をくずす;あしをくずす;duduk lebih rileks dan nyaman;17;ir2.1:n4
+楽にする;らくにする;anggap saja seperti di rumah sendiri;17;ir2.1:n4
+遊びに来る;あそびにくる;datang berkunjung (main);17;ir2.1:n3
+ごめんください;ごめんください;Permisi.;17;ir2.1:n0
+いらっしゃい;いらっしゃい;Selamat datang. / Silakan masuk.;17;ir2.1:n0
+ようこそ;ようこそ;Selamat datang.;17;ir2.1:n0
+おじゃまする;おじゃまする;Permisi, mohon maaf mengganggu Anda.;17;ir2.1:n0
+お世話になっています;おせわになっています;Terima kasih untuk semua bantuannya selama ini.;17;ir2.1:n4
+こちらこそ;こちらこそ;Sama-sama.;17;ir2.1:n0
+ごちそうさまでした;ごちそうさまでした;Terima kasih untuk hidangannya.;17;ir2.1:n0
+おじゃましました;おじゃましました;Maaf saya telah mengganggu / merepotkan Anda.;17;ir2.1:n0
+お土産;おみやげ;oleh-oleh,  cendera mata;17;ir2.1:n3
+コーヒー;コーヒー;kopi;17;ir2.1:n0
+調味料;ちょうみりょう;bumbu;17;ir2.1:n3
+カップ;カップ;cangkir;17;ir2.1:n0
+キーホルダー;キーホルダー;gantungan kunci;17;ir2.1:n0
+ペン;ペン;pena;17;ir2.1:n0
+お守り;おまもり;Omamori (Azimat);17;ir2.1:n3
+絵葉書;えばがき;kartu pos bergambar;17;ir2.1:n3
+写真集;しゃしんしゅう;album foto,  kumpulan foto;17;ir2.1:n4
+飾り;かざり;dekorasi,  hiasan;17;ir2.1:n1
+人形;にんぎょう;boneka;17;ir2.1:n3
+かばん;かばん;tas;17;ir2.1:n0
+バッグ;バッグ;tas;17;ir2.1:n0
+魔よけ;まよけ;azimat (benda yang diyakini memiliki kekuatan magis tertentu);17;ir2.1:n1
+ネパール;ネパール;Nepal;17;ir2.1:n0
+ナンプラー;ナンプラー;nam pla (bumbu khas Thailand);17;ir2.1:n0
+タイ;タイ;Thailand;17;ir2.1:n0
+トゥロン;トゥロン;turon (penganan khas Filipina);17;ir2.1:n0
+フィリピン;フィリピン;Filipina;17;ir2.1:n0
+スラーソー;スラーソー;sra sor (minuman beralkohol khas Kamboja);17;ir2.1:n0
+カンボジア;カンボジア;Kamboja;17;ir2.1:n0
+壁;かべ;dinding;17;ir2.1:n1
+かける（壁にかける）;かける（かべにかける）;menggantung (cth: menggantung di dinding);17;ir2.1:n1
+入って来る;はいってくる;memasuki;17;ir2.1:n5
+悪い;わるい;buruk,  jahat;17;ir2.1:n4
+かける;かける;menyiram;17;ir2.1:n0
+～といいます;～といいます;disebut～ ,  dinamakan～;17;ir2.1:n0
+プレゼント;プレゼント;hadiah;17;ir2.1:n0
+米／お米;こめ／おこめ;beras;17;ir2.1:n3
+強い;つよい;kuat;17;ir2.1:n4
+ピアス;ピアス;anting-anting;17;ir2.1:n0
+マグカップ;マグカップ;cangkir;17;ir2.1:n0
+帽子;ぼうし;topi;17;ir2.1:n2
+お母さん;おかあさん;ibu (orang lain);17;ir2.1:n5
+お兄さん;おにいさん;kakak laki-laki (orang lain);17;ir2.1:n4
+誕生日;たんじょうび;hari ulang tahun;17;ir2.1:n1
+もらう;mouaru;mendapatkan,  menerima;17;ir2.1:n0
+おしゃれ（な）;おしゃれ（な）;keren,  stylish;17;ir2.1:n0
+すてき（な）;すてき（な）;indah,  bagus,  cantik;17;ir2.1:n0
+くれる;くれる;menerima (diberikan oleh orang lain untuk diri pembicara);17;ir2.1:n0
+両親;りょうしん;orang tua;17;ir2.1:n3
+いいでしょう？;いいでしょう？;Bagus / indah, kan?;17;ir2.1:n0
+バリ;バリ;Bali;17;ir2.1:n0
+お父さん;おとうさん;ayah (orang lain);17;ir2.1:n5
+お姉さん;おねえさん;kakak perempuan (orang lain);17;ir2.1:n4
+弟さん;おとうとさん;adik laki-laki (orang lain);17;ir2.1:n4
+妹さん;いもうとさん;adik perempuan (orang lain);17;ir2.1:n4
+お子さん;おこさん;anak (orang lain);17;ir2.1:n5
+息子さん;むすこさん;anak laki-laki (orang lain);17;ir2.1:n3
+娘さん;むすめさん;anak perempuan (orang lain);17;ir2.1:n3
+お宅;おたく;rumah,  kediaman;17;ir2.1:n3
+おじゃまする;おじゃまする;mengunjungi;17;ir2.1:n0
+経験;けいけん;pengalaman;17;ir2.1:n3
+よろしくお伝えください;よろしくおつたえください;Tolong sampaikan salam saya.;17;ir2.1:n3
+結婚（する）;けっこん（する）;menikah;18;ir2.1:n1
+出産;しゅっさん;melahirkan;18;ir2.1:n3
+生まれる;うまれる;lahir;18;ir2.1:n5
+合格（する）;ごうかく（する）;lulus;18;ir2.1:n3
+男の子;おとこのこ;anak laki-laki;18;ir2.1:n5
+女の子;おんなのこ;anak perempuan;18;ir2.1:n5
+決める;きめる;memutuskan;18;ir2.1:n3
+考える;かんがえる;berpikir;18;ir2.1:n4
+ご結婚;ごけっこん;pernikahan;18;ir2.1:n1
+私たち;わたしたち;kami,  kita;18;ir2.1:n4
+うれしい;うれしい;senang;18;ir2.1:n0
+相手;あいて;pasangan,  suami / istri;18;ir2.1:n3
+お祝い;おいわい;perayaan,  hadiah;18;ir2.1:n2
+ごちそうする;ごちそうする;menjamu,  mentraktir;18;ir2.1:n0
+きっと;きっと;pasti;18;ir2.1:n0
+あげる;あげる;memberi;18;ir2.1:n0
+楽しみですね;たのしみですね;Wah, menyenangkan, ya.;18;ir2.1:n4
+おめでとう（ございます）;おめでとう（ございます）;Selamat.;18;ir2.1:n0
+お幸せに;おしあわせに;Semoga bahagia.;18;ir2.1:n3
+JLPT;ジェーエルピーティー;JLPT (Japanese-Language Proficiency Test);18;ir2.1:n0
+フォトフレーム;フォトフレーム;bingkai foto;18;ir2.1:n0
+時計;とけい;jam;18;ir2.1:n4
+ネクタイ;ネクタイ;dasi;18;ir2.1:n0
+アクセサリー;アクセサリー;aksesori;18;ir2.1:n0
+ハンカチ;ハンカチ;saputangan;18;ir2.1:n0
+ケーキ;ケーキ;kue;18;ir2.1:n0
+ギフトカード;ギフトカード;voucer,  kartu diskon;18;ir2.1:n0
+帰国（する）;きこく（する）;pulang ke negara asal;18;ir2.1:n4
+さびしい;さびしい;sepi (dirindukan);18;ir2.1:n0
+送別会;そうべつかい;pesta perpisahan;18;ir2.1:n4
+呼ぶ;よぶ;memanggil (mengundang);18;ir2.1:n3
+予約する;よやくする;memesan;18;ir2.1:n3
+思い出;おもいで;kenangan;18;ir2.1:n4
+残る;のこる;tetap tinggal,  tetap ada;18;ir2.1:n3
+思う;おもう;mengira,  berpikir;18;ir2.1:n4
+予算;よさん;anggaran;18;ir2.1:n2
+参加者;さんかしゃ;peserta;18;ir2.1:n3
+それなら;それなら;kalau begitu;18;ir2.1:n0
+デジタルフォトフレーム;デジタルフォトフレーム;bingkai foto digital;18;ir2.1:n0
+選ぶ;えらぶ;memilih;18;ir2.1:n3
+それでは;それでは;sekarang;18;ir2.1:n0
+あいさつ;あいさつ;sambutan,  salam (perpisahan);18;ir2.1:n0
+はじめ;はじめ;pertama-tama;18;ir2.1:n0
+友だちができる;ともだちができる;mendapat teman;18;ir2.1:n5
+大切にする;たいせつにする;jaga,  rawat dengan baik;18;ir2.1:n4
+飾る;かざる;memajang;18;ir2.1:n1
+～のこと（私のこと）;～のこと（わたしのこと）;tentang ~ (tentang saya);18;ir2.1:n4
+忘れる;わすれる;lupa;18;ir2.1:n3
+お元気で;おげんきで;Jaga diri baik-baik. / Sehat selalu.;18;ir2.1:n4
+乾杯;かんぱい;Bersulang;18;ir2.1:n2
+お世話になりました;おせわになりました;Terima kasih untuk segala bantuannya.;18;ir2.1:n4
+元気でいてください;げんきでいてください;Semoga sehat selalu.;18;ir2.1:n4
+メッセージ;メッセージ;pesan;18;ir2.1:n0
+とうとう;とうとう;akhirnya;18;ir2.1:n0
+～代（30代）;～だい（さんじゅうだい）;~ an (usia 30-an);18;ir2.1:n4
+歌う;うたう;menyanyi;18;ir2.1:n4
+踊る;おどる;menari;18;ir2.1:n2
+サービス;サービス;layanan,  layanan gratis;18;ir2.1:n0
+あたたかい;あたたかい;hangat;18;ir2.1:n0
+カラオケ;カラオケ;karaoke;18;ir2.1:n0
+幸せ（な）;しあわせ（な）;bahagia;18;ir2.1:n3
+素敵（な）;すてき（な）;istimewa,  indah;18;ir2.1:n1
+～ますように;～ますように;Semoga ~. (digunakan untuk mengekspresikan harapan);18;ir2.1:n0
+家庭;かてい;rumah tangga,  keluarga;18;ir2.1:n3
+いつまでも;いつまでも;selamanya;18;ir2.1:n0
+築く;きずく;membangun;18;ir2.1:n2
+末永く;すえながく;selamanya;18;ir2.1:n2
+いなくなる;いなくなる;pergi meninggalkan;18;ir2.1:n0
+がんばってください;がんばってください;Sukses selalu dan tetap semangat.;18;ir2.1:n0
+これまで;これまで;sampai saat ini;18;ir2.1:n0
+活躍;かつやく;keberhasilan;18;ir2.1:n1
+期待する;きたいする;berharap;18;ir2.1:n3
+主任;しゅにん;ketua,  kepala;1;ir2.2:n3
+パート;パート;pekerja paruh waktu;1;ir2.2:n0
+いちばん;いちばん;paling;1;ir2.2:n0
+長い;ながい;lama,  panjang (waktu);1;ir2.2:n5
+～出身（中国出身）;～しゅっしん（ちゅうごくしゅっしん）;berasal dari ～ (cth : berasal dari Tiongkok);1;ir2.2:n1
+手続き;てつづき;prosedur;1;ir2.2:n3
+生活;せいかつ;kehidupan;1;ir2.2:n3
+いろいろ（な）;いろいろ（な）;bermacam-macam,  berbagai;1;ir2.2:n0
+何でも;なんでも;apapun;1;ir2.2:n5
+～でよかったら（私でよかったら）;～でよかったら（わたしでよかったら）;jika～ berkenan / tidak masalah (cth : jika saya diperkenankan);1;ir2.2:n4
+いつでも;いつでも;kapanpun;1;ir2.2:n0
+担当;たんとう;bertanggung jawab,  penanggung jawab;1;ir2.2:n2
+申す;もうす;bernama,  dipanggil sebagai (nama);1;ir2.2:n3
+呼ぶ;よぶ;memanggil;1;ir2.2:n3
+一生懸命;いっしょうけんめい;bekerja keras;1;ir2.2:n1
+がんばる;がんばる;berusaha,  bekerja keras;1;ir2.2:n0
+J-POP;ジェーポップ;musik pop Jepang,  japanese pop music;1;ir2.2:n0
+がんばります;がんばります;Saya akan berusaha / bekerja keras sebaik mungkin;1;ir2.2:n0
+Perfume;パフューム;Perfume (kelompok musik pop Jepang beraliran techno-pop yang terdiri dari 3 orang penyanyi wanita);1;ir2.2:n0
+方角;ほうがく;arah;1;ir2.2:n2
+北;きた;utara;1;ir2.2:n5
+東;ひがし;timur;1;ir2.2:n5
+南;みなみ;selatan;1;ir2.2:n5
+西;にし;barat;1;ir2.2:n5
+自然;しぜん;alam;1;ir2.2:n3
+川;かわ;sungai;1;ir2.2:n5
+島;しま;pulau;1;ir2.2:n2
+森;もり;hutan;1;ir2.2:n2
+ジャングル;ジャングル;hutan rimba,  hutan belantara;1;ir2.2:n0
+草原;そうげん;padang rumput;1;ir2.2:n3
+砂漠;さばく;padang pasir;1;ir2.2:n1
+高原;こうげん;dataran tinggi;1;ir2.2:n3
+首都;しゅと;ibu kota;1;ir2.2:n3
+観光地;かんこうち;destinasi wisata,  tempat wisata;1;ir2.2:n3
+モンゴル;モンゴル;Mongolia;1;ir2.2:n0
+のんびりしている;のんびりしている;santai,  bersantai;1;ir2.2:n0
+都会;とかい;kota;1;ir2.2:n3
+畑;はたけ;ladang;1;ir2.2:n1
+観光客;かんこうきゃく;turis,  wisatawan;1;ir2.2:n3
+大勢;おおぜい;banyak;1;ir2.2:n2
+お客さん;おきゃくさん;tamu,  pengunjung;1;ir2.2:n3
+テント;テント;tenda;1;ir2.2:n0
+違います;ちがいます;berbeda;1;ir2.2:n3
+セブ;セブ;Cebu (Kota di Filipina);1;ir2.2:n0
+ウランバートル;ウランバートル;Ulan Bator (Ibu kota Mongolia);1;ir2.2:n0
+ホーチミン;ホーチミン;Ho Chi Minh (Kota di Vietnam);1;ir2.2:n0
+ウォノソボ;ウォノソボ;Wonosobo (Kota di Jawa Tengah);1;ir2.2:n0
+セブ島;セブとう;Pulau Cebu;1;ir2.2:n2
+自己紹介;じこしょうかい;perkenalan diri;1;ir2.2:n1
+猫;ねこ;kucing;1;ir2.2:n3
+グループ;グループ;grup,  kelompok;1;ir2.2:n0
+コミュニケーションする;コミュニケーションする;berkomunikasi;1;ir2.2:n0
+インド料理;インドりょうり;masakan khas India;1;ir2.2:n4
+食べ歩き;たべあるき;wisata kuliner (di berbagai daerah & tempat);1;ir2.2:n4
+ニックネーム;ニックネーム;nama panggilan;1;ir2.2:n0
+バンコク;バンコク;Bangkok (Ibu kota Thailand);1;ir2.2:n0
+アニソン;アニソン;ani-son (anime song),  lagu film animasi;1;ir2.2:n0
+髪;かみ;rambut;2;ir2.2:n3
+髪が長い;かみがながい;rambut panjang;2;ir2.2:n3
+髪が短い;かみがみじかい;rambut pendek;2;ir2.2:n2
+背;せ;tinggi badan;2;ir2.2:n3
+背が高い;せがたかい;(badan) tinggi;2;ir2.2:n3
+座る;すわる;duduk;2;ir2.2:n3
+立つ;たつ;berdiri;2;ir2.2:n4
+かぶる（帽子をかぶる）;かぶる（ぼうしをかぶる）;memakai,  mengenakan (cth : memakai topi);2;ir2.2:n2
+ピアス;ピアス;anting-anting;2;ir2.2:n0
+する（ピアスをする）;する（ピアスをする）;memakai,  mengenakan (cth : mengenakan anting-anting);2;ir2.2:n0
+ワンピース;ワンピース;baju terusan;2;ir2.2:n0
+着る;きる;memakai,  mengenakan (pakaian);2;ir2.2:n4
+はく（くつをはく）;はく（くつをはく）;memakai,  mengenakan (cth : memakai sepatu);2;ir2.2:n0
+めがね;めがね;kacamata;2;ir2.2:n0
+かける（めがねをかける）;かける（めがねをかける）;memakai,  mengenakan (cth : memakai kacamata);2;ir2.2:n0
+ひげ;ひげ;jenggot;2;ir2.2:n0
+はやす（ひげをはやす）;はやす（ひげをはやす）;menumbuhkan (cth : menumbuhkan jenggot);2;ir2.2:n0
+シャツ;シャツ;kemeja;2;ir2.2:n0
+ズボン;ズボン;celana panjang;2;ir2.2:n0
+赤い;あかい;merah;2;ir2.2:n4
+白い;しろい;putih;2;ir2.2:n5
+黄色い;きいろい;kuning;2;ir2.2:n2
+青い;あおい;biru;2;ir2.2:n4
+黒い;くろい;hitam;2;ir2.2:n4
+男の人;おとこのひと;pria;2;ir2.2:n5
+ジャンパー;ジャンパー;jaket;2;ir2.2:n0
+ほら;ほら;Lihat (lah)..;2;ir2.2:n0
+やさしい;やさしい;baik hati;2;ir2.2:n0
+きびしい;きびしい;tegas;2;ir2.2:n0
+こわい;こわい;seram;2;ir2.2:n0
+忙しい;いそがしい;sibuk;2;ir2.2:n3
+まじめ（な）;まじめ（な）;rajin;2;ir2.2:n0
+元気（な）;げんき（な）;energik,  bersemangat;2;ir2.2:n4
+恋人;こいびと;pacar,  kekasih;2;ir2.2:n2
+孫;まご;cucu;2;ir2.2:n2
+この間;このあいだ;beberapa waktu lalu;2;ir2.2:n5
+赤ちゃん;あかちゃん;bayi;2;ir2.2:n4
+泣く;なく;menangis;2;ir2.2:n1
+今度;こんど;kali ini;2;ir2.2:n4
+見た目;みため;penampilan;2;ir2.2:n4
+遅くまで;おそくまで;sampai larut malam;2;ir2.2:n3
+心配（な）;しんぱい（な）;khawatir;2;ir2.2:n3
+かっこいい;かっこいい;keren;2;ir2.2:n0
+歌;うた;menyanyi;2;ir2.2:n4
+演技;えんぎ;berakting;2;ir2.2:n2
+ダンス;ダンス;berdansa,  menari;2;ir2.2:n0
+上手（な）;じょうず（な）;mahir,  pandai;2;ir2.2:n4
+歌手;かしゅ;penyanyi;2;ir2.2:n4
+だれか;だれか;seseorang;2;ir2.2:n0
+引退する;いんたいする;pensiun;2;ir2.2:n3
+今でも;いまでも;bahkan sekarang;2;ir2.2:n5
+俳優;はいゆう;aktor;2;ir2.2:n1
+そんな;そんな;seperti itu;2;ir2.2:n0
+きっかけ;きっかけ;hal yang memicu /mendorong / membuat jadi (suka);2;ir2.2:n0
+映画祭;えいがさい;festival film;2;ir2.2:n2
+世界中;せかいじゅう;seluruh dunia;2;ir2.2:n4
+ファン;ファン;fan,  penggemar;2;ir2.2:n0
+安室奈美恵;あむろなみえ;Amuro Namie (penyanyi berkebangsaan Jepang);2;ir2.2:n1
+三船敏郎;みふねとしろう;Mifune Toshiro (aktor berkebangsaan Jepang);2;ir2.2:n1
+七人の侍;しちにんのさむらい;Seven Samurai (sebuah film karya sutradara Kurosawa Akira);2;ir2.2:n1
+まず;まず;mula-mula;2;ir2.2:n0
+金色;きんいろ;warna keemasan;2;ir2.2:n4
+驚く;おどろく;terkejut;2;ir2.2:n1
+明るい;あかるい;terang;2;ir2.2:n4
+びっくりする;びっくりする;kaget;2;ir2.2:n0
+ハイキング;ハイキング;hiking;2;ir2.2:n0
+できれば;できれば;bila memungkinkan;2;ir2.2:n0
+シリーズ;シリーズ;seri,  rangkaian;2;ir2.2:n0
+おとなりさん;おとなりさん;tetangga;2;ir2.2:n0
+簡単に;かんたんに;dengan mudah;2;ir2.2:n2
+ヤンゴン;ヤンゴン;Yangon;2;ir2.2:n0
+パゴダ;パゴダ;pagoda;2;ir2.2:n0
+増える;ふえる;bertambah;2;ir2.2:n3
+交流協会;こうりゅうきょうかい;asosiasi pertukaran;2;ir2.2:n2
+定食;ていしょく;menu paket;3;ir2.2:n3
+日替わり;ひがわり;(menu) spesial harian;3;ir2.2:n2
+大盛り;おおもり;porsi besar;3;ir2.2:n1
+おかわり自由;おかわりじゆう;bebas tambah porsi;3;ir2.2:n3
+平日;へいじつ;hari kerja;3;ir2.2:n3
+～のみ（平日のみ）;～のみ（へいじつのみ）;hanya ~ (cth : hanya pada hari kerja);3;ir2.2:n3
+ホット;ホット;hot,  panas,  hangat;3;ir2.2:n0
+アイス;アイス;iced,  dingin (menggunakan es);3;ir2.2:n0
+焼き魚;やきざかな;ikan panggang;3;ir2.2:n2
+ハンバーグ;ハンバーグ;hamburger steak,  steak daging;3;ir2.2:n0
+カレーライス;カレーライス;nasi kare khas Jepang;3;ir2.2:n0
+かつ丼;かつどん;katsu-don (semangkuk nasi khas Jepang yang disajikan dengan potongan daging babi);3;ir2.2:n1
+親子丼;おやこどん;oyako-don (semangkuk nasi khas Jepang yang disajikan dengan potongan daging ayam dan telur);3;ir2.2:n1
+つく（みそ汁がつく）;つく（みそしるがつく）;disajikan beserta ~ (cth : disajikan beserta sup miso);3;ir2.2:n1
+だめ（な）;だめ（な）;tidak dapat,  tidak bisa (mengonsumsi);3;ir2.2:n0
+材料;ざいりょう;bahan;3;ir2.2:n2
+豚肉;ぶたにく;daging babi;3;ir2.2:n1
+牛肉;ぎゅうにく;daging sapi;3;ir2.2:n4
+カニ;カニ;kepiting;3;ir2.2:n0
+ナッツ;ナッツ;kacang-kacangan;3;ir2.2:n0
+わさび;わさび;wasabi (semacam lobak khas Jepang);3;ir2.2:n0
+ねぎ;ねぎ;daun bawang;3;ir2.2:n0
+みりん;みりん;mirin (sake manis untuk keperluan memasak);3;ir2.2:n0
+宗教;しゅうきょう;agama;3;ir2.2:n1
+～上（宗教上）;～じょう（しゅうきょうじょう）;dalam hal~ (cth : karena (dalam hal) agama saya);3;ir2.2:n1
+理由;りゆう;alasan;3;ir2.2:n3
+アレルギー;アレルギー;alergi;3;ir2.2:n0
+自転車;じてんしゃ;sepeda;3;ir2.2:n4
+来る;くる;datang;3;ir2.2:n5
+ベジタリアン;ベジタリアン;vegetarian;3;ir2.2:n0
+豆腐;とうふ;tofu (tahu khas Jepang);3;ir2.2:n1
+注文する;ちゅうもんする;memesan;3;ir2.2:n4
+飲める;のめる;dapat meminum;3;ir2.2:n4
+メニュー;メニュー;menu;3;ir2.2:n0
+食べられる;たべられる;dapat memakan,  dapat mengonsumsi;3;ir2.2:n5
+ほかの;ほかの;lainnya;3;ir2.2:n0
+～抜き（わさび抜き）;～ぬき（わさびぬき）;tanpa ~ (cth : tanpa wasabi);3;ir2.2:n3
+そっか;そっか;Gitu ya. (bentuk informasi dari そうですか);3;ir2.2:n0
+かしこまりました;かしこまりました;Saya mengerti,  dimengerti (ungkapan bentuk sopan);3;ir2.2:n0
+カウンター;カウンター;meja bar restoran;3;ir2.2:n0
+座敷;ざしき;zashiki / ruang tatami (ruang untuk duduk berlesehan);3;ir2.2:n1
+テーブル;テーブル;meja;3;ir2.2:n0
+会計／お会計;かいけい／おかいけい;kasir,  pembayaran;3;ir2.2:n4
+レジ;レジ;kasir,  mesin kasir;3;ir2.2:n0
+禁煙;きんえん;larangan merokok;3;ir2.2:n2
+～名（2名）;～めい（にめい）;~ orang (cth : 2 orang);3;ir2.2:n5
+当店;とうてん;restoran kami,  restoran ini;3;ir2.2:n3
+全面;ぜんめん;secara keseluruhan;3;ir2.2:n3
+決まる;きまる;memutuskan;3;ir2.2:n3
+おすすめ;おすすめ;rekomendasi;3;ir2.2:n0
+人気がある;にんきがある;populer;3;ir2.2:n5
+フライ;フライ;furai (lauk berupa gorengan);3;ir2.2:n0
+ミックスフライ;ミックスフライ;aneka lauk goreng;3;ir2.2:n0
+量;りょう;porsi;3;ir2.2:n2
+普通;ふつう;biasa;3;ir2.2:n2
+先に;さきに;terlebih dulu;3;ir2.2:n5
+別々;べつべつ;bayar masing-masing;3;ir2.2:n4
+クーポン;クーポン;voucer, kupon;3;ir2.2:n0
+次回;じかい;lain kali,  kedatangan berikutnya;3;ir2.2:n3
+それにします;それにします;Saya memilih / memesan yang itu.;3;ir2.2:n0
+お会計、お願いします;おかいけい、おねがいします;Bisakah kami meminta bon / tagihannya?;3;ir2.2:n3
+別々でお願いします;べつべつでおねがいします;Kami ingin membayarnya masing-masing.;3;ir2.2:n3
+お客様;おきゃくさま;Pak / Bu,  Tuan / Nyonya (ungkapan bentuk sopan untuk menyebut tamu / pelanggan);3;ir2.2:n3
+何名様;なんめいさま;Berapa orang? (ungkapan bentuk sopan);3;ir2.2:n3
+～名様（2名様）;～めいさま（にめいさま）;~ orang (cth : 2 orang) (ungkapan bentuk sopan);3;ir2.2:n3
+ご注文;ごちゅうもん;pesanan (ungkapan bentuk sopan);3;ir2.2:n4
+いかが;いかが;bagaimana ~ (ungkapan bentuk sopan dari どう);3;ir2.2:n0
+ごいっしょ;ごいっしょ;bersama-sama (ungkapan bentuk sopan);3;ir2.2:n0
+よろしいですか？;よろしいですか？;Apakah sudah benar? (ungkapan bentuk sopan);3;ir2.2:n0
+～がございます;～がございます;Ada / tersedia ~ (ungkapan bentuk sopan);3;ir2.2:n0
+お決まりですか？;おきまりですか？;Apakah Anda sudah memutuskan? (ungkapan bentuk sopan);3;ir2.2:n3
+いかがですか？;いかがですか？;Apakah Anda ingin~? / Bagaimana dengan ~? (ungkapan bentuk sopan);3;ir2.2:n0
+どうなさいますか？;どうなさいますか？;Bagaimana? / Berapa banyak yang Anda inginkan? (ungkapan bentuk sopan);3;ir2.2:n0
+以上でよろしいですか？;いじょうでよろしいですか？;Apakah (pesanannya) sudah semuanya? (ungkapan bentuk sopan);3;ir2.2:n4
+お使いください;おつかいください;Silakan gunakan. (ungkapan bentuk sopan);3;ir2.2:n4
+少なめ;すくなめ;porsi kecil;3;ir2.2:n4
+食後に;しょくごに;setelah (makan) hidangan utama;3;ir2.2:n5
+日/お日;ひにち／おひにち;tanggal;3;ir2.2:n5
+まちがい;まちがい;kesalahan;3;ir2.2:n0
+失礼しました;しつれいしました;Saya mohon maaf.;3;ir2.2:n3
+お電話;おでんわ;telepon (ungkapan bentuk sopan);3;ir2.2:n5
+ご予約;ごよやく;reservasi (ungkapan bentuk sopan);3;ir2.2:n3
+お時間;おじかん;jam,  waktu (ungkapan bentuk sopan);3;ir2.2:n5
+お電話番号;おでんわばんごう;nomor telepon (ungkapan bentuk sopan);3;ir2.2:n3
+～様;～さま;Bapak ~ / Ibu ~ / Tuan ~ / Nyonya ~ (ungkapan bentuk sopan dari ~さん);3;ir2.2:n3
+おまちがいないでしょうか？;おまちがいないでしょうか？;Apakah sudah benar? / Apakah tidak ada kesalahan? (ungkapan bentuk sopan);3;ir2.2:n0
+半額;はんがく;separuh harga;3;ir2.2:n2
+有効期限;ゆうこうきげん;masa berlaku;3;ir2.2:n2
+ドリンクバー;ドリンクバー;drink bar (layanan mandiri / self service berupa bar minuman soft drink bagi pengunjung);3;ir2.2:n0
+おこさま;おこさま;anak kecil (ungkapan bentuk sopan);3;ir2.2:n0
+ご注文時;ごちゅうもんじ;saat melakukan pemesanan (ungkapan bentuk sopan);3;ir2.2:n4
+本券;ほんけん;kupon / voucer ini;3;ir2.2:n2
+使用;しよう;penggunaan,  pemakaian;3;ir2.2:n4
+時間帯;じかんたい;selama periode waktu;3;ir2.2:n2
+ご提示ください;ごていじください;Silakan tunjukkan / perlihatkan ~ (ungkapan bentuk sopan);3;ir2.2:n1
+ご利用できません;ごりようできません;Anda tidak dapat menggunakan / memakai ~ (ungkapan bentuk sopan);3;ir2.2:n3
+ご飲食代;ごいんしょくだい;harga (biaya) makan dan minum (ungkapan bentuk sopan);3;ir2.2:n4
+会計時;かいけいじ;saat melakukan pembayaran;3;ir2.2:n4
+利用可能（な）;りようかのう（な）;dapat digunakan;3;ir2.2:n1
+～限り（1回限り）;～かぎり（いっかいかぎり）;hanya ~ (hanya 1 kali);3;ir2.2:n3
+有効（な）;ゆうこう（な）;berlaku,  valid;3;ir2.2:n2
+他の;たの;lainnya;3;ir2.2:n3
+併用;へいよう;digunakan bersama dengan ~;3;ir2.2:n1
+お見せください;おみせください;Silakan tunjukkan / perlihatkan ~ (ungkapan bentuk sopan);3;ir2.2:n5
+本物;ほんもの;asli,  autentik;4;ir2.2:n4
+量;りょう;jumlah,  porsi;4;ir2.2:n2
+とり;とり;ayam;4;ir2.2:n0
+彼女;かのじょ;pacar,  kekasih (perempuan);4;ir2.2:n3
+食事;しょくじ;makan;4;ir2.2:n4
+ベトナム料理;ベトナムりょうり;masakan khas Vietnam;4;ir2.2:n4
+土地;とち;lokal;4;ir2.2:n4
+おれ;おれ;aku (umumnya digunakan pria);4;ir2.2:n0
+看板;かんばん;papan nama;4;ir2.2:n1
+この辺;このへん;sekitar sini;4;ir2.2:n2
+新しく;あたらしく;baru;4;ir2.2:n4
+できる（店ができる）;できる（みせができる）;dibuka,  rampung (cth : tokonya telah dibuka);4;ir2.2:n4
+地図;ちず;peta;4;ir2.2:n4
+送る;おくる;mengirim;4;ir2.2:n4
+このあたり;このあたり;sekitar,  dekat sini;4;ir2.2:n0
+夫婦;ふうふ;pasangan suami istri;4;ir2.2:n3
+知りませんでした;しりませんでした;Saya tidak mengetahui sebelumnya. (karena baru saja mendengarnya);4;ir2.2:n4
+食べ方;たべかた;cara makan;4;ir2.2:n4
+つける（たれをつける）;つける（たれをつける）;mencelupkan (cth : mencelupkan ke saus);4;ir2.2:n0
+混ぜる;まぜる;mencampurkan;4;ir2.2:n2
+かける（ソースをかける）;かける（ソースをかける）;(cth : menuangkan saus);4;ir2.2:n0
+入れる;いれる;memasukkan,  menambahkan;4;ir2.2:n5
+巻く;まく;menggulung;4;ir2.2:n2
+のせる;のせる;menambahkan,  menaruh (di atas sesuatu);4;ir2.2:n0
+むく;むく;mengupas;4;ir2.2:n0
+混ぜそば;まぜそば;mixed soba (hidangan mie kering yang dibuat dengan saus kecap dan lemak babi);4;ir2.2:n2
+シュウマイ;シュウマイ;shumai (hidangan pangsing daging khas Tiongkok);4;ir2.2:n0
+天ぷら;てんぷら;tempura;4;ir2.2:n5
+トマト;トマト;tomat;4;ir2.2:n0
+手巻きずし;てまきずし;temaki-zushi (sushi gulung);4;ir2.2:n2
+焼きいも;やきいも;yaki-imo (ubi manis panggang);4;ir2.2:n2
+味がついている;あじがついている;berbumbu;4;ir2.2:n4
+しょうゆ;しょうゆ;kecap asin khas Jepang;4;ir2.2:n0
+つゆ;つゆ;saus kaldu (saus celup);4;ir2.2:n0
+そのまま;そのまま;begitu saja;4;ir2.2:n0
+のり;のり;rumput laut;4;ir2.2:n0
+皮（トマトの皮）;かわ（トマトのかわ）;kulit (cth : kulit tomat);4;ir2.2:n2
+お待たせしました;おまたせしました;Terima kasih telah menunggu.;4;ir2.2:n4
+一度に;いちどに;sekaligus;4;ir2.2:n4
+そんなに;そんなに;sebegitu (banyak);4;ir2.2:n0
+しゃぶしゃぶ;しゃぶしゃぶ;shabu-shabu (hidangan khas Jepang);4;ir2.2:n0
+こうやって;こうやって;seperti ini;4;ir2.2:n0
+味がない;あじがない;tidak ada rasa;4;ir2.2:n4
+ポン酢;ポンず;cuka ponzu (saus berbasis lemon);4;ir2.2:n1
+ごまだれ;ごまだれ;saus wijen;4;ir2.2:n0
+白菜;はくさい;sawi putih;4;ir2.2:n2
+調味料;ちょうみりょう;bumbu,  rempah;4;ir2.2:n3
+砂糖;さとう;gula;4;ir2.2:n1
+こしょう;こしょう;lada;4;ir2.2:n0
+スパイス;スパイス;rempah-rempah;4;ir2.2:n0
+ソース;ソース;saus;4;ir2.2:n0
+たれ;たれ;tare (saus celup,  saus cocol);4;ir2.2:n0
+油;あぶら;minyak;4;ir2.2:n2
+調理方法;ちょうりほうほう;cara memasak;4;ir2.2:n3
+切る;きる;memotong;4;ir2.2:n4
+焼く;やく;memanggang;4;ir2.2:n2
+煮る;にる;menggodok,  merebus;4;ir2.2:n1
+ゆでる;ゆでる;merebus;4;ir2.2:n0
+蒸す;むす;mengukus;4;ir2.2:n2
+いためる;いためる;menumis;4;ir2.2:n0
+揚げる;あげる;menggoreng;4;ir2.2:n1
+サラダ;サラダ;selada;4;ir2.2:n0
+餃子;ぎょうざ;pangsit khas Jepang;4;ir2.2:n1
+家庭料理;かていりょうり;masakan rumahan;4;ir2.2:n3
+フェイジョアーダ;フェイジョアーダ;feijoada (masakan khas Brazil);4;ir2.2:n0
+モモ;モモ;momo (masakan khas Nepal);4;ir2.2:n0
+ガドガド;ガドガド;gado-gado (masakan khas Indonesia);4;ir2.2:n0
+麻花;マーホア;mahua (penganan / kudapan khas Tiongkok);4;ir2.2:n1
+中国;ちゅうごく;Cina,  Tiongkok;4;ir2.2:n5
+豆;まめ;kacang;4;ir2.2:n1
+小麦粉;こむぎこ;tepung gandum,  tepung terigu;4;ir2.2:n2
+ピーナッツソース;ピーナッツソース;saus kacang;4;ir2.2:n0
+皮（餃子の皮）;かわ（ぎょうざのかわ）;kulit pembungkus (cth : kulit gyoza / pangsit khas Jepang);4;ir2.2:n1
+ゆで卵;ゆでたまご;telur rebus;4;ir2.2:n2
+～など;～など;~ dan lain-lain;4;ir2.2:n0
+甘辛い;あまからい;pedas manis;4;ir2.2:n2
+固い;かたい;keras;4;ir2.2:n2
+どれも;どれも;yang mana pun;4;ir2.2:n0
+～屋（定食屋）;～や（ていしょくや）;~ toko / restoran (cth : restoran yang khusus menyediakan menu paket khas Jepang);4;ir2.2:n3
+ボリューム;ボリューム;porsi (banyaknya);4;ir2.2:n0
+満足（な）;まんぞく（な）;puas;4;ir2.2:n3
+おばちゃん;おばちゃん;wanita paruh baya;4;ir2.2:n0
+リーズナブル（な）;リーズナブル（な）;masuk akal;4;ir2.2:n0
+頼む;たのむ;memesan;4;ir2.2:n3
+煮込みハンバーグ;にこみハンバーグ;stewed hamburger steak (semur bistik hamburger);4;ir2.2:n1
+～前（12時前）;～まえ（じゅうにじまえ）;sebelum~ (cth : sebelum jam 12);4;ir2.2:n5
+おすすめする;おすすめする;merekomendasikan;4;ir2.2:n0
+やっている;やっている;menjalankan (sebuah toko);4;ir2.2:n0
+時間がかかる;じかんがかかる;memerlukan waktu;4;ir2.2:n5
+値段;ねだん;harga;4;ir2.2:n3
+その他;そのほか;lainnya;4;ir2.2:n3
+自然;しぜん;kekayaan alam;5;ir2.2:n3
+豊かな;ゆたかな;melimpah;5;ir2.2:n2
+暖かい;あたたかい;hangat;5;ir2.2:n1
+混んでいる;こんでいる;penuh sesak;5;ir2.2:n2
+遊ぶ;あそぶ;bermain,  bersenang-senang;5;ir2.2:n3
+海外;かいがい;luar negeri;5;ir2.2:n4
+観光客;かんこうきゃく;turis,  wisatawan;5;ir2.2:n3
+人気がある;にんきがある;populer;5;ir2.2:n5
+北海道;ほっかいどう;Hokkaido;5;ir2.2:n4
+沖縄;おきなわ;Okinawa;5;ir2.2:n1
+一日中;いちにちじゅう;seharian penuh;5;ir2.2:n5
+新鮮な;しんせんな;segar;5;ir2.2:n1
+ウニ;ウニ;landak lauk / bulu babi;5;ir2.2:n0
+シュノーケリング;シュノーケリング;snorkeling (selam permukaan);5;ir2.2:n0
+番組;ばんぐみ;acara TV;5;ir2.2:n3
+いつか;いつか;suatu hari nanti;5;ir2.2:n0
+やっぱり;やっぱり;ternyata (sesuai dugaan);5;ir2.2:n0
+ラッシュ;ラッシュ;jam sibuk;5;ir2.2:n0
+水族館;すいぞくかん;akuarium raksasa,  sea world;5;ir2.2:n4
+ボート;ボート;perahu;5;ir2.2:n0
+サイクリング;サイクリング;bersepeda;5;ir2.2:n0
+遊園地;ゆうえんち;taman hiburan;5;ir2.2:n3
+温泉;おんせん;pemandian air panas;5;ir2.2:n2
+行き先;いきさき;tujuan / tempat tujuan;5;ir2.2:n5
+湖;みずうみ;danau;5;ir2.2:n2
+レンタサイクル;レンタサイクル;rental / persewaan sepeda;5;ir2.2:n0
+先輩;せんぱい;senior,  rekan kerja senior;5;ir2.2:n1
+出発する;しゅっぱつする;berangkat;5;ir2.2:n4
+ごめんなさい;ごめんなさい;Maaf.;5;ir2.2:n0
+旅行;りょこう;wisata;5;ir2.2:n4
+泊まる;とまる;menginap;5;ir2.2:n2
+ホテル;ホテル;hotel;5;ir2.2:n0
+旅館;りょかん;penginapan ala Jepang;5;ir2.2:n4
+民宿;みんしゅく;penginapan kecil,  losmen (akomodasi yang dikelola oleh suatu keluarga);5;ir2.2:n3
+交通手段;こうつうしゅだん;alat transportasi;5;ir2.2:n3
+バス;バス;bus;5;ir2.2:n0
+電車;でんしゃ;kereta;5;ir2.2:n5
+船;ふね;kapal;5;ir2.2:n3
+飛行機;ひこうき;pesawat;5;ir2.2:n3
+車;くるま;mobil;5;ir2.2:n5
+準備する;じゅんびする;mempersiapkan;5;ir2.2:n2
+スキー板;スキーいた;papan ski;5;ir2.2:n2
+スキーウェア;スキーウェア;pakaian ski;5;ir2.2:n0
+手袋;てぶくろ;sarung tangan;5;ir2.2:n2
+サングラス;サングラス;sunglasses,  kacamata hitam;5;ir2.2:n0
+水着;みずぎ;pakaian renang;5;ir2.2:n4
+日光;にっこう;Nikko;5;ir2.2:n3
+紅葉;こうよう;daun maple yang memerah;5;ir2.2:n2
+かなり;かなり;cukup;5;ir2.2:n0
+厚い;あつい;tebal / berat;5;ir2.2:n2
+上着;うわぎ;jaket;5;ir2.2:n4
+奈良;なら;Nara;5;ir2.2:n1
+小さな;ちいさな;kecil,  mungil;5;ir2.2:n5
+宿;やど;penginapan;5;ir2.2:n3
+時期;じき;musim;5;ir2.2:n3
+混む;こむ;ramai,  penuh;5;ir2.2:n2
+計画;けいかく;rencana;5;ir2.2:n4
+立てる（計画を立てる）;たてる（けいかくをたてる）;membuat rencana;5;ir2.2:n4
+調べる;しらべる;mengecek,  mencari tahu;5;ir2.2:n3
+富山;とやま;Toyama;5;ir2.2:n3
+くわしい;くわしい;rinci, mendetail;5;ir2.2:n0
+回転ずし;かいてんずし;restoran sushi modern dengan meja konveyor;5;ir2.2:n3
+並ぶ;ならぶ;berbaris, mengantri;5;ir2.2:n2
+長野;ながの;Nagano;5;ir2.2:n4
+日焼けする;ひやけする;berjemur;5;ir2.2:n2
+スキー;スキー;ski;5;ir2.2:n0
+スキー場;スキーじょう;tempat ski,  resor ski;5;ir2.2:n4
+こっち;こっち;di sini (bentuk informal dari こちら);5;ir2.2:n0
+撮る;とる;mengambil (foto, video);5;ir2.2:n1
+オルゴール;オルゴール;kotak musik;5;ir2.2:n0
+美術館;びじゅつかん;museum seni;5;ir2.2:n3
+ロープウェイ;ロープウェイ;kereta gantung;5;ir2.2:n0
+湖;みずうみ;danau;5;ir2.2:n2
+そば（湖のそば）;そば（みずうみのそば）;di sebelah (cth : di sebelah danau);5;ir2.2:n2
+露天風呂;ろてんぶろ;pemandian air panas di alam terbuka;5;ir2.2:n1
+日帰り;ひがえり;perjalanan sehari;5;ir2.2:n4
+まったく～ない;まったく～ない;sama sekali tidak ~;5;ir2.2:n0
+寄る;よる;mampir,  singgah;5;ir2.2:n3
+意外に;いがいに;di luar dugaan;5;ir2.2:n4
+楽しむ;たのしむ;menikmati;5;ir2.2:n4
+宿泊;しゅくはく;akomodasi,  penginapan;5;ir2.2:n2
+観光;かんこう;wisata;5;ir2.2:n3
+グルメ;グルメ;kuliner;5;ir2.2:n0
+旅券;りょけん;tiket transportasi;5;ir2.2:n2
+口コミ;くちこみ;(ulasan) dari mulut ke mulut;5;ir2.2:n4
+投稿する;とうこうする;membuat posting;5;ir2.2:n1
+～のまわり（湖のまわり）;～のまわり（みずうみのまわり）;sekitar ~ (cth : sekitar danau);5;ir2.2:n2
+帰り;かえり;perjalanan pulang;5;ir2.2:n4
+～発;～はつ;berangkat pada ~;6;ir2.2:n4
+～着;～ちゃく;tiba di ~;6;ir2.2:n4
+～号;～ごう;nomor ~;6;ir2.2:n3
+～号車;～ごうしゃ;gerbong nomor ~;6;ir2.2:n3
+～席;～せき;tempat duduk nomor ~;6;ir2.2:n3
+特急券;とっきゅうけん;tiket kereta jenis ekspres (limited express);6;ir2.2:n2
+秋田;あきた;Akita;6;ir2.2:n4
+こまち;こまち;Komachi (salah satu jenis kereta Shinkansen);6;ir2.2:n0
+通路側;つうろがわ;tempat duduk dekat lorong;6;ir2.2:n3
+窓側;まどがわ;tempat duduk dekat jendela;6;ir2.2:n3
+遅れ;おくれ;terlambat;6;ir2.2:n3
+約（約10分）;やく（やくじゅっぷん）;sekitar ~ / kira-kira ~ (cth : kira-kira 10 menit);6;ir2.2:n1
+～両編成（10両編成）;～りょうへんせい（じゅうりょうへんせい）;terdiri dari ~ gerbong (cth : terdiri dari 10 gerbong kereta);6;ir2.2:n2
+運転見合わせ;うんてんみあわせ;dihentikan sementara waktu,  ditunda;6;ir2.2:n3
+お知らせ;おしらせ;pengumuman;6;ir2.2:n4
+台風～号;たいふう～ごう;angin topan nomor ~;6;ir2.2:n3
+接近;せっきん;mendekat;6;ir2.2:n2
+～に伴い;～に伴い;sebagai akibat dari ~;6;ir2.2:n1
+見合わせる;みあわせる;menunda;6;ir2.2:n3
+ゆば;ゆば;yuba (kulit tahu khas Jepang);6;ir2.2:n0
+外国;がいこく;luar negeri;6;ir2.2:n5
+～泊（1泊）;～はく（いっぱく）;menginap ~ malam (cth : menginap semalam / 1 malam);6;ir2.2:n2
+名物;めいぶつ;kuliner khas lokal;6;ir2.2:n4
+東照宮;とうしょうぐう;Kuil Toshogu;6;ir2.2:n1
+中禅寺湖;ちゅうぜんじこ;Danau Chuzenji;6;ir2.2:n1
+指定席;していせき;tempat duduk sesuai pesanan;6;ir2.2:n3
+自由席;じゆうせき;tempat duduk bebas;6;ir2.2:n3
+～番乗り場;～ばんのりば;peron nomor ~;6;ir2.2:n3
+～番線;～ばんせん;jalur nomor ~;6;ir2.2:n2
+～行き;～いき／～ゆき;tujuan (ke) ~;6;ir2.2:n5
+～線;～せん;jalur ~;6;ir2.2:n2
+～方面;～ほうめん;arah ~;6;ir2.2:n3
+発車する;はっしゃする;berangkat;6;ir2.2:n4
+到着する;とうちゃくする;tiba;6;ir2.2:n3
+乗り換える;のりかえる;berpindah,  transfer;6;ir2.2:n2
+特急;とっきゅう;kereta ekspres (limited express);6;ir2.2:n4
+～両（9両）;～りょう（きゅうりょう）;~ gerbong (cth : sembilan gerbong);6;ir2.2:n3
+順;じゅん;urutan;6;ir2.2:n2
+グリーン車;グリーンしゃ;green car (gerbong eksekutif,  gerbong kelas utama);6;ir2.2:n5
+金沢;かなざわ;Kanazawa;6;ir2.2:n1
+列車;れっしゃ;kereta;6;ir2.2:n3
+乗車／ご乗車;じょうしゃ／ごじょうしゃ;naik ke kereta;6;ir2.2:n3
+～ほど（3分ほど）;～ほど（さんぷんほど）;sekitar ~ / kira-kira ~ (cth : kira-kira 3 menit);6;ir2.2:n1
+岡山;おかやま;Okayama;6;ir2.2:n1
+お出口;でぐち;pintu keluar (ungkapan bentuk sopan);6;ir2.2:n4
+左側;ひだりがわ;sisi kiri;6;ir2.2:n3
+各駅;かくえき;setiap stasiun;6;ir2.2:n2
+向かい側;むかいがわ;sisi berlawanan;6;ir2.2:n3
+中ほど;なかほど;tengah;6;ir2.2:n5
+ご案内をいたします;ごあんないをいたします;Berikut adalah pengumuman. (ungkapan bentuk sopan);6;ir2.2:n1
+お越しください;おこしください;Silakan menuju ke~ (ungkapan bentuk sopan);6;ir2.2:n3
+事故;じこ;kecelakaan;6;ir2.2:n1
+壊れる;こわれる;rusak;6;ir2.2:n1
+信号;しんごう;lampu lalu lintas;6;ir2.2:n3
+信号故障;しんごうこしょう;kerusakan lampu lalu lintas;6;ir2.2:n1
+アナウンス;アナウンス;pengumuman;6;ir2.2:n0
+困る;こまる;menyulitkan,  membuat susah / jengkel;6;ir2.2:n3
+何て言っていましたか;なんていっていましたか;Apa katanya?;6;ir2.2:n4
+当駅;とうえき;stasiun ini;6;ir2.2:n3
+～のため;～のため;karena ~;6;ir2.2:n0
+運転;うんてん;pengoperasian (kereta);6;ir2.2:n4
+お急ぎのところ;おいそぎのところ;dalam keadaan terburu-buru (ungkapan bentuk sopan);6;ir2.2:n4
+お知らせいたします;おしらせいたします;Berikut adalah pengumuman. (ungkapan bentuk sopan);6;ir2.2:n4
+行っております;おこなっております;melakukan ~ (ungkapan bentuk sopan untuk しています);6;ir2.2:n5
+ご迷惑をおかけします;ごめいわくをおかけします;Mohon maaf atas ketidaknyamanannya. (ungkapan bentuk sopan);6;ir2.2:n1
+人身事故;じんしんじこ;kecelakaan fatal / serius;6;ir2.2:n1
+影響;えいきょう;dampak;6;ir2.2:n1
+全線;ぜんせん;seluruh jalur;6;ir2.2:n2
+お越し;おこし;menuju (ungkapan bentuk sopan);6;ir2.2:n3
+ご利用ください;ごりようください;Silakan gunakan (ungkapan bentuk sopan);6;ir2.2:n3
+感動する;かんどうする;menjadi tersentuh;6;ir2.2:n3
+気持ちいい;きもちいい;menyegarkan perasaan / suasana hati;6;ir2.2:n4
+残念（な）;ざんねん（な）;mengecewakan;6;ir2.2:n3
+疲れる;つかれる;lelah,  capek / capai;6;ir2.2:n3
+びっくりする;びっくりする;kaget,  terkejut;6;ir2.2:n0
+驚く;おどろく;kaget,  terkejut;6;ir2.2:n1
+こわい;こわい;takut;6;ir2.2:n0
+よかった;よかった;bagus;6;ir2.2:n0
+大阪;おおさか;Osaka;6;ir2.2:n1
+串カツ;くしカツ;kushi-katsu (masakan campuran daging, sayuran dan seafood yang ditusukkan seperti sate);6;ir2.2:n1
+たこ焼き;たこやき;takoyaki (masakan dengan isian gurita yang dipanggang berbentuk bola-bola);6;ir2.2:n2
+登る;のぼる;naik;6;ir2.2:n3
+あべのハルカス;あべのハルカス;Abeno Harukas (nama gedung pencakar langit di Osaka);6;ir2.2:n0
+大阪城;おおさかじょう;Kastel Osaka;6;ir2.2:n1
+通天閣;つうてんかく;Menara Tsutenkaku;6;ir2.2:n1
+鳥;とり;burung;6;ir2.2:n4
+あげる;あげる;memberi;6;ir2.2:n0
+つり;つり;memancing;6;ir2.2:n0
+空;そら;langit;6;ir2.2:n4
+ウミネコ;ウミネコ;camar ekor hitam;6;ir2.2:n0
+あの辺;あのへん;sekitar sana;6;ir2.2:n2
+浄土ヶ浜;じょうどがはま;Pantai Jodogahama;6;ir2.2:n1
+ケーブルカー;ケーブルカー;kereta gantung;6;ir2.2:n0
+歩く;あるく;berjalan;6;ir2.2:n4
+リス;リス;tupai;6;ir2.2:n0
+だから;だから;karena itulah;6;ir2.2:n0
+あきらめる;あきらめる;menyerah;6;ir2.2:n0
+頂上;ちょうじょう;puncak;6;ir2.2:n3
+高尾山;たかおさん;Gunung Takao;6;ir2.2:n1
+町並み;まちなみ;pemandangan kota;6;ir2.2:n2
+花畑;はなばたけ;ladang bunga;6;ir2.2:n1
+イルミネーション;イルミネーション;iluminasi (penerangan dengan lampu hias);6;ir2.2:n0
+ショー;ショー;pertunjukan;6;ir2.2:n0
+泊まる;とまる;menginap;6;ir2.2:n2
+滝;たき;air terjun;6;ir2.2:n1
+きらきら;きらきら;kilauan;6;ir2.2:n0
+光る;ひかる;bercahaya;6;ir2.2:n3
+ハウステンボス;ハウステンボス;Huis Ten Bosch (taman rekreasi di Prefektur Nagasaki);6;ir2.2:n0
+オランダ;オランダ;Belanda;6;ir2.2:n0
+インスタントラーメン;インスタントラーメン;mi instan;6;ir2.2:n0
+描く;かく;menggambar,  melukis;6;ir2.2:n1
+カップラーメン;カップラーメン;mi instan dalam kemasan cup;6;ir2.2:n0
+絵;え;gambar;6;ir2.2:n3
+トッピング;トッピング;topping,  taburan;6;ir2.2:n0
+おみこし;おみこし;kuil portabel (semacam kuil yang bisa dibawa dan dipindahkan);7;ir2.2:n0
+かつぐ;かつぐ;mengusung (di bahu / pundak);7;ir2.2:n0
+海岸;かいがん;pantai;7;ir2.2:n2
+ごみ;ごみ;sampah;7;ir2.2:n0
+拾う;ひろう;memungut;7;ir2.2:n2
+出る（水が出る）;でる（みずがでる）;mengalir (cth : air mengalir);7;ir2.2:n5
+地震;じしん;gempa bumi;7;ir2.2:n2
+火事;かじ;kebakaran;7;ir2.2:n4
+訓練;くんれん;latihan;7;ir2.2:n2
+断水（する）;だんすい（する）;pemadaman air;7;ir2.2:n3
+水道工事;すいどうこうじ;pekerjaan perbaikan saluran air;7;ir2.2:n4
+濁る（水が濁る）;にごる（みずがにごる）;keruh (cth : airnya keruh);7;ir2.2:n1
+使用する;しようする;menggunakan;7;ir2.2:n4
+お知らせ;おしらせ;pengumuman;7;ir2.2:n4
+下記のとおり;かきのとおり;sebagai berikut;7;ir2.2:n3
+しばらく;しばらく;sebentar;7;ir2.2:n0
+出す（水を出す）;だす（みずをだす）;mengalirkan (cth : mengalirkan air);7;ir2.2:n5
+迷惑／ご迷惑;めいわく／ごめいわく;ketidaknyamanan;7;ir2.2:n1
+ご協力お願いいたします;ごきょうりょくおねがいいたします;Kami mohon kerja sama Anda. (ungkapan bentuk sopan);7;ir2.2:n2
+防災;ぼうさい;pencegahan bencana;7;ir2.2:n1
+小学校;しょうがっこう;Sekolah Dasar (SD);7;ir2.2:n5
+校庭;こうてい;halaman sekolah;7;ir2.2:n3
+雨天;うてん;hujan;7;ir2.2:n5
+場合;ばあい;apabila;7;ir2.2:n3
+内容;ないよう;isi;7;ir2.2:n3
+通報訓練;つうほうくんれん;pelatihan pelaporan bencana;7;ir2.2:n2
+避難訓練;ひなんくんれん;pelatihan evakuasi;7;ir2.2:n1
+消火訓練;しょうかくんれん;pelatihan pemadaman kebakaran;7;ir2.2:n2
+AED訓練;エーイーディーくんれん;pelatihan penyelamatan dasar menggunakan AED (Automated External Defibrillator);7;ir2.2:n2
+隣近所の人;となりきんじょのひと;tetangga;7;ir2.2:n1
+声をかけあう;こえをかけあう;saling berbicara / menyampaikan satu sama lain;7;ir2.2:n3
+条件;じょうけん;kondisi,  syarat;7;ir2.2:n1
+運動靴;うんどうぐつ;sepatu olahraga;7;ir2.2:n3
+動きやすい;うごきやすい;mudah bergerak;7;ir2.2:n4
+はっぴ;はっぴ;rompi happi;7;ir2.2:n0
+貸し出し;かしだし;rental;7;ir2.2:n4
+希望;きぼう;harapan,  keinginan;7;ir2.2:n2
+申し込む;もうしこむ;mendaftarkan diri;7;ir2.2:n3
+集合;しゅうごう;berkumpul;7;ir2.2:n3
+ジーンズ;ジーンズ;celana jin (jeans);7;ir2.2:n0
+当日;とうじつ;pada hari itu (Hari-H);7;ir2.2:n3
+おいでください;おいでください;Silakan datang. (ungkapan bentuk sopan);7;ir2.2:n0
+延期する;えんきする;ditunda,  diundur;7;ir2.2:n2
+持ち物;もちもの／もちもの;bawaan (barang yang perlu dibawa);7;ir2.2:n4
+汚れる;よごれる;menjadi kotor;7;ir2.2:n2
+軍手;ぐんて;sarung tangan kerja;7;ir2.2:n2
+～程度（2時間程度）;～ていど（にじかんていど）;sekitar ～ (cth : sekitar 2 jam);7;ir2.2:n3
+作業;さぎょう;pekerjaan;7;ir2.2:n4
+世話役;せわやく;fasilitator;7;ir2.2:n3
+会（ボランティアの会）;かい（ボランティアのかい）;kelompok,  grup (cth : grup sukarelawan);7;ir2.2:n4
+ガス;ガス;gas;7;ir2.2:n0
+点検;てんけん;inspeksi,  pengecekan;7;ir2.2:n1
+フリーマーケット;フリーマーケット;flea market (semacam pasar kaget,  pasar loak);7;ir2.2:n0
+祭り／お祭り;まつり／おまつり;festival;7;ir2.2:n2
+寄付;きふ;donasi;7;ir2.2:n3
+お願い;おねがい;permintaan;7;ir2.2:n3
+花火大会;はなびたいかい;pesta kembang api;7;ir2.2:n4
+今月;こんげつ;bulan ini;7;ir2.2:n5
+来月;らいげつ;bulan depan;7;ir2.2:n5
+ポスト;ポスト;kotak pos;7;ir2.2:n0
+ガス会社;ガスがいしゃ;perusahaan gas;7;ir2.2:n4
+間（14時から15時の間）;あいだ（じゅうよじからじゅうごじのあいだ）;antara (cth : antara pukul 14:00 - 15:00);7;ir2.2:n5
+封筒;ふうとう;amplop;7;ir2.2:n2
+手紙;てがみ;surat;7;ir2.2:n4
+～だけ;～だけ;hanya ～;7;ir2.2:n0
+中止;ちゅうし;batal;7;ir2.2:n4
+広場;ひろば;lapangan;7;ir2.2:n4
+～回目（2回目）;～かいめ（にかいめ）;(yang) ke～ (cth : yang ke-2 / kedua);7;ir2.2:n3
+食器;しょっき;alat makan;7;ir2.2:n1
+おもちゃ;おもちゃ;mainan;7;ir2.2:n0
+コンサート;コンサート;konser;7;ir2.2:n0
+販売会;はんばいかい;acara pemasaran / penjualan;7;ir2.2:n2
+カラオケ大会;カラオケたいかい;kompetisi karaoke;7;ir2.2:n4
+ブラスバンド;ブラスバンド;orkes alat musik tiup (brass band);7;ir2.2:n0
+演奏;えんそう;pertunjukan musik;7;ir2.2:n1
+踊り;おどり;tarian;7;ir2.2:n2
+練習;れんしゅう;latihan;7;ir2.2:n2
+道の駅;みちのえき;Michi-no-eki (stasiun tepi jalan);7;ir2.2:n4
+公民館;こうみんかん;pusat / aula komunitas lokal;7;ir2.2:n3
+市民センター;しみんセンター;balai warga;7;ir2.2:n3
+～において;～において;di ～;7;ir2.2:n0
+開催する;かいさいする;mengadakan;7;ir2.2:n1
+入場券;にゅうじょうけん;tiket masuk;7;ir2.2:n2
+販売中;はんばいちゅう;sedang dijual,  dalam masa penjualan;7;ir2.2:n2
+ピアノの夕べ;ピアノのゆうべ;malam musik piano;7;ir2.2:n4
+および;および;dan;7;ir2.2:n0
+～からお知らせします;～からおしらせします;(Berikut ini adalah) pengumuman dari ～. (ungkapan bentuk sopan);7;ir2.2:n4
+皆様のご来場をお待ちしています;みなさまのごらいじょうをおまちしています;Kami menantikan kehadiran / kedatangan Anda. (ungkapan betuk sopan);7;ir2.2:n3
+明日;あす;besok;7;ir2.2:n4
+行う;おこなう;menyelenggarakan;7;ir2.2:n5
+見学（する）;けんがく（する）;mengamati,  mengobservasi,  meninjau;7;ir2.2:n5
+どなたでも;どなたでも;siapapun (ungkapan bentuk sopan);7;ir2.2:n0
+～からのお知らせです;～からのおしらせです;(Berikut ini adalah) pengumuman dari ～. (ungkapan bentuk sopan);7;ir2.2:n4
+お気軽にお越しください;おきがるにおこしください;Silakan mampir / berkunjung. (ungkapan bentuk sopan);7;ir2.2:n2
+～について;～について;tentang,  mengenai;7;ir2.2:n0
+本日;ほんじつ;hari ini;7;ir2.2:n5
+開く;ひらく;mengadakan;7;ir2.2:n4
+予定する;よていする;dijadwalkan;7;ir2.2:n3
+～についてお知らせします;～についておしらせします;Kami mengumumkan tentang ～. (ungkapan bentuk sopan);7;ir2.2:n4
+お誘い合わせの上、お出かけください;おさといあわせのうえ、おでかけください;Silakan hadiri acara kami bersama teman dan keluarga Anda. (ungkapan bentuk sopan);7;ir2.2:n1
+地元;じもと;lokal;7;ir2.2:n4
+農家;のうか;petani;7;ir2.2:n2
+生産する;せいさんする;memproduksi;7;ir2.2:n3
+町役場;まちやくば;balai kota;7;ir2.2:n3
+盆踊り;ぼんおどり;tarian Bon Odori;7;ir2.2:n1
+輪になる;わになる;membuat lingkaran;7;ir2.2:n2
+～に合わせて（音楽に合わせて）;～にあわせて（おんがくにあわせて）;mengikuti ～ (cth : mengikuti iringan musik);7;ir2.2:n3
+だれでも;だれでも;siapapun;7;ir2.2:n0
+～たち（娘たち）;～たち（むすめたち）;pengungkapan jamak dari orang / manusia (cth : putri-putriku);7;ir2.2:n3
+1人で;ひとりで;(melakukan) sendiri (tanpa bantuan orang lain);7;ir2.2:n5
+イベント会場;イベントかいじょう;tempat acara / kegiatan;8;ir2.2:n4
+屋台;やたい;warung,  pedagang kaki lima (PKL.);8;ir2.2:n4
+ステージ;ステージ;panggung;8;ir2.2:n0
+パフォーマンス;パフォーマンス;penampilan;8;ir2.2:n0
+観光紹介;かんこうしょうかい;gerai / konter informasi wisata;8;ir2.2:n2
+～コーナー;～コーナー;gerai / konter ~;8;ir2.2:n0
+スピーチコンテスト;スピーチコンテスト;kontes / lomba pidato;8;ir2.2:n0
+～コンテスト;～コンテスト;kontes / lomba ~;8;ir2.2:n0
+カラオケ;カラオケ;karaoke;8;ir2.2:n0
+～大会;～たいかい;kompetisi ~;8;ir2.2:n4
+合気道;あいきどう;aikido;8;ir2.2:n3
+～デモンストレーション;～デモンストレーション;peragaan ~;8;ir2.2:n0
+世界;せかい;dunia;8;ir2.2:n4
+遊び;あそび;permainan;8;ir2.2:n3
+～体験;～たいけん;mencoba ~ (sesuatu);8;ir2.2:n4
+ファッションショー;ファッションショー;fashion show (peragaan busana);8;ir2.2:n0
+～ショー;～ショー;pertunjukan,  peragaan ~;8;ir2.2:n0
+スタンプラリー;スタンプラリー;mengoleksi stempel;8;ir2.2:n0
+国際交流;こくさいこうりゅう;pertukaran budaya internasional;8;ir2.2:n3
+入場料;にゅうじょうりょう;harga tiket masuk (HTM);8;ir2.2:n4
+交流プラザ;こうりゅうプラザ;exchange plaza (ruang pertemuan / ruang pertukaran);8;ir2.2:n3
+主催;しゅさい;pelaksana;8;ir2.2:n1
+協力;きょうりょく;kerja sama;8;ir2.2:n2
+民族衣装;みんぞくいしょう;pakaian tradisional;8;ir2.2:n2
+本部;ほんぶ;kantor pusat;8;ir2.2:n3
+ふれあい;ふれあい;berinteraksi,  bersentuhan langsung;8;ir2.2:n0
+フラダンス;フラダンス;tarian Hula / Hula-Hula (tarian khas Hawaii);8;ir2.2:n0
+和太鼓;わだいこ;Wadaiko (beduk khas Jepang);8;ir2.2:n1
+ワールドマーケット;ワールドマーケット;world market,  pasar aneka barang dunia;8;ir2.2:n0
+トルコ;トルコ;Turki;8;ir2.2:n0
+ペルー;ペルー;Peru;8;ir2.2:n0
+雑貨;ざっか;aneka barang,  pernak-pernik;8;ir2.2:n2
+団体紹介;だんたいしょうかい;pengenalan organisasi;8;ir2.2:n2
+民芸品;みんげいひん;kerajinan tradisional masyarakat;8;ir2.2:n2
+手芸品;しゅげいひん;kerajinan tangan;8;ir2.2:n2
+ガーナ;ガーナ;Ghana;8;ir2.2:n0
+フェアトレード;フェアトレード;fair trade (perdagangan adil);8;ir2.2:n0
+外国人支援ネットワーク;がいこくじんしえんネットワーク;jaringan dukungan bagi orang asing;8;ir2.2:n1
+ピニャータ;ピニャータ;pinata (benda yang menjadi simbol tradisi saat anak-anak di Meksiko berulang tahun);8;ir2.2:n0
+くす玉割り;くすだまわり;memecahkan bola berisi konfeti;8;ir2.2:n2
+中国ゴマ;ちゅうごくゴマ;diabolo (semacam mainan yoyo khas Tiongkok);8;ir2.2:n5
+回す;まわす;memutar;8;ir2.2:n3
+手作り;てづくり;buatan tangan;8;ir2.2:n4
+やっている;やっている;berlangsung,  dilaksanakan;8;ir2.2:n0
+まだ;まだ;masih;8;ir2.2:n0
+受け付け;うけつけ;penerimaan tamu;8;ir2.2:n3
+あっち;あっち;di sana;8;ir2.2:n0
+つきあたり;つきあたり;di ujung ~ (jalan,  lorong);8;ir2.2:n0
+たぶん;たぶん;mungkin;8;ir2.2:n0
+無理ですか？;むりですか？;Apakah tidak memungkinkan (lagi)?;8;ir2.2:n1
+さあ;さあ;Hmmm.. (ekspresi saat Anda menyatakan tidak begitu yakin tentang sesuatu);8;ir2.2:n0
+中学生;ちゅうがくせい;siswa SMP (Sekolah Menengah Pertama);8;ir2.2:n5
+プロ;プロ;profesional;8;ir2.2:n0
+遠慮する;えんりょする;diharapkan tidak melakukan (sesuatu);8;ir2.2:n1
+出る;でる;berpartisipasi (cth : berpartisipasi pada kompetisi karaoke);8;ir2.2:n5
+参加費;さんかひ;biaya pendaftaran;8;ir2.2:n3
+優勝する;ゆうしょうする;memenangkan (kompetisi),  pemenang pertama;8;ir2.2:n3
+賞品;しょうひん;hadiah;8;ir2.2:n2
+出る;でる;(ada) hadiahnya;8;ir2.2:n5
+楽器;がっき;alat musik;8;ir2.2:n1
+曲;きょく;lagu;8;ir2.2:n3
+相談する;そうだんする;berkonsultasi;8;ir2.2:n3
+申込書;もうしこみしょ;formulir pendaftaran;8;ir2.2:n3
+必要事項;ひつようじこう;informasi yang dibutuhkan;8;ir2.2:n1
+申し込み;もうしこみ;pendaftaran,  registrasi;8;ir2.2:n3
+先着順;せんちゃくじゅん;berdasarkan urutan tiba (siapa cepat dia dapat);8;ir2.2:n2
+順番に;じゅんばんに;secara berurutan;8;ir2.2:n2
+いただく;いただく;menerima (ungkapan bentuk sopan dari もらう);8;ir2.2:n0
+スピーチ;スピーチ;pidato;8;ir2.2:n0
+テーマ;テーマ;topik,  tema;8;ir2.2:n0
+動画;どうが;video;8;ir2.2:n4
+撮影;さつえい;fotografi / pembuatan video;8;ir2.2:n1
+飲食;いんしょく;makan dan minum;8;ir2.2:n4
+販売;はんばい;penjualan;8;ir2.2:n2
+携帯電話;けいたいでんわ;telepon genggam,  handphone;8;ir2.2:n1
+～内（公園内）;～ない（こうえんない）;dalam ~ (cth : dalam taman);8;ir2.2:n3
+協力する;きょうりょくする;bekerja sama;8;ir2.2:n2
+お子様;おこさま;anak-anak (ungkapan bentuk sopan);8;ir2.2:n3
+皆様にお願いいたします;みなさまにおねがいいたします;Kami mohon kepada Anda sekalian. (ungkapan bentuk sopan);8;ir2.2:n3
+お見えです;おみえです;ada,  datang (ungkapan bentuk sopan);8;ir2.2:n5
+ご遠慮ください（ませ）;ごえんりょください（ませ）;Harap menahan diri (untuk tidak melakukan) ~. (ungkapan bentuk sopan);8;ir2.2:n1
+ご協力よろしくお願いいたします;ごきょうりょくよろしくおねがいいたします;Kami mohon kerja sama Anda. (ungkapan bentuk sopan);8;ir2.2:n2
+電源;でんげん;power,  sumber daya (listrik);8;ir2.2:n1
+切る（電源を切る）;きる（でんげんを切る）;mematikan;8;ir2.2:n1
+マナーモード;マナーモード;mode senyap (silent mode);8;ir2.2:n0
+設定する;せっていする;mengeset,  mengatur;8;ir2.2:n2
+通話する;つうわする;berbicara di telepon;8;ir2.2:n4
+お忙しい中;おいそがいしいなか;Meskipun sibuk / sedang dalam kesibukan (ungkapan bentuk sopan);8;ir2.2:n3
+おいでくださって、ありがとうございます;おいでくださって、ありがとうございます;Terima kasih atas kedatangan Anda. (ungkapan bentuk sopan);8;ir2.2:n0
+かまいません;かまいません;tidak apa-apa,  tidak masalah;8;ir2.2:n0
+持ち込み;もちこみ;membawa;8;ir2.2:n3
+禁止;きんし;dilarang;8;ir2.2:n2
+ロビー;ロビー;lobi;8;ir2.2:n0
+ロールケーキ;ロールケーキ;kue bolu gulung;8;ir2.2:n0
+終了する;しゅうりょうする;berakhir,  selesai;8;ir2.2:n2
+個数;こすう;jumlah,  kuantitas;8;ir2.2:n2
+限られている;かぎられている;dibatasi,  terbatas;8;ir2.2:n3
+列;れつ;antrean;8;ir2.2:n3
+お求めの;おもとめのかた;ingin membeli (ungkapan bentuk sopan);8;ir2.2:n3
+お並びください;おならびください;Silakan berbaris. (ungkapan bentuk sopan);8;ir2.2:n2
+太鼓;たいこ;drums / beduk khas Jepang;8;ir2.2:n1
+たたく;たたく;menabuh,  memukul;8;ir2.2:n0
+来年;らいねん;tahun depan;8;ir2.2:n5
+バンブーダンス;バンブーダンス;Tinikling (tarian tradisional Filipina menggunakan bambu);8;ir2.2:n0
+バングラデシュ;バングラデシュ;Bangladesh;8;ir2.2:n0
+サテー;サテー;sate (makanan khas Indonesia);8;ir2.2:n0
+季節;きせつ;musim;9;ir2.2:n1
+行事;ぎょうじ;acara,  kegiatan;9;ir2.2:n4
+正月／お正月;しょうがつ／おしょうがつ;Hari Tahun Baru;9;ir2.2:n4
+成人の日;せいじんのひ;Hari Kedewasaan;9;ir2.2:n3
+ひな祭り;ひなまつり;Hinamatsuri (Festival Boneka);9;ir2.2:n2
+こどもの日;こどものひ;Kodomo-no-hi (Hari Anak-Anak);9;ir2.2:n5
+七夕;たなばた;Tanabata (Festival Bintang);9;ir2.2:n4
+クリスマス;クリスマス;Hari Natal;9;ir2.2:n0
+式;しき;upacara;9;ir2.2:n3
+市長;しちょう;wali kota;9;ir2.2:n3
+話;はなし;sambutan;9;ir2.2:n5
+チキン;チキン;ayam;9;ir2.2:n0
+笹の葉;ささのは;daun bambu;9;ir2.2:n1
+飾り;かざり;dekorasi;9;ir2.2:n1
+つける（飾りをつける）;つける（かざりをつける）;memasang (cth : memasang dekorasi);9;ir2.2:n1
+着物;きもの;kimono (pakaian tradisional Jepang);9;ir2.2:n4
+ちらしずし;ちらしずし;chirashi-zushi (hidangan yang terbuat dari nasi sushi dengan hiasan berbagai topping);9;ir2.2:n0
+デートする;デートする;berkencan,  kencan;9;ir2.2:n0
+短冊;たんざく;tanzaku (lembaran kertas yang digunakan saat perayaan Tanabata);9;ir2.2:n2
+願い事;ねがいごと;harapan,  keinginan;9;ir2.2:n3
+書く;かく;menulis;9;ir2.2:n5
+甘酒;あまざけ;amazake (minuman manis yang terbuat dari beras);9;ir2.2:n2
+こうして;こうして;seperti ini;9;ir2.2:n0
+お米;おこめ;beras;9;ir2.2:n3
+アルコール;アルコール;alkohol;9;ir2.2:n0
+若い;わかい;muda;9;ir2.2:n3
+お祝いする;おいわいする;merayakan;9;ir2.2:n2
+成人式;せいじんしき;Upacara Hari Kedewasaan;9;ir2.2:n3
+おしゃれをする;おしゃれをする;berdandan,  berpakaian indah;9;ir2.2:n0
+中学校;ちゅうがっこう;SMP (Sekolah Menengah Pertama);9;ir2.2:n5
+盛り上がる;もりあがる;meriah,  semarak;9;ir2.2:n1
+フライドチキン;フライドチキン;fried chicken (ayam goreng);9;ir2.2:n0
+必ず;かならず;selalu;9;ir2.2:n3
+過ごす;すごす;menghabiskan waktu;9;ir2.2:n3
+DVD;ディーブイディイー;DVD;9;ir2.2:n0
+実家;じっか;rumah orang tua;9;ir2.2:n3
+ごろごろする;ごろごろする;bermalas-malasan;9;ir2.2:n0
+お年玉;おとしだま;otoshidama (angpau / uang hadiah saat perayaan Tahun Baru);9;ir2.2:n2
+乗り物;のりもの;wahana permainan;9;ir2.2:n3
+今年;ことし;tahun ini;9;ir2.2:n5
+親戚;しんせき;kerabat;9;ir2.2:n1
+集まる;あつまる;berkumpul;9;ir2.2:n4
+毎年;まいとし;setiap tahun;9;ir2.2:n5
+甥;おい;keponakan laki-laki;9;ir2.2:n1
+姪;めい;keponakan perempuan;9;ir2.2:n1
+あけましておめでとうございます;あけましておめでとうございます;Selamat Tahun Baru;9;ir2.2:n0
+祭り;まつり;festival;9;ir2.2:n2
+田舎;いなか;kampung halaman (di pedesaan);9;ir2.2:n1
+飾る;かざる;menghias;9;ir2.2:n1
+特別（な）;とくべつ（な）;spesial,  khusus;9;ir2.2:n4
+パーティー;パーティー;pesta;9;ir2.2:n0
+歌う;うたう;menyanyi;9;ir2.2:n4
+踊る;おどる;menari;9;ir2.2:n2
+お金;おかね;uang;9;ir2.2:n5
+断食;だんじき;berpuasa;9;ir2.2:n3
+～明け（断食明け）;～あけ（だんじきあけ）;setelah ~ (cth : setelah berpuasa);9;ir2.2:n3
+旧暦;きゅうれき;kalender lunar Tiongkok;9;ir2.2:n1
+キリスト教;きりすときょう;agama Kristen;9;ir2.2:n4
+お祝い;おいわい;perayaan;9;ir2.2:n2
+水かけ祭り;みずかけまつり;Festival Air (festival khas Thailand);9;ir2.2:n2
+年;とし;tahun;9;ir2.2:n5
+～によって（年によって）;～によって（としによって）;bergantung pada ~ (cth : bergantung pada tahun);9;ir2.2:n5
+春節;しゅんせつ;Tahun Baru Imlek;9;ir2.2:n1
+ソンクラーン;ソンクラーン;Songkran (perayaan tahun baru tradisional masyarakat Thailand);9;ir2.2:n0
+レバラン;レバラン;Lebaran (hari raya dalam agama Islam);9;ir2.2:n0
+海外旅行;かいがいりょこう;berwisata ke luar negeri;9;ir2.2:n4
+赤い;あかい;merah;9;ir2.2:n4
+かけ合う;かけあう;saling melempar / mencipratkan (air);9;ir2.2:n3
+クトゥッパット;クトゥッパット;ketupat (makanan khas Indonesia);9;ir2.2:n0
+餃子;ぎょうざ;pangsit dengan isian;9;ir2.2:n1
+豚;ぶた;babi;9;ir2.2:n1
+丸焼き;まるやき;panggang (secara) utuh;9;ir2.2:n2
+クッキー;クッキー;kue kering;9;ir2.2:n0
+大切（な）;たいせつ（な）;penting,  berharga;9;ir2.2:n4
+どんなふうに;どんなふうに;bagaimana;9;ir2.2:n0
+祝う;いわう;merayakan;9;ir2.2:n2
+赤;あか;merah;9;ir2.2:n4
+おめでたい;おめでたい;bernuansa perayaan;9;ir2.2:n0
+色;いろ;warna;9;ir2.2:n4
+イスラム教;イスラムきょう;agama Islam;9;ir2.2:n4
+ラマダン;ラマダン;Ramadan;9;ir2.2:n0
+例えば;たとえば;misalnya;9;ir2.2:n3
+飾りつけ;かざりつけ;dekorasi,  hiasan;9;ir2.2:n1
+半分;はんぶん;setengah;9;ir2.2:n1
+餅つき;もちつき;menumbuk kue Mochi (kue beras khas Jepang);9;ir2.2:n1
+当日;とうじつ;pada hari itu;9;ir2.2:n3
+大人;おとな;orang dewasa;9;ir2.2:n5
+味わう;あじわう;merasakan,  menikmati;9;ir2.2:n4
+伝統的（な）;でんとうてき（な）;tradisional;9;ir2.2:n1
+文化;ぶんか;kebudayaan;9;ir2.2:n3
+感想;かんそう;impresi,  kesan;9;ir2.2:n3
+語る;かたる;bercerita;9;ir2.2:n5
+活動報告;かつどうほうこく;laporan kegiatan;9;ir2.2:n3
+実際に;じっさいに;sebenarnya;9;ir2.2:n3
+杵;きね;alu (semacam alat dari kayu untuk menumbuk);9;ir2.2:n1
+体験する;たいけんする;mencoba,  merasakan (pengalaman baru);9;ir2.2:n4
+つきたて;つきたて;baru dibuat;9;ir2.2:n0
+お餅;おもち;mochi (kue beras khas Jepang);9;ir2.2:n1
+きなこ;きなこ;kinako (tepung kedelai);9;ir2.2:n0
+あんこ;あんこ;anko (pasta kacang merah);9;ir2.2:n0
+餅をつく;もちをつく;menumbuk;9;ir2.2:n1
+チームワーク;チームワーク;kerja tim;9;ir2.2:n0
+トック;トック;tteok (kue beras khas Korea);9;ir2.2:n0
+思ったより（も）;おもったより（も）;lebih dari yang diharapkan;9;ir2.2:n4
+昨年;さくねん;tahun lalu;9;ir2.2:n3
+昨年はいろいろお世話になりました;さくねんはいろいろおせわになりました;Terima kasih banyak untuk semua hal di tahun lalu.;9;ir2.2:n3
+今年もよろしくお願いします;こともよろしくおねがいします;Saya berharap dapat bekerja bersama Anda kembali di tahun ini.;9;ir2.2:n3
+あけおめ;あけおめ;(bentuk singkat untuk mengatakan akemashite omedetou);9;ir2.2:n0
+ことよろ;ことよろ;(bentuk singkat untuk mengatakan kotoshio yoroshiku);9;ir2.2:n0
+謹賀新年;きんがしんねん;Selamat Tahun Baru (ungkapan salam ucapan tahun baru yang digunakan dalam kartu ucapan);9;ir2.2:n1
+遊ぼう;あそぼう;Ayo nongkrong / hang out!;9;ir2.2:n3
+また遊ぼうね;またあそぼうね;Ayo nongkrong / hang out lagi selanjutnya, ya!;9;ir2.2:n3
+葬式 / お葬式;そうしき / おそうしき;upacara pemakaman;10;ir2.2:n1
+スーツ;スーツ;setelan jas;10;ir2.2:n0
+暗い;くらい;gelap;10;ir2.2:n3
+地味（な）;じみ（な）;tidak mencolok (yang berwarna gelap);10;ir2.2:n4
+ジャケット;ジャケット;jas,  baju atasan,  jaket;10;ir2.2:n0
+香典 / お香典;こうでん / おこうでん;uang duka / belasungkawa;10;ir2.2:n1
+香典袋;こうでんぶくろ;amplop untuk uang duka / belasungkawa;10;ir2.2:n1
+～用（お葬式用）;～よう（おそうしきよう）;untuk ~ (cth : untuk upacara pemakaman);10;ir2.2:n1
+披露宴;ひろうえん;resepsi;10;ir2.2:n1
+招待状;しょうたいじょう;surat undangan;10;ir2.2:n3
+だったら;だったら;kalau begitu;10;ir2.2:n0
+カジュアル（な）;カジュアル（な）;kasual;10;ir2.2:n0
+感じ;かんじ;yang tampak,  tampilan;10;ir2.2:n3
+白;しろ;putih;10;ir2.2:n5
+花嫁;はなよめ;pengantin,  mempelai wanita;10;ir2.2:n1
+見舞い / お見舞い;みまい / おみまい;menjenguk orang sakit;10;ir2.2:n3
+同僚;どうりょう;rekan kerja;10;ir2.2:n1
+骨;ほね;tulang;10;ir2.2:n2
+折る（骨を折る）;おる（ほねをおる）;patah (cth : patah tulang);10;ir2.2:n2
+入院する;にゅういんする;dirawat di rumah sakit,  opname;10;ir2.2:n4
+鉢植え;はちうえ;tanaman dalam pot;10;ir2.2:n1
+イメージ;イメージ;gambaran,  imaji;10;ir2.2:n0
+花束;はなたば;karangan bunga;10;ir2.2:n3
+本人;ほんにん;orang itu sendiri,  orangnya;10;ir2.2:n5
+まあ;まあ;Wow! (mengungkapkan keterkejutan atau emosi yang dalam);10;ir2.2:n0
+あら;あら;Ya ampun! (mengungkapkan keterkejutan ringan);10;ir2.2:n0
+どうすればいいですか？;どうすればいいですか？;Apa yang harus saya lakukan?;10;ir2.2:n0
+新築祝い;しんちくいわい;syukuran rumah baru;10;ir2.2:n2
+習慣;しゅうかん;kebiasaan;10;ir2.2:n3
+全員;ぜんいん;semuanya;10;ir2.2:n3
+繰り返す;くりかえす;mengulang;10;ir2.2:n1
+オトーリ;オトーリ;otoori (kebiasaan khas saat minum minuman beralkohol bersama-sama oleh masyarakat di Pulau Miyako, Prefektur Okinawa, Jepang);10;ir2.2:n0
+待つ;まつ;menunggu;10;ir2.2:n4
+流す;ながす;mengalirkan;10;ir2.2:n3
+ごみ箱;ごみばこ;bak sampah;10;ir2.2:n3
+捨てる;すてる;membuang;10;ir2.2:n2
+電話;でんわ;telepon;10;ir2.2:n5
+片付ける;かたづける;membereskan,  merapikan;10;ir2.2:n2
+掃除の人;そうじのひと;orang atau petugas yang membereskan / merapikan;10;ir2.2:n2
+不思議（な）;ふしぎ（な）;aneh;10;ir2.2:n3
+めんどくさい;めんどくさい;menyusahkan;10;ir2.2:n0
+まじめ（な）;まじめ（な）;serius,  rajin;10;ir2.2:n0
+まねをする;まねをする;meniru;10;ir2.2:n0
+ルール;ルール;peraturan,  aturan;10;ir2.2:n0
+守る（ルールを守る）;まもる（ルールをまもる）;menaati,  mematuhi (cth : menaati peraturan);10;ir2.2:n3
+貼り紙;はりがみ;tanda,  petunjuk;10;ir2.2:n1
+もちろん;もちろん;tentu saja;10;ir2.2:n0
+詰まる;つまる;menyumbat;10;ir2.2:n2
+それじゃあ;それじゃあ;lalu;10;ir2.2:n0
+臭い;くさい;bau tidak sedap;10;ir2.2:n1
+普通に;ふつうに;biasanya;10;ir2.2:n2
+うるさい;うるさい;berisik,  bising;10;ir2.2:n0
+～終わる（食べ終わる）;～おわる（たべおわる）;selesai ~ (cth : selesai makan);10;ir2.2:n4
+席;せき;tempat duduk;10;ir2.2:n3
+確かにね;たしかにね;Benar juga, ya.;10;ir2.2:n3
+どうしてかなあ;どうしてかなあ;Kenapa ya?;10;ir2.2:n0
+～かな？;～かな？;(Saya) penasaran / bertanya-tanya kenapa ~? (ekspresi ketika pembicara merasa penasaran dan bertanya pada dirinya sendiri);10;ir2.2:n0
+のどが渇く;のどがかわく;merasa haus;10;ir2.2:n1
+かご;かご;keranjang;10;ir2.2:n0
+空;から;kosong;10;ir2.2:n4
+ボトル;ボトル;botol;10;ir2.2:n0
+そうしたら;そうしたら;lalu,  dan kemudian;10;ir2.2:n0
+怒る;おこる;marah;10;ir2.2:n3
+ちゃんと;ちゃんと;sebagaimana mestinya;10;ir2.2:n0
+店長;てんちょう;manajer toko;10;ir2.2:n4
+泥棒;どろぼう;pencuri;10;ir2.2:n2
+イメージ;イメージ;kesan;10;ir2.2:n0
+袋;ふくろ;pembungkus,  bungkusan;10;ir2.2:n2
+あとから;あとから;setelahnya;10;ir2.2:n0
+どうしたの？;どうしたの？;Ada apa?;10;ir2.2:n0
+そうなの？;そうなの？;Benarkah itu?;10;ir2.2:n0
+そうかなあ;そうかなあ;(Saya) tidak begitu yakin. (Ekspresi bahwa pembicara merasa kurang setuju dengan orang lain);10;ir2.2:n0
+だんだん;だんだん;sedikit demi sedikit;10;ir2.2:n0
+気に入る;きにいる;menyukai;10;ir2.2:n5
+直接;ちょくせつ;secara langsung;10;ir2.2:n2
+～杯;～はい;~ gelas (untuk menyatakan satuan);10;ir2.2:n3
+お金を取る;かねをとる;berbayar;10;ir2.2:n3
+ひどい;ひどい;keterlaluan;10;ir2.2:n0
+信じられない;しんじられない;tak dapat dipercaya;10;ir2.2:n3
+信じる;しんじる;percaya;10;ir2.2:n3
+チップ;チップ;tip;10;ir2.2:n0
+マナー;マナー;etika,  adab,  sopan santun;10;ir2.2:n0
+ズズズズ;ズズズズ;slurp (bunyi yang muncul saat menikmati mi soba dengan cara menghirupnya);10;ir2.2:n0
+音を立てる;おとをたてる;membuat bunyi;10;ir2.2:n4
+どんぶり;どんぶり;mangkuk;10;ir2.2:n0
+持ち上げる;もちあげる;mengangkat;10;ir2.2:n4
+口を付ける;くちをつける;menempelkan ke mulut;10;ir2.2:n3
+嫌（な）;いや（な）;tidak menyukai,  benci;10;ir2.2:n1
+何杯でも;なんばいでも;bergelas-gelas,  beberapa gelas pun (minuman);10;ir2.2:n3
+おかわり;おかわり;isi ulang;10;ir2.2:n0
+おしぼり;おしぼり;handuk kecil basah untuk mengelap tangan;10;ir2.2:n0
+テーブルチャージ;テーブルチャージ;biaya tambahan;10;ir2.2:n0
+しかも;しかも;selain itu;10;ir2.2:n0
+こういう;こういう;~ seperti ini;10;ir2.2:n0
+ごちそうさま;ごちそうさま;Terima kasih untuk makanannya / hidangannya. (Ungkapan yang diucapkan setelah selesai makan);10;ir2.2:n0
+どちらでもない;どちらでもない;bukan keduanya;10;ir2.2:n0
+色;いろ;warna;11;ir2.2:n4
+サイズ;サイズ;ukuran;11;ir2.2:n0
+赤;あか;merah;11;ir2.2:n4
+青;あお;biru;11;ir2.2:n4
+緑;みどり;hijau;11;ir2.2:n2
+黄色;きいろ;kuning;11;ir2.2:n2
+黒;くろ;hitam;11;ir2.2:n4
+白;しろ;putih;11;ir2.2:n5
+ベージュ;ベージュ;krem;11;ir2.2:n0
+ピンク;ピンク;pink,  merah muda,  merah jambu;11;ir2.2:n0
+茶色;ちゃいろ;cokelat;11;ir2.2:n4
+グレー;グレー;abu-abu;11;ir2.2:n0
+カーキ;カーキ;khaki,  cokelat muda;11;ir2.2:n0
+S;エス;small,  ukuran kecil;11;ir2.2:n0
+M;エム;medium,  ukuran sedang;11;ir2.2:n0
+L;エル;large,  ukuran besar;11;ir2.2:n0
+XL;エックスエル;extra large,  ukuran ekstra besar;11;ir2.2:n0
+フリー;フリー;satu ukuran / satu ukuran cocok untuk semua;11;ir2.2:n0
+～cm（24.5cm）;～センチ（にじゅうよんてんごセンチ）;~ cm (cth : 24,5 cm);11;ir2.2:n0
+ただいま;ただいま;saat ini;11;ir2.2:n0
+全品;ぜんぴん;semua produk;11;ir2.2:n3
+～％オフ（10％オフ）;～パーセントオフ（じゅっパーセントオフ）;diskon / potongan ~ % (cth : potongan 10%);11;ir2.2:n0
+セーター;セーター;sweter;11;ir2.2:n0
+試着室;しちゃくしつ;ruang ganti,  kamar pas;11;ir2.2:n4
+派手（な）;はで（な）;mencolok;11;ir2.2:n1
+試着（する）;しちゃく（する）;mencoba memakai;11;ir2.2:n4
+よろしければ;よろしければ;jika Anda ingin (ungkapan bentuk sopan);11;ir2.2:n0
+ごゆっくりごらんください;ごゆっくりごらんください;Silakan luangkan waktu Anda untuk melihat-lihat. (ungkapan bentuk sopan);11;ir2.2:n0
+ご案内いたします;ごあんないいたします;Saya akan menunjukkan tempatnya. (ungkapan bentuk sopan);11;ir2.2:n1
+駐輪場;ちゅうりんじょう;tempat parkir sepeda;11;ir2.2:n2
+インフォメーション;インフォメーション;layanan / bagian informasi;11;ir2.2:n0
+フードコート;フードコート;food court,  pujasera;11;ir2.2:n0
+探す;さがす;mencari;11;ir2.2:n3
+レシート;レシート;resi;11;ir2.2:n0
+救急車;きゅうきゅうしゃ;ambulans;11;ir2.2:n1
+盗む;ぬすむ;mencuri;11;ir2.2:n3
+停める;とめる;memarkir;11;ir2.2:n2
+移動する;いどうする;memindahkan,  berpindah;11;ir2.2:n2
+急に;きゅうに;tiba-tiba;11;ir2.2:n4
+ソファ;ソファ;sofa;11;ir2.2:n0
+さっき;さっき;tadi;11;ir2.2:n0
+もしかしたら;もしかしたら;mungkin;11;ir2.2:n0
+とる;とる;mengambil / mencuri;11;ir2.2:n0
+ポイントカード;ポイントカード;kartu poin;11;ir2.2:n0
+スタンプ;スタンプ;cap,  stempel;11;ir2.2:n0
+押す（スタンプを押す）;おす（スタンプをおす）;membubuhkan (cth : membubuhkan cap);11;ir2.2:n3
+どうなさいましたか？;どうなさいましたか？;Ada apa dengan Anda? (ungkapan bentuk sopan);11;ir2.2:n0
+お持ちください;おもちください;Silakan bawa ~. (ungkapan bentuk sopan);11;ir2.2:n4
+警察;けいさつ;polisi;11;ir2.2:n3
+気分が悪い;きぶんがわるい;merasa sakit / tidak enak badan;11;ir2.2:n1
+会員証;かいいんしょう;kartu anggota;11;ir2.2:n1
+お書きください;おかきください;Silakan tulis ~. (ungkapan bentuk sopan);11;ir2.2:n5
+どうなさいますか？;どうなさいますか？;Apa yang ingin Anda lakukan? (ungkapan bentuk sopan);11;ir2.2:n0
+特徴;とくちょう;ciri-ciri;11;ir2.2:n1
+値段;ねだん;harga;11;ir2.2:n3
+機種;きしゅ;model,  tipe;11;ir2.2:n3
+なくす;なくす;menhilangkan;11;ir2.2:n0
+届く;とどく;diserahkan;11;ir2.2:n2
+スマートフォン／スマホ;スマートフォン／スマホ;smartphone,  ponsel pintar;11;ir2.2:n0
+カバー;カバー;cover,  penutup;11;ir2.2:n0
+ついている;ついている;dengan ~;11;ir2.2:n0
+買い物する;かいものする;berbelanja;11;ir2.2:n4
+気づく;きづく;menyadari;11;ir2.2:n5
+そのような;そのような;seperti itu,  demikian;11;ir2.2:n0
+つながる;つながる;tersambung;11;ir2.2:n0
+見つかる;みつかる;menemukan;11;ir2.2:n5
+遺失物届;いしつぶつとどけ;laporan mengenai barang hilang;11;ir2.2:n1
+連絡をとる;れんらくをとる;menghubungi;11;ir2.2:n2
+お調べいたします;おしらべいたします;Saya akan memeriksanya. (ungkapan bentuk sopan);11;ir2.2:n3
+落とし物;おとしもの;barang hilang dan temuan;11;ir2.2:n3
+案内;あんない;informasi;11;ir2.2:n1
+呼び出し;よびだし;panggilan;11;ir2.2:n3
+営業時間;えいぎょうじかん;jam buka,  jam operasional;11;ir2.2:n2
+セール;セール;sale,  obral;11;ir2.2:n0
+延長する;えんちょうする;memperpanjang;11;ir2.2:n2
+営業する;えぎょうする;membuka,  beroperasi;11;ir2.2:n2
+レストラン街;レストランがい;area restoran;11;ir2.2:n1
+開催中;かいさいちゅう;sedang berlangsung;11;ir2.2:n1
+通常どおり;つうじょうどおり;seperti biasanya;11;ir2.2:n3
+くり返しご案内いたします;くりかえしごあんないいたします;Sekali lagi kami informasikan... (ungkapan bentuk sopan);11;ir2.2:n1
+先ほど;さきほど;tadi,  baru saja;11;ir2.2:n5
+婦人服;ふじんふく;pakaian wanita;11;ir2.2:n3
+～売り場（婦人服売り場）;～うりば（ふじんふくうりば）;area penjualan (cth : area penjualan pakaian wanita);11;ir2.2:n3
+お買い上げ;おかいあげ;pembelian (ungkapan bentuk sopan);11;ir2.2:n4
+恐れ入りますが;おそれいりますが;Saya memohon maaf atas ketidaknyamanannya, akan tetapi ~ (ungkapan bentuk sopan);11;ir2.2:n3
+お呼び出しを申し上げます;およびだしをもうしあげます;Saya ingin memanggil ~. (ungkapan bentuk sopan);11;ir2.2:n3
+お伝えしたいことがございます;おつたえしたいことがございます;Saya mempunyai informasi untuk Anda. (ungkapan bentuk sopan);11;ir2.2:n3
+お越しください;おこしください;Silakan pergi / menuju ke ~. (ungkapan bentuk sopan);11;ir2.2:n3
+男性用;だんせいよう;(untuk) laki-laki;11;ir2.2:n3
+かぎ;かぎ;kunci;11;ir2.2:n0
+心当たり;こころあたり;mengetahui,  mempunyai informasi;11;ir2.2:n3
+インフォメーションカウンター;インフォメーションカウンター;konter layanan informasi;11;ir2.2:n0
+～フェア（北海道フェア）;～フェア（ほっかいどうフェア）;~ fair,  pameran,  pekan raya ~ (cth : Hokkaido Fair);11;ir2.2:n4
+海の幸;うみのさち;boga bahari,  makanan / hidangan laut;11;ir2.2:n3
+スイーツ;スイーツ;aneka makanan / camilan manis;11;ir2.2:n0
+秋の味覚;あきのみかく;makanan / masakan khas musim gugur;11;ir2.2:n3
+～限り（1週間限り）;～かぎり（いっしゅうかんかぎり）;hanya ~ (saja) (cth : hanya untuk 1 minggu);11;ir2.2:n3
+札幌;さっぽろ;Sapporo (ibu kota Prefektur Hokkaido, Jepang);11;ir2.2:n1
+機会;きかい;kesempatan;11;ir2.2:n3
+ご来場を心からお待ちしております;ごらいじょうをこころからおまちしております;Kami tunggu kedatangan Anda sekalian. (ungkapan bentuk sopan);11;ir2.2:n4
+電気製品;でんきせいひん;alat elektronik,  peralatan elektronik;12;ir2.2:n1
+冷蔵庫;れいぞうこ;kulkas,  lemari pendingin;12;ir2.2:n2
+洗濯機;せんたくき;mesin cuci;12;ir2.2:n2
+電子レンジ;でんしレンジ;oven gelombang mikro, microwave;12;ir2.2:n5
+掃除機;そうじき;vacuum cleaner,  penyedot debu;12;ir2.2:n2
+ポット;ポット;dispenser air panas;12;ir2.2:n0
+パソコン;パソコン;personal computer (PC);12;ir2.2:n0
+タブレット;タブレット;tablet;12;ir2.2:n0
+イヤホン;イヤホン;earphone,  penyuara telinga;12;ir2.2:n0
+扇風機;せんぷうき;kipas angin;12;ir2.2:n1
+ストーブ;ストーブ;penghangat ruangan,  pemanas (stove);12;ir2.2:n0
+ヒーター;ヒーター;pemanas (heater);12;ir2.2:n0
+ドライヤー;ドライヤー;hair-dryer,  pengering rambut;12;ir2.2:n0
+アイロン;アイロン;setrika;12;ir2.2:n0
+モデル;モデル;model,  tipe;12;ir2.2:n0
+音;おと;bunyi;12;ir2.2:n4
+デザイン;デザイン;desain;12;ir2.2:n0
+商品;しょうひん;produk;12;ir2.2:n3
+送料;そうりょう;ongkir (ongkos kirim);12;ir2.2:n4
+無料;むりょう;gratis,  bebas biaya;12;ir2.2:n1
+お店の人;おみせのひと;staf toko;12;ir2.2:n4
+相談（する）;そうだん（する）;berkonsultasi;12;ir2.2:n3
+届く;とどく;dikirimkan;12;ir2.2:n2
+店員;てんいん;staf toko;12;ir2.2:n4
+便利（な）;べんり（な）;praktis;12;ir2.2:n3
+すぐ;すぐ;langsung,  segera;12;ir2.2:n0
+見つかる;みつかる;menemukan;12;ir2.2:n5
+高く;たかく;harga tinggi;12;ir2.2:n5
+売れる;うれる;bisa / dapat menjual;12;ir2.2:n4
+手続き;てつづき;prosedur;12;ir2.2:n3
+簡単（な）;かんたん（な）;mudah / sederhana;12;ir2.2:n2
+メーカー;メーカー;produsen;12;ir2.2:n0
+ワイヤレス;ワイヤレス;wireless,  nirkabel;12;ir2.2:n0
+手元;てもと;(sampai ke) padaku;12;ir2.2:n4
+電気屋;でんきや;toko elektronik;12;ir2.2:n4
+国道沿い;こくどうぞい;di sepanjang jalur nasional;12;ir2.2:n1
+開店（開店セール）;かいてん（かいてんセール）;pembukaan toko (obral saat pembukaan toko);12;ir2.2:n4
+車を出す;くるまをだす;memberi tumpangan;12;ir2.2:n5
+フリマサイト;フリマサイト;situs flea market;12;ir2.2:n0
+家電;かでん;perlengkapan rumah tangga;12;ir2.2:n4
+カテゴリー;カテゴリー;kategori;12;ir2.2:n0
+ブランド;ブランド;merek;12;ir2.2:n0
+ホーム;ホーム;homepage,  laman;12;ir2.2:n0
+出品;しゅっぴん;submit,  kirim;12;ir2.2:n4
+マイページ;マイページ;my page,  halaman saya (halaman pribadi pengguna);12;ir2.2:n0
+住まい;すまい;(untuk) rumah;12;ir2.2:n4
+絞り込み;しぼりこみ;filter pencarian (mempersempit lingkup pencarian produk);12;ir2.2:n1
+販売中;はんばいちゅう;dijual,  dalam masa penjualan;12;ir2.2:n2
+表示;ひょうじ;tampilan;12;ir2.2:n3
+～順（安い順）;～じゅん（やすいじゅん）;urutan ~ (cth : urutan dari harga terendah ke yang tertinggi);12;ir2.2:n2
+価格;かかく;harga;12;ir2.2:n1
+状態;じょうたい;kondisi;12;ir2.2:n1
+配送料;はいそうりょう;ongkir (ongkos kirim);12;ir2.2:n3
+販売状況;はんばいじょうきょう;status penjualan;12;ir2.2:n2
+指定する;していする;menentukan,  menetapkan;12;ir2.2:n3
+取り消し;とりけし;batal,  pembatalan;12;ir2.2:n3
+完了;かんりょう;konfirmasi;12;ir2.2:n2
+購入（する）;こうにゅう（する）;membeli;12;ir2.2:n1
+傷;きず;goresan;12;ir2.2:n1
+汚れ;よごれ;bercak,  noda;12;ir2.2:n2
+～込み（送料込み）;～こみ（そうりょうこみ）;termasuk ~ (cth : termasuk ongkos kirim);12;ir2.2:n3
+～合（5.5合）;～ごう（ごてんごごう）;~ go (satuan volume nasi di Jepang, sekitar 180 ml) (cth : 5,5 go = 990ml);12;ir2.2:n3
+出品する;しゅっぴんする;melakukan submit barang untuk dijual;12;ir2.2:n4
+問題なく;もんだいなく;tanpa masalah;12;ir2.2:n4
+炊ける（ご飯が炊ける）;たける（ごはんがたける）;menanak,  memasak (cth : menanak nasi);12;ir2.2:n1
+詳細;しょうさい;detail,  rincian;12;ir2.2:n1
+～製（2018製）;～せい（にせんはちねんせい）;buatan ~ (cth : buatan tahun 2018);12;ir2.2:n1
+幅;はば;lebar;12;ir2.2:n2
+奥行き;おくゆき;kedalaman;12;ir2.2:n2
+高さ;たかさ;tinggi;12;ir2.2:n5
+重さ;おもさ;berat;12;ir2.2:n4
+説明書;せつめいしょ;buku petunjuk penggunaan,  buku panduan;12;ir2.2:n3
+～つき（説明書つき）;～つき（せつめいしょつき）;dilengkapi (dengan) ~ (cth : dilengkapi (dengan) buku panduan);12;ir2.2:n3
+購入手続き;こうにゅうてつづき;prosedur pembelian;12;ir2.2:n1
+重さ;おもさ;berat;12;ir2.2:n4
+連続;れんぞく;terus menerus,  tanpa henti;12;ir2.2:n3
+充電;じゅうでん;pengecesan,  isi ulang daya;12;ir2.2:n1
+しっかり;しっかり;sepenuhnya,  sampai tuntas,  secara menyeluruh;12;ir2.2:n0
+使用時間;しようじかん;waktu penggunaan;12;ir2.2:n4
+こんな（こんな人）;こんな（こんなひと）;ini / seperti ini (cth : orang (yang) seperti ini);12;ir2.2:n5
+モード（強モード）;モード（きょうモード）;mode (cth : mode kuat);12;ir2.2:n4
+多機能;たきのう;multifungsi;12;ir2.2:n3
+長持ち;ながもち;tahan lama,  jangka panjang;12;ir2.2:n4
+超軽量;ちょうけいりょう;sangat ringan;12;ir2.2:n2
+お手入れ;お手入れ;pemeliharaan,  perawatan;12;ir2.2:n4
+吸引（する）;きゅういん（する）;menghisap,  menyedot;12;ir2.2:n3
+吸引力;きゅういんりょく;daya hisap,  daya sedot;12;ir2.2:n3
+コンパクト（な）;コンパクト（な）;terpadu,  menyatu dan praktis;12;ir2.2:n0
+持ち運ぶ;もちこぶ;membawa;12;ir2.2:n4
+重視する;じゅうしする;memprioritaskan;12;ir2.2:n1
+すみずみ;すみずみ;(sampai) sudut ke sudut (ruangan);12;ir2.2:n0
+税別;ぜいべつ;harga belum termasuk pajak;12;ir2.2:n2
+広告の品;こうこくのしな;barang yang diiklankan;12;ir2.2:n3
+特別価格;とくべつかかく;harga spesial;12;ir2.2:n1
+コードレス;コードレス;tanpa kabel,  cordless;12;ir2.2:n0
+希望小売価格;きぼうこうりかく;harga eceran resmi,  harga retail yang disarankan;12;ir2.2:n1
+軽い;かるい;ringan;12;ir2.2:n2
+動かす;うごかす;memindahkan,  menggerakkan;12;ir2.2:n4
+持つ;もつ;membawa;12;ir2.2:n4
+比べる;くらべる;membandingkan;12;ir2.2:n2
+パワフル（な）;パワフル（な）;powerful,  kuat;12;ir2.2:n0
+機能;きのう;fitur,  fungsi;12;ir2.2:n3
+つく（機能がつく）;つく（きのうがつく）;memiliki,  menyertakan,  termasuk (cth : fungsi yang disertakan / memiliki fungsi);12;ir2.2:n3
+カーペット;カーペット;karpet;12;ir2.2:n0
+畳;たたみ;tatami;12;ir2.2:n2
+エコモード;エコモード;eco mode,  mode hemat daya;12;ir2.2:n0
+ですから;ですから;karena itu;12;ir2.2:n0
+～に合わせて;～にあわせて;menyesuaikan ~ (cth: menyesuaikan dengan ruangan);12;ir2.2:n3
+複雑（な）;ふくざつ（な）;rumit;12;ir2.2:n2
+重い;おもい;berat;12;ir2.2:n4
+予算オーバー;よさんオーバー;melebihi anggaran;12;ir2.2:n2
+シンプル（な）;シンプル（な）;simpel,  sederhana;12;ir2.2:n0
+消費税;しょうひぜい;pajak konsumen,  pajak konsumsi;12;ir2.2:n2
+～抜き（消費税抜き）;～ぬき（しょうひぜいぬき）;tanpa ~ (cth : tanpa pajak konsumsi);12;ir2.2:n2
+～引き（2000円引き）;～びき（にせんえんびき）;diskon ~ (cth : diskon sebesar 2.000 yen);12;ir2.2:n3
+配送;はいそう;pengiriman;12;ir2.2:n3
+合わせて;あわせて;digabungkan;12;ir2.2:n3
+ポイント;ポイント;poin;12;ir2.2:n0
+貯まる;たまる;terakumulasi,  terkumpul;12;ir2.2:n2
+変わる;かわる;berubah;12;ir2.2:n3
+安くなりますか？;やすくなりますか？;Bisakah Anda menurunkan harganya?;12;ir2.2:n4
+おいくらぐらいでお探しですか？;おいくらぐらいでおさがしですか？;Berapakah anggaran Anda? (ungkapan bentuk sopan);12;ir2.2:n3
+どちらにお住まいですか？;どちらにおすまいですか？;Di manakah Anda tinggal? (ungkapan bentuk sopan);12;ir2.2:n4
+ご利用になりますか？;ごりようになりますか？;Apakah Anda akan menggunakan ~? (ungkapan bentuk sopan);12;ir2.2:n3
+公共;こうきょう;publik;13;ir2.2:n3
+施設;しせつ;fasilitas;13;ir2.2:n1
+図書館;としょかん;perpustakaan;13;ir2.2:n4
+美術館;びじゅつかん;museum seni;13;ir2.2:n3
+民俗資料館;みんぞくしりょうかん;museum rakyat;13;ir2.2:n1
+体育館;たいいくかん;gimnasium,  gedung olahraga;13;ir2.2:n3
+スポーツジム;スポーツジム;pusat kebugaran;13;ir2.2:n0
+お風呂;おふろ;ruang berendam;13;ir2.2:n1
+入浴施設;にゅうよくしせつ;ruang mandi;13;ir2.2:n1
+インフォメーションコーナー;インフォメーションコーナー;pojok / ruang layanan informasi;13;ir2.2:n0
+プラネタリウム;プラネタリウム;planetarium;13;ir2.2:n0
+物産コーナー;ぶっさんコーナー;pojok atau ruang berbagai produk / barang jadi;13;ir2.2:n3
+市内;しない;dalam kota;13;ir2.2:n3
+パンフレット;パンフレット;pamflet;13;ir2.2:n0
+外国語;がいこくご;bahasa asing;13;ir2.2:n5
+CD;シーディー;CD;13;ir2.2:n0
+昔;むかし;dahulu,  masa lalu;13;ir2.2:n3
+道具;どうぐ;peralatan,  alat;13;ir2.2:n3
+文化施設;ぶんかしせつ;pusat kebudayaan;13;ir2.2:n1
+立てる;たてる;mendirikan;13;ir2.2:n4
+メイン;メイン;utama;13;ir2.2:n0
+PC;ピーシー;personal computer;13;ir2.2:n0
+自由に;じゆうに;dengan bebas;13;ir2.2:n3
+展示する;てんじする;memamerkan;13;ir2.2:n1
+歴史;れきし;sejarah;13;ir2.2:n2
+利用（する）;りよう（する）;menggunakan;13;ir2.2:n3
+室内用;しつないよう;untuk (penggunaan) dalam ruangan;13;ir2.2:n3
+オリエンテーション;オリエンテーション;orientasi,  pengenalan;13;ir2.2:n0
+延長料金;えんちょうりょうきん;biaya perpanjangan;13;ir2.2:n2
+～につき（30分につき）;～につき（さんじゅっぷんにつき）;untuk setiap ~ (cth : untuk setiap 30 menit);13;ir2.2:n1
+かかる;かかる;(dikenakan) biaya,  biayanya;13;ir2.2:n0
+下りる;おりる;turun;13;ir2.2:n5
+シューズ;シューズ;sepatu;13;ir2.2:n0
+マシン;マシン;mesin;13;ir2.2:n0
+トレーナー;トレーナー;pelatih,  trainer;13;ir2.2:n0
+～ほど（30分ほど）;～ほど（さんじゅっぷんほど）;sekitar ~ (cth : sekitar 30 menit);13;ir2.2:n1
+受ける;うける;menerima;13;ir2.2:n3
+声をかける;こえをかける;menyapa,  berbicara kepada;13;ir2.2:n3
+ご了承ください;ごりょうしょうください;Mohon dicatat,  Mohon dipahami (ungkapan bentuk sopan);13;ir2.2:n2
+受けていただきます;うけていただきます;Kami mohon Anda untuk bersedia mengikuti ~ (ungkapan bentuk sopan);13;ir2.2:n3
+絵;え;lukisan;13;ir2.2:n3
+さまざまな;さまざまな;berbagai macam;13;ir2.2:n0
+彫刻;ちょうこく;ukiran;13;ir2.2:n1
+画家;がか;pelukis;13;ir2.2:n4
+～を中心に;～をちゅうしんに;utamanya;13;ir2.2:n4
+セット券;セットけん;tiket terusan;13;ir2.2:n2
+フラッシュ;フラッシュ;lampu kilat,  blitz;13;ir2.2:n0
+券売機;けんばいき;mesin penjualan tiket;13;ir2.2:n2
+休憩室;きゅうけいしつ;lounge,  ruang santai;13;ir2.2:n1
+ついている（タオルがついている）;ついている（タオルがついている）;disertai dengan ~,  termasuk ~ (cth : termasuk handuk);13;ir2.2:n0
+IT;アイティー;IT,  teknologi informasi;13;ir2.2:n0
+利用者カード;りようしゃカード;kartu pengguna;13;ir2.2:n3
+プリントアウト;プリントアウト;print-out,  hasil cetak;13;ir2.2:n0
+インターネット;インターネット;internet;13;ir2.2:n0
+プリンター;プリンター;printer,  mesin cetak;13;ir2.2:n0
+空いている;あいている;kosong;13;ir2.2:n4
+確認する;かくにんする;mengecek,  memastikan;13;ir2.2:n3
+在留カード;ざいりゅうカード;kartu izin tinggal;13;ir2.2:n3
+何冊;なんさつ;berapa banyak (jilid) buku;13;ir2.2:n2
+～冊（10冊）;～さつ（じゅっさつ）;~ jilid (buku) (cth : 10 jilid buku);13;ir2.2:n2
+合わせて;あわせて;secara keseluruhan,  total;13;ir2.2:n3
+～点（3点）;～てん（さんてん）;~ item,  ~ buah (barang) (cth : 3 buah barang);13;ir2.2:n3
+飲食禁止;いんしょくきんし;larangan makan dan minum;13;ir2.2:n2
+返す;かえす;mengembalikan;13;ir2.2:n3
+閉まる;しまる;tutup;13;ir2.2:n3
+返却ポスト;へんきゃくポスト;kotak pengembalian;13;ir2.2:n1
+開く;あく;buka;13;ir2.2:n4
+返却;へんきゃく;pengembalian;13;ir2.2:n1
+お読みください;およみください;Silakan baca. (ungkapan bentuk sopan);13;ir2.2:n5
+延ばす;のばす;memperpanjang;13;ir2.2:n2
+～のうち（15点のうち）;～のうち（じゅうごてんのうち）;dalam ~ (cth : dalam 15 buah barang);13;ir2.2:n3
+カセットテープ;カセットテープ;kaset;13;ir2.2:n0
+～禁止（撮影禁止）;～きんし（さつえいきんし）;larangan (untuk) ~ (cth : larangan (untuk) mengambil foto);13;ir2.2:n1
+立入禁止;たちいりきんし;larangan masuk;13;ir2.2:n2
+関係者;かんけいしゃ;staf / personel yang berwenang;13;ir2.2:n3
+～以外（関係者以外）;～以外（かんけいしゃいがい）;kecuali ~ (cth : kecuali staf / personel yang berwenang);13;ir2.2:n3
+預ける;あづける;menitipkan,  menyimpan;13;ir2.2:n2
+お預けください;おあづけください;Silakan menyimpan ~. (ungkapan bentuk sopan);13;ir2.2:n2
+館内;かんない;(di) dalam gedung;13;ir2.2:n3
+通話;つうわ;panggilan telepon;13;ir2.2:n4
+ご遠慮ください;ごえんりょください;Mohon (menahan diri) untuk tidak ~ . (ungkapan bentuk sopan);13;ir2.2:n1
+お控えください;おひかえください;Mohon (menahan diri) untuk tidak ~ . (ungkapan bentuk sopan);13;ir2.2:n1
+入館;にゅうかん;masuk ke gedung / ruangan,  memasuki suatu tempat;13;ir2.2:n4
+入れ墨;いれずみ;tato khas Jepang;13;ir2.2:n1
+タトゥー;タトゥー;tato;13;ir2.2:n0
+シール;シール;stiker tato;13;ir2.2:n0
+ボディペイント;ボディペイント;body paint,  lukis tubuh;13;ir2.2:n0
+お断りしています;おことわりしています;Kami menolak ~ . (ungkapan bentuk sopan);13;ir2.2:n3
+サービス;サービス;layanan;14;ir2.2:n0
+郵便局;ゆうびんきょく;kantor pos;14;ir2.2:n2
+不動産屋;ふどうさんや;agen real estat;14;ir2.2:n3
+理髪店;りはつてん;barbershop,  layanan pangkas rambut;14;ir2.2:n3
+床屋;とこや;barbershop,  layanan pangkas rambut;14;ir2.2:n2
+美容院;びよういん;salon kecantikan;14;ir2.2:n3
+クリーニング店;クリーニングてん;layanan dry cleaning (cuci kering);14;ir2.2:n4
+コインランドリー;コインランドリー;layanan laundry koin;14;ir2.2:n0
+中古車店;ちゅうこしゃてん;pusat mobil bekas;14;ir2.2:n4
+自転車店;じてんしゃてん;toko sepeda;14;ir2.2:n4
+携帯ショップ;けいたいショップ;pusat penjualan ponsel / handphone;14;ir2.2:n1
+スマホ修理店;スマホしゅうりてん;layanan perbaikan ponsel;14;ir2.2:n1
+リサイクルショップ;リサイクルショップ;layanan recycle / daur ulang;14;ir2.2:n0
+クリーニング;クリーニング;layanan laundry dry cleaning (cuci kering);14;ir2.2:n0
+シミ;シミ;noda;14;ir2.2:n0
+落ちる（汚れが落ちる）;おちる（よごれがおちる）;hilang (cth : kotorannya hilang);14;ir2.2:n2
+シミ抜き;シミぬき;menghilangkan noda;14;ir2.2:n3
+別料金;べつりょうきん;biaya tambahan;14;ir2.2:n4
+お渡し;おわたし;penyerahan,  pengembalian (ungkapan bentuk sopan);14;ir2.2:n3
+空気;くうき;angin,  udara;14;ir2.2:n4
+空気入れ;くうきいれ;pompa (untuk) mengisi angin;14;ir2.2:n4
+入る（空気が入る）;はいる（くうきがはいる）;masuk (cth : angin / udaranya masuk);14;ir2.2:n4
+タイヤ;タイヤ;ban;14;ir2.2:n0
+キャップ;キャップ;penutup;14;ir2.2:n0
+はずす;はずす;melepas;14;ir2.2:n0
+はさむ;はさむ;menjepit;14;ir2.2:n0
+かぶせる;かぶせる;menutup;14;ir2.2:n0
+ついでに;ついでに;sekalian,  sekaligus;14;ir2.2:n0
+油を差す;あぶらをさす;meminyaki,  mengolesi minyak;14;ir2.2:n2
+どれどれ;どれどれ;Biar saya lihat / cek.;14;ir2.2:n0
+宅配便;たくはいびん;jasa layanan pengiriman paket;14;ir2.2:n3
+着払い;ちゃくばらい;cash on delivery (COD),  pembayaran oleh penerima paket;14;ir2.2:n3
+元払い;もとばらい;pembayaran di muka,  pembayaran oleh pengirim paket;14;ir2.2:n3
+受け取る;うけとる;menerima;14;ir2.2:n3
+伝票;でんぴょう;slip pengiriman;14;ir2.2:n1
+指定;してい;tertentu;14;ir2.2:n3
+午前中;ごぜんちゅう;pagi hari;14;ir2.2:n5
+最も;もっとも;paling;14;ir2.2:n3
+お届け;おとどけ;pengiriman (ungkapan bentuk sopan);14;ir2.2:n2
+お預かりします;おあずかりします;Kami terima paket Anda. (ungkapan bentuk sopan);14;ir2.2:n2
+表示する;ひょうじする;menampilkan;14;ir2.2:n3
+キャッシュカード;キャッシュカード;kartu ATM,  kartu debet;14;ir2.2:n0
+お引き出し;おひきだし;penarikan uang (ungkapan bentuk sopan);14;ir2.2:n3
+次に;つぎに;selanjutnya;14;ir2.2:n3
+暗証番号;あんしょうばんごう;personal identification number (PIN);14;ir2.2:n1
+入力する;にゅうりょくする;menginput;14;ir2.2:n4
+～桁（4桁）;～けた（よんけた）;~ digit (cth : 4 digit);14;ir2.2:n1
+緑色;みどりいろ;(berwarna) hijau;14;ir2.2:n2
+金額;きんがく;besaran,  nominal uang;14;ir2.2:n2
+～円札（1万円札）;～えんさつ（いちまんえんさつ）;uang pecahan ~~ yen (cth : uang pecahan 10.000 yen);14;ir2.2:n2
+一部;いちぶ;sebagian;14;ir2.2:n3
+両替（する）;りょうがえ（する）;menukar / melakukan penukaran (pecahan uang);14;ir2.2:n2
+利用明細 / ご利用明細;りようめいさい / ごりようめいさい;setruk transaksi;14;ir2.2:n2
+紙幣;しへい;uang kertas;14;ir2.2:n1
+お取りください;おとりください;Silakan ambil ~. (ungkapan bentuk sopan);14;ir2.2:n3
+ご利用ありがとうございました;ごりようありがとうございました;Terima kasih telah menggunakan layanan kami. (ungkapan bentuk sopan);14;ir2.2:n3
+ポストに入れる;ポストにいれる;mengirim via pos;14;ir2.2:n5
+インターネット;インターネット;internet;14;ir2.2:n0
+申し込む;もうしこむ;mendaftar;14;ir2.2:n3
+郵便物;ゆうびんぶつ;paket;14;ir2.2:n2
+不在 / ご不在;ふざい / ごふざい;tidak berada di tempat;14;ir2.2:n3
+窓口;まどぐち;loket,  konter;14;ir2.2:n3
+再配達;さいはいたつ;pengiriman ulang;14;ir2.2:n2
+自動（24時間自動受付）;じどう（にじゅうよじかんじどううけつけ）;otomatis (cth : penerimaan otomatis 24 jam);14;ir2.2:n3
+連絡票;れんらくひょう;pemberitahuan;14;ir2.2:n1
+受取り / お受け取り;うけとり / おうけとり;penerimaan;14;ir2.2:n3
+印鑑;いんかん;inkan (cap / stempel nama khas Jepang);14;ir2.2:n1
+免許証;めんきょしょう;surat izin mengemudi;14;ir2.2:n1
+保険証;ほけんしょう;kartu asuransi kesehatan;14;ir2.2:n1
+マイナンバーカード;マイナンバーカード;kartu nomor individu;14;ir2.2:n0
+当日（当日配達）;とうじつ（とうじつはいたつ）;hari yang sama,  hari tersebut (cth : pengiriman di hari yang sama);14;ir2.2:n3
+携帯電話;けいたいでんわ;nomor ponsel / handphone;14;ir2.2:n1
+固定電話;こていでんわ;telepon rumah;14;ir2.2:n2
+郵便番号;ゆうびんばんごう;kode pos;14;ir2.2:n2
+種類番号;しゅるいばんごう;nomor jenis surat;14;ir2.2:n3
+国際;こくさい;internasional;14;ir2.2:n3
+書留;かきとめ;surat tercatat;14;ir2.2:n3
+小包;こづつみ;paket ukuran kecil;14;ir2.2:n2
+お知らせ番号;おしらせばんごう;nomor pemberitahuan;14;ir2.2:n3
+配達日;はいたつび;tanggal pengiriman;14;ir2.2:n3
+保管期限;ほかんきげん;batas waktu penyimpanan;14;ir2.2:n1
+勤め先 / お勤め先;つとめさき / おつとめさき;alamat tempat kerja;14;ir2.2:n3
+近所;きんじょ;tetangga;14;ir2.2:n3
+配達希望日;はいたつきぼうび;tanggal pengiriman yang diminta / diinginkan;14;ir2.2:n2
+配達先;はいたつさき;tujuan pengiriman;14;ir2.2:n3
+どのように;どのように;bagaimana;14;ir2.2:n0
+全体的に;ぜんたいてきに;secara keseluruhan;14;ir2.2:n1
+～mm;～ミリ;~ milimeter;14;ir2.2:n0
+まわり;まわり;sekitarnya;14;ir2.2:n0
+バリカン;バリカン;mesin pencukur rambut (hair clippers);14;ir2.2:n0
+ひげそり;ひげそり;cukur jenggot;14;ir2.2:n0
+鏡;かがみ;cermin;14;ir2.2:n1
+後ろのほう;うしろのほう;bagian belakang;14;ir2.2:n5
+こんな感じ;こんなかんじ;seperti ini;14;ir2.2:n3
+洗面台;せんめんだい;wastafel,  bak cuci rambut;14;ir2.2:n3
+洗う;あらう;membasuh,  mencuci;14;ir2.2:n3
+カット;カット;potong rambut;14;ir2.2:n0
+預かる;あずかる;menerima;14;ir2.2:n2
+お返し;おかえし;kembalian (ungkapan bentuk sopan);14;ir2.2:n3
+なさいますか？;なさいますか？;Apakah Anda ingin ~ ? (ungkapan bentuk sopan);14;ir2.2:n0
+～円からお預かりします;～えんからおあずかりします;Saya terima sebesar ~ yen. (ungkapan bentuk sopan);14;ir2.2:n2
+どのような;どのような;bagaimana;14;ir2.2:n0
+長さ;ながさ;panjangnya;14;ir2.2:n5
+シャンプー台;シャンプーだい;tempat mencuci rambut,  tempat sampo;14;ir2.2:n4
+前髪;まえがみ;poni;14;ir2.2:n3
+お待ちしておりました;おまちしておりました;Kami telah menunggu kedatangan Anda. (ungkapan bentuk sopan);14;ir2.2:n4
+かゆいところはございませんか？;かゆいところはございませんか？;Apakah tidak ada bagian yang gatal? (ungkapan bentuk sopan);14;ir2.2:n0
+どうでしょうか？;どうでしょうか？;Bagaimana menurut Anda? (ungkapan bentuk sopan);14;ir2.2:n0
+カラー;カラー;pewarnaan;14;ir2.2:n0
+パーマ;パーマ;pengeritingan;14;ir2.2:n0
+トリートメント;トリートメント;perawatan;14;ir2.2:n0
+外国人;がいこくじん;penduduk asing,  orang asing;14;ir2.2:n5
+外国語;がいこくご;bahasa asing;14;ir2.2:n5
+～による（外国語による相談）;～による（がいこくごによるそうだん）;dengan ~ / menggunakan ~ (cth : konsultasi menggunakan bahasa asing);14;ir2.2:n3
+相談;そうだん;konsultasi;14;ir2.2:n3
+翻訳;ほんやく;terjemahan;14;ir2.2:n1
+通訳;つうやく;penerjemahan lisan;14;ir2.2:n1
+健康診断;けんこうしんだん;pemeriksaan kesehatan;14;ir2.2:n1
+生活ガイドブック;せいかつガイドブック;buku pedoman kehidupan;14;ir2.2:n3
+日本語教室;にほんごきょうしつ;kelas bahasa Jepang;14;ir2.2:n4
+交流イベント;こうりゅうイベント;acara / kegiatan sosial;14;ir2.2:n3
+質問;しつもん;pertanyaan;14;ir2.2:n4
+ビザ;ビザ;visa;14;ir2.2:n0
+ほかにも;ほかにも;ada juga / selain itu;14;ir2.2:n0
+情報;じょうほう;informasi;14;ir2.2:n3
+けが;けが;luka;14;ir2.2:n0
+有料;ゆうりょう;berbayar;14;ir2.2:n4
+助かる;たすかる;terbantu,  tertolong;14;ir2.2:n3
+楽に;らくに;dengan mudah;14;ir2.2:n4
+暮らす;くらす;hidup,  tinggal;14;ir2.2:n3
+センター;センター;pusat;14;ir2.2:n0
+入門;にゅうもん;tingkat pemula;14;ir2.2:n2
+上級;じょうきゅう;tingkat mahir;14;ir2.2:n1
+個人レッスン;こじんレッスン;kelas privat;14;ir2.2:n2
+消す（電気を消す）;けす（でんきをけす）;mematikan (cth : mematikan lampu);15;ir2.2:n3
+忘れずに;わすれずに;Jangan lupa (untuk) ～;15;ir2.2:n3
+クールビズ;クールビズ;“Cool Biz” (gerakan Cool Business di Jepang);15;ir2.2:n0
+実施中;じっしちゅう;sedang berlangsung;15;ir2.2:n1
+軽装;けいそう;pakaian ringan dan tipis;15;ir2.2:n2
+ノー～（ノーネクタイ）;ノー～（ノーネクタイ）;tanpa ～ (cth : tanpa dasi);15;ir2.2:n0
+設定;せってい;pengaturan,  setelan;15;ir2.2:n2
+ご理解とご協力のほど、よろしくお願いたします;ごりかいとごきょうりょくのほど、よろしくおねがいいたします;Kami mohon pengertian dan kerja sama Anda sekalian. (ungkapan bentuk sopan);15;ir2.2:n2
+節電;せつでん;penghematan listrik;15;ir2.2:n1
+両面印刷;りょうめんいんさつ;pencetakan dua sisi;15;ir2.2:n2
+マイバッグ;マイバッグ;my bag (tas belanja ramah lingkungan);15;ir2.2:n0
+レジ袋;レジぶくろ;tas belanja plastik sekali pakai;15;ir2.2:n2
+有料化;ゆうりょうか;dikenakan biaya,  berbayar;15;ir2.2:n3
+持参;じさん;membawa;15;ir2.2:n3
+環境;かんきょう;lingkungan;15;ir2.2:n1
+エコ;エコ;ramah lingkungan;15;ir2.2:n0
+節電する;せつでんする;menghemat listrik;15;ir2.2:n1
+節水する;せっすいする;menghemat air;15;ir2.2:n1
+紙;かみ;kertas;15;ir2.2:n4
+節約する;せつやくする;menghemat,  melakukan penghematan;15;ir2.2:n1
+リサイクルする;リサイクルする;mendaur ulang;15;ir2.2:n0
+ごみ;ごみ;sampah;15;ir2.2:n0
+分別する;ぶんべつする;memilah;15;ir2.2:n1
+減らす;へらす;mengurangi;15;ir2.2:n2
+設定温度;せっていおんど;pengaturan / setelan temperatur;15;ir2.2:n2
+下げる;さげる;menurunkan;15;ir2.2:n5
+もったいない;もったいない;mubazir;15;ir2.2:n0
+缶;かん;kaleng;15;ir2.2:n2
+まとめる;まとめる;dikumpulkan,  mengumpulkan;15;ir2.2:n0
+出す（水を出す）;だす（みずをだす）;mengalirkan (air),  membuka (keran);15;ir2.2:n5
+洗剤;せんざい;detergen,  sabun pembersih;15;ir2.2:n1
+止める（水を止める）;とめる（みずをとめる）;mematikan (air),  menutup (keran);15;ir2.2:n4
+すすぐ;すすぐ;membilas;15;ir2.2:n0
+ストロー;ストロー;sedotan;15;ir2.2:n0
+マイ～（マイストロー）;マイ～（マイストロー）;my ～,  ～ pribadi (cth : sedotan pribadi);15;ir2.2:n0
+持ち歩く;もちあるく;membawa;15;ir2.2:n4
+マイボトル;マイボトル;botol pribadi;15;ir2.2:n0
+ペットボトル;ペットボトル;botol plastik;15;ir2.2:n0
+資源;しげん;dapat didaur ulang;15;ir2.2:n1
+分け方;わけかた;cara memilah / memisahkan;15;ir2.2:n1
+出し方;だしかた;cara membuang;15;ir2.2:n4
+集積所;しゅうせきじょ;titik pengumpulan;15;ir2.2:n3
+収集日;しゅうしゅうび;hari pengumpulan;15;ir2.2:n3
+資源ごみ;しげんごみ;sampah yang dapat didaur ulang;15;ir2.2:n1
+～種類（4種類）;～しゅるい（よんしゅるい）;～ jenis (cth : 4 jenis);15;ir2.2:n3
+分ける;わける;memilah,  membagi;15;ir2.2:n1
+ひも;ひも;tali;15;ir2.2:n0
+しばる;しばる;mengikat;15;ir2.2:n0
+新聞;しんぶん;koran;15;ir2.2:n4
+雑誌;ざっし;majalah;15;ir2.2:n2
+中身;なかみ;isi;15;ir2.2:n1
+びん;びん;botol kaca;15;ir2.2:n0
+キャップ;キャップ;tutup botol plastik;15;ir2.2:n0
+ラベル;ラベル;label;15;ir2.2:n0
+つぶす;つぶす;menghancurkan;15;ir2.2:n0
+紙パック;かみパック;kemasan minuman karton;15;ir2.2:n4
+切り開く;きりひらく;memotong terbuka;15;ir2.2:n4
+食品トレイ;しょくひントレイ;nampan makanan;15;ir2.2:n4
+可燃ごみ;かねんごみ;sampah yang dapat dibakar;15;ir2.2:n1
+生ごみ;なまごみ;sampah sisa makanan;15;ir2.2:n5
+水を切る;みずをきる;dikeringkan,  mengeringkan;15;ir2.2:n4
+布;ぬの;kain;15;ir2.2:n2
+しみこませる;しみこませる;dibiarkan terendam,  diserap;15;ir2.2:n0
+固める;かだめる;dipadatkan;15;ir2.2:n2
+プラスチック;プラスチック;plastik;15;ir2.2:n0
+再生（する）;さいせい（する）;mendaur ulang;15;ir2.2:n2
+少量;しょうりょう;jumlah kecil;15;ir2.2:n2
+植木;うえき;tanaman;15;ir2.2:n2
+枝;えだ;cabang;15;ir2.2:n2
+葉;は;daun;15;ir2.2:n3
+使い古し;つかいふるし;bekas;15;ir2.2:n4
+凝固剤;ぎょうこざい;zat pemadat (sering digunakan untuk memadatkan minyak goreng bekas sebelum dibuang);15;ir2.2:n1
+ビニール;ビニール;vinil;15;ir2.2:n0
+～類（ビニール類）;～るい（ビニールるい）;berjenis ～ (cth : berjenis vinil);15;ir2.2:n3
+ラップ;ラップ;plastik pembungkus;15;ir2.2:n0
+容器;ようき;wadah;15;ir2.2:n1
+発泡スチロール;はっぽうスチロール;styrofoam / gabus sintetis;15;ir2.2:n1
+不燃ごみ;ふねんごみ;sampah yang tidak dapat dibakar;15;ir2.2:n2
+割れる;われる;pecah;15;ir2.2:n3
+包む;つつむ;membungkus;15;ir2.2:n2
+危険;きけん;berbahaya,  bahaya;15;ir2.2:n3
+乾電池;かんでんち;baterai kering;15;ir2.2:n2
+刃物;はもの;pisau,  benda tajam;15;ir2.2:n1
+ガラス;ガラス;gelas;15;ir2.2:n0
+陶磁器;とうじき;porselen,  keramik;15;ir2.2:n1
+電球;でんきゅう;bohlam;15;ir2.2:n3
+アルミ製品;アルミせいひん;benda berbahan alumunium;15;ir2.2:n1
+金属;きんぞく;logam;15;ir2.2:n1
+家電製品;かでんせいひん;peralatan elektronik rumah tangga;15;ir2.2:n1
+粗大ごみ;そだいごみ;sampah ukuran besar;15;ir2.2:n1
+家具;かぐ;furnitur,  mebel,  perabot rumah tangga;15;ir2.2:n3
+寝具;しんぐ;peralatan untuk tidur;15;ir2.2:n3
+牛乳パック;ぎゅうにゅうパック;karton kemasan susu;15;ir2.2:n2
+使い切る;つかいきる;menghabiskan,  habis digunakan;15;ir2.2:n4
+燃える（燃えるごみ）;もえる（もえるごみ）;dapat dibakar (cth : sampah yang dapat dibakar);15;ir2.2:n2
+取る;とる;dilepas;15;ir2.2:n3
+出す（ごみを出す）;だす（ごみをだす）;membuang (cth : membuang sampah);15;ir2.2:n5
+粗大ごみ受付センター;そだいごみうけつけセンター;pusat penerimaan sampah ukuran besar;15;ir2.2:n1
+大きさ;おおきさ;ukuran,  besarnya;15;ir2.2:n5
+シール;シール;stiker;15;ir2.2:n0
+貼る;はる;menempel;15;ir2.2:n1
+確認する;かくにんする;mengecek;16;ir2.2:n3
+海岸;かいがん;pantai,  pesisir;16;ir2.2:n2
+上陸する;じょうりくする;mencapai daratan;16;ir2.2:n2
+非常に;ひじょうに;sangat;16;ir2.2:n3
+激しい;はげしい;kuat;16;ir2.2:n1
+様子;ようす;kondisi,  keadaan;16;ir2.2:n3
+絶対に;ぜったいに;apapun yang terjadi;16;ir2.2:n3
+やめる;やめる;menghentikan,  berhenti;16;ir2.2:n0
+安全（な）;あんぜん（な）;aman;16;ir2.2:n3
+～から～にかけて;～から～にかけて;dari ~ sampai ~;16;ir2.2:n0
+関東（地方）;かんとう（ちほう）;wilayah Kanto;16;ir2.2:n3
+見込み;みこみ;diperkirakan,  perkiraan;16;ir2.2:n3
+伊豆諸島;いずしょとう;Kepulauan Izu;16;ir2.2:n1
+東海;とうかい;wilayah Tokai;16;ir2.2:n4
+局地的に;きょくちてきに;di daerah tertentu;16;ir2.2:n1
+係員;かかりいん;petugas;16;ir2.2:n3
+指示;しじ;instruksi;16;ir2.2:n3
+従う（指示に従う）;したがう（しじにしたがう）;mematuhi (cth : mematuhi instruksi);16;ir2.2:n1
+年寄り / お年寄り;としより / おとしより;lansia;16;ir2.2:n3
+優先;ゆうせん;diutamakan,  diprioritaskan;16;ir2.2:n3
+揺れ;ゆれ;getaran,  goncangan;16;ir2.2:n1
+警戒する;けいかいする;mewaspadai;16;ir2.2:n1
+守る（身を守る）;まもる（みをもる）;melindungi (cth : melindungi diri);16;ir2.2:n1
+家具;かぐ;furnitur,  mebel;16;ir2.2:n3
+災害;さいがい;bencana;16;ir2.2:n1
+台風;たいふう;angin topan;16;ir2.2:n4
+地震;じしん;gempa bumi;16;ir2.2:n2
+火事;かじ;kebakaran;16;ir2.2:n4
+火災;かさい;kebakaran;16;ir2.2:n1
+大雪;おおゆき;salju lebat;16;ir2.2:n3
+津波;つなみ;tsunami;16;ir2.2:n1
+起こる（地震が起こる）;おこる（じしんがおこる）;terjadi (cth : terjadi gempa bumi);16;ir2.2:n2
+揺れる;ゆれる;bergetar,  bergoncang;16;ir2.2:n1
+火事になる;かじになる;berubah menjadi kebakaran;16;ir2.2:n4
+火が出る;ひがでる;terbakar;16;ir2.2:n5
+積もる（雪が積もる）;つもる（ゆきがつもる）;menumpuk (cth : salju menumpuk);16;ir2.2:n3
+ニュース;ニュース;berita;16;ir2.2:n0
+緊急速報;きんきゅうそくほう;laporan darurat;16;ir2.2:n1
+避難する;ひなんする;mengungsi,  evakuasi;16;ir2.2:n1
+倒れる;たおれる;jatuh;16;ir2.2:n3
+離れる;はなれる;menjauh;16;ir2.2:n1
+近づく;ちかづく;mendekati;16;ir2.2:n4
+隠れる;かくれる;berlindung,  bersembunyi;16;ir2.2:n1
+あわてる;あわてる;panik;16;ir2.2:n0
+落ち着く;おちつく;tenang;16;ir2.2:n3
+行動する;こうどうする;bertindak;16;ir2.2:n4
+出る（外に出る）;でる（そとに出る）;keluar,  pergi ke luar;16;ir2.2:n5
+最新;さいしん;terbaru;16;ir2.2:n3
+震源;しんげん;pusat gempa;16;ir2.2:n1
+海底;かいてい;dasar laut;16;ir2.2:n2
+～のおそれがある;～のおそれがある;dikhawatirkan adanya ~;16;ir2.2:n0
+緊急地震速報;きんきゅうじしんそくほう;peringatan dini gempa bumi;16;ir2.2:n1
+滋賀;しが;Shiga;16;ir2.2:n1
+兵庫;ひょうご;Hyogo;16;ir2.2:n2
+福井;ふくい;Fukui;16;ir2.2:n1
+三重;みえ;Mie;16;ir2.2:n4
+和歌山;わかやま;Wakayama;16;ir2.2:n3
+香川;かがわ;Kagawa;16;ir2.2:n2
+近畿地方;きんきちほう;wilayah Kinki;16;ir2.2:n1
+感じる;かんじる;merasakan;16;ir2.2:n3
+防災訓練;ぼうさいくんれん;latihan mitigasi bencana;16;ir2.2:n1
+避難訓練;ひなんくんれん;latihan evakuasi;16;ir2.2:n1
+防災頭巾;ぼうさいずきん;tudung pelindung kepala saat bencana;16;ir2.2:n1
+ヘルメット;ヘルメット;helm;16;ir2.2:n0
+かぶる（ヘルメットをかぶる）;かぶる（ヘルメットをかぶる）;memakai (untuk bagian kepala) (cth : memakai helm);16;ir2.2:n0
+ドア;ドア;pintu;16;ir2.2:n0
+開ける;あける;membuka;16;ir2.2:n4
+火;ひ;api;16;ir2.2:n5
+消す（火を消す）;けす（ひをけす）;memadamkan,  mematikan (cth : memadamkan api);16;ir2.2:n3
+消火する;しょうかする;memadamkan api;16;ir2.2:n3
+消防署;しょうぼうしょ;pemadam kebakaran;16;ir2.2:n2
+119番;ひゃくじゅうきゅうばん;nomor telepon darurat 119 untuk pemadam kebakaran;16;ir2.2:n3
+集まる;あつまる;berkumpul;16;ir2.2:n4
+並ぶ;ならぶ;berbaris;16;ir2.2:n2
+点呼する;てんこする;mengabsen;16;ir2.2:n3
+報告する;ほうこくする;melaporkan;16;ir2.2:n3
+知らせる;しらせる;menginformasikan;16;ir2.2:n4
+姿勢;しせい;postur / posisi tubuh;16;ir2.2:n1
+低くする;ひくくする;merendahkan;16;ir2.2:n2
+しゃがむ;しゃがむ;berjongkok;16;ir2.2:n0
+ハンカチ;ハンカチ;saputangan;16;ir2.2:n0
+口に当てる;くちにあてる;menutupi bagian mulut;16;ir2.2:n3
+火災報知器;かさいほうちき;alarm kebakaran;16;ir2.2:n1
+鳴る;なる;berbunyi,  berdering;16;ir2.2:n3
+震度;しんど;intensitas seismik gempa;16;ir2.2:n2
+おさまる（揺れがおさまる）;おさまる（ゆれがおさまる）;reda,  berhenti (cth : getaran berhenti);16;ir2.2:n1
+避難;ひなん;evakuasi;16;ir2.2:n1
+開始する;かいしする;mulai;16;ir2.2:n4
+中庭;なかにわ;taman gedung;16;ir2.2:n3
+～ごと（チームごと）;～ごと（チームごと）;tiap ~ (cth : tiap tim);16;ir2.2:n0
+初期消火;しょきしょうか;memadamkam api pada tahap awal;16;ir2.2:n3
+消火器;しょうかき;alat pemadam api;16;ir2.2:n1
+逃げ遅れる;にげおくれる;terlambat evakuasi;16;ir2.2:n3
+一つ一つ;ひとつひとつ;satu per satu;16;ir2.2:n5
+見て回る;みてまわる;berkeliling memeriksa;16;ir2.2:n3
+煙体験;けむりたいけん;simulasi kondisi berasap;16;ir2.2:n3
+煙;けむり;asap;16;ir2.2:n3
+充満する;じゅうまんする;terisi;16;ir2.2:n1
+逃げる;にげる;melarikan diri;16;ir2.2:n3
+進む;すすむ;maju;16;ir2.2:n3
+注意点;ちゅういてん;hal yang perlu diperhatikan;16;ir2.2:n3
+吸う（煙を吸う）;すう（けむりをすう）;mengisap (cth : mengisap asap);16;ir2.2:n3
+声;こえ;suara,  panggil;16;ir2.2:n3
+声をかけ合う;こえをかけあう;saling berbicara satu sama lain,  saling memanggil satu sama lain;16;ir2.2:n3
+床;ゆか;lantai;16;ir2.2:n2
+安全ピン;あんぜんピン;pin pengaman;16;ir2.2:n3
+レバー;レバー;tuas;16;ir2.2:n0
+ホース;ホース;selang;16;ir2.2:n0
+抜く;ぬく;menarik,  melepas;16;ir2.2:n3
+先;さき;ujung;16;ir2.2:n5
+向ける;むける;menghadap,  mengarahkan;16;ir2.2:n3
+途中;とちゅう;tengah;16;ir2.2:n3
+握る;にぎる;menggenggam;16;ir2.2:n1
+噴射する;ふんしゃする;menyemprotkan;16;ir2.2:n1
+左右;さゆう;kiri dan kanan;16;ir2.2:n5
+狙う;ねらう;membidik,  mengarahkan;16;ir2.2:n1
+消える;きえる;padam;16;ir2.2:n3
+～m（4m）;～メートル（よんメートル）;~ meter (cth : 4 meter);16;ir2.2:n0
+～秒（20秒）;～びょう（にじゅうびょう）;~ detik (cth : 20 detik);16;ir2.2:n2
+感じる;かんじる;merasa,  merasakan;16;ir2.2:n3
+落ちる;おちる;jatuh,  roboh;16;ir2.2:n3
+ゆがむ;ゆがむ;miring (gedung,  bangunan),  melengkung;16;ir2.2:n0
+無理をする;むりをする;memaksakan diri;16;ir2.2:n1
+ガスコンロ;ガスコンロ;kompor gas;16;ir2.2:n0
+～必要がある / ない;～ひつようがある / ない;perlu / tidak perlu untuk ~;16;ir2.2:n3
+天井;てんじょう;atap,  langit-langit,  plafon;16;ir2.2:n1
+届く;とどく;sampai,  mencapai;16;ir2.2:n2
+危ない;あぶない;berbahaya;16;ir2.2:n3
+町中;まちなか;di jalan,  di kota;16;ir2.2:n4
+屋外;おくがい;di luar ruangan;16;ir2.2:n4
+ガラス;ガラス;kaca;16;ir2.2:n0
+影響;えいきょう;dampak;16;ir2.2:n1
+断水する;だんすいする;pemadaman air;16;ir2.2:n3
+止まる（水が止まる）;とまる（みずがとまる）;berhenti (cth : air berhenti / air tidak keluar);16;ir2.2:n4
+停電する;ていでんする;pemadaman listrik;16;ir2.2:n2
+電気;でんき;listrik,  lampu;16;ir2.2:n5
+ガス;ガス;gas;16;ir2.2:n0
+通行止め;つうこうどめ;jalan tertutup;16;ir2.2:n4
+避難所;ひなんじょ;tempat evakuasi;16;ir2.2:n1
+給水車;きゅうすいしゃ;truk tangki air;16;ir2.2:n3
+炊き出し;たきだし;distribusi makanan darurat,  dapur umum;16;ir2.2:n1
+必要（な）;ひつよう（な）;diperlukan;16;ir2.2:n3
+水;みず;air;16;ir2.2:n5
+非常食;ひじょうしょく;makanan darurat;16;ir2.2:n3
+懐中電灯;かいちゅうでんとう;senter;16;ir2.2:n1
+ろうそく;ろうそく;lilin;16;ir2.2:n0
+ラジオ;ラジオ;radio;16;ir2.2:n0
+毛布;もうふ;selimut;16;ir2.2:n2
+寝袋;ねぶくろ;kantong tidur;16;ir2.2:n2
+ポリタンク;ポリタンク;tangki / wadah plastik;16;ir2.2:n0
+充電（する）;じゅうでん（する）;mengecas,  mengisi daya;16;ir2.2:n1
+小学校;しょうがっこう;sekolah dasar (SD);16;ir2.2:n5
+総合福祉センター;そうごうふくしセンター;pusat kesejahteraan sosial;16;ir2.2:n1
+ショップ;ショップ;toko;16;ir2.2:n0
+今回;こんかい;kali ini;16;ir2.2:n3
+レベル;レベル;level,  tingkat;16;ir2.2:n0
+一人暮らし;ひとりぐらし;hidup,  tinggal sendiri;16;ir2.2:n3
+戻る;もどる;kembali;16;ir2.2:n3
+早め;はやめ;lebih awal;16;ir2.2:n4
+続く;つづく;berlanjut;16;ir2.2:n3
+容器;ようき;wadah;16;ir2.2:n1
+仮設;かせつ;sementara;16;ir2.2:n1
+力;ちから;tenaga,  kekuatan;16;ir2.2:n4
+持ち出す;もちだす;membawa keluar;16;ir2.2:n4
+賞味期限;しょうみきげん;masa kedaluwarsa untuk dikonsumsi;16;ir2.2:n2
+使用期限;しようきげん;masa kedaluwarsa untuk dipakai;16;ir2.2:n3
+切れる（賞味期限が切れる）;きれる（しょうみきげんがきれる）;habis,  sudah lewat (cth : sudah lewat masa kedaluwarsa untuk dikonsumsi);16;ir2.2:n2
+切れる（電池が切れる）;きれる（でんちがきれる）;habis (cth : baterainya habis);16;ir2.2:n2
+貴重品;きちょうひん;barang berharga;16;ir2.2:n1
+電灯;でんとう;lampu listrik;16;ir2.2:n2
+携帯ラジオ;けいたいうらじお;radio portabel;16;ir2.2:n1
+非常持ち出し品;ひじょうもちだしひん;barang yang harus dibawa dalam keadaan darurat;16;ir2.2:n3
+生活（する）;せいかつ（する）;hidup;16;ir2.2:n3
+下着;したぎ;pakaian dalam;16;ir2.2:n4
+生理用品;せいりようひん;produk kebersihan untuk menstruasi;16;ir2.2:n4
+ウエットティッシュ;ウエットティッシュ;tisu basah;16;ir2.2:n0
+ライター;ライター;lighter / korek api gas;16;ir2.2:n0
+使い捨てカイロ;つかいすてカイロ;bantalan pemanas / penghangat sekali pakai;16;ir2.2:n2
+粉ミルク;こなミルク;susu bubuk;16;ir2.2:n2
+おむつ;おむつ;popok;16;ir2.2:n0
+卓上コンロ;たくじょうコンロ;kompor portabel;16;ir2.2:n1
+ガスボンベ;ガスボンベ;tabung gas;16;ir2.2:n0
+なべ;なべ;panci,  periuk;16;ir2.2:n0
+アウトドア用品;アウトドアようひん;perlengkapan untuk kegiatan luar ruangan (outdoor);16;ir2.2:n4
+かぜ薬;かぜぐすり;obat flu,  obat pilek;16;ir2.2:n3
+ばんそうこう;ばんそうこう;plester,  perban (untuk menutup luka);16;ir2.2:n0
+消毒液;しょうどくえき;larutan antiseptik;16;ir2.2:n2
+モバイルバッテリー;モバイルバッテリー;charger / pengisi daya portabel;16;ir2.2:n0
+現金;げんきん;uang tunai;16;ir2.2:n3
+預金通帳;よきんつうちょう;buku tabungan rekening bank;16;ir2.2:n1
+パスポート;パスポート;paspor;16;ir2.2:n0
+健康保険証;けんこうほけんしょう;kartu asuransi kesehatan;16;ir2.2:n1
+外国人登録証;がいこくじんとうろくしょう;kartu pendaftaran orang asing;16;ir2.2:n1
+缶づめ;かんづめ;makanan kaleng;16;ir2.2:n2
+インスタント食品;インスタントしょくひん;makanan instan;16;ir2.2:n4
+和太鼓;わだいこ;taiko,  beduk khas Jepang;17;ir2.2:n1
+サークル;サークル;klub;17;ir2.2:n0
+入る（サークルに入る）;はいる（サークルにはいる）;ikut,  bergabung (cth : bergabung di klub);17;ir2.2:n5
+誘う;さそう;mengajak;17;ir2.2:n1
+おかげで;おかげで;berkat ~,  berkat itu;17;ir2.2:n0
+増える;ふえる;bertambah;17;ir2.2:n3
+ゲストハウス;ゲストハウス;guest house (penginapan berupa rumah dengan beberapa kamar untuk disewakan untuk umum);17;ir2.2:n0
+SNS;エスエヌエス;social networking service / media sosial;17;ir2.2:n0
+やりとり;やりとり;interaksi,  komunikasi;17;ir2.2:n0
+～以外（仕事以外）;～いがい（しごといがい）;selain ~,  di luar ~ (cth : selain / di luar pekerjaan);17;ir2.2:n4
+うまい;うまい;terampil,  pintar;17;ir2.2:n0
+ドラマ;ドラマ;drama,  sinetron;17;ir2.2:n0
+ほとんど;ほとんど;kebanyakan,  umumnya;17;ir2.2:n0
+セリフ;セリフ;dialog;17;ir2.2:n0
+アイディア;アイディア;ide;17;ir2.2:n0
+笑う;わらう;tertawa;17;ir2.2:n3
+そろそろ;そろそろ;sudah hampir;17;ir2.2:n0
+～のころ（最初のころ）;～のころ（さいしょのころ）;saat,  waktu ~ (cth : saat awal-awal);17;ir2.2:n3
+苦労する;くろうする;menjalani saat-saat yang berat,  kesulitan;17;ir2.2:n3
+締め日;しめび;tenggat,  batas waktu penyelesaian transaksi;17;ir2.2:n1
+納期;のうき;tenggat,  batas waktu pengiriman;17;ir2.2:n1
+友だちリクエスト;ともだちリクエスト;permintaan pertemanan;17;ir2.2:n5
+承認する;しょうにんする;menyetujui,  menerima;17;ir2.2:n2
+授業;じゅぎょう;kuliah,  pelajaran;17;ir2.2:n1
+問題;もんだい;masalah;17;ir2.2:n4
+感謝する;かんしゃする;menghargai,  berterima kasih;17;ir2.2:n1
+将来;しょうらい;masa depan;18;ir2.2:n2
+夢;ゆめ;mimpi;18;ir2.2:n3
+希望;きぼう;harapan,  keinginan;18;ir2.2:n2
+作る（会社を作る）;つくる（かいしゃをつくる）;membuat,  memulai (cth : memulai perusahaan);18;ir2.2:n4
+就職する;しゅうしょくする;mendapatkan pekerjaan di perusahaan;18;ir2.2:n1
+持つ（店を持つ）;もつ（みせをもつ）;memiliki,  mempunyai (cth : memiliki toko sendiri);18;ir2.2:n4
+稼ぐ（お金を稼ぐ）;かせぐ（かねをかせぐ）;mengumpulkan,  mendapatkan (cth : mengumpulkan uang);18;ir2.2:n1
+貯金する;ちょきんする;menabung;18;ir2.2:n2
+結婚する;けっこんする;menikah;18;ir2.2:n1
+建てる（家を建てる）;たてる（いえをたてる）;membangun,  mendirikan (cth : membangun rumah);18;ir2.2:n4
+進学する;しんがくする;melanjutkan pendidikan ke tingkat yang lebih tinggi;18;ir2.2:n3
+留学する;りゅうがくする;belajar di luar negeri;18;ir2.2:n3
+のんびり;のんびり;dengan santai;18;ir2.2:n0
+暮らす;くらす;menjalani hidup;18;ir2.2:n3
+ずっと;ずっと;selamanya;18;ir2.2:n0
+住む;すむ;hidup,  tinggal;18;ir2.2:n4
+働く;はたらく;bekerja;18;ir2.2:n3
+職人;しょくにん;(seorang) ahli,  profesional,  perajin;18;ir2.2:n3
+ガイド;ガイド;pemandu;18;ir2.2:n0
+通訳;つうやく;penerjemah,  juru bahasa;18;ir2.2:n1
+日本語教師;にほんごきょうし;guru / pengajar bahasa Jepang;18;ir2.2:n3
+なる（職人になる）;なる（しょくにんになる）;menjadi (cth : menjadi seorang ahli);18;ir2.2:n3
+自動車;じどうしゃ;mobil;18;ir2.2:n4
+整備;せいび;perawatan;18;ir2.2:n1
+役に立つ;やくにたつ;berguna,  bermanfaat;18;ir2.2:n3
+そのために;そのために;untuk mencapai itu,  untuk itu;18;ir2.2:n0
+技術;ぎじゅつ;teknik;18;ir2.2:n2
+がんばる;がんばる;bekerja keras;18;ir2.2:n0
+暮らし;くらし;kehidupan;18;ir2.2:n3
+うまくいく;うまくいく;berjalan lancar,  sukses;18;ir2.2:n0
+周りの人;まわりのひと;orang-orang di sekitar diri sendiri;18;ir2.2:n2
+若者;わかもの;pemuda;18;ir2.2:n3
+卒業する;そつぎょうする;lulus;18;ir2.2:n2
+別の;べつの;~ yang lain;18;ir2.2:n4
+広げる;ひろげる;memperluas;18;ir2.2:n4
+もともと;もともと;aslinya,  awalnya;18;ir2.2:n0
+募集;ぼしゅう;perekrutan;18;ir2.2:n2
+応募する;おうぼする;melamar (pekerjaan);18;ir2.2:n1
+続ける;つづける;melanjutkan;18;ir2.2:n3
+とにかく;とにかく;pokoknya,  bagaimanapun juga;18;ir2.2:n0
+ストレス;ストレス;stres;18;ir2.2:n0
+知り合う;しりあう;berkenalan;18;ir2.2:n3
+最後;さいご;terakhir;18;ir2.2:n3
+ひとこと;ひとこと;sepatah kata;18;ir2.2:n0
+～始める（働き始める）;～はじめる（はたらきはじめる）;mulai ~ (cth : mulai bekerja);18;ir2.2:n3
+下手（な）;へた（な）;tidak pandai,  tidak mahir;18;ir2.2:n4
+失敗する;しっぱいする;gagal,  berbuat salah;18;ir2.2:n3
+工業;こうぎょう;industri;18;ir2.2:n4
+親切にする;しんせつにする;bersikap baik hati,  memperlakukan (seseorang) dengan ramah;18;ir2.2:n4
+助ける;たすける;menolong,  membantu;18;ir2.2:n3

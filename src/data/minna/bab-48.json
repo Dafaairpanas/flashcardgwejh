@@ -1,0 +1,362 @@
+[
+  {
+    "id": "mn-48-001",
+    "kanji": "～間",
+    "hiragana": "～かん",
+    "romaji": "~kan",
+    "meaning": "selama ~",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-002",
+    "kanji": "ーパーセント",
+    "hiragana": "ーパーセント",
+    "romaji": "-paasento",
+    "meaning": "~ persen",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-003",
+    "kanji": "いいことですね",
+    "hiragana": "いいことですね",
+    "romaji": "iikotodesune",
+    "meaning": "Bagus, ya.",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-004",
+    "kanji": "お忙しいですか",
+    "hiragana": "おいそがしいですか",
+    "romaji": "oisogashiidesuka",
+    "meaning": "Apakah sibuk?",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-005",
+    "kanji": "かまいません",
+    "hiragana": "かまいません",
+    "romaji": "kamaimasen",
+    "meaning": "Tidak apa-apa.",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-006",
+    "kanji": "その次",
+    "hiragana": "そのつぎ",
+    "romaji": "sonotsugi",
+    "meaning": "yang berikut",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-007",
+    "kanji": "それまでに",
+    "hiragana": "それまでに",
+    "romaji": "soremadeni",
+    "meaning": "sebelumnya",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-008",
+    "kanji": "ファイル",
+    "hiragana": "ファイル",
+    "romaji": "fairu",
+    "meaning": "map",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-009",
+    "kanji": "営業",
+    "hiragana": "えいぎょう",
+    "romaji": "eigyou",
+    "meaning": "perdagangan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-010",
+    "kanji": "下ろします",
+    "hiragana": "おろします",
+    "romaji": "oroshimasu",
+    "meaning": "Menurunkan (Benda) / Menarik (Uang)",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-011",
+    "kanji": "楽しみます",
+    "hiragana": "たのしみます",
+    "romaji": "tanoshimimasu",
+    "meaning": "menikmati",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-012",
+    "kanji": "嫌な",
+    "hiragana": "いやな",
+    "romaji": "iyana",
+    "meaning": "tidak senang, tidak suka",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-013",
+    "kanji": "厳しい",
+    "hiragana": "きびしい",
+    "romaji": "kibishii",
+    "meaning": "ketat, keras",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-014",
+    "kanji": "降ろします",
+    "hiragana": "おろします",
+    "romaji": "oroshimasu",
+    "meaning": "Menurunkan (Penumpang/Barang)",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-015",
+    "kanji": "自由に",
+    "hiragana": "じゆうに",
+    "romaji": "jiyuuni",
+    "meaning": "dengan bebas",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-016",
+    "kanji": "習字",
+    "hiragana": "しゅうじ",
+    "romaji": "shuuji",
+    "meaning": "kaligrafi",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-017",
+    "kanji": "塾",
+    "hiragana": "じゅく",
+    "romaji": "juku",
+    "meaning": "les",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-018",
+    "kanji": "小学生",
+    "hiragana": "しょうがくせい",
+    "romaji": "shougakusei",
+    "meaning": "murid SD",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-019",
+    "kanji": "親",
+    "hiragana": "おや",
+    "romaji": "oya",
+    "meaning": "orang tua",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-020",
+    "kanji": "世話をします",
+    "hiragana": "せわをします",
+    "romaji": "sewawoshimasu",
+    "meaning": "menjaga, membantu",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-021",
+    "kanji": "生徒",
+    "hiragana": "せいと",
+    "romaji": "seito",
+    "meaning": "murid",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-022",
+    "kanji": "届けます",
+    "hiragana": "とどけます",
+    "romaji": "todokemasu",
+    "meaning": "mengantarkan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-023",
+    "kanji": "普通の",
+    "hiragana": "ふつうの",
+    "romaji": "futsuuno",
+    "meaning": "biasa",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-024",
+    "kanji": "録音します",
+    "hiragana": "ろくおんします",
+    "romaji": "rokuonshimasu",
+    "meaning": "merekam",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-48-025",
+    "kanji": "いい本をたくさん読む",
+    "hiragana": "いいほんをたくさんよむ",
+    "romaji": "iihonwotakusanyomu",
+    "meaning": "membaca banyak buku yang bagus",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-48-026",
+    "kanji": "いろいろな経験をする",
+    "hiragana": "いろいろなけいけんをする",
+    "romaji": "iroironakeikenwosuru",
+    "meaning": "mencari berbagai pengalaman",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-48-027",
+    "kanji": "うちの仕事を手伝う",
+    "hiragana": "うちのしごとをてつだう",
+    "romaji": "uchinoshigotowotetsudau",
+    "meaning": "membantu urusan rumah tangga",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-48-028",
+    "kanji": "お年寄りの話を聞く",
+    "hiragana": "としよりのはなしをきく",
+    "romaji": "toshiyorinohanashiwokiku",
+    "meaning": "mendengarkan cerita orang lanjut usia",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-48-029",
+    "kanji": "スポーツをする",
+    "hiragana": "スポーツをする",
+    "romaji": "supootsuwosuru",
+    "meaning": "berolahraga",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-48-030",
+    "kanji": "ピアノや英語を習う",
+    "hiragana": "ピアノやえいごをならう",
+    "romaji": "pianoyaeigowonarau",
+    "meaning": "belajar bermain piano atau bahasa Inggris",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-48-031",
+    "kanji": "ボランティアに参加する",
+    "hiragana": "ボランティアにさんかする",
+    "romaji": "boranteianisankasuru",
+    "meaning": "mengikuti sekarelawan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-48-032",
+    "kanji": "一人で旅行する",
+    "hiragana": "ひとりでりょこうする",
+    "romaji": "hitorideryokousuru",
+    "meaning": "berjalan-jalan sendirian",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-48-033",
+    "kanji": "我慢する",
+    "hiragana": "がまんする",
+    "romaji": "gamansuru",
+    "meaning": "sabar",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-48-034",
+    "kanji": "自信を持つ",
+    "hiragana": "じしんをもつ",
+    "romaji": "jishinwomotsu",
+    "meaning": "percaya diri",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-48-035",
+    "kanji": "自然の中で遊ぶ",
+    "hiragana": "しぜんのなかであそぶ",
+    "romaji": "shizennonakadeasobu",
+    "meaning": "bermain di tengah alam",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-48-036",
+    "kanji": "自分がやりたいことをやる",
+    "hiragana": "じぶんがやりたいことをやる",
+    "romaji": "jibungayaritaikotowoyaru",
+    "meaning": "membuat apa yang dia ingini",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-48-037",
+    "kanji": "自分のことは自分で決める",
+    "hiragana": "じぶんのことはじぶんできめる",
+    "romaji": "jibunnokotohajibundekimeru",
+    "meaning": "mengambil keputusan untuk dia sendiri",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-48-038",
+    "kanji": "塾へ行く",
+    "hiragana": "じゅくへいく",
+    "romaji": "jukuheiku",
+    "meaning": "pergi les",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-48-039",
+    "kanji": "責任を持つ",
+    "hiragana": "せきにんをもつ",
+    "romaji": "sekininwomotsu",
+    "meaning": "bertanggung jawab",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-48-040",
+    "kanji": "弟や妹、おじいちゃん、おばあちゃんの世話をする",
+    "hiragana": "おとうとやいもうと、おじいちゃん、おばあちゃんのせわをする",
+    "romaji": "otoutoyaimouto,ojiichan,obaachannosewawosuru",
+    "meaning": "menjaga adik laki-laki, adik perempuan dan nenek",
+    "level": "-",
+    "importinity": 2
+  }
+]

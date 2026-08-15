@@ -1,0 +1,668 @@
+[
+  {
+    "id": "ir-a2-2-02-001",
+    "kanji": "髪",
+    "hiragana": "かみ",
+    "romaji": "kami",
+    "meaning": "rambut",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-002",
+    "kanji": "髪が長い",
+    "hiragana": "かみがながい",
+    "romaji": "kamiganagai",
+    "meaning": "rambut panjang",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-003",
+    "kanji": "髪が短い",
+    "hiragana": "かみがみじかい",
+    "romaji": "kamigamijikai",
+    "meaning": "rambut pendek",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-004",
+    "kanji": "背",
+    "hiragana": "せ",
+    "romaji": "se",
+    "meaning": "tinggi badan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-005",
+    "kanji": "背が高い",
+    "hiragana": "せがたかい",
+    "romaji": "segatakai",
+    "meaning": "(badan) tinggi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-006",
+    "kanji": "座る",
+    "hiragana": "すわる",
+    "romaji": "suwaru",
+    "meaning": "duduk",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-007",
+    "kanji": "立つ",
+    "hiragana": "たつ",
+    "romaji": "tatsu",
+    "meaning": "berdiri",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-008",
+    "kanji": "かぶる（帽子をかぶる）",
+    "hiragana": "かぶる（ぼうしをかぶる）",
+    "romaji": "kaburu(boushiwokaburu)",
+    "meaning": "memakai,  mengenakan (cth : memakai topi)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-009",
+    "kanji": "ピアス",
+    "hiragana": "ピアス",
+    "romaji": "piasu",
+    "meaning": "anting-anting",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-010",
+    "kanji": "する（ピアスをする）",
+    "hiragana": "する（ピアスをする）",
+    "romaji": "suru(piasuwosuru)",
+    "meaning": "memakai,  mengenakan (cth : mengenakan anting-anting)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-011",
+    "kanji": "ワンピース",
+    "hiragana": "ワンピース",
+    "romaji": "wanpiisu",
+    "meaning": "baju terusan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-012",
+    "kanji": "着る",
+    "hiragana": "きる",
+    "romaji": "kiru",
+    "meaning": "memakai,  mengenakan (pakaian)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-013",
+    "kanji": "はく（くつをはく）",
+    "hiragana": "はく（くつをはく）",
+    "romaji": "haku(kutsuwohaku)",
+    "meaning": "memakai,  mengenakan (cth : memakai sepatu)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-014",
+    "kanji": "めがね",
+    "hiragana": "めがね",
+    "romaji": "megane",
+    "meaning": "kacamata",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-015",
+    "kanji": "かける（めがねをかける）",
+    "hiragana": "かける（めがねをかける）",
+    "romaji": "kakeru(meganewokakeru)",
+    "meaning": "memakai,  mengenakan (cth : memakai kacamata)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-016",
+    "kanji": "ひげ",
+    "hiragana": "ひげ",
+    "romaji": "hige",
+    "meaning": "jenggot",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-017",
+    "kanji": "はやす（ひげをはやす）",
+    "hiragana": "はやす（ひげをはやす）",
+    "romaji": "hayasu(higewohayasu)",
+    "meaning": "menumbuhkan (cth : menumbuhkan jenggot)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-018",
+    "kanji": "シャツ",
+    "hiragana": "シャツ",
+    "romaji": "shatsu",
+    "meaning": "kemeja",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-019",
+    "kanji": "ズボン",
+    "hiragana": "ズボン",
+    "romaji": "zubon",
+    "meaning": "celana panjang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-020",
+    "kanji": "赤い",
+    "hiragana": "あかい",
+    "romaji": "akai",
+    "meaning": "merah",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-021",
+    "kanji": "白い",
+    "hiragana": "しろい",
+    "romaji": "shiroi",
+    "meaning": "putih",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-022",
+    "kanji": "黄色い",
+    "hiragana": "きいろい",
+    "romaji": "kiiroi",
+    "meaning": "kuning",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-023",
+    "kanji": "青い",
+    "hiragana": "あおい",
+    "romaji": "aoi",
+    "meaning": "biru",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-024",
+    "kanji": "黒い",
+    "hiragana": "くろい",
+    "romaji": "kuroi",
+    "meaning": "hitam",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-025",
+    "kanji": "男の人",
+    "hiragana": "おとこのひと",
+    "romaji": "otokonohito",
+    "meaning": "pria",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-026",
+    "kanji": "ジャンパー",
+    "hiragana": "ジャンパー",
+    "romaji": "janpaa",
+    "meaning": "jaket",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-027",
+    "kanji": "ほら",
+    "hiragana": "ほら",
+    "romaji": "hora",
+    "meaning": "Lihat (lah)..",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-028",
+    "kanji": "やさしい",
+    "hiragana": "やさしい",
+    "romaji": "yasashii",
+    "meaning": "baik hati",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-029",
+    "kanji": "きびしい",
+    "hiragana": "きびしい",
+    "romaji": "kibishii",
+    "meaning": "tegas",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-030",
+    "kanji": "こわい",
+    "hiragana": "こわい",
+    "romaji": "kowai",
+    "meaning": "seram",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-031",
+    "kanji": "忙しい",
+    "hiragana": "いそがしい",
+    "romaji": "isogashii",
+    "meaning": "sibuk",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-032",
+    "kanji": "まじめ（な）",
+    "hiragana": "まじめ（な）",
+    "romaji": "majime(na)",
+    "meaning": "rajin",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-033",
+    "kanji": "元気（な）",
+    "hiragana": "げんき（な）",
+    "romaji": "genki(na)",
+    "meaning": "energik,  bersemangat",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-034",
+    "kanji": "恋人",
+    "hiragana": "こいびと",
+    "romaji": "koibito",
+    "meaning": "pacar,  kekasih",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-035",
+    "kanji": "孫",
+    "hiragana": "まご",
+    "romaji": "mago",
+    "meaning": "cucu",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-036",
+    "kanji": "この間",
+    "hiragana": "このあいだ",
+    "romaji": "konoaida",
+    "meaning": "beberapa waktu lalu",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-037",
+    "kanji": "赤ちゃん",
+    "hiragana": "あかちゃん",
+    "romaji": "akachan",
+    "meaning": "bayi",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-038",
+    "kanji": "泣く",
+    "hiragana": "なく",
+    "romaji": "naku",
+    "meaning": "menangis",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-039",
+    "kanji": "今度",
+    "hiragana": "こんど",
+    "romaji": "kondo",
+    "meaning": "kali ini",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-040",
+    "kanji": "見た目",
+    "hiragana": "みため",
+    "romaji": "mitame",
+    "meaning": "penampilan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-041",
+    "kanji": "遅くまで",
+    "hiragana": "おそくまで",
+    "romaji": "osokumade",
+    "meaning": "sampai larut malam",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-042",
+    "kanji": "心配（な）",
+    "hiragana": "しんぱい（な）",
+    "romaji": "shinpai(na)",
+    "meaning": "khawatir",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-043",
+    "kanji": "かっこいい",
+    "hiragana": "かっこいい",
+    "romaji": "kakkoii",
+    "meaning": "keren",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-044",
+    "kanji": "歌",
+    "hiragana": "うた",
+    "romaji": "uta",
+    "meaning": "menyanyi",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-045",
+    "kanji": "演技",
+    "hiragana": "えんぎ",
+    "romaji": "engi",
+    "meaning": "berakting",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-046",
+    "kanji": "ダンス",
+    "hiragana": "ダンス",
+    "romaji": "dansu",
+    "meaning": "berdansa,  menari",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-047",
+    "kanji": "上手（な）",
+    "hiragana": "じょうず（な）",
+    "romaji": "jouzu(na)",
+    "meaning": "mahir,  pandai",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-048",
+    "kanji": "歌手",
+    "hiragana": "かしゅ",
+    "romaji": "kashu",
+    "meaning": "penyanyi",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-049",
+    "kanji": "だれか",
+    "hiragana": "だれか",
+    "romaji": "dareka",
+    "meaning": "seseorang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-050",
+    "kanji": "引退する",
+    "hiragana": "いんたいする",
+    "romaji": "intaisuru",
+    "meaning": "pensiun",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-051",
+    "kanji": "今でも",
+    "hiragana": "いまでも",
+    "romaji": "imademo",
+    "meaning": "bahkan sekarang",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-052",
+    "kanji": "俳優",
+    "hiragana": "はいゆう",
+    "romaji": "haiyuu",
+    "meaning": "aktor",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-053",
+    "kanji": "そんな",
+    "hiragana": "そんな",
+    "romaji": "sonna",
+    "meaning": "seperti itu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-054",
+    "kanji": "きっかけ",
+    "hiragana": "きっかけ",
+    "romaji": "kikkake",
+    "meaning": "hal yang memicu /mendorong / membuat jadi (suka)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-055",
+    "kanji": "映画祭",
+    "hiragana": "えいがさい",
+    "romaji": "eigasai",
+    "meaning": "festival film",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-056",
+    "kanji": "世界中",
+    "hiragana": "せかいじゅう",
+    "romaji": "sekaijuu",
+    "meaning": "seluruh dunia",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-057",
+    "kanji": "ファン",
+    "hiragana": "ファン",
+    "romaji": "fan",
+    "meaning": "fan,  penggemar",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-058",
+    "kanji": "安室奈美恵",
+    "hiragana": "あむろなみえ",
+    "romaji": "amuronamie",
+    "meaning": "Amuro Namie (penyanyi berkebangsaan Jepang)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-059",
+    "kanji": "三船敏郎",
+    "hiragana": "みふねとしろう",
+    "romaji": "mifunetoshirou",
+    "meaning": "Mifune Toshiro (aktor berkebangsaan Jepang)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-060",
+    "kanji": "七人の侍",
+    "hiragana": "しちにんのさむらい",
+    "romaji": "shichininnosamurai",
+    "meaning": "Seven Samurai (sebuah film karya sutradara Kurosawa Akira)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-061",
+    "kanji": "まず",
+    "hiragana": "まず",
+    "romaji": "mazu",
+    "meaning": "mula-mula",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-062",
+    "kanji": "金色",
+    "hiragana": "きんいろ",
+    "romaji": "kin'iro",
+    "meaning": "warna keemasan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-063",
+    "kanji": "驚く",
+    "hiragana": "おどろく",
+    "romaji": "odoroku",
+    "meaning": "terkejut",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-064",
+    "kanji": "明るい",
+    "hiragana": "あかるい",
+    "romaji": "akarui",
+    "meaning": "terang",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-065",
+    "kanji": "びっくりする",
+    "hiragana": "びっくりする",
+    "romaji": "bikkurisuru",
+    "meaning": "kaget",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-066",
+    "kanji": "ハイキング",
+    "hiragana": "ハイキング",
+    "romaji": "haikingu",
+    "meaning": "hiking",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-067",
+    "kanji": "できれば",
+    "hiragana": "できれば",
+    "romaji": "dekireba",
+    "meaning": "bila memungkinkan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-068",
+    "kanji": "シリーズ",
+    "hiragana": "シリーズ",
+    "romaji": "shiriizu",
+    "meaning": "seri,  rangkaian",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-069",
+    "kanji": "おとなりさん",
+    "hiragana": "おとなりさん",
+    "romaji": "otonarisan",
+    "meaning": "tetangga",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-070",
+    "kanji": "簡単に",
+    "hiragana": "かんたんに",
+    "romaji": "kantanni",
+    "meaning": "dengan mudah",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-071",
+    "kanji": "ヤンゴン",
+    "hiragana": "ヤンゴン",
+    "romaji": "yangon",
+    "meaning": "Yangon",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-072",
+    "kanji": "パゴダ",
+    "hiragana": "パゴダ",
+    "romaji": "pagoda",
+    "meaning": "pagoda",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-073",
+    "kanji": "増える",
+    "hiragana": "ふえる",
+    "romaji": "fueru",
+    "meaning": "bertambah",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-02-074",
+    "kanji": "交流協会",
+    "hiragana": "こうりゅうきょうかい",
+    "romaji": "kouryuukyoukai",
+    "meaning": "asosiasi pertukaran",
+    "level": "N2",
+    "isExtra": false
+  }
+]

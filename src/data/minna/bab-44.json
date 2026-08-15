@@ -1,0 +1,641 @@
+[
+  {
+    "id": "mn-44-001",
+    "kanji": "［どうも］お疲れさまでした。",
+    "hiragana": "［どうも］おつかれさまでした。",
+    "romaji": "[doumo]otsukaresamadeshita.",
+    "meaning": "Sudah selesai. (diucapkan kepada tamu)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-002",
+    "kanji": "～みたいにしてください。",
+    "hiragana": "～みたいにしてください。",
+    "romaji": "~mitainishitekudasai.",
+    "meaning": "Tolong buat seperti ~.",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-003",
+    "kanji": "ー倍",
+    "hiragana": "ーばい",
+    "romaji": "-bai",
+    "meaning": "ー kali",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-004",
+    "kanji": "DVD",
+    "hiragana": "DVD",
+    "romaji": "DVD",
+    "meaning": "DVD",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-005",
+    "kanji": "うまく",
+    "hiragana": "うまく",
+    "romaji": "umaku",
+    "meaning": "pandai, pintar",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-006",
+    "kanji": "おかず",
+    "hiragana": "おかず",
+    "romaji": "okazu",
+    "meaning": "lauk-pauk",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-007",
+    "kanji": "カット",
+    "hiragana": "カット",
+    "romaji": "katto",
+    "meaning": "potong rambut",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-008",
+    "kanji": "これでよろしいでしょうか。",
+    "hiragana": "これでよろしいでしょうか。",
+    "romaji": "koredeyoroshiideshouka.",
+    "meaning": "Bagaimana kalau begini? (sopan)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-009",
+    "kanji": "これら",
+    "hiragana": "これら",
+    "romaji": "korera",
+    "meaning": "itu",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-010",
+    "kanji": "シャンプー",
+    "hiragana": "シャンプー",
+    "romaji": "shanpuu",
+    "meaning": "keramas (～を します : berkeramas)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-011",
+    "kanji": "ショート",
+    "hiragana": "ショート",
+    "romaji": "shooto",
+    "meaning": "pendek",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-012",
+    "kanji": "シングル",
+    "hiragana": "シングル",
+    "romaji": "shinguru",
+    "meaning": "single",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-013",
+    "kanji": "ツイン",
+    "hiragana": "ツイン",
+    "romaji": "tsuin",
+    "meaning": "twin",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-014",
+    "kanji": "どういうふうになさいますか。",
+    "hiragana": "どういうふうになさいますか。",
+    "romaji": "douiufuuninasaimasuka.",
+    "meaning": "Modelnya seperti bagaimana? (hormat)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-015",
+    "kanji": "どうなさいますか。",
+    "hiragana": "どうなさいますか。",
+    "romaji": "dounasaimasuka.",
+    "meaning": "Modelnya bagaimana? (hormat)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-016",
+    "kanji": "ぬれます",
+    "hiragana": "ぬれます",
+    "romaji": "nuremasu",
+    "meaning": "[kemeja] basah",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-017",
+    "kanji": "また",
+    "hiragana": "また",
+    "romaji": "mata",
+    "meaning": "dan, lalu",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-018",
+    "kanji": "安心な",
+    "hiragana": "あんしんな",
+    "romaji": "anshinna",
+    "meaning": "kelegaan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-019",
+    "kanji": "安全な",
+    "hiragana": "あんぜんな",
+    "romaji": "anzenna",
+    "meaning": "aman",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-020",
+    "kanji": "縁起が悪い",
+    "hiragana": "えんぎがわるい",
+    "romaji": "engigawarui",
+    "meaning": "tidak menyenangkan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-021",
+    "kanji": "滑ります",
+    "hiragana": "すべります",
+    "romaji": "suberimasu",
+    "meaning": "licin",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-022",
+    "kanji": "乾きます",
+    "hiragana": "かわきます",
+    "romaji": "kawakimasu",
+    "meaning": "[kemeja] mengering",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-023",
+    "kanji": "危険な",
+    "hiragana": "きけんな",
+    "romaji": "kikenna",
+    "meaning": "bahaya",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-024",
+    "kanji": "起きます",
+    "hiragana": "おきます",
+    "romaji": "okimasu",
+    "meaning": "terjadi [kecelakaan]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-025",
+    "kanji": "泣きます",
+    "hiragana": "なきます",
+    "romaji": "nakimasu",
+    "meaning": "menangis",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-026",
+    "kanji": "空気",
+    "hiragana": "くうき",
+    "romaji": "kuuki",
+    "meaning": "udara",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-027",
+    "kanji": "嫌がります",
+    "hiragana": "いやがります",
+    "romaji": "iyagarimasu",
+    "meaning": "tidak mau",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-028",
+    "kanji": "厚い",
+    "hiragana": "あつい",
+    "romaji": "atsui",
+    "meaning": "tebal",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-029",
+    "kanji": "細い",
+    "hiragana": "ほそい",
+    "romaji": "hosoi",
+    "meaning": "kurus",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-030",
+    "kanji": "順序",
+    "hiragana": "じゅんじょ",
+    "romaji": "junjo",
+    "meaning": "urutan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-031",
+    "kanji": "笑います",
+    "hiragana": "わらいます",
+    "romaji": "waraimasu",
+    "meaning": "tertawa",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-032",
+    "kanji": "洗濯物",
+    "hiragana": "せんたくもの",
+    "romaji": "sentakumono",
+    "meaning": "cucian",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-033",
+    "kanji": "太い",
+    "hiragana": "ふとい",
+    "romaji": "futoi",
+    "meaning": "gemuk",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-034",
+    "kanji": "調節します",
+    "hiragana": "ちょうせつします",
+    "romaji": "chousetsushimasu",
+    "meaning": "mengontrol",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-035",
+    "kanji": "濃い",
+    "hiragana": "こい",
+    "romaji": "koi",
+    "meaning": "kental (rasa makanan atau minuman), tua (warna)",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-036",
+    "kanji": "薄い",
+    "hiragana": "うすい",
+    "romaji": "usui",
+    "meaning": "tawar (rasa makanan atau minuman), muda (warna), tipis (barang)",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-037",
+    "kanji": "表現",
+    "hiragana": "ひょうげん",
+    "romaji": "hyougen",
+    "meaning": "ungkapan, ekspresi",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-038",
+    "kanji": "別れます",
+    "hiragana": "わかれます",
+    "romaji": "wakaremasu",
+    "meaning": "berpisah",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-039",
+    "kanji": "眠ります",
+    "hiragana": "ねむります",
+    "romaji": "nemurimasu",
+    "meaning": "tidur",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-040",
+    "kanji": "洋食",
+    "hiragana": "ようしょく",
+    "romaji": "youshoku",
+    "meaning": "makanan Barat",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-041",
+    "kanji": "量",
+    "hiragana": "りょう",
+    "romaji": "ryou",
+    "meaning": "kuantitas",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-042",
+    "kanji": "涙",
+    "hiragana": "なみだ",
+    "romaji": "namida",
+    "meaning": "air mata",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-043",
+    "kanji": "例えば",
+    "hiragana": "たとえば",
+    "romaji": "tatoeba",
+    "meaning": "misalnya",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-044",
+    "kanji": "和食",
+    "hiragana": "わしょく",
+    "romaji": "washoku",
+    "meaning": "makanan Jepang",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-44-045",
+    "kanji": "１センチくらい",
+    "hiragana": "１センチくらい",
+    "romaji": "1senchikurai",
+    "meaning": "kira-kira 1 cm.",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-046",
+    "kanji": "エクステ",
+    "hiragana": "エクステ",
+    "romaji": "ekusute",
+    "meaning": "sambung rambut",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-047",
+    "kanji": "カラー",
+    "hiragana": "カラー",
+    "romaji": "karaa",
+    "meaning": "mengecat rambut, mewarnai rambut",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-048",
+    "kanji": "この写真みたいに",
+    "hiragana": "このしゃしんみたいに",
+    "romaji": "konoshashinmitaini",
+    "meaning": "seperti foto ini.",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-049",
+    "kanji": "トリートメント",
+    "hiragana": "トリートメント",
+    "romaji": "toriitomento",
+    "meaning": "perawatan rambut",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-050",
+    "kanji": "ネイル",
+    "hiragana": "ネイル",
+    "romaji": "neiru",
+    "meaning": "perawatan kuku",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-051",
+    "kanji": "パーマ",
+    "hiragana": "パーマ",
+    "romaji": "paama",
+    "meaning": "keriting",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-052",
+    "kanji": "パーマをかける",
+    "hiragana": "パーマをかける",
+    "romaji": "paamawokakeru",
+    "meaning": "mengeriting rambut",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-053",
+    "kanji": "ひげ／顔をそる",
+    "hiragana": "ひげ／かおをそる",
+    "romaji": "hige/kaowosoru",
+    "meaning": "mencukur kumis/bulu wajah",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-054",
+    "kanji": "フェイシャルマッサージ",
+    "hiragana": "フェイシャルマッサージ",
+    "romaji": "feisharumassaaji",
+    "meaning": "facial massage",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-055",
+    "kanji": "ブロー",
+    "hiragana": "ブロー",
+    "romaji": "buroo",
+    "meaning": "blow",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-056",
+    "kanji": "まゆが隠れるくらいに",
+    "hiragana": "まゆがかくれるくらいに",
+    "romaji": "mayugakakurerukuraini",
+    "meaning": "sebatas alis.",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-057",
+    "kanji": "メイク",
+    "hiragana": "メイク",
+    "romaji": "meiku",
+    "meaning": "dandan, makeup",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-058",
+    "kanji": "化粧／メイクする",
+    "hiragana": "けしょう／メイクする",
+    "romaji": "keshou/meikusuru",
+    "meaning": "dandan, berdandan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-059",
+    "kanji": "刈り上げる",
+    "hiragana": "かりあげる",
+    "romaji": "kariageru",
+    "meaning": "mencukur",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-060",
+    "kanji": "肩にかかるくらいに",
+    "hiragana": "かたにかかるくらいに",
+    "romaji": "katanikakarukuraini",
+    "meaning": "sebahu.",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-061",
+    "kanji": "三つ編みにする",
+    "hiragana": "みつあみにする",
+    "romaji": "mitsuaminisuru",
+    "meaning": "kepang",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-062",
+    "kanji": "耳が見えるくらいに",
+    "hiragana": "みみが見えるくらいに",
+    "romaji": "mimigamierukuraini",
+    "meaning": "sampai telinga terlihat.",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-063",
+    "kanji": "切ってください。",
+    "hiragana": "きってください。",
+    "romaji": "kittekudasai.",
+    "meaning": "Tolong potong rambut saya.",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-064",
+    "kanji": "着付け",
+    "hiragana": "きつけ",
+    "romaji": "kitsuke",
+    "meaning": "membantu mengenakan (kimono)",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-065",
+    "kanji": "髪をアップにする",
+    "hiragana": "かみをアップにする",
+    "romaji": "kamiwoappunisuru",
+    "meaning": "menyanggul",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-066",
+    "kanji": "髪をとかす",
+    "hiragana": "かみをとかす",
+    "romaji": "kamiwotokasu",
+    "meaning": "menyisir rambut",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-067",
+    "kanji": "髪をまとめる",
+    "hiragana": "かみをまとめる",
+    "romaji": "kamiwomatomeru",
+    "meaning": "mengikat rambut",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-068",
+    "kanji": "髪を染める",
+    "hiragana": "かみをそめる",
+    "romaji": "kamiwosomeru",
+    "meaning": "mewarnai rambut",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-069",
+    "kanji": "髪を分ける",
+    "hiragana": "かみをわける",
+    "romaji": "kamiwowakeru",
+    "meaning": "belah rambut",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-070",
+    "kanji": "美容院",
+    "hiragana": "びよういん",
+    "romaji": "biyouin",
+    "meaning": "salon kecantikan",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-44-071",
+    "kanji": "理髪店",
+    "hiragana": "りはつてん",
+    "romaji": "rihatsuten",
+    "meaning": "tempat pemangkas rambut",
+    "level": "-",
+    "importinity": 2
+  }
+]

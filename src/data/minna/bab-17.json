@@ -1,0 +1,740 @@
+[
+  {
+    "id": "mn-17-001",
+    "kanji": "〜までに",
+    "hiragana": "〜までに",
+    "romaji": "~madeni",
+    "meaning": "sampai dengan (menyatakan batas waktu)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-002",
+    "kanji": "[〜が] 痛いです。",
+    "hiragana": "[〜が] いたいです。",
+    "romaji": "[~ga] itaidesu.",
+    "meaning": "[〜] sakit",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-003",
+    "kanji": "[お]ふろ",
+    "hiragana": "[お]ふろ",
+    "romaji": "[o]furo",
+    "meaning": "mandi, kamar mandi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-004",
+    "kanji": "[健康]保険証",
+    "hiragana": "[けんこう]ほけんしょう",
+    "romaji": "[kenkou]hokenshou",
+    "meaning": "kartu asuransi [kesehatan]",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-005",
+    "kanji": "２３〜",
+    "hiragana": "２、３〜",
+    "romaji": "2,3~",
+    "meaning": "dua atau tiga (digunakan kata bilangan di bagian 〜)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-006",
+    "kanji": "２３日",
+    "hiragana": "２、３にち",
+    "romaji": "2,3nichi",
+    "meaning": "dua atau tiga hari",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-007",
+    "kanji": "お大事に。",
+    "hiragana": "おだいじに。",
+    "romaji": "odaijini.",
+    "meaning": "Semoga lekas sembuh. (ekspresi yang diucapkan kepada orang yang sedang sakit)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-008",
+    "kanji": "かぜ",
+    "hiragana": "かぜ",
+    "romaji": "kaze",
+    "meaning": "masuk angin",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-009",
+    "kanji": "それから",
+    "hiragana": "それから",
+    "romaji": "sorekara",
+    "meaning": "dan, kemudian",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-010",
+    "kanji": "ですから",
+    "hiragana": "ですから",
+    "romaji": "desukara",
+    "meaning": "oleh karena itu",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-011",
+    "kanji": "どう しましたか。",
+    "hiragana": "どう しましたか。",
+    "romaji": "dou shimashitaka.",
+    "meaning": "Kenapa?/Ada masalah apa?",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-012",
+    "kanji": "なくしますⅠ",
+    "hiragana": "なくしますⅠ",
+    "romaji": "nakushimasuⅠ",
+    "meaning": "kehilangan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-013",
+    "kanji": "のど",
+    "hiragana": "のど",
+    "romaji": "nodo",
+    "meaning": "kerongkongan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-014",
+    "kanji": "飲みます [薬を〜]",
+    "hiragana": "のみますⅠ [くすりを〜]",
+    "romaji": "nomimasuⅠ [kusuriwo~]",
+    "meaning": "minum [obat]",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-015",
+    "kanji": "下着",
+    "hiragana": "したぎ",
+    "romaji": "shitagi",
+    "meaning": "pakaian dalam",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-016",
+    "kanji": "覚えます",
+    "hiragana": "おぼえますⅡ",
+    "romaji": "oboemasuⅡ",
+    "meaning": "mengingat, menghafal",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-017",
+    "kanji": "危ない",
+    "hiragana": "あぶない",
+    "romaji": "abunai",
+    "meaning": "berbahaya",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-018",
+    "kanji": "禁煙",
+    "hiragana": "きんえん",
+    "romaji": "kin'en",
+    "meaning": "dilarang merokok",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-019",
+    "kanji": "残業します",
+    "hiragana": "ざんぎょうしますⅢ",
+    "romaji": "zangyoushimasuⅢ",
+    "meaning": "melembur",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-020",
+    "kanji": "持って 行きます",
+    "hiragana": "もって いきますⅠ",
+    "romaji": "motte ikimasuⅠ",
+    "meaning": "membawa pergi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-021",
+    "kanji": "持って 来ます",
+    "hiragana": "もって きますⅢ",
+    "romaji": "motte kimasuⅢ",
+    "meaning": "membawa datang",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-022",
+    "kanji": "出かけます",
+    "hiragana": "でかけますⅡ",
+    "romaji": "dekakemasuⅡ",
+    "meaning": "pergi, keluar, berangkat",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-023",
+    "kanji": "出張します",
+    "hiragana": "しゅっちょうしますⅢ",
+    "romaji": "shutchoushimasuⅢ",
+    "meaning": "dinas",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-024",
+    "kanji": "上着",
+    "hiragana": "うわぎ",
+    "romaji": "uwagi",
+    "meaning": "baju, jaket",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-025",
+    "kanji": "心配します",
+    "hiragana": "しんぱいしますⅢ",
+    "romaji": "shinpaishimasuⅢ",
+    "meaning": "mengkhawatirkan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-026",
+    "kanji": "大丈夫[な]",
+    "hiragana": "だいじょうぶ[な]",
+    "romaji": "daijoubu[na]",
+    "meaning": "tidak apa-apa, tidak masalah",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-027",
+    "kanji": "大切[な]",
+    "hiragana": "たいせつ[な]",
+    "romaji": "taisetsu[na]",
+    "meaning": "penting, bernilai, berharga",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-028",
+    "kanji": "脱ぎます",
+    "hiragana": "ぬぎますⅠ",
+    "romaji": "nugimasuⅠ",
+    "meaning": "buka (baju, sepatu dan lain-lain)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-029",
+    "kanji": "入ります",
+    "hiragana": "はいりますⅠ [おふろに〜]",
+    "romaji": "hairimasuⅠ [ofuroni~]",
+    "meaning": "mandi, masuk [ofuro]",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-030",
+    "kanji": "熱",
+    "hiragana": "ねつ",
+    "romaji": "netsu",
+    "meaning": "demam",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-031",
+    "kanji": "病気",
+    "hiragana": "びょうき",
+    "romaji": "byouki",
+    "meaning": "sakit",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-032",
+    "kanji": "払います",
+    "hiragana": "はらいますⅠ",
+    "romaji": "haraimasuⅠ",
+    "meaning": "membayar",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-033",
+    "kanji": "返します",
+    "hiragana": "かえしますⅠ",
+    "romaji": "kaeshimasuⅠ",
+    "meaning": "mengembalikan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-034",
+    "kanji": "忘れます",
+    "hiragana": "わすれますⅡ",
+    "romaji": "wasuremasuⅡ",
+    "meaning": "lupa",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-035",
+    "kanji": "薬",
+    "hiragana": "くすり",
+    "romaji": "kusuri",
+    "meaning": "obat",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-17-036",
+    "kanji": "あご",
+    "hiragana": "あご",
+    "romaji": "ago",
+    "meaning": "dagu",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-037",
+    "kanji": "あし",
+    "hiragana": "あし",
+    "romaji": "ashi",
+    "meaning": "kaki",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-038",
+    "kanji": "あたま",
+    "hiragana": "あたま",
+    "romaji": "atama",
+    "meaning": "kepala",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-039",
+    "kanji": "インフルエンザ",
+    "hiragana": "インフルエンザ",
+    "romaji": "infuruenza",
+    "meaning": "flu, influenza",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-040",
+    "kanji": "うで",
+    "hiragana": "うで",
+    "romaji": "ude",
+    "meaning": "lengan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-041",
+    "kanji": "おなか",
+    "hiragana": "おなか",
+    "romaji": "onaka",
+    "meaning": "perut",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-042",
+    "kanji": "おなかが いたい",
+    "hiragana": "おなかが いたい",
+    "romaji": "onakaga itai",
+    "meaning": "sakit perut",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-043",
+    "kanji": "かお",
+    "hiragana": "かお",
+    "romaji": "kao",
+    "meaning": "muka",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-044",
+    "kanji": "かた",
+    "hiragana": "かた",
+    "romaji": "kata",
+    "meaning": "bahu",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-045",
+    "kanji": "かみ",
+    "hiragana": "かみ",
+    "romaji": "kami",
+    "meaning": "rambut",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-046",
+    "kanji": "かゆい",
+    "hiragana": "かゆい",
+    "romaji": "kayui",
+    "meaning": "gatal",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-047",
+    "kanji": "ぎっくり腰",
+    "hiragana": "ぎっくりごし",
+    "romaji": "gikkurigoshi",
+    "meaning": "sakit pinggang",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-048",
+    "kanji": "くち",
+    "hiragana": "くち",
+    "romaji": "kuchi",
+    "meaning": "mulut",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-049",
+    "kanji": "くび",
+    "hiragana": "くび",
+    "romaji": "kubi",
+    "meaning": "leher",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-050",
+    "kanji": "けがを します",
+    "hiragana": "けがを します",
+    "romaji": "kegawo shimasu",
+    "meaning": "terluka",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-051",
+    "kanji": "こし",
+    "hiragana": "こし",
+    "romaji": "koshi",
+    "meaning": "pinggang",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-052",
+    "kanji": "しり",
+    "hiragana": "しり",
+    "romaji": "shiri",
+    "meaning": "pantat",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-053",
+    "kanji": "せきが 出ます",
+    "hiragana": "せきが でます",
+    "romaji": "sekiga demasu",
+    "meaning": "batuk",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-054",
+    "kanji": "せなか",
+    "hiragana": "せなか",
+    "romaji": "senaka",
+    "meaning": "punggung",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-055",
+    "kanji": "つめ",
+    "hiragana": "つめ",
+    "romaji": "tsume",
+    "meaning": "kuku",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-056",
+    "kanji": "て",
+    "hiragana": "て",
+    "romaji": "te",
+    "meaning": "tangan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-057",
+    "kanji": "ねんざ",
+    "hiragana": "ねんざ",
+    "romaji": "nenza",
+    "meaning": "keseleo",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-058",
+    "kanji": "のど",
+    "hiragana": "のど",
+    "romaji": "nodo",
+    "meaning": "kerongkongan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-059",
+    "kanji": "はな",
+    "hiragana": "はな",
+    "romaji": "hana",
+    "meaning": "hidung",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-060",
+    "kanji": "ひざ",
+    "hiragana": "ひざ",
+    "romaji": "hiza",
+    "meaning": "lutut",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-061",
+    "kanji": "ほね",
+    "hiragana": "ほね",
+    "romaji": "hone",
+    "meaning": "tulang",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-062",
+    "kanji": "みみ",
+    "hiragana": "みみ",
+    "romaji": "mimi",
+    "meaning": "telinga",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-063",
+    "kanji": "むね",
+    "hiragana": "むね",
+    "romaji": "mune",
+    "meaning": "dada",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-064",
+    "kanji": "め",
+    "hiragana": "め",
+    "romaji": "me",
+    "meaning": "mata",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-065",
+    "kanji": "めまいが します",
+    "hiragana": "めまいが します",
+    "romaji": "memaiga shimasu",
+    "meaning": "pening, pusing",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-066",
+    "kanji": "やけどを します",
+    "hiragana": "やけどを します",
+    "romaji": "yakedowo shimasu",
+    "meaning": "terbakar",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-067",
+    "kanji": "ゆび",
+    "hiragana": "ゆび",
+    "romaji": "yubi",
+    "meaning": "jari",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-068",
+    "kanji": "下痢を します",
+    "hiragana": "げりを します",
+    "romaji": "geriwo shimasu",
+    "meaning": "diare",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-069",
+    "kanji": "寒気が します",
+    "hiragana": "さむけが します",
+    "romaji": "samukega shimasu",
+    "meaning": "kedinginan",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-070",
+    "kanji": "血が 出ます",
+    "hiragana": "ちが でます",
+    "romaji": "chiga demasu",
+    "meaning": "berdarah",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-071",
+    "kanji": "肩が こります",
+    "hiragana": "かたが こります",
+    "romaji": "kataga korimasu",
+    "meaning": "bahu pegal",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-072",
+    "kanji": "骨折",
+    "hiragana": "こっせつ",
+    "romaji": "kossetsu",
+    "meaning": "patah tulang",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-073",
+    "kanji": "歯が 痛い",
+    "hiragana": "はが いたい",
+    "romaji": "haga itai",
+    "meaning": "sakit gigi",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-074",
+    "kanji": "食欲が ありません",
+    "hiragana": "しょくよくが ありません",
+    "romaji": "shokuyokuga arimasen",
+    "meaning": "tidak nafsu makan",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-075",
+    "kanji": "体が だるい",
+    "hiragana": "からだが だるい",
+    "romaji": "karadaga darui",
+    "meaning": "badan lemas",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-076",
+    "kanji": "吐き気が します",
+    "hiragana": "はきけが します",
+    "romaji": "hakikega shimasu",
+    "meaning": "mual, mau muntah",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-077",
+    "kanji": "頭が 痛い",
+    "hiragana": "あたまが いたい",
+    "romaji": "atamaga itai",
+    "meaning": "sakit kepala",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-078",
+    "kanji": "二日酔い",
+    "hiragana": "ふつかよい",
+    "romaji": "futsukayoi",
+    "meaning": "efek sesudah minum",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-079",
+    "kanji": "熱が あります",
+    "hiragana": "ねつが あります",
+    "romaji": "netsuga arimasu",
+    "meaning": "demam",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-080",
+    "kanji": "鼻水が 出ます",
+    "hiragana": "はなみずが でます",
+    "romaji": "hanamizuga demasu",
+    "meaning": "pilek",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-081",
+    "kanji": "便秘を します",
+    "hiragana": "べんぴを します",
+    "romaji": "benpiwo shimasu",
+    "meaning": "sembelit",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-17-082",
+    "kanji": "盲腸",
+    "hiragana": "もうちょう",
+    "romaji": "mouchou",
+    "meaning": "usus buntu",
+    "level": "-",
+    "importinity": 2
+  }
+]

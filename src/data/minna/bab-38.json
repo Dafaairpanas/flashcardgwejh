@@ -1,0 +1,623 @@
+[
+  {
+    "id": "mn-38-001",
+    "kanji": "～という",
+    "hiragana": "～という",
+    "romaji": "~toiu",
+    "meaning": "dengan judul ~",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-002",
+    "kanji": "～冊",
+    "hiragana": "～さつ",
+    "romaji": "~satsu",
+    "meaning": "~ buah (kata bantu bilangan untuk menghitung buku dan lain-lain)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-003",
+    "kanji": "～製",
+    "hiragana": "～せい",
+    "romaji": "~sei",
+    "meaning": "buatan ~",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-004",
+    "kanji": "～点",
+    "hiragana": "～てん",
+    "romaji": "~ten",
+    "meaning": "~ point",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-005",
+    "kanji": "５年生",
+    "hiragana": "５ねんせい",
+    "romaji": "5nensei",
+    "meaning": "kelas lima",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-006",
+    "kanji": "あ, いけない",
+    "hiragana": "あ、いけない",
+    "romaji": "a,ikenai",
+    "meaning": "[Ah,] Salah! (memakai ketika bersalah atau gagal)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-007",
+    "kanji": "おととし",
+    "hiragana": "おととし",
+    "romaji": "ototoshi",
+    "meaning": "dua tahun yang lalu",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-008",
+    "kanji": "おとなしい",
+    "hiragana": "おとなしい",
+    "romaji": "otonashii",
+    "meaning": "pendiam",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-009",
+    "kanji": "お先に失礼します",
+    "hiragana": "おさきにしつれいします",
+    "romaji": "osakinishitsureishimasu",
+    "meaning": "[Permisi] duluan.",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-010",
+    "kanji": "かな",
+    "hiragana": "かな",
+    "romaji": "kana",
+    "meaning": "huruf Hiragana, huruf Katakana",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-011",
+    "kanji": "きちんと",
+    "hiragana": "きちんと",
+    "romaji": "kichinto",
+    "meaning": "dengan rapi",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-012",
+    "kanji": "けんかします",
+    "hiragana": "けんかします",
+    "romaji": "kenkashimasu",
+    "meaning": "bertengkar",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-013",
+    "kanji": "しかた",
+    "hiragana": "しかた",
+    "romaji": "shikata",
+    "meaning": "cara",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-014",
+    "kanji": "つきます",
+    "hiragana": "つきます",
+    "romaji": "tsukimasu",
+    "meaning": "berbohong",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-015",
+    "kanji": "はんこ",
+    "hiragana": "はんこ",
+    "romaji": "hanko",
+    "meaning": "cap",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-016",
+    "kanji": "育てます",
+    "hiragana": "そだてます",
+    "romaji": "sodatemasu",
+    "meaning": "memelihara",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-017",
+    "kanji": "運びます",
+    "hiragana": "はこびます",
+    "romaji": "hakobimasu",
+    "meaning": "mengangkut",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-018",
+    "kanji": "駅前",
+    "hiragana": "えきまえ",
+    "romaji": "ekimae",
+    "meaning": "depan stasiun",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-019",
+    "kanji": "押します",
+    "hiragana": "おします",
+    "romaji": "oshimasu",
+    "meaning": "mengecap",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-020",
+    "kanji": "回覧",
+    "hiragana": "かいらん",
+    "romaji": "kairan",
+    "meaning": "edaran",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-021",
+    "kanji": "海岸",
+    "hiragana": "かいがん",
+    "romaji": "kaigan",
+    "meaning": "pantai laut",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-022",
+    "kanji": "掛けます",
+    "hiragana": "かけます",
+    "romaji": "kakemasu",
+    "meaning": "mengunci",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-023",
+    "kanji": "気が強い",
+    "hiragana": "きがつよい",
+    "romaji": "kigatsuyoi",
+    "meaning": "bersifat keras, galak",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-024",
+    "kanji": "気持ちがいい",
+    "hiragana": "きもちがいい",
+    "romaji": "kimochigaii",
+    "meaning": "rasa enak",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-025",
+    "kanji": "気持ちが悪い",
+    "hiragana": "きもちがわるい",
+    "romaji": "kimochigawarui",
+    "meaning": "rasa tidak enak, jijik",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-026",
+    "kanji": "健康",
+    "hiragana": "けんこう",
+    "romaji": "kenkou",
+    "meaning": "kesehatan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-027",
+    "kanji": "研究室",
+    "hiragana": "けんきゅうしつ",
+    "romaji": "kenkyuushitsu",
+    "meaning": "labolatorium/ruang dosen",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-028",
+    "kanji": "工場",
+    "hiragana": "こうじょう",
+    "romaji": "koujou",
+    "meaning": "pabrik",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-029",
+    "kanji": "参加します",
+    "hiragana": "さんかします",
+    "romaji": "sankashimasu",
+    "meaning": "mengikuti [perjalanan]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-030",
+    "kanji": "姉妹",
+    "hiragana": "しまい",
+    "romaji": "shimai",
+    "meaning": "saudara perempuan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-031",
+    "kanji": "指輪",
+    "hiragana": "ゆびわ",
+    "romaji": "yubiwa",
+    "meaning": "cincin",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-032",
+    "kanji": "似ています",
+    "hiragana": "にています",
+    "romaji": "niteimasu",
+    "meaning": "mirip",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-033",
+    "kanji": "時間がたちます",
+    "hiragana": "じかんがたちます",
+    "romaji": "jikangatachimasu",
+    "meaning": "waktu berlalu",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-034",
+    "kanji": "習慣",
+    "hiragana": "しゅうかん",
+    "romaji": "shuukan",
+    "meaning": "kebiasaan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-035",
+    "kanji": "小さな～",
+    "hiragana": "ちいさな～",
+    "romaji": "chiisana~",
+    "meaning": "kecil ~",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-036",
+    "kanji": "小学校",
+    "hiragana": "しょうがっこう",
+    "romaji": "shougakkou",
+    "meaning": "SD",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-037",
+    "kanji": "世話をします",
+    "hiragana": "せわをします",
+    "romaji": "sewawoshimasu",
+    "meaning": "merawat",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-038",
+    "kanji": "性格",
+    "hiragana": "せいかく",
+    "romaji": "seikaku",
+    "meaning": "sifat",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-039",
+    "kanji": "整理します",
+    "hiragana": "せいりします",
+    "romaji": "seirishimasu",
+    "meaning": "mengatur",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-040",
+    "kanji": "赤ちゃん",
+    "hiragana": "あかちゃん",
+    "romaji": "akachan",
+    "meaning": "bayi",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-041",
+    "kanji": "切ります",
+    "hiragana": "きります",
+    "romaji": "kirimasu",
+    "meaning": "mematikan [power suply]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-042",
+    "kanji": "双子",
+    "hiragana": "ふたご",
+    "romaji": "futago",
+    "meaning": "anak kembar",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-043",
+    "kanji": "村",
+    "hiragana": "むら",
+    "romaji": "mura",
+    "meaning": "desa, kampung",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-044",
+    "kanji": "退院します",
+    "hiragana": "たいいんします",
+    "romaji": "taiinshimasu",
+    "meaning": "keluar dari rumah sakit",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-045",
+    "kanji": "大きな～",
+    "hiragana": "おおきな～",
+    "romaji": "ookina~",
+    "meaning": "besar ~",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-046",
+    "kanji": "大好きな",
+    "hiragana": "だいすきな",
+    "romaji": "daisukina",
+    "meaning": "suka sekali",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-047",
+    "kanji": "中学校",
+    "hiragana": "ちゅうがっこう",
+    "romaji": "chuugakkou",
+    "meaning": "SMP",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-048",
+    "kanji": "電源",
+    "hiragana": "でんげん",
+    "romaji": "dengen",
+    "meaning": "power suply",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-049",
+    "kanji": "入れます",
+    "hiragana": "いれます",
+    "romaji": "iremasu",
+    "meaning": "menghidupkan [power suply]",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-050",
+    "kanji": "入院します",
+    "hiragana": "にゅういんします",
+    "romaji": "nyuuinshimasu",
+    "meaning": "opname",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-051",
+    "kanji": "年齢",
+    "hiragana": "ねんれい",
+    "romaji": "nenrei",
+    "meaning": "usia, umur",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-052",
+    "kanji": "不思議な",
+    "hiragana": "ふしぎな",
+    "romaji": "fushigina",
+    "meaning": "aneh",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-053",
+    "kanji": "方法",
+    "hiragana": "ほうほう",
+    "romaji": "houhou",
+    "meaning": "cara",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-054",
+    "kanji": "優しい",
+    "hiragana": "やさしい",
+    "romaji": "yasashii",
+    "meaning": "baik hati",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-38-055",
+    "kanji": "２行目",
+    "hiragana": "２ぎょうめ",
+    "romaji": "2gyoume",
+    "meaning": "baris kedua",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-38-056",
+    "kanji": "３行目",
+    "hiragana": "３ぎょうめ",
+    "romaji": "3gyoume",
+    "meaning": "baris ketiga",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-38-057",
+    "kanji": "４ページ",
+    "hiragana": "４ページ",
+    "romaji": "4peeji",
+    "meaning": "halaman 4",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-38-058",
+    "kanji": "そば",
+    "hiragana": "そば",
+    "romaji": "soba",
+    "meaning": "samping",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-38-059",
+    "kanji": "位置",
+    "hiragana": "いち",
+    "romaji": "ichi",
+    "meaning": "Lokasi/Posisi",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-38-060",
+    "kanji": "奥",
+    "hiragana": "おく",
+    "romaji": "oku",
+    "meaning": "bagian dalam",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-38-061",
+    "kanji": "横",
+    "hiragana": "よこ",
+    "romaji": "yoko",
+    "meaning": "sebelah",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-38-062",
+    "kanji": "隅",
+    "hiragana": "すみ",
+    "romaji": "sumi",
+    "meaning": "pojok/sudut",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-38-063",
+    "kanji": "斜め後ろ",
+    "hiragana": "ななめうしろ",
+    "romaji": "nanameushiro",
+    "meaning": "samping belakang",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-38-064",
+    "kanji": "斜め前",
+    "hiragana": "ななめまえ",
+    "romaji": "nanamemae",
+    "meaning": "samping depan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-38-065",
+    "kanji": "手前",
+    "hiragana": "てまえ",
+    "romaji": "temae",
+    "meaning": "bagian depan",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-38-066",
+    "kanji": "周り",
+    "hiragana": "まわり",
+    "romaji": "mawari",
+    "meaning": "sekitar",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-38-067",
+    "kanji": "上から２段目",
+    "hiragana": "うえから２だんめ",
+    "romaji": "uekara2danme",
+    "meaning": "kedua dari atas",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-38-068",
+    "kanji": "真ん中",
+    "hiragana": "まんなか",
+    "romaji": "mannaka",
+    "meaning": "tengah",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-38-069",
+    "kanji": "前から２列目",
+    "hiragana": "まえから２れつめ",
+    "romaji": "maekara2retsume",
+    "meaning": "deretan kedua dari depan",
+    "level": "N4",
+    "importinity": 2
+  }
+]

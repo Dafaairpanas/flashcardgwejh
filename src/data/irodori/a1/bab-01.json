@@ -1,0 +1,218 @@
+[
+  {
+    "id": "ir-a1-01-001",
+    "kanji": "おはよう（ございます）",
+    "hiragana": "おはよう（ございます）",
+    "romaji": "ohayou(gozaimasu)",
+    "meaning": "Selamat pagi.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-002",
+    "kanji": "こんにちは",
+    "hiragana": "こんにちは",
+    "romaji": "konnichiha",
+    "meaning": "Selamat siang.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-003",
+    "kanji": "こんばんは",
+    "hiragana": "こんばんは",
+    "romaji": "konbanha",
+    "meaning": "Selamat malam.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-004",
+    "kanji": "じゃあ、また",
+    "hiragana": "じゃあ、また",
+    "romaji": "jaa,mata",
+    "meaning": "Sampai jumpa.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-005",
+    "kanji": "おやすみ（なさい）",
+    "hiragana": "おやすみ（なさい）",
+    "romaji": "oyasumi(nasai)",
+    "meaning": "Selamat tidur,  Selamat beristirahat.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-006",
+    "kanji": "失礼します",
+    "hiragana": "しつれいします",
+    "romaji": "shitsureishimasu",
+    "meaning": "Saya permisi,  Saya pamit.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-007",
+    "kanji": "お先に失礼します",
+    "hiragana": "おさきにしつれいします",
+    "romaji": "osakinishitsureishimasu",
+    "meaning": "Permisi, saya duluan.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-008",
+    "kanji": "お疲れさま（でした）",
+    "hiragana": "おつかれさま（でした）",
+    "romaji": "otsukaresama(deshita)",
+    "meaning": "Sampai jumpa, terima kasih atas kerja kerasnya.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-009",
+    "kanji": "これ",
+    "hiragana": "これ",
+    "romaji": "kore",
+    "meaning": "ini",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-010",
+    "kanji": "あめ",
+    "hiragana": "あめ",
+    "romaji": "ame",
+    "meaning": "permen",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-011",
+    "kanji": "プレゼント",
+    "hiragana": "プレゼント",
+    "romaji": "purezento",
+    "meaning": "hadiah",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-012",
+    "kanji": "ありがとうございます",
+    "hiragana": "ありがとうございます",
+    "romaji": "arigatougozaimasu",
+    "meaning": "Terima kasih.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-013",
+    "kanji": "すみません",
+    "hiragana": "すみません",
+    "romaji": "sumimasen",
+    "meaning": "Terima kasih.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-014",
+    "kanji": "（どうも）ありがとう",
+    "hiragana": "（どうも）ありがとう",
+    "romaji": "(doumo)arigatou",
+    "meaning": "Terima kasih banyak.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-015",
+    "kanji": "どうも",
+    "hiragana": "どうも",
+    "romaji": "doumo",
+    "meaning": "Makasih.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-016",
+    "kanji": "落としましたよ",
+    "hiragana": "おとしましたよ",
+    "romaji": "otoshimashitayo",
+    "meaning": "Anda menjatuhkannya.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-017",
+    "kanji": "どうぞ",
+    "hiragana": "どうぞ",
+    "romaji": "douzo",
+    "meaning": "Silakan.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-018",
+    "kanji": "いいえ",
+    "hiragana": "いいえ",
+    "romaji": "iie",
+    "meaning": "Sama-sama.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-019",
+    "kanji": "わあ",
+    "hiragana": "わあ",
+    "romaji": "waa",
+    "meaning": "Wah! (menunjukkan rasa terkejut)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-020",
+    "kanji": "すみません",
+    "hiragana": "すみません",
+    "romaji": "sumimasen",
+    "meaning": "Saya mohon maaf.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-021",
+    "kanji": "ごめん",
+    "hiragana": "ごめん",
+    "romaji": "gomen",
+    "meaning": "Maaf.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-022",
+    "kanji": "痛い！",
+    "hiragana": "いたい！",
+    "romaji": "itai!",
+    "meaning": "Aduh!",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-023",
+    "kanji": "おめでとうございます",
+    "hiragana": "おめでとうございます",
+    "romaji": "omedetougozaimasu",
+    "meaning": "Selamat!",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a1-01-024",
+    "kanji": "わかりました",
+    "hiragana": "わかりました",
+    "romaji": "wakarimashita",
+    "meaning": "Saya mengerti.",
+    "level": "-",
+    "isExtra": false
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "id": "mn-43-001",
+    "kanji": "うまい",
+    "hiragana": "うまい",
+    "romaji": "umai",
+    "meaning": "enak, lezat",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-002",
+    "kanji": "ガソリン",
+    "hiragana": "ガソリン",
+    "romaji": "gasorin",
+    "meaning": "bensin",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-003",
+    "kanji": "つまらない",
+    "hiragana": "つまらない",
+    "romaji": "tsumaranai",
+    "meaning": "tidak menarik, tidak berguna, percuma",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-004",
+    "kanji": "ドライブ",
+    "hiragana": "ドライブ",
+    "romaji": "doraibu",
+    "meaning": "berjalan-jalan dengan mobil",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-005",
+    "kanji": "とれます［ボタンが～］",
+    "hiragana": "とれます",
+    "romaji": "toremasu",
+    "meaning": "[kancing] terlepas",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-006",
+    "kanji": "なくなります［ガソリンが～］",
+    "hiragana": "なくなります",
+    "romaji": "nakunarimasu",
+    "meaning": "[bensin] habis",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-007",
+    "kanji": "ばら",
+    "hiragana": "ばら",
+    "romaji": "bara",
+    "meaning": "bunga mawar",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-008",
+    "kanji": "パンフレット",
+    "hiragana": "パンフレット",
+    "romaji": "panfuretto",
+    "meaning": "pamflet",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-009",
+    "kanji": "まずい",
+    "hiragana": "まずい",
+    "romaji": "mazui",
+    "meaning": "tidak enak, tidak sedap",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-010",
+    "kanji": "わあ",
+    "hiragana": "わあ",
+    "romaji": "waa",
+    "meaning": "Wah!",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-011",
+    "kanji": "下がります［値段が～］",
+    "hiragana": "さがります",
+    "romaji": "sagarimasu",
+    "meaning": "[harga] menurun",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-012",
+    "kanji": "火",
+    "hiragana": "ひ",
+    "romaji": "hi",
+    "meaning": "api",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-013",
+    "kanji": "楽な",
+    "hiragana": "らくな",
+    "romaji": "rakuna",
+    "meaning": "ringan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-014",
+    "kanji": "減ります［輸出が～］",
+    "hiragana": "へります",
+    "romaji": "herimasu",
+    "meaning": "[ekspor] berkurang",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-015",
+    "kanji": "幸せな",
+    "hiragana": "しあわせな",
+    "romaji": "shiawasena",
+    "meaning": "bahagia",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-016",
+    "kanji": "今にも",
+    "hiragana": "いまにも",
+    "romaji": "imanimo",
+    "meaning": "sekarang juga (dipakai untuk menggambarkan kondisi persis akan terjadi perubahan)",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-017",
+    "kanji": "謝ります",
+    "hiragana": "あやまります",
+    "romaji": "ayamarimasu",
+    "meaning": "memohon maaf",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-018",
+    "kanji": "上がります［値段が～］",
+    "hiragana": "あがります",
+    "romaji": "agarimasu",
+    "meaning": "[harga] meningkat",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-019",
+    "kanji": "切れます［ひもが～］",
+    "hiragana": "きれます",
+    "romaji": "kiremasu",
+    "meaning": "[tali] terputus",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-020",
+    "kanji": "増えます［輸出が～］",
+    "hiragana": "ふえます",
+    "romaji": "fuemasu",
+    "meaning": "[ekspor] bertambah",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-021",
+    "kanji": "知り合います",
+    "hiragana": "しりあいます",
+    "romaji": "shiriaimasu",
+    "meaning": "berkenalan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-022",
+    "kanji": "変な",
+    "hiragana": "へんな",
+    "romaji": "henna",
+    "meaning": "aneh",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-023",
+    "kanji": "優しい",
+    "hiragana": "やさしい",
+    "romaji": "yasashii",
+    "meaning": "baik hati",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-024",
+    "kanji": "落ちます［荷物が～］",
+    "hiragana": "おちます",
+    "romaji": "ochimasu",
+    "meaning": "[barang] terjatuh",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-025",
+    "kanji": "理由",
+    "hiragana": "りゆう",
+    "romaji": "riyuu",
+    "meaning": "alasan",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-43-026",
+    "kanji": "おとなしい",
+    "hiragana": "おとなしい",
+    "romaji": "otonashii",
+    "meaning": "pendiam",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-43-027",
+    "kanji": "ふまじめな",
+    "hiragana": "ふまじめな",
+    "romaji": "fumajimena",
+    "meaning": "tidak serius, sembrono",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-43-028",
+    "kanji": "まじめな",
+    "hiragana": "まじめな",
+    "romaji": "majimena",
+    "meaning": "serius, tekun",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-43-029",
+    "kanji": "わがままな",
+    "hiragana": "わがままな",
+    "romaji": "wagamamana",
+    "meaning": "egois",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-43-030",
+    "kanji": "暗い",
+    "hiragana": "くらい",
+    "romaji": "kurai",
+    "meaning": "muram",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-43-031",
+    "kanji": "意地悪な",
+    "hiragana": "いじわるな",
+    "romaji": "ijiwaruna",
+    "meaning": "jahat",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-43-032",
+    "kanji": "活発な",
+    "hiragana": "かっぱつな",
+    "romaji": "kappatsuna",
+    "meaning": "aktif, giat",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-43-033",
+    "kanji": "頑固な",
+    "hiragana": "がんこな",
+    "romaji": "gankona",
+    "meaning": "keras kepala",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-43-034",
+    "kanji": "気が強い",
+    "hiragana": "きがつよい",
+    "romaji": "kigatsuyoi",
+    "meaning": "bersifat keras, galak",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-43-035",
+    "kanji": "気が弱い",
+    "hiragana": "きがよわい",
+    "romaji": "kigayowai",
+    "meaning": "penakut",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-43-036",
+    "kanji": "気が短い",
+    "hiragana": "きがみじかい",
+    "romaji": "kigamijikai",
+    "meaning": "tidak sabar, cepat marah",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-43-037",
+    "kanji": "気が長い",
+    "hiragana": "きがながい",
+    "romaji": "kiganagai",
+    "meaning": "kalem",
+    "level": "N5",
+    "importinity": 2
+  },
+  {
+    "id": "mn-43-038",
+    "kanji": "厳しい",
+    "hiragana": "きびしい",
+    "romaji": "kibishii",
+    "meaning": "keras, disiplin",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-43-039",
+    "kanji": "勝ち気な",
+    "hiragana": "かちきな",
+    "romaji": "kachikina",
+    "meaning": "tidak mau kalah",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-43-040",
+    "kanji": "神経質な",
+    "hiragana": "しんけいしつな",
+    "romaji": "shinkeishitsuna",
+    "meaning": "gelisah, gugup",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-43-041",
+    "kanji": "誠実な",
+    "hiragana": "せいじつな",
+    "romaji": "seijitsuna",
+    "meaning": "setia",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-43-042",
+    "kanji": "素直な",
+    "hiragana": "すなおな",
+    "romaji": "sunaona",
+    "meaning": "penurut, lemah-lembut",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-43-043",
+    "kanji": "明るい",
+    "hiragana": "あかるい",
+    "romaji": "akarui",
+    "meaning": "ceria",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-43-044",
+    "kanji": "冷たい",
+    "hiragana": "つめたい",
+    "romaji": "tsumetai",
+    "meaning": "kaku",
+    "level": "N3",
+    "importinity": 2
+  }
+]

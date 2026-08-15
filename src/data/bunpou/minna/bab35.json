@@ -1,0 +1,99 @@
+[
+  {
+    "id": "m_bab35_1",
+    "chapter": "Bab 35",
+    "source": "minna",
+    "title": "条件形（～ば／～なら）",
+    "romajiTitle": "Joukenkei (~ba / ~nara)",
+    "meaning": "Pola kalimat ini menyatakan syarat yang diperlukan untuk mencapai hal-hal pada bagian belakang (klausa pokok). Dapat juga digunakan untuk merespon perkataan lawan bicara atau suatu keadaan untuk menyatakan keputusan si pembicara (Kalau/Jika...).",
+    "formula": "Gol I: ~[e]ば | Gol II: ~れば | Gol III: すれば, くれば | Kata Sifat-i: ~ければ | Kata Sifat-na / Kata Benda: ~なら | Negatif: ~なければ",
+    "examples": [
+      {
+        "jp": "ボタンを押せば、窓が開きます。",
+        "romaji": "Botan o oseba, mado ga akimasu.",
+        "id_translation": "Kalau menekan tombol, jendelanya terbuka."
+      },
+      {
+        "jp": "彼が行けば、わたしも行きます。",
+        "romaji": "Kare ga ikeba, watashi mo ikimasu.",
+        "id_translation": "Kalau dia pergi, saya juga pergi."
+      },
+      {
+        "jp": "あした都合がよければ、来てください。",
+        "romaji": "Ashita tsugou ga yokereba, kite kudasai.",
+        "id_translation": "Jika besok ada waktu, silakan datang."
+      },
+      {
+        "jp": "いい天気なら、向こうに島が見えます。",
+        "romaji": "Ii tenki nara, mukou ni shima ga miemasu.",
+        "id_translation": "Kalau cuaca baik, terlihat pulau di sebelah sana."
+      },
+      {
+        "jp": "ボールペンがないんですが。……ボールペンがなければ、鉛筆で書いてください。",
+        "romaji": "Boorupen ga nain desu ga. ......Boorupen ga nakereba, enpitsu de kaite kudasai.",
+        "id_translation": "Tidak ada bolpoin... ……Kalau tidak ada bolpoin, silakan tulis dengan pensil."
+      }
+    ],
+    "notes": "Pada dasarnya, pada bagian klausa pokok (belakang) tidak dapat diletakkan ekspresi keinginan, harapan, perintah, atau permintaan. TETAPI, pengecualian jika subjek klausa awal dan belakang berbeda, atau predikat awal berupa 'keadaan' (seperti ない, あります, Kata Sifat), maka ekspresi tersebut boleh digunakan. Berbeda dengan ~と (urutan pasti alami) dan ~たら (pengandaian bebas).",
+    "tags": ["N4", "Syarat/Pengandaian", "Kata Kerja/Sifat"]
+  },
+  {
+    "id": "m_bab35_2",
+    "chapter": "Bab 35",
+    "source": "minna",
+    "title": "疑問詞 ＋ 条件形 いいですか",
+    "romajiTitle": "Gimonshi + Joukenkei ii desu ka",
+    "meaning": "Ekspresi untuk meminta masukan atau petunjuk dari lawan bicara (Sebaiknya saya... / Bagaimana caranya...). Maknanya sama dengan pola ~たらいいですか.",
+    "formula": "Kata Tanya + Kata Kerja (Bentuk Syarat ~ば) + いいですか",
+    "examples": [
+      {
+        "jp": "本を借りたいんですが、どうすればいいですか。",
+        "romaji": "Hon o karitain desu ga, dou sureba ii desu ka.",
+        "id_translation": "Ingin meminjam buku, bagaimana caranya?"
+      },
+      {
+        "jp": "本を借りたいんですが、どうしたらいいですか。",
+        "romaji": "Hon o karitain desu ga, dou shitara ii desu ka.",
+        "id_translation": "Ingin meminjam buku, bagaimana caranya? (Pel.26)"
+      }
+    ],
+    "notes": "どうすればいいですか adalah bentuk lain dari どうしたらいいですか dan keduanya memiliki arti serta penggunaan yang sama persis.",
+    "tags": ["N4", "Pola Kalimat", "Meminta Saran"]
+  },
+  {
+    "id": "m_bab35_3",
+    "chapter": "Bab 35",
+    "source": "minna",
+    "title": "名詞 なら、～",
+    "romajiTitle": "Meishi nara, ~",
+    "meaning": "Digunakan jika merespon perkataan/topik dari lawan bicara, kemudian memberikan informasi, rekomendasi, atau saran mengenai hal tersebut.",
+    "formula": "Kata Benda + なら、～",
+    "examples": [
+      {
+        "jp": "温泉に行きたいんですが、どこがいいですか。……温泉なら、白馬がいいですよ。",
+        "romaji": "Onsen ni ikitain desu ga, doko ga ii desu ka. ......Onsen nara, Hakuba ga ii desu yo.",
+        "id_translation": "Ingin pergi ke permandian air panas, yang bagus di mana? ……Kalau permandian air panas, Hakuba yang bagus."
+      }
+    ],
+    "notes": "",
+    "tags": ["N4", "Partikel", "Saran/Topik"]
+  },
+  {
+    "id": "m_bab35_4",
+    "chapter": "Bab 35",
+    "source": "minna",
+    "title": "～は ありませんか (Kalimat Tanya Negatif)",
+    "romajiTitle": "~wa arimasen ka",
+    "meaning": "Bentuk tanya negatif yang digunakan untuk menanyakan keberadaan sesuatu secara halus. Artinya sama dengan \"～はありますか\" (Apakah ada?), tetapi bertanya dengan \"～はありませんか\" dianggap cara bertanya yang menjaga perasaan lawan bicara (tidak menuntut).",
+    "formula": "Kata Benda + はありませんか",
+    "examples": [
+      {
+        "jp": "2、3日旅行をしようと思っているんですが、どこかいい所はありませんか。",
+        "romaji": "Ni, sannichi ryokou o shiyou to omotte irun desu ga, dokoka ii tokoro wa arimasen ka.",
+        "id_translation": "Saya pikir mau berjalan-jalan selama dua, tiga hari, apakah ada tempat yang Anda rekomendasikan?"
+      }
+    ],
+    "notes": "Ketika menjawab pertanyaan bentuk ini, cukup menggunakan はい、あります (Ya, ada) atau いいえ、ありません (Tidak, tidak ada).",
+    "tags": ["N4", "Pola Kalimat", "Pertanyaan Sopan"]
+  }
+]

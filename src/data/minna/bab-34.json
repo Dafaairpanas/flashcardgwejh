@@ -1,0 +1,893 @@
+[
+  {
+    "id": "mn-34-001",
+    "kanji": "［お］城",
+    "hiragana": "［お］しろ",
+    "romaji": "[o]shiro",
+    "meaning": "istana",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-002",
+    "kanji": "～か～",
+    "hiragana": "～か～",
+    "romaji": "~ka~",
+    "meaning": "~ atau ~",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-003",
+    "kanji": "ーグラム",
+    "hiragana": "ーグラム",
+    "romaji": "-guramu",
+    "meaning": "ー gram",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-004",
+    "kanji": "ー個",
+    "hiragana": "ーこ",
+    "romaji": "-ko",
+    "meaning": "ー buah (Kata Bilangan untuk menghitung benda yang kecil)",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-005",
+    "kanji": "ー分",
+    "hiragana": "ーぶん",
+    "romaji": "-bun",
+    "meaning": "untuk - (menyatakan jumlah) porsi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-006",
+    "kanji": "４分の１（1/4）",
+    "hiragana": "よんぶんのいち",
+    "romaji": "yonbunnoichi",
+    "meaning": "seperempat",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-007",
+    "kanji": "いかがですか。",
+    "hiragana": "いかがですか。",
+    "romaji": "ikagadesuka.",
+    "meaning": "Bagaimana?",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-008",
+    "kanji": "お客［さん］",
+    "hiragana": "おきゃく［さん］",
+    "romaji": "okyaku[san]",
+    "meaning": "tamu",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-009",
+    "kanji": "お茶をたてます",
+    "hiragana": "おちゃをたてます",
+    "romaji": "ochawotatemasu",
+    "meaning": "membuat teh pada upacara minum teh",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-010",
+    "kanji": "これでいいですか。",
+    "hiragana": "これでいいですか。",
+    "romaji": "koredeiidesuka.",
+    "meaning": "Boleh begini?",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-011",
+    "kanji": "さします［傘を～］",
+    "hiragana": "さします",
+    "romaji": "sashimasu",
+    "meaning": "memakai [payung], berpayung",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-012",
+    "kanji": "さっき",
+    "hiragana": "さっき",
+    "romaji": "sakki",
+    "meaning": "tadi",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-013",
+    "kanji": "しょうゆ",
+    "hiragana": "しょうゆ",
+    "romaji": "shouyu",
+    "meaning": "kecap asin",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-014",
+    "kanji": "スポーツクラブ",
+    "hiragana": "スポーツクラブ",
+    "romaji": "supootsukurabu",
+    "meaning": "sports club",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-015",
+    "kanji": "ソース",
+    "hiragana": "ソース",
+    "romaji": "soosu",
+    "meaning": "kecap Inggris, kecap saos putih",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-016",
+    "kanji": "たちます",
+    "hiragana": "たちます",
+    "romaji": "tachimasu",
+    "meaning": "lewat, berlalu",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-017",
+    "kanji": "たまねぎ",
+    "hiragana": "たまねぎ",
+    "romaji": "tamanegi",
+    "meaning": "bawang bombai",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-018",
+    "kanji": "つけます［しょうゆを～］",
+    "hiragana": "つけます",
+    "romaji": "tsukemasu",
+    "meaning": "membubuhkan [kecap asin]",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-019",
+    "kanji": "どんぶり",
+    "hiragana": "どんぶり",
+    "romaji": "donburi",
+    "meaning": "mangkuk",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-020",
+    "kanji": "なべ",
+    "hiragana": "なべ",
+    "romaji": "nabe",
+    "meaning": "panci",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-021",
+    "kanji": "ゆうべ",
+    "hiragana": "ゆうべ",
+    "romaji": "yuube",
+    "meaning": "tadi malam",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-022",
+    "kanji": "黄色",
+    "hiragana": "きいろ",
+    "romaji": "kiiro",
+    "meaning": "kuning (kata benda)",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-023",
+    "kanji": "火",
+    "hiragana": "ひ",
+    "romaji": "hi",
+    "meaning": "api",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-024",
+    "kanji": "火にかけます",
+    "hiragana": "ひにかけます",
+    "romaji": "hinikakemasu",
+    "meaning": "memasak, memanaskan, menaruh di atas api",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-025",
+    "kanji": "気がつきます［忘れ物に～］",
+    "hiragana": "きがつきます",
+    "romaji": "kigatsukimasu",
+    "meaning": "teringat [barang ketinggalan]",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-026",
+    "kanji": "苦い",
+    "hiragana": "にがい",
+    "romaji": "nigai",
+    "meaning": "pahit",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-027",
+    "kanji": "見つかります［かぎが～］",
+    "hiragana": "みつかります",
+    "romaji": "mitsukarimasu",
+    "meaning": "[kunci] ditemukan",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-028",
+    "kanji": "黒",
+    "hiragana": "くろ",
+    "romaji": "kuro",
+    "meaning": "hitam (kata benda)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-029",
+    "kanji": "紺",
+    "hiragana": "こん",
+    "romaji": "kon",
+    "meaning": "biru tua (kata benda)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-030",
+    "kanji": "載せます",
+    "hiragana": "のせます",
+    "romaji": "nosemasu",
+    "meaning": "memuatkan",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-031",
+    "kanji": "材料",
+    "hiragana": "ざいりょう",
+    "romaji": "zairyou",
+    "meaning": "bahan",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-032",
+    "kanji": "質問します",
+    "hiragana": "しつもんします",
+    "romaji": "shitsumonshimasu",
+    "meaning": "bertanya",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-033",
+    "kanji": "煮えます",
+    "hiragana": "にえます",
+    "romaji": "niemasu",
+    "meaning": "telah matang",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-034",
+    "kanji": "煮ます",
+    "hiragana": "にます",
+    "romaji": "nimasu",
+    "meaning": "merebus",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-035",
+    "kanji": "親子どんぶり",
+    "hiragana": "おやこどんぶり",
+    "romaji": "oyakodonburi",
+    "meaning": "Oyakodonburi (nama menu, daging ayam masak bersama telur dan disiram di atas nasi putih)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-036",
+    "kanji": "図",
+    "hiragana": "ず",
+    "romaji": "zu",
+    "meaning": "gambar",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-037",
+    "kanji": "青",
+    "hiragana": "あお",
+    "romaji": "ao",
+    "meaning": "biru (kata benda)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-038",
+    "kanji": "赤",
+    "hiragana": "あか",
+    "romaji": "aka",
+    "meaning": "merah (kata benda)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-039",
+    "kanji": "折ります",
+    "hiragana": "おります",
+    "romaji": "orimasu",
+    "meaning": "melipat",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-040",
+    "kanji": "説明書",
+    "hiragana": "せつめいしょ",
+    "romaji": "setsumeisho",
+    "meaning": "petunjuk",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-041",
+    "kanji": "先に",
+    "hiragana": "さきに",
+    "romaji": "sakini",
+    "meaning": "duluan",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-042",
+    "kanji": "線",
+    "hiragana": "せん",
+    "romaji": "sen",
+    "meaning": "garis",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-043",
+    "kanji": "組み立てます",
+    "hiragana": "くみたてます",
+    "romaji": "kumitatemasu",
+    "meaning": "memasang",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-044",
+    "kanji": "茶色",
+    "hiragana": "ちゃいろ",
+    "romaji": "chairo",
+    "meaning": "coklat (kata benda)",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-045",
+    "kanji": "茶道",
+    "hiragana": "さどう",
+    "romaji": "sadou",
+    "meaning": "upacara teh",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-046",
+    "kanji": "調味料",
+    "hiragana": "ちょうみりょう",
+    "romaji": "choumiryou",
+    "meaning": "bumbu",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-047",
+    "kanji": "適当な大きさに",
+    "hiragana": "てきとうなおおきさに",
+    "romaji": "tekitounaookisani",
+    "meaning": "ukuran sedang",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-048",
+    "kanji": "白",
+    "hiragana": "しろ",
+    "romaji": "shiro",
+    "meaning": "putih (kata benda)",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-049",
+    "kanji": "磨きます［歯を～］",
+    "hiragana": "みがきます",
+    "romaji": "migakimasu",
+    "meaning": "menggosok [gigi]",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-050",
+    "kanji": "矢印",
+    "hiragana": "やじるし",
+    "romaji": "yajirushi",
+    "meaning": "tanda panah (aksara)",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-34-051",
+    "kanji": "いためる",
+    "hiragana": "いためる",
+    "romaji": "itameru",
+    "meaning": "menumis",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-052",
+    "kanji": "おたま",
+    "hiragana": "おたま",
+    "romaji": "otama",
+    "meaning": "sendok sayur",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-053",
+    "kanji": "かき混ぜる",
+    "hiragana": "かきまぜる",
+    "romaji": "kakimazeru",
+    "meaning": "mengaduk, mencampur",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-054",
+    "kanji": "ガス台",
+    "hiragana": "ガスだい",
+    "romaji": "gasudai",
+    "meaning": "kompor gas",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-055",
+    "kanji": "からし（マスタード）",
+    "hiragana": "からし（マスタード）",
+    "romaji": "karashi(masutaado)",
+    "meaning": "mustard",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-056",
+    "kanji": "カレー粉",
+    "hiragana": "カレーこ",
+    "romaji": "kareeko",
+    "meaning": "tepung kare",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-057",
+    "kanji": "キー",
+    "hiragana": "キー",
+    "romaji": "kii",
+    "meaning": "Kunci, tombol",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-058",
+    "kanji": "ケチャップ",
+    "hiragana": "ケチャップ",
+    "romaji": "kechappu",
+    "meaning": "saus tomat",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-059",
+    "kanji": "こしょう",
+    "hiragana": "こしょう",
+    "romaji": "koshou",
+    "meaning": "merica",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-060",
+    "kanji": "ざる",
+    "hiragana": "ざる",
+    "romaji": "zaru",
+    "meaning": "saringan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-061",
+    "kanji": "シートベルト",
+    "hiragana": "シートベルト",
+    "romaji": "shiitoberuto",
+    "meaning": "Sabuk pengaman",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-062",
+    "kanji": "しゃもじ",
+    "hiragana": "しゃもじ",
+    "romaji": "shamoji",
+    "meaning": "sendok nasi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-063",
+    "kanji": "しょうが",
+    "hiragana": "しょうが",
+    "romaji": "shouga",
+    "meaning": "jahe",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-064",
+    "kanji": "とうがらし",
+    "hiragana": "とうがらし",
+    "romaji": "tougarashi",
+    "meaning": "cabai",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-065",
+    "kanji": "ふきん",
+    "hiragana": "ふきん",
+    "romaji": "fukin",
+    "meaning": "kain lap",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-066",
+    "kanji": "ふた",
+    "hiragana": "ふた",
+    "romaji": "futa",
+    "meaning": "tutup",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-067",
+    "kanji": "フライパン",
+    "hiragana": "フライパン",
+    "romaji": "furaipan",
+    "meaning": "penggorengan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-068",
+    "kanji": "ポット",
+    "hiragana": "ポット",
+    "romaji": "potto",
+    "meaning": "termos",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-069",
+    "kanji": "まな板",
+    "hiragana": "まないた",
+    "romaji": "manaita",
+    "meaning": "talenan",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-070",
+    "kanji": "マヨネーズ",
+    "hiragana": "マヨネーズ",
+    "romaji": "mayoneezu",
+    "meaning": "mayonese",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-071",
+    "kanji": "みそ",
+    "hiragana": "みそ",
+    "romaji": "miso",
+    "meaning": "miso, tauco",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-072",
+    "kanji": "むく",
+    "hiragana": "むく",
+    "romaji": "muku",
+    "meaning": "mengupas",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-073",
+    "kanji": "やかん",
+    "hiragana": "やかん",
+    "romaji": "yakan",
+    "meaning": "ceret, ketel",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-074",
+    "kanji": "ゆでる",
+    "hiragana": "ゆでる",
+    "romaji": "yuderu",
+    "meaning": "memasak, merebus",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-075",
+    "kanji": "わさび",
+    "hiragana": "わさび",
+    "romaji": "wasabi",
+    "meaning": "wasabi (lobak hijau Jepang)",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-076",
+    "kanji": "塩",
+    "hiragana": "しお",
+    "romaji": "shio",
+    "meaning": "garam",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-077",
+    "kanji": "家具",
+    "hiragana": "かぐ",
+    "romaji": "kagu",
+    "meaning": "Perabot rumah tangga",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-078",
+    "kanji": "換気扇",
+    "hiragana": "かんきせん",
+    "romaji": "kankisen",
+    "meaning": "kipas ventilasi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-079",
+    "kanji": "缶切り",
+    "hiragana": "かんきり",
+    "romaji": "kankiri",
+    "meaning": "pembuka kaleng",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-080",
+    "kanji": "鶏肉",
+    "hiragana": "とりにく",
+    "romaji": "toriniku",
+    "meaning": "Daging ayam",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-081",
+    "kanji": "刻む",
+    "hiragana": "きざむ",
+    "romaji": "kizamu",
+    "meaning": "mencincang",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-082",
+    "kanji": "砂糖",
+    "hiragana": "さとう",
+    "romaji": "satou",
+    "meaning": "gula",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-083",
+    "kanji": "細い",
+    "hiragana": "ほそい",
+    "romaji": "hosoi",
+    "meaning": "Tipis, kecil",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-084",
+    "kanji": "煮る",
+    "hiragana": "にる",
+    "romaji": "niru",
+    "meaning": "merebus",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-085",
+    "kanji": "焼く",
+    "hiragana": "やく",
+    "romaji": "yaku",
+    "meaning": "membakar, memanggang",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-086",
+    "kanji": "蒸す",
+    "hiragana": "むす",
+    "romaji": "musu",
+    "meaning": "mengukus",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-087",
+    "kanji": "酢",
+    "hiragana": "す",
+    "romaji": "su",
+    "meaning": "cuka",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-088",
+    "kanji": "炊く",
+    "hiragana": "たく",
+    "romaji": "taku",
+    "meaning": "memasak nasi/menanak nasi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-089",
+    "kanji": "炊飯器",
+    "hiragana": "すいはんき",
+    "romaji": "suihanki",
+    "meaning": "rice cooker",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-090",
+    "kanji": "栓抜き",
+    "hiragana": "せんぬき",
+    "romaji": "sennuki",
+    "meaning": "pembuka botol",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-091",
+    "kanji": "太い",
+    "hiragana": "ふとい",
+    "romaji": "futoi",
+    "meaning": "Tebal, besar",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-092",
+    "kanji": "台所用品",
+    "hiragana": "だいどころようひん",
+    "romaji": "daidokoroyouhin",
+    "meaning": "peralatan dapur",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-093",
+    "kanji": "電子オーブンレンジ",
+    "hiragana": "でんしオーブンレンジ",
+    "romaji": "denshioobunrenji",
+    "meaning": "microwave oven",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-094",
+    "kanji": "包丁",
+    "hiragana": "ほうちょう",
+    "romaji": "houchou",
+    "meaning": "pisau",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-095",
+    "kanji": "盆踊り",
+    "hiragana": "ぼんおどり",
+    "romaji": "bon'odori",
+    "meaning": "Tarian pada festival bon",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-096",
+    "kanji": "油",
+    "hiragana": "あぶら",
+    "romaji": "abura",
+    "meaning": "minyak, lemak",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-097",
+    "kanji": "揚げる",
+    "hiragana": "あげる",
+    "romaji": "ageru",
+    "meaning": "menggoreng",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-098",
+    "kanji": "流し［台］",
+    "hiragana": "ながし［だい］",
+    "romaji": "nagashi[dai]",
+    "meaning": "bak cuci piring",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-34-099",
+    "kanji": "料理",
+    "hiragana": "りょうり",
+    "romaji": "ryouri",
+    "meaning": "masakan",
+    "level": "N5",
+    "importinity": 2
+  }
+]

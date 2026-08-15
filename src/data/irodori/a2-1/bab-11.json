@@ -1,0 +1,830 @@
+[
+  {
+    "id": "ir-a2-1-11-001",
+    "kanji": "バーベキュー",
+    "hiragana": "バーベキュー",
+    "romaji": "baabekyuu",
+    "meaning": "barbeku,  BBQ",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-002",
+    "kanji": "肉",
+    "hiragana": "にく",
+    "romaji": "niku",
+    "meaning": "daging",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-003",
+    "kanji": "牛肉",
+    "hiragana": "ぎゅうにく",
+    "romaji": "gyuuniku",
+    "meaning": "daging sapi",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-004",
+    "kanji": "豚肉",
+    "hiragana": "ぶたにく",
+    "romaji": "butaniku",
+    "meaning": "daging babi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-005",
+    "kanji": "鶏肉",
+    "hiragana": "とりにく",
+    "romaji": "toriniku",
+    "meaning": "daging ayam",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-006",
+    "kanji": "ソーセージ",
+    "hiragana": "ソーセージ",
+    "romaji": "sooseeji",
+    "meaning": "sosis",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-007",
+    "kanji": "シーフード",
+    "hiragana": "シーフード",
+    "romaji": "shiifuudo",
+    "meaning": "makanan laut,  seafood",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-008",
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "romaji": "sakana",
+    "meaning": "ikan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-009",
+    "kanji": "エビ",
+    "hiragana": "エビ",
+    "romaji": "ebi",
+    "meaning": "udang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-010",
+    "kanji": "イカ",
+    "hiragana": "イカ",
+    "romaji": "ika",
+    "meaning": "cumi-cumi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-011",
+    "kanji": "ホタテ",
+    "hiragana": "ホタテ",
+    "romaji": "hotate",
+    "meaning": "kerang,  simping",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-012",
+    "kanji": "りんご",
+    "hiragana": "りんご",
+    "romaji": "ringo",
+    "meaning": "apel",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-013",
+    "kanji": "バナナ",
+    "hiragana": "バナナ",
+    "romaji": "banana",
+    "meaning": "pisang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-014",
+    "kanji": "焼きそば",
+    "hiragana": "やきそば",
+    "romaji": "yakisoba",
+    "meaning": "yakisoba (mie goreng)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-015",
+    "kanji": "おにぎり",
+    "hiragana": "おにぎり",
+    "romaji": "onigiri",
+    "meaning": "onigiri (rice ball,  nasi kepal)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-016",
+    "kanji": "焼肉",
+    "hiragana": "やきにく",
+    "romaji": "yakiniku",
+    "meaning": "yakiniku (daging panggang khas Jepang)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-017",
+    "kanji": "たれ",
+    "hiragana": "たれ",
+    "romaji": "tare",
+    "meaning": "tare (saus celup,  saus cocol)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-018",
+    "kanji": "ソース",
+    "hiragana": "ソース",
+    "romaji": "soosu",
+    "meaning": "saus",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-019",
+    "kanji": "お菓子",
+    "hiragana": "おかし",
+    "romaji": "okashi",
+    "meaning": "kue",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-020",
+    "kanji": "ソフトドリンク",
+    "hiragana": "ソフトドリンク",
+    "romaji": "sofutodorinku",
+    "meaning": "soft drink,  minuman ringan (tanpa alkohol)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-021",
+    "kanji": "お茶",
+    "hiragana": "おちゃ",
+    "romaji": "ocha",
+    "meaning": "teh,  teh khas Jepang",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-022",
+    "kanji": "ジュース",
+    "hiragana": "ジュース",
+    "romaji": "juusu",
+    "meaning": "jus",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-023",
+    "kanji": "お酒",
+    "hiragana": "おさけ",
+    "romaji": "osake",
+    "meaning": "alkohol",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-024",
+    "kanji": "ビール",
+    "hiragana": "ビール",
+    "romaji": "biiru",
+    "meaning": "bir",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-025",
+    "kanji": "ワイン",
+    "hiragana": "ワイン",
+    "romaji": "wain",
+    "meaning": "anggur",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-026",
+    "kanji": "日本酒",
+    "hiragana": "にほんしゅ",
+    "romaji": "nihonshu",
+    "meaning": "sake (minuman beralkohol khas Jepang hasil fermentasi beras)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-027",
+    "kanji": "焼酎",
+    "hiragana": "しょうちゅう",
+    "romaji": "shouchuu",
+    "meaning": "shochu (minuman beralkohol khas Jepang yang dibuat dengan proses penyulingan)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-028",
+    "kanji": "コップ",
+    "hiragana": "コップ",
+    "romaji": "koppu",
+    "meaning": "cangkir",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-029",
+    "kanji": "お皿",
+    "hiragana": "おさら",
+    "romaji": "osara",
+    "meaning": "piring",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-030",
+    "kanji": "割りばし",
+    "hiragana": "わりばし",
+    "romaji": "waribashi",
+    "meaning": "sumpit kayu sekali pakai",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-031",
+    "kanji": "ごみ袋",
+    "hiragana": "ごみぶくろ",
+    "romaji": "gomibukuro",
+    "meaning": "kantong sampah",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-032",
+    "kanji": "準備",
+    "hiragana": "じゅんび",
+    "romaji": "junbi",
+    "meaning": "persiapan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-033",
+    "kanji": "持って行く",
+    "hiragana": "もっていく",
+    "romaji": "motteiku",
+    "meaning": "membawa,  pergi dengan membawa~",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-034",
+    "kanji": "手伝う",
+    "hiragana": "てつだう",
+    "romaji": "tetsudau",
+    "meaning": "membantu",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-035",
+    "kanji": "飲み物",
+    "hiragana": "のみもの",
+    "romaji": "nomimono",
+    "meaning": "minuman",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-036",
+    "kanji": "バーベキュー場",
+    "hiragana": "バーベキューじょう",
+    "romaji": "baabekyuujou",
+    "meaning": "area pesta barbeku",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-037",
+    "kanji": "デザート",
+    "hiragana": "デザート",
+    "romaji": "dezaato",
+    "meaning": "makanan pencuci mulut",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-038",
+    "kanji": "焼く",
+    "hiragana": "やく",
+    "romaji": "yaku",
+    "meaning": "bakar,  panggang",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-039",
+    "kanji": "からあげ",
+    "hiragana": "からあげ",
+    "romaji": "karaage",
+    "meaning": "karaage (ayam goreng khas Jepang)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-040",
+    "kanji": "焼き鳥",
+    "hiragana": "やきとり",
+    "romaji": "yakitori",
+    "meaning": "yakitori (sate ayam khas Jepang)",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-041",
+    "kanji": "塩",
+    "hiragana": "しお",
+    "romaji": "shio",
+    "meaning": "garam",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-042",
+    "kanji": "紅茶",
+    "hiragana": "こうちゃ",
+    "romaji": "koucha",
+    "meaning": "teh hitam",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-043",
+    "kanji": "ウーロン茶",
+    "hiragana": "ウーロンちゃ",
+    "romaji": "uuroncha",
+    "meaning": "teh oolong",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-044",
+    "kanji": "チョコレートケーキ",
+    "hiragana": "チョコレートケーキ",
+    "romaji": "chokoreetokeeki",
+    "meaning": "kue cokelat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-045",
+    "kanji": "チーズケーキ",
+    "hiragana": "チーズケーキ",
+    "romaji": "chiizukeeki",
+    "meaning": "kue keju",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-046",
+    "kanji": "どっち",
+    "hiragana": "どっち",
+    "romaji": "dotchi",
+    "meaning": "yang mana (kata tanya bentuk informal untuk memilih antara 2 pilihan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-047",
+    "kanji": "どれ",
+    "hiragana": "どれ",
+    "romaji": "dore",
+    "meaning": "yang mana (kata tanya untuk memilih antara 3 pilihan atau lebih)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-048",
+    "kanji": "売る",
+    "hiragana": "うる",
+    "romaji": "uru",
+    "meaning": "menjual",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-049",
+    "kanji": "双方",
+    "hiragana": "りょうほう",
+    "romaji": "ryouhou",
+    "meaning": "keduanya",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-050",
+    "kanji": "アレルギー",
+    "hiragana": "アレルギー",
+    "romaji": "arerugii",
+    "meaning": "alergi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-051",
+    "kanji": "エビ",
+    "hiragana": "エビ",
+    "romaji": "ebi",
+    "meaning": "udang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-052",
+    "kanji": "カニ",
+    "hiragana": "カニ",
+    "romaji": "kani",
+    "meaning": "kepiting",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-053",
+    "kanji": "卵",
+    "hiragana": "たまご",
+    "romaji": "tamago",
+    "meaning": "telur",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-054",
+    "kanji": "ピーナッツ",
+    "hiragana": "ピーナッツ",
+    "romaji": "piinattsu",
+    "meaning": "kacang-kacangan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-055",
+    "kanji": "落花生",
+    "hiragana": "らっかせい",
+    "romaji": "rakkasei",
+    "meaning": "kacang tanah",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-056",
+    "kanji": "そば粉",
+    "hiragana": "そばこ",
+    "romaji": "sobako",
+    "meaning": "tepung soba",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-057",
+    "kanji": "小麦",
+    "hiragana": "こむぎ",
+    "romaji": "komugi",
+    "meaning": "gandum",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-058",
+    "kanji": "小麦粉",
+    "hiragana": "こむぎこ",
+    "romaji": "komugiko",
+    "meaning": "tepung gandum,  tepung terigu",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-059",
+    "kanji": "乳製品",
+    "hiragana": "にゅうせいひん",
+    "romaji": "nyuuseihin",
+    "meaning": "produk susu",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-060",
+    "kanji": "牛乳",
+    "hiragana": "ぎゅうにゅう",
+    "romaji": "gyuunyuu",
+    "meaning": "susu",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-061",
+    "kanji": "バター",
+    "hiragana": "バター",
+    "romaji": "bataa",
+    "meaning": "mentega",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-062",
+    "kanji": "チーズ",
+    "hiragana": "チーズ",
+    "romaji": "chiizu",
+    "meaning": "keju",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-063",
+    "kanji": "ヨーグルト",
+    "hiragana": "ヨーグルト",
+    "romaji": "yooguruto",
+    "meaning": "yoghurt",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-064",
+    "kanji": "材料",
+    "hiragana": "ざいりょう",
+    "romaji": "zairyou",
+    "meaning": "bahan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-065",
+    "kanji": "ハラル",
+    "hiragana": "ハラル",
+    "romaji": "hararu",
+    "meaning": "halal (bahan makanan dan masakan yang boleh dikonsumsi oleh orang muslim)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-066",
+    "kanji": "消費期限",
+    "hiragana": "しょうひきげん",
+    "romaji": "shouhikigen",
+    "meaning": "tanggal kedaluwarsa",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-067",
+    "kanji": "ピザ",
+    "hiragana": "ピザ",
+    "romaji": "piza",
+    "meaning": "piza",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-068",
+    "kanji": "入っている",
+    "hiragana": "はいている",
+    "romaji": "haiteiru",
+    "meaning": "mengandung",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-069",
+    "kanji": "よかったら",
+    "hiragana": "よかったら",
+    "romaji": "yokattara",
+    "meaning": "kalau (Anda) mau",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-070",
+    "kanji": "もつ",
+    "hiragana": "もつ",
+    "romaji": "motsu",
+    "meaning": "tahan, awet",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-071",
+    "kanji": "今日中に",
+    "hiragana": "きょうじゅうに",
+    "romaji": "kyoujuuni",
+    "meaning": "hari ini",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-072",
+    "kanji": "コーナー",
+    "hiragana": "コーナー",
+    "romaji": "koonaa",
+    "meaning": "bagian,  pojok",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-073",
+    "kanji": "商品",
+    "hiragana": "しょうひん",
+    "romaji": "shouhin",
+    "meaning": "produk",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-074",
+    "kanji": "すべて",
+    "hiragana": "すべて",
+    "romaji": "subete",
+    "meaning": "semua",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-075",
+    "kanji": "レトルト",
+    "hiragana": "レトルト",
+    "romaji": "retoruto",
+    "meaning": "makanan siap santap dalam kemasan (dapat disantap setelah dipanaskan atau dimasak di dalam air mendidih)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-076",
+    "kanji": "乳成分",
+    "hiragana": "にゅうせいぶん",
+    "romaji": "nyuuseibun",
+    "meaning": "kandungan susu",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-077",
+    "kanji": "大豆",
+    "hiragana": "だいず",
+    "romaji": "daizu",
+    "meaning": "kedelai",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-078",
+    "kanji": "名称",
+    "hiragana": "めいしょう",
+    "romaji": "meishou",
+    "meaning": "nama",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-079",
+    "kanji": "原材料名",
+    "hiragana": "げんざいりょうめい",
+    "romaji": "genzairyoumei",
+    "meaning": "bahan baku",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-080",
+    "kanji": "殺菌方法",
+    "hiragana": "さっきんほうほう",
+    "romaji": "sakkinhouhou",
+    "meaning": "cara sterilisasi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-081",
+    "kanji": "内容量",
+    "hiragana": "ないようりょう",
+    "romaji": "naiyouryou",
+    "meaning": "berat bersih",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-082",
+    "kanji": "賞味期限",
+    "hiragana": "しょうみきげん",
+    "romaji": "shoumikigen",
+    "meaning": "tanggal layak konsumsi",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-083",
+    "kanji": "保存方法",
+    "hiragana": "ほぞんほうほう",
+    "romaji": "hozonhouhou",
+    "meaning": "cara menyimpan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-084",
+    "kanji": "販売者",
+    "hiragana": "はんばいしゃ",
+    "romaji": "hanbaisha",
+    "meaning": "penjual",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-085",
+    "kanji": "本品",
+    "hiragana": "ほんぴん",
+    "romaji": "honpin",
+    "meaning": "produk ini",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-086",
+    "kanji": "含まれる",
+    "hiragana": "ふくまれる",
+    "romaji": "fukumareru",
+    "meaning": "terkandung",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-087",
+    "kanji": "アレルギー物質",
+    "hiragana": "アレルギーぶっしつ",
+    "romaji": "arerugiibusshitsu",
+    "meaning": "alergen (bahan penyebab alergi)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-088",
+    "kanji": "おにぎり",
+    "hiragana": "おにぎり",
+    "romaji": "onigiri",
+    "meaning": "onigiri (nasi kepal khas Jepang)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-089",
+    "kanji": "エビピラフ",
+    "hiragana": "エビピラフ",
+    "romaji": "ebipirafu",
+    "meaning": "pilaf udang (hidangan dengan tumisan udang)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-090",
+    "kanji": "製造者",
+    "hiragana": "せいぞうしゃ",
+    "romaji": "seizousha",
+    "meaning": "pembuat,  produsen",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-091",
+    "kanji": "チョコレート",
+    "hiragana": "チョコレート",
+    "romaji": "chokoreeto",
+    "meaning": "cokelat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-1-11-092",
+    "kanji": "～品",
+    "hiragana": "～ひん",
+    "romaji": "~hin",
+    "meaning": "~bahan (contoh : 27 bahan)",
+    "level": "N4",
+    "isExtra": false
+  }
+]

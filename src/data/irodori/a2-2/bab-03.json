@@ -1,0 +1,938 @@
+[
+  {
+    "id": "ir-a2-2-03-001",
+    "kanji": "定食",
+    "hiragana": "ていしょく",
+    "romaji": "teishoku",
+    "meaning": "menu paket",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-002",
+    "kanji": "日替わり",
+    "hiragana": "ひがわり",
+    "romaji": "higawari",
+    "meaning": "(menu) spesial harian",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-003",
+    "kanji": "大盛り",
+    "hiragana": "おおもり",
+    "romaji": "oomori",
+    "meaning": "porsi besar",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-004",
+    "kanji": "おかわり自由",
+    "hiragana": "おかわりじゆう",
+    "romaji": "okawarijiyuu",
+    "meaning": "bebas tambah porsi",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-005",
+    "kanji": "平日",
+    "hiragana": "へいじつ",
+    "romaji": "heijitsu",
+    "meaning": "hari kerja",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-006",
+    "kanji": "～のみ（平日のみ）",
+    "hiragana": "～のみ（へいじつのみ）",
+    "romaji": "~nomi(heijitsunomi)",
+    "meaning": "hanya ~ (cth : hanya pada hari kerja)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-007",
+    "kanji": "ホット",
+    "hiragana": "ホット",
+    "romaji": "hotto",
+    "meaning": "hot,  panas,  hangat",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-008",
+    "kanji": "アイス",
+    "hiragana": "アイス",
+    "romaji": "aisu",
+    "meaning": "iced,  dingin (menggunakan es)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-009",
+    "kanji": "焼き魚",
+    "hiragana": "やきざかな",
+    "romaji": "yakizakana",
+    "meaning": "ikan panggang",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-010",
+    "kanji": "ハンバーグ",
+    "hiragana": "ハンバーグ",
+    "romaji": "hanbaagu",
+    "meaning": "hamburger steak,  steak daging",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-011",
+    "kanji": "カレーライス",
+    "hiragana": "カレーライス",
+    "romaji": "kareeraisu",
+    "meaning": "nasi kare khas Jepang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-012",
+    "kanji": "かつ丼",
+    "hiragana": "かつどん",
+    "romaji": "katsudon",
+    "meaning": "katsu-don (semangkuk nasi khas Jepang yang disajikan dengan potongan daging babi)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-013",
+    "kanji": "親子丼",
+    "hiragana": "おやこどん",
+    "romaji": "oyakodon",
+    "meaning": "oyako-don (semangkuk nasi khas Jepang yang disajikan dengan potongan daging ayam dan telur)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-014",
+    "kanji": "つく（みそ汁がつく）",
+    "hiragana": "つく（みそしるがつく）",
+    "romaji": "tsuku(misoshirugatsuku)",
+    "meaning": "disajikan beserta ~ (cth : disajikan beserta sup miso)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-015",
+    "kanji": "だめ（な）",
+    "hiragana": "だめ（な）",
+    "romaji": "dame(na)",
+    "meaning": "tidak dapat,  tidak bisa (mengonsumsi)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-016",
+    "kanji": "材料",
+    "hiragana": "ざいりょう",
+    "romaji": "zairyou",
+    "meaning": "bahan",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-017",
+    "kanji": "豚肉",
+    "hiragana": "ぶたにく",
+    "romaji": "butaniku",
+    "meaning": "daging babi",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-018",
+    "kanji": "牛肉",
+    "hiragana": "ぎゅうにく",
+    "romaji": "gyuuniku",
+    "meaning": "daging sapi",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-019",
+    "kanji": "カニ",
+    "hiragana": "カニ",
+    "romaji": "kani",
+    "meaning": "kepiting",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-020",
+    "kanji": "ナッツ",
+    "hiragana": "ナッツ",
+    "romaji": "nattsu",
+    "meaning": "kacang-kacangan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-021",
+    "kanji": "わさび",
+    "hiragana": "わさび",
+    "romaji": "wasabi",
+    "meaning": "wasabi (semacam lobak khas Jepang)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-022",
+    "kanji": "ねぎ",
+    "hiragana": "ねぎ",
+    "romaji": "negi",
+    "meaning": "daun bawang",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-023",
+    "kanji": "みりん",
+    "hiragana": "みりん",
+    "romaji": "mirin",
+    "meaning": "mirin (sake manis untuk keperluan memasak)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-024",
+    "kanji": "宗教",
+    "hiragana": "しゅうきょう",
+    "romaji": "shuukyou",
+    "meaning": "agama",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-025",
+    "kanji": "～上（宗教上）",
+    "hiragana": "～じょう（しゅうきょうじょう）",
+    "romaji": "~jou(shuukyoujou)",
+    "meaning": "dalam hal~ (cth : karena (dalam hal) agama saya)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-026",
+    "kanji": "理由",
+    "hiragana": "りゆう",
+    "romaji": "riyuu",
+    "meaning": "alasan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-027",
+    "kanji": "アレルギー",
+    "hiragana": "アレルギー",
+    "romaji": "arerugii",
+    "meaning": "alergi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-028",
+    "kanji": "自転車",
+    "hiragana": "じてんしゃ",
+    "romaji": "jitensha",
+    "meaning": "sepeda",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-029",
+    "kanji": "来る",
+    "hiragana": "くる",
+    "romaji": "kuru",
+    "meaning": "datang",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-030",
+    "kanji": "ベジタリアン",
+    "hiragana": "ベジタリアン",
+    "romaji": "bejitarian",
+    "meaning": "vegetarian",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-031",
+    "kanji": "豆腐",
+    "hiragana": "とうふ",
+    "romaji": "toufu",
+    "meaning": "tofu (tahu khas Jepang)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-032",
+    "kanji": "注文する",
+    "hiragana": "ちゅうもんする",
+    "romaji": "chuumonsuru",
+    "meaning": "memesan",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-033",
+    "kanji": "飲める",
+    "hiragana": "のめる",
+    "romaji": "nomeru",
+    "meaning": "dapat meminum",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-034",
+    "kanji": "メニュー",
+    "hiragana": "メニュー",
+    "romaji": "menyuu",
+    "meaning": "menu",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-035",
+    "kanji": "食べられる",
+    "hiragana": "たべられる",
+    "romaji": "taberareru",
+    "meaning": "dapat memakan,  dapat mengonsumsi",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-036",
+    "kanji": "ほかの",
+    "hiragana": "ほかの",
+    "romaji": "hokano",
+    "meaning": "lainnya",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-037",
+    "kanji": "～抜き（わさび抜き）",
+    "hiragana": "～ぬき（わさびぬき）",
+    "romaji": "~nuki(wasabinuki)",
+    "meaning": "tanpa ~ (cth : tanpa wasabi)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-038",
+    "kanji": "そっか",
+    "hiragana": "そっか",
+    "romaji": "sokka",
+    "meaning": "Gitu ya. (bentuk informasi dari そうですか)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-039",
+    "kanji": "かしこまりました",
+    "hiragana": "かしこまりました",
+    "romaji": "kashikomarimashita",
+    "meaning": "Saya mengerti,  dimengerti (ungkapan bentuk sopan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-040",
+    "kanji": "カウンター",
+    "hiragana": "カウンター",
+    "romaji": "kauntaa",
+    "meaning": "meja bar restoran",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-041",
+    "kanji": "座敷",
+    "hiragana": "ざしき",
+    "romaji": "zashiki",
+    "meaning": "zashiki / ruang tatami (ruang untuk duduk berlesehan)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-042",
+    "kanji": "テーブル",
+    "hiragana": "テーブル",
+    "romaji": "teeburu",
+    "meaning": "meja",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-043",
+    "kanji": "会計／お会計",
+    "hiragana": "かいけい／おかいけい",
+    "romaji": "kaikei/okaikei",
+    "meaning": "kasir,  pembayaran",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-044",
+    "kanji": "レジ",
+    "hiragana": "レジ",
+    "romaji": "reji",
+    "meaning": "kasir,  mesin kasir",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-045",
+    "kanji": "禁煙",
+    "hiragana": "きんえん",
+    "romaji": "kin'en",
+    "meaning": "larangan merokok",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-046",
+    "kanji": "～名（2名）",
+    "hiragana": "～めい（にめい）",
+    "romaji": "~mei(nimei)",
+    "meaning": "~ orang (cth : 2 orang)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-047",
+    "kanji": "当店",
+    "hiragana": "とうてん",
+    "romaji": "touten",
+    "meaning": "restoran kami,  restoran ini",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-048",
+    "kanji": "全面",
+    "hiragana": "ぜんめん",
+    "romaji": "zenmen",
+    "meaning": "secara keseluruhan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-049",
+    "kanji": "決まる",
+    "hiragana": "きまる",
+    "romaji": "kimaru",
+    "meaning": "memutuskan",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-050",
+    "kanji": "おすすめ",
+    "hiragana": "おすすめ",
+    "romaji": "osusume",
+    "meaning": "rekomendasi",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-051",
+    "kanji": "人気がある",
+    "hiragana": "にんきがある",
+    "romaji": "ninkigaaru",
+    "meaning": "populer",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-052",
+    "kanji": "フライ",
+    "hiragana": "フライ",
+    "romaji": "furai",
+    "meaning": "furai (lauk berupa gorengan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-053",
+    "kanji": "ミックスフライ",
+    "hiragana": "ミックスフライ",
+    "romaji": "mikkusufurai",
+    "meaning": "aneka lauk goreng",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-054",
+    "kanji": "量",
+    "hiragana": "りょう",
+    "romaji": "ryou",
+    "meaning": "porsi",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-055",
+    "kanji": "普通",
+    "hiragana": "ふつう",
+    "romaji": "futsuu",
+    "meaning": "biasa",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-056",
+    "kanji": "先に",
+    "hiragana": "さきに",
+    "romaji": "sakini",
+    "meaning": "terlebih dulu",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-057",
+    "kanji": "別々",
+    "hiragana": "べつべつ",
+    "romaji": "betsubetsu",
+    "meaning": "bayar masing-masing",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-058",
+    "kanji": "クーポン",
+    "hiragana": "クーポン",
+    "romaji": "kuupon",
+    "meaning": "voucer, kupon",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-059",
+    "kanji": "次回",
+    "hiragana": "じかい",
+    "romaji": "jikai",
+    "meaning": "lain kali,  kedatangan berikutnya",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-060",
+    "kanji": "それにします",
+    "hiragana": "それにします",
+    "romaji": "sorenishimasu",
+    "meaning": "Saya memilih / memesan yang itu.",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-061",
+    "kanji": "お会計、お願いします",
+    "hiragana": "おかいけい、おねがいします",
+    "romaji": "okaikei,onegaishimasu",
+    "meaning": "Bisakah kami meminta bon / tagihannya?",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-062",
+    "kanji": "別々でお願いします",
+    "hiragana": "べつべつでおねがいします",
+    "romaji": "betsubetsudeonegaishimasu",
+    "meaning": "Kami ingin membayarnya masing-masing.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-063",
+    "kanji": "お客様",
+    "hiragana": "おきゃくさま",
+    "romaji": "okyakusama",
+    "meaning": "Pak / Bu,  Tuan / Nyonya (ungkapan bentuk sopan untuk menyebut tamu / pelanggan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-064",
+    "kanji": "何名様",
+    "hiragana": "なんめいさま",
+    "romaji": "nanmeisama",
+    "meaning": "Berapa orang? (ungkapan bentuk sopan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-065",
+    "kanji": "～名様（2名様）",
+    "hiragana": "～めいさま（にめいさま）",
+    "romaji": "~meisama(nimeisama)",
+    "meaning": "~ orang (cth : 2 orang) (ungkapan bentuk sopan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-066",
+    "kanji": "ご注文",
+    "hiragana": "ごちゅうもん",
+    "romaji": "gochuumon",
+    "meaning": "pesanan (ungkapan bentuk sopan)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-067",
+    "kanji": "いかが",
+    "hiragana": "いかが",
+    "romaji": "ikaga",
+    "meaning": "bagaimana ~ (ungkapan bentuk sopan dari どう)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-068",
+    "kanji": "ごいっしょ",
+    "hiragana": "ごいっしょ",
+    "romaji": "goissho",
+    "meaning": "bersama-sama (ungkapan bentuk sopan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-069",
+    "kanji": "よろしいですか？",
+    "hiragana": "よろしいですか？",
+    "romaji": "yoroshiidesuka？",
+    "meaning": "Apakah sudah benar? (ungkapan bentuk sopan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-070",
+    "kanji": "～がございます",
+    "hiragana": "～がございます",
+    "romaji": "~gagozaimasu",
+    "meaning": "Ada / tersedia ~ (ungkapan bentuk sopan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-071",
+    "kanji": "お決まりですか？",
+    "hiragana": "おきまりですか？",
+    "romaji": "okimaridesuka？",
+    "meaning": "Apakah Anda sudah memutuskan? (ungkapan bentuk sopan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-072",
+    "kanji": "いかがですか？",
+    "hiragana": "いかがですか？",
+    "romaji": "ikagadesuka？",
+    "meaning": "Apakah Anda ingin~? / Bagaimana dengan ~? (ungkapan bentuk sopan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-073",
+    "kanji": "どうなさいますか？",
+    "hiragana": "どうなさいますか？",
+    "romaji": "dounasaimasuka？",
+    "meaning": "Bagaimana? / Berapa banyak yang Anda inginkan? (ungkapan bentuk sopan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-074",
+    "kanji": "以上でよろしいですか？",
+    "hiragana": "いじょうでよろしいですか？",
+    "romaji": "ijoudeyoroshiidesuka？",
+    "meaning": "Apakah (pesanannya) sudah semuanya? (ungkapan bentuk sopan)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-075",
+    "kanji": "お使いください",
+    "hiragana": "おつかいください",
+    "romaji": "otsukaikudasai",
+    "meaning": "Silakan gunakan. (ungkapan bentuk sopan)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-076",
+    "kanji": "少なめ",
+    "hiragana": "すくなめ",
+    "romaji": "sukuname",
+    "meaning": "porsi kecil",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-077",
+    "kanji": "食後に",
+    "hiragana": "しょくごに",
+    "romaji": "shokugoni",
+    "meaning": "setelah (makan) hidangan utama",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-078",
+    "kanji": "日/お日",
+    "hiragana": "ひにち／おひにち",
+    "romaji": "hinichi/ohinichi",
+    "meaning": "tanggal",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-079",
+    "kanji": "まちがい",
+    "hiragana": "まちがい",
+    "romaji": "machigai",
+    "meaning": "kesalahan",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-080",
+    "kanji": "失礼しました",
+    "hiragana": "しつれいしました",
+    "romaji": "shitsureishimashita",
+    "meaning": "Saya mohon maaf.",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-081",
+    "kanji": "お電話",
+    "hiragana": "おでんわ",
+    "romaji": "odenwa",
+    "meaning": "telepon (ungkapan bentuk sopan)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-082",
+    "kanji": "ご予約",
+    "hiragana": "ごよやく",
+    "romaji": "goyoyaku",
+    "meaning": "reservasi (ungkapan bentuk sopan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-083",
+    "kanji": "お時間",
+    "hiragana": "おじかん",
+    "romaji": "ojikan",
+    "meaning": "jam,  waktu (ungkapan bentuk sopan)",
+    "level": "N5",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-084",
+    "kanji": "お電話番号",
+    "hiragana": "おでんわばんごう",
+    "romaji": "odenwabangou",
+    "meaning": "nomor telepon (ungkapan bentuk sopan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-085",
+    "kanji": "～様",
+    "hiragana": "～さま",
+    "romaji": "~sama",
+    "meaning": "Bapak ~ / Ibu ~ / Tuan ~ / Nyonya ~ (ungkapan bentuk sopan dari ~さん)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-086",
+    "kanji": "おまちがいないでしょうか？",
+    "hiragana": "おまちがいないでしょうか？",
+    "romaji": "omachigainaideshouka？",
+    "meaning": "Apakah sudah benar? / Apakah tidak ada kesalahan? (ungkapan bentuk sopan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-087",
+    "kanji": "半額",
+    "hiragana": "はんがく",
+    "romaji": "hangaku",
+    "meaning": "separuh harga",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-088",
+    "kanji": "有効期限",
+    "hiragana": "ゆうこうきげん",
+    "romaji": "yuukoukigen",
+    "meaning": "masa berlaku",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-089",
+    "kanji": "ドリンクバー",
+    "hiragana": "ドリンクバー",
+    "romaji": "dorinkubaa",
+    "meaning": "drink bar (layanan mandiri / self service berupa bar minuman soft drink bagi pengunjung)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-090",
+    "kanji": "おこさま",
+    "hiragana": "おこさま",
+    "romaji": "okosama",
+    "meaning": "anak kecil (ungkapan bentuk sopan)",
+    "level": "-",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-091",
+    "kanji": "ご注文時",
+    "hiragana": "ごちゅうもんじ",
+    "romaji": "gochuumonji",
+    "meaning": "saat melakukan pemesanan (ungkapan bentuk sopan)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-092",
+    "kanji": "本券",
+    "hiragana": "ほんけん",
+    "romaji": "honken",
+    "meaning": "kupon / voucer ini",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-093",
+    "kanji": "使用",
+    "hiragana": "しよう",
+    "romaji": "shiyou",
+    "meaning": "penggunaan,  pemakaian",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-094",
+    "kanji": "時間帯",
+    "hiragana": "じかんたい",
+    "romaji": "jikantai",
+    "meaning": "selama periode waktu",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-095",
+    "kanji": "ご提示ください",
+    "hiragana": "ごていじください",
+    "romaji": "goteijikudasai",
+    "meaning": "Silakan tunjukkan / perlihatkan ~ (ungkapan bentuk sopan)",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-096",
+    "kanji": "ご利用できません",
+    "hiragana": "ごりようできません",
+    "romaji": "goriyoudekimasen",
+    "meaning": "Anda tidak dapat menggunakan / memakai ~ (ungkapan bentuk sopan)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-097",
+    "kanji": "ご飲食代",
+    "hiragana": "ごいんしょくだい",
+    "romaji": "goinshokudai",
+    "meaning": "harga (biaya) makan dan minum (ungkapan bentuk sopan)",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-098",
+    "kanji": "会計時",
+    "hiragana": "かいけいじ",
+    "romaji": "kaikeiji",
+    "meaning": "saat melakukan pembayaran",
+    "level": "N4",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-099",
+    "kanji": "利用可能（な）",
+    "hiragana": "りようかのう（な）",
+    "romaji": "riyoukanou(na)",
+    "meaning": "dapat digunakan",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-100",
+    "kanji": "～限り（1回限り）",
+    "hiragana": "～かぎり（いっかいかぎり）",
+    "romaji": "~kagiri(ikkaikagiri)",
+    "meaning": "hanya ~ (hanya 1 kali)",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-101",
+    "kanji": "有効（な）",
+    "hiragana": "ゆうこう（な）",
+    "romaji": "yuukou(na)",
+    "meaning": "berlaku,  valid",
+    "level": "N2",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-102",
+    "kanji": "他の",
+    "hiragana": "たの",
+    "romaji": "tano",
+    "meaning": "lainnya",
+    "level": "N3",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-103",
+    "kanji": "併用",
+    "hiragana": "へいよう",
+    "romaji": "heiyou",
+    "meaning": "digunakan bersama dengan ~",
+    "level": "N1",
+    "isExtra": false
+  },
+  {
+    "id": "ir-a2-2-03-104",
+    "kanji": "お見せください",
+    "hiragana": "おみせください",
+    "romaji": "omisekudasai",
+    "meaning": "Silakan tunjukkan / perlihatkan ~ (ungkapan bentuk sopan)",
+    "level": "N5",
+    "isExtra": false
+  }
+]

@@ -1,0 +1,488 @@
+[
+  {
+    "id": "mn-15-001",
+    "kanji": "いらっしゃいますⅠ",
+    "hiragana": "いらっしゃいますⅠ",
+    "romaji": "irasshaimasuⅠ",
+    "meaning": "bentuk hormat dari います",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-002",
+    "kanji": "カタログ",
+    "hiragana": "カタログ",
+    "romaji": "katarogu",
+    "meaning": "katalog",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-003",
+    "kanji": "すみません",
+    "hiragana": "すみません",
+    "romaji": "sumimasen",
+    "meaning": "Maaf.",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-004",
+    "kanji": "ソフト",
+    "hiragana": "ソフト",
+    "romaji": "sofuto",
+    "meaning": "perangkat lunak",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-005",
+    "kanji": "皆さん",
+    "hiragana": "みなさん",
+    "romaji": "minasan",
+    "meaning": "semuanya, bapak-bapak dan ibu-ibu sekalian",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-006",
+    "kanji": "経済",
+    "hiragana": "けいざい",
+    "romaji": "keizai",
+    "meaning": "ekonomi",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-007",
+    "kanji": "研究します",
+    "hiragana": "けんきゅうしますⅢ",
+    "romaji": "kenkyuushimasuⅢ",
+    "meaning": "meneliti",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-008",
+    "kanji": "高校",
+    "hiragana": "こうこう",
+    "romaji": "koukou",
+    "meaning": "SMA",
+    "level": "N5",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-009",
+    "kanji": "作ります",
+    "hiragana": "つくりますⅠ",
+    "romaji": "tsukurimasuⅠ",
+    "meaning": "Membuat (Umum)",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-010",
+    "kanji": "市役所",
+    "hiragana": "しやくしょ",
+    "romaji": "shiyakusho",
+    "meaning": "kantor wali kota",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-011",
+    "kanji": "思い出します",
+    "hiragana": "おもいだしますⅠ",
+    "romaji": "omoidashimasuⅠ",
+    "meaning": "teringat",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-012",
+    "kanji": "資料",
+    "hiragana": "しりょう",
+    "romaji": "shiryou",
+    "meaning": "data, bahan",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-013",
+    "kanji": "歯医者",
+    "hiragana": "はいしゃ",
+    "romaji": "haisha",
+    "meaning": "dokter gigi",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-014",
+    "kanji": "時刻表",
+    "hiragana": "じこくひょう",
+    "romaji": "jikokuhyou",
+    "meaning": "jadwal",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-015",
+    "kanji": "住みます",
+    "hiragana": "すみますⅠ",
+    "romaji": "sumimasuⅠ",
+    "meaning": "tinggal",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-016",
+    "kanji": "製品",
+    "hiragana": "せいひん",
+    "romaji": "seihin",
+    "meaning": "produk",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-017",
+    "kanji": "造ります",
+    "hiragana": "つくりますⅠ",
+    "romaji": "tsukurimasuⅠ",
+    "meaning": "Membangun / Memproduksi",
+    "level": "N2",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-018",
+    "kanji": "知ります",
+    "hiragana": "しりますⅠ",
+    "romaji": "shirimasuⅠ",
+    "meaning": "mengetahui, mengenal",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-019",
+    "kanji": "置きます",
+    "hiragana": "おきますⅠ",
+    "romaji": "okimasuⅠ",
+    "meaning": "meletakkan, menaruh",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-020",
+    "kanji": "電子辞書",
+    "hiragana": "でんしじしょ",
+    "romaji": "denshijisho",
+    "meaning": "kamus elektronik",
+    "level": "N3",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-021",
+    "kanji": "独身",
+    "hiragana": "どくしん",
+    "romaji": "dokushin",
+    "meaning": "bujangan, belum berkeluarga",
+    "level": "-",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-022",
+    "kanji": "売ります",
+    "hiragana": "うりますⅠ",
+    "romaji": "urimasuⅠ",
+    "meaning": "menjual",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-023",
+    "kanji": "服",
+    "hiragana": "ふく",
+    "romaji": "fuku",
+    "meaning": "baju",
+    "level": "N4",
+    "importinity": 1
+  },
+  {
+    "id": "mn-15-024",
+    "kanji": "エンジニア",
+    "hiragana": "エンジニア",
+    "romaji": "enjinia",
+    "meaning": "insinyur",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-025",
+    "kanji": "ジャーナリスト",
+    "hiragana": "ジャーナリスト",
+    "romaji": "jaanarisuto",
+    "meaning": "wartawan",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-026",
+    "kanji": "スポーツ選手",
+    "hiragana": "スポーツせんしゅ",
+    "romaji": "supootsusenshu",
+    "meaning": "olahragawan",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-027",
+    "kanji": "デザイナー",
+    "hiragana": "デザイナー",
+    "romaji": "dezainaa",
+    "meaning": "perancang busana",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-028",
+    "kanji": "みんなの インタビュー",
+    "hiragana": "みんなの インタビュー",
+    "romaji": "minnano intabyuu",
+    "meaning": "acara televisi fiksi",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-029",
+    "kanji": "医者",
+    "hiragana": "いしゃ",
+    "romaji": "isha",
+    "meaning": "dokter",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-030",
+    "kanji": "運転手",
+    "hiragana": "うんてんしゅ",
+    "romaji": "untenshu",
+    "meaning": "sopir",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-031",
+    "kanji": "駅員",
+    "hiragana": "えきいん",
+    "romaji": "ekiin",
+    "meaning": "pegawai stasiun",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-032",
+    "kanji": "音楽家",
+    "hiragana": "おんがくか",
+    "romaji": "ongakuka",
+    "meaning": "musisi",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-033",
+    "kanji": "歌手",
+    "hiragana": "かしゅ",
+    "romaji": "kashu",
+    "meaning": "penyanyi",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-034",
+    "kanji": "画家",
+    "hiragana": "がか",
+    "romaji": "gaka",
+    "meaning": "pelukis",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-035",
+    "kanji": "会社員",
+    "hiragana": "かいしゃいん",
+    "romaji": "kaishain",
+    "meaning": "pegawai perusahaan",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-036",
+    "kanji": "外交官",
+    "hiragana": "がいこうかん",
+    "romaji": "gaikoukan",
+    "meaning": "diplomat",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-037",
+    "kanji": "看護師",
+    "hiragana": "かんごし",
+    "romaji": "kangoshi",
+    "meaning": "perawat",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-038",
+    "kanji": "教師",
+    "hiragana": "きょうし",
+    "romaji": "kyoushi",
+    "meaning": "guru",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-039",
+    "kanji": "銀行員",
+    "hiragana": "ぎんこういん",
+    "romaji": "ginkouin",
+    "meaning": "pegawai bank",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-040",
+    "kanji": "警察官",
+    "hiragana": "けいさつかん",
+    "romaji": "keisatsukan",
+    "meaning": "polisi",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-041",
+    "kanji": "建築家",
+    "hiragana": "けんちくか",
+    "romaji": "kenchikuka",
+    "meaning": "arsitek",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-042",
+    "kanji": "研究者",
+    "hiragana": "けんきゅうしゃ",
+    "romaji": "kenkyuusha",
+    "meaning": "peneliti",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-043",
+    "kanji": "公務員",
+    "hiragana": "こうむいん",
+    "romaji": "koumuin",
+    "meaning": "pegawai negeri",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-044",
+    "kanji": "作家",
+    "hiragana": "さっか",
+    "romaji": "sakka",
+    "meaning": "pengarang",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-045",
+    "kanji": "職業",
+    "hiragana": "しょくぎょう",
+    "romaji": "shokugyou",
+    "meaning": "Pekerjaan",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-046",
+    "kanji": "政治家",
+    "hiragana": "せいじか",
+    "romaji": "seijika",
+    "meaning": "politikus",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-047",
+    "kanji": "調理師",
+    "hiragana": "ちょうりし",
+    "romaji": "chourishi",
+    "meaning": "tukang masak",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-048",
+    "kanji": "店員",
+    "hiragana": "てんいん",
+    "romaji": "ten'in",
+    "meaning": "pegawai toko",
+    "level": "N4",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-049",
+    "kanji": "俳優",
+    "hiragana": "はいゆう",
+    "romaji": "haiyuu",
+    "meaning": "aktor aktris",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-050",
+    "kanji": "美容師",
+    "hiragana": "びようし",
+    "romaji": "biyoushi",
+    "meaning": "ahli kecantikan",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-051",
+    "kanji": "弁護士",
+    "hiragana": "べんごし",
+    "romaji": "bengoshi",
+    "meaning": "pengacara",
+    "level": "-",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-052",
+    "kanji": "郵便局員",
+    "hiragana": "ゆうびんきょくいん",
+    "romaji": "yuubinkyokuin",
+    "meaning": "pegawai kantor pos",
+    "level": "N2",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-053",
+    "kanji": "理容師",
+    "hiragana": "りようし",
+    "romaji": "riyoushi",
+    "meaning": "tukang potong rambut",
+    "level": "N3",
+    "importinity": 2
+  },
+  {
+    "id": "mn-15-054",
+    "kanji": "日本橋",
+    "hiragana": "にっぽんばし",
+    "romaji": "nipponbashi",
+    "meaning": "nama daerah perbelanjaan di Osaka",
+    "level": "N2",
+    "importinity": 3
+  }
+]
