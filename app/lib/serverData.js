@@ -91,15 +91,21 @@ export async function fetchKanjiByLevel() {
   const kanjiDir = path.join(process.cwd(), 'src', 'data', 'kanji');
   let allKanji = [];
 
-  const levels = ['n5', 'n4', 'n3', 'n2', 'n1'];
-  for (const level of levels) {
-    const filePath = path.join(kanjiDir, `${level}.json`);
-    try {
-      const raw = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-      allKanji.push(...raw);
-    } catch (e) {
-      // Skip missing level files
+  try {
+    const files = fs.readdirSync(kanjiDir).filter(f => f.endsWith('.json'));
+    for (const file of files) {
+      const filePath = path.join(kanjiDir, file);
+      try {
+        const raw = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+        // Include filename info so client knows source
+        const enriched = raw.map(k => ({...k, _sourceFile: file}));
+        allKanji.push(...enriched);
+      } catch (e) {
+        // Skip unparseable files
+      }
     }
+  } catch (e) {
+    // Directory might not exist
   }
 
   return allKanji;

@@ -1,10 +1,13 @@
 'use client';
 
 import React, { useState, useMemo, useEffect, useRef } from 'react';
+import { useVirtualizer } from '@tanstack/react-virtual';
 
-const RENDER_BATCH = 100;
+export default function KotobaClient() {
+  const [initialCards, setInitialCards] = useState([]);
+  const [chapters, setChapters] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
 
-export default function KotobaClient({ initialCards, chapters }) {
   const [currentBab, setCurrentBab] = useState(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [globalSearchQuery, setGlobalSearchQuery] = useState('');
@@ -12,8 +15,21 @@ export default function KotobaClient({ initialCards, chapters }) {
   const [displayMode, setDisplayMode] = useState('all'); // 'all', 'nihongo', 'arti'
   const [showFabMenu, setShowFabMenu] = useState(false);
   
-  const [renderedCount, setRenderedCount] = useState(RENDER_BATCH);
   const listRef = useRef(null);
+
+  useEffect(() => {
+    fetch('/api/kotoba')
+      .then(res => res.json())
+      .then(data => {
+        if (data.cards) setInitialCards(data.cards);
+        if (data.chapters) setChapters(data.chapters);
+        setIsLoading(false);
+      })
+      .catch(err => {
+        console.error('Failed to fetch kotoba', err);
+        setIsLoading(false);
+      });
+  }, []);
 
   const chapterDisplayName = (chapter) => {
     if (!chapter) return '';
@@ -47,17 +63,7 @@ export default function KotobaClient({ initialCards, chapters }) {
                       .replace(/di/g, 'ji')
                       .replace(/du/g, 'zu');
 
-      cards = cards.filter(c => {
-        const k = (c.kanji || '').toLowerCase().replace(/[\s~〜\-]/g, '');
-        const h = (c.hiragana || '').toLowerCase().replace(/[\s~〜\-]/g, '');
-        const r = (c.romaji || '').toLowerCase().replace(/[\s~〜\-]/g, '');
-        const m = (c.meaning || '').toLowerCase();
-        
-        return k.includes(cleanQ) || 
-               h.includes(cleanQ) || 
-               r.includes(cleanQ) || 
-               m.includes(q);
-      });
+      cards = cards.filter(c => c._searchString.includes(cleanQ) || c.meaning.toLowerCase().includes(q));
     }
     return cards;
   }, [initialCards, currentBab, searchQuery]);
@@ -82,42 +88,34 @@ export default function KotobaClient({ initialCards, chapters }) {
                         .replace(/di/g, 'ji')
                         .replace(/du/g, 'zu');
 
-    return cards.filter(card => {
-      const k = (card.kanji || '').toLowerCase().replace(/[\s~〜\-]/g, '');
-      const h = (card.hiragana || '').toLowerCase().replace(/[\s~〜\-]/g, '');
-      const r = (card.romaji || '').toLowerCase().replace(/[\s~〜\-]/g, '');
-      const m = (card.meaning || '').toLowerCase();
-      
-      return k.includes(cleanQ) || 
-             h.includes(cleanQ) || 
-             r.includes(cleanQ) || 
-             m.includes(query);
-    });
+    return cards.filter(card => card._searchString.includes(cleanQ) || card.meaning.toLowerCase().includes(query));
   }, [initialCards, globalSearchQuery, sourceFilter]);
 
-  useEffect(() => {
-    setRenderedCount(RENDER_BATCH);
-    if (listRef.current) listRef.current.scrollTop = 0;
-  }, [globalFilteredCards]);
+  // Virtualizer for the global search list
+  const virtualizer = useVirtualizer({
+    count: globalFilteredCards.length,
+    getScrollElement: () => listRef.current,
+    estimateSize: () => 85, // estimated height of dict-row
+    overscan: 5,
+  });
 
-  const handleGlobalScroll = (e) => {
-    const el = e.target;
-    if (el.scrollTop + el.clientHeight >= el.scrollHeight - 200) {
-      if (renderedCount < globalFilteredCards.length) {
-        setRenderedCount(prev => Math.min(prev + RENDER_BATCH, globalFilteredCards.length));
-      }
-    }
-  };
-
-  const displayedGlobalCards = globalFilteredCards.slice(0, renderedCount);
+  if (isLoading) {
+    return (
+      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%', color: 'var(--text-muted)' }}>
+        <div className="spinner" style={{ width: '24px', height: '24px', border: '3px solid rgba(255,255,255,0.1)', borderTopColor: '#fff', borderRadius: '50%', animation: 'spin 1s linear infinite' }}></div>
+        <span style={{ marginLeft: '12px' }}>Memuat data...</span>
+        <style>{`@keyframes spin { to { transform: rotate(360deg); } }`}</style>
+      </div>
+    );
+  }
 
   return (
     <div className="view page-view active" style={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
       <div className="page-container" style={{ flex: 1, display: 'flex', flexDirection: 'column' }}>
         
         {!currentBab ? (
-          <div id="kotoba-select" style={{ flex: 1, overflowY: 'auto' }}>
-            <div className="page-header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: '16px', marginBottom: '16px' }}>
+          <div id="kotoba-select" style={{ flex: 1, display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
+            <div className="page-header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: '16px', marginBottom: '16px', flexShrink: 0 }}>
               <div>
                 <h2 className="page-title">List Kotoba</h2>
                 <p className="page-subtitle">Pilih bab untuk melihat daftar kosakata</p>
@@ -140,7 +138,7 @@ export default function KotobaClient({ initialCards, chapters }) {
               </div>
             </div>
 
-            <div className="dict-search-wrap" style={{ marginBottom: '24px', position: 'relative' }}>
+            <div className="dict-search-wrap" style={{ marginBottom: '24px', position: 'relative', flexShrink: 0 }}>
               <svg className="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
               <input 
                 type="text" 
@@ -174,34 +172,46 @@ export default function KotobaClient({ initialCards, chapters }) {
             </div>
 
             {globalSearchQuery ? (
-              <div className="dict-list" ref={listRef} onScroll={handleGlobalScroll} style={{ flex: 1, paddingRight: '8px' }}>
-                {displayedGlobalCards.map(card => (
-                  <div key={card.id || `${card.chapter}-${card.kanji}-${card.hiragana}`} className="dict-row">
-                    <div className="dict-kanji">{card.kanji}</div>
-                    <div className="dict-reading">
-                      <span className="dict-hiragana">{card.hiragana}</span>
-                      <span className="dict-romaji">{card.romaji}</span>
-                    </div>
-                    <div className="dict-meaning">{card.meaning}</div>
-                    <div className="dict-meta">
-                      <span className="dict-badge dict-badge-bab">{chapterDisplayName(card.chapter)}</span>
-                      {card.level && card.level !== '-' && <span className="dict-badge dict-badge-jlpt">{card.level.toUpperCase()}</span>}
-                    </div>
-                  </div>
-                ))}
+              <div className="dict-list" ref={listRef} style={{ flex: 1, paddingRight: '8px', overflowY: 'auto' }}>
+                <div style={{ height: `${virtualizer.getTotalSize()}px`, width: '100%', position: 'relative' }}>
+                  {virtualizer.getVirtualItems().map(virtualItem => {
+                    const card = globalFilteredCards[virtualItem.index];
+                    return (
+                      <div 
+                        key={card.id || `${card.chapter}-${card.kanji}-${card.hiragana}`} 
+                        className="dict-row"
+                        data-index={virtualItem.index}
+                        ref={virtualizer.measureElement}
+                        style={{
+                          position: 'absolute',
+                          top: 0,
+                          left: 0,
+                          width: '100%',
+                          transform: `translateY(${virtualItem.start}px)`,
+                        }}
+                      >
+                        <div className="dict-kanji">{card.kanji}</div>
+                        <div className="dict-reading">
+                          <span className="dict-hiragana">{card.hiragana}</span>
+                          <span className="dict-romaji">{card.romaji}</span>
+                        </div>
+                        <div className="dict-meaning">{card.meaning}</div>
+                        <div className="dict-meta">
+                          <span className="dict-badge dict-badge-bab">{chapterDisplayName(card.chapter)}</span>
+                          {card.level && card.level !== '-' && <span className="dict-badge dict-badge-jlpt">{card.level.toUpperCase()}</span>}
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
                 {globalFilteredCards.length === 0 && (
                   <div style={{padding: '40px 20px', textAlign: 'center', color: 'var(--text-muted)'}}>
                     <p>Tidak ada kosakata yang cocok dengan "{globalSearchQuery}" di {sourceFilter === 'minna' ? 'Minna no Nihongo' : 'Irodori'}</p>
                   </div>
                 )}
-                {renderedCount < globalFilteredCards.length && (
-                  <div style={{padding: '20px', textAlign: 'center', color: 'var(--text-muted)'}}>
-                    Memuat lebih banyak...
-                  </div>
-                )}
               </div>
             ) : sourceFilter === 'irodori' ? (
-              <div style={{ display: 'flex', flexDirection: 'column', gap: '32px', width: '100%', paddingBottom: '20px' }}>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '32px', width: '100%', paddingBottom: '20px', overflowY: 'auto' }}>
                 {['A1', 'A2.1', 'A2.2'].map(groupName => {
                   const chaptersInGroup = filteredChapters.filter(ch => ch.startsWith(`ir${groupName}`));
                   if (chaptersInGroup.length === 0) return null;
@@ -231,7 +241,7 @@ export default function KotobaClient({ initialCards, chapters }) {
                 })}
               </div>
             ) : (
-              <div className="quiz-bab-grid" style={{ paddingBottom: '20px' }}>
+              <div className="quiz-bab-grid" style={{ paddingBottom: '20px', overflowY: 'auto' }}>
                 {filteredChapters.map(ch => (
                   <button 
                     key={ch} 

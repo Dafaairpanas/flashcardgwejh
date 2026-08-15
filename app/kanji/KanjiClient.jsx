@@ -1,11 +1,16 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect, useRef } from 'react';
 import { useRouter } from 'next/navigation';
 import { useStore } from '../../src/store/useStore';
 import { shuffleCards } from '../../src/data';
 
-export default function KanjiClient({ initialKanjiList }) {
+const RENDER_BATCH = 100;
+
+export default function KanjiClient() {
+  const [initialKanjiList, setInitialKanjiList] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
+
   const [currentLevel, setCurrentLevel] = useState(5);
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedLevels, setSelectedLevels] = useState([5, 4, 3, 2, 1]);
@@ -13,10 +18,25 @@ export default function KanjiClient({ initialKanjiList }) {
   const [modalKanji, setModalKanji] = useState(null);
   const [showSetupModal, setShowSetupModal] = useState(false);
   const [showReadings, setShowReadings] = useState(true);
+  const [renderedCount, setRenderedCount] = useState(RENDER_BATCH);
 
   const router = useRouter();
   const setCustomCards = useStore(state => state.setCustomCards);
   const setStudyMode = useStore(state => state.setStudyMode);
+  const gridRef = useRef(null);
+
+  useEffect(() => {
+    fetch('/api/kanji')
+      .then(res => res.json())
+      .then(data => {
+        setInitialKanjiList(data || []);
+        setIsLoading(false);
+      })
+      .catch(err => {
+        console.error('Failed to fetch kanji', err);
+        setIsLoading(false);
+      });
+  }, []);
 
   const filteredGrid = useMemo(() => {
     const q = searchQuery.toLowerCase();
@@ -32,6 +52,22 @@ export default function KanjiClient({ initialKanjiList }) {
       return true;
     });
   }, [initialKanjiList, currentLevel, searchQuery]);
+
+  useEffect(() => {
+    setRenderedCount(RENDER_BATCH);
+    if (gridRef.current) gridRef.current.scrollTop = 0;
+  }, [filteredGrid]);
+
+  const handleScroll = (e) => {
+    const el = e.target;
+    if (el.scrollTop + el.clientHeight >= el.scrollHeight - 200) {
+      if (renderedCount < filteredGrid.length) {
+        setRenderedCount(prev => Math.min(prev + RENDER_BATCH, filteredGrid.length));
+      }
+    }
+  };
+
+  const displayedGrid = filteredGrid.slice(0, renderedCount);
 
   const availableForFlashcard = useMemo(() => {
     return initialKanjiList.filter(k => selectedLevels.includes(k.jlpt));
@@ -75,15 +111,25 @@ export default function KanjiClient({ initialKanjiList }) {
     router.push('/study');
   };
 
+  if (isLoading) {
+    return (
+      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%', color: 'var(--text-muted)' }}>
+        <div className="spinner" style={{ width: '24px', height: '24px', border: '3px solid rgba(255,255,255,0.1)', borderTopColor: '#fff', borderRadius: '50%', animation: 'spin 1s linear infinite' }}></div>
+        <span style={{ marginLeft: '12px' }}>Memuat data kanji...</span>
+        <style>{`@keyframes spin { to { transform: rotate(360deg); } }`}</style>
+      </div>
+    );
+  }
+
   return (
     <div className="view page-view active" style={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
-      <div className="page-container" style={{ flex: 1, display: 'flex', flexDirection: 'column' }}>
-        <div className="page-header">
+      <div className="page-container" style={{ flex: 1, display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
+        <div className="page-header" style={{ flexShrink: 0 }}>
           <h2 className="page-title">Kanji Tunggal</h2>
           <p className="page-subtitle">Jelajahi kanji berdasarkan level JLPT</p>
         </div>
         
-        <div className="kanji-controls" style={{ marginBottom: '24px' }}>
+        <div className="kanji-controls" style={{ marginBottom: '24px', flexShrink: 0 }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '12px' }}>
             <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
               {[5, 4, 3, 2, 1].map(lvl => (
@@ -116,13 +162,18 @@ export default function KanjiClient({ initialKanjiList }) {
           </div>
         </div>
 
-        <div className="kanji-grid" style={{ flex: 1, overflowY: 'auto', alignContent: 'flex-start' }}>
-          {filteredGrid.map(k => (
+        <div className="kanji-grid" ref={gridRef} onScroll={handleScroll} style={{ flex: 1, overflowY: 'auto', alignContent: 'flex-start' }}>
+          {displayedGrid.map(k => (
             <div key={k.kanji} className="kanji-tile" onClick={() => setModalKanji(k)}>
               <div className="kanji-tile-char" style={{ fontFamily: 'var(--font-jp)' }}>{k.kanji}</div>
               <div className="kanji-tile-meaning">{k.heisig_id || k.heisig_en || (k.meanings && k.meanings[0]) || ''}</div>
             </div>
           ))}
+          {renderedCount < filteredGrid.length && (
+            <div style={{ width: '100%', textAlign: 'center', padding: '20px', color: 'var(--text-muted)' }}>
+              Memuat lebih banyak...
+            </div>
+          )}
         </div>
       </div>
 

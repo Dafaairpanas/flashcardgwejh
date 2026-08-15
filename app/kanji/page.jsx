@@ -1,4 +1,3 @@
-import { fetchKanjiByLevel } from '../lib/serverData';
 import KanjiClient from './KanjiClient';
 import Link from 'next/link';
 
@@ -7,21 +6,7 @@ export const metadata = {
   description: 'Daftar Kanji JLPT N5 hingga N1 lengkap dengan arti dan bacaan.',
 };
 
-export default async function KanjiPage() {
-  const rawKanjiList = await fetchKanjiByLevel();
-  
-  // Map the new kanji format (n5.json, etc.) to the legacy format expected by KanjiClient
-  const kanjiList = rawKanjiList.map(k => ({
-    kanji: k.kanji,
-    jlpt: parseInt((k.level || '').replace('N', ''), 10) || null,
-    meanings: k.meaning ? k.meaning.split(',').map(s => s.trim()) : [],
-    on_readings: k.onyomi ? k.onyomi.split(',').map(s => s.trim()) : [],
-    kun_readings: k.kunyomi ? k.kunyomi.split(',').map(s => s.trim()) : [],
-    heisig_en: '', 
-    grade: null, 
-    name_readings: [],
-  }));
-
+export default function KanjiPage() {
   return (
     <div id="app-container">
       <nav className="navbar" id="navbar">
@@ -37,7 +22,7 @@ export default async function KanjiPage() {
       </nav>
       
       <main className="main-content">
-        <KanjiClient initialKanjiList={kanjiList} />
+        <KanjiClient />
       </main>
     </div>
   );

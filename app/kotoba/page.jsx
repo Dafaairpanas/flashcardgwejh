@@ -1,4 +1,3 @@
-import { fetchAllCards, getChaptersFromCards } from '../lib/serverData';
 import KotobaClient from './KotobaClient';
 import Link from 'next/link';
 
@@ -7,12 +6,7 @@ export const metadata = {
   description: 'Daftar kosakata per bab dari Irodori dan Minna no Nihongo.',
 };
 
-export default async function KotobaPage() {
-  const allCards = await fetchAllCards();
-  
-  // Get chapters uniquely
-  const chapters = getChaptersFromCards(allCards);
-
+export default function KotobaPage() {
   return (
     <div id="app-container">
       <nav className="navbar" id="navbar">
@@ -28,7 +22,7 @@ export default async function KotobaPage() {
       </nav>
       
       <main className="main-content">
-        <KotobaClient initialCards={allCards} chapters={chapters} />
+        <KotobaClient />
       </main>
     </div>
   );
