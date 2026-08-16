@@ -5,6 +5,7 @@ import { useRouter } from 'next/navigation';
 import { useStore } from '../../src/store/useStore';
 import { getCardsByChapters } from '../../src/data';
 import { fsrs } from '../../src/state';
+import { recordCardResponse } from '../../src/historyManager';
 
 import { useTheme } from '../ThemeProvider';
 
@@ -134,6 +135,7 @@ export default function StudyView() {
       totalReviewedRef.current += 1;
 
       fsrs.reviewCard(currentCard.id, rating);
+      recordCardResponse(currentCard.id, rating);
       
       let newQueue = [...queue.slice(1)];
       

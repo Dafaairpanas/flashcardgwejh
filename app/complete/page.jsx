@@ -1,9 +1,10 @@
 'use client';
 
-import React, { Suspense } from 'react';
+import React, { Suspense, useEffect, useRef } from 'react';
 import { useRouter } from 'next/navigation';
 import { useStore } from '../../src/store/useStore';
 import { fsrs } from '../../src/state';
+import { recordSession, removeDifficultCards } from '../../src/historyManager';
 
 function CompleteContent() {
   const router = useRouter();
@@ -18,6 +19,24 @@ function CompleteContent() {
   const setCustomCards = useStore((state) => state.setCustomCards);
   const soundEnabled = useStore((state) => state.soundEnabled);
   const toggleSound = useStore((state) => state.toggleSound);
+
+  // Record session to history on mount (only once)
+  const practiceDifficultIds = useStore((state) => state.practiceDifficultIds);
+  const setPracticeDifficultIds = useStore((state) => state.setPracticeDifficultIds);
+  const hasRecorded = useRef(false);
+  useEffect(() => {
+    if (!hasRecorded.current && sessionResult.reviewed > 0) {
+      hasRecorded.current = true;
+      recordSession(sessionResult.reviewed, sessionResult.duration, sessionResult.accuracy);
+      
+      // Auto-remove difficult cards if session had no weak cards (all answered well)
+      if (practiceDifficultIds && practiceDifficultIds.length > 0 && sessionResult.weakCards.length === 0) {
+        removeDifficultCards(practiceDifficultIds);
+      }
+      // Clear the practice source
+      setPracticeDifficultIds([]);
+    }
+  }, [sessionResult, practiceDifficultIds, setPracticeDifficultIds]);
 
   const formatDuration = (seconds) => {
     if (seconds < 60) return `${seconds}s`;

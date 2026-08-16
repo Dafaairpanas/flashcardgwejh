@@ -17,10 +17,12 @@ export const useStore = create(
       chapters: [],
       customCards: [],
       customFsrs: false,
+      practiceDifficultIds: [], // card IDs from difficult list practice
       sessionResult: null, // { reviewed: 0, duration: 0, accuracy: 0, weakCards: [] }
       
       // Actions
       setCustomFsrs: (val) => set({ customFsrs: val }),
+      setPracticeDifficultIds: (ids) => set({ practiceDifficultIds: ids }),
       setSessionResult: (result) => set({ sessionResult: result }),
       setCustomCards: (cards) => set({ customCards: cards }),
       setPreferences: (prefs) => set((state) => ({ ...state, ...prefs })),

@@ -373,9 +373,14 @@ function SetupContent() {
                   <div className="stat-value text-pink">{stats.learningCount}</div>
                   <div className="stat-label">LEARNING</div>
                 </div>
-                <div className="bento-card stat-item-card">
-                  <div className="stat-value text-gray">{stats.dueCount}</div>
-                  <div className="stat-label">REVIEW</div>
+                <div className="bento-card stat-item-card" onClick={() => router.push('/study/history')} style={{ cursor: 'pointer', transition: 'all 0.2s' }}>
+                  <div className="stat-value" style={{ fontSize: '1.4rem' }}>
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{width: '28px', height: '28px', opacity: 0.8}}>
+                      <circle cx="12" cy="12" r="10"></circle>
+                      <polyline points="12 6 12 12 16 14"></polyline>
+                    </svg>
+                  </div>
+                  <div className="stat-label">HISTORY</div>
                 </div>
               </div>
 
