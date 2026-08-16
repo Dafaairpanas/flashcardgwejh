@@ -2,6 +2,7 @@ import '../src/fonts.css';
 import '../src/style.css';
 import FontProvider from './FontProvider';
 import ThemeProvider from './ThemeProvider';
+import PwaUpdater from './PwaUpdater';
 
 export const metadata = {
   title: 'AditFlashcard - Belajar Bahasa Jepang',
@@ -43,6 +44,7 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body>
+        <PwaUpdater />
         <FontProvider />
         <ThemeProvider>
           <div className="ambient-bg">
