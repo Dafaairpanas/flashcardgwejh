@@ -6,16 +6,31 @@ import ThemeProvider from './ThemeProvider';
 export const metadata = {
   title: 'AditFlashcard - Belajar Bahasa Jepang',
   description: 'Belajar kosakata dan kanji JLPT N5-N1 dengan sistem flashcard pintar.',
+  manifest: '/manifest.json',
+  appleWebApp: {
+    capable: true,
+    title: 'AditFlashcard',
+    statusBarStyle: 'black-translucent',
+  },
+  icons: {
+    apple: '/icon192_rounded.png',
+  },
   verification: {
     google: 'qrdarlNMiQu34nxabHCfjZm0ZXWYYFTBfswPviTrevQ',
   },
+};
+
+export const viewport = {
+  themeColor: '#0a0a0b',
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 1,
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="id" suppressHydrationWarning>
       <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <script
           dangerouslySetInnerHTML={{
             __html: `
