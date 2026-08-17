@@ -75,7 +75,11 @@ export default function HistoryClient() {
   const aggStats = useMemo(() => getAggregateStats(), [refreshKey, isLoading]);
   const progress = useMemo(() => {
     if (allCardsData.length === 0) return { minna: { total: 0, learned: 0, percent: 0 }, irodori: { total: 0, learned: 0, percent: 0 } };
-    return getProgressBySource(fsrs.states, allCardsData);
+    
+    // Force load from localStorage to ensure we have the absolute latest data,
+    // bypassing any module caching or hydration staleness issues.
+    const latestFsrsStates = fsrs._load();
+    return getProgressBySource(latestFsrsStates, allCardsData);
   }, [allCardsData, refreshKey, isLoading]);
 
   // Difficult cards with slider limit

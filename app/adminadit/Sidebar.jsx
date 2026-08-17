@@ -34,6 +34,15 @@ export default function Sidebar({ fileTree, onSelectFile, currentFile, onLogout,
 
       <div className="admin-sidebar-menu">
         <div className="admin-menu-label">Data Repository</div>
+
+        <button 
+          className={`admin-folder-btn ${currentFile === 'SEARCH' ? 'active' : ''}`}
+          onClick={() => onSelectFile('SEARCH')}
+          style={{ background: currentFile === 'SEARCH' ? 'rgba(168, 85, 247, 0.15)' : 'transparent', color: currentFile === 'SEARCH' ? 'var(--accent-violet)' : 'inherit', borderRadius: '8px', padding: '10px 12px', marginBottom: '12px' }}
+        >
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" width="16" height="16"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+          <span style={{ fontWeight: currentFile === 'SEARCH' ? 600 : 400 }}>Universal Search</span>
+        </button>
         
         {Object.keys(fileTree).sort().map(folder => (
           <div key={folder} className="admin-folder">

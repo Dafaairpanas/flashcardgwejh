@@ -4,8 +4,9 @@ import React, { useState, useEffect } from 'react';
 import { Octokit } from '@octokit/rest';
 import Sidebar from './Sidebar';
 import DataGrid from './DataGrid';
+import SearchClient from '../search/SearchClient';
 
-export default function AdminClient() {
+export default function AdminClient({ allData }) {
   const [authConfig, setAuthConfig] = useState(null);
   const [octokit, setOctokit] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
@@ -177,7 +178,7 @@ export default function AdminClient() {
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
             </button>
             <h2 className="admin-page-title">
-              {currentFile ? currentFile.replace('src/data/', '') : 'Dashboard'}
+              {currentFile === 'SEARCH' ? 'Universal Search' : currentFile ? currentFile.replace('src/data/', '') : 'Dashboard'}
             </h2>
           </div>
           <div className="admin-topbar-actions">
@@ -188,7 +189,9 @@ export default function AdminClient() {
         </div>
         
         <div className="admin-content">
-          {currentFile ? (
+          {currentFile === 'SEARCH' ? (
+            <SearchClient allData={allData} />
+          ) : currentFile ? (
             <DataGrid 
               filePath={currentFile} 
               octokit={octokit} 

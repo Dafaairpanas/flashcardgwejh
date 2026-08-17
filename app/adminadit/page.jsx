@@ -1,4 +1,5 @@
 import AdminClient from './AdminClient';
+import { fetchAllSearchData } from '../lib/serverData';
 
 export const metadata = {
   title: 'Dashboard Admin - AditFlashcard',
@@ -6,6 +7,7 @@ export const metadata = {
   robots: 'noindex, nofollow',
 };
 
-export default function AdminPage() {
-  return <AdminClient />;
+export default async function AdminPage() {
+  const allData = await fetchAllSearchData();
+  return <AdminClient allData={allData} />;
 }

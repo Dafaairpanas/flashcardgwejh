@@ -1,4 +1,5 @@
 import fs from 'fs';
+// Force reload data
 import path from 'path';
 import { toRomaji, cleanReading } from '../../src/romaji.js';
 
@@ -138,4 +139,150 @@ export function sortChapters(chapters) {
     // Both irodori — alphabetical is fine (irA1-01 < irA2.1-01 < irA2.2-01)
     return a.localeCompare(b);
   });
+}
+
+/**
+ * Fetch all available data across all categories for Universal Search.
+ * This is executed on the server during SSG build.
+ */
+export async function fetchAllSearchData() {
+  const dataDir = path.join(process.cwd(), 'src', 'data');
+  const cache = {
+    minna: [],
+    irodori: [],
+    kanji: [],
+    bunpou: [],
+    renshuu: []
+  };
+
+  const safeReadJSON = (filePath) => {
+    try {
+      if (fs.existsSync(filePath)) {
+        return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+      }
+    } catch (e) {
+      console.error(`Error reading ${filePath}:`, e);
+    }
+    return null;
+  };
+
+  // 1. Minna Kotoba
+  const minnaDir = path.join(dataDir, 'minna');
+  if (fs.existsSync(minnaDir)) {
+    for (let i = 1; i <= 50; i++) {
+      const num = String(i).padStart(2, '0');
+      const data = safeReadJSON(path.join(minnaDir, `bab-${num}.json`));
+      if (data) {
+        data.forEach(item => {
+          cache.minna.push({
+            id: item.id || '',
+            kanji: item.kanji || '',
+            hiragana: item.hiragana || '',
+            romaji: item.romaji || toRomaji(cleanReading(item.hiragana || '')),
+            meaning: item.meaning || '',
+            chapter: `Bab ${num}`,
+            _category: 'minna'
+          });
+        });
+      }
+    }
+  }
+
+  // 2. Irodori Kotoba
+  ['a1', 'a2-1', 'a2-2'].forEach(folder => {
+    const sectionDir = path.join(dataDir, 'irodori', folder);
+    if (fs.existsSync(sectionDir)) {
+      const files = fs.readdirSync(sectionDir).filter(f => f.endsWith('.json'));
+      files.forEach(file => {
+        const data = safeReadJSON(path.join(sectionDir, file));
+        if (data) {
+          data.forEach(item => {
+            cache.irodori.push({
+              id: item.id || '',
+              kanji: item.kanji || '',
+              hiragana: item.hiragana || '',
+              romaji: item.romaji || toRomaji(cleanReading(item.hiragana || '')),
+              meaning: item.meaning || '',
+              chapter: file.replace('.json', ''),
+              _category: 'irodori'
+            });
+          });
+        }
+      });
+    }
+  });
+
+  // 3. Kanji
+  const kanjiDir = path.join(dataDir, 'kanji');
+  if (fs.existsSync(kanjiDir)) {
+    const files = fs.readdirSync(kanjiDir).filter(f => f.endsWith('.json'));
+    files.forEach(file => {
+      const data = safeReadJSON(path.join(kanjiDir, file));
+      if (data) {
+        data.forEach(item => {
+          cache.kanji.push({
+            id: item.id || '',
+            kanji: item.kanji || '',
+            hiragana: item.hiragana || '',
+            romaji: item.romaji || toRomaji(cleanReading(item.hiragana || '')),
+            meaning: item.meaning || '',
+            chapter: file.replace('.json', ''),
+            _category: 'kanji'
+          });
+        });
+      }
+    });
+  }
+
+  // 4. Bunpou
+  const bunpouDir = path.join(dataDir, 'bunpou');
+  if (fs.existsSync(bunpouDir)) {
+    ['minna', 'irodori'].forEach(sub => {
+      const subDir = path.join(bunpouDir, sub);
+      if (fs.existsSync(subDir)) {
+        const files = fs.readdirSync(subDir).filter(f => f.endsWith('.json'));
+        files.forEach(file => {
+          const data = safeReadJSON(path.join(subDir, file));
+          if (data) {
+            data.forEach(item => {
+              cache.bunpou.push({
+                id: item.id || '',
+                title: item.title || '',
+                romajiTitle: item.romajiTitle || '',
+                formula: item.formula || '',
+                meaning: item.meaning || '',
+                chapter: item.chapter || file.replace('.json', ''),
+                examples: item.examples || [],
+                _category: 'bunpou'
+              });
+            });
+          }
+        });
+      }
+    });
+  }
+
+  // 5. Renshuu
+  const renshuuDir = path.join(dataDir, 'renshuu');
+  if (fs.existsSync(renshuuDir)) {
+    const files = fs.readdirSync(renshuuDir).filter(f => f.endsWith('.json'));
+    files.forEach(file => {
+      const data = safeReadJSON(path.join(renshuuDir, file));
+      if (data) {
+        data.forEach(item => {
+          cache.renshuu.push({
+            id: item.id || '',
+            kanji: item.kanji || '',
+            hiragana: item.hiragana || '',
+            romaji: item.romaji || toRomaji(cleanReading(item.hiragana || '')),
+            meaning: item.meaning || '',
+            chapter: item.chapter || file.replace('.json', ''),
+            _category: 'renshuu'
+          });
+        });
+      }
+    });
+  }
+
+  return cache;
 }
