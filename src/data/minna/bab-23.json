@@ -213,7 +213,7 @@
     "romaji": "gasorinsutando",
     "meaning": "pompa bensin",
     "level": "-",
-    "importinity": 2
+    "importinity": 3
   },
   {
     "id": "mn-23-025",
@@ -222,7 +222,7 @@
     "romaji": "ippoutsuukou",
     "meaning": "satu arah",
     "level": "N4",
-    "importinity": 2
+    "importinity": 3
   },
   {
     "id": "mn-23-026",
@@ -231,7 +231,7 @@
     "romaji": "usetsukinshi",
     "meaning": "dilarang belok kanan",
     "level": "N2",
-    "importinity": 2
+    "importinity": 3
   },
   {
     "id": "mn-23-027",
@@ -267,7 +267,7 @@
     "romaji": "kousokudouro",
     "meaning": "jalan tol",
     "level": "N3",
-    "importinity": 2
+    "importinity": 3
   },
   {
     "id": "mn-23-031",
@@ -276,7 +276,7 @@
     "romaji": "saka",
     "meaning": "lereng",
     "level": "N2",
-    "importinity": 2
+    "importinity": 3
   },
   {
     "id": "mn-23-032",
@@ -285,7 +285,7 @@
     "romaji": "tomare",
     "meaning": "berhenti",
     "level": "N4",
-    "importinity": 2
+    "importinity": 3
   },
   {
     "id": "mn-23-033",
@@ -294,7 +294,7 @@
     "romaji": "shadou",
     "meaning": "jalan mobil",
     "level": "N4",
-    "importinity": 2
+    "importinity": 3
   },
   {
     "id": "mn-23-034",
@@ -312,7 +312,7 @@
     "romaji": "shinnyuukinshi",
     "meaning": "dilarang masuk",
     "level": "N2",
-    "importinity": 2
+    "importinity": 3
   },
   {
     "id": "mn-23-036",
@@ -321,7 +321,7 @@
     "romaji": "chuushakinshi",
     "meaning": "dilarang parkir",
     "level": "N2",
-    "importinity": 2
+    "importinity": 3
   },
   {
     "id": "mn-23-037",
@@ -339,7 +339,7 @@
     "romaji": "fumikiri",
     "meaning": "lintasan kereta api",
     "level": "-",
-    "importinity": 2
+    "importinity": 3
   },
   {
     "id": "mn-23-039",
@@ -348,7 +348,7 @@
     "romaji": "douro・koutsuu",
     "meaning": "Jalan, Lalu Lintas",
     "level": "N3",
-    "importinity": 2
+    "importinity": 3
   },
   {
     "id": "mn-23-040",
@@ -357,7 +357,7 @@
     "romaji": "hodou",
     "meaning": "trotoar (tempat pejalan kaki)",
     "level": "N4",
-    "importinity": 2
+    "importinity": 3
   },
   {
     "id": "mn-23-041",
