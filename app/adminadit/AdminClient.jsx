@@ -297,18 +297,20 @@ export default function AdminClient({ allData }) {
                         
                         try {
                           const text = await file.text();
-                          const lines = text.split('\n').filter(line => line.trim());
+                          const cleanText = text.replace(/\r/g, '');
+                          const lines = cleanText.split('\n').filter(line => line.trim());
                           if (lines.length <= 1) throw new Error('File kosong atau hanya berisi header');
                           
-                          const header = lines[0].split(';');
+                          const header = lines[0].split(';').map(h => h.trim());
                           const dataRows = lines.slice(1);
                           
                           const parsedData = dataRows.map(row => {
                             const cols = row.split(';');
                             const obj = {};
                             header.forEach((key, i) => {
-                              if (key === 'importinity') obj[key] = parseInt(cols[i]) || 1;
-                              else obj[key] = cols[i] || '';
+                              const val = cols[i] ? cols[i].trim() : '';
+                              if (key === 'importinity') obj[key] = parseInt(val) || 1;
+                              else obj[key] = val;
                             });
                             return obj;
                           });
