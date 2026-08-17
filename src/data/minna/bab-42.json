@@ -6,7 +6,8 @@
     "romaji": "~niyotte",
     "meaning": "oleh ~",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-002",
@@ -15,7 +16,8 @@
     "romaji": "apaato",
     "meaning": "apartmen",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-003",
@@ -24,7 +26,8 @@
     "romaji": "aru~",
     "meaning": "suatu ~",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-004",
@@ -33,7 +36,8 @@
     "romaji": "eriizenotameni",
     "meaning": "Kepada Elise (nama musik)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-005",
@@ -42,7 +46,8 @@
     "romaji": "kappumen",
     "meaning": "mie instan (diisi di dalam tempat sekali pakai seperti mangkuk plastik)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-006",
@@ -51,7 +56,8 @@
     "romaji": "kodomonyuusu",
     "meaning": "berita fiksi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-007",
@@ -60,7 +66,8 @@
     "romaji": "soroban",
     "meaning": "sempoa",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-008",
@@ -69,7 +76,8 @@
     "romaji": "chikinraamen",
     "meaning": "nama produk mie instan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-009",
@@ -78,7 +86,8 @@
     "romaji": "donokurai",
     "meaning": "berapa banyak",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-010",
@@ -87,7 +96,8 @@
     "romaji": "donburi",
     "meaning": "mangkuk",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-011",
@@ -96,7 +106,8 @@
     "romaji": "naze",
     "meaning": "kenapa",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-012",
@@ -105,7 +116,8 @@
     "romaji": "noshibukuro",
     "meaning": "amplop khusus untuk mengisi uang",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-013",
@@ -114,7 +126,8 @@
     "romaji": "futa",
     "meaning": "tutup",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-014",
@@ -123,7 +136,8 @@
     "romaji": "furoshiki",
     "meaning": "kain untuk membungkus barang",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-015",
@@ -132,7 +146,8 @@
     "romaji": "beetooben",
     "meaning": "Ludwig van Beethoven, musisi Jerman (1770-1827)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-016",
@@ -141,7 +156,8 @@
     "romaji": "mikisaa",
     "meaning": "mixer, alat pencampur listrik",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-017",
@@ -150,7 +166,8 @@
     "romaji": "men",
     "meaning": "mie",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-018",
@@ -159,7 +176,8 @@
     "romaji": "yakan",
     "meaning": "ceret, ketel",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-019",
@@ -168,7 +186,8 @@
     "romaji": "roon",
     "meaning": "kredit",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-020",
@@ -177,7 +196,8 @@
     "romaji": "andoumomofuku",
     "meaning": "pengusaha Jepang, penemu (1910-2007)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-021",
@@ -186,7 +206,8 @@
     "romaji": "isshoukenmei",
     "meaning": "sungguh-sungguh",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-022",
@@ -195,7 +216,8 @@
     "romaji": "ongakuka",
     "meaning": "musisi",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-023",
@@ -204,7 +226,8 @@
     "romaji": "tanoshimi",
     "meaning": "kesenangan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-024",
@@ -213,7 +236,8 @@
     "romaji": "warimasu",
     "meaning": "membagi",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-025",
@@ -222,7 +246,8 @@
     "romaji": "kanzume",
     "meaning": "makanan kaleng",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-026",
@@ -231,7 +256,8 @@
     "romaji": "kankiri",
     "meaning": "pembuka kaleng",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-027",
@@ -240,7 +266,8 @@
     "romaji": "kyouiku",
     "meaning": "pendidikan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-028",
@@ -249,7 +276,8 @@
     "romaji": "keisanshimasu",
     "meaning": "menghitung",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-029",
@@ -258,7 +286,8 @@
     "romaji": "hiromemasu",
     "meaning": "menyebarluaskan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-030",
@@ -267,7 +296,8 @@
     "romaji": "kokuren",
     "meaning": "Perserikatan Bangsa-Bangsa",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-031",
@@ -276,7 +306,8 @@
     "romaji": "mazemasu",
     "meaning": "mencampur",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-032",
@@ -285,7 +316,8 @@
     "romaji": "zairyou",
     "meaning": "bahan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-033",
@@ -294,7 +326,8 @@
     "romaji": "kodomotachi",
     "meaning": "anak-anak",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-034",
@@ -303,7 +336,8 @@
     "romaji": "shijouchousa",
     "meaning": "riset pemasaran",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-035",
@@ -312,7 +346,8 @@
     "romaji": "shizen",
     "meaning": "alam",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-036",
@@ -321,16 +356,18 @@
     "romaji": "shakai",
     "meaning": "sosial",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-037",
-    "kanji": "出ます［ボーナスが～］",
+    "kanji": "出ます",
     "hiragana": "でます",
     "romaji": "demasu",
     "meaning": "diberi [bonus]",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-038",
@@ -339,7 +376,8 @@
     "romaji": "joubuna",
     "meaning": "kuat",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-039",
@@ -348,7 +386,8 @@
     "romaji": "sekaihatsu",
     "meaning": "pertama di dunia",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-040",
@@ -357,7 +396,8 @@
     "romaji": "seiji",
     "meaning": "politik",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-041",
@@ -366,7 +406,8 @@
     "romaji": "sensou",
     "meaning": "perang",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-042",
@@ -375,7 +416,8 @@
     "romaji": "sennuki",
     "meaning": "pembuka botol",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-043",
@@ -384,7 +426,8 @@
     "romaji": "taionkei",
     "meaning": "termometer",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-044",
@@ -393,7 +436,8 @@
     "romaji": "sosogimasu",
     "meaning": "menyiram",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-045",
@@ -402,7 +446,8 @@
     "romaji": "hanbun",
     "meaning": "setengah",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-046",
@@ -411,7 +456,8 @@
     "romaji": "wakashimasu",
     "meaning": "memasak",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-047",
@@ -420,7 +466,8 @@
     "romaji": "bunka",
     "meaning": "budaya",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-048",
@@ -429,7 +476,8 @@
     "romaji": "heiwa",
     "meaning": "damai, perdamaian",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-049",
@@ -438,7 +486,8 @@
     "romaji": "narabimasu",
     "meaning": "berbaris",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-050",
@@ -447,7 +496,8 @@
     "romaji": "bengoshi",
     "meaning": "pengacara",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-051",
@@ -456,7 +506,8 @@
     "romaji": "tsutsumimasu",
     "meaning": "membungkus",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-052",
@@ -465,7 +516,8 @@
     "romaji": "houritsu",
     "meaning": "hukum",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-053",
@@ -474,7 +526,8 @@
     "romaji": "mokuteki",
     "meaning": "tujuan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-054",
@@ -483,43 +536,48 @@
     "romaji": "ronbun",
     "meaning": "tesis",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-055",
-    "kanji": "［くぎを］打つ",
+    "kanji": "打つ",
     "hiragana": "［くぎを］うつ",
     "romaji": "[kugiwo]utsu",
     "meaning": "memaku",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-056",
-    "kanji": "［ねじを］締める／緩める",
+    "kanji": "締める／緩める",
     "hiragana": "［ねじを］しめる／ゆるめる",
     "romaji": "[nejiwo]shimeru/yurumeru",
     "meaning": "mengetatkan, mengeratkan/melonggarkan [sekrup]",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-057",
-    "kanji": "［穴を］開ける",
+    "kanji": "開ける",
     "hiragana": "［あなを］あける",
     "romaji": "[anawo]akeru",
     "meaning": "melubangi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-058",
-    "kanji": "［線を］引く／測る",
+    "kanji": "引く／測る",
     "hiragana": "［せんを］ひく／はかる",
     "romaji": "[senwo]hiku/hakaru",
     "meaning": "menggaris/mengukur",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-059",
@@ -528,7 +586,8 @@
     "romaji": "kattaa",
     "meaning": "pisau",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-060",
@@ -537,7 +596,8 @@
     "romaji": "gamuteepu",
     "meaning": "selotip kertas",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-061",
@@ -546,7 +606,8 @@
     "romaji": "kurippu",
     "meaning": "jepitan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-062",
@@ -555,7 +616,8 @@
     "romaji": "seroteepu",
     "meaning": "selotip",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-063",
@@ -564,7 +626,8 @@
     "romaji": "tojiru",
     "meaning": "menjilid",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-064",
@@ -573,7 +636,8 @@
     "romaji": "doraibaa",
     "meaning": "obeng",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-065",
@@ -582,7 +646,8 @@
     "romaji": "nokogiri",
     "meaning": "gergaji",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-066",
@@ -591,7 +656,8 @@
     "romaji": "nori",
     "meaning": "lem",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-067",
@@ -600,7 +666,8 @@
     "romaji": "hasami",
     "meaning": "gunting",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-068",
@@ -609,7 +676,8 @@
     "romaji": "haru",
     "meaning": "menempelkan",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-069",
@@ -618,7 +686,8 @@
     "romaji": "panchi",
     "meaning": "pelubang kertas",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-070",
@@ -627,7 +696,8 @@
     "romaji": "fairu",
     "meaning": "map",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-071",
@@ -636,7 +706,8 @@
     "romaji": "fairusuru",
     "meaning": "mengarsipkan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-072",
@@ -645,7 +716,8 @@
     "romaji": "penchi",
     "meaning": "tang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-073",
@@ -654,7 +726,8 @@
     "romaji": "hotchikisu",
     "meaning": "stepler",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-074",
@@ -663,7 +736,8 @@
     "romaji": "enpitsukezuri",
     "meaning": "peruncing pensil",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-075",
@@ -672,7 +746,8 @@
     "romaji": "gabyou",
     "meaning": "paku payung",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-076",
@@ -681,7 +756,8 @@
     "romaji": "hasamu/tojiru",
     "meaning": "menjepit/menjilid",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-077",
@@ -690,7 +766,8 @@
     "romaji": "hasamu/mageru/kiru",
     "meaning": "menjepit/membengkokkan/melengkungkan/memotong",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-078",
@@ -699,7 +776,8 @@
     "romaji": "kanazuchi",
     "meaning": "palu",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-079",
@@ -708,7 +786,8 @@
     "romaji": "keisansuru",
     "meaning": "menghitung",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-080",
@@ -717,7 +796,8 @@
     "romaji": "kezuru",
     "meaning": "meruncingkan",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-081",
@@ -726,7 +806,8 @@
     "romaji": "shuuseieki",
     "meaning": "penghapus cair",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-082",
@@ -735,7 +816,8 @@
     "romaji": "keshigomu",
     "meaning": "penghapus karet",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-083",
@@ -744,7 +826,8 @@
     "romaji": "kesu",
     "meaning": "menghapus",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-084",
@@ -753,7 +836,8 @@
     "romaji": "kiru",
     "meaning": "memotong, menggunting",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-085",
@@ -762,7 +846,8 @@
     "romaji": "jougi(monosashi)",
     "meaning": "penggaris",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-086",
@@ -771,7 +856,8 @@
     "romaji": "dentaku",
     "meaning": "kalkulator",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   },
   {
     "id": "mn-42-087",
@@ -780,6 +866,7 @@
     "romaji": "tomeru",
     "meaning": "menyematkan",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 42"
   }
 ]

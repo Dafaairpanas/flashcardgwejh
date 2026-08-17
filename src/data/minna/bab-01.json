@@ -6,7 +6,8 @@
     "romaji": "~karakimashita",
     "meaning": "Datang dari…..",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-002",
@@ -15,7 +16,8 @@
     "romaji": "~san",
     "meaning": "Saudara……. (Sopan ke lebih tua)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-003",
@@ -24,7 +26,8 @@
     "romaji": "~chan",
     "meaning": "Panggilan untuk anak laki/perempuan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-004",
@@ -33,7 +36,8 @@
     "romaji": "~sai",
     "meaning": "Tahun….. ( Umur )",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-005",
@@ -42,7 +46,8 @@
     "romaji": "~jin",
     "meaning": "Orang……. ( Orang dari negara....)",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-006",
@@ -51,7 +56,8 @@
     "romaji": "anata",
     "meaning": "Anda",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-007",
@@ -60,7 +66,8 @@
     "romaji": "anohito",
     "meaning": "Orang itu (biasa)",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-008",
@@ -69,7 +76,8 @@
     "romaji": "anokata",
     "meaning": "Orang itu / Beliau (sopan)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-009",
@@ -78,7 +86,8 @@
     "romaji": "amerika",
     "meaning": "Amerika Serikat",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-010",
@@ -87,7 +96,8 @@
     "romaji": "iie",
     "meaning": "Tidak",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-011",
@@ -96,7 +106,8 @@
     "romaji": "igirisu",
     "meaning": "Inggris",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-012",
@@ -105,7 +116,8 @@
     "romaji": "itaria",
     "meaning": "Italia",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-013",
@@ -114,7 +126,8 @@
     "romaji": "indo",
     "meaning": "India",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-014",
@@ -123,7 +136,8 @@
     "romaji": "indoneshia",
     "meaning": "Indonesia",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-015",
@@ -132,7 +146,8 @@
     "romaji": "oikutsu",
     "meaning": "Umur berapa?(sopan)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-016",
@@ -141,7 +156,8 @@
     "romaji": "onamaeha",
     "meaning": "Nama anda siapa?",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-017",
@@ -150,7 +166,8 @@
     "romaji": "tai",
     "meaning": "Thailand",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-018",
@@ -159,7 +176,8 @@
     "romaji": "dare",
     "meaning": "Siapa (biasa)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-019",
@@ -168,7 +186,8 @@
     "romaji": "doitsu",
     "meaning": "Jerman",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-020",
@@ -177,7 +196,8 @@
     "romaji": "douzoyoroshikuonegaishimasu",
     "meaning": "Salam Kenal ( Terimalah perkenalan saya )",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-021",
@@ -186,7 +206,8 @@
     "romaji": "donata",
     "meaning": "Siapa (sopan)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-022",
@@ -195,7 +216,8 @@
     "romaji": "hai",
     "meaning": "Iya",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-023",
@@ -204,7 +226,8 @@
     "romaji": "hajimemashite",
     "meaning": "Perkenalkan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-024",
@@ -213,7 +236,8 @@
     "romaji": "burajiru",
     "meaning": "Brazil",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-025",
@@ -222,7 +246,8 @@
     "romaji": "isha",
     "meaning": "Dokter",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-026",
@@ -231,7 +256,8 @@
     "romaji": "nansai",
     "meaning": "Umur berapa?(biasa)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-027",
@@ -240,7 +266,8 @@
     "romaji": "kaishain",
     "meaning": "Pegawai / Karyawan perusahaan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-028",
@@ -249,7 +276,8 @@
     "romaji": "gakusei",
     "meaning": "Siswa,murid",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-029",
@@ -258,7 +286,8 @@
     "romaji": "kankoku",
     "meaning": "Korea Selatan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-030",
@@ -267,7 +296,8 @@
     "romaji": "kyoushi",
     "meaning": "Guru,dosen (dipakai untuk kalangan sendiri)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-031",
@@ -276,7 +306,8 @@
     "romaji": "ginkouin",
     "meaning": "Pegawai bank",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-032",
@@ -285,7 +316,8 @@
     "romaji": "kenkyuusha",
     "meaning": "Peneliti",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-033",
@@ -294,7 +326,8 @@
     "romaji": "watashi",
     "meaning": "Saya",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-034",
@@ -303,7 +336,8 @@
     "romaji": "shitsureidesuga",
     "meaning": "Permisi",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-035",
@@ -312,7 +346,8 @@
     "romaji": "shain",
     "meaning": "Pegawai / Karyawan perusahaan ( A の しゃいん)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-036",
@@ -321,7 +356,8 @@
     "romaji": "sensei",
     "meaning": "Guru,dosen ( Tidak untuk menyebut pekerjaan sendiri )",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-037",
@@ -330,7 +366,8 @@
     "romaji": "daigaku",
     "meaning": "Universitas",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-038",
@@ -339,7 +376,8 @@
     "romaji": "chuugoku",
     "meaning": "Cina",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-039",
@@ -348,7 +386,8 @@
     "romaji": "nihon",
     "meaning": "Jepang",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-040",
@@ -357,7 +396,8 @@
     "romaji": "byouin",
     "meaning": "Rumah sakit",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-041",
@@ -366,7 +406,8 @@
     "romaji": "iran",
     "meaning": "Iran",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-042",
@@ -375,7 +416,8 @@
     "romaji": "ejiputo",
     "meaning": "Mesir",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-043",
@@ -384,7 +426,8 @@
     "romaji": "oosutoraria",
     "meaning": "Australia",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-044",
@@ -393,7 +436,8 @@
     "romaji": "kanada",
     "meaning": "Kanada",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-045",
@@ -402,7 +446,8 @@
     "romaji": "saujiarabia",
     "meaning": "Arab Saudi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-046",
@@ -411,7 +456,8 @@
     "romaji": "shingapooru",
     "meaning": "Singapura",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-047",
@@ -420,7 +466,8 @@
     "romaji": "supein",
     "meaning": "Spanyol",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-048",
@@ -429,7 +476,8 @@
     "romaji": "firipin",
     "meaning": "Filipina",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-049",
@@ -438,7 +486,8 @@
     "romaji": "furansu",
     "meaning": "Perancis",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-050",
@@ -447,7 +496,8 @@
     "romaji": "betonamu",
     "meaning": "Vietnam",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-051",
@@ -456,7 +506,8 @@
     "romaji": "perushia",
     "meaning": "Persia",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-052",
@@ -465,7 +516,8 @@
     "romaji": "mareeshia",
     "meaning": "Malaysia",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-053",
@@ -474,7 +526,8 @@
     "romaji": "mekishiko",
     "meaning": "Meksiko",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 01"
   },
   {
     "id": "mn-01-054",
@@ -483,6 +536,7 @@
     "romaji": "roshia",
     "meaning": "Rusia",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 01"
   }
 ]

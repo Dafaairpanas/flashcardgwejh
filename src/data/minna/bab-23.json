@@ -6,7 +6,8 @@
     "romaji": "[o]yu",
     "meaning": "air panas",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-002",
@@ -15,7 +16,8 @@
     "romaji": "-me",
     "meaning": "yang ke ー (mengungkapkan urutan)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-003",
@@ -24,7 +26,8 @@
     "romaji": "saizu",
     "meaning": "ukuran",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-004",
@@ -33,7 +36,8 @@
     "romaji": "hikimasuⅠ",
     "meaning": "tarik",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-005",
@@ -42,7 +46,8 @@
     "romaji": "oto",
     "meaning": "bunyi, suara",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-006",
@@ -51,7 +56,8 @@
     "romaji": "nankaimo",
     "meaning": "berkali-kali",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-007",
@@ -60,7 +66,8 @@
     "romaji": "mawashimasuⅠ",
     "meaning": "memutar",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-008",
@@ -69,7 +76,8 @@
     "romaji": "kado",
     "meaning": "sudut",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-009",
@@ -78,16 +86,18 @@
     "romaji": "hashi",
     "meaning": "jembatan",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-010",
-    "kanji": "曲がります [右へ〜]",
+    "kanji": "曲がります",
     "hiragana": "まがりますⅠ [みぎへ〜]",
     "romaji": "magarimasuⅠ [migihe~]",
     "meaning": "belok [ke kanan]",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-011",
@@ -96,7 +106,8 @@
     "romaji": "tatemono",
     "meaning": "gedung",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-012",
@@ -105,7 +116,8 @@
     "romaji": "koshou",
     "meaning": "kerusakan (〜します：rusak)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-013",
@@ -114,7 +126,8 @@
     "romaji": "kousaten",
     "meaning": "perempatan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-014",
@@ -123,16 +136,18 @@
     "romaji": "sabishii",
     "meaning": "sepi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-015",
-    "kanji": "出ます [お釣りが〜]",
+    "kanji": "出ます",
     "hiragana": "でますⅡ [おつりが〜]",
     "romaji": "demasuⅡ [otsuriga~]",
     "meaning": "keluar [uang kembalian]",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-016",
@@ -141,7 +156,8 @@
     "romaji": "sawarimasuⅠ [doani~]",
     "meaning": "menyentuh [pintu]",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-017",
@@ -150,7 +166,8 @@
     "romaji": "shingou",
     "meaning": "lampu lalu lintas",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-018",
@@ -159,16 +176,18 @@
     "romaji": "chuushajou",
     "meaning": "tempat parkir",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-019",
-    "kanji": "渡ります [橋を〜]",
+    "kanji": "渡ります",
     "hiragana": "わたりますⅠ [はしを〜]",
     "romaji": "watarimasuⅠ [hashiwo~]",
     "meaning": "menyeberang [jembatan]",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-020",
@@ -177,16 +196,18 @@
     "romaji": "michi",
     "meaning": "jalan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-021",
-    "kanji": "聞きます [先生に〜]",
+    "kanji": "聞きます",
     "hiragana": "ききますⅠ [せんせいに〜]",
     "romaji": "kikimasuⅠ [senseini~]",
     "meaning": "bertanya [kepada guru]",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-022",
@@ -195,7 +216,8 @@
     "romaji": "kaemasuⅡ",
     "meaning": "mengubah",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-023",
@@ -204,7 +226,8 @@
     "romaji": "arukimasuⅠ",
     "meaning": "berjalan kaki",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-024",
@@ -213,7 +236,8 @@
     "romaji": "gasorinsutando",
     "meaning": "pompa bensin",
     "level": "-",
-    "importinity": 3
+    "importinity": 2,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-025",
@@ -222,7 +246,8 @@
     "romaji": "ippoutsuukou",
     "meaning": "satu arah",
     "level": "N4",
-    "importinity": 3
+    "importinity": 2,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-026",
@@ -231,7 +256,8 @@
     "romaji": "usetsukinshi",
     "meaning": "dilarang belok kanan",
     "level": "N2",
-    "importinity": 3
+    "importinity": 2,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-027",
@@ -240,7 +266,8 @@
     "romaji": "oudanhodou",
     "meaning": "tempat menyeberang",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-028",
@@ -249,7 +276,8 @@
     "romaji": "kado",
     "meaning": "belokan, pengkolan, tikungan",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-029",
@@ -258,7 +286,8 @@
     "romaji": "kousaten",
     "meaning": "perempatan",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-030",
@@ -267,7 +296,8 @@
     "romaji": "kousokudouro",
     "meaning": "jalan tol",
     "level": "N3",
-    "importinity": 3
+    "importinity": 2,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-031",
@@ -276,7 +306,8 @@
     "romaji": "saka",
     "meaning": "lereng",
     "level": "N2",
-    "importinity": 3
+    "importinity": 2,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-032",
@@ -285,7 +316,8 @@
     "romaji": "tomare",
     "meaning": "berhenti",
     "level": "N4",
-    "importinity": 3
+    "importinity": 2,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-033",
@@ -294,7 +326,8 @@
     "romaji": "shadou",
     "meaning": "jalan mobil",
     "level": "N4",
-    "importinity": 3
+    "importinity": 2,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-034",
@@ -303,7 +336,8 @@
     "romaji": "shingou",
     "meaning": "lampu lalu lintas",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-035",
@@ -312,7 +346,8 @@
     "romaji": "shinnyuukinshi",
     "meaning": "dilarang masuk",
     "level": "N2",
-    "importinity": 3
+    "importinity": 2,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-036",
@@ -321,7 +356,8 @@
     "romaji": "chuushakinshi",
     "meaning": "dilarang parkir",
     "level": "N2",
-    "importinity": 3
+    "importinity": 2,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-037",
@@ -330,7 +366,8 @@
     "romaji": "toori",
     "meaning": "jalan",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-038",
@@ -339,7 +376,8 @@
     "romaji": "fumikiri",
     "meaning": "lintasan kereta api",
     "level": "-",
-    "importinity": 3
+    "importinity": 2,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-039",
@@ -348,7 +386,8 @@
     "romaji": "douro・koutsuu",
     "meaning": "Jalan, Lalu Lintas",
     "level": "N3",
-    "importinity": 3
+    "importinity": 2,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-040",
@@ -357,7 +396,8 @@
     "romaji": "hodou",
     "meaning": "trotoar (tempat pejalan kaki)",
     "level": "N4",
-    "importinity": 3
+    "importinity": 2,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-041",
@@ -366,7 +406,8 @@
     "romaji": "hodoukyou",
     "meaning": "jembatan penyeberangan",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-042",
@@ -375,7 +416,8 @@
     "romaji": "genkicha",
     "meaning": "teh fiksi",
     "level": "N4",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-043",
@@ -384,7 +426,8 @@
     "romaji": "toshokanmae",
     "meaning": "halte bus fiksi",
     "level": "N4",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-044",
@@ -393,7 +436,8 @@
     "romaji": "shoutokutaishi",
     "meaning": "Pangeran Shotoku (574-622)",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-045",
@@ -402,7 +446,8 @@
     "romaji": "houryuuji",
     "meaning": "nama wihara yang dibagun oleh Pangeran Shotoku pada awal abad ke tujuh di Nara",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 23"
   },
   {
     "id": "mn-23-046",
@@ -411,6 +456,7 @@
     "romaji": "hondaeki",
     "meaning": "stasiun fiksi",
     "level": "N4",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 23"
   }
 ]

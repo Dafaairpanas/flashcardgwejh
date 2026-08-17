@@ -6,7 +6,8 @@
     "romaji": "umai",
     "meaning": "enak, lezat",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-002",
@@ -15,7 +16,8 @@
     "romaji": "gasorin",
     "meaning": "bensin",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-003",
@@ -24,7 +26,8 @@
     "romaji": "tsumaranai",
     "meaning": "tidak menarik, tidak berguna, percuma",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-004",
@@ -33,25 +36,28 @@
     "romaji": "doraibu",
     "meaning": "berjalan-jalan dengan mobil",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-005",
-    "kanji": "とれます［ボタンが～］",
+    "kanji": "とれます",
     "hiragana": "とれます",
     "romaji": "toremasu",
     "meaning": "[kancing] terlepas",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-006",
-    "kanji": "なくなります［ガソリンが～］",
+    "kanji": "なくなります",
     "hiragana": "なくなります",
     "romaji": "nakunarimasu",
     "meaning": "[bensin] habis",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-007",
@@ -60,7 +66,8 @@
     "romaji": "bara",
     "meaning": "bunga mawar",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-008",
@@ -69,7 +76,8 @@
     "romaji": "panfuretto",
     "meaning": "pamflet",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-009",
@@ -78,7 +86,8 @@
     "romaji": "mazui",
     "meaning": "tidak enak, tidak sedap",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-010",
@@ -87,16 +96,18 @@
     "romaji": "waa",
     "meaning": "Wah!",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-011",
-    "kanji": "下がります［値段が～］",
+    "kanji": "下がります",
     "hiragana": "さがります",
     "romaji": "sagarimasu",
     "meaning": "[harga] menurun",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-012",
@@ -105,7 +116,8 @@
     "romaji": "hi",
     "meaning": "api",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-013",
@@ -114,16 +126,18 @@
     "romaji": "rakuna",
     "meaning": "ringan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-014",
-    "kanji": "減ります［輸出が～］",
+    "kanji": "減ります",
     "hiragana": "へります",
     "romaji": "herimasu",
     "meaning": "[ekspor] berkurang",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-015",
@@ -132,7 +146,8 @@
     "romaji": "shiawasena",
     "meaning": "bahagia",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-016",
@@ -141,7 +156,8 @@
     "romaji": "imanimo",
     "meaning": "sekarang juga (dipakai untuk menggambarkan kondisi persis akan terjadi perubahan)",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-017",
@@ -150,34 +166,38 @@
     "romaji": "ayamarimasu",
     "meaning": "memohon maaf",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-018",
-    "kanji": "上がります［値段が～］",
+    "kanji": "上がります",
     "hiragana": "あがります",
     "romaji": "agarimasu",
     "meaning": "[harga] meningkat",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-019",
-    "kanji": "切れます［ひもが～］",
+    "kanji": "切れます",
     "hiragana": "きれます",
     "romaji": "kiremasu",
     "meaning": "[tali] terputus",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-020",
-    "kanji": "増えます［輸出が～］",
+    "kanji": "増えます",
     "hiragana": "ふえます",
     "romaji": "fuemasu",
     "meaning": "[ekspor] bertambah",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-021",
@@ -186,7 +206,8 @@
     "romaji": "shiriaimasu",
     "meaning": "berkenalan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-022",
@@ -195,7 +216,8 @@
     "romaji": "henna",
     "meaning": "aneh",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-023",
@@ -204,16 +226,18 @@
     "romaji": "yasashii",
     "meaning": "baik hati",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-024",
-    "kanji": "落ちます［荷物が～］",
+    "kanji": "落ちます",
     "hiragana": "おちます",
     "romaji": "ochimasu",
     "meaning": "[barang] terjatuh",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-025",
@@ -222,7 +246,8 @@
     "romaji": "riyuu",
     "meaning": "alasan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-026",
@@ -231,7 +256,8 @@
     "romaji": "otonashii",
     "meaning": "pendiam",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-027",
@@ -240,7 +266,8 @@
     "romaji": "fumajimena",
     "meaning": "tidak serius, sembrono",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-028",
@@ -249,7 +276,8 @@
     "romaji": "majimena",
     "meaning": "serius, tekun",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-029",
@@ -258,7 +286,8 @@
     "romaji": "wagamamana",
     "meaning": "egois",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-030",
@@ -267,7 +296,8 @@
     "romaji": "kurai",
     "meaning": "muram",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-031",
@@ -276,7 +306,8 @@
     "romaji": "ijiwaruna",
     "meaning": "jahat",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-032",
@@ -285,7 +316,8 @@
     "romaji": "kappatsuna",
     "meaning": "aktif, giat",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-033",
@@ -294,7 +326,8 @@
     "romaji": "gankona",
     "meaning": "keras kepala",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-034",
@@ -303,7 +336,8 @@
     "romaji": "kigatsuyoi",
     "meaning": "bersifat keras, galak",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-035",
@@ -312,7 +346,8 @@
     "romaji": "kigayowai",
     "meaning": "penakut",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-036",
@@ -321,7 +356,8 @@
     "romaji": "kigamijikai",
     "meaning": "tidak sabar, cepat marah",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-037",
@@ -330,7 +366,8 @@
     "romaji": "kiganagai",
     "meaning": "kalem",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-038",
@@ -339,7 +376,8 @@
     "romaji": "kibishii",
     "meaning": "keras, disiplin",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-039",
@@ -348,7 +386,8 @@
     "romaji": "kachikina",
     "meaning": "tidak mau kalah",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-040",
@@ -357,7 +396,8 @@
     "romaji": "shinkeishitsuna",
     "meaning": "gelisah, gugup",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-041",
@@ -366,7 +406,8 @@
     "romaji": "seijitsuna",
     "meaning": "setia",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-042",
@@ -375,7 +416,8 @@
     "romaji": "sunaona",
     "meaning": "penurut, lemah-lembut",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-043",
@@ -384,7 +426,8 @@
     "romaji": "akarui",
     "meaning": "ceria",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   },
   {
     "id": "mn-43-044",
@@ -393,6 +436,7 @@
     "romaji": "tsumetai",
     "meaning": "kaku",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 43"
   }
 ]

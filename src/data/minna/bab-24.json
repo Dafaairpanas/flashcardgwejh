@@ -6,7 +6,8 @@
     "romaji": "[o]kashi",
     "meaning": "kue",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-002",
@@ -15,7 +16,8 @@
     "romaji": "ojiisan/ojiichan",
     "meaning": "kakek",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-003",
@@ -24,7 +26,8 @@
     "romaji": "obaasan/obaachan",
     "meaning": "nenek",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-004",
@@ -33,7 +36,8 @@
     "romaji": "kuremasuⅡ",
     "meaning": "diberikan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-005",
@@ -42,7 +46,8 @@
     "romaji": "hoomusutei",
     "meaning": "homestay",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-006",
@@ -51,7 +56,8 @@
     "romaji": "hokani",
     "meaning": "selain, yang lain",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-007",
@@ -60,7 +66,8 @@
     "romaji": "annaishimasuⅢ",
     "meaning": "mengantarkan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-008",
@@ -69,7 +76,8 @@
     "romaji": "hikkoshi",
     "meaning": "pindah rumah (〜[を] します：pindah, memindahkan)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-009",
@@ -78,7 +86,8 @@
     "romaji": "jibunde",
     "meaning": "dengan sendiri",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-010",
@@ -87,7 +96,8 @@
     "romaji": "junbi",
     "meaning": "persiapan (〜[を] します：mempersiapkan, menyiapkan)",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-011",
@@ -96,7 +106,8 @@
     "romaji": "shoukaishimasuⅢ",
     "meaning": "memperkenalkan",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-012",
@@ -105,7 +116,8 @@
     "romaji": "setsumeishimasuⅢ",
     "meaning": "menjelaskan, menerangkan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-013",
@@ -114,16 +126,18 @@
     "romaji": "zenbu",
     "meaning": "semua",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-014",
-    "kanji": "送ります [人を〜]",
+    "kanji": "送ります",
     "hiragana": "おくりますⅠ [ひとを〜]",
     "romaji": "okurimasuⅠ [hitowo~]",
     "meaning": "mengantar [orang]",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-015",
@@ -132,7 +146,8 @@
     "romaji": "naoshimasuⅠ",
     "meaning": "mengoreksi",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-016",
@@ -141,7 +156,8 @@
     "romaji": "hahanohi",
     "meaning": "hari Ibu",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-017",
@@ -150,16 +166,18 @@
     "romaji": "tsurete ikimasuⅠ",
     "meaning": "membawa, mengajak pergi",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-018",
     "kanji": "連れて 来ます",
-    "hiragana": "つれて きますⅢ＊",
+    "hiragana": "つれて きますⅢ",
     "romaji": "tsurete kimasuⅢ",
     "meaning": "membawa datang, mengajak datang",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-019",
@@ -168,7 +186,8 @@
     "romaji": "omimai",
     "meaning": "Hadiah yang diberikan kepada orang yang sedang sakit (bunga, buah-buahan, dll.).",
     "level": "N3",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-020",
@@ -177,7 +196,8 @@
     "romaji": "okouden",
     "meaning": "Uang yang diberikan kepada keluarga yang berduka",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-021",
@@ -186,7 +206,8 @@
     "romaji": "oseibo",
     "meaning": "[Desember] Hadiah yang diberikan kepada orang yang telah memberi bantuan, seperti dokter, guru, atasan, dll. (makanan, dll.).",
     "level": "N3",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-022",
@@ -195,7 +216,8 @@
     "romaji": "ochuugen",
     "meaning": "[Juli atau Agustus] Hadiah yang diberikan kepada orang yang telah memberi bantuan, seperti dokter, guru, atasan, dll. (makanan, dll.).",
     "level": "N4",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-023",
@@ -204,7 +226,8 @@
     "romaji": "otoshidama",
     "meaning": "Hadiah kecil berupa uang yang diberikan orang tua dan keluarga kepada anak-anak pada Hari Tahun Baru.",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-024",
@@ -213,7 +236,8 @@
     "romaji": "kekkon'iwai",
     "meaning": "Hadiah perkawinan (uang, perlengkapan rumah tangga, dll.).",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-025",
@@ -222,7 +246,8 @@
     "romaji": "shussan'iwai",
     "meaning": "Hadiah yang diberikan kepada orang yang melahirkan (pakaian bayi, mainan bayi, dll.).",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-026",
@@ -231,7 +256,8 @@
     "romaji": "sotsugyouiwai",
     "meaning": "Hadiah yang diberikan kepada anak yang tamat sekolah (uang, perlengkapan sekolah, buku, dll.).",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 24"
   },
   {
     "id": "mn-24-027",
@@ -240,6 +266,7 @@
     "romaji": "nyuugakuiwai",
     "meaning": "Hadiah yang diberikan kepada anak yang masuk sekolah (uang, perlengkapan sekolah, buku, dll.).",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 24"
   }
 ]

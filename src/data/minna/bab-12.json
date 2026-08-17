@@ -6,7 +6,8 @@
     "romaji": "[o]sushi",
     "meaning": "Sushi (nasi dicampur cuka yang di atasnya diberi ikan mentah)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-002",
@@ -15,16 +16,18 @@
     "romaji": "[o]matsuri",
     "meaning": "perayaan",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-003",
-    "kanji": "いい [コーヒーが〜]",
+    "kanji": "いい",
     "hiragana": "いい [コーヒーが〜]",
     "romaji": "ii [koohiiga~]",
     "meaning": "lebih baik [kopi]",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-004",
@@ -33,7 +36,8 @@
     "romaji": "ichiban",
     "meaning": "paling",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-005",
@@ -42,7 +46,8 @@
     "romaji": "okaerinasai.",
     "meaning": "Sudah pulang ya.",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-006",
@@ -51,16 +56,18 @@
     "romaji": "shingapooru",
     "meaning": "Singapura",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-007",
     "kanji": "すき焼き",
-    "hiragana": "すきやき＊",
+    "hiragana": "すきやき",
     "romaji": "sukiyaki",
     "meaning": "Sukiyaki (masakan yang dimasak daging sapi dan sayur dalam panci)",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-008",
@@ -69,7 +76,8 @@
     "romaji": "waa,sugoi hitodesune.",
     "meaning": "Wah, banyak orang.",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-009",
@@ -78,7 +86,8 @@
     "romaji": "zutto",
     "meaning": "jauh lebih",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-010",
@@ -87,7 +96,8 @@
     "romaji": "tadaima.",
     "meaning": "Saya kembali./Saya pulang.",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-011",
@@ -96,7 +106,8 @@
     "romaji": "tenpura",
     "meaning": "Tempura (gorengan sari laut dan sayur yang dipakai tepung terigu)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-012",
@@ -105,7 +116,8 @@
     "romaji": "dochira",
     "meaning": "yang mana",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-013",
@@ -114,7 +126,8 @@
     "romaji": "dochiramo",
     "meaning": "dua-duanya, yang mana juga",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-014",
@@ -123,7 +136,8 @@
     "romaji": "toriniku",
     "meaning": "daging ayam",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-015",
@@ -132,7 +146,8 @@
     "romaji": "paateii",
     "meaning": "pesta (〜を します：berpesta)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-016",
@@ -141,7 +156,8 @@
     "romaji": "hoteru",
     "meaning": "hotel",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-017",
@@ -150,7 +166,8 @@
     "romaji": "honkon",
     "meaning": "Hong Kong (香港)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-018",
@@ -159,7 +176,8 @@
     "romaji": "remon",
     "meaning": "lemon",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-019",
@@ -168,7 +186,8 @@
     "romaji": "waa,sugoi hitodesune.",
     "meaning": "Wah, banyak orang.",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-020",
@@ -177,16 +196,18 @@
     "romaji": "ame",
     "meaning": "hujan",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-021",
     "kanji": "遠い",
-    "hiragana": "とおい＊",
+    "hiragana": "とおい",
     "romaji": "tooi",
     "meaning": "jauh",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-022",
@@ -195,7 +216,8 @@
     "romaji": "atatakai",
     "meaning": "Hangat (Benda/Perasaan)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-023",
@@ -204,7 +226,8 @@
     "romaji": "natsu",
     "meaning": "musim panas",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-024",
@@ -213,7 +236,8 @@
     "romaji": "umi",
     "meaning": "laut",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-025",
@@ -222,7 +246,8 @@
     "romaji": "amai",
     "meaning": "manis",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-026",
@@ -231,7 +256,8 @@
     "romaji": "kantan[na]",
     "meaning": "mudah, gampang",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-027",
@@ -240,7 +266,8 @@
     "romaji": "kisetsu",
     "meaning": "musim",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-028",
@@ -249,7 +276,8 @@
     "romaji": "gionmatsuri",
     "meaning": "Perayaan Gion (perayaan yang paling terkenal di Kyoto)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-029",
@@ -258,7 +286,8 @@
     "romaji": "gyuuniku",
     "meaning": "daging sapi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-030",
@@ -267,7 +296,8 @@
     "romaji": "chikai",
     "meaning": "dekat",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-031",
@@ -276,16 +306,18 @@
     "romaji": "kuukou",
     "meaning": "bandara",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-032",
     "kanji": "軽い",
-    "hiragana": "かるい＊",
+    "hiragana": "かるい",
     "romaji": "karui",
     "meaning": "ringan",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-033",
@@ -294,16 +326,18 @@
     "romaji": "momiji",
     "meaning": "maple, daun yang berubah warna menjadi merah",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-034",
     "kanji": "刺身",
-    "hiragana": "さしみ＊",
+    "hiragana": "さしみ",
     "romaji": "sashimi",
     "meaning": "Sashimi (ikan mentah yang dipotong tipis)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-035",
@@ -312,7 +346,8 @@
     "romaji": "aki",
     "meaning": "musim gugur",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-036",
@@ -321,7 +356,8 @@
     "romaji": "omoi",
     "meaning": "berat",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-037",
@@ -330,7 +366,8 @@
     "romaji": "haru",
     "meaning": "musim semi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-038",
@@ -339,16 +376,18 @@
     "romaji": "hajimete",
     "meaning": "untuk pertama kali",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-039",
-    "kanji": "少ない [人が〜]",
-    "hiragana": "すくない＊ [ひとが〜]",
+    "kanji": "少ない",
+    "hiragana": "すくない [ひとが〜]",
     "romaji": "sukunai [hitoga~]",
     "meaning": "sedikit [orang]",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-040",
@@ -357,7 +396,8 @@
     "romaji": "karai",
     "meaning": "pedas",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-041",
@@ -366,7 +406,8 @@
     "romaji": "sekai",
     "meaning": "dunia",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-042",
@@ -375,7 +416,8 @@
     "romaji": "ikebana",
     "meaning": "seni merangkai bunga (〜を します：merangkai bunga)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-043",
@@ -384,7 +426,8 @@
     "romaji": "yuki",
     "meaning": "salju",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-044",
@@ -393,7 +436,8 @@
     "romaji": "hayai",
     "meaning": "Cepat / Awal (Waktu)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-045",
@@ -402,16 +446,18 @@
     "romaji": "hayai",
     "meaning": "Cepat (Kecepatan/Bergerak)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-046",
-    "kanji": "多い [人が〜]",
+    "kanji": "多い",
     "hiragana": "おおい [ひとが〜]",
     "romaji": "ooi [hitoga~]",
     "meaning": "banyak [orang]",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-047",
@@ -420,16 +466,18 @@
     "romaji": "atatakai",
     "meaning": "Hangat (Cuaca/Iklim)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-048",
     "kanji": "遅い",
-    "hiragana": "おそい＊",
+    "hiragana": "おそい",
     "romaji": "osoi",
     "meaning": "lambat",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-049",
@@ -438,7 +486,8 @@
     "romaji": "tenki",
     "meaning": "cuaca",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-050",
@@ -447,16 +496,18 @@
     "romaji": "fuyu",
     "meaning": "musim dingin",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-051",
     "kanji": "豚肉",
-    "hiragana": "ぶたにく＊",
+    "hiragana": "ぶたにく",
     "romaji": "butaniku",
     "meaning": "daging babi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-052",
@@ -465,7 +516,8 @@
     "romaji": "kumori",
     "meaning": "mendung",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-053",
@@ -474,7 +526,8 @@
     "romaji": "tsukaremashita.",
     "meaning": "Lelah.",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   },
   {
     "id": "mn-12-054",
@@ -483,6 +536,7 @@
     "romaji": "suzushii",
     "meaning": "sejuk",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 12"
   }
 ]

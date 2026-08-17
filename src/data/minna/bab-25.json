@@ -1,12 +1,13 @@
 [
   {
     "id": "mn-25-001",
-    "kanji": "[いろいろ] お世話に なりました。",
+    "kanji": "お世話に なりました。",
     "hiragana": "[いろいろ] おせわに なりました。",
     "romaji": "[iroiro] osewani narimashita.",
     "meaning": "Terima kasih banyak bantuan Anda yang telah diberikan.",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-002",
@@ -15,7 +16,8 @@
     "romaji": "koto",
     "meaning": "hal (〜のこと：hal 〜)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-003",
@@ -24,7 +26,8 @@
     "romaji": "chansu",
     "meaning": "kesempatan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-004",
@@ -33,7 +36,8 @@
     "romaji": "douzo ogenkide.",
     "meaning": "Semoga sehat-sehat selalu. (digunakan ketika perpisahan dalam jangka waktu lama)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-005",
@@ -42,16 +46,18 @@
     "romaji": "betonamu",
     "meaning": "Vietnam",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-006",
-    "kanji": "もし [〜たら]",
+    "kanji": "もし",
     "hiragana": "もし [〜たら]",
     "romaji": "moshi [~tara]",
     "meaning": "kalau",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-007",
@@ -60,7 +66,8 @@
     "romaji": "moshimoshi",
     "meaning": "halo (digunakan ketika menelepon)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-008",
@@ -69,7 +76,8 @@
     "romaji": "imi",
     "meaning": "arti, makna",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-009",
@@ -78,7 +86,8 @@
     "romaji": "oku",
     "meaning": "ratus juta",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-010",
@@ -87,7 +96,8 @@
     "romaji": "hima",
     "meaning": "waktu luang",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-011",
@@ -96,7 +106,8 @@
     "romaji": "ganbarimasuⅠ",
     "meaning": "berusaha, bekerja keras",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-012",
@@ -105,16 +116,18 @@
     "romaji": "kangaemasuⅡ",
     "meaning": "berpikir, memikirkan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-013",
-    "kanji": "取ります [年を〜]",
+    "kanji": "取ります",
     "hiragana": "とりますⅠ [としを〜]",
     "romaji": "torimasuⅠ [toshiwo~]",
     "meaning": "berumur, lanjut usia",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-014",
@@ -123,7 +136,8 @@
     "romaji": "tarimasuⅡ",
     "meaning": "cukup",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-015",
@@ -132,7 +146,8 @@
     "romaji": "tsukimasuⅠ",
     "meaning": "tiba, sampai",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-016",
@@ -141,7 +156,8 @@
     "romaji": "tenkin",
     "meaning": "pindah ke kantor cabang lain atau jabatan lain (〜します：pindah kantor)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-017",
@@ -150,7 +166,8 @@
     "romaji": "inaka",
     "meaning": "desa, kampung halaman",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-018",
@@ -159,7 +176,8 @@
     "romaji": "(saikonshimasu)",
     "meaning": "menikah lagi",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-019",
@@ -168,7 +186,8 @@
     "romaji": "(rikonshimasu)",
     "meaning": "bercerai",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-020",
@@ -177,7 +196,8 @@
     "romaji": "gakkouni hairimasu",
     "meaning": "masuk sekolah",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-021",
@@ -186,7 +206,8 @@
     "romaji": "gakkouwo demasu",
     "meaning": "tamat sekolah",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-022",
@@ -195,7 +216,8 @@
     "romaji": "kekkonshimasu",
     "meaning": "menikah",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-023",
@@ -204,7 +226,8 @@
     "romaji": "koutougakkou",
     "meaning": "SMA (3)",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-024",
@@ -213,7 +236,8 @@
     "romaji": "shigotowo yamemasu",
     "meaning": "mengundurkan diri dari pekerjaan",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-025",
@@ -222,7 +246,8 @@
     "romaji": "kodomo",
     "meaning": "anak-anak (6歳)",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-026",
@@ -231,7 +256,8 @@
     "romaji": "kodomoga umaremasu",
     "meaning": "melahirkan anak",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-027",
@@ -240,7 +266,8 @@
     "romaji": "shinimasu",
     "meaning": "meninggal",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-028",
@@ -249,7 +276,8 @@
     "romaji": "shuushokushimasu",
     "meaning": "mendapat pekerjaan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-029",
@@ -258,7 +286,8 @@
     "romaji": "shougakkou",
     "meaning": "SD (6 tahun)",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-030",
@@ -267,7 +296,8 @@
     "romaji": "umaremasu",
     "meaning": "lahir",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-031",
@@ -276,7 +306,8 @@
     "romaji": "seinen",
     "meaning": "remaja (18歳)",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-032",
@@ -285,7 +316,8 @@
     "romaji": "akachan",
     "meaning": "bayi (0歳)",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-033",
@@ -294,7 +326,8 @@
     "romaji": "senmongakkou",
     "meaning": "sekolah tinggi keahlian (2)",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-034",
@@ -303,7 +336,8 @@
     "romaji": "daigaku",
     "meaning": "universitas (S1) (4)",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-035",
@@ -312,7 +346,8 @@
     "romaji": "daigakuin",
     "meaning": "universitas (S2) (2~6)",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-036",
@@ -321,7 +356,8 @@
     "romaji": "tandai",
     "meaning": "akademi (2)",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-037",
@@ -330,7 +366,8 @@
     "romaji": "chuugakkou",
     "meaning": "SMP (3)",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-038",
@@ -339,7 +376,8 @@
     "romaji": "chuunen",
     "meaning": "setengah baya (40歳)",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-039",
@@ -348,7 +386,8 @@
     "romaji": "hoikuen",
     "meaning": "playgroup",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-040",
@@ -357,7 +396,8 @@
     "romaji": "youchien",
     "meaning": "TK",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   },
   {
     "id": "mn-25-041",
@@ -366,6 +406,7 @@
     "romaji": "roujin",
     "meaning": "orang tua (70歳)",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 25"
   }
 ]

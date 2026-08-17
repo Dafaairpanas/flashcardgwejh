@@ -6,7 +6,8 @@
     "romaji": "~kata",
     "meaning": "cara 〜",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-002",
@@ -15,7 +16,8 @@
     "romaji": "atode",
     "meaning": "nanti",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-003",
@@ -24,7 +26,8 @@
     "romaji": "are？",
     "meaning": "Ah? (digunakan ketika heran atau merasa aneh)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-004",
@@ -33,7 +36,8 @@
     "romaji": "eakon",
     "meaning": "AC",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-005",
@@ -42,7 +46,8 @@
     "romaji": "otsuri",
     "meaning": "uang kembalian",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-006",
@@ -51,7 +56,8 @@
     "romaji": "kopiishimasuⅢ",
     "meaning": "memfotokopi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-007",
@@ -60,7 +66,8 @@
     "romaji": "korede onegaishimasu.",
     "meaning": "Minta dengan ini.",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-008",
@@ -69,7 +76,8 @@
     "romaji": "saa",
     "meaning": "mari (digunakan ketika mengajak atau menyuruh sesuatu kepada lawan bicara)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-009",
@@ -78,7 +86,8 @@
     "romaji": "sugu",
     "meaning": "segera, langsung",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-010",
@@ -87,7 +96,8 @@
     "romaji": "tsukemasuⅡ",
     "meaning": "menyalakan, memasang, menghidupkan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-011",
@@ -96,7 +106,8 @@
     "romaji": "pasupooto",
     "meaning": "paspor",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-012",
@@ -105,7 +116,8 @@
     "romaji": "mata",
     "meaning": "lagi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-013",
@@ -114,7 +126,8 @@
     "romaji": "massugu",
     "meaning": "lurus",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-014",
@@ -123,7 +136,8 @@
     "romaji": "mou ~",
     "meaning": "〜 lagi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-015",
@@ -132,7 +146,8 @@
     "romaji": "mou sukoshi",
     "meaning": "sedikit lagi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-016",
@@ -141,7 +156,8 @@
     "romaji": "yukkuri",
     "meaning": "pelan-pelan, istirahat dengan baik",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-017",
@@ -150,7 +166,8 @@
     "romaji": "shio",
     "meaning": "garam",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-018",
@@ -159,7 +176,8 @@
     "romaji": "akemasuⅡ",
     "meaning": "membuka",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-019",
@@ -168,16 +186,18 @@
     "romaji": "isogimasuⅠ",
     "meaning": "buru-buru",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-020",
-    "kanji": "教えます [住所を〜]",
+    "kanji": "教えます",
     "hiragana": "おしえますⅡ [じゅうしょを〜]",
     "romaji": "oshiemasuⅡ [juushowo~]",
     "meaning": "memberitahukan [alamat]",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-021",
@@ -186,7 +206,8 @@
     "romaji": "misemasuⅡ",
     "meaning": "memperlihatkan",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-022",
@@ -195,16 +216,18 @@
     "romaji": "yobimasuⅠ",
     "meaning": "memanggil",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-023",
-    "kanji": "降ります [雨が〜]",
+    "kanji": "降ります",
     "hiragana": "ふりますⅠ [あめが〜]",
     "romaji": "furimasuⅠ [amega~]",
     "meaning": "turun [hujan]",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-024",
@@ -213,7 +236,8 @@
     "romaji": "satou",
     "meaning": "gula",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-025",
@@ -222,7 +246,8 @@
     "romaji": "suwarimasuⅠ",
     "meaning": "duduk",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-026",
@@ -231,7 +256,8 @@
     "romaji": "tsukaimasuⅠ",
     "meaning": "memakai",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-027",
@@ -240,7 +266,8 @@
     "romaji": "tomemasuⅡ",
     "meaning": "menghentikan, memarkir",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-028",
@@ -249,7 +276,8 @@
     "romaji": "mochimasuⅠ",
     "meaning": "membawa",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-029",
@@ -258,7 +286,8 @@
     "romaji": "torimasuⅠ",
     "meaning": "mengambil",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-030",
@@ -267,7 +296,8 @@
     "romaji": "tetsudaimasuⅠ",
     "meaning": "membantu",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-031",
@@ -276,16 +306,18 @@
     "romaji": "juusho",
     "meaning": "alamat",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-032",
-    "kanji": "出ます [喫茶店を〜]",
-    "hiragana": "でますⅡ＊ [きっさてんを〜]",
+    "kanji": "出ます",
+    "hiragana": "でますⅡ [きっさてんを〜]",
     "romaji": "demasuⅡ [kissatenwo~]",
     "meaning": "keluar [dari coffee shop]",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-033",
@@ -294,7 +326,8 @@
     "romaji": "keshimasuⅠ",
     "meaning": "mematikan, memadamkan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-034",
@@ -303,7 +336,8 @@
     "romaji": "shingouwo migihe magatte kudasai.",
     "meaning": "Tolong belok ke kanan di lampu lalu lintas.",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-035",
@@ -312,7 +346,8 @@
     "romaji": "machimasuⅠ",
     "meaning": "menunggu",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-036",
@@ -321,7 +356,8 @@
     "romaji": "chizu",
     "meaning": "peta",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-037",
@@ -330,7 +366,8 @@
     "romaji": "denki",
     "meaning": "listrik, lampu",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-038",
@@ -339,7 +376,8 @@
     "romaji": "kotae",
     "meaning": "jawaban",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-039",
@@ -348,16 +386,18 @@
     "romaji": "yomikata",
     "meaning": "cara membaca",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-040",
-    "kanji": "入ります [喫茶店に〜]",
+    "kanji": "入ります",
     "hiragana": "はいりますⅠ [きっさてんに〜]",
     "romaji": "hairimasuⅠ [kissatenni~]",
     "meaning": "masuk [ke coffee shop]",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-041",
@@ -366,7 +406,8 @@
     "romaji": "shimemasuⅡ",
     "meaning": "menutup",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-042",
@@ -375,7 +416,8 @@
     "romaji": "namae",
     "meaning": "nama",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-043",
@@ -384,16 +426,18 @@
     "romaji": "mondai",
     "meaning": "masalah, soal",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-044",
     "kanji": "立ちます",
-    "hiragana": "たちますⅠ＊",
+    "hiragana": "たちますⅠ",
     "romaji": "tachimasuⅠ",
     "meaning": "berdiri",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-045",
@@ -402,7 +446,8 @@
     "romaji": "hanashimasuⅠ",
     "meaning": "berbicara",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-046",
@@ -411,7 +456,8 @@
     "romaji": "[puratto]hoomu",
     "meaning": "peron",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-047",
@@ -420,7 +466,8 @@
     "romaji": "koinrokkaa",
     "meaning": "loker",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-048",
@@ -429,7 +476,8 @@
     "romaji": "takushiinoriba",
     "meaning": "tempat naik taksi",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-049",
@@ -438,7 +486,8 @@
     "romaji": "basutaaminaru",
     "meaning": "terminal bis",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-050",
@@ -447,7 +496,8 @@
     "romaji": "basutei",
     "meaning": "halte bis",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-051",
@@ -456,7 +506,8 @@
     "romaji": "eki",
     "meaning": "Stasiun",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-052",
@@ -465,7 +516,8 @@
     "romaji": "deguchi",
     "meaning": "pintu keluar",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-053",
@@ -474,7 +526,8 @@
     "romaji": "nishiguchi",
     "meaning": "pintu Barat",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-054",
@@ -483,7 +536,8 @@
     "romaji": "chuuouguchi",
     "meaning": "pintu Tengah",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-055",
@@ -492,7 +546,8 @@
     "romaji": "higashiguchi",
     "meaning": "pintu Timur",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-056",
@@ -501,7 +556,8 @@
     "romaji": "minamiguchi",
     "meaning": "pintu Selatan",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-057",
@@ -510,7 +566,8 @@
     "romaji": "iriguchi",
     "meaning": "pintu masuk",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-058",
@@ -519,7 +576,8 @@
     "romaji": "baiten",
     "meaning": "kios, kedai",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-059",
@@ -528,7 +586,8 @@
     "romaji": "hijouguchi",
     "meaning": "Pintu Darurat",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-060",
@@ -537,7 +596,8 @@
     "romaji": "kitaguchi",
     "meaning": "pintu Utara",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-061",
@@ -546,7 +606,8 @@
     "romaji": "~chaku",
     "meaning": "berangkat ke 〜, tiba pukul 〜",
     "level": "N4",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-062",
@@ -555,16 +616,18 @@
     "romaji": "~hatsu",
     "meaning": "berangkat dari 〜, berangkat pukul 〜",
     "level": "N4",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-063",
-    "kanji": "[東京]行き",
+    "kanji": "行き",
     "hiragana": "とうきょういき",
     "romaji": "toukyouiki",
     "meaning": "berangkat ke, tujuan [Tokyo]",
     "level": "N4",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-064",
@@ -573,7 +636,8 @@
     "romaji": "oufuku",
     "meaning": "pulang pergi",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-065",
@@ -582,7 +646,8 @@
     "romaji": "kaisuuken",
     "meaning": "karcis kupon",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-066",
@@ -591,7 +656,8 @@
     "romaji": "kaisoku",
     "meaning": "kereta api cepat yang melewati pinggiran kota",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-067",
@@ -600,7 +666,8 @@
     "romaji": "kaisatsuguchi",
     "meaning": "pintu pemeriksaan karcis",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-068",
@@ -609,7 +676,8 @@
     "romaji": "kyuukou",
     "meaning": "kereta api cepat",
     "level": "N4",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-069",
@@ -618,7 +686,8 @@
     "romaji": "jikokuhyou",
     "meaning": "jadwal keberangkatan kereta api, bis, dll",
     "level": "N3",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-070",
@@ -627,7 +696,8 @@
     "romaji": "jidoukenbaiki",
     "meaning": "mesin karcis otomatis",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-071",
@@ -636,7 +706,8 @@
     "romaji": "junkyuu",
     "meaning": "kereta semi cepat",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-072",
@@ -645,7 +716,8 @@
     "romaji": "seisanki",
     "meaning": "alat penghitung otomatis",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-073",
@@ -654,7 +726,8 @@
     "romaji": "kippuuriba",
     "meaning": "loket penjualan karcis",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-074",
@@ -663,7 +736,8 @@
     "romaji": "teikiken",
     "meaning": "kartu langganan berjangka",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-075",
@@ -672,7 +746,8 @@
     "romaji": "tokkyuu",
     "meaning": "kereta api super cepat",
     "level": "N4",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-076",
@@ -681,7 +756,8 @@
     "romaji": "futsuu",
     "meaning": "kereta api biasa",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 14"
   },
   {
     "id": "mn-14-077",
@@ -690,6 +766,7 @@
     "romaji": "katamichi",
     "meaning": "sekali jalan",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 14"
   }
 ]

@@ -6,7 +6,8 @@
     "romaji": "~gaisha",
     "meaning": "perusahaan ~",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-002",
@@ -15,7 +16,8 @@
     "romaji": "~ben",
     "meaning": "dialek ~",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-003",
@@ -24,7 +26,8 @@
     "romaji": "~sama",
     "meaning": "kepada Yth. ~, Bapak ~, Ibu ~, Sdr.~ (Kata Hormat dari ～さん)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-004",
@@ -33,7 +36,8 @@
     "romaji": "anna~",
     "meaning": "~ begitu (jauh dari si pembicara dan lawan bicara)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-005",
@@ -42,7 +46,8 @@
     "romaji": "itsudemo",
     "meaning": "kapan saja",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-006",
@@ -51,7 +56,8 @@
     "romaji": "edoyasutoa",
     "meaning": "toko fiksi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-007",
@@ -60,7 +66,8 @@
     "romaji": "gasu",
     "meaning": "gas",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-008",
@@ -69,7 +76,8 @@
     "romaji": "gomi",
     "meaning": "sampah",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-009",
@@ -78,7 +86,8 @@
     "romaji": "konna~",
     "meaning": "~ begini",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-010",
@@ -87,7 +96,8 @@
     "romaji": "zuibun",
     "meaning": "sangat, amat",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-011",
@@ -96,7 +106,8 @@
     "romaji": "sonna~",
     "meaning": "~ begitu (dekat dari lawan bicara)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-012",
@@ -105,7 +116,8 @@
     "romaji": "daredemo",
     "meaning": "siapa saja",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-013",
@@ -114,7 +126,8 @@
     "romaji": "dokodemo",
     "meaning": "di mana-mana",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-014",
@@ -123,7 +136,8 @@
     "romaji": "furiimaaketto",
     "meaning": "pasar rombengan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-015",
@@ -132,7 +146,8 @@
     "romaji": "boranteia",
     "meaning": "sukarelawan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-016",
@@ -141,7 +156,8 @@
     "romaji": "yarimasu",
     "meaning": "melakukan",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-017",
@@ -150,7 +166,8 @@
     "romaji": "chigaimasu",
     "meaning": "tidak benar",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-018",
@@ -159,7 +176,8 @@
     "romaji": "uchuu",
     "meaning": "angkasa",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-019",
@@ -168,7 +186,8 @@
     "romaji": "uchuusuteeshon",
     "meaning": "stasiun luar angkasa",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-020",
@@ -177,7 +196,8 @@
     "romaji": "uchuusen",
     "meaning": "wahana antariksa",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-021",
@@ -186,7 +206,8 @@
     "romaji": "uchuuhikoushi",
     "meaning": "astronot",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-022",
@@ -195,7 +216,8 @@
     "romaji": "undoukai",
     "meaning": "lomba olahraga",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-023",
@@ -204,7 +226,8 @@
     "romaji": "yoko",
     "meaning": "sebelah, samping",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-024",
@@ -213,7 +236,8 @@
     "romaji": "nandemo",
     "meaning": "apa saja",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-025",
@@ -222,16 +246,18 @@
     "romaji": "kan",
     "meaning": "kaleng",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-026",
-    "kanji": "間に合います［時間に～］",
+    "kanji": "間に合います",
     "hiragana": "まにあいます",
     "romaji": "maniaimasu",
     "meaning": "sempat [pada waktu]",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-027",
@@ -240,7 +266,8 @@
     "romaji": "kibungaii",
     "meaning": "rasa enak, segar",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-028",
@@ -249,7 +276,8 @@
     "romaji": "kibungawarui",
     "meaning": "rasa tidak enak",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-029",
@@ -258,7 +286,8 @@
     "romaji": "kokkaigijidou",
     "meaning": "gedung parlemen",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-030",
@@ -267,7 +296,8 @@
     "romaji": "kondo",
     "meaning": "kali ini, lain kali",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-031",
@@ -276,7 +306,8 @@
     "romaji": "saifu",
     "meaning": "dompet",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-032",
@@ -285,16 +316,18 @@
     "romaji": "hiroimasu",
     "meaning": "mendapat, mengambil",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-033",
-    "kanji": "出します［ごみを～］",
+    "kanji": "出します",
     "hiragana": "だします",
     "romaji": "dashimasu",
     "meaning": "membuang [sampah], mengeluarkan",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-034",
@@ -303,7 +336,8 @@
     "romaji": "basho",
     "meaning": "tempat",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-035",
@@ -312,7 +346,8 @@
     "romaji": "mimasu",
     "meaning": "melihat, MEMERIKSA",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-036",
@@ -321,7 +356,8 @@
     "romaji": "hoshideakihiko",
     "meaning": "astronot Jepang (1968-)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-037",
@@ -330,7 +366,8 @@
     "romaji": "sagashimasu",
     "meaning": "Mencari (Orang Hilang/Kriminal)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-038",
@@ -339,7 +376,8 @@
     "romaji": "sagashimasu",
     "meaning": "Mencari (Barang/Sesuatu yang diinginkan)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-039",
@@ -348,16 +386,18 @@
     "romaji": "okiba",
     "meaning": "tempat meletakkan sampah",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-040",
-    "kanji": "遅れます［時間に～］",
+    "kanji": "遅れます",
     "hiragana": "おくれます",
     "romaji": "okuremasu",
     "meaning": "terlambat [pada waktu]",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-041",
@@ -366,7 +406,8 @@
     "romaji": "chokusetsu",
     "meaning": "langsung",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-042",
@@ -375,7 +416,8 @@
     "romaji": "moeru gomi",
     "meaning": "sampah organik",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-043",
@@ -384,7 +426,8 @@
     "romaji": "bin",
     "meaning": "botol",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-044",
@@ -393,7 +436,8 @@
     "romaji": "kowai",
     "meaning": "takut",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-045",
@@ -402,16 +446,18 @@
     "romaji": "heijitsu",
     "meaning": "hari kerja",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-046",
-    "kanji": "片づきます［荷物が～］",
+    "kanji": "片づきます",
     "hiragana": "かたづきます",
     "romaji": "katazukimasu",
     "meaning": "membereskan [barang]",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-047",
@@ -420,7 +466,8 @@
     "romaji": "bon'odori",
     "meaning": "tarian Bon",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-048",
@@ -429,7 +476,8 @@
     "romaji": "renrakushimasu",
     "meaning": "menghubungi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-049",
@@ -438,7 +486,8 @@
     "romaji": "oyu",
     "meaning": "Air panas",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-050",
@@ -447,7 +496,8 @@
     "romaji": "garasuseihin,setomono,kinzokuseidaidokoroyouhinnado",
     "meaning": "Produk dari Kaca, Keramik, Peralatan Dapur dari Logam dan lain-lain",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-051",
@@ -456,7 +506,8 @@
     "romaji": "gominodashikata",
     "meaning": "Cara Membuang Sampah",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-052",
@@ -465,7 +516,8 @@
     "romaji": "gomishuushuubinooshirase",
     "meaning": "Pengumuman Hari Pengumpulan Sampah",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-053",
@@ -474,7 +526,8 @@
     "romaji": "kan,bin,pettobotorunado",
     "meaning": "Kaleng, Botol Kaca, Botol Plastik dan lain-lain",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-054",
@@ -483,7 +536,8 @@
     "romaji": "kanengomi(moerugomi)",
     "meaning": "Sampah Organik",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-055",
@@ -492,7 +546,8 @@
     "romaji": "kagu,jitenshanado",
     "meaning": "Perabot Rumah Tangga, Sepeda dan lain-lain",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-056",
@@ -501,7 +556,8 @@
     "romaji": "kateidenkaseihin",
     "meaning": "Barang elektronik rumah tangga",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-057",
@@ -510,7 +566,8 @@
     "romaji": "komattanaa",
     "meaning": "Payah ya, gawat",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-058",
@@ -519,7 +576,8 @@
     "romaji": "sankashimasu",
     "meaning": "Turut serta, ikut, berpartisipasi",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-059",
@@ -528,7 +586,8 @@
     "romaji": "namagomi,kamikuzunado",
     "meaning": "Sampah Dapur/Sampah Basah, Kertas Bekas dan lain-lain",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-060",
@@ -537,7 +596,8 @@
     "romaji": "shigengomi",
     "meaning": "Sampah Yang Dapat Didaur Ulang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-061",
@@ -546,7 +606,8 @@
     "romaji": "jizenmoushikomi",
     "meaning": "Pendaftaran Sebelumnya",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-062",
@@ -555,7 +616,8 @@
     "romaji": "moushikomimasu",
     "meaning": "Mendaftar",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-063",
@@ -564,7 +626,8 @@
     "romaji": "sodaigomi",
     "meaning": "Sampah Ukuran Besar",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-064",
@@ -573,7 +636,8 @@
     "romaji": "denshimeeru",
     "meaning": "Email",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-065",
@@ -582,7 +646,8 @@
     "romaji": "tsugougaii",
     "meaning": "Tidak ada halangan",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-066",
@@ -591,7 +656,8 @@
     "romaji": "tsugougawarui",
     "meaning": "Ada halangan",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-067",
@@ -600,7 +666,8 @@
     "romaji": "funengomi(moenaigomi)",
     "meaning": "Sampah Anorganik/Sampah Kering",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   },
   {
     "id": "mn-26-068",
@@ -609,6 +676,7 @@
     "romaji": "betsuno",
     "meaning": "Yang lain",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 26"
   }
 ]

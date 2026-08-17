@@ -6,7 +6,8 @@
     "romaji": "[o]mimai",
     "meaning": "pembesukan, barang bantuan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-002",
@@ -15,7 +16,8 @@
     "romaji": "~san",
     "meaning": "Bapak ~, Ibu ~, Sdr. ~ (akhiran yang dibubuhkan di belakang nama pekerjaan atau jawatan untuk menyatakan kehalusan)",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-003",
@@ -24,7 +26,8 @@
     "romaji": "~zutsu",
     "meaning": "setiap ~ (contoh: setiap sepatah kata, setiap dua orang, setiap tiga lembar)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-004",
@@ -33,7 +36,8 @@
     "romaji": "aru~",
     "meaning": "suatu ~",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-005",
@@ -42,7 +46,8 @@
     "romaji": "ijimemasu",
     "meaning": "menyiksa, menganiayai",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-006",
@@ -51,7 +56,8 @@
     "romaji": "itadakimasu",
     "meaning": "menerima (Kata Merendahkan Diri dari もらいます)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-007",
@@ -60,7 +66,8 @@
     "romaji": "esa",
     "meaning": "makanan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-008",
@@ -69,7 +76,8 @@
     "romaji": "oji",
     "meaning": "om",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-009",
@@ -78,7 +86,8 @@
     "romaji": "ojisan",
     "meaning": "om (untuk orang lain)",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-010",
@@ -87,7 +96,8 @@
     "romaji": "oba",
     "meaning": "tante",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-011",
@@ -96,7 +106,8 @@
     "romaji": "obasan",
     "meaning": "tante (untuk orang lain)",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-012",
@@ -105,7 +116,8 @@
     "romaji": "omocha",
     "meaning": "mainan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-013",
@@ -114,7 +126,8 @@
     "romaji": "oiwai",
     "meaning": "perayaan, hadiah (～を します : merayakan)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-014",
@@ -123,7 +136,8 @@
     "romaji": "omagosan",
     "meaning": "cucu (untuk orang lain)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-015",
@@ -132,7 +146,8 @@
     "romaji": "otaku",
     "meaning": "rumah (Kata Hormat dari うち atau いえ)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-016",
@@ -141,7 +156,8 @@
     "romaji": "otoshidama",
     "meaning": "otoshidama (angpao)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-017",
@@ -150,7 +166,8 @@
     "romaji": "ohimesama",
     "meaning": "putri",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-018",
@@ -159,7 +176,8 @@
     "romaji": "kame",
     "meaning": "kura-kura",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-019",
@@ -168,7 +186,8 @@
     "romaji": "kawaii",
     "meaning": "manis",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-020",
@@ -177,7 +196,8 @@
     "romaji": "kudasaimasu",
     "meaning": "memberikan (Kata Hormat dari くれます)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-021",
@@ -186,7 +206,8 @@
     "romaji": "konoaida",
     "meaning": "beberapa saat lalu",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-022",
@@ -195,7 +216,8 @@
     "romaji": "suruto",
     "meaning": "kemudian",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-023",
@@ -204,7 +226,8 @@
     "romaji": "douzooshiawaseni.",
     "meaning": "Selamat berbahagia!",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-024",
@@ -213,7 +236,8 @@
     "romaji": "doraibaa",
     "meaning": "obeng",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-025",
@@ -222,7 +246,8 @@
     "romaji": "hankachi",
     "meaning": "sapu tangan",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-026",
@@ -231,7 +256,8 @@
     "romaji": "hitokoto",
     "meaning": "sepatah kata",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-027",
@@ -240,7 +266,8 @@
     "romaji": "yarimasu",
     "meaning": "memberi (terhadap orang yang lebih muda, bawahan, binatang dan tanaman)",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-028",
@@ -249,7 +276,8 @@
     "romaji": "urashimatarou",
     "meaning": "nama peran utama cerita dongen",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-029",
@@ -258,7 +286,8 @@
     "romaji": "kemuri",
     "meaning": "asap",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-030",
@@ -267,7 +296,8 @@
     "romaji": "saru",
     "meaning": "monyet",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-031",
@@ -276,7 +306,8 @@
     "romaji": "ondo",
     "meaning": "suhu",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-032",
@@ -285,7 +316,8 @@
     "romaji": "sagemasu",
     "meaning": "menurunkan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-033",
@@ -294,7 +326,8 @@
     "romaji": "ehagaki",
     "meaning": "kartu pos bergambar",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-034",
@@ -303,7 +336,8 @@
     "romaji": "ehon",
     "meaning": "buku gambar",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-035",
@@ -312,7 +346,8 @@
     "romaji": "kanrinin",
     "meaning": "penjaga (contoh: penjaga apartmen)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-036",
@@ -321,7 +356,8 @@
     "romaji": "kyoumi",
     "meaning": "minat (［コンピューターに］～が あります：berminat pada [komputer])",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-037",
@@ -330,7 +366,8 @@
     "romaji": "kutsushita",
     "meaning": "kaus kaki",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-038",
@@ -339,7 +376,8 @@
     "romaji": "kodomotachi",
     "meaning": "anak-anak",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-039",
@@ -348,7 +386,8 @@
     "romaji": "tebukuro",
     "meaning": "sarung tangan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-040",
@@ -357,7 +396,8 @@
     "romaji": "tasukemasu",
     "meaning": "membantu, menolong",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-041",
@@ -366,7 +406,8 @@
     "romaji": "agemasu",
     "meaning": "menaikkan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-042",
@@ -375,7 +416,8 @@
     "romaji": "jouhou",
     "meaning": "informasi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-043",
@@ -384,7 +426,8 @@
     "romaji": "masshiro[na]",
     "meaning": "putih",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-044",
@@ -393,7 +436,8 @@
     "romaji": "shinsetsunishimasu",
     "meaning": "berbaik hati",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-045",
@@ -402,7 +446,8 @@
     "romaji": "mukashibanashi",
     "meaning": "cerita dongeng",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-046",
@@ -411,7 +456,8 @@
     "romaji": "sofu",
     "meaning": "kakek",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-047",
@@ -420,7 +466,8 @@
     "romaji": "sobo",
     "meaning": "nenek",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-048",
@@ -429,7 +476,8 @@
     "romaji": "mago",
     "meaning": "cucu",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-049",
@@ -438,7 +486,8 @@
     "romaji": "danbou",
     "meaning": "alat pemanas",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-050",
@@ -447,7 +496,8 @@
     "romaji": "otoko",
     "meaning": "laki-laki",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-051",
@@ -456,7 +506,8 @@
     "romaji": "nakami",
     "meaning": "isi",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-052",
@@ -465,7 +516,8 @@
     "romaji": "mezurashii",
     "meaning": "langka",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-053",
@@ -474,7 +526,8 @@
     "romaji": "futari",
     "meaning": "pasangan",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-054",
@@ -483,7 +536,8 @@
     "romaji": "hatsuon",
     "meaning": "ungkapan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-055",
@@ -492,7 +546,8 @@
     "romaji": "bunpou",
     "meaning": "tata bahasa",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-056",
@@ -501,7 +556,8 @@
     "romaji": "kurashimasu",
     "meaning": "hidup",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-057",
@@ -510,7 +566,8 @@
     "romaji": "yasashii",
     "meaning": "baik hati",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-058",
@@ -519,7 +576,8 @@
     "romaji": "youchien",
     "meaning": "TK",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-059",
@@ -528,7 +586,8 @@
     "romaji": "riku",
     "meaning": "daratan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-060",
@@ -537,7 +596,8 @@
     "romaji": "reibou",
     "meaning": "AC",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-061",
@@ -546,7 +606,8 @@
     "romaji": "oteradetaikendekimasu",
     "meaning": "Dapat mencoba di wihara.",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-062",
@@ -555,7 +616,8 @@
     "romaji": "karaoke",
     "meaning": "karaoke",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-063",
@@ -564,7 +626,8 @@
     "romaji": "bazaa",
     "meaning": "Bazar",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-064",
@@ -573,7 +636,8 @@
     "romaji": "bideokamera",
     "meaning": "kamera video",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-065",
@@ -582,7 +646,8 @@
     "romaji": "bebiiyouhin",
     "meaning": "peralatan untuk bayi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-066",
@@ -591,7 +656,8 @@
     "romaji": "rejaayouhin",
     "meaning": "peralatan rekreasi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-067",
@@ -600,7 +666,8 @@
     "romaji": "rentarusaabisu",
     "meaning": "Jasa penyewaan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-068",
@@ -609,7 +676,8 @@
     "romaji": "ienoshuuri,souji",
     "meaning": "perbaikan dan pembersihan rumah",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-069",
@@ -618,7 +686,8 @@
     "romaji": "keitaidenwa",
     "meaning": "HP, ponsel",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-070",
@@ -627,7 +696,8 @@
     "romaji": "kekkonshiki",
     "meaning": "upacara pernikahan",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-071",
@@ -636,7 +706,8 @@
     "romaji": "inunosanpo",
     "meaning": "berjalan-jalan dengan anjing",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-072",
@@ -645,7 +716,8 @@
     "romaji": "kouminkan",
     "meaning": "balai",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-073",
@@ -654,7 +726,8 @@
     "romaji": "shichigosan",
     "meaning": "perayaan umur tujuh, lima, dan tiga tahun",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-074",
@@ -663,7 +736,8 @@
     "romaji": "seijinshiki",
     "meaning": "upacara pendewasaan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-075",
@@ -672,7 +746,8 @@
     "romaji": "ikebanasukuuru",
     "meaning": "Klub merangkai bunga",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-076",
@@ -681,7 +756,8 @@
     "romaji": "shoujinryourigataberaremasu",
     "meaning": "Dapat sajian makanan Vegetarian.",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-077",
@@ -690,7 +766,8 @@
     "romaji": "akachan,kodomonosewa",
     "meaning": "menjaga bayi dan anak",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-078",
@@ -699,7 +776,8 @@
     "romaji": "zengadekimasu",
     "meaning": "Dapat bermeditasi Zen (ala Budha Jepang).",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-079",
@@ -708,7 +786,8 @@
     "romaji": "sotsugyoushiki",
     "meaning": "wisuda",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-080",
@@ -717,7 +796,8 @@
     "romaji": "kashiishou",
     "meaning": "Penyewaan Pakaian",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-081",
@@ -726,7 +806,8 @@
     "romaji": "nihongokyoushitsu",
     "meaning": "Kursus Bahasa Jepang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-082",
@@ -735,7 +816,8 @@
     "romaji": "nihonryourikoushuukai",
     "meaning": "Les masakan Jepang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-083",
@@ -744,7 +826,8 @@
     "romaji": "tomarimasenka",
     "meaning": "Ayo menginap.",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-084",
@@ -753,7 +836,8 @@
     "romaji": "benriya",
     "meaning": "Tukang serba guna",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-085",
@@ -762,7 +846,8 @@
     "romaji": "benrijouhou",
     "meaning": "Informasi Berguna",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-086",
@@ -771,7 +856,8 @@
     "romaji": "minshuku",
     "meaning": "Penginapan",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-087",
@@ -780,7 +866,8 @@
     "romaji": "ryokouyouhin",
     "meaning": "peralatan perjalanan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   },
   {
     "id": "mn-41-088",
@@ -789,6 +876,7 @@
     "romaji": "hanashiaite",
     "meaning": "lawan bicara",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 41"
   }
 ]

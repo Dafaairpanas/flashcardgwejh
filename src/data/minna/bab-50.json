@@ -6,7 +6,8 @@
     "romaji": "arubamu",
     "meaning": "album",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-002",
@@ -15,7 +16,8 @@
     "romaji": "itashimasu",
     "meaning": "melakukan (Kata Merendahkan Diri dari します)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-003",
@@ -24,7 +26,8 @@
     "romaji": "itadakimasu",
     "meaning": "makan, minum, menerima (Kata Merendahkan Diri dari たべます、のみます、もらいます)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-004",
@@ -33,7 +36,8 @@
     "romaji": "orimasu",
     "meaning": "ada (Kata Merendahkan Diri dari います)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-005",
@@ -42,7 +46,8 @@
     "romaji": "ogenkideirasshaimasuka",
     "meaning": "Bagaimana kabarnya? (Kata Hormat dari おげんきですか)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-006",
@@ -51,7 +56,8 @@
     "romaji": "oshiro",
     "meaning": "kastil, istana",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-007",
@@ -60,7 +66,8 @@
     "romaji": "otaku",
     "meaning": "rumah (orang lain)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-008",
@@ -69,7 +76,8 @@
     "romaji": "omenikakarimasu",
     "meaning": "bertemu (Kata Merendahkan Diri dari あいます)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-009",
@@ -78,7 +86,8 @@
     "romaji": "orei",
     "meaning": "ucapan terima kasih",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-010",
@@ -87,7 +96,8 @@
     "romaji": "gaido",
     "meaning": "pemandu",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-011",
@@ -96,7 +106,8 @@
     "romaji": "kanaimasu",
     "meaning": "[impian] terkabul",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-012",
@@ -105,7 +116,8 @@
     "romaji": "kirin",
     "meaning": "jerapah",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-013",
@@ -114,7 +126,8 @@
     "romaji": "koro",
     "meaning": "ketika (contoh: ketika anak, ketika mahasiswa)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-014",
@@ -123,7 +136,8 @@
     "romaji": "sukejuuru",
     "meaning": "jadwal",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-015",
@@ -132,7 +146,8 @@
     "romaji": "tadaima",
     "meaning": "sekarang",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-016",
@@ -141,7 +156,8 @@
     "romaji": "hagaki",
     "meaning": "kartu pos",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-017",
@@ -150,7 +166,8 @@
     "romaji": "myunhen",
     "meaning": "München (Jerman)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-018",
@@ -159,7 +176,8 @@
     "romaji": "meeruadoresu",
     "meaning": "alamat e-mail",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-019",
@@ -168,7 +186,8 @@
     "romaji": "ouenshimasu",
     "meaning": "mendukung",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-020",
@@ -177,7 +196,8 @@
     "romaji": "kanshashimasu",
     "meaning": "berterima kasih",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-021",
@@ -186,7 +206,8 @@
     "romaji": "kinchoushimasu",
     "meaning": "tegang",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-022",
@@ -195,7 +216,8 @@
     "romaji": "keigu",
     "meaning": "Hormat saya (salam penutup surat)",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-023",
@@ -204,7 +226,8 @@
     "romaji": "edotoukyouhakubutsukan",
     "meaning": "Museum Edo Tokyo",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-024",
@@ -213,7 +236,8 @@
     "romaji": "kougai",
     "meaning": "pinggiran kota, luar kota",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-025",
@@ -222,7 +246,8 @@
     "romaji": "saraigetsu",
     "meaning": "dua bulan lagi",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-026",
@@ -231,7 +256,8 @@
     "romaji": "saraishuu",
     "meaning": "dua minggu lagi",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-027",
@@ -240,7 +266,8 @@
     "romaji": "sarainen",
     "meaning": "dua tahun lagi",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-028",
@@ -249,7 +276,8 @@
     "romaji": "saigoni",
     "meaning": "terakhir",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-029",
@@ -258,7 +286,8 @@
     "romaji": "mairimasu",
     "meaning": "pergi, datang (Kata Merendahkan Diri dari いきます、きます)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-030",
@@ -267,7 +296,8 @@
     "romaji": "ukagaimasu",
     "meaning": "bertanya, mendengar, berkunjung (Kata Merendahkan Diri dari ききます、いきます)",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-031",
@@ -276,7 +306,8 @@
     "romaji": "watakushi",
     "meaning": "saya (Kata Merendahkan Diri dari わたし)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-032",
@@ -285,7 +316,8 @@
     "romaji": "shizen",
     "meaning": "alam",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-033",
@@ -294,7 +326,8 @@
     "romaji": "hajimeni",
     "meaning": "pertama-tama",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-034",
@@ -303,7 +336,8 @@
     "romaji": "zou",
     "meaning": "gajah",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-035",
@@ -312,7 +346,8 @@
     "romaji": "shoukin",
     "meaning": "hadiah uang",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-036",
@@ -321,7 +356,8 @@
     "romaji": "kokorokara",
     "meaning": "dari segenap hati",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-037",
@@ -330,7 +366,8 @@
     "romaji": "moushimasu",
     "meaning": "bernama (Kata Merendahkan Diri dari いいます)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-038",
@@ -339,7 +376,8 @@
     "romaji": "ikashimasu",
     "meaning": "menggunakan (contoh: menggunakan pengalaman)",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-039",
@@ -348,7 +386,8 @@
     "romaji": "sensei",
     "meaning": "guru (Jika menulis untuk guru sendiri, memakai 先生 sebagai gantinya 様)",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-040",
@@ -357,7 +396,8 @@
     "romaji": "zonjimasu",
     "meaning": "mengenal, mengetahui (Kata Merendahkan Diri dari しります)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-041",
@@ -366,7 +406,8 @@
     "romaji": "iremasu",
     "meaning": "membuat [kopi] (menyiram air panas dari membuat cairan)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-042",
@@ -375,7 +416,8 @@
     "romaji": "haikei",
     "meaning": "Dengan hormat (salam pembuka surat)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-043",
@@ -384,7 +426,8 @@
     "romaji": "haikenshimasu",
     "meaning": "melihat (Kata Merendahkan Diri dari みます)",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-044",
@@ -393,7 +436,8 @@
     "romaji": "hantoshi",
     "meaning": "setengah tahun",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-045",
@@ -402,7 +446,8 @@
     "romaji": "fuutou",
     "meaning": "amplop",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-046",
@@ -411,7 +456,8 @@
     "romaji": "housoushimasu",
     "meaning": "menyiarkan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-047",
@@ -420,7 +466,8 @@
     "romaji": "meiwakuwokakemasu",
     "meaning": "mengganggu",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   },
   {
     "id": "mn-50-048",
@@ -429,6 +476,7 @@
     "romaji": "youishimasu",
     "meaning": "menyediakan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 50"
   }
 ]

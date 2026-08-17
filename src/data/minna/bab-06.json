@@ -6,7 +6,8 @@
     "romaji": "iidesune",
     "meaning": "Bagus ya / baik ya",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-002",
@@ -15,7 +16,8 @@
     "romaji": "isshoni",
     "meaning": "Bersama-sama",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-003",
@@ -24,7 +26,8 @@
     "romaji": "itsumo",
     "meaning": "Selalu",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-004",
@@ -33,7 +36,8 @@
     "romaji": "ee",
     "meaning": "Ya",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-005",
@@ -42,7 +46,8 @@
     "romaji": "osake",
     "meaning": "Minuman keras",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-006",
@@ -51,7 +56,8 @@
     "romaji": "ocha",
     "meaning": "Teh jepang / teh hijau",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-007",
@@ -60,7 +66,8 @@
     "romaji": "gohan",
     "meaning": "Nasi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-008",
@@ -69,7 +76,8 @@
     "romaji": "sakkaa",
     "meaning": "Sepak bola",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-009",
@@ -78,7 +86,8 @@
     "romaji": "shimasu",
     "meaning": "Melakukan / mengerjakan / berbuat",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-010",
@@ -87,7 +96,8 @@
     "romaji": "ja,mata",
     "meaning": "Ok, sampai jumpa besok",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-011",
@@ -96,7 +106,8 @@
     "romaji": "juusu",
     "meaning": "Jus, Sari buah",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-012",
@@ -105,7 +116,8 @@
     "romaji": "sorekara",
     "meaning": "Setelah itu / kemudian",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-013",
@@ -114,7 +126,8 @@
     "romaji": "tabako",
     "meaning": "Rokok",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-014",
@@ -123,7 +136,8 @@
     "romaji": "chotto",
     "meaning": "Sebentar / sedikit",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-015",
@@ -132,7 +146,8 @@
     "romaji": "tenisu",
     "meaning": "Tenis",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-016",
@@ -141,7 +156,8 @@
     "romaji": "pan",
     "meaning": "Roti",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-017",
@@ -150,7 +166,8 @@
     "romaji": "biiru",
     "meaning": "Bir",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-018",
@@ -159,7 +176,8 @@
     "romaji": "bideo",
     "meaning": "Kaset video, VHS",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-019",
@@ -168,7 +186,8 @@
     "romaji": "mekishiko",
     "meaning": "Meksiko",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-020",
@@ -177,7 +196,8 @@
     "romaji": "repooto",
     "meaning": "Laporan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-021",
@@ -186,7 +206,8 @@
     "romaji": "nomimasu",
     "meaning": "Minum",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-022",
@@ -195,7 +216,8 @@
     "romaji": "nani",
     "meaning": "Apa",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-023",
@@ -204,7 +226,8 @@
     "romaji": "kudamono",
     "meaning": "Buah-buahan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-024",
@@ -213,7 +236,8 @@
     "romaji": "hanami",
     "meaning": "Hanami (menikmati bunga sakura)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-025",
@@ -222,7 +246,8 @@
     "romaji": "aimasu",
     "meaning": "Bertemu",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-026",
@@ -231,7 +256,8 @@
     "romaji": "suimasu",
     "meaning": "Menghisap / merokok",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-027",
@@ -240,7 +266,8 @@
     "romaji": "gyuunyuu",
     "meaning": "Susu",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-028",
@@ -249,7 +276,8 @@
     "romaji": "sakana",
     "meaning": "Ikan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-029",
@@ -258,7 +286,8 @@
     "romaji": "mimasu",
     "meaning": "Melihat / menonton",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-030",
@@ -267,7 +296,8 @@
     "romaji": "koucha",
     "meaning": "Teh",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-031",
@@ -276,7 +306,8 @@
     "romaji": "torimasu",
     "meaning": "Mengambil (foto) / memotret",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-032",
@@ -285,7 +316,8 @@
     "romaji": "tokidoki",
     "meaning": "Kadang-kadang",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-033",
@@ -294,7 +326,8 @@
     "romaji": "shashin",
     "meaning": "Foto",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-034",
@@ -303,7 +336,8 @@
     "romaji": "torimasu",
     "meaning": "Mengambil  ( Umum )",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-035",
@@ -312,7 +346,8 @@
     "romaji": "tegami",
     "meaning": "Surat",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-036",
@@ -321,7 +356,8 @@
     "romaji": "shukudai",
     "meaning": "Pekerjaan rumah / PR",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-037",
@@ -330,7 +366,8 @@
     "romaji": "kakimasu",
     "meaning": "Menulis / menggambar",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-038",
@@ -339,7 +376,8 @@
     "romaji": "tabemasu",
     "meaning": "Makan",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-039",
@@ -348,7 +386,8 @@
     "romaji": "mizu",
     "meaning": "Air",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-040",
@@ -357,7 +396,8 @@
     "romaji": "hirugohan",
     "meaning": "Makan siang",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-041",
@@ -366,7 +406,8 @@
     "romaji": "asagohan",
     "meaning": "Makan pagi / sarapan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-042",
@@ -375,7 +416,8 @@
     "romaji": "niwa",
     "meaning": "Halaman",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-043",
@@ -384,7 +426,8 @@
     "romaji": "mise",
     "meaning": "Toko",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-044",
@@ -393,7 +436,8 @@
     "romaji": "yomimasu",
     "meaning": "Membaca",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-045",
@@ -402,7 +446,8 @@
     "romaji": "niku",
     "meaning": "Daging",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-046",
@@ -411,7 +456,8 @@
     "romaji": "kaimasu",
     "meaning": "Membeli",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-047",
@@ -420,7 +466,8 @@
     "romaji": "bangohan",
     "meaning": "Makan malam",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-048",
@@ -429,7 +476,8 @@
     "romaji": "wakarimashita",
     "meaning": "Mengerti / baik",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-049",
@@ -438,7 +486,8 @@
     "romaji": "kikimasu",
     "meaning": "Mendengar",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-050",
@@ -447,7 +496,8 @@
     "romaji": "yasai",
     "meaning": "Sayuran",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-051",
@@ -456,7 +506,8 @@
     "romaji": "tamago",
     "meaning": "Telur",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-052",
@@ -465,7 +516,8 @@
     "romaji": "ika",
     "meaning": "Cumi-cumi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-053",
@@ -474,7 +526,8 @@
     "romaji": "ichigo",
     "meaning": "Stroberi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-054",
@@ -483,7 +536,8 @@
     "romaji": "ebi",
     "meaning": "Udang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-055",
@@ -492,7 +546,8 @@
     "romaji": "kaki",
     "meaning": "Kesemek",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-056",
@@ -501,7 +556,8 @@
     "romaji": "kani",
     "meaning": "Kepiting",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-057",
@@ -510,7 +566,8 @@
     "romaji": "kyabetsu",
     "meaning": "Kol",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-058",
@@ -519,7 +576,8 @@
     "romaji": "gyuuniku",
     "meaning": "Daging sapi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-059",
@@ -528,7 +586,8 @@
     "romaji": "kyuuri",
     "meaning": "Timun",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-060",
@@ -537,7 +596,8 @@
     "romaji": "kome",
     "meaning": "Beras",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-061",
@@ -546,7 +606,8 @@
     "romaji": "jagaimo",
     "meaning": "Kentang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-062",
@@ -555,7 +616,8 @@
     "romaji": "suika",
     "meaning": "Semangka",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-063",
@@ -564,7 +626,8 @@
     "romaji": "sooseeji",
     "meaning": "Sosis",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-064",
@@ -573,7 +636,8 @@
     "romaji": "daikon",
     "meaning": "Lobak",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-065",
@@ -582,7 +646,8 @@
     "romaji": "tako",
     "meaning": "Gurita",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-066",
@@ -591,7 +656,8 @@
     "romaji": "tamanegi",
     "meaning": "Bawang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-067",
@@ -600,7 +666,8 @@
     "romaji": "tomato",
     "meaning": "Tomat",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-068",
@@ -609,7 +676,8 @@
     "romaji": "toriniku",
     "meaning": "Daging ayam",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-069",
@@ -618,7 +686,8 @@
     "romaji": "nashi",
     "meaning": "Pir",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-070",
@@ -627,7 +696,8 @@
     "romaji": "nasu",
     "meaning": "Terong",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-071",
@@ -636,7 +706,8 @@
     "romaji": "ninjin",
     "meaning": "Wortel",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-072",
@@ -645,7 +716,8 @@
     "romaji": "negi",
     "meaning": "Daun bawang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-073",
@@ -654,7 +726,8 @@
     "romaji": "hakusai",
     "meaning": "Sawi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-074",
@@ -663,7 +736,8 @@
     "romaji": "banana",
     "meaning": "Pisang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-075",
@@ -672,7 +746,8 @@
     "romaji": "hamu",
     "meaning": "Ham",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-076",
@@ -681,7 +756,8 @@
     "romaji": "butaniku",
     "meaning": "Daging babi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-077",
@@ -690,7 +766,8 @@
     "romaji": "budou",
     "meaning": "Anggur",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-078",
@@ -699,7 +776,8 @@
     "romaji": "hourensou",
     "meaning": "Bayam",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-079",
@@ -708,7 +786,8 @@
     "romaji": "mame",
     "meaning": "Kacang-kacangan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-080",
@@ -717,7 +796,8 @@
     "romaji": "mikan",
     "meaning": "Jeruk",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-081",
@@ -726,7 +806,8 @@
     "romaji": "momo",
     "meaning": "Buah peach",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-082",
@@ -735,7 +816,8 @@
     "romaji": "ringo",
     "meaning": "Apel",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-083",
@@ -744,7 +826,8 @@
     "romaji": "retasu",
     "meaning": "Letas",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-084",
@@ -753,7 +836,8 @@
     "romaji": "aji",
     "meaning": "Ikan mackerel",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-085",
@@ -762,7 +846,8 @@
     "romaji": "iwashi",
     "meaning": "Ikan sarden",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-086",
@@ -771,7 +856,8 @@
     "romaji": "sake",
     "meaning": "Ikan salmon",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-087",
@@ -780,7 +866,8 @@
     "romaji": "saba",
     "meaning": "Ikan kembung",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-088",
@@ -789,7 +876,8 @@
     "romaji": "sanma",
     "meaning": "Ikan sauri pasifik",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-089",
@@ -798,7 +886,8 @@
     "romaji": "tai",
     "meaning": "Ikan kakap",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-090",
@@ -807,7 +896,8 @@
     "romaji": "tara",
     "meaning": "Ikan gabus",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 06"
   },
   {
     "id": "mn-06-091",
@@ -816,6 +906,7 @@
     "romaji": "maguro",
     "meaning": "Ikan tuna",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 06"
   }
 ]

@@ -6,7 +6,8 @@
     "romaji": "~gatsu",
     "meaning": "Bulan~",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-002",
@@ -15,7 +16,8 @@
     "romaji": "~nichi",
     "meaning": "Tanggal ~, hari~",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-003",
@@ -24,7 +26,8 @@
     "romaji": "~nen",
     "meaning": "Tahun~",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-004",
@@ -33,7 +36,8 @@
     "romaji": "~bansen",
     "meaning": "Peron nomor , jalur nomor",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-005",
@@ -42,7 +46,8 @@
     "romaji": "itsu",
     "meaning": "Kapan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-006",
@@ -51,7 +56,8 @@
     "romaji": "suupaa",
     "meaning": "Supermarket / Pasar Swalayan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-007",
@@ -60,7 +66,8 @@
     "romaji": "soudesune",
     "meaning": "Ya begitulah",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-008",
@@ -69,7 +76,8 @@
     "romaji": "takushii",
     "meaning": "Taksi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-009",
@@ -78,7 +86,8 @@
     "romaji": "douitashimashite",
     "meaning": "Sama-sama",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-010",
@@ -87,7 +96,8 @@
     "romaji": "basu",
     "meaning": "Bus",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-011",
@@ -96,7 +106,8 @@
     "romaji": "hitoride",
     "meaning": "Sendirian, Dengan Sendiri",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-012",
@@ -105,7 +116,8 @@
     "romaji": "tsuitachi",
     "meaning": "Tanggal 1",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-013",
@@ -114,7 +126,8 @@
     "romaji": "eki",
     "meaning": "Stasiun",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-014",
@@ -123,7 +136,8 @@
     "romaji": "nangatsu",
     "meaning": "Bulan apa?",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-015",
@@ -132,7 +146,8 @@
     "romaji": "nannichi",
     "meaning": "Tanggal berapa, berapa hari",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-016",
@@ -141,7 +156,8 @@
     "romaji": "nannen",
     "meaning": "Tahun berapa?",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-017",
@@ -150,7 +166,8 @@
     "romaji": "kazoku",
     "meaning": "Keluarga",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-018",
@@ -159,7 +176,8 @@
     "romaji": "gakkou",
     "meaning": "Sekolah",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-019",
@@ -168,7 +186,8 @@
     "romaji": "kaerimasu",
     "meaning": "Pulang",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-020",
@@ -177,7 +196,8 @@
     "romaji": "kyuukou",
     "meaning": "Ekspres",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-021",
@@ -186,7 +206,8 @@
     "romaji": "kyonen",
     "meaning": "Tahun lalu",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-022",
@@ -195,7 +216,8 @@
     "romaji": "kokonoka",
     "meaning": "Tanggal 9 , 9 hari",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-023",
@@ -204,7 +226,8 @@
     "romaji": "itsuka",
     "meaning": "Tanggal 5 , 5 hari",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-024",
@@ -213,7 +236,8 @@
     "romaji": "ikimasu",
     "meaning": "Pergi",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-025",
@@ -222,7 +246,8 @@
     "romaji": "kongetsu",
     "meaning": "Bulan ini",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-026",
@@ -231,7 +256,8 @@
     "romaji": "konshuu",
     "meaning": "Minggu ini",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-027",
@@ -240,7 +266,8 @@
     "romaji": "kotoshi",
     "meaning": "Tahun ini",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-028",
@@ -249,7 +276,8 @@
     "romaji": "mikka",
     "meaning": "Tanggal 3 , 3 hari",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-029",
@@ -258,7 +286,8 @@
     "romaji": "yokka",
     "meaning": "Tanggal 4 , 4 hari",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-030",
@@ -267,7 +296,8 @@
     "romaji": "tsugino",
     "meaning": "Yang berikutnya",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-031",
@@ -276,7 +306,8 @@
     "romaji": "jitensha",
     "meaning": "Sepeda",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-032",
@@ -285,7 +316,8 @@
     "romaji": "nanoka",
     "meaning": "Tanggal 7 , 7 hari",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-033",
@@ -294,7 +326,8 @@
     "romaji": "juuyokka",
     "meaning": "Tanggal 14 , 14 hari",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-034",
@@ -303,7 +336,8 @@
     "romaji": "tooka",
     "meaning": "Tanggal 10, 10 hari",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-035",
@@ -312,7 +346,8 @@
     "romaji": "shinkansen",
     "meaning": "Shinkansen ( Kereta Cepat )",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-036",
@@ -321,7 +356,8 @@
     "romaji": "hito",
     "meaning": "Orang",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-037",
@@ -330,7 +366,8 @@
     "romaji": "sengetsu",
     "meaning": "Bulan lalu",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-038",
@@ -339,7 +376,8 @@
     "romaji": "senshuu",
     "meaning": "Minggu lalu",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-039",
@@ -348,7 +386,8 @@
     "romaji": "fune",
     "meaning": "Kapal laut",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-040",
@@ -357,7 +396,8 @@
     "romaji": "tanjoubi",
     "meaning": "Hari ulang tahun",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-041",
@@ -366,7 +406,8 @@
     "romaji": "chikatetsu",
     "meaning": "Kereta bawah tanah",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-042",
@@ -375,7 +416,8 @@
     "romaji": "densha",
     "meaning": "Kereta listrik",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-043",
@@ -384,7 +426,8 @@
     "romaji": "tokkyuu",
     "meaning": "Super ekspres",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-044",
@@ -393,7 +436,8 @@
     "romaji": "nijuuyokka",
     "meaning": "Tanggal 24 , 24 hari",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-045",
@@ -402,7 +446,8 @@
     "romaji": "hatsuka",
     "meaning": "Tanggal 20 , 20 hari",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-046",
@@ -411,7 +456,8 @@
     "romaji": "futsuka",
     "meaning": "Tanggal 2 , 2 hari",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-047",
@@ -420,7 +466,8 @@
     "romaji": "youka",
     "meaning": "Tanggal 8, 8 hari",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-048",
@@ -429,7 +476,8 @@
     "romaji": "kare",
     "meaning": "Dia, ia (laki-laki)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-049",
@@ -438,7 +486,8 @@
     "romaji": "kanojo",
     "meaning": "Dia, ia (perempuan)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-050",
@@ -447,7 +496,8 @@
     "romaji": "hikouki",
     "meaning": "Pesawat terbang",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-051",
@@ -456,7 +506,8 @@
     "romaji": "futsuu",
     "meaning": "Biasa",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-052",
@@ -465,7 +516,8 @@
     "romaji": "aruite",
     "meaning": "Dengan Berjalan kaki",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-053",
@@ -474,7 +526,8 @@
     "romaji": "tomodachi",
     "meaning": "Teman",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-054",
@@ -483,7 +536,8 @@
     "romaji": "kimasu",
     "meaning": "Datang",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-055",
@@ -492,7 +546,8 @@
     "romaji": "raigetsu",
     "meaning": "Bulan depan",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-056",
@@ -501,7 +556,8 @@
     "romaji": "raishuu",
     "meaning": "Minggu depan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-057",
@@ -510,7 +566,8 @@
     "romaji": "rainen",
     "meaning": "Tahun depan",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-058",
@@ -519,7 +576,8 @@
     "romaji": "muika",
     "meaning": "Tanggal 6 , 6 hari",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-059",
@@ -528,7 +586,8 @@
     "romaji": "kodomonohi",
     "meaning": "Hari anak",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-060",
@@ -537,7 +596,8 @@
     "romaji": "midorinohi",
     "meaning": "Hari penghijauan",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-061",
@@ -546,7 +606,8 @@
     "romaji": "uminohi",
     "meaning": "Hari bahari",
     "level": "N4",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-062",
@@ -555,7 +616,8 @@
     "romaji": "kinroukanshanohi",
     "meaning": "Hari bersyukur untuk pekerjaan",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-063",
@@ -564,7 +626,8 @@
     "romaji": "keirounohi",
     "meaning": "Hari hormat kepada orang tua",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-064",
@@ -573,7 +636,8 @@
     "romaji": "kenkokukinennohi",
     "meaning": "Hari pembangunan nasional",
     "level": "N3",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-065",
@@ -582,7 +646,8 @@
     "romaji": "kenpoukinenbi",
     "meaning": "Hari peringatan konstitusi",
     "level": "N3",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-066",
@@ -591,7 +656,8 @@
     "romaji": "ganjitsu",
     "meaning": "Tahun baru",
     "level": "N4",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-067",
@@ -600,7 +666,8 @@
     "romaji": "yamanohi",
     "meaning": "Hari gunung",
     "level": "N5",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-068",
@@ -609,7 +676,8 @@
     "romaji": "shuubunnohi",
     "meaning": "Hari equinox pada musim gugur",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-069",
@@ -618,7 +686,8 @@
     "romaji": "shukusaijitsu",
     "meaning": "Hari libur nasional",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-070",
@@ -627,7 +696,8 @@
     "romaji": "shunbunnohi",
     "meaning": "Hari equinox pada musim semi",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-071",
@@ -636,7 +706,8 @@
     "romaji": "shouwanohi",
     "meaning": "Hari showa",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-072",
@@ -645,7 +716,8 @@
     "romaji": "seijinnohi",
     "meaning": "Hari perayaan menjadi dewasa",
     "level": "N3",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-073",
@@ -654,7 +726,8 @@
     "romaji": "taiikunohi",
     "meaning": "Hari kesehatan olahraga",
     "level": "N3",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-074",
@@ -663,7 +736,8 @@
     "romaji": "tennoutanjoubi",
     "meaning": "Hari ulang tahun kaisar",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 05"
   },
   {
     "id": "mn-05-075",
@@ -672,6 +746,7 @@
     "romaji": "bunkanohi",
     "meaning": "Hari kebudayaan",
     "level": "N3",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 05"
   }
 ]

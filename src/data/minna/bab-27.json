@@ -6,7 +6,8 @@
     "romaji": "~shika",
     "meaning": "hanya ~ (dipakai bersama dengan kata bentuk negatif)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-002",
@@ -15,7 +16,8 @@
     "romaji": "~kyoushitsu",
     "meaning": "les ~, kelas ~",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-003",
@@ -24,7 +26,8 @@
     "romaji": "~go",
     "meaning": "setelah ~, sesudah ~",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-004",
@@ -33,7 +36,8 @@
     "romaji": "itsuka",
     "meaning": "kapan-kapan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-005",
@@ -42,7 +46,8 @@
     "romaji": "kitchin",
     "meaning": "dapur",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-006",
@@ -51,7 +56,8 @@
     "romaji": "kuriiningu",
     "meaning": "laundry",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-007",
@@ -60,16 +66,18 @@
     "romaji": "subarashii",
     "meaning": "bagus",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-008",
-    "kanji": "できます［道が～］",
+    "kanji": "できます",
     "hiragana": "できます",
     "romaji": "dekimasu",
     "meaning": "[jalan] dibuat",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-009",
@@ -78,7 +86,8 @@
     "romaji": "doraemon",
     "meaning": "nama peran komik",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-010",
@@ -87,7 +96,8 @@
     "romaji": "paateiiruumu",
     "meaning": "ruang pesta",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-011",
@@ -96,7 +106,8 @@
     "romaji": "hakkiri",
     "meaning": "jelas",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-012",
@@ -105,7 +116,8 @@
     "romaji": "petto",
     "meaning": "hewan peliharaan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-013",
@@ -114,7 +126,8 @@
     "romaji": "hokano",
     "meaning": "lain",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-014",
@@ -123,7 +136,8 @@
     "romaji": "poketto",
     "meaning": "kantong",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-015",
@@ -132,7 +146,8 @@
     "romaji": "manshon",
     "meaning": "apartemen",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-016",
@@ -141,7 +156,8 @@
     "romaji": "ie",
     "meaning": "rumah",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-017",
@@ -150,7 +166,8 @@
     "romaji": "kagu",
     "meaning": "perabot rumah, mebel",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-018",
@@ -159,16 +176,18 @@
     "romaji": "hanabi",
     "meaning": "kembang api",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-019",
-    "kanji": "開きます［教室を～］",
+    "kanji": "開きます",
     "hiragana": "ひらきます",
     "romaji": "hirakimasu",
     "meaning": "membuka/mengadakan [kelas]",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-020",
@@ -177,7 +196,8 @@
     "romaji": "sora",
     "meaning": "langit",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-021",
@@ -186,7 +206,8 @@
     "romaji": "katachi",
     "meaning": "sosok, bentuk",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-022",
@@ -195,16 +216,18 @@
     "romaji": "tatemasu",
     "meaning": "membangun",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-023",
-    "kanji": "見えます［山が～］",
+    "kanji": "見えます",
     "hiragana": "みえます",
     "romaji": "miemasu",
     "meaning": "[gunung] terlihat",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-024",
@@ -213,7 +236,8 @@
     "romaji": "kodomotachi",
     "meaning": "anak-anak",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-025",
@@ -222,7 +246,8 @@
     "romaji": "kaimasu",
     "meaning": "memelihara",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-026",
@@ -231,7 +256,8 @@
     "romaji": "jibun",
     "meaning": "diri sendiri",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-027",
@@ -240,7 +266,8 @@
     "romaji": "jiyuuni",
     "meaning": "dengan bebas",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-028",
@@ -249,7 +276,8 @@
     "romaji": "shujinkou",
     "meaning": "pelaku utama",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-029",
@@ -258,7 +286,8 @@
     "romaji": "shourai",
     "meaning": "masa depan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-030",
@@ -267,7 +296,8 @@
     "romaji": "shinpai[na]",
     "meaning": "khawatir",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-031",
@@ -276,7 +306,8 @@
     "romaji": "koe",
     "meaning": "suara",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-032",
@@ -285,16 +316,18 @@
     "romaji": "mukashi",
     "meaning": "dulu",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-033",
-    "kanji": "走ります［道を～］",
+    "kanji": "走ります",
     "hiragana": "はしります",
     "romaji": "hashirimasu",
     "meaning": "berlari [jalan]",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-034",
@@ -303,7 +336,8 @@
     "romaji": "daisuki[na]",
     "meaning": "kesukaan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-035",
@@ -312,7 +346,8 @@
     "romaji": "tori",
     "meaning": "burung",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-036",
@@ -321,7 +356,8 @@
     "romaji": "dougu",
     "meaning": "alat",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-037",
@@ -330,7 +366,8 @@
     "romaji": "nami",
     "meaning": "ombak, gelombang",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-038",
@@ -339,7 +376,8 @@
     "romaji": "tobimasu",
     "meaning": "terbang",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-039",
@@ -348,7 +386,8 @@
     "romaji": "fushigi[na]",
     "meaning": "ajaib",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-040",
@@ -357,16 +396,18 @@
     "romaji": "tsukemasu",
     "meaning": "memasang",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-041",
-    "kanji": "聞こえます［音が～］",
+    "kanji": "聞こえます",
     "hiragana": "きこえます",
     "romaji": "kikoemasu",
     "meaning": "[bunyi] terdengar",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-042",
@@ -375,7 +416,8 @@
     "romaji": "kata",
     "meaning": "orang (Kata Hormat dari ひと)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-043",
@@ -384,7 +426,8 @@
     "romaji": "hondana",
     "meaning": "lemari buku",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-044",
@@ -393,7 +436,8 @@
     "romaji": "tatoeba",
     "meaning": "misalnya",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-045",
@@ -402,7 +446,8 @@
     "romaji": "ATM",
     "meaning": "ATM",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-046",
@@ -411,7 +456,8 @@
     "romaji": "kuriininguya",
     "meaning": "Laundry",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-047",
@@ -420,7 +466,8 @@
     "romaji": "kopii,fakusu",
     "meaning": "Fotocopy, FAX",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-048",
@@ -429,7 +476,8 @@
     "romaji": "konsaatochikettonohanbai",
     "meaning": "Penjualan Karcis Konser",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-049",
@@ -438,7 +486,8 @@
     "romaji": "konbini",
     "meaning": "Toko 24 Jam",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-050",
@@ -447,7 +496,8 @@
     "romaji": "saabisusaizu",
     "meaning": "Ukuran servis",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-051",
@@ -456,7 +506,8 @@
     "romaji": "saizunaoshi",
     "meaning": "Permak Ukuran",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-052",
@@ -465,7 +516,8 @@
     "romaji": "suraido",
     "meaning": "Slide",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-053",
@@ -474,7 +526,8 @@
     "romaji": "tsumasakishuuri",
     "meaning": "Perbaikan Ujung Sepatu",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-054",
@@ -483,7 +536,8 @@
     "romaji": "doraikuriiningu",
     "meaning": "Dry cleaning/Mencuci Tanpa Air",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-055",
@@ -492,7 +546,8 @@
     "romaji": "nega",
     "meaning": "Klise",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-056",
@@ -501,7 +556,8 @@
     "romaji": "hagaki・kittenohanbai",
     "meaning": "Penjualan Kartu Pos, perangko",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-057",
@@ -510,7 +566,8 @@
     "romaji": "hassuikakou",
     "meaning": "Pengolahan Anti Air",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-058",
@@ -519,7 +576,8 @@
     "romaji": "panoramasaizu",
     "meaning": "Ukuran panorama",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-059",
@@ -528,7 +586,8 @@
     "romaji": "handoru・mochitekoukan",
     "meaning": "Ganti Setir・Pegangan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-060",
@@ -537,7 +596,8 @@
     "romaji": "hiiru・kakatoshuuri",
     "meaning": "Perbaikan Hak・Sol",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-061",
@@ -546,7 +606,8 @@
     "romaji": "fasunaakoukan",
     "meaning": "Ganti Ritsleting",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-062",
@@ -555,7 +616,8 @@
     "romaji": "purinto",
     "meaning": "Cetak",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-063",
@@ -564,7 +626,8 @@
     "romaji": "hotsure・nuimenoshuuri",
     "meaning": "Perbaikan jahitan lepas・Mata Jahitan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-064",
@@ -573,7 +636,8 @@
     "romaji": "hotondo",
     "meaning": "hampir",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-065",
@@ -582,7 +646,8 @@
     "romaji": "robotto",
     "meaning": "robot",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-066",
@@ -591,7 +656,8 @@
     "romaji": "hikinobashi",
     "meaning": "Cetak perbesar",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-067",
@@ -600,7 +666,8 @@
     "romaji": "chikakunomise",
     "meaning": "Toko Di Sekitar Lingkungan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-068",
@@ -609,7 +676,8 @@
     "romaji": "kutsu・kabanshuuri,aikagi",
     "meaning": "Perbaikan Sepatu・Tas, Kunci Cadangan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-069",
@@ -618,7 +686,8 @@
     "romaji": "genzou",
     "meaning": "Cuci film",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-070",
@@ -627,7 +696,8 @@
     "romaji": "koukyouryoukintounoshiharai",
     "meaning": "Pembayaran Rekening Listrik, Air PAM dan lain-lain",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-071",
@@ -636,7 +706,8 @@
     "romaji": "aikagi",
     "meaning": "Kunci Cadangan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-072",
@@ -645,7 +716,8 @@
     "romaji": "jidouhanbaiki",
     "meaning": "mesin penjual otomatis",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-073",
@@ -654,7 +726,8 @@
     "romaji": "shashinya",
     "meaning": "Tempat cuci cetak foto",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-074",
@@ -663,7 +736,8 @@
     "romaji": "shashingenzou",
     "meaning": "Cuci cetak foto",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-075",
@@ -672,7 +746,8 @@
     "romaji": "torimasu",
     "meaning": "mengambil, cuti",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-076",
@@ -681,7 +756,8 @@
     "romaji": "chijimu",
     "meaning": "menyusut",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-077",
@@ -690,7 +766,8 @@
     "romaji": "yakimashi",
     "meaning": "Cetak tambah",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-078",
@@ -699,7 +776,8 @@
     "romaji": "nobiru",
     "meaning": "molor",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-079",
@@ -708,7 +786,8 @@
     "romaji": "mizuarai",
     "meaning": "Mencuci dengan Air",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-080",
@@ -717,7 +796,8 @@
     "romaji": "shiminuki",
     "meaning": "Menghilangkan Noda Bintik",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-081",
@@ -726,7 +806,8 @@
     "romaji": "takuhaibinnouketsuke",
     "meaning": "Jasa Penerimaan Titipan Kilat",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-082",
@@ -735,7 +816,8 @@
     "romaji": "nakajikikoukan",
     "meaning": "Ganti Pengalas Dalam",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-083",
@@ -744,7 +826,8 @@
     "romaji": "hiruma",
     "meaning": "waktu siang",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-084",
@@ -753,7 +836,8 @@
     "romaji": "tsuushinhanbai",
     "meaning": "penjualan memalui pos",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-085",
@@ -762,7 +846,8 @@
     "romaji": "nichiyoudaiku",
     "meaning": "bertukang dihari minggu",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-086",
@@ -771,7 +856,8 @@
     "romaji": "manga",
     "meaning": "komik, kartun",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   },
   {
     "id": "mn-27-087",
@@ -780,6 +866,7 @@
     "romaji": "yume",
     "meaning": "mimpi, impian",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 27"
   }
 ]

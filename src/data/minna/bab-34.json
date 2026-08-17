@@ -6,7 +6,8 @@
     "romaji": "[o]shiro",
     "meaning": "istana",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-002",
@@ -15,7 +16,8 @@
     "romaji": "~ka~",
     "meaning": "~ atau ~",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-003",
@@ -24,7 +26,8 @@
     "romaji": "-guramu",
     "meaning": "ー gram",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-004",
@@ -33,7 +36,8 @@
     "romaji": "-ko",
     "meaning": "ー buah (Kata Bilangan untuk menghitung benda yang kecil)",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-005",
@@ -42,7 +46,8 @@
     "romaji": "-bun",
     "meaning": "untuk - (menyatakan jumlah) porsi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-006",
@@ -51,7 +56,8 @@
     "romaji": "yonbunnoichi",
     "meaning": "seperempat",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-007",
@@ -60,16 +66,18 @@
     "romaji": "ikagadesuka.",
     "meaning": "Bagaimana?",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-008",
-    "kanji": "お客［さん］",
+    "kanji": "お客",
     "hiragana": "おきゃく［さん］",
     "romaji": "okyaku[san]",
     "meaning": "tamu",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-009",
@@ -78,7 +86,8 @@
     "romaji": "ochawotatemasu",
     "meaning": "membuat teh pada upacara minum teh",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-010",
@@ -87,16 +96,18 @@
     "romaji": "koredeiidesuka.",
     "meaning": "Boleh begini?",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-011",
-    "kanji": "さします［傘を～］",
+    "kanji": "さします",
     "hiragana": "さします",
     "romaji": "sashimasu",
     "meaning": "memakai [payung], berpayung",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-012",
@@ -105,7 +116,8 @@
     "romaji": "sakki",
     "meaning": "tadi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-013",
@@ -114,7 +126,8 @@
     "romaji": "shouyu",
     "meaning": "kecap asin",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-014",
@@ -123,7 +136,8 @@
     "romaji": "supootsukurabu",
     "meaning": "sports club",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-015",
@@ -132,7 +146,8 @@
     "romaji": "soosu",
     "meaning": "kecap Inggris, kecap saos putih",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-016",
@@ -141,7 +156,8 @@
     "romaji": "tachimasu",
     "meaning": "lewat, berlalu",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-017",
@@ -150,16 +166,18 @@
     "romaji": "tamanegi",
     "meaning": "bawang bombai",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-018",
-    "kanji": "つけます［しょうゆを～］",
+    "kanji": "つけます",
     "hiragana": "つけます",
     "romaji": "tsukemasu",
     "meaning": "membubuhkan [kecap asin]",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-019",
@@ -168,7 +186,8 @@
     "romaji": "donburi",
     "meaning": "mangkuk",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-020",
@@ -177,7 +196,8 @@
     "romaji": "nabe",
     "meaning": "panci",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-021",
@@ -186,7 +206,8 @@
     "romaji": "yuube",
     "meaning": "tadi malam",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-022",
@@ -195,7 +216,8 @@
     "romaji": "kiiro",
     "meaning": "kuning (kata benda)",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-023",
@@ -204,7 +226,8 @@
     "romaji": "hi",
     "meaning": "api",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-024",
@@ -213,16 +236,18 @@
     "romaji": "hinikakemasu",
     "meaning": "memasak, memanaskan, menaruh di atas api",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-025",
-    "kanji": "気がつきます［忘れ物に～］",
+    "kanji": "気がつきます",
     "hiragana": "きがつきます",
     "romaji": "kigatsukimasu",
     "meaning": "teringat [barang ketinggalan]",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-026",
@@ -231,16 +256,18 @@
     "romaji": "nigai",
     "meaning": "pahit",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-027",
-    "kanji": "見つかります［かぎが～］",
+    "kanji": "見つかります",
     "hiragana": "みつかります",
     "romaji": "mitsukarimasu",
     "meaning": "[kunci] ditemukan",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-028",
@@ -249,7 +276,8 @@
     "romaji": "kuro",
     "meaning": "hitam (kata benda)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-029",
@@ -258,7 +286,8 @@
     "romaji": "kon",
     "meaning": "biru tua (kata benda)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-030",
@@ -267,7 +296,8 @@
     "romaji": "nosemasu",
     "meaning": "memuatkan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-031",
@@ -276,7 +306,8 @@
     "romaji": "zairyou",
     "meaning": "bahan",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-032",
@@ -285,7 +316,8 @@
     "romaji": "shitsumonshimasu",
     "meaning": "bertanya",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-033",
@@ -294,7 +326,8 @@
     "romaji": "niemasu",
     "meaning": "telah matang",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-034",
@@ -303,7 +336,8 @@
     "romaji": "nimasu",
     "meaning": "merebus",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-035",
@@ -312,7 +346,8 @@
     "romaji": "oyakodonburi",
     "meaning": "Oyakodonburi (nama menu, daging ayam masak bersama telur dan disiram di atas nasi putih)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-036",
@@ -321,7 +356,8 @@
     "romaji": "zu",
     "meaning": "gambar",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-037",
@@ -330,7 +366,8 @@
     "romaji": "ao",
     "meaning": "biru (kata benda)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-038",
@@ -339,7 +376,8 @@
     "romaji": "aka",
     "meaning": "merah (kata benda)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-039",
@@ -348,7 +386,8 @@
     "romaji": "orimasu",
     "meaning": "melipat",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-040",
@@ -357,7 +396,8 @@
     "romaji": "setsumeisho",
     "meaning": "petunjuk",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-041",
@@ -366,7 +406,8 @@
     "romaji": "sakini",
     "meaning": "duluan",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-042",
@@ -375,7 +416,8 @@
     "romaji": "sen",
     "meaning": "garis",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-043",
@@ -384,7 +426,8 @@
     "romaji": "kumitatemasu",
     "meaning": "memasang",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-044",
@@ -393,7 +436,8 @@
     "romaji": "chairo",
     "meaning": "coklat (kata benda)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-045",
@@ -402,7 +446,8 @@
     "romaji": "sadou",
     "meaning": "upacara teh",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-046",
@@ -411,7 +456,8 @@
     "romaji": "choumiryou",
     "meaning": "bumbu",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-047",
@@ -420,7 +466,8 @@
     "romaji": "tekitounaookisani",
     "meaning": "ukuran sedang",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-048",
@@ -429,16 +476,18 @@
     "romaji": "shiro",
     "meaning": "putih (kata benda)",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-049",
-    "kanji": "磨きます［歯を～］",
+    "kanji": "磨きます",
     "hiragana": "みがきます",
     "romaji": "migakimasu",
     "meaning": "menggosok [gigi]",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-050",
@@ -447,7 +496,8 @@
     "romaji": "yajirushi",
     "meaning": "tanda panah (aksara)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-051",
@@ -456,7 +506,8 @@
     "romaji": "itameru",
     "meaning": "menumis",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-052",
@@ -465,7 +516,8 @@
     "romaji": "otama",
     "meaning": "sendok sayur",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-053",
@@ -474,7 +526,8 @@
     "romaji": "kakimazeru",
     "meaning": "mengaduk, mencampur",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-054",
@@ -483,7 +536,8 @@
     "romaji": "gasudai",
     "meaning": "kompor gas",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-055",
@@ -492,7 +546,8 @@
     "romaji": "karashi(masutaado)",
     "meaning": "mustard",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-056",
@@ -501,7 +556,8 @@
     "romaji": "kareeko",
     "meaning": "tepung kare",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-057",
@@ -510,7 +566,8 @@
     "romaji": "kii",
     "meaning": "Kunci, tombol",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-058",
@@ -519,7 +576,8 @@
     "romaji": "kechappu",
     "meaning": "saus tomat",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-059",
@@ -528,7 +586,8 @@
     "romaji": "koshou",
     "meaning": "merica",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-060",
@@ -537,7 +596,8 @@
     "romaji": "zaru",
     "meaning": "saringan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-061",
@@ -546,7 +606,8 @@
     "romaji": "shiitoberuto",
     "meaning": "Sabuk pengaman",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-062",
@@ -555,7 +616,8 @@
     "romaji": "shamoji",
     "meaning": "sendok nasi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-063",
@@ -564,7 +626,8 @@
     "romaji": "shouga",
     "meaning": "jahe",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-064",
@@ -573,7 +636,8 @@
     "romaji": "tougarashi",
     "meaning": "cabai",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-065",
@@ -582,7 +646,8 @@
     "romaji": "fukin",
     "meaning": "kain lap",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-066",
@@ -591,7 +656,8 @@
     "romaji": "futa",
     "meaning": "tutup",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-067",
@@ -600,7 +666,8 @@
     "romaji": "furaipan",
     "meaning": "penggorengan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-068",
@@ -609,7 +676,8 @@
     "romaji": "potto",
     "meaning": "termos",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-069",
@@ -618,7 +686,8 @@
     "romaji": "manaita",
     "meaning": "talenan",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-070",
@@ -627,7 +696,8 @@
     "romaji": "mayoneezu",
     "meaning": "mayonese",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-071",
@@ -636,7 +706,8 @@
     "romaji": "miso",
     "meaning": "miso, tauco",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-072",
@@ -645,7 +716,8 @@
     "romaji": "muku",
     "meaning": "mengupas",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-073",
@@ -654,7 +726,8 @@
     "romaji": "yakan",
     "meaning": "ceret, ketel",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-074",
@@ -663,7 +736,8 @@
     "romaji": "yuderu",
     "meaning": "memasak, merebus",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-075",
@@ -672,7 +746,8 @@
     "romaji": "wasabi",
     "meaning": "wasabi (lobak hijau Jepang)",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-076",
@@ -681,7 +756,8 @@
     "romaji": "shio",
     "meaning": "garam",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-077",
@@ -690,7 +766,8 @@
     "romaji": "kagu",
     "meaning": "Perabot rumah tangga",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-078",
@@ -699,7 +776,8 @@
     "romaji": "kankisen",
     "meaning": "kipas ventilasi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-079",
@@ -708,7 +786,8 @@
     "romaji": "kankiri",
     "meaning": "pembuka kaleng",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-080",
@@ -717,7 +796,8 @@
     "romaji": "toriniku",
     "meaning": "Daging ayam",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-081",
@@ -726,7 +806,8 @@
     "romaji": "kizamu",
     "meaning": "mencincang",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-082",
@@ -735,7 +816,8 @@
     "romaji": "satou",
     "meaning": "gula",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-083",
@@ -744,7 +826,8 @@
     "romaji": "hosoi",
     "meaning": "Tipis, kecil",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-084",
@@ -753,7 +836,8 @@
     "romaji": "niru",
     "meaning": "merebus",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-085",
@@ -762,7 +846,8 @@
     "romaji": "yaku",
     "meaning": "membakar, memanggang",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-086",
@@ -771,7 +856,8 @@
     "romaji": "musu",
     "meaning": "mengukus",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-087",
@@ -780,7 +866,8 @@
     "romaji": "su",
     "meaning": "cuka",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-088",
@@ -789,7 +876,8 @@
     "romaji": "taku",
     "meaning": "memasak nasi/menanak nasi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-089",
@@ -798,7 +886,8 @@
     "romaji": "suihanki",
     "meaning": "rice cooker",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-090",
@@ -807,7 +896,8 @@
     "romaji": "sennuki",
     "meaning": "pembuka botol",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-091",
@@ -816,7 +906,8 @@
     "romaji": "futoi",
     "meaning": "Tebal, besar",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-092",
@@ -825,7 +916,8 @@
     "romaji": "daidokoroyouhin",
     "meaning": "peralatan dapur",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-093",
@@ -834,7 +926,8 @@
     "romaji": "denshioobunrenji",
     "meaning": "microwave oven",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-094",
@@ -843,7 +936,8 @@
     "romaji": "houchou",
     "meaning": "pisau",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-095",
@@ -852,7 +946,8 @@
     "romaji": "bon'odori",
     "meaning": "Tarian pada festival bon",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-096",
@@ -861,7 +956,8 @@
     "romaji": "abura",
     "meaning": "minyak, lemak",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-097",
@@ -870,16 +966,18 @@
     "romaji": "ageru",
     "meaning": "menggoreng",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-098",
-    "kanji": "流し［台］",
+    "kanji": "流し",
     "hiragana": "ながし［だい］",
     "romaji": "nagashi[dai]",
     "meaning": "bak cuci piring",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   },
   {
     "id": "mn-34-099",
@@ -888,6 +986,7 @@
     "romaji": "ryouri",
     "meaning": "masakan",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 34"
   }
 ]

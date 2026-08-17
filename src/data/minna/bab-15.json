@@ -6,7 +6,8 @@
     "romaji": "irasshaimasuⅠ",
     "meaning": "bentuk hormat dari います",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-002",
@@ -15,7 +16,8 @@
     "romaji": "katarogu",
     "meaning": "katalog",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-003",
@@ -24,7 +26,8 @@
     "romaji": "sumimasen",
     "meaning": "Maaf.",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-004",
@@ -33,7 +36,8 @@
     "romaji": "sofuto",
     "meaning": "perangkat lunak",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-005",
@@ -42,7 +46,8 @@
     "romaji": "minasan",
     "meaning": "semuanya, bapak-bapak dan ibu-ibu sekalian",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-006",
@@ -51,7 +56,8 @@
     "romaji": "keizai",
     "meaning": "ekonomi",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-007",
@@ -60,7 +66,8 @@
     "romaji": "kenkyuushimasuⅢ",
     "meaning": "meneliti",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-008",
@@ -69,7 +76,8 @@
     "romaji": "koukou",
     "meaning": "SMA",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-009",
@@ -78,7 +86,8 @@
     "romaji": "tsukurimasuⅠ",
     "meaning": "Membuat (Umum)",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-010",
@@ -87,7 +96,8 @@
     "romaji": "shiyakusho",
     "meaning": "kantor wali kota",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-011",
@@ -96,7 +106,8 @@
     "romaji": "omoidashimasuⅠ",
     "meaning": "teringat",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-012",
@@ -105,7 +116,8 @@
     "romaji": "shiryou",
     "meaning": "data, bahan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-013",
@@ -114,7 +126,8 @@
     "romaji": "haisha",
     "meaning": "dokter gigi",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-014",
@@ -123,7 +136,8 @@
     "romaji": "jikokuhyou",
     "meaning": "jadwal",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-015",
@@ -132,7 +146,8 @@
     "romaji": "sumimasuⅠ",
     "meaning": "tinggal",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-016",
@@ -141,7 +156,8 @@
     "romaji": "seihin",
     "meaning": "produk",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-017",
@@ -150,7 +166,8 @@
     "romaji": "tsukurimasuⅠ",
     "meaning": "Membangun / Memproduksi",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-018",
@@ -159,7 +176,8 @@
     "romaji": "shirimasuⅠ",
     "meaning": "mengetahui, mengenal",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-019",
@@ -168,7 +186,8 @@
     "romaji": "okimasuⅠ",
     "meaning": "meletakkan, menaruh",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-020",
@@ -177,7 +196,8 @@
     "romaji": "denshijisho",
     "meaning": "kamus elektronik",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-021",
@@ -186,7 +206,8 @@
     "romaji": "dokushin",
     "meaning": "bujangan, belum berkeluarga",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-022",
@@ -195,7 +216,8 @@
     "romaji": "urimasuⅠ",
     "meaning": "menjual",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-023",
@@ -204,7 +226,8 @@
     "romaji": "fuku",
     "meaning": "baju",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-024",
@@ -213,7 +236,8 @@
     "romaji": "enjinia",
     "meaning": "insinyur",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-025",
@@ -222,7 +246,8 @@
     "romaji": "jaanarisuto",
     "meaning": "wartawan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-026",
@@ -231,7 +256,8 @@
     "romaji": "supootsusenshu",
     "meaning": "olahragawan",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-027",
@@ -240,7 +266,8 @@
     "romaji": "dezainaa",
     "meaning": "perancang busana",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-028",
@@ -249,7 +276,8 @@
     "romaji": "minnano intabyuu",
     "meaning": "acara televisi fiksi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-029",
@@ -258,7 +286,8 @@
     "romaji": "isha",
     "meaning": "dokter",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-030",
@@ -267,7 +296,8 @@
     "romaji": "untenshu",
     "meaning": "sopir",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-031",
@@ -276,7 +306,8 @@
     "romaji": "ekiin",
     "meaning": "pegawai stasiun",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-032",
@@ -285,7 +316,8 @@
     "romaji": "ongakuka",
     "meaning": "musisi",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-033",
@@ -294,7 +326,8 @@
     "romaji": "kashu",
     "meaning": "penyanyi",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-034",
@@ -303,7 +336,8 @@
     "romaji": "gaka",
     "meaning": "pelukis",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-035",
@@ -312,7 +346,8 @@
     "romaji": "kaishain",
     "meaning": "pegawai perusahaan",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-036",
@@ -321,7 +356,8 @@
     "romaji": "gaikoukan",
     "meaning": "diplomat",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-037",
@@ -330,7 +366,8 @@
     "romaji": "kangoshi",
     "meaning": "perawat",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-038",
@@ -339,7 +376,8 @@
     "romaji": "kyoushi",
     "meaning": "guru",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-039",
@@ -348,7 +386,8 @@
     "romaji": "ginkouin",
     "meaning": "pegawai bank",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-040",
@@ -357,7 +396,8 @@
     "romaji": "keisatsukan",
     "meaning": "polisi",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-041",
@@ -366,7 +406,8 @@
     "romaji": "kenchikuka",
     "meaning": "arsitek",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-042",
@@ -375,7 +416,8 @@
     "romaji": "kenkyuusha",
     "meaning": "peneliti",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-043",
@@ -384,7 +426,8 @@
     "romaji": "koumuin",
     "meaning": "pegawai negeri",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-044",
@@ -393,7 +436,8 @@
     "romaji": "sakka",
     "meaning": "pengarang",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-045",
@@ -402,7 +446,8 @@
     "romaji": "shokugyou",
     "meaning": "Pekerjaan",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-046",
@@ -411,7 +456,8 @@
     "romaji": "seijika",
     "meaning": "politikus",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-047",
@@ -420,7 +466,8 @@
     "romaji": "chourishi",
     "meaning": "tukang masak",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-048",
@@ -429,7 +476,8 @@
     "romaji": "ten'in",
     "meaning": "pegawai toko",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-049",
@@ -438,7 +486,8 @@
     "romaji": "haiyuu",
     "meaning": "aktor aktris",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-050",
@@ -447,7 +496,8 @@
     "romaji": "biyoushi",
     "meaning": "ahli kecantikan",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-051",
@@ -456,7 +506,8 @@
     "romaji": "bengoshi",
     "meaning": "pengacara",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-052",
@@ -465,7 +516,8 @@
     "romaji": "yuubinkyokuin",
     "meaning": "pegawai kantor pos",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-053",
@@ -474,7 +526,8 @@
     "romaji": "riyoushi",
     "meaning": "tukang potong rambut",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 15"
   },
   {
     "id": "mn-15-054",
@@ -483,6 +536,7 @@
     "romaji": "nipponbashi",
     "meaning": "nama daerah perbelanjaan di Osaka",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 15"
   }
 ]

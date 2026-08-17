@@ -1,12 +1,13 @@
 [
   {
     "id": "mn-29-001",
-    "kanji": "［ああ］よかった。",
+    "kanji": "よかった。",
     "hiragana": "［ああ、］よかった。",
     "romaji": "[aa,]yokatta.",
     "meaning": "[O,] syukur. (dipakai ketika merasa lega)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-002",
@@ -15,7 +16,8 @@
     "romaji": "[o]chawan",
     "meaning": "mangkuk",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-003",
@@ -24,7 +26,8 @@
     "romaji": "[o]sara",
     "meaning": "piring",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-004",
@@ -33,7 +36,8 @@
     "romaji": "~no hou",
     "meaning": "sebelah ~",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-005",
@@ -42,7 +46,8 @@
     "romaji": "~gawa",
     "meaning": "sebelah ~",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-006",
@@ -51,7 +56,8 @@
     "romaji": "~hen",
     "meaning": "sekitar ~",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-007",
@@ -60,7 +66,8 @@
     "romaji": "osakini douzo.",
     "meaning": "Silakan duluan!",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-008",
@@ -69,7 +76,8 @@
     "romaji": "garasu",
     "meaning": "kaca",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-009",
@@ -78,7 +86,8 @@
     "romaji": "koppu",
     "meaning": "gelas",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-010",
@@ -87,7 +96,8 @@
     "romaji": "konokurai",
     "meaning": "segini",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-011",
@@ -96,7 +106,8 @@
     "romaji": "konohen",
     "meaning": "sekitar sini",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-012",
@@ -105,16 +116,18 @@
     "romaji": "supiichi",
     "meaning": "pidato (～を します：berpidato)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-013",
-    "kanji": "つきます［電気が～］",
+    "kanji": "つきます",
     "hiragana": "つきます",
     "romaji": "tsukimasu",
     "meaning": "[lampu] menyala",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-014",
@@ -123,7 +136,8 @@
     "romaji": "fukimasu",
     "meaning": "mengelap",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-015",
@@ -132,7 +146,8 @@
     "romaji": "poketto",
     "meaning": "kantong",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-016",
@@ -141,7 +156,8 @@
     "romaji": "repootaa",
     "meaning": "wartawan, jurnalis, pelapor",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-017",
@@ -150,7 +166,8 @@
     "romaji": "ekiin",
     "meaning": "petugas stasiun",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-018",
@@ -159,43 +176,48 @@
     "romaji": "ekimae",
     "meaning": "depan stasiun",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-019",
-    "kanji": "汚れます［服が～］",
+    "kanji": "汚れます",
     "hiragana": "よごれます",
     "romaji": "yogoremasu",
     "meaning": "[baju] menjadi kotor",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-020",
-    "kanji": "壊れます［いすが～］",
+    "kanji": "壊れます",
     "hiragana": "こわれます",
     "romaji": "kowaremasu",
     "meaning": "[kursi] rusak",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-021",
-    "kanji": "開きます［ドアが～］",
+    "kanji": "開きます",
     "hiragana": "あきます",
     "romaji": "akimasu",
     "meaning": "[pintu] terbuka",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-022",
-    "kanji": "外れます［ボタンが～］",
+    "kanji": "外れます",
     "hiragana": "はずれます",
     "romaji": "hazuremasu",
     "meaning": "[kancing] terlepas",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-023",
@@ -204,7 +226,8 @@
     "romaji": "tashika",
     "meaning": "kalau tidak salah",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-024",
@@ -213,25 +236,28 @@
     "romaji": "oboete imasen.",
     "meaning": "Tidak ingat.",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-025",
-    "kanji": "掛かります［かぎが～］",
+    "kanji": "掛かります",
     "hiragana": "かかります",
     "romaji": "kakarimasu",
     "meaning": "terkunci",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-026",
-    "kanji": "割れます［コップが～］",
+    "kanji": "割れます",
     "hiragana": "われます",
     "romaji": "waremasu",
     "meaning": "[gelas] pecah",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-027",
@@ -240,7 +266,8 @@
     "romaji": "machigaemasu",
     "meaning": "bersalah",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-028",
@@ -249,7 +276,8 @@
     "romaji": "genjimonogatari",
     "meaning": "Genji Monogatari (Novel yang disusun oleh Murasaki Shikibu pada zaman Heian)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-029",
@@ -258,7 +286,8 @@
     "romaji": "kouban",
     "meaning": "pos polisi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-030",
@@ -267,7 +296,8 @@
     "romaji": "imano densha",
     "meaning": "kereta tadi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-031",
@@ -276,7 +306,8 @@
     "romaji": "sashimasu",
     "meaning": "menunjuk",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-032",
@@ -285,16 +316,18 @@
     "romaji": "eda",
     "meaning": "ranting",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-033",
-    "kanji": "止まります［車が～］",
+    "kanji": "止まります",
     "hiragana": "とまります",
     "romaji": "tomarimasu",
     "meaning": "[mobil] berhenti",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-034",
@@ -303,7 +336,8 @@
     "romaji": "torikaemasu",
     "meaning": "mengganti",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-035",
@@ -312,16 +346,18 @@
     "romaji": "shorui",
     "meaning": "dokumen",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-036",
-    "kanji": "消えます［電気が～］",
+    "kanji": "消えます",
     "hiragana": "きえます",
     "romaji": "kiemasu",
     "meaning": "[lampu] terpadam",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-037",
@@ -330,7 +366,8 @@
     "romaji": "shinjuku",
     "meaning": "stasiun di Tokyo/nama daerah",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-038",
@@ -339,7 +376,8 @@
     "romaji": "hari",
     "meaning": "jarum",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-039",
@@ -348,16 +386,18 @@
     "romaji": "nishi",
     "meaning": "barat",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-040",
-    "kanji": "折れます［木が～］",
+    "kanji": "折れます",
     "hiragana": "おれます",
     "romaji": "oremasu",
     "meaning": "[pohon] patah",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-041",
@@ -366,7 +406,8 @@
     "romaji": "fukuro",
     "meaning": "kantong",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-042",
@@ -375,7 +416,8 @@
     "romaji": "jishin",
     "meaning": "gempa bumi",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-043",
@@ -384,7 +426,8 @@
     "romaji": "taoremasu",
     "meaning": "jatuh",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-044",
@@ -393,34 +436,38 @@
     "romaji": "moemasu",
     "meaning": "terbakar",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-045",
-    "kanji": "破れます［紙が～］",
+    "kanji": "破れます",
     "hiragana": "やぶれます",
     "romaji": "yaburemasu",
     "meaning": "[kertas] robek",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-046",
-    "kanji": "付きます［ポケットが～］",
+    "kanji": "付きます",
     "hiragana": "つきます",
     "romaji": "tsukimasu",
     "meaning": "[kantong] terpasang",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-047",
-    "kanji": "閉まります［ドアが～］",
+    "kanji": "閉まります",
     "hiragana": "しまります",
     "romaji": "shimarimasu",
     "meaning": "[pintu] tertutup",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-048",
@@ -429,7 +476,8 @@
     "romaji": "kabe",
     "meaning": "dinding",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-049",
@@ -438,7 +486,8 @@
     "romaji": "katazukemasu",
     "meaning": "membereskan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-050",
@@ -447,7 +496,8 @@
     "romaji": "henji",
     "meaning": "jawaban (～を します：memberi jawaban)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-051",
@@ -456,7 +506,8 @@
     "romaji": "wasuremono",
     "meaning": "barang yang tertinggal, ketinggalan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-052",
@@ -465,7 +516,8 @@
     "romaji": "amidana",
     "meaning": "rak bagasi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-053",
@@ -474,7 +526,8 @@
     "romaji": "otoshimasu",
     "meaning": "menjatuhkan, kehilangan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-054",
@@ -483,7 +536,8 @@
     "romaji": "sukimasu",
     "meaning": "sepi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-055",
@@ -492,7 +546,8 @@
     "romaji": "nureteiru",
     "meaning": "basah",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-056",
@@ -501,7 +556,8 @@
     "romaji": "nejireteiru",
     "meaning": "terpelintir",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-057",
@@ -510,7 +566,8 @@
     "romaji": "hibigahaitteiru",
     "meaning": "retak",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-058",
@@ -519,7 +576,8 @@
     "romaji": "hekondeiru",
     "meaning": "penyok",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-059",
@@ -528,7 +586,8 @@
     "romaji": "yaseteiru",
     "meaning": "kurus",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-060",
@@ -537,7 +596,8 @@
     "romaji": "yugandeiru",
     "meaning": "melengkung",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-061",
@@ -546,7 +606,8 @@
     "romaji": "kawaiteiru",
     "meaning": "kering",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-062",
@@ -555,7 +616,8 @@
     "romaji": "magatteiru",
     "meaning": "bengkok",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-063",
@@ -564,7 +626,8 @@
     "romaji": "kaketeiru",
     "meaning": "sumbing",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-064",
@@ -573,7 +636,8 @@
     "romaji": "anagaaiteiru",
     "meaning": "bolong",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-065",
@@ -582,7 +646,8 @@
     "romaji": "komimasu",
     "meaning": "ramai, macet",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-066",
@@ -591,7 +656,8 @@
     "romaji": "saifu",
     "meaning": "dompet",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-067",
@@ -600,7 +666,8 @@
     "romaji": "joutai",
     "meaning": "keadaan",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-068",
@@ -609,7 +676,8 @@
     "romaji": "futotteiru",
     "meaning": "gemuk",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-069",
@@ -618,7 +686,8 @@
     "romaji": "kootteiru",
     "meaning": "beku",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-070",
@@ -627,7 +696,8 @@
     "romaji": "kusatteiru",
     "meaning": "busuk",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-071",
@@ -636,7 +706,8 @@
     "romaji": "fukurandeiru",
     "meaning": "kembung",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   },
   {
     "id": "mn-29-072",
@@ -645,6 +716,7 @@
     "romaji": "yousu",
     "meaning": "kondisi",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 29"
   }
 ]

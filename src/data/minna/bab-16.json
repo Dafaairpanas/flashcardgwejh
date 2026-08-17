@@ -6,7 +6,8 @@
     "romaji": "[iie,] madamadadesu.",
     "meaning": "[Tidak], belum memuaskan.",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-002",
@@ -15,7 +16,8 @@
     "romaji": "[o]tera",
     "meaning": "wihara",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-003",
@@ -24,16 +26,18 @@
     "romaji": "-ban",
     "meaning": "nomor ー",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-004",
-    "kanji": "おなか＊",
-    "hiragana": "おなか＊",
+    "kanji": "おなか",
+    "hiragana": "おなか",
     "romaji": "onaka",
     "meaning": "perut",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-005",
@@ -42,7 +46,8 @@
     "romaji": "ohikidashidesuka.",
     "meaning": "Mau menarik uang?",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-006",
@@ -51,7 +56,8 @@
     "romaji": "kyasshukaado",
     "meaning": "kartu ATM",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-007",
@@ -60,7 +66,8 @@
     "romaji": "saabisu",
     "meaning": "pelayanan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-008",
@@ -69,7 +76,8 @@
     "romaji": "shawaa",
     "meaning": "shower",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-009",
@@ -78,7 +86,8 @@
     "romaji": "jogingu",
     "meaning": "joging, lari pelan-pelan (〜を します：berlari pelan-pelan)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-010",
@@ -87,7 +96,8 @@
     "romaji": "sugoidesune.",
     "meaning": "Hebat.",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-011",
@@ -96,7 +106,8 @@
     "romaji": "douyatte",
     "meaning": "dengan cara bagaimana",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-012",
@@ -105,7 +116,8 @@
     "romaji": "dono ~",
     "meaning": "〜 yang mana (mengungkapkan lebih dari tiga barang)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-013",
@@ -114,7 +126,8 @@
     "romaji": "dore",
     "meaning": "mana (mengungkapkan lebih dari tiga barang)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-014",
@@ -123,7 +136,8 @@
     "romaji": "botan",
     "meaning": "tombol",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-015",
@@ -132,7 +146,8 @@
     "romaji": "mazu",
     "meaning": "pertama-tama, terlebih dahulu",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-016",
@@ -141,7 +156,8 @@
     "romaji": "kurai",
     "meaning": "gelap",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-017",
@@ -150,7 +166,8 @@
     "romaji": "anshoubangou",
     "meaning": "PIN",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-018",
@@ -159,7 +176,8 @@
     "romaji": "nomimasuⅠ",
     "meaning": "minum (minuman keras)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-019",
@@ -168,16 +186,18 @@
     "romaji": "oshimasuⅠ",
     "meaning": "menekan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-020",
-    "kanji": "下ろします [お金を〜]",
+    "kanji": "下ろします",
     "hiragana": "おろしますⅠ [おかねを〜]",
     "romaji": "oroshimasuⅠ [okanewo~]",
     "meaning": "mengeluarkan/mengambil [uang]",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-021",
@@ -186,16 +206,18 @@
     "romaji": "kakunin",
     "meaning": "cek (〜します：mengecek, memastikan)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-022",
     "kanji": "顔",
-    "hiragana": "かお＊",
+    "hiragana": "かお",
     "romaji": "kao",
     "meaning": "muka",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-023",
@@ -204,7 +226,8 @@
     "romaji": "kingaku",
     "meaning": "jumlah uang",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-024",
@@ -213,25 +236,28 @@
     "romaji": "kengakushimasuⅢ",
     "meaning": "mengunjungi",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-025",
     "kanji": "口",
-    "hiragana": "くち＊",
+    "hiragana": "くち",
     "romaji": "kuchi",
     "meaning": "mulut",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-026",
-    "kanji": "降ります [電車を〜]",
+    "kanji": "降ります",
     "hiragana": "おりますⅡ [でんしゃを〜]",
     "romaji": "orimasuⅡ [denshawo~]",
     "meaning": "turun [kereta rel listrik]",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-027",
@@ -240,16 +266,18 @@
     "romaji": "hajimemasuⅡ",
     "meaning": "mulai",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-028",
     "kanji": "歯",
-    "hiragana": "は＊",
+    "hiragana": "は",
     "romaji": "ha",
     "meaning": "gigi",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-029",
@@ -258,16 +286,18 @@
     "romaji": "tsugini",
     "meaning": "kemudian",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-030",
     "kanji": "耳",
-    "hiragana": "みみ＊",
+    "hiragana": "みみ",
     "romaji": "mimi",
     "meaning": "telinga",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-031",
@@ -276,7 +306,8 @@
     "romaji": "wakai",
     "meaning": "muda",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-032",
@@ -285,25 +316,28 @@
     "romaji": "dashimasuⅠ",
     "meaning": "mengeluarkan, menyerahkan, mengirim",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-033",
-    "kanji": "出ます [大学を〜]",
+    "kanji": "出ます",
     "hiragana": "でますⅡ [だいがくを〜]",
     "romaji": "demasuⅡ [daigakuwo~]",
     "meaning": "Keluar / tamat [dari universitas]",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-034",
-    "kanji": "乗ります [電車に〜]",
+    "kanji": "乗ります",
     "hiragana": "のりますⅠ [でんしゃに〜]",
     "romaji": "norimasuⅠ [denshani~]",
     "meaning": "naik [kereta rel listrik]",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-035",
@@ -312,7 +346,8 @@
     "romaji": "norikaemasuⅡ",
     "meaning": "ganti, pindah",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-036",
@@ -321,25 +356,28 @@
     "romaji": "jinja",
     "meaning": "kuil Shinto",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-037",
     "kanji": "足",
-    "hiragana": "あし＊",
+    "hiragana": "あし",
     "romaji": "ashi",
     "meaning": "kaki",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-038",
     "kanji": "体",
-    "hiragana": "からだ＊",
+    "hiragana": "からだ",
     "romaji": "karada",
     "meaning": "badan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-039",
@@ -348,7 +386,8 @@
     "romaji": "mijikai",
     "meaning": "pendek",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-040",
@@ -357,7 +396,8 @@
     "romaji": "nagai",
     "meaning": "panjang",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-041",
@@ -366,7 +406,8 @@
     "romaji": "denwashimasuⅢ",
     "meaning": "menelepon",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-042",
@@ -375,16 +416,18 @@
     "romaji": "atama",
     "meaning": "kepala",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-043",
-    "kanji": "入ります [大学に〜]",
+    "kanji": "入ります",
     "hiragana": "はいりますⅠ [だいがくに〜]",
     "romaji": "hairimasuⅠ [daigakuni~]",
     "meaning": "masuk [universitas]",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-044",
@@ -393,7 +436,8 @@
     "romaji": "iremasuⅡ",
     "meaning": "memasukkan",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-045",
@@ -402,7 +446,8 @@
     "romaji": "se",
     "meaning": "punggung",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-046",
@@ -411,16 +456,18 @@
     "romaji": "kami",
     "meaning": "rambut",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-047",
     "kanji": "鼻",
-    "hiragana": "はな＊",
+    "hiragana": "はな",
     "romaji": "hana",
     "meaning": "hidung",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-048",
@@ -429,7 +476,8 @@
     "romaji": "akarui",
     "meaning": "terang",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-049",
@@ -438,7 +486,8 @@
     "romaji": "me",
     "meaning": "mata",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-050",
@@ -447,7 +496,8 @@
     "romaji": "abimasuⅡ [shawaawo~]",
     "meaning": "mandi",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-051",
@@ -456,7 +506,8 @@
     "romaji": "midori",
     "meaning": "hijau, tumbuhan hijau",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-052",
@@ -465,7 +516,8 @@
     "romaji": "jieiaaru",
     "meaning": "JR (nama perusahaan rel kereta listrik)",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-053",
@@ -474,7 +526,8 @@
     "romaji": "ohikidashi",
     "meaning": "penarikan uang",
     "level": "N3",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-054",
@@ -483,7 +536,8 @@
     "romaji": "ofurikomi",
     "meaning": "pembayaran",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-055",
@@ -492,7 +546,8 @@
     "romaji": "ofurikae",
     "meaning": "pengiriman",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-056",
@@ -501,7 +556,8 @@
     "romaji": "oazukeire",
     "meaning": "menambahkan saldo",
     "level": "N3",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-057",
@@ -510,7 +566,8 @@
     "romaji": "bandon",
     "meaning": "Bandung (di Indonesia)",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-058",
@@ -519,7 +576,8 @@
     "romaji": "furanken",
     "meaning": "Franken (di Jerman)",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-059",
@@ -528,7 +586,8 @@
     "romaji": "berakurusu",
     "meaning": "Veracruz (di Meksiko)",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-060",
@@ -537,7 +596,8 @@
     "romaji": "zandakashoukai",
     "meaning": "cek saldo",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-061",
@@ -546,7 +606,8 @@
     "romaji": "yukimatsuri",
     "meaning": "pesta salju",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-062",
@@ -555,7 +616,8 @@
     "romaji": "daigakumae",
     "meaning": "halte fiksi",
     "level": "N5",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-063",
@@ -564,7 +626,8 @@
     "romaji": "tsuuchoukinyuu",
     "meaning": "pembaharuan buku catatan bank",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 16"
   },
   {
     "id": "mn-16-064",
@@ -573,6 +636,7 @@
     "romaji": "umeda",
     "meaning": "Umeda (nama daerah di Osaka)",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 16"
   }
 ]

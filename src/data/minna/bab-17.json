@@ -6,16 +6,18 @@
     "romaji": "~madeni",
     "meaning": "sampai dengan (menyatakan batas waktu)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-002",
-    "kanji": "[〜が] 痛いです。",
+    "kanji": "痛いです。",
     "hiragana": "[〜が] いたいです。",
     "romaji": "[~ga] itaidesu.",
     "meaning": "[〜] sakit",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-003",
@@ -24,16 +26,18 @@
     "romaji": "[o]furo",
     "meaning": "mandi, kamar mandi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-004",
-    "kanji": "[健康]保険証",
+    "kanji": "保険証",
     "hiragana": "[けんこう]ほけんしょう",
     "romaji": "[kenkou]hokenshou",
     "meaning": "kartu asuransi [kesehatan]",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-005",
@@ -42,7 +46,8 @@
     "romaji": "2,3~",
     "meaning": "dua atau tiga (digunakan kata bilangan di bagian 〜)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-006",
@@ -51,7 +56,8 @@
     "romaji": "2,3nichi",
     "meaning": "dua atau tiga hari",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-007",
@@ -60,7 +66,8 @@
     "romaji": "odaijini.",
     "meaning": "Semoga lekas sembuh. (ekspresi yang diucapkan kepada orang yang sedang sakit)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-008",
@@ -69,7 +76,8 @@
     "romaji": "kaze",
     "meaning": "masuk angin",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-009",
@@ -78,7 +86,8 @@
     "romaji": "sorekara",
     "meaning": "dan, kemudian",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-010",
@@ -87,7 +96,8 @@
     "romaji": "desukara",
     "meaning": "oleh karena itu",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-011",
@@ -96,7 +106,8 @@
     "romaji": "dou shimashitaka.",
     "meaning": "Kenapa?/Ada masalah apa?",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-012",
@@ -105,7 +116,8 @@
     "romaji": "nakushimasuⅠ",
     "meaning": "kehilangan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-013",
@@ -114,16 +126,18 @@
     "romaji": "nodo",
     "meaning": "kerongkongan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-014",
-    "kanji": "飲みます [薬を〜]",
+    "kanji": "飲みます",
     "hiragana": "のみますⅠ [くすりを〜]",
     "romaji": "nomimasuⅠ [kusuriwo~]",
     "meaning": "minum [obat]",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-015",
@@ -132,7 +146,8 @@
     "romaji": "shitagi",
     "meaning": "pakaian dalam",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-016",
@@ -141,7 +156,8 @@
     "romaji": "oboemasuⅡ",
     "meaning": "mengingat, menghafal",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-017",
@@ -150,7 +166,8 @@
     "romaji": "abunai",
     "meaning": "berbahaya",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-018",
@@ -159,7 +176,8 @@
     "romaji": "kin'en",
     "meaning": "dilarang merokok",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-019",
@@ -168,7 +186,8 @@
     "romaji": "zangyoushimasuⅢ",
     "meaning": "melembur",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-020",
@@ -177,7 +196,8 @@
     "romaji": "motte ikimasuⅠ",
     "meaning": "membawa pergi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-021",
@@ -186,7 +206,8 @@
     "romaji": "motte kimasuⅢ",
     "meaning": "membawa datang",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-022",
@@ -195,7 +216,8 @@
     "romaji": "dekakemasuⅡ",
     "meaning": "pergi, keluar, berangkat",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-023",
@@ -204,7 +226,8 @@
     "romaji": "shutchoushimasuⅢ",
     "meaning": "dinas",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-024",
@@ -213,7 +236,8 @@
     "romaji": "uwagi",
     "meaning": "baju, jaket",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-025",
@@ -222,7 +246,8 @@
     "romaji": "shinpaishimasuⅢ",
     "meaning": "mengkhawatirkan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-026",
@@ -231,7 +256,8 @@
     "romaji": "daijoubu[na]",
     "meaning": "tidak apa-apa, tidak masalah",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-027",
@@ -240,7 +266,8 @@
     "romaji": "taisetsu[na]",
     "meaning": "penting, bernilai, berharga",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-028",
@@ -249,7 +276,8 @@
     "romaji": "nugimasuⅠ",
     "meaning": "buka (baju, sepatu dan lain-lain)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-029",
@@ -258,7 +286,8 @@
     "romaji": "hairimasuⅠ [ofuroni~]",
     "meaning": "mandi, masuk [ofuro]",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-030",
@@ -267,7 +296,8 @@
     "romaji": "netsu",
     "meaning": "demam",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-031",
@@ -276,7 +306,8 @@
     "romaji": "byouki",
     "meaning": "sakit",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-032",
@@ -285,7 +316,8 @@
     "romaji": "haraimasuⅠ",
     "meaning": "membayar",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-033",
@@ -294,7 +326,8 @@
     "romaji": "kaeshimasuⅠ",
     "meaning": "mengembalikan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-034",
@@ -303,7 +336,8 @@
     "romaji": "wasuremasuⅡ",
     "meaning": "lupa",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-035",
@@ -312,7 +346,8 @@
     "romaji": "kusuri",
     "meaning": "obat",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-036",
@@ -321,7 +356,8 @@
     "romaji": "ago",
     "meaning": "dagu",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-037",
@@ -330,7 +366,8 @@
     "romaji": "ashi",
     "meaning": "kaki",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-038",
@@ -339,7 +376,8 @@
     "romaji": "atama",
     "meaning": "kepala",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-039",
@@ -348,7 +386,8 @@
     "romaji": "infuruenza",
     "meaning": "flu, influenza",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-040",
@@ -357,7 +396,8 @@
     "romaji": "ude",
     "meaning": "lengan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-041",
@@ -366,7 +406,8 @@
     "romaji": "onaka",
     "meaning": "perut",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-042",
@@ -375,7 +416,8 @@
     "romaji": "onakaga itai",
     "meaning": "sakit perut",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-043",
@@ -384,7 +426,8 @@
     "romaji": "kao",
     "meaning": "muka",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-044",
@@ -393,7 +436,8 @@
     "romaji": "kata",
     "meaning": "bahu",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-045",
@@ -402,7 +446,8 @@
     "romaji": "kami",
     "meaning": "rambut",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-046",
@@ -411,7 +456,8 @@
     "romaji": "kayui",
     "meaning": "gatal",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-047",
@@ -420,7 +466,8 @@
     "romaji": "gikkurigoshi",
     "meaning": "sakit pinggang",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-048",
@@ -429,7 +476,8 @@
     "romaji": "kuchi",
     "meaning": "mulut",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-049",
@@ -438,7 +486,8 @@
     "romaji": "kubi",
     "meaning": "leher",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-050",
@@ -447,7 +496,8 @@
     "romaji": "kegawo shimasu",
     "meaning": "terluka",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-051",
@@ -456,7 +506,8 @@
     "romaji": "koshi",
     "meaning": "pinggang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-052",
@@ -465,7 +516,8 @@
     "romaji": "shiri",
     "meaning": "pantat",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-053",
@@ -474,7 +526,8 @@
     "romaji": "sekiga demasu",
     "meaning": "batuk",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-054",
@@ -483,7 +536,8 @@
     "romaji": "senaka",
     "meaning": "punggung",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-055",
@@ -492,7 +546,8 @@
     "romaji": "tsume",
     "meaning": "kuku",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-056",
@@ -501,7 +556,8 @@
     "romaji": "te",
     "meaning": "tangan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-057",
@@ -510,7 +566,8 @@
     "romaji": "nenza",
     "meaning": "keseleo",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-058",
@@ -519,7 +576,8 @@
     "romaji": "nodo",
     "meaning": "kerongkongan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-059",
@@ -528,7 +586,8 @@
     "romaji": "hana",
     "meaning": "hidung",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-060",
@@ -537,7 +596,8 @@
     "romaji": "hiza",
     "meaning": "lutut",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-061",
@@ -546,7 +606,8 @@
     "romaji": "hone",
     "meaning": "tulang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-062",
@@ -555,7 +616,8 @@
     "romaji": "mimi",
     "meaning": "telinga",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-063",
@@ -564,7 +626,8 @@
     "romaji": "mune",
     "meaning": "dada",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-064",
@@ -573,7 +636,8 @@
     "romaji": "me",
     "meaning": "mata",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-065",
@@ -582,7 +646,8 @@
     "romaji": "memaiga shimasu",
     "meaning": "pening, pusing",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-066",
@@ -591,7 +656,8 @@
     "romaji": "yakedowo shimasu",
     "meaning": "terbakar",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-067",
@@ -600,7 +666,8 @@
     "romaji": "yubi",
     "meaning": "jari",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-068",
@@ -609,7 +676,8 @@
     "romaji": "geriwo shimasu",
     "meaning": "diare",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-069",
@@ -618,7 +686,8 @@
     "romaji": "samukega shimasu",
     "meaning": "kedinginan",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-070",
@@ -627,7 +696,8 @@
     "romaji": "chiga demasu",
     "meaning": "berdarah",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-071",
@@ -636,7 +706,8 @@
     "romaji": "kataga korimasu",
     "meaning": "bahu pegal",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-072",
@@ -645,7 +716,8 @@
     "romaji": "kossetsu",
     "meaning": "patah tulang",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-073",
@@ -654,7 +726,8 @@
     "romaji": "haga itai",
     "meaning": "sakit gigi",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-074",
@@ -663,7 +736,8 @@
     "romaji": "shokuyokuga arimasen",
     "meaning": "tidak nafsu makan",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-075",
@@ -672,7 +746,8 @@
     "romaji": "karadaga darui",
     "meaning": "badan lemas",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-076",
@@ -681,7 +756,8 @@
     "romaji": "hakikega shimasu",
     "meaning": "mual, mau muntah",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-077",
@@ -690,7 +766,8 @@
     "romaji": "atamaga itai",
     "meaning": "sakit kepala",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-078",
@@ -699,7 +776,8 @@
     "romaji": "futsukayoi",
     "meaning": "efek sesudah minum",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-079",
@@ -708,7 +786,8 @@
     "romaji": "netsuga arimasu",
     "meaning": "demam",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-080",
@@ -717,7 +796,8 @@
     "romaji": "hanamizuga demasu",
     "meaning": "pilek",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-081",
@@ -726,7 +806,8 @@
     "romaji": "benpiwo shimasu",
     "meaning": "sembelit",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   },
   {
     "id": "mn-17-082",
@@ -735,6 +816,7 @@
     "romaji": "mouchou",
     "meaning": "usus buntu",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 17"
   }
 ]

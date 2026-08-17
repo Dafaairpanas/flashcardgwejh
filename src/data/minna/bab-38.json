@@ -6,7 +6,8 @@
     "romaji": "~toiu",
     "meaning": "dengan judul ~",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-002",
@@ -15,7 +16,8 @@
     "romaji": "~satsu",
     "meaning": "~ buah (kata bantu bilangan untuk menghitung buku dan lain-lain)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-003",
@@ -24,7 +26,8 @@
     "romaji": "~sei",
     "meaning": "buatan ~",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-004",
@@ -33,7 +36,8 @@
     "romaji": "~ten",
     "meaning": "~ point",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-005",
@@ -42,7 +46,8 @@
     "romaji": "5nensei",
     "meaning": "kelas lima",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-006",
@@ -51,7 +56,8 @@
     "romaji": "a,ikenai",
     "meaning": "[Ah,] Salah! (memakai ketika bersalah atau gagal)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-007",
@@ -60,7 +66,8 @@
     "romaji": "ototoshi",
     "meaning": "dua tahun yang lalu",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-008",
@@ -69,7 +76,8 @@
     "romaji": "otonashii",
     "meaning": "pendiam",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-009",
@@ -78,7 +86,8 @@
     "romaji": "osakinishitsureishimasu",
     "meaning": "[Permisi] duluan.",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-010",
@@ -87,7 +96,8 @@
     "romaji": "kana",
     "meaning": "huruf Hiragana, huruf Katakana",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-011",
@@ -96,7 +106,8 @@
     "romaji": "kichinto",
     "meaning": "dengan rapi",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-012",
@@ -105,7 +116,8 @@
     "romaji": "kenkashimasu",
     "meaning": "bertengkar",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-013",
@@ -114,7 +126,8 @@
     "romaji": "shikata",
     "meaning": "cara",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-014",
@@ -123,7 +136,8 @@
     "romaji": "tsukimasu",
     "meaning": "berbohong",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-015",
@@ -132,7 +146,8 @@
     "romaji": "hanko",
     "meaning": "cap",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-016",
@@ -141,7 +156,8 @@
     "romaji": "sodatemasu",
     "meaning": "memelihara",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-017",
@@ -150,7 +166,8 @@
     "romaji": "hakobimasu",
     "meaning": "mengangkut",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-018",
@@ -159,7 +176,8 @@
     "romaji": "ekimae",
     "meaning": "depan stasiun",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-019",
@@ -168,7 +186,8 @@
     "romaji": "oshimasu",
     "meaning": "mengecap",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-020",
@@ -177,7 +196,8 @@
     "romaji": "kairan",
     "meaning": "edaran",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-021",
@@ -186,7 +206,8 @@
     "romaji": "kaigan",
     "meaning": "pantai laut",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-022",
@@ -195,7 +216,8 @@
     "romaji": "kakemasu",
     "meaning": "mengunci",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-023",
@@ -204,7 +226,8 @@
     "romaji": "kigatsuyoi",
     "meaning": "bersifat keras, galak",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-024",
@@ -213,7 +236,8 @@
     "romaji": "kimochigaii",
     "meaning": "rasa enak",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-025",
@@ -222,7 +246,8 @@
     "romaji": "kimochigawarui",
     "meaning": "rasa tidak enak, jijik",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-026",
@@ -231,7 +256,8 @@
     "romaji": "kenkou",
     "meaning": "kesehatan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-027",
@@ -240,7 +266,8 @@
     "romaji": "kenkyuushitsu",
     "meaning": "labolatorium/ruang dosen",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-028",
@@ -249,7 +276,8 @@
     "romaji": "koujou",
     "meaning": "pabrik",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-029",
@@ -258,7 +286,8 @@
     "romaji": "sankashimasu",
     "meaning": "mengikuti [perjalanan]",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-030",
@@ -267,7 +296,8 @@
     "romaji": "shimai",
     "meaning": "saudara perempuan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-031",
@@ -276,7 +306,8 @@
     "romaji": "yubiwa",
     "meaning": "cincin",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-032",
@@ -285,7 +316,8 @@
     "romaji": "niteimasu",
     "meaning": "mirip",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-033",
@@ -294,7 +326,8 @@
     "romaji": "jikangatachimasu",
     "meaning": "waktu berlalu",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-034",
@@ -303,7 +336,8 @@
     "romaji": "shuukan",
     "meaning": "kebiasaan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-035",
@@ -312,7 +346,8 @@
     "romaji": "chiisana~",
     "meaning": "kecil ~",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-036",
@@ -321,7 +356,8 @@
     "romaji": "shougakkou",
     "meaning": "SD",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-037",
@@ -330,7 +366,8 @@
     "romaji": "sewawoshimasu",
     "meaning": "merawat",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-038",
@@ -339,7 +376,8 @@
     "romaji": "seikaku",
     "meaning": "sifat",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-039",
@@ -348,7 +386,8 @@
     "romaji": "seirishimasu",
     "meaning": "mengatur",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-040",
@@ -357,7 +396,8 @@
     "romaji": "akachan",
     "meaning": "bayi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-041",
@@ -366,7 +406,8 @@
     "romaji": "kirimasu",
     "meaning": "mematikan [power suply]",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-042",
@@ -375,7 +416,8 @@
     "romaji": "futago",
     "meaning": "anak kembar",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-043",
@@ -384,7 +426,8 @@
     "romaji": "mura",
     "meaning": "desa, kampung",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-044",
@@ -393,7 +436,8 @@
     "romaji": "taiinshimasu",
     "meaning": "keluar dari rumah sakit",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-045",
@@ -402,7 +446,8 @@
     "romaji": "ookina~",
     "meaning": "besar ~",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-046",
@@ -411,7 +456,8 @@
     "romaji": "daisukina",
     "meaning": "suka sekali",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-047",
@@ -420,7 +466,8 @@
     "romaji": "chuugakkou",
     "meaning": "SMP",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-048",
@@ -429,7 +476,8 @@
     "romaji": "dengen",
     "meaning": "power suply",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-049",
@@ -438,7 +486,8 @@
     "romaji": "iremasu",
     "meaning": "menghidupkan [power suply]",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-050",
@@ -447,7 +496,8 @@
     "romaji": "nyuuinshimasu",
     "meaning": "opname",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-051",
@@ -456,7 +506,8 @@
     "romaji": "nenrei",
     "meaning": "usia, umur",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-052",
@@ -465,7 +516,8 @@
     "romaji": "fushigina",
     "meaning": "aneh",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-053",
@@ -474,7 +526,8 @@
     "romaji": "houhou",
     "meaning": "cara",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-054",
@@ -483,7 +536,8 @@
     "romaji": "yasashii",
     "meaning": "baik hati",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-055",
@@ -492,7 +546,8 @@
     "romaji": "2gyoume",
     "meaning": "baris kedua",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-056",
@@ -501,7 +556,8 @@
     "romaji": "3gyoume",
     "meaning": "baris ketiga",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-057",
@@ -510,7 +566,8 @@
     "romaji": "4peeji",
     "meaning": "halaman 4",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-058",
@@ -519,7 +576,8 @@
     "romaji": "soba",
     "meaning": "samping",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-059",
@@ -528,7 +586,8 @@
     "romaji": "ichi",
     "meaning": "Lokasi/Posisi",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-060",
@@ -537,7 +596,8 @@
     "romaji": "oku",
     "meaning": "bagian dalam",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-061",
@@ -546,7 +606,8 @@
     "romaji": "yoko",
     "meaning": "sebelah",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-062",
@@ -555,7 +616,8 @@
     "romaji": "sumi",
     "meaning": "pojok/sudut",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-063",
@@ -564,7 +626,8 @@
     "romaji": "nanameushiro",
     "meaning": "samping belakang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-064",
@@ -573,7 +636,8 @@
     "romaji": "nanamemae",
     "meaning": "samping depan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-065",
@@ -582,7 +646,8 @@
     "romaji": "temae",
     "meaning": "bagian depan",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-066",
@@ -591,7 +656,8 @@
     "romaji": "mawari",
     "meaning": "sekitar",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-067",
@@ -600,7 +666,8 @@
     "romaji": "uekara2danme",
     "meaning": "kedua dari atas",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-068",
@@ -609,7 +676,8 @@
     "romaji": "mannaka",
     "meaning": "tengah",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 38"
   },
   {
     "id": "mn-38-069",
@@ -618,6 +686,7 @@
     "romaji": "maekara2retsume",
     "meaning": "deretan kedua dari depan",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 38"
   }
 ]

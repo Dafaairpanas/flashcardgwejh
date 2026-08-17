@@ -6,7 +6,8 @@
     "romaji": "annani",
     "meaning": "begitu (mengenai barang atau hal tentang tidak ada hubungan dengan pembicara dan lawan bicara)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-002",
@@ -15,7 +16,8 @@
     "romaji": "infuruenza",
     "meaning": "influenza",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-003",
@@ -24,7 +26,8 @@
     "romaji": "urusai",
     "meaning": "bising",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-004",
@@ -33,7 +36,8 @@
     "romaji": "enjin",
     "meaning": "mesin",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-005",
@@ -42,7 +46,8 @@
     "romaji": "okashii",
     "meaning": "aneh, menarik",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-006",
@@ -51,7 +56,8 @@
     "romaji": "kega",
     "meaning": "luka (～を します：terluka)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-007",
@@ -60,16 +66,18 @@
     "romaji": "konnani",
     "meaning": "begini",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-008",
-    "kanji": "すきます［道が～］",
+    "kanji": "すきます",
     "hiragana": "すきます",
     "romaji": "sukimasu",
     "meaning": "[jalan] sepi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-009",
@@ -78,7 +86,8 @@
     "romaji": "sutoresu",
     "meaning": "stres",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-010",
@@ -87,7 +96,8 @@
     "romaji": "seki",
     "meaning": "batuk (～を します／～が でます：batuk)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-011",
@@ -96,7 +106,8 @@
     "romaji": "sorehaikemasenne.",
     "meaning": "Kurang bagus.",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-012",
@@ -105,7 +116,8 @@
     "romaji": "sonnani",
     "meaning": "begitu (mengenai barang atau hal tentang lawan bicara)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-013",
@@ -114,16 +126,18 @@
     "romaji": "chiimu",
     "meaning": "regu",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-014",
-    "kanji": "ひきます［かぜを～］",
+    "kanji": "ひきます",
     "hiragana": "ひきます",
     "romaji": "hikimasu",
     "meaning": "masuk [angin]",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-015",
@@ -132,7 +146,8 @@
     "romaji": "mae",
     "meaning": "sebelum",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-016",
@@ -141,16 +156,18 @@
     "romaji": "yakedo",
     "meaning": "luka bakar (～を します：menderita luka bakar)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-017",
-    "kanji": "やみます［雨が～］",
+    "kanji": "やみます",
     "hiragana": "やみます",
     "romaji": "yamimasu",
     "meaning": "[hujan] berhenti",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-018",
@@ -159,7 +176,8 @@
     "romaji": "yooroppa",
     "meaning": "Eropa",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-019",
@@ -168,7 +186,8 @@
     "romaji": "rakkiiaitemu",
     "meaning": "benda yang mujur",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-020",
@@ -177,7 +196,8 @@
     "romaji": "i",
     "meaning": "lambung",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-021",
@@ -186,7 +206,8 @@
     "romaji": "undoushimasu",
     "meaning": "berolahraga",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-022",
@@ -195,7 +216,8 @@
     "romaji": "oushiza",
     "meaning": "Taurus",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-023",
@@ -204,7 +226,8 @@
     "romaji": "sora",
     "meaning": "langit",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-024",
@@ -213,7 +236,8 @@
     "romaji": "kenkou",
     "meaning": "kesehatan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-025",
@@ -222,16 +246,18 @@
     "romaji": "genki",
     "meaning": "sehat",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-026",
-    "kanji": "合格します［試験に～］",
+    "kanji": "合格します",
     "hiragana": "ごうかくします",
     "romaji": "goukakushimasu",
     "meaning": "lulus [ujian]",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-027",
@@ -240,16 +266,18 @@
     "romaji": "kokusai~",
     "meaning": "internasional ~",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-028",
-    "kanji": "込みます［道が～］",
+    "kanji": "込みます",
     "hiragana": "こみます",
     "romaji": "komimasu",
     "meaning": "[jalan] macet",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-029",
@@ -258,7 +286,8 @@
     "romaji": "konya",
     "meaning": "nanti malam, malam ini",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-030",
@@ -267,16 +296,18 @@
     "romaji": "komarimasu",
     "meaning": "bingung",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-031",
-    "kanji": "失敗します［試験に～］",
+    "kanji": "失敗します",
     "hiragana": "しっぱいします",
     "romaji": "shippaishimasu",
     "meaning": "gagal [ujian]",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-032",
@@ -285,16 +316,18 @@
     "romaji": "juubun[na]",
     "meaning": "dengan cukup",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-033",
-    "kanji": "出ます［試合に～］［パーティーに～］",
+    "kanji": "出ます",
     "hiragana": "でます",
     "romaji": "demasu",
     "meaning": "mengikuti [pertandingan], menghadiri [pesta]",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-034",
@@ -303,7 +336,8 @@
     "romaji": "suidou",
     "meaning": "air PAM",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-035",
@@ -312,7 +346,8 @@
     "romaji": "seikoushimasu",
     "meaning": "berhasil",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-036",
@@ -321,7 +356,8 @@
     "romaji": "hoshi",
     "meaning": "bintang",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-037",
@@ -330,7 +366,8 @@
     "romaji": "hoshiuranai",
     "meaning": "horoskop",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-038",
@@ -339,7 +376,8 @@
     "romaji": "haremasu",
     "meaning": "cerah",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-039",
@@ -348,7 +386,8 @@
     "romaji": "nishi",
     "meaning": "barat",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-040",
@@ -357,7 +396,8 @@
     "romaji": "ishi",
     "meaning": "batu",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-041",
@@ -366,16 +406,18 @@
     "romaji": "sensei",
     "meaning": "dokter",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-042",
-    "kanji": "続きます［熱が～］",
+    "kanji": "続きます",
     "hiragana": "つづきます",
     "romaji": "tsuzukimasu",
     "meaning": "[demam] berlangsung",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-043",
@@ -384,7 +426,8 @@
     "romaji": "taiyou",
     "meaning": "matahari",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-044",
@@ -393,7 +436,8 @@
     "romaji": "osoku",
     "meaning": "kemalaman",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-045",
@@ -402,16 +446,18 @@
     "romaji": "higashi",
     "meaning": "timur",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-046",
-    "kanji": "当たります［宝くじが～］",
+    "kanji": "当たります",
     "hiragana": "あたります",
     "romaji": "atarimasu",
     "meaning": "memenangi [lotre]",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-047",
@@ -420,7 +466,8 @@
     "romaji": "hatarakisugi",
     "meaning": "terlalu banyak pekerjaan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-048",
@@ -429,7 +476,8 @@
     "romaji": "kumorimasu",
     "meaning": "mendung",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-049",
@@ -438,7 +486,8 @@
     "romaji": "minami",
     "meaning": "selatan",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-050",
@@ -447,7 +496,8 @@
     "romaji": "kaze",
     "meaning": "angin",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-051",
@@ -456,7 +506,8 @@
     "romaji": "takarakuji",
     "meaning": "lotre",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-052",
@@ -465,7 +516,8 @@
     "romaji": "kita",
     "meaning": "utara",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-053",
@@ -474,7 +526,8 @@
     "romaji": "muriwoshimasu",
     "meaning": "memaksakan diri",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-054",
@@ -483,7 +536,8 @@
     "romaji": "yuugata",
     "meaning": "sore",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-055",
@@ -492,7 +546,8 @@
     "romaji": "hiyashimasu",
     "meaning": "mendinginkan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-056",
@@ -501,7 +556,8 @@
     "romaji": "ren'ai",
     "meaning": "asmara",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-057",
@@ -510,7 +566,8 @@
     "romaji": "koibito",
     "meaning": "pacar",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-058",
@@ -519,7 +576,8 @@
     "romaji": "okanemochi",
     "meaning": "Orang kaya",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-059",
@@ -528,7 +586,8 @@
     "romaji": "sawayaka[na]",
     "meaning": "segar",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-060",
@@ -537,7 +596,8 @@
     "romaji": "niwakaame/yuudachi",
     "meaning": "hujan sebentar",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-061",
@@ -546,7 +606,8 @@
     "romaji": "moshikashitara",
     "meaning": "Kemungkinannya",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-062",
@@ -555,7 +616,8 @@
     "romaji": "yukkurishimasu",
     "meaning": "Beristirahat",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-063",
@@ -564,7 +626,8 @@
     "romaji": "ame",
     "meaning": "hujan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-064",
@@ -573,7 +636,8 @@
     "romaji": "kumo",
     "meaning": "awan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-065",
@@ -582,7 +646,8 @@
     "romaji": "kantouchihou",
     "meaning": "daerah Kanto",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-066",
@@ -591,7 +656,8 @@
     "romaji": "kinkichihou",
     "meaning": "daerah Kinki",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-067",
@@ -600,7 +666,8 @@
     "romaji": "kyuushuuchihou",
     "meaning": "daerah Kyushu",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-068",
@@ -609,7 +676,8 @@
     "romaji": "kousuikakuritsu",
     "meaning": "kemungkinan turun hujan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-069",
@@ -618,7 +686,8 @@
     "romaji": "saikoukion",
     "meaning": "suhu udara tertinggi",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-070",
@@ -627,7 +696,8 @@
     "romaji": "saiteikion",
     "meaning": "suhu udara terendah",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-071",
@@ -636,7 +706,8 @@
     "romaji": "shikokuchihou",
     "meaning": "daerah Shikoku",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-072",
@@ -645,7 +716,8 @@
     "romaji": "naorimasu",
     "meaning": "Sembuh (dari penyakit)",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-073",
@@ -654,7 +726,8 @@
     "romaji": "shitsudo",
     "meaning": "kelembaban",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-074",
@@ -663,7 +736,8 @@
     "romaji": "mushiatsui",
     "meaning": "panas lembab",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-075",
@@ -672,7 +746,8 @@
     "romaji": "fukimasu",
     "meaning": "Bertiup(angin)",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-076",
@@ -681,7 +756,8 @@
     "romaji": "hare",
     "meaning": "cerah",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-077",
@@ -690,7 +766,8 @@
     "romaji": "harenochikumori",
     "meaning": "cerah kemudian berawan",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-078",
@@ -699,7 +776,8 @@
     "romaji": "yuki",
     "meaning": "salju",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-079",
@@ -708,7 +786,8 @@
     "romaji": "taifuu",
     "meaning": "angin topan",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-080",
@@ -717,7 +796,8 @@
     "romaji": "chihou",
     "meaning": "daerah",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-081",
@@ -726,7 +806,8 @@
     "romaji": "chuugokuchihou",
     "meaning": "daerah Chugoku",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-082",
@@ -735,7 +816,8 @@
     "romaji": "chuubuchihou",
     "meaning": "daerah Chubu",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-083",
@@ -744,7 +826,8 @@
     "romaji": "naorimasu",
     "meaning": "Diperbaiki (mesin)",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-084",
@@ -753,7 +836,8 @@
     "romaji": "tenkiyohou",
     "meaning": "prakiraan cuaca",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-085",
@@ -762,7 +846,8 @@
     "romaji": "touhokuchihou",
     "meaning": "daerah Tohoku",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-086",
@@ -771,7 +856,8 @@
     "romaji": "kumori",
     "meaning": "mendung/berawan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-087",
@@ -780,7 +866,8 @@
     "romaji": "kumoritokidokiame",
     "meaning": "berawan kadang-kadang hujan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-088",
@@ -789,7 +876,8 @@
     "romaji": "kumoritokoroniyotteame",
     "meaning": "berawan dan hujan di beberapa daerah",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-089",
@@ -798,7 +886,8 @@
     "romaji": "niji",
     "meaning": "pelangi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-090",
@@ -807,7 +896,8 @@
     "romaji": "hokkaidouchihou",
     "meaning": "daerah Hokkaido",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-091",
@@ -816,7 +906,8 @@
     "romaji": "modorimasu",
     "meaning": "Kembali",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   },
   {
     "id": "mn-32-092",
@@ -825,6 +916,7 @@
     "romaji": "kaminari",
     "meaning": "guntur",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 32"
   }
 ]

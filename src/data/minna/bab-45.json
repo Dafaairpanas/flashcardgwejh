@@ -6,7 +6,8 @@
     "romaji": "-i",
     "meaning": "juara ke －",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-002",
@@ -15,7 +16,8 @@
     "romaji": "110ban",
     "meaning": "nomor telepon polisi untuk saat darurat",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-003",
@@ -24,7 +26,8 @@
     "romaji": "119ban",
     "meaning": "nomor telepon departemen pemadam kebakaran dan penanggulangan bencana untuk saat darurat",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-004",
@@ -33,7 +36,8 @@
     "romaji": "kyanserushimasu",
     "meaning": "membatalkan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-005",
@@ -42,7 +46,8 @@
     "romaji": "kyanpu",
     "meaning": "kemah",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-006",
@@ -51,7 +56,8 @@
     "romaji": "koosu",
     "meaning": "jalur, jalan, rute",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-007",
@@ -60,7 +66,8 @@
     "romaji": "sutaato",
     "meaning": "mulai",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-008",
@@ -69,7 +76,8 @@
     "romaji": "settoshimasu",
     "meaning": "memasang, mengatur",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-009",
@@ -78,7 +86,8 @@
     "romaji": "soredemo",
     "meaning": "masih",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-010",
@@ -87,7 +96,8 @@
     "romaji": "ijoudesu",
     "meaning": "Sekian.",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-011",
@@ -96,7 +106,8 @@
     "romaji": "kaitou",
     "meaning": "jawaban",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-012",
@@ -105,7 +116,8 @@
     "romaji": "tanoshiminishiteimasu",
     "meaning": "menikmati",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-013",
@@ -114,7 +126,8 @@
     "romaji": "kyuuni",
     "meaning": "mendadak, tiba-tiba",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-014",
@@ -123,7 +136,8 @@
     "romaji": "kakariin",
     "meaning": "staf, petugas",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-015",
@@ -132,7 +146,8 @@
     "romaji": "shinjimasu",
     "meaning": "percaya",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-016",
@@ -141,7 +156,8 @@
     "romaji": "daigakusei",
     "meaning": "mahasiswa",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-017",
@@ -150,7 +166,8 @@
     "romaji": "shirasemasu",
     "meaning": "memberitahukan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-018",
@@ -159,7 +176,8 @@
     "romaji": "chuushi",
     "meaning": "pembatalan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-019",
@@ -168,7 +186,8 @@
     "romaji": "ten",
     "meaning": "poin",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-020",
@@ -177,7 +196,8 @@
     "romaji": "nayami",
     "meaning": "masalah",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-021",
@@ -186,7 +206,8 @@
     "romaji": "ume",
     "meaning": "bunga plum",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-022",
@@ -195,7 +216,8 @@
     "romaji": "hoshousho",
     "meaning": "surat garansi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-023",
@@ -204,7 +226,8 @@
     "romaji": "murini",
     "meaning": "dengan paksa",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-024",
@@ -213,7 +236,8 @@
     "romaji": "narimasu",
     "meaning": "berbunyi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-025",
@@ -222,7 +246,8 @@
     "romaji": "megasamemasu",
     "meaning": "terbangun",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-026",
@@ -231,7 +256,8 @@
     "romaji": "mezamashidokei",
     "meaning": "weker",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-027",
@@ -240,7 +266,8 @@
     "romaji": "yuushoushimasu",
     "meaning": "menang",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-028",
@@ -249,7 +276,8 @@
     "romaji": "ryoushuusho",
     "meaning": "kuitansi",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-029",
@@ -258,7 +286,8 @@
     "romaji": "karute",
     "meaning": "data pasien",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-030",
@@ -267,7 +296,8 @@
     "romaji": "konbini",
     "meaning": "toko 24 jam",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-031",
@@ -276,7 +306,8 @@
     "romaji": "rentogenwotoru",
     "meaning": "meronsen",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-032",
@@ -285,7 +316,8 @@
     "romaji": "kaikei",
     "meaning": "kasir",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-033",
@@ -294,7 +326,8 @@
     "romaji": "geka",
     "meaning": "bedah",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-034",
@@ -303,7 +336,8 @@
     "romaji": "ganka",
     "meaning": "mata",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-035",
@@ -312,7 +346,8 @@
     "romaji": "kensasuru",
     "meaning": "memeriksa/mengecek",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-036",
@@ -321,7 +356,8 @@
     "romaji": "sanfujinka",
     "meaning": "obstetrics dan gynaecology",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-037",
@@ -330,7 +366,8 @@
     "romaji": "shika",
     "meaning": "gigi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-038",
@@ -339,7 +376,8 @@
     "romaji": "jibiinkouka",
     "meaning": "THT",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-039",
@@ -348,7 +386,8 @@
     "romaji": "shujutsusuru",
     "meaning": "dioperasi",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-040",
@@ -357,7 +396,8 @@
     "romaji": "uketsuke",
     "meaning": "tempat pendaftaran",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-041",
@@ -366,7 +406,8 @@
     "romaji": "shohousen",
     "meaning": "resep",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-042",
@@ -375,7 +416,8 @@
     "romaji": "shounika",
     "meaning": "pediatri/kesehatan anak",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-043",
@@ -384,7 +426,8 @@
     "romaji": "jouzai/konagusuri/kapuseru",
     "meaning": "pil/puyer/kapsul",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-044",
@@ -393,7 +436,8 @@
     "romaji": "shinsatsusuru",
     "meaning": "memeriksa",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-045",
@@ -402,7 +446,8 @@
     "romaji": "shinsatsuken",
     "meaning": "kartu pasien",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-046",
@@ -411,7 +456,8 @@
     "romaji": "seikeigeka",
     "meaning": "bedah ortopedi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-047",
@@ -420,7 +466,8 @@
     "romaji": "machiaishitsu",
     "meaning": "ruang tunggu",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-048",
@@ -429,7 +476,8 @@
     "romaji": "chuushasuru",
     "meaning": "menyuntik",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-049",
@@ -438,7 +486,8 @@
     "romaji": "itamidome/shippuyaku/genetsuzai",
     "meaning": "analgesik/obat koyo/penurun panas",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-050",
@@ -447,7 +496,8 @@
     "romaji": "naika",
     "meaning": "penyakit dalam",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-051",
@@ -456,7 +506,8 @@
     "romaji": "nyuuin/taiinsuru",
     "meaning": "opname/keluar dari rumah sakit",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-052",
@@ -465,7 +516,8 @@
     "romaji": "hinyoukika",
     "meaning": "urologi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-053",
@@ -474,7 +526,8 @@
     "romaji": "hifuka",
     "meaning": "dermatologi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-054",
@@ -483,7 +536,8 @@
     "romaji": "hokenshou",
     "meaning": "kartu asuransi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-055",
@@ -492,7 +546,8 @@
     "romaji": "masuisuru",
     "meaning": "membius",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-056",
@@ -501,7 +556,8 @@
     "romaji": "kusurinoshurui",
     "meaning": "jenis obat",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   },
   {
     "id": "mn-45-057",
@@ -510,6 +566,7 @@
     "romaji": "yakkyoku",
     "meaning": "apotek",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 45"
   }
 ]

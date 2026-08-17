@@ -6,7 +6,8 @@
     "romaji": "~wokudasai",
     "meaning": "Tolong ～",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-002",
@@ -15,7 +16,8 @@
     "romaji": "~en",
     "meaning": "～yen",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-003",
@@ -24,7 +26,8 @@
     "romaji": "~kai",
     "meaning": "lantai～/ tingkat～",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-004",
@@ -33,7 +36,8 @@
     "romaji": "asoko",
     "meaning": "Disana",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-005",
@@ -42,7 +46,8 @@
     "romaji": "achira",
     "meaning": "Disana",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-006",
@@ -51,7 +56,8 @@
     "romaji": "ikura",
     "meaning": "Berapa?",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-007",
@@ -60,7 +66,8 @@
     "romaji": "itaria",
     "meaning": "Italia",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-008",
@@ -69,7 +76,8 @@
     "romaji": "irasshaimase",
     "meaning": "Selamat datang / Bisa Saya Bantu?",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-009",
@@ -78,7 +86,8 @@
     "romaji": "esukareetaa",
     "meaning": "Eskalator, tangga berjalan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-010",
@@ -87,7 +96,8 @@
     "romaji": "erebeetaa",
     "meaning": "Lift",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-011",
@@ -96,7 +106,8 @@
     "romaji": "okuni",
     "meaning": "Negara",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-012",
@@ -105,7 +116,8 @@
     "romaji": "otearai",
     "meaning": "Kamar kecil, WC",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-013",
@@ -114,7 +126,8 @@
     "romaji": "koko",
     "meaning": "Disini",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-014",
@@ -123,7 +136,8 @@
     "romaji": "kochira",
     "meaning": "Disini",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-015",
@@ -132,7 +146,8 @@
     "romaji": "ja",
     "meaning": "Kalau begitu",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-016",
@@ -141,7 +156,8 @@
     "romaji": "jakaruta",
     "meaning": "Jakarta",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-017",
@@ -150,7 +166,8 @@
     "romaji": "suisu",
     "meaning": "Swis",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-018",
@@ -159,7 +176,8 @@
     "romaji": "sumimasen",
     "meaning": "Maaf / Permisi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-019",
@@ -168,7 +186,8 @@
     "romaji": "soko",
     "meaning": "Disitu",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-020",
@@ -177,7 +196,8 @@
     "romaji": "sochira",
     "meaning": "Disitu",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-021",
@@ -186,7 +206,8 @@
     "romaji": "toire",
     "meaning": "Toilet",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-022",
@@ -195,7 +216,8 @@
     "romaji": "doumo",
     "meaning": "Terima kasih",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-023",
@@ -204,7 +226,8 @@
     "romaji": "doko",
     "meaning": "Dimana?",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-024",
@@ -213,7 +236,8 @@
     "romaji": "dochira",
     "meaning": "Dimana ?",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-025",
@@ -222,7 +246,8 @@
     "romaji": "nekutai",
     "meaning": "Dasi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-026",
@@ -231,7 +256,8 @@
     "romaji": "bankoku",
     "meaning": "Bangkok",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-027",
@@ -240,7 +266,8 @@
     "romaji": "furansu",
     "meaning": "Perancis",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-028",
@@ -249,7 +276,8 @@
     "romaji": "berurin",
     "meaning": "Berlin",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-029",
@@ -258,7 +286,8 @@
     "romaji": "robii",
     "meaning": "Ruang tunggu, lobi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-030",
@@ -267,7 +296,8 @@
     "romaji": "wain",
     "meaning": "Anggur (putih)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-031",
@@ -276,7 +306,8 @@
     "romaji": "nangai",
     "meaning": "Lantai berapa?",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-032",
@@ -285,7 +316,8 @@
     "romaji": "uchi",
     "meaning": "Rumah",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-033",
@@ -294,7 +326,8 @@
     "romaji": "kaigishitsu",
     "meaning": "Ruang rapat",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-034",
@@ -303,7 +336,8 @@
     "romaji": "kaisha",
     "meaning": "Perusahaan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-035",
@@ -312,7 +346,8 @@
     "romaji": "kaidan",
     "meaning": "Tangga",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-036",
@@ -321,7 +356,8 @@
     "romaji": "kyoushitsu",
     "meaning": "Ruang kelas",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-037",
@@ -330,7 +366,8 @@
     "romaji": "kutsu",
     "meaning": "Sepatu",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-038",
@@ -339,7 +376,8 @@
     "romaji": "misetekudasai",
     "meaning": "Tolong perlihatkan",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-039",
@@ -348,7 +386,8 @@
     "romaji": "jimusho",
     "meaning": "Kantor, Ruang Guru",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-040",
@@ -357,7 +396,8 @@
     "romaji": "jidouhanbaiki",
     "meaning": "Mesin jual otomatis",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-041",
@@ -366,7 +406,8 @@
     "romaji": "uketsuke",
     "meaning": "Meja informasi",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-042",
@@ -375,7 +416,8 @@
     "romaji": "shokudou",
     "meaning": "Ruang makan, Kantin, Rumah Makan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-043",
@@ -384,7 +426,8 @@
     "romaji": "sen",
     "meaning": "Seribu",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-044",
@@ -393,7 +436,8 @@
     "romaji": "chika",
     "meaning": "Bawah tanah , basement",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-045",
@@ -402,7 +446,8 @@
     "romaji": "denwa",
     "meaning": "Telepon",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-046",
@@ -411,7 +456,8 @@
     "romaji": "uriba",
     "meaning": "Tempat penjualan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-047",
@@ -420,7 +466,8 @@
     "romaji": "hyaku",
     "meaning": "Seratus",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-048",
@@ -429,7 +476,8 @@
     "romaji": "heya",
     "meaning": "Kamar",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-049",
@@ -438,7 +486,8 @@
     "romaji": "man",
     "meaning": "Puluh ribu",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-050",
@@ -447,7 +496,8 @@
     "romaji": "akusesarii",
     "meaning": "Perhiasan, aksesoris",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-051",
@@ -456,7 +506,8 @@
     "romaji": "omocha",
     "meaning": "Mainan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-052",
@@ -465,7 +516,8 @@
     "romaji": "supootsuyouhin",
     "meaning": "Peralatan olahraga",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-053",
@@ -474,7 +526,8 @@
     "romaji": "resutoran",
     "meaning": "Restoran",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-054",
@@ -483,7 +536,8 @@
     "romaji": "okujou",
     "meaning": "Lantai atas",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-055",
@@ -492,7 +546,8 @@
     "romaji": "keshouhin",
     "meaning": "Kosmetik",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-056",
@@ -501,7 +556,8 @@
     "romaji": "kagu",
     "meaning": "Perlengkapan rumah",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-057",
@@ -510,7 +566,8 @@
     "romaji": "megane",
     "meaning": "Kacamata",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-058",
@@ -519,7 +576,8 @@
     "romaji": "moyooshimonokaijou",
     "meaning": "Tempat pertunjukan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-059",
@@ -528,7 +586,8 @@
     "romaji": "kodomonofuku",
     "meaning": "Pakaian anak",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-060",
@@ -537,7 +596,8 @@
     "romaji": "shokki",
     "meaning": "Peralatan makan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-061",
@@ -546,7 +606,8 @@
     "romaji": "shokuhin",
     "meaning": "Makanan",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-062",
@@ -555,7 +616,8 @@
     "romaji": "shinshifuku",
     "meaning": "Pakaian pria",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-063",
@@ -564,7 +626,8 @@
     "romaji": "chuushajou",
     "meaning": "tempat parkir",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-064",
@@ -573,7 +636,8 @@
     "romaji": "denkaseihin",
     "meaning": "Barang elektronik",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-065",
@@ -582,7 +646,8 @@
     "romaji": "fujinfuku",
     "meaning": "Pakaian wanita",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-066",
@@ -591,7 +656,8 @@
     "romaji": "bunbougu",
     "meaning": "Alat tulis",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-067",
@@ -600,7 +666,8 @@
     "romaji": "yuuenchi",
     "meaning": "Tempat hiburan",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   },
   {
     "id": "mn-03-068",
@@ -609,6 +676,7 @@
     "romaji": "ryokouyouhin",
     "meaning": "Peralatan wisata / berpergian",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 03"
   }
 ]

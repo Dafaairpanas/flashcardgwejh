@@ -6,7 +6,8 @@
     "romaji": "~demo nomimasenka.",
     "meaning": "Bagaimana kalau kita minum 〜, atau apa saja?",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-002",
@@ -15,25 +16,28 @@
     "romaji": "~ni tsuite",
     "meaning": "tentang 〜, mengenai 〜",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-003",
-    "kanji": "[お祭りが〜]",
+    "kanji": "",
     "hiragana": "ありますⅠ [おまつりが〜]",
     "romaji": "arimasuⅠ [omatsuriga~]",
     "meaning": "ada, diadakan [pesta perayaan]",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-004",
-    "kanji": "[会社を〜]",
+    "kanji": "辭めます",
     "hiragana": "やめますⅡ [かいしゃを〜]",
     "romaji": "yamemasuⅡ [kaishawo~]",
     "meaning": "berhenti [kerja]",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-005",
@@ -42,16 +46,18 @@
     "romaji": "anime",
     "meaning": "animasi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-006",
-    "kanji": "うそ＊",
-    "hiragana": "うそ＊",
+    "kanji": "うそ",
+    "hiragana": "うそ",
     "romaji": "uso",
     "meaning": "bohong",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-007",
@@ -60,7 +66,8 @@
     "romaji": "kitto",
     "meaning": "pasti",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-008",
@@ -69,7 +76,8 @@
     "romaji": "sugoi",
     "meaning": "hebat, bukan main (digunakan ketika menyatakan kejutan atau kekaguman)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-009",
@@ -78,7 +86,8 @@
     "romaji": "sonnani",
     "meaning": "tidak begitu (diikuti bentuk negatif)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-010",
@@ -87,7 +96,8 @@
     "romaji": "tabun",
     "meaning": "mungkin, barangkali",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-011",
@@ -96,7 +106,8 @@
     "romaji": "dezain",
     "meaning": "desain, model",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-012",
@@ -105,7 +116,8 @@
     "romaji": "nyuusu",
     "meaning": "warta berita",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-013",
@@ -114,7 +126,8 @@
     "romaji": "hontou",
     "meaning": "betul, benar",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-014",
@@ -123,7 +136,8 @@
     "romaji": "hontouni",
     "meaning": "betul-betul",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-015",
@@ -132,7 +146,8 @@
     "romaji": "manga",
     "meaning": "manga, komik",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-016",
@@ -141,7 +156,8 @@
     "romaji": "muda[na]",
     "meaning": "sia-sia, tidak berguna",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-017",
@@ -150,7 +166,8 @@
     "romaji": "mou kaeranaito…….",
     "meaning": "Saya harus pulang...",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-018",
@@ -159,7 +176,8 @@
     "romaji": "mochiron",
     "meaning": "tentu saja",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-019",
@@ -168,7 +186,8 @@
     "romaji": "iken",
     "meaning": "pendapat",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-020",
@@ -177,7 +196,8 @@
     "romaji": "kiwo tsukemasuⅡ",
     "meaning": "berwaspada, berhati-hati",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-021",
@@ -186,7 +206,8 @@
     "romaji": "hisashiburidesune.",
     "meaning": "Sudah lama tidak bertemu ya.",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-022",
@@ -195,7 +216,8 @@
     "romaji": "tsuki",
     "meaning": "bulan",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-023",
@@ -204,7 +226,8 @@
     "romaji": "iimasuⅠ",
     "meaning": "mengatakan, berkata",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-024",
@@ -213,7 +236,8 @@
     "romaji": "koutsuu",
     "meaning": "lalu lintas",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-025",
@@ -222,7 +246,8 @@
     "romaji": "saikin",
     "meaning": "akhir-akhir ini",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-026",
@@ -231,7 +256,8 @@
     "romaji": "omoimasuⅠ",
     "meaning": "mengira, berpikir",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-027",
@@ -240,7 +266,8 @@
     "romaji": "shiai",
     "meaning": "pertandingan (〜を します：bertanding)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-028",
@@ -249,7 +276,8 @@
     "romaji": "jidousha",
     "meaning": "mobil",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-029",
@@ -258,7 +286,8 @@
     "romaji": "kachimasuⅠ",
     "meaning": "menang",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-030",
@@ -267,7 +296,8 @@
     "romaji": "chikyuu",
     "meaning": "bumi",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-031",
@@ -276,7 +306,8 @@
     "romaji": "tensai",
     "meaning": "genius",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-032",
@@ -285,7 +316,8 @@
     "romaji": "ugokimasuⅠ",
     "meaning": "pindah, bergerak",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-033",
@@ -294,16 +326,18 @@
     "romaji": "fuben[na]",
     "meaning": "tidak praktis",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-034",
     "kanji": "負けます",
-    "hiragana": "まけますⅡ＊",
+    "hiragana": "まけますⅡ",
     "romaji": "makemasuⅡ",
     "meaning": "kalah",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-035",
@@ -312,7 +346,8 @@
     "romaji": "bukka",
     "meaning": "harga barang",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-036",
@@ -321,7 +356,8 @@
     "romaji": "housou",
     "meaning": "siaran, pengumuman",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-037",
@@ -330,7 +366,8 @@
     "romaji": "yume",
     "meaning": "mimpi",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-038",
@@ -339,7 +376,8 @@
     "romaji": "yakuni tachimasuⅠ",
     "meaning": "berguna, bermanfaat",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-039",
@@ -348,7 +386,8 @@
     "romaji": "ryuugakushimasuⅢ",
     "meaning": "studi di luar negeri",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-040",
@@ -357,7 +396,8 @@
     "romaji": "hanashi",
     "meaning": "cerita (〜を します：bercerita, berbicara)",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-041",
@@ -366,7 +406,8 @@
     "romaji": "yoonen",
     "meaning": "perusahaan fiksi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-042",
@@ -375,7 +416,8 @@
     "romaji": "inchou",
     "meaning": "Direktur Rumah Sakit",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-043",
@@ -384,7 +426,8 @@
     "romaji": "eki",
     "meaning": "Stasiun",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-044",
@@ -393,7 +436,8 @@
     "romaji": "ekichou",
     "meaning": "Kepala Stasiun",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-045",
@@ -402,7 +446,8 @@
     "romaji": "enchou",
     "meaning": "Kepala TK",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-046",
@@ -411,7 +456,8 @@
     "romaji": "kachou",
     "meaning": "Kepala Seksi",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-047",
@@ -420,7 +466,8 @@
     "romaji": "kaisha",
     "meaning": "Perusahaan",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-048",
@@ -429,7 +476,8 @@
     "romaji": "kaichou",
     "meaning": "Ketua",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-049",
@@ -438,7 +486,8 @@
     "romaji": "gakuchou",
     "meaning": "Rektor",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-050",
@@ -447,7 +496,8 @@
     "romaji": "kangoshichou",
     "meaning": "Kepala Perawat",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-051",
@@ -456,7 +506,8 @@
     "romaji": "ginkou",
     "meaning": "Bank",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-052",
@@ -465,7 +516,8 @@
     "romaji": "keisatsu",
     "meaning": "Kantor Polisi",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-053",
@@ -474,7 +526,8 @@
     "romaji": "kouchou",
     "meaning": "Kepala Sekolah",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-054",
@@ -483,7 +536,8 @@
     "romaji": "koutougakkou",
     "meaning": "SMA",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-055",
@@ -492,7 +546,8 @@
     "romaji": "kuni",
     "meaning": "negara",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-056",
@@ -501,7 +556,8 @@
     "romaji": "shi",
     "meaning": "kota",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-057",
@@ -510,7 +566,8 @@
     "romaji": "shichou",
     "meaning": "Wali Kota",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-058",
@@ -519,7 +576,8 @@
     "romaji": "shitenchou",
     "meaning": "Kepala Kantor Cabang",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-059",
@@ -528,7 +586,8 @@
     "romaji": "shachou",
     "meaning": "Direktur Utama",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-060",
@@ -537,7 +596,8 @@
     "romaji": "shushou(naikakusouridaijin)",
     "meaning": "Perdana Menteri",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-061",
@@ -546,7 +606,8 @@
     "romaji": "juuyaku",
     "meaning": "Direktur",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-062",
@@ -555,7 +616,8 @@
     "romaji": "shochou",
     "meaning": "Kepala Kantor Polisi",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-063",
@@ -564,7 +626,8 @@
     "romaji": "shougakkou",
     "meaning": "SD",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-064",
@@ -573,7 +636,8 @@
     "romaji": "mura",
     "meaning": "desa",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-065",
@@ -582,7 +646,8 @@
     "romaji": "sonchou",
     "meaning": "Kepala Desa",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-066",
@@ -591,7 +656,8 @@
     "romaji": "daigaku",
     "meaning": "Universitas",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-067",
@@ -600,7 +666,8 @@
     "romaji": "chiji",
     "meaning": "Gubernur",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-068",
@@ -609,7 +676,8 @@
     "romaji": "chuugakkou",
     "meaning": "SMP",
     "level": "N5",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-069",
@@ -618,7 +686,8 @@
     "romaji": "machi",
     "meaning": "distrik, daerah",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-070",
@@ -627,7 +696,8 @@
     "romaji": "chouchou",
     "meaning": "Kepala Daerah",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-071",
@@ -636,7 +706,8 @@
     "romaji": "todoufuken",
     "meaning": "prefektur",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-072",
@@ -645,7 +716,8 @@
     "romaji": "toudori",
     "meaning": "Direktur Bank",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-073",
@@ -654,7 +726,8 @@
     "romaji": "byouin",
     "meaning": "Rumah Sakit",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-074",
@@ -663,7 +736,8 @@
     "romaji": "buchou",
     "meaning": "Kepala Bagian",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-075",
@@ -672,7 +746,8 @@
     "romaji": "buchou",
     "meaning": "Kepala Bagian",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-076",
@@ -681,7 +756,8 @@
     "romaji": "youchien",
     "meaning": "TK",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-077",
@@ -690,7 +766,8 @@
     "romaji": "ainshutain",
     "meaning": "Albert Einstein (1879-1955)",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-078",
@@ -699,7 +776,8 @@
     "romaji": "gagaarin",
     "meaning": "Gagarin (1934-1968)",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-079",
@@ -708,7 +786,8 @@
     "romaji": "kaguyahime",
     "meaning": "Putri Kaguya (protagonis dari cerita dongeng Jepang \"Taketori monogatari\")",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-080",
@@ -717,7 +796,8 @@
     "romaji": "garireo",
     "meaning": "Galileo Galilei (1564-1642)",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-081",
@@ -726,7 +806,8 @@
     "romaji": "kangaruu",
     "meaning": "kanguru",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-082",
@@ -735,7 +816,8 @@
     "romaji": "kyaputen・kukku",
     "meaning": "Captain James Cook (1728-1779)",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-083",
@@ -744,7 +826,8 @@
     "romaji": "kingubokushi",
     "meaning": "Martin Luther King, Jr. (1929-1968)",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-084",
@@ -753,7 +836,8 @@
     "romaji": "furankurin",
     "meaning": "Benjamin Franklin (1706-1790)",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-085",
@@ -762,7 +846,8 @@
     "romaji": "yoshinoyama",
     "meaning": "Gunung Yoshino (gunung yang ada di Nara)",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 21"
   },
   {
     "id": "mn-21-086",
@@ -771,6 +856,7 @@
     "romaji": "tenjinmatsuri",
     "meaning": "Perayaan Tenjin (perayaan di Osaka)",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 21"
   }
 ]

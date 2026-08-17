@@ -6,7 +6,8 @@
     "romaji": "-kiro",
     "meaning": "－ kilogram, － kilometer",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-002",
@@ -15,7 +16,8 @@
     "romaji": "-seiki",
     "meaning": "abad ke －",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-003",
@@ -24,7 +26,8 @@
     "romaji": "~nohitotsu",
     "meaning": "salah satu ~",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-004",
@@ -33,7 +36,8 @@
     "romaji": "~juu",
     "meaning": "seluruh ~",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-005",
@@ -42,7 +46,8 @@
     "romaji": "insutantoraamen",
     "meaning": "mie instan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-006",
@@ -51,7 +56,8 @@
     "romaji": "orinpikku",
     "meaning": "Olimpiade",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-007",
@@ -60,7 +66,8 @@
     "romaji": "saujiarabia",
     "meaning": "Arab Saudi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-008",
@@ -69,7 +76,8 @@
     "romaji": "shikashi",
     "meaning": "tetapi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-009",
@@ -78,7 +86,8 @@
     "romaji": "shikarimasu",
     "meaning": "memarahi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-010",
@@ -87,7 +96,8 @@
     "romaji": "sonoato",
     "meaning": "setelah itu, sesudah itu",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-011",
@@ -96,7 +106,8 @@
     "romaji": "sonogo",
     "meaning": "setelah, sesudah",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-012",
@@ -105,7 +116,8 @@
     "romaji": "dareka",
     "meaning": "siapa",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-013",
@@ -114,7 +126,8 @@
     "romaji": "deeto",
     "meaning": "kencan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-014",
@@ -123,7 +136,8 @@
     "romaji": "torimasu",
     "meaning": "mencuri",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-015",
@@ -132,7 +146,8 @@
     "romaji": "nezumi",
     "meaning": "tikus",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-016",
@@ -141,7 +156,8 @@
     "romaji": "porutogaru",
     "meaning": "Portugis",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-017",
@@ -150,7 +166,8 @@
     "romaji": "yokattadesune.",
     "meaning": "Bagus, ya.",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-018",
@@ -159,7 +176,8 @@
     "romaji": "roshia",
     "meaning": "Rusia",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-019",
@@ -168,7 +186,8 @@
     "romaji": "waarudokappu",
     "meaning": "piala dunia",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-020",
@@ -177,7 +196,8 @@
     "romaji": "isshoukenmei",
     "meaning": "sungguh-sungguh",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-021",
@@ -186,7 +206,8 @@
     "romaji": "ippikimoimasen.",
     "meaning": "Tidak ada seekor pun.",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-022",
@@ -195,7 +216,8 @@
     "romaji": "yogoshimasu",
     "meaning": "mengotori",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-023",
@@ -204,7 +226,8 @@
     "romaji": "nanigo",
     "meaning": "bahasa apa",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-024",
@@ -213,7 +236,8 @@
     "romaji": "kowashimasu",
     "meaning": "merusak",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-025",
@@ -222,7 +246,8 @@
     "romaji": "minasama",
     "meaning": "semuanya (Kata Hormat dari みなさん)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-026",
@@ -231,7 +256,8 @@
     "romaji": "kin",
     "meaning": "emas",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-027",
@@ -240,7 +266,8 @@
     "romaji": "kin'iro",
     "meaning": "warna emas",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-028",
@@ -249,7 +276,8 @@
     "romaji": "keikan",
     "meaning": "polisi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-029",
@@ -258,7 +286,8 @@
     "romaji": "genryou",
     "meaning": "bahan baku",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-030",
@@ -267,7 +296,8 @@
     "romaji": "iitsutae",
     "meaning": "tradisi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-031",
@@ -276,7 +306,8 @@
     "romaji": "edojidai",
     "meaning": "Zaman Edo (1603-1868)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-032",
@@ -285,7 +316,8 @@
     "romaji": "okonaimasu",
     "meaning": "mengadakan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-033",
@@ -294,7 +326,8 @@
     "romaji": "gouka[na]",
     "meaning": "mewah",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-034",
@@ -303,7 +336,8 @@
     "romaji": "hidarijingorou",
     "meaning": "pemahat terkenal pada zaman Edo (1594-1651)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-035",
@@ -312,16 +346,18 @@
     "romaji": "shoutaishimasu",
     "meaning": "mengundang",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-036",
-    "kanji": "焼けます［うちが～］",
+    "kanji": "焼けます",
     "hiragana": "やけます",
     "romaji": "yakemasu",
     "meaning": "[rumah] terbakar",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-037",
@@ -330,7 +366,8 @@
     "romaji": "sekaiisan",
     "meaning": "Situs Warisan Dunia UNESCO",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-038",
@@ -339,7 +376,8 @@
     "romaji": "sekaijuu",
     "meaning": "seluruh dunia",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-039",
@@ -348,7 +386,8 @@
     "romaji": "sekiyu",
     "meaning": "minyak tanah",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-040",
@@ -357,7 +396,8 @@
     "romaji": "daibutsu",
     "meaning": "Daibutsu (patung Budha yang besar)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-041",
@@ -366,7 +406,8 @@
     "romaji": "nakama",
     "meaning": "teman",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-042",
@@ -375,7 +416,8 @@
     "romaji": "chuuishimasu",
     "meaning": "menasihati",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-043",
@@ -384,7 +426,8 @@
     "romaji": "horimasu",
     "meaning": "mengukir, memahat",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-044",
@@ -393,7 +436,8 @@
     "romaji": "choukoku",
     "meaning": "ukiran, pahatan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-045",
@@ -402,7 +446,8 @@
     "romaji": "dorobou",
     "meaning": "pencuri",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-046",
@@ -411,7 +456,8 @@
     "romaji": "toushouguu",
     "meaning": "kuil yang ada di Nikko, prefektur Tochigi yang mengabadikan Tokugawa Ieyasu",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-047",
@@ -420,7 +466,8 @@
     "romaji": "toudaiji",
     "meaning": "Todaiji (nama kuil)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-048",
@@ -429,7 +476,8 @@
     "romaji": "fumimasu",
     "meaning": "menginjak",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-049",
@@ -438,7 +486,8 @@
     "romaji": "mugi",
     "meaning": "gandum",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-050",
@@ -447,7 +496,8 @@
     "romaji": "hakkenshimasu",
     "meaning": "menemukan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-051",
@@ -456,7 +506,8 @@
     "romaji": "hatsumeishimasu",
     "meaning": "menciptakan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-052",
@@ -465,7 +516,8 @@
     "romaji": "utsukushii",
     "meaning": "indah, elok",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-053",
@@ -474,7 +526,8 @@
     "romaji": "kome",
     "meaning": "beras",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-054",
@@ -483,7 +536,8 @@
     "romaji": "homemasu",
     "meaning": "memuji",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-055",
@@ -492,7 +546,8 @@
     "romaji": "honmono",
     "meaning": "asli",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-056",
@@ -501,7 +556,8 @@
     "romaji": "honyakushimasu",
     "meaning": "menerjemahkan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-057",
@@ -510,7 +566,8 @@
     "romaji": "nemurimasu",
     "meaning": "tidur",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-058",
@@ -519,7 +576,8 @@
     "romaji": "nemurineko",
     "meaning": "kucing yang sedang tidur, nama ukiran",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-059",
@@ -528,7 +586,8 @@
     "romaji": "yushutsushimasu",
     "meaning": "mengekspor",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-060",
@@ -537,7 +596,8 @@
     "romaji": "yunyuushimasu",
     "meaning": "mengimpor",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-061",
@@ -546,7 +606,8 @@
     "romaji": "sasoimasu",
     "meaning": "mengajak",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-062",
@@ -555,7 +616,8 @@
     "romaji": "tanomimasu",
     "meaning": "meminta",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-063",
@@ -564,7 +626,8 @@
     "romaji": "kamu",
     "meaning": "menggigit",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-064",
@@ -573,7 +636,8 @@
     "romaji": "haijakkusuru",
     "meaning": "membajak",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-065",
@@ -582,7 +646,8 @@
     "romaji": "haneru",
     "meaning": "menabrak",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-066",
@@ -591,7 +656,8 @@
     "romaji": "hiku",
     "meaning": "melindas",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-067",
@@ -600,7 +666,8 @@
     "romaji": "hakobu",
     "meaning": "mengangkut",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-068",
@@ -609,7 +676,8 @@
     "romaji": "utsu",
     "meaning": "menembak",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-069",
@@ -618,7 +686,8 @@
     "romaji": "korosu",
     "meaning": "membunuh",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-070",
@@ -627,7 +696,8 @@
     "romaji": "sasu",
     "meaning": "menikam",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-071",
@@ -636,7 +706,8 @@
     "romaji": "jiko・jiken",
     "meaning": "Kecelakaan, Kejadian",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-072",
@@ -645,7 +716,8 @@
     "romaji": "tasukeru",
     "meaning": "membantu",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-073",
@@ -654,7 +726,8 @@
     "romaji": "shoutotsusuru",
     "meaning": "menabrak",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-074",
@@ -663,7 +736,8 @@
     "romaji": "chinbotsusuru",
     "meaning": "tenggelam",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-075",
@@ -672,7 +746,8 @@
     "romaji": "tsuirakusuru",
     "meaning": "jatuh",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-076",
@@ -681,7 +756,8 @@
     "romaji": "tsuitotsusuru",
     "meaning": "menabrak dari belakang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-077",
@@ -690,7 +766,8 @@
     "romaji": "nusumu",
     "meaning": "mencuri",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-078",
@@ -699,7 +776,8 @@
     "romaji": "bakuhatsusuru",
     "meaning": "meledak",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 37"
   },
   {
     "id": "mn-37-079",
@@ -708,6 +786,7 @@
     "romaji": "yuukaisuru",
     "meaning": "menculik",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 37"
   }
 ]

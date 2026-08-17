@@ -6,7 +6,8 @@
     "romaji": "~hodo",
     "meaning": "kira-kira ~",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-002",
@@ -15,7 +16,8 @@
     "romaji": "~chuu",
     "meaning": "sedang ~",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-003",
@@ -24,7 +26,8 @@
     "romaji": "aisatsu",
     "meaning": "salam（～を します：memberi salam sepatah kata pada）",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-004",
@@ -33,7 +36,8 @@
     "romaji": "akiramemasu",
     "meaning": "putus asa",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-005",
@@ -42,25 +46,28 @@
     "romaji": "ato~",
     "meaning": "sisa ~",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-006",
-    "kanji": "あります［電話が～］",
+    "kanji": "あります",
     "hiragana": "あります",
     "romaji": "arimasu",
     "meaning": "ada [telepon]",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-007",
-    "kanji": "いくら［～ても］",
+    "kanji": "いくら",
     "hiragana": "いくら［～ても］",
     "romaji": "ikura[~temo]",
     "meaning": "bagaimana pun",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-008",
@@ -69,7 +76,8 @@
     "romaji": "dame[na]",
     "meaning": "tidak baik",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-009",
@@ -78,7 +86,8 @@
     "romaji": "douiu~",
     "meaning": "bagaimana ~",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-010",
@@ -87,7 +96,8 @@
     "romaji": "booru",
     "meaning": "bola",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-011",
@@ -96,7 +106,8 @@
     "romaji": "maaku",
     "meaning": "tanda, cap",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-012",
@@ -105,7 +116,8 @@
     "romaji": "mou",
     "meaning": "lagi (digunakan bersama dengan bentuk negatif)",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-013",
@@ -114,7 +126,8 @@
     "romaji": "motto",
     "meaning": "lebih",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-014",
@@ -123,7 +136,8 @@
     "romaji": "motomoto",
     "meaning": "memang",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-015",
@@ -132,7 +146,8 @@
     "romaji": "risaikurushimasu",
     "meaning": "mendaur ulang",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-016",
@@ -141,16 +156,18 @@
     "romaji": "nomihoudai",
     "meaning": "minum sepuasnya",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-017",
-    "kanji": "外します［席を～］",
+    "kanji": "外します",
     "hiragana": "はずします",
     "romaji": "hazushimasu",
     "meaning": "meninggalkan [tempat]",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-018",
@@ -159,7 +176,8 @@
     "romaji": "waribiki",
     "meaning": "diskon",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-019",
@@ -168,7 +186,8 @@
     "romaji": "kiken",
     "meaning": "bahaya",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-020",
@@ -177,7 +196,8 @@
     "romaji": "kimochi",
     "meaning": "perasaan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-021",
@@ -186,7 +206,8 @@
     "romaji": "kisoku",
     "meaning": "peraturan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-022",
@@ -195,7 +216,8 @@
     "romaji": "okimasu",
     "meaning": "terjadi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-023",
@@ -204,7 +226,8 @@
     "romaji": "keisatsu",
     "meaning": "polisi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-024",
@@ -213,7 +236,8 @@
     "romaji": "shiyoukinshi",
     "meaning": "dilarang pakai",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-025",
@@ -222,16 +246,18 @@
     "romaji": "shiyouchuu",
     "meaning": "sedang dipakai",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-026",
-    "kanji": "始まります［式が～］",
+    "kanji": "始まります",
     "hiragana": "はじまります",
     "romaji": "hajimarimasu",
     "meaning": "[upacara] dimulai",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-027",
@@ -240,7 +266,8 @@
     "romaji": "mamorimasu",
     "meaning": "menjaga",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-028",
@@ -249,16 +276,18 @@
     "romaji": "deguchi",
     "meaning": "pintu keluar",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-029",
-    "kanji": "出席します［会議に～］",
+    "kanji": "出席します",
     "hiragana": "しゅっせきします",
     "romaji": "shussekishimasu",
     "meaning": "menghadiri [rapat]",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-030",
@@ -267,7 +296,8 @@
     "romaji": "tasukeaimasu",
     "meaning": "bantu-membantu",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-031",
@@ -276,7 +306,8 @@
     "romaji": "jokou",
     "meaning": "berjalan perlahan-lahan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-032",
@@ -285,7 +316,8 @@
     "romaji": "seki",
     "meaning": "tempat, kursi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-033",
@@ -294,7 +326,8 @@
     "romaji": "aite",
     "meaning": "kawan, pasangan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-034",
@@ -303,7 +336,8 @@
     "romaji": "sawagimasu",
     "meaning": "menghebohkan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-035",
@@ -312,16 +346,18 @@
     "romaji": "jishin",
     "meaning": "gempa bumi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-036",
-    "kanji": "注意します［車に～］",
+    "kanji": "注意します",
     "hiragana": "ちゅういします",
     "romaji": "chuuishimasu",
     "meaning": "berhati-hati [pada mobil]",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-037",
@@ -330,7 +366,8 @@
     "romaji": "chuushaihan",
     "meaning": "pelanggaran lalu lintas",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-038",
@@ -339,7 +376,8 @@
     "romaji": "shimekiri",
     "meaning": "batas waktu",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-039",
@@ -348,7 +386,8 @@
     "romaji": "tsutaemasu",
     "meaning": "menyampaikan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-040",
@@ -357,7 +396,8 @@
     "romaji": "nagemasu",
     "meaning": "melempar",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-041",
@@ -366,7 +406,8 @@
     "romaji": "nigemasu",
     "meaning": "berlari",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-042",
@@ -375,7 +416,8 @@
     "romaji": "onaji",
     "meaning": "sama",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-043",
@@ -384,7 +426,8 @@
     "romaji": "iriguchi",
     "meaning": "pintu masuk",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-044",
@@ -393,7 +436,8 @@
     "romaji": "bakkin",
     "meaning": "denda",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-045",
@@ -402,7 +446,8 @@
     "romaji": "kanashii",
     "meaning": "sedih",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-046",
@@ -411,7 +456,8 @@
     "romaji": "hijouguchi",
     "meaning": "pintu darurat",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-047",
@@ -420,7 +466,8 @@
     "romaji": "boshuuchuu",
     "meaning": "sedang dicari",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-048",
@@ -429,7 +476,8 @@
     "romaji": "muryou",
     "meaning": "gratis, cuma-cuma",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-049",
@@ -438,7 +486,8 @@
     "romaji": "modorimasu",
     "meaning": "kembali",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-050",
@@ -447,7 +496,8 @@
     "romaji": "tachiirikinshi",
     "meaning": "dilarang masuk",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-051",
@@ -456,7 +506,8 @@
     "romaji": "airon(teion)",
     "meaning": "Harus disetrika dalam suhu rendah",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-052",
@@ -465,7 +516,8 @@
     "romaji": "doraikuriiningu",
     "meaning": "Hanya untuk di-dry cleaning",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-053",
@@ -474,7 +526,8 @@
     "romaji": "untenshoshinshachuui",
     "meaning": "Tanda bagi pengemudi yang baru mendapatkan SIM",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-054",
@@ -483,7 +536,8 @@
     "romaji": "eigyouchuu",
     "meaning": "Buka",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-055",
@@ -492,7 +546,8 @@
     "romaji": "ensokeihyouhakuzaifuka",
     "meaning": "Jangan gunakan pemutih",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-056",
@@ -501,7 +556,8 @@
     "romaji": "keshoushitsu",
     "meaning": "Kamar kecil/ Toilet/ WC",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-057",
@@ -510,7 +566,8 @@
     "romaji": "kakigenkin",
     "meaning": "Mudah terbakar",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-058",
@@ -519,7 +576,8 @@
     "romaji": "waremonochuui",
     "meaning": "Hati-hati barang pecah belah",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-059",
@@ -528,7 +586,8 @@
     "romaji": "kin'enseki",
     "meaning": "Tempat duduk bebas rokok",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-060",
@@ -537,7 +596,8 @@
     "romaji": "koujichuu",
     "meaning": "Sedang konstruksi",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-061",
@@ -546,7 +606,8 @@
     "romaji": "tearai",
     "meaning": "Cuci dengan tangan",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-062",
@@ -555,7 +616,8 @@
     "romaji": "junbichuu",
     "meaning": "Dalam Persiapan",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-063",
@@ -564,7 +626,8 @@
     "romaji": "teikyuubi",
     "meaning": "Hari Libur",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-064",
@@ -573,7 +636,8 @@
     "romaji": "heiten",
     "meaning": "Tutup",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 33"
   },
   {
     "id": "mn-33-065",
@@ -582,6 +646,7 @@
     "romaji": "yoyakuseki",
     "meaning": "Tempat duduk yang telah dipesan",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 33"
   }
 ]

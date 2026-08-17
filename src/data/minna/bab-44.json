@@ -1,12 +1,13 @@
 [
   {
     "id": "mn-44-001",
-    "kanji": "［どうも］お疲れさまでした。",
+    "kanji": "お疲れさまでした。",
     "hiragana": "［どうも］おつかれさまでした。",
     "romaji": "[doumo]otsukaresamadeshita.",
     "meaning": "Sudah selesai. (diucapkan kepada tamu)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-002",
@@ -15,7 +16,8 @@
     "romaji": "~mitainishitekudasai.",
     "meaning": "Tolong buat seperti ~.",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-003",
@@ -24,7 +26,8 @@
     "romaji": "-bai",
     "meaning": "ー kali",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-004",
@@ -33,7 +36,8 @@
     "romaji": "DVD",
     "meaning": "DVD",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-005",
@@ -42,7 +46,8 @@
     "romaji": "umaku",
     "meaning": "pandai, pintar",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-006",
@@ -51,7 +56,8 @@
     "romaji": "okazu",
     "meaning": "lauk-pauk",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-007",
@@ -60,7 +66,8 @@
     "romaji": "katto",
     "meaning": "potong rambut",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-008",
@@ -69,7 +76,8 @@
     "romaji": "koredeyoroshiideshouka.",
     "meaning": "Bagaimana kalau begini? (sopan)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-009",
@@ -78,7 +86,8 @@
     "romaji": "korera",
     "meaning": "itu",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-010",
@@ -87,7 +96,8 @@
     "romaji": "shanpuu",
     "meaning": "keramas (～を します : berkeramas)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-011",
@@ -96,7 +106,8 @@
     "romaji": "shooto",
     "meaning": "pendek",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-012",
@@ -105,7 +116,8 @@
     "romaji": "shinguru",
     "meaning": "single",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-013",
@@ -114,7 +126,8 @@
     "romaji": "tsuin",
     "meaning": "twin",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-014",
@@ -123,7 +136,8 @@
     "romaji": "douiufuuninasaimasuka.",
     "meaning": "Modelnya seperti bagaimana? (hormat)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-015",
@@ -132,7 +146,8 @@
     "romaji": "dounasaimasuka.",
     "meaning": "Modelnya bagaimana? (hormat)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-016",
@@ -141,7 +156,8 @@
     "romaji": "nuremasu",
     "meaning": "[kemeja] basah",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-017",
@@ -150,7 +166,8 @@
     "romaji": "mata",
     "meaning": "dan, lalu",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-018",
@@ -159,7 +176,8 @@
     "romaji": "anshinna",
     "meaning": "kelegaan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-019",
@@ -168,7 +186,8 @@
     "romaji": "anzenna",
     "meaning": "aman",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-020",
@@ -177,7 +196,8 @@
     "romaji": "engigawarui",
     "meaning": "tidak menyenangkan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-021",
@@ -186,7 +206,8 @@
     "romaji": "suberimasu",
     "meaning": "licin",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-022",
@@ -195,7 +216,8 @@
     "romaji": "kawakimasu",
     "meaning": "[kemeja] mengering",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-023",
@@ -204,7 +226,8 @@
     "romaji": "kikenna",
     "meaning": "bahaya",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-024",
@@ -213,7 +236,8 @@
     "romaji": "okimasu",
     "meaning": "terjadi [kecelakaan]",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-025",
@@ -222,7 +246,8 @@
     "romaji": "nakimasu",
     "meaning": "menangis",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-026",
@@ -231,7 +256,8 @@
     "romaji": "kuuki",
     "meaning": "udara",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-027",
@@ -240,7 +266,8 @@
     "romaji": "iyagarimasu",
     "meaning": "tidak mau",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-028",
@@ -249,7 +276,8 @@
     "romaji": "atsui",
     "meaning": "tebal",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-029",
@@ -258,7 +286,8 @@
     "romaji": "hosoi",
     "meaning": "kurus",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-030",
@@ -267,7 +296,8 @@
     "romaji": "junjo",
     "meaning": "urutan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-031",
@@ -276,7 +306,8 @@
     "romaji": "waraimasu",
     "meaning": "tertawa",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-032",
@@ -285,7 +316,8 @@
     "romaji": "sentakumono",
     "meaning": "cucian",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-033",
@@ -294,7 +326,8 @@
     "romaji": "futoi",
     "meaning": "gemuk",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-034",
@@ -303,7 +336,8 @@
     "romaji": "chousetsushimasu",
     "meaning": "mengontrol",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-035",
@@ -312,7 +346,8 @@
     "romaji": "koi",
     "meaning": "kental (rasa makanan atau minuman), tua (warna)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-036",
@@ -321,7 +356,8 @@
     "romaji": "usui",
     "meaning": "tawar (rasa makanan atau minuman), muda (warna), tipis (barang)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-037",
@@ -330,7 +366,8 @@
     "romaji": "hyougen",
     "meaning": "ungkapan, ekspresi",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-038",
@@ -339,7 +376,8 @@
     "romaji": "wakaremasu",
     "meaning": "berpisah",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-039",
@@ -348,7 +386,8 @@
     "romaji": "nemurimasu",
     "meaning": "tidur",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-040",
@@ -357,7 +396,8 @@
     "romaji": "youshoku",
     "meaning": "makanan Barat",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-041",
@@ -366,7 +406,8 @@
     "romaji": "ryou",
     "meaning": "kuantitas",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-042",
@@ -375,7 +416,8 @@
     "romaji": "namida",
     "meaning": "air mata",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-043",
@@ -384,7 +426,8 @@
     "romaji": "tatoeba",
     "meaning": "misalnya",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-044",
@@ -393,7 +436,8 @@
     "romaji": "washoku",
     "meaning": "makanan Jepang",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-045",
@@ -402,7 +446,8 @@
     "romaji": "1senchikurai",
     "meaning": "kira-kira 1 cm.",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-046",
@@ -411,7 +456,8 @@
     "romaji": "ekusute",
     "meaning": "sambung rambut",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-047",
@@ -420,7 +466,8 @@
     "romaji": "karaa",
     "meaning": "mengecat rambut, mewarnai rambut",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-048",
@@ -429,7 +476,8 @@
     "romaji": "konoshashinmitaini",
     "meaning": "seperti foto ini.",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-049",
@@ -438,7 +486,8 @@
     "romaji": "toriitomento",
     "meaning": "perawatan rambut",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-050",
@@ -447,7 +496,8 @@
     "romaji": "neiru",
     "meaning": "perawatan kuku",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-051",
@@ -456,7 +506,8 @@
     "romaji": "paama",
     "meaning": "keriting",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-052",
@@ -465,7 +516,8 @@
     "romaji": "paamawokakeru",
     "meaning": "mengeriting rambut",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-053",
@@ -474,7 +526,8 @@
     "romaji": "hige/kaowosoru",
     "meaning": "mencukur kumis/bulu wajah",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-054",
@@ -483,7 +536,8 @@
     "romaji": "feisharumassaaji",
     "meaning": "facial massage",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-055",
@@ -492,7 +546,8 @@
     "romaji": "buroo",
     "meaning": "blow",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-056",
@@ -501,7 +556,8 @@
     "romaji": "mayugakakurerukuraini",
     "meaning": "sebatas alis.",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-057",
@@ -510,7 +566,8 @@
     "romaji": "meiku",
     "meaning": "dandan, makeup",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-058",
@@ -519,7 +576,8 @@
     "romaji": "keshou/meikusuru",
     "meaning": "dandan, berdandan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-059",
@@ -528,7 +586,8 @@
     "romaji": "kariageru",
     "meaning": "mencukur",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-060",
@@ -537,7 +596,8 @@
     "romaji": "katanikakarukuraini",
     "meaning": "sebahu.",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-061",
@@ -546,7 +606,8 @@
     "romaji": "mitsuaminisuru",
     "meaning": "kepang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-062",
@@ -555,7 +616,8 @@
     "romaji": "mimigamierukuraini",
     "meaning": "sampai telinga terlihat.",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-063",
@@ -564,7 +626,8 @@
     "romaji": "kittekudasai.",
     "meaning": "Tolong potong rambut saya.",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-064",
@@ -573,7 +636,8 @@
     "romaji": "kitsuke",
     "meaning": "membantu mengenakan (kimono)",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-065",
@@ -582,7 +646,8 @@
     "romaji": "kamiwoappunisuru",
     "meaning": "menyanggul",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-066",
@@ -591,7 +656,8 @@
     "romaji": "kamiwotokasu",
     "meaning": "menyisir rambut",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-067",
@@ -600,7 +666,8 @@
     "romaji": "kamiwomatomeru",
     "meaning": "mengikat rambut",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-068",
@@ -609,7 +676,8 @@
     "romaji": "kamiwosomeru",
     "meaning": "mewarnai rambut",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-069",
@@ -618,7 +686,8 @@
     "romaji": "kamiwowakeru",
     "meaning": "belah rambut",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-070",
@@ -627,7 +696,8 @@
     "romaji": "biyouin",
     "meaning": "salon kecantikan",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   },
   {
     "id": "mn-44-071",
@@ -636,6 +706,7 @@
     "romaji": "rihatsuten",
     "meaning": "tempat pemangkas rambut",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 44"
   }
 ]

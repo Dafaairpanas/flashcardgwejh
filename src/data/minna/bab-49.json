@@ -6,7 +6,8 @@
     "romaji": "~deirasshaimasu",
     "meaning": "Kata hormat (dari です)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-002",
@@ -15,7 +16,8 @@
     "romaji": "~degozaimasu",
     "meaning": "Kata sopan (dari です)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-003",
@@ -24,7 +26,8 @@
     "romaji": "~toiimasu",
     "meaning": "Bernama ~",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-004",
@@ -33,7 +36,8 @@
     "romaji": "~tomoushimasu",
     "meaning": "Kata merendah (bernama ~)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-005",
@@ -42,7 +46,8 @@
     "romaji": "~nen~kumi",
     "meaning": "Kelas ~",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-006",
@@ -51,7 +56,8 @@
     "romaji": "~sama",
     "meaning": "Kepada Yth. ~, Bapak ~, Ibu ~, Sdr. ~ (Kata hormat dari ~さん)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-007",
@@ -60,7 +66,8 @@
     "romaji": "iPSsaibou",
     "meaning": "Sel iPS",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-008",
@@ -69,7 +76,8 @@
     "romaji": "aisatsu",
     "meaning": "Salam",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-009",
@@ -78,7 +86,8 @@
     "romaji": "irasshaimasu",
     "meaning": "Ada, pergi, datang (Kata hormat dari います, いきます, きます)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-010",
@@ -87,7 +96,8 @@
     "romaji": "osshaimasu",
     "meaning": "Berkata (Kata hormat dari いいます)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-011",
@@ -96,7 +106,8 @@
     "romaji": "omochidesu",
     "meaning": "Mempunyai (Bentuk hormat dari もっています)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-012",
@@ -105,7 +116,8 @@
     "romaji": "otaku",
     "meaning": "Rumah",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-013",
@@ -114,7 +126,8 @@
     "romaji": "gozonjidesu",
     "meaning": "Mengetahui (Kata hormat dari しっています)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-014",
@@ -123,7 +136,8 @@
     "romaji": "goranninarimasu",
     "meaning": "Melihat (Kata hormat dari みます)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-015",
@@ -132,7 +146,8 @@
     "romaji": "soredeha",
     "meaning": "Baiklah",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-016",
@@ -141,7 +156,8 @@
     "romaji": "tamani",
     "meaning": "Kadang-kadang",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-017",
@@ -150,7 +166,8 @@
     "romaji": "chottomo",
     "meaning": "Sama sekali (diikuti bentuk negatif)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-018",
@@ -159,7 +176,8 @@
     "romaji": "deha",
     "meaning": "Kalau begitu (Bentuk hormat dari じゃ)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-019",
@@ -168,7 +186,8 @@
     "romaji": "donatademo",
     "meaning": "Siapa saja (Kata hormat dari だれでも)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-020",
@@ -177,7 +196,8 @@
     "romaji": "nasaimasu",
     "meaning": "Melakukan (Kata hormat dari します)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-021",
@@ -186,7 +206,8 @@
     "romaji": "basutei",
     "meaning": "Halte",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-022",
@@ -195,7 +216,8 @@
     "romaji": "hito",
     "meaning": "Manusia",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-023",
@@ -204,7 +226,8 @@
     "romaji": "mausu",
     "meaning": "Tikus percobaan",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-024",
@@ -213,7 +236,8 @@
     "romaji": "yoroshikuotsutaekudasai",
     "meaning": "Tolong sampaikan salam saya",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-025",
@@ -222,7 +246,8 @@
     "romaji": "igakubu",
     "meaning": "Fakultas kedokteran",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-026",
@@ -231,7 +256,8 @@
     "romaji": "enryonaku",
     "meaning": "Tanpa malu-malu",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-027",
@@ -240,7 +266,8 @@
     "romaji": "okusama",
     "meaning": "Nyonya (Kata hormat dari おくさん)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-028",
@@ -249,7 +276,8 @@
     "romaji": "sugoshimasu",
     "meaning": "Menghabiskan (waktu), melewatkan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-029",
@@ -258,7 +286,8 @@
     "romaji": "kaijou",
     "meaning": "Tempat pertemuan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-030",
@@ -267,7 +296,8 @@
     "romaji": "haizara",
     "meaning": "Asbak",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-031",
@@ -276,7 +306,8 @@
     "romaji": "kaihatsushimasu",
     "meaning": "Mengembangkan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-032",
@@ -285,7 +316,8 @@
     "romaji": "kakemasu",
     "meaning": "Duduk (di kursi)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-033",
@@ -294,7 +326,8 @@
     "romaji": "katsudou",
     "meaning": "Kegiatan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-034",
@@ -303,7 +336,8 @@
     "romaji": "yorimasu",
     "meaning": "Mampir (ke)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-035",
@@ -312,7 +346,8 @@
     "romaji": "kaerini",
     "meaning": "Pada waktu pulang",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-036",
@@ -321,7 +356,8 @@
     "romaji": "yasumimasu",
     "meaning": "Beristirahat",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-037",
@@ -330,7 +366,8 @@
     "romaji": "tsutomemasu",
     "meaning": "Bekerja (di perusahaan)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-038",
@@ -339,7 +376,8 @@
     "romaji": "keireki",
     "meaning": "Riwayat hidup, CV",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-039",
@@ -348,7 +386,8 @@
     "romaji": "kouenkai",
     "meaning": "Seminar",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-040",
@@ -357,7 +396,8 @@
     "romaji": "koushi",
     "meaning": "Pembicara",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-041",
@@ -366,7 +406,8 @@
     "romaji": "sakka",
     "meaning": "Pengarang",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-042",
@@ -375,7 +416,8 @@
     "romaji": "sakkyoku",
     "meaning": "Gubahan lagu, komposisi lagu",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-043",
@@ -384,7 +426,8 @@
     "romaji": "sakuhin",
     "meaning": "Karya",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-044",
@@ -393,7 +436,8 @@
     "romaji": "shitsureiitashimasu",
     "meaning": "Permisi (Bentuk merendahkan diri dari しつれいします)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-045",
@@ -402,7 +446,8 @@
     "romaji": "jushoushimasu",
     "meaning": "Meraih / Menerima hadiah",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-046",
@@ -411,7 +456,8 @@
     "romaji": "meshiagarimasu",
     "meaning": "Makan, minum (Kata hormat dari たべます, のみます)",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-047",
@@ -420,7 +466,8 @@
     "romaji": "shougai",
     "meaning": "Cacat",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-048",
@@ -429,7 +476,8 @@
     "romaji": "susumimasu",
     "meaning": "Lanjut kuliah di",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-049",
@@ -438,7 +486,8 @@
     "romaji": "sekaitekini",
     "meaning": "Seluruh dunia",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-050",
@@ -447,7 +496,8 @@
     "romaji": "ookuno~",
     "meaning": "Banyak ~",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-051",
@@ -456,7 +506,8 @@
     "romaji": "chounan",
     "meaning": "Anak laki-laki tertua",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-052",
@@ -465,7 +516,8 @@
     "romaji": "netsuwodashimasu",
     "meaning": "Menjadi demam",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-053",
@@ -474,7 +526,8 @@
     "romaji": "boueki",
     "meaning": "Perdagangan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-054",
@@ -483,7 +536,8 @@
     "romaji": "mezashimasu",
     "meaning": "Menargetkan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-055",
@@ -492,7 +546,8 @@
     "romaji": "riyoushimasu",
     "meaning": "Menggunakan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-056",
@@ -501,7 +556,8 @@
     "romaji": "ryokan",
     "meaning": "Penginapan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-057",
@@ -510,7 +566,8 @@
     "romaji": "otsukimi",
     "meaning": "Acara Melihat Bulan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-058",
@@ -519,7 +576,8 @@
     "romaji": "oshougatsu",
     "meaning": "Tahun baru",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-059",
@@ -528,7 +586,8 @@
     "romaji": "obon",
     "meaning": "Perayaan Bon",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-060",
@@ -537,7 +596,8 @@
     "romaji": "kodomonohi",
     "meaning": "Hari Anak",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-061",
@@ -546,7 +606,8 @@
     "romaji": "hinamatsuri",
     "meaning": "Perayaan Boneka",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-062",
@@ -555,7 +616,8 @@
     "romaji": "kisetsunogyouji",
     "meaning": "Acara Musiman",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-063",
@@ -564,7 +626,8 @@
     "romaji": "tanabata",
     "meaning": "Tanabata / Perayaan Bintang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-064",
@@ -573,7 +636,8 @@
     "romaji": "oomisoka",
     "meaning": "Malam Tahun Baru",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 49"
   },
   {
     "id": "mn-49-065",
@@ -582,6 +646,7 @@
     "romaji": "mamemaki",
     "meaning": "Upacara menghamburkan kacang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 49"
   }
 ]

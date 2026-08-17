@@ -1,12 +1,13 @@
 [
   {
     "id": "mn-02-001",
-    "kanji": "[ どうも ]ありがとうございます",
+    "kanji": "ありがとうございます",
     "hiragana": "[ どうも ]ありがとうございます",
     "romaji": "[ doumo ]arigatougozaimasu",
     "meaning": "Terima kasih (Banyak)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-002",
@@ -15,7 +16,8 @@
     "romaji": "~go",
     "meaning": "Bahasa ～",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-003",
@@ -24,7 +26,8 @@
     "romaji": "a",
     "meaning": "O,eh (dipakai ketika sadar)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-004",
@@ -33,7 +36,8 @@
     "romaji": "ano~",
     "meaning": "～itu (jauh)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-005",
@@ -42,7 +46,8 @@
     "romaji": "anou",
     "meaning": "Eee ...(ungkapan ketika ragu)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-006",
@@ -51,7 +56,8 @@
     "romaji": "are",
     "meaning": "Itu (jauh)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-007",
@@ -60,7 +66,8 @@
     "romaji": "etsu",
     "meaning": "Eh (diucapkan ketika mendengar sesuatu diluar dugaan)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-008",
@@ -69,7 +76,8 @@
     "romaji": "omiyage",
     "meaning": "Oleh-oleh",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-009",
@@ -78,7 +86,8 @@
     "romaji": "kaado",
     "meaning": "Kartu",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-010",
@@ -87,7 +96,8 @@
     "romaji": "kamera",
     "meaning": "Kamera",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-011",
@@ -96,7 +106,8 @@
     "romaji": "koohii",
     "meaning": "Kopi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-012",
@@ -105,7 +116,8 @@
     "romaji": "kochirakosoyoroshikuonegaishimasu",
     "meaning": "Ya sama-sama ( Jawaban untuk Douzou Yoroshiku Onegaishimasu)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-013",
@@ -114,7 +126,8 @@
     "romaji": "kono~",
     "meaning": "～ini",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-014",
@@ -123,7 +136,8 @@
     "romaji": "kore",
     "meaning": "Ini",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-015",
@@ -132,7 +146,8 @@
     "romaji": "korekaraosewaninarimasu",
     "meaning": "Mulai sekarang saya akan meminta bantuannya",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-016",
@@ -141,7 +156,8 @@
     "romaji": "konpyuutaa",
     "meaning": "Komputer, PC",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-017",
@@ -150,7 +166,8 @@
     "romaji": "shaapupenshiru",
     "meaning": "Pensil mekanik, Pensil Isi Ulang",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-018",
@@ -159,7 +176,8 @@
     "romaji": "sou",
     "meaning": "Begitu",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-019",
@@ -168,7 +186,8 @@
     "romaji": "soudesuka",
     "meaning": "O,begitu / benarkah?",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-020",
@@ -177,7 +196,8 @@
     "romaji": "sono~",
     "meaning": "～itu (dekat)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-021",
@@ -186,7 +206,8 @@
     "romaji": "sore",
     "meaning": "Itu (dekat)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-022",
@@ -195,7 +216,8 @@
     "romaji": "chokoreeto",
     "meaning": "Coklat",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-023",
@@ -204,7 +226,8 @@
     "romaji": "terebi",
     "meaning": "Televisi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-024",
@@ -213,7 +236,8 @@
     "romaji": "douzo",
     "meaning": "Silakan ( Meawarkan )",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-025",
@@ -222,7 +246,8 @@
     "romaji": "nooto",
     "meaning": "Buku catatan, Buku Tulis",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-026",
@@ -231,7 +256,8 @@
     "romaji": "boorupen",
     "meaning": "Bolpoin",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-027",
@@ -240,7 +266,8 @@
     "romaji": "rajio",
     "meaning": "Radio",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-028",
@@ -249,7 +276,8 @@
     "romaji": "isu",
     "meaning": "Kursi",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-029",
@@ -258,7 +286,8 @@
     "romaji": "chigaimasu",
     "meaning": "Bukan , Tidak , Salah",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-030",
@@ -267,7 +296,8 @@
     "romaji": "eigo",
     "meaning": "Bahasa inggris",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-031",
@@ -276,7 +306,8 @@
     "romaji": "enpitsu",
     "meaning": "Pensil",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-032",
@@ -285,7 +316,8 @@
     "romaji": "nan",
     "meaning": "Apa",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-033",
@@ -294,7 +326,8 @@
     "romaji": "kaban",
     "meaning": "Tas",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-034",
@@ -303,7 +336,8 @@
     "romaji": "tsukue",
     "meaning": "Meja, Meja Tulis",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-035",
@@ -312,7 +346,8 @@
     "romaji": "kagi",
     "meaning": "Kunci",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-036",
@@ -321,7 +356,8 @@
     "romaji": "zasshi",
     "meaning": "Majalah",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-037",
@@ -330,7 +366,8 @@
     "romaji": "kasa",
     "meaning": "Payung",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-038",
@@ -339,7 +376,8 @@
     "romaji": "tokei",
     "meaning": "Jam , arloji",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-039",
@@ -348,7 +386,8 @@
     "romaji": "jisho",
     "meaning": "Kamus",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-040",
@@ -357,7 +396,8 @@
     "romaji": "kuruma",
     "meaning": "Mobil",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-041",
@@ -366,7 +406,8 @@
     "romaji": "techou",
     "meaning": "Buku agenda",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-042",
@@ -375,7 +416,8 @@
     "romaji": "shinbun",
     "meaning": "Koran, Surat Kabar",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-043",
@@ -384,7 +426,8 @@
     "romaji": "nihongo",
     "meaning": "Bahasa jepang",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-044",
@@ -393,7 +436,8 @@
     "romaji": "hon",
     "meaning": "Buku",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   },
   {
     "id": "mn-02-045",
@@ -402,6 +446,7 @@
     "romaji": "meishi",
     "meaning": "Kartu nama",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 02"
   }
 ]

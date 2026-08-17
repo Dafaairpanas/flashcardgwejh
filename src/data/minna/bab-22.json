@@ -6,16 +6,18 @@
     "romaji": "[o]bentou",
     "meaning": "bekal",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-002",
-    "kanji": "[眼鏡を〜]",
+    "kanji": "掛けます",
     "hiragana": "かけますⅡ [めがねを〜]",
     "romaji": "kakemasuⅡ [meganewo~]",
     "meaning": "memakai [kaca mata]",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-003",
@@ -24,7 +26,8 @@
     "romaji": "eeto",
     "meaning": "Itu...",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-004",
@@ -33,7 +36,8 @@
     "romaji": "omedetou [gozaimasu].",
     "meaning": "Selamat. (digunakan untuk hari ulang tahu, upacara pernikahan, dan tahun baru)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-005",
@@ -42,7 +46,8 @@
     "romaji": "osagashidesuka.",
     "meaning": "Mencari apa?",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-006",
@@ -51,7 +56,8 @@
     "romaji": "kaburimasuⅠ",
     "meaning": "memakai (topi)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-007",
@@ -60,7 +66,8 @@
     "romaji": "keeki",
     "meaning": "kue",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-008",
@@ -69,7 +76,8 @@
     "romaji": "kooto",
     "meaning": "mantal",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-009",
@@ -78,25 +86,28 @@
     "romaji": "kochira",
     "meaning": "ini (ungkapan sopan dari これ)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-010",
-    "kanji": "しますⅢ [ネクタイを〜]",
+    "kanji": "しますⅢ",
     "hiragana": "しますⅢ [ネクタイを〜]",
     "romaji": "shimasuⅢ [nekutaiwo~]",
     "meaning": "memakai [dasi]",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-011",
-    "kanji": "スーツ＊",
-    "hiragana": "スーツ＊",
+    "kanji": "スーツ",
+    "hiragana": "スーツ",
     "romaji": "suutsu",
     "meaning": "pakaian setelan",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-012",
@@ -105,7 +116,8 @@
     "romaji": "seetaa",
     "meaning": "sweater, baju hangat",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-013",
@@ -114,7 +126,8 @@
     "romaji": "dainingukitchin",
     "meaning": "ruang makan dengan dapur",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-014",
@@ -123,7 +136,8 @@
     "romaji": "deha",
     "meaning": "Kalau begitu",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-015",
@@ -132,7 +146,8 @@
     "romaji": "hakimasuⅠ",
     "meaning": "memakai (sepatu, celana)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-016",
@@ -141,7 +156,8 @@
     "romaji": "pari",
     "meaning": "Paris",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-017",
@@ -150,7 +166,8 @@
     "romaji": "yuumoa",
     "meaning": "humor",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-018",
@@ -159,7 +176,8 @@
     "romaji": "yoku",
     "meaning": "sering kali",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-019",
@@ -168,7 +186,8 @@
     "romaji": "robotto",
     "meaning": "robot",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-020",
@@ -177,7 +196,8 @@
     "romaji": "watashitachi",
     "meaning": "kami, kita",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-021",
@@ -186,7 +206,8 @@
     "romaji": "oshiire",
     "meaning": "lemari dinding ala Jepang",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-022",
@@ -195,7 +216,8 @@
     "romaji": "yachin",
     "meaning": "biaya sewa rumah",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-023",
@@ -204,7 +226,8 @@
     "romaji": "megane",
     "meaning": "kaca mata",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-024",
@@ -213,7 +236,8 @@
     "romaji": "umaremasuⅡ",
     "meaning": "lahir",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-025",
@@ -222,7 +246,8 @@
     "romaji": "kimasuⅡ",
     "meaning": "memakai (kemeja)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-026",
@@ -231,7 +256,8 @@
     "romaji": "tsugou",
     "meaning": "kondisi",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-027",
@@ -240,7 +266,8 @@
     "romaji": "futon",
     "meaning": "selimut dan kasur berisi kapas ala Jepang",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-028",
@@ -249,7 +276,8 @@
     "romaji": "boushi",
     "meaning": "topi",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-029",
@@ -258,7 +286,8 @@
     "romaji": "banrinochoujou",
     "meaning": "Tembok Besar Cina",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-030",
@@ -267,7 +296,8 @@
     "romaji": "washitsu",
     "meaning": "kamar ala Jepang",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-031",
@@ -276,7 +306,8 @@
     "romaji": "(oobaa)kooto",
     "meaning": "mantel",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-032",
@@ -285,7 +316,8 @@
     "romaji": "kutsushita",
     "meaning": "kaos kaki",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-033",
@@ -294,7 +326,8 @@
     "romaji": "jiinzu",
     "meaning": "celana jeans",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-034",
@@ -303,7 +336,8 @@
     "romaji": "suutsu",
     "meaning": "pakaian setelan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-035",
@@ -312,7 +346,8 @@
     "romaji": "sukaato",
     "meaning": "rok",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-036",
@@ -321,7 +356,8 @@
     "romaji": "sutokkingu",
     "meaning": "stoking",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-037",
@@ -330,7 +366,8 @@
     "romaji": "zubon/pantsu",
     "meaning": "celana panjang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-038",
@@ -339,7 +376,8 @@
     "romaji": "seetaa",
     "meaning": "sweater, baju hangat",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-039",
@@ -348,7 +386,8 @@
     "romaji": "zouri",
     "meaning": "Zori (sandal tradisional Jepang)",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-040",
@@ -357,7 +396,8 @@
     "romaji": "tabi",
     "meaning": "Tabi (kaos kaki tradisional Jepang)",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-041",
@@ -366,7 +406,8 @@
     "romaji": "nekutai",
     "meaning": "dasi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-042",
@@ -375,7 +416,8 @@
     "romaji": "buutsu",
     "meaning": "sepatu bot",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-043",
@@ -384,7 +426,8 @@
     "romaji": "beruto",
     "meaning": "ikat pinggang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-044",
@@ -393,7 +436,8 @@
     "romaji": "reinkooto",
     "meaning": "jas hujan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-045",
@@ -402,7 +446,8 @@
     "romaji": "waishatsu",
     "meaning": "kemeja",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-046",
@@ -411,7 +456,8 @@
     "romaji": "wanpiisu",
     "meaning": "terusan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-047",
@@ -420,7 +466,8 @@
     "romaji": "undougutsu",
     "meaning": "sepatu olah raga",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-048",
@@ -429,7 +476,8 @@
     "romaji": "shitagi",
     "meaning": "pakaian dalam",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-049",
@@ -438,7 +486,8 @@
     "romaji": "tebukuro",
     "meaning": "sarung tangan",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-050",
@@ -447,7 +496,8 @@
     "romaji": "uwagi",
     "meaning": "jas",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-051",
@@ -456,7 +506,8 @@
     "romaji": "obi",
     "meaning": "Obi (ikat pinggang tradisional Jepang, digunakan bersamaan dengan Kimono)",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-052",
@@ -465,7 +516,8 @@
     "romaji": "kimono",
     "meaning": "Kimono (pakaian tradisional Jepang)",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-053",
@@ -474,7 +526,8 @@
     "romaji": "(panteii)",
     "meaning": "",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-054",
@@ -483,7 +536,8 @@
     "romaji": "haihiiru",
     "meaning": "sepatu berhak tinggi",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-055",
@@ -492,7 +546,8 @@
     "romaji": "burausu",
     "meaning": "blus",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-056",
@@ -501,7 +556,8 @@
     "romaji": "mafuraa",
     "meaning": "shal, selendang",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 22"
   },
   {
     "id": "mn-22-057",
@@ -510,6 +566,7 @@
     "romaji": "minnano ankeeto",
     "meaning": "angket fiksi",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 22"
   }
 ]

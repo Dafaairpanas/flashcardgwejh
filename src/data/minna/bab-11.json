@@ -6,7 +6,8 @@
     "romaji": "~kagetsu",
     "meaning": "~ bulan",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-002",
@@ -15,7 +16,8 @@
     "romaji": "~gurai",
     "meaning": "Kira-kira ~",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-003",
@@ -24,7 +26,8 @@
     "romaji": "~dake",
     "meaning": "Hanya ~",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-004",
@@ -33,7 +36,8 @@
     "romaji": "~kai",
     "meaning": "~ kali ( Frekuensi )",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-005",
@@ -42,7 +46,8 @@
     "romaji": "~jikan",
     "meaning": "~ jam",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-006",
@@ -51,7 +56,8 @@
     "romaji": "~shuukan",
     "meaning": "~ minggu",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-007",
@@ -60,7 +66,8 @@
     "romaji": "~nin",
     "meaning": "~ orang",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-008",
@@ -69,7 +76,8 @@
     "romaji": "~dai",
     "meaning": "~ unit ( Mesin )",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-009",
@@ -78,7 +86,8 @@
     "romaji": "~nen",
     "meaning": "~ tahun",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-010",
@@ -87,7 +96,8 @@
     "romaji": "~mai",
     "meaning": "~ lembar ( Benda Tipis )",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-011",
@@ -96,7 +106,8 @@
     "romaji": "aisukuriimu",
     "meaning": "Es krim",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-012",
@@ -105,7 +116,8 @@
     "romaji": "iitenkidesune",
     "meaning": "Cuacanya bagus ya...",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-013",
@@ -114,7 +126,8 @@
     "romaji": "ikutsu",
     "meaning": "Berapa buah ?",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-014",
@@ -123,7 +136,8 @@
     "romaji": "itsutsu",
     "meaning": "5 buah",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-015",
@@ -132,7 +146,8 @@
     "romaji": "imasu",
     "meaning": "Ada / mempunyai",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-016",
@@ -141,7 +156,8 @@
     "romaji": "eameeru",
     "meaning": "Pos udara",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-017",
@@ -150,7 +166,8 @@
     "romaji": "oosutoraria",
     "meaning": "Australia",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-018",
@@ -159,7 +176,8 @@
     "romaji": "odekakedesuka",
     "meaning": "Mau keluar ?",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-019",
@@ -168,7 +186,8 @@
     "romaji": "kakarimasu",
     "meaning": "Memerlukan ( Waktu, Uang )",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-020",
@@ -177,16 +196,18 @@
     "romaji": "kashikomarimashita",
     "meaning": "Baik / mengerti",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-021",
-    "kanji": "カレー[ライス]",
+    "kanji": "カレー",
     "hiragana": "カレー[ライス]",
     "romaji": "karee[raisu]",
     "meaning": "[nasi dan] kare",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-022",
@@ -195,7 +216,8 @@
     "romaji": "kurasu",
     "meaning": "Kelas",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-023",
@@ -204,7 +226,8 @@
     "romaji": "kokonotsu",
     "meaning": "9 buah",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-024",
@@ -213,7 +236,8 @@
     "romaji": "sandoitchi",
     "meaning": "Sandwich",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-025",
@@ -222,7 +246,8 @@
     "romaji": "too",
     "meaning": "10 buah",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-026",
@@ -231,7 +256,8 @@
     "romaji": "donokurai",
     "meaning": "Berapa lama ?",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-027",
@@ -240,7 +266,8 @@
     "romaji": "nanatsu",
     "meaning": "7 buah",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-028",
@@ -249,7 +276,8 @@
     "romaji": "hagaki",
     "meaning": "Kartu pos",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-029",
@@ -258,7 +286,8 @@
     "romaji": "hitotsu",
     "meaning": "1 buah",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-030",
@@ -267,7 +296,8 @@
     "romaji": "hitori",
     "meaning": "1 orang",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-031",
@@ -276,7 +306,8 @@
     "romaji": "futatsu",
     "meaning": "2 buah",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-032",
@@ -285,7 +316,8 @@
     "romaji": "futari",
     "meaning": "2 orang",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-033",
@@ -294,7 +326,8 @@
     "romaji": "mikan",
     "meaning": "Jeruk",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-034",
@@ -303,7 +336,8 @@
     "romaji": "mittsu",
     "meaning": "3 buah",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-035",
@@ -312,7 +346,8 @@
     "romaji": "minna",
     "meaning": "Semua",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-036",
@@ -321,7 +356,8 @@
     "romaji": "muttsu",
     "meaning": "6 buah",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-037",
@@ -330,7 +366,8 @@
     "romaji": "yattsu",
     "meaning": "8 buah",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-038",
@@ -339,7 +376,8 @@
     "romaji": "yottsu",
     "meaning": "4 buah",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-039",
@@ -348,7 +386,8 @@
     "romaji": "ringo",
     "meaning": "Apel",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-040",
@@ -357,7 +396,8 @@
     "romaji": "gaikoku",
     "meaning": "Luar negeri",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-041",
@@ -366,7 +406,8 @@
     "romaji": "yasumimasu (wo)",
     "meaning": "Tidak masuk kerja / libur",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-042",
@@ -375,7 +416,8 @@
     "romaji": "koukuubin",
     "meaning": "Pos udara",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-043",
@@ -384,7 +426,8 @@
     "romaji": "ittekimasu",
     "meaning": "Saya berangkat",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-044",
@@ -393,7 +436,8 @@
     "romaji": "itterasshai",
     "meaning": "Hati-hati (berangkatnya)",
     "level": "N5",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-045",
@@ -402,7 +446,8 @@
     "romaji": "kitte",
     "meaning": "Perangko",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-046",
@@ -411,7 +456,8 @@
     "romaji": "funabin",
     "meaning": "Pos laut",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-047",
@@ -420,7 +466,8 @@
     "romaji": "zenbude",
     "meaning": "Semuanya",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-048",
@@ -429,7 +476,8 @@
     "romaji": "fuutou",
     "meaning": "Amplop",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-049",
@@ -438,7 +486,8 @@
     "romaji": "ryuugakusei",
     "meaning": "Pelajar asing",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-050",
@@ -447,7 +496,8 @@
     "romaji": "ebifurai",
     "meaning": "Udang goreng tepung",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-051",
@@ -456,7 +506,8 @@
     "romaji": "onigiri",
     "meaning": "Nasi kepal",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-052",
@@ -465,7 +516,8 @@
     "romaji": "kareeraisu",
     "meaning": "Nasi kare",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-053",
@@ -474,7 +526,8 @@
     "romaji": "koohii",
     "meaning": "Kopi",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-054",
@@ -483,7 +536,8 @@
     "romaji": "koora",
     "meaning": "Coca cola",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-055",
@@ -492,7 +546,8 @@
     "romaji": "kokoa",
     "meaning": "Minuman coklat",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-056",
@@ -501,7 +556,8 @@
     "romaji": "korokke",
     "meaning": "Kroket",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-057",
@@ -510,7 +566,8 @@
     "romaji": "sarada",
     "meaning": "Salad",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-058",
@@ -519,7 +576,8 @@
     "romaji": "sandoitchi",
     "meaning": "sandwich",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-059",
@@ -528,7 +586,8 @@
     "romaji": "juusu",
     "meaning": "Jus",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-060",
@@ -537,7 +596,8 @@
     "romaji": "suupu",
     "meaning": "Sup",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-061",
@@ -546,7 +606,8 @@
     "romaji": "supagettei",
     "meaning": "Spageti",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-062",
@@ -555,7 +616,8 @@
     "romaji": "tenpura",
     "meaning": "Tempura",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-063",
@@ -564,7 +626,8 @@
     "romaji": "toosuto",
     "meaning": "Roti panggang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-064",
@@ -573,7 +636,8 @@
     "romaji": "hanbaagaa",
     "meaning": "burger",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-065",
@@ -582,7 +646,8 @@
     "romaji": "hanbaagu",
     "meaning": "hamburger",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-066",
@@ -591,7 +656,8 @@
     "romaji": "piza",
     "meaning": "Pizza",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-067",
@@ -600,7 +666,8 @@
     "romaji": "furaidochikin",
     "meaning": "Ayam goreng",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-068",
@@ -609,7 +676,8 @@
     "romaji": "misoshiru",
     "meaning": "Sup miso",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-069",
@@ -618,7 +686,8 @@
     "romaji": "ranchi",
     "meaning": "Makan siang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-070",
@@ -627,7 +696,8 @@
     "romaji": "koucha",
     "meaning": "Teh",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-071",
@@ -636,7 +706,8 @@
     "romaji": "yakiniku",
     "meaning": "Daging panggang",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-072",
@@ -645,7 +716,8 @@
     "romaji": "tsukemono",
     "meaning": "Asinan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-073",
@@ -654,7 +726,8 @@
     "romaji": "teishoku",
     "meaning": "Makanan paket",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-074",
@@ -663,7 +736,8 @@
     "romaji": "yasaitame",
     "meaning": "Sayur goreng",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-075",
@@ -672,7 +746,8 @@
     "romaji": "udon",
     "meaning": "Mie jepang ukuran besar",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-076",
@@ -681,7 +756,8 @@
     "romaji": "oyakodon",
     "meaning": "Semangkuk Nasi, daging ayam dan telur",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-077",
@@ -690,7 +766,8 @@
     "romaji": "okonomiyaki",
     "meaning": "Gorengan dicampur daging di loyang",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-078",
@@ -699,7 +776,8 @@
     "romaji": "sushi",
     "meaning": "Nasi dicampur cuka dan diberi ikan mentah",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-079",
@@ -708,7 +786,8 @@
     "romaji": "soba",
     "meaning": "Mie jepang warna abu-abu",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-080",
@@ -717,7 +796,8 @@
     "romaji": "raamen",
     "meaning": "Mie jepang ukuran biasa",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-081",
@@ -726,7 +806,8 @@
     "romaji": "gyuudon",
     "meaning": "Semangkuk nasi dan daging sapi",
     "level": "N4",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-082",
@@ -735,7 +816,8 @@
     "romaji": "yakisoba",
     "meaning": "Mie goreng jepang",
     "level": "N2",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 11"
   },
   {
     "id": "mn-11-083",
@@ -744,6 +826,7 @@
     "romaji": "tendon",
     "meaning": "Semangkuk Nasi dan tempura",
     "level": "N5",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 11"
   }
 ]

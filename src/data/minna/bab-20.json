@@ -6,7 +6,8 @@
     "romaji": "~kedo",
     "meaning": "〜 tetapi (ungkapan informal dari が)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-002",
@@ -15,16 +16,18 @@
     "romaji": "~kun",
     "meaning": "Sdr. 〜 (bentuk informal untuk さん, digunakan terhadap orang yang setaraf atau di bawah si pembicara, sering digunakan untuk nama anak laki-laki)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-003",
-    "kanji": "あっち＊",
-    "hiragana": "あっち＊",
+    "kanji": "あっち",
+    "hiragana": "あっち",
     "romaji": "atchi",
     "meaning": "sana (ungkapan informal dari kata あちら)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-004",
@@ -33,7 +36,8 @@
     "romaji": "iroiro",
     "meaning": "macam-macam",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-005",
@@ -42,7 +46,8 @@
     "romaji": "uun",
     "meaning": "tidak, bukan (bentuk informal dari いいえ)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-006",
@@ -51,7 +56,8 @@
     "romaji": "un",
     "meaning": "ya (bentuk informal dari はい)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-007",
@@ -60,16 +66,18 @@
     "romaji": "onakaga ippaidesu",
     "meaning": "sudah kenyang",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-008",
-    "kanji": "こっち＊",
-    "hiragana": "こっち＊",
+    "kanji": "こっち",
+    "hiragana": "こっち",
     "romaji": "kotchi",
     "meaning": "sini (ungkapan informal dari kata こちら)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-009",
@@ -78,7 +86,8 @@
     "romaji": "kotoba",
     "meaning": "kata, bahasa",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-010",
@@ -87,7 +96,8 @@
     "romaji": "sotchi",
     "meaning": "situ (ungkapan informal dari kata そちら)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-011",
@@ -96,7 +106,8 @@
     "romaji": "dotchi",
     "meaning": "mana (ungkapan informal untuk kata どちら)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-012",
@@ -105,7 +116,8 @@
     "romaji": "biza",
     "meaning": "VISA",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-013",
@@ -114,7 +126,8 @@
     "romaji": "minnade",
     "meaning": "kita semua, kita sama-sama",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-014",
@@ -123,16 +136,18 @@
     "romaji": "yokattara",
     "meaning": "kalau mau, kalau suka",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-015",
     "kanji": "君",
-    "hiragana": "きみ＊",
+    "hiragana": "きみ",
     "romaji": "kimi",
     "meaning": "kamu (bentuk informal untuk あなた, digunakan terhadap orang yang setaraf atau di bawah si pembicara)",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-016",
@@ -141,7 +156,8 @@
     "romaji": "shuurishimasuⅢ",
     "meaning": "memperbaiki",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-017",
@@ -150,7 +166,8 @@
     "romaji": "owari",
     "meaning": "akhir",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-018",
@@ -159,7 +176,8 @@
     "romaji": "hajime",
     "meaning": "awal, mula-mula",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-019",
@@ -168,7 +186,8 @@
     "romaji": "kimono",
     "meaning": "kimono (pakaian tradisional Jepang)",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-020",
@@ -177,7 +196,8 @@
     "romaji": "shirabemasuⅡ",
     "meaning": "memeriksa, meneliti, mengecek",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-021",
@@ -186,7 +206,8 @@
     "romaji": "boku",
     "meaning": "aku (dipakai oleh laki-laki, kata ganti informal dari わたし)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   },
   {
     "id": "mn-20-022",
@@ -195,6 +216,7 @@
     "romaji": "irimasuⅠ [bizaga~]",
     "meaning": "memerlukan [VISA]",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 20"
   }
 ]

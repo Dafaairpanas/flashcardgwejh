@@ -6,7 +6,8 @@
     "romaji": "-meetoru",
     "meaning": "ー meter",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-002",
@@ -15,7 +16,8 @@
     "romaji": "intaanetto",
     "meaning": "internet",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-003",
@@ -24,7 +26,8 @@
     "romaji": "oinori",
     "meaning": "doa (〜を します：berdoa)",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-004",
@@ -33,7 +36,8 @@
     "romaji": "zehi",
     "meaning": "benar-benar, mesti",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-005",
@@ -42,7 +46,8 @@
     "romaji": "soreha omoshiroidesune.",
     "meaning": "Itu menarik ya.",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-006",
@@ -51,7 +56,8 @@
     "romaji": "dekimasuⅡ",
     "meaning": "dapat, bisa, mampu",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-007",
@@ -60,7 +66,8 @@
     "romaji": "nakanaka",
     "meaning": "jarang, tidak mudah (diikuti bentuk negatif)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-008",
@@ -69,7 +76,8 @@
     "romaji": "piano",
     "meaning": "piano",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-009",
@@ -78,7 +86,8 @@
     "romaji": "hee",
     "meaning": "Betul ya?/Benar ya?/Masa! (digunakan ketika terkagum atau terkejut)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-010",
@@ -87,7 +96,8 @@
     "romaji": "hontoudesuka.",
     "meaning": "Betul?/Benar?",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-011",
@@ -96,7 +106,8 @@
     "romaji": "untenshimasuⅢ",
     "meaning": "menyetir, mengendarai",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-012",
@@ -105,7 +116,8 @@
     "romaji": "utaimasuⅠ",
     "meaning": "bernyanyi, menyanyi",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-013",
@@ -114,7 +126,8 @@
     "romaji": "kachou",
     "meaning": "kepala seksi",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-014",
@@ -123,7 +136,8 @@
     "romaji": "kaemasuⅡ",
     "meaning": "mengganti, menukar",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-015",
@@ -132,7 +146,8 @@
     "romaji": "genkin",
     "meaning": "uang tunai",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-016",
@@ -141,16 +156,18 @@
     "romaji": "sutemasuⅡ",
     "meaning": "membuang",
     "level": "N2",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-017",
     "kanji": "社長",
-    "hiragana": "しゃちょう＊",
+    "hiragana": "しゃちょう",
     "romaji": "shachou",
     "meaning": "direktur utama",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-018",
@@ -159,7 +176,8 @@
     "romaji": "shumi",
     "meaning": "hobi, kegemaran",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-019",
@@ -168,7 +186,8 @@
     "romaji": "atsumemasuⅡ",
     "meaning": "mengumpulkan",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-020",
@@ -177,7 +196,8 @@
     "romaji": "araimasuⅠ",
     "meaning": "mencuci",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-021",
@@ -186,7 +206,8 @@
     "romaji": "hikimasuⅠ",
     "meaning": "bermain (bermaksud untuk bermain alat musik senar dan piano)",
     "level": "-",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-022",
@@ -195,7 +216,8 @@
     "romaji": "doubutsu",
     "meaning": "hewan, binatang",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-023",
@@ -204,7 +226,8 @@
     "romaji": "tokuni",
     "meaning": "terutama, khususnya",
     "level": "N4",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-024",
@@ -213,7 +236,8 @@
     "romaji": "nikki",
     "meaning": "catatan harian",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-025",
@@ -222,7 +246,8 @@
     "romaji": "uma",
     "meaning": "kuda",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-026",
@@ -231,7 +256,8 @@
     "romaji": "buchou",
     "meaning": "kepala bagian",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-027",
@@ -240,7 +266,8 @@
     "romaji": "yoyakushimasuⅢ",
     "meaning": "memesan",
     "level": "N3",
-    "importinity": 1
+    "importinity": 1,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-028",
@@ -249,7 +276,8 @@
     "romaji": "keru",
     "meaning": "menendang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-029",
@@ -258,7 +286,8 @@
     "romaji": "tataku",
     "meaning": "memukul",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-030",
@@ -267,7 +296,8 @@
     "romaji": "hau",
     "meaning": "merayap",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-031",
@@ -276,7 +306,8 @@
     "romaji": "moguru",
     "meaning": "menyelam",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-032",
@@ -285,7 +316,8 @@
     "romaji": "hiku",
     "meaning": "menarik",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-033",
@@ -294,7 +326,8 @@
     "romaji": "oyogu",
     "meaning": "berenang",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-034",
@@ -303,7 +336,8 @@
     "romaji": "osu",
     "meaning": "mendorong",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-035",
@@ -312,7 +346,8 @@
     "romaji": "sakadachisuru",
     "meaning": "berjungkir balik",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-036",
@@ -321,7 +356,8 @@
     "romaji": "mageru",
     "meaning": "membengkokkan",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-037",
@@ -330,7 +366,8 @@
     "romaji": "mochiageru",
     "meaning": "mengangkat",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-038",
@@ -339,7 +376,8 @@
     "romaji": "nobasu",
     "meaning": "meluruskan",
     "level": "N2",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-039",
@@ -348,7 +386,8 @@
     "romaji": "furimuku",
     "meaning": "menengok ke belakang",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-040",
@@ -357,7 +396,8 @@
     "romaji": "furu",
     "meaning": "melambaikan",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-041",
@@ -366,7 +406,8 @@
     "romaji": "hashiru",
     "meaning": "berlari",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-042",
@@ -375,7 +416,8 @@
     "romaji": "tobu",
     "meaning": "meloncat",
     "level": "-",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-043",
@@ -384,7 +426,8 @@
     "romaji": "korobu",
     "meaning": "jatuh",
     "level": "N4",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-044",
@@ -393,7 +436,8 @@
     "romaji": "noboru",
     "meaning": "memanjat",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-045",
@@ -402,7 +446,8 @@
     "romaji": "nageru",
     "meaning": "melempar",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-046",
@@ -411,7 +456,8 @@
     "romaji": "tobikomu",
     "meaning": "terjun",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-047",
@@ -420,7 +466,8 @@
     "romaji": "tobu",
     "meaning": "terbang",
     "level": "N3",
-    "importinity": 2
+    "importinity": 2,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-048",
@@ -429,7 +476,8 @@
     "romaji": "biitoruzu",
     "meaning": "The Beatles",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-049",
@@ -438,7 +486,8 @@
     "romaji": "furusato",
     "meaning": "Furusato (judul lagu. Artinya kampung halaman)",
     "level": "-",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 18"
   },
   {
     "id": "mn-18-050",
@@ -447,6 +496,7 @@
     "romaji": "akihabara",
     "meaning": "nama daerah di Tokyo",
     "level": "N3",
-    "importinity": 3
+    "importinity": 3,
+    "chapter": "Bab 18"
   }
 ]
