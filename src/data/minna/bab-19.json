@@ -276,7 +276,7 @@
     "romaji": "igo・shougi",
     "meaning": "Catur Jepang",
     "level": "-",
-    "importinity": 2,
+    "importinity": 3,
     "chapter": "Bab 19"
   },
   {
@@ -346,7 +346,7 @@
     "romaji": "nou",
     "meaning": "Noh (Drama Topeng Tradisional Jepang)",
     "level": "N3",
-    "importinity": 2,
+    "importinity": 3,
     "chapter": "Bab 19"
   },
   {
@@ -356,7 +356,7 @@
     "romaji": "bunraku",
     "meaning": "Bunraku (Wayang Golek Tradisional Jepang)",
     "level": "N4",
-    "importinity": 2,
+    "importinity": 3,
     "chapter": "Bab 19"
   },
   {
@@ -366,7 +366,7 @@
     "romaji": "manzai・rakugo",
     "meaning": "Lelucon, Komedi",
     "level": "-",
-    "importinity": 2,
+    "importinity": 3,
     "chapter": "Bab 19"
   },
   {
