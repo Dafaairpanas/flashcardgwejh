@@ -180,6 +180,8 @@ export async function fetchAllSearchData() {
             hiragana: item.hiragana || '',
             romaji: item.romaji || toRomaji(cleanReading(item.hiragana || '')),
             meaning: item.meaning || '',
+            level: item.level || '-',
+            importinity: item.importinity || 1,
             chapter: `Bab ${num}`,
             _category: 'minna'
           });
@@ -203,6 +205,8 @@ export async function fetchAllSearchData() {
               hiragana: item.hiragana || '',
               romaji: item.romaji || toRomaji(cleanReading(item.hiragana || '')),
               meaning: item.meaning || '',
+              level: item.level || '-',
+              importinity: item.importinity || 1,
               chapter: file.replace('.json', ''),
               _category: 'irodori'
             });

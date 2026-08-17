@@ -17,6 +17,11 @@ export default function AdminClient({ allData }) {
   const [token, setToken] = useState('');
   const [errorMsg, setErrorMsg] = useState('');
   
+  // Bulk import state
+  const [isImporting, setIsImporting] = useState(false);
+  const [importProgress, setImportProgress] = useState('');
+  const [importCategory, setImportCategory] = useState('minna');
+  
   // Mobile sidebar state
   const [isMobileSidebarOpen, setIsMobileSidebarOpen] = useState(false);
 
@@ -198,10 +203,227 @@ export default function AdminClient({ allData }) {
               authConfig={authConfig} 
             />
           ) : (
-            <div className="admin-empty-state">
-              <div className="admin-empty-icon">📊</div>
-              <h3>Pilih file data</h3>
-              <p>Pilih file JSON dari sidebar di sebelah kiri untuk mulai mengelola kosakata atau tata bahasa (bunpou).</p>
+              <div className="admin-dashboard-home" style={{padding: '24px', maxWidth: '800px', margin: '0 auto', overflowY: 'auto', height: '100%', width: '100%'}}>
+              <div style={{marginBottom: '32px', textAlign: 'center'}}>
+                <div className="admin-empty-icon" style={{fontSize: '48px', marginBottom: '16px'}}>📊</div>
+                <h2 style={{fontSize: '24px', fontWeight: 'bold', marginBottom: '8px'}}>Selamat Datang di Portify CMS</h2>
+                <p style={{color: 'var(--text-muted)'}}>Pilih file JSON dari sidebar di sebelah kiri untuk mulai mengelola kosakata atau tata bahasa (bunpou).</p>
+              </div>
+              
+              <div className="admin-card" style={{padding: '24px', backgroundColor: 'var(--bg-card)', borderRadius: '12px', border: '1px solid var(--border-color)', marginBottom: '24px'}}>
+                <h3 style={{fontSize: '18px', fontWeight: '600', marginBottom: '8px', display: 'flex', alignItems: 'center', gap: '8px'}}>
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" width="20" height="20"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                  Bulk Export Data (.txt)
+                </h3>
+                <p style={{color: 'var(--text-muted)', marginBottom: '24px', fontSize: '14px'}}>
+                  Export semua data dari satu kategori menjadi satu file text besar. Data akan digabungkan dari semua bab. Pemisah antar kolom menggunakan tanda titik koma (<code>;</code>).
+                </p>
+                <div style={{display: 'flex', gap: '12px', flexWrap: 'wrap'}}>
+                  {['minna', 'irodori', 'kanji', 'bunpou', 'renshuu'].map(category => (
+                    <button 
+                      key={category}
+                      className="admin-btn admin-btn-outline" 
+                      onClick={() => {
+                        const data = allData?.[category];
+                        if (!data || data.length === 0) {
+                          alert(`Tidak ada data untuk kategori ${category}.`);
+                          return;
+                        }
+                        
+                        let content = '';
+                        if (category === 'bunpou') {
+                          // Format: id;title;romajiTitle;formula;meaning;chapter
+                          content = ['id;title;romajiTitle;formula;meaning;chapter'].concat(
+                            data.map(d => `${d.id || ''};${d.title || ''};${d.romajiTitle || ''};${d.formula || ''};${d.meaning || ''};${d.chapter || ''}`)
+                          ).join('\n');
+                        } else {
+                          // Format: id;kanji;hiragana;romaji;meaning;level;importinity;chapter
+                          content = ['id;kanji;hiragana;romaji;meaning;level;importinity;chapter'].concat(
+                            data.map(d => `${d.id || ''};${d.kanji || ''};${d.hiragana || ''};${d.romaji || ''};${d.meaning || ''};${d.level || '-'};${d.importinity || 1};${d.chapter || ''}`)
+                          ).join('\n');
+                        }
+                        
+                        const blob = new Blob([content], { type: 'text/plain;charset=utf-8' });
+                        const url = URL.createObjectURL(blob);
+                        const link = document.createElement('a');
+                        link.href = url;
+                        link.download = `${category}_all_data.txt`;
+                        document.body.appendChild(link);
+                        link.click();
+                        document.body.removeChild(link);
+                        URL.revokeObjectURL(url);
+                      }}
+                    >
+                      Export {category.charAt(0).toUpperCase() + category.slice(1)}
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              <div className="admin-card" style={{padding: '24px', backgroundColor: 'var(--bg-card)', borderRadius: '12px', border: '1px solid var(--border-color)'}}>
+                <h3 style={{fontSize: '18px', fontWeight: '600', marginBottom: '8px', display: 'flex', alignItems: 'center', gap: '8px'}}>
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" width="20" height="20"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="17 8 12 3 7 8"></polyline><line x1="12" y1="3" x2="12" y2="15"></line></svg>
+                  Bulk Import Data (.txt)
+                </h3>
+                <p style={{color: 'var(--text-muted)', marginBottom: '16px', fontSize: '14px'}}>
+                  Import file .txt yang berisi ratusan/ribuan data. Sistem otomatis akan memecahnya menjadi file `.json` per-Bab dan mem-push 1 bulk commit ke repository GitHub.
+                </p>
+                <div style={{display: 'flex', gap: '12px', alignItems: 'center', flexWrap: 'wrap', marginBottom: '16px'}}>
+                  <select 
+                    className="admin-btn admin-btn-outline" 
+                    style={{backgroundColor: 'rgba(0,0,0,0.3)', border: '1px solid rgba(255,255,255,0.2)', padding: '10px 16px', color: '#fff'}}
+                    value={importCategory}
+                    onChange={e => setImportCategory(e.target.value)}
+                    disabled={isImporting}
+                  >
+                    <option value="minna">Minna no Nihongo</option>
+                    <option value="irodori">Irodori</option>
+                    <option value="kanji">Kanji</option>
+                    <option value="bunpou/minna">Bunpou Minna</option>
+                    <option value="bunpou/irodori">Bunpou Irodori</option>
+                  </select>
+                  
+                  <label className={`admin-btn admin-btn-primary ${isImporting ? 'disabled' : ''}`} style={{cursor: isImporting ? 'not-allowed' : 'pointer', opacity: isImporting ? 0.7 : 1}}>
+                    <input 
+                      type="file" 
+                      accept=".txt" 
+                      style={{display: 'none'}} 
+                      disabled={isImporting}
+                      onChange={async (e) => {
+                        const file = e.target.files[0];
+                        if (!file) return;
+                        setIsImporting(true);
+                        setImportProgress('Membaca file...');
+                        
+                        try {
+                          const text = await file.text();
+                          const lines = text.split('\n').filter(line => line.trim());
+                          if (lines.length <= 1) throw new Error('File kosong atau hanya berisi header');
+                          
+                          const header = lines[0].split(';');
+                          const dataRows = lines.slice(1);
+                          
+                          const parsedData = dataRows.map(row => {
+                            const cols = row.split(';');
+                            const obj = {};
+                            header.forEach((key, i) => {
+                              if (key === 'importinity') obj[key] = parseInt(cols[i]) || 1;
+                              else obj[key] = cols[i] || '';
+                            });
+                            return obj;
+                          });
+
+                          setImportProgress(`Mem-parsing ${parsedData.length} baris data...`);
+                          
+                          // Group by chapter
+                          const groupedByChapter = {};
+                          parsedData.forEach(item => {
+                            const chap = item.chapter || 'Unknown';
+                            if (!groupedByChapter[chap]) groupedByChapter[chap] = [];
+                            groupedByChapter[chap].push(item);
+                          });
+                          
+                          const chaptersCount = Object.keys(groupedByChapter).length;
+                          if (!confirm(`Ditemukan ${chaptersCount} file/bab dari ${parsedData.length} baris data. Proses commit bulk ke GitHub (menimpa file lama)?`)) {
+                            setIsImporting(false);
+                            setImportProgress('');
+                            e.target.value = null;
+                            return;
+                          }
+                          
+                          setImportProgress(`Mempersiapkan Git Tree untuk ${chaptersCount} file...`);
+                          const tree = [];
+                          
+                          for (const [chapName, items] of Object.entries(groupedByChapter)) {
+                            let fileName = chapName;
+                            let filePath = `src/data/${importCategory}/`;
+                            
+                            if (importCategory === 'minna') {
+                              fileName = chapName.toLowerCase().replace(' ', '-');
+                              if (!fileName.includes('bab')) fileName = `bab-${fileName}`;
+                              filePath += `${fileName}.json`;
+                            } else if (importCategory.startsWith('bunpou')) {
+                              // format usually: bab11.json, irA1-01.json
+                              if (chapName.toLowerCase().startsWith('bab')) {
+                                const num = chapName.replace(/\D/g, '').padStart(2, '0');
+                                filePath += `bab${num}.json`;
+                              } else {
+                                filePath += `${chapName}.json`;
+                              }
+                            } else {
+                              filePath += `${chapName.replace(/\s/g, '')}.json`;
+                            }
+                            
+                            // Remove empty chapter field if needed, but we can keep it.
+                            const jsonStr = JSON.stringify(items, null, 2);
+                            tree.push({
+                              path: filePath,
+                              mode: '100644',
+                              type: 'blob',
+                              content: jsonStr
+                            });
+                          }
+                          
+                          setImportProgress(`Mengirim ${chaptersCount} file ke GitHub...`);
+                          
+                          const { data: refData } = await octokit.rest.git.getRef({
+                            owner: authConfig.owner,
+                            repo: authConfig.repo,
+                            ref: `heads/${authConfig.branch}`,
+                          });
+                          const commitSha = refData.object.sha;
+                          
+                          const { data: commitData } = await octokit.rest.git.getCommit({
+                            owner: authConfig.owner,
+                            repo: authConfig.repo,
+                            commit_sha: commitSha,
+                          });
+                          const baseTreeSha = commitData.tree.sha;
+                          
+                          const { data: newTreeData } = await octokit.rest.git.createTree({
+                            owner: authConfig.owner,
+                            repo: authConfig.repo,
+                            base_tree: baseTreeSha,
+                            tree: tree,
+                          });
+                          
+                          const { data: newCommitData } = await octokit.rest.git.createCommit({
+                            owner: authConfig.owner,
+                            repo: authConfig.repo,
+                            message: `Bulk Import ${importCategory} (${parsedData.length} data)`,
+                            tree: newTreeData.sha,
+                            parents: [commitSha],
+                          });
+                          
+                          await octokit.rest.git.updateRef({
+                            owner: authConfig.owner,
+                            repo: authConfig.repo,
+                            ref: `heads/${authConfig.branch}`,
+                            sha: newCommitData.sha,
+                          });
+                          
+                          alert('Bulk Import Berhasil! Silakan refresh aplikasi untuk melihat perubahan.');
+                          await fetchRepoTree(octokit, authConfig);
+                        } catch (err) {
+                          console.error(err);
+                          alert('Gagal import data: ' + err.message);
+                        } finally {
+                          setIsImporting(false);
+                          setTimeout(() => setImportProgress(''), 3000);
+                          e.target.value = null;
+                        }
+                      }} 
+                    />
+                    {isImporting ? 'Memproses...' : 'Pilih File .txt & Import'}
+                  </label>
+                </div>
+                {importProgress && (
+                  <div style={{fontSize: '13px', color: 'var(--accent-emerald)', marginTop: '8px', fontWeight: '500'}}>
+                    <span className="spinner" style={{width:'12px', height:'12px', display:'inline-block', borderWidth:'2px', marginRight:'6px', verticalAlign:'middle'}}></span>
+                    {importProgress}
+                  </div>
+                )}
+              </div>
             </div>
           )}
         </div>

@@ -13,6 +13,8 @@ export default function DataGrid({ filePath, octokit, authConfig }) {
   
   // Modal state
   const [editingItem, setEditingItem] = useState(null);
+  const [isBulkEditing, setIsBulkEditing] = useState(false);
+  const [bulkEditData, setBulkEditData] = useState({ level: '', importinity: '' });
   
   const isBunpou = filePath.includes('bunpou');
 
@@ -96,9 +98,24 @@ export default function DataGrid({ filePath, octokit, authConfig }) {
       if (isBunpou) {
         setEditingItem({ id: `new-${Date.now()}`, pattern: '', meaning: '', explanation: '', examples: [] });
       } else {
-        setEditingItem({ id: `new-${Date.now()}`, kanji: '', hiragana: '', romaji: '', meaning: '', level: '-', isExtra: false, importantity: 1 });
+        setEditingItem({ id: `new-${Date.now()}`, kanji: '', hiragana: '', romaji: '', meaning: '', level: '-', importinity: 1 });
       }
     }
+  };
+
+  const saveBulkEdit = (e) => {
+    e.preventDefault();
+    setData(prev => prev.map(item => {
+      if (selectedIds.has(item.id)) {
+        const updatedItem = { ...item };
+        if (bulkEditData.level !== '') updatedItem.level = bulkEditData.level;
+        if (bulkEditData.importinity !== '') updatedItem.importinity = Number(bulkEditData.importinity);
+        return updatedItem;
+      }
+      return item;
+    }));
+    setIsBulkEditing(false);
+    setSelectedIds(new Set()); // Clear selection after bulk edit
   };
 
   const saveEdit = (e) => {
@@ -197,9 +214,16 @@ export default function DataGrid({ filePath, octokit, authConfig }) {
             />
           </div>
           {selectedIds.size > 0 && (
-            <button className="admin-btn admin-btn-danger" onClick={handleDeleteSelected}>
-              Hapus ({selectedIds.size})
-            </button>
+            <>
+              {!isBunpou && (
+                <button className="admin-btn admin-btn-primary" onClick={() => { setBulkEditData({ level: '', importinity: '' }); setIsBulkEditing(true); }}>
+                  Edit Terpilih ({selectedIds.size})
+                </button>
+              )}
+              <button className="admin-btn admin-btn-danger" onClick={handleDeleteSelected}>
+                Hapus ({selectedIds.size})
+              </button>
+            </>
           )}
         </div>
         
@@ -270,8 +294,7 @@ export default function DataGrid({ filePath, octokit, authConfig }) {
                     <td>{item.meaning}</td>
                     <td>
                       <span className="admin-badge">{item.level}</span>
-                      {item.importantity && <span className="admin-badge admin-badge-outline" style={{marginLeft:'4px'}}>★{item.importantity}</span>}
-                      {item.isExtra && <span className="admin-badge admin-badge-warning" style={{marginLeft:'4px'}}>Extra</span>}
+                      {item.importinity && <span className="admin-badge admin-badge-outline" style={{marginLeft:'4px'}}>★{item.importinity}</span>}
                     </td>
                   </>
                 )}
@@ -358,13 +381,9 @@ export default function DataGrid({ filePath, octokit, authConfig }) {
                       <input type="text" value={editingItem.level || '-'} onChange={e => setEditingItem({...editingItem, level: e.target.value})} />
                     </div>
                     <div className="form-group" style={{flex:1}}>
-                      <label>Importantity (1-3)</label>
-                      <input type="number" min="1" max="3" value={editingItem.importantity || 1} onChange={e => setEditingItem({...editingItem, importantity: Number(e.target.value)})} />
+                      <label>Importinity (1-3)</label>
+                      <input type="number" min="1" max="3" value={editingItem.importinity || 1} onChange={e => setEditingItem({...editingItem, importinity: Number(e.target.value)})} />
                     </div>
-                  </div>
-                  <div className="form-group" style={{display:'flex', alignItems:'center', gap:'8px', marginTop:'8px'}}>
-                    <input type="checkbox" id="isExtra" checked={editingItem.isExtra || false} onChange={e => setEditingItem({...editingItem, isExtra: e.target.checked})} />
-                    <label htmlFor="isExtra" style={{marginBottom:0}}>Is Extra Card?</label>
                   </div>
                 </>
               )}
@@ -372,6 +391,38 @@ export default function DataGrid({ filePath, octokit, authConfig }) {
               <div className="admin-modal-footer">
                 <button type="button" className="admin-btn admin-btn-ghost" onClick={() => setEditingItem(null)}>Batal</button>
                 <button type="submit" className="admin-btn admin-btn-primary">Simpan Perubahan</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      )}
+
+      {/* Bulk Edit Modal */}
+      {isBulkEditing && (
+        <div className="admin-modal-overlay">
+          <div className="admin-modal">
+            <div className="admin-modal-header">
+              <h3>Edit {selectedIds.size} Data Terpilih</h3>
+              <button className="admin-btn-icon" onClick={() => setIsBulkEditing(false)}>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+              </button>
+            </div>
+            <form onSubmit={saveBulkEdit} className="admin-modal-body admin-form">
+              <p style={{marginBottom: '16px', fontSize: '0.9rem', color: 'var(--text-muted)'}}>
+                Kosongkan field jika tidak ingin mengubah nilainya.
+              </p>
+              <div className="form-group">
+                <label>Level Baru</label>
+                <input type="text" placeholder="Biarkan kosong untuk tidak mengubah" value={bulkEditData.level} onChange={e => setBulkEditData({...bulkEditData, level: e.target.value})} />
+              </div>
+              <div className="form-group">
+                <label>Importinity Baru (1-3)</label>
+                <input type="number" min="1" max="3" placeholder="Biarkan kosong untuk tidak mengubah" value={bulkEditData.importinity} onChange={e => setBulkEditData({...bulkEditData, importinity: e.target.value})} />
+              </div>
+              
+              <div className="admin-modal-footer">
+                <button type="button" className="admin-btn admin-btn-ghost" onClick={() => setIsBulkEditing(false)}>Batal</button>
+                <button type="submit" className="admin-btn admin-btn-primary">Terapkan Perubahan</button>
               </div>
             </form>
           </div>
