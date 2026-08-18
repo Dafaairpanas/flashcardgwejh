@@ -198,7 +198,7 @@ export function getAggregateStats() {
   };
 }
 
-export function getProgressBySource(fsrsStates, allCards) {
+export function getProgressBySource(fsrsStates, allData) {
   const KANJI_REGEX = /[\u4e00-\u9faf]/;
   
   function makeBucket() {
@@ -208,10 +208,10 @@ export function getProgressBySource(fsrsStates, allCards) {
   const result = {
     minna: {
       all: makeBucket(),
-      wajib: makeBucket(),    // importantity 1
-      extra: makeBucket(),    // importantity 2
-      trash: makeBucket(),    // importantity 3
-      kanji: makeBucket(),    // cards with kanji characters
+      wajib: makeBucket(),
+      extra: makeBucket(),
+      trash: makeBucket(),
+      kanji: makeBucket(),
     },
     irodori: {
       all: makeBucket(),
@@ -220,40 +220,60 @@ export function getProgressBySource(fsrsStates, allCards) {
       trash: makeBucket(),
       kanji: makeBucket(),
     },
+    kanji: {
+      all: makeBucket(),
+    },
+    bunpou: {
+      all: makeBucket(),
+    }
   };
   
-  for (const card of allCards) {
-    const isMinna = card.chapter?.startsWith('Bab');
-    const isIrodori = card.chapter?.startsWith('ir') || card.chapter?.startsWith('Iro');
-    const source = isMinna ? result.minna : isIrodori ? result.irodori : null;
-    
-    if (!source) continue;
-    
+  if (!allData || Array.isArray(allData)) return result; // Fallback if data is not the new format
+
+  // Minna Kotoba
+  for (const card of allData.minna || []) {
     const isLearned = fsrsStates[card.id] && fsrsStates[card.id].state !== 0;
     const hasKanji = KANJI_REGEX.test(card.kanji);
-    const imp = card.importantity ?? 1;
+    const imp = card.importinity ?? 1;
     
-    // All
-    source.all.total++;
-    if (isLearned) source.all.learned++;
+    result.minna.all.total++;
+    if (isLearned) result.minna.all.learned++;
     
-    // By grade
-    if (imp === 1) {
-      source.wajib.total++;
-      if (isLearned) source.wajib.learned++;
-    } else if (imp === 2) {
-      source.extra.total++;
-      if (isLearned) source.extra.learned++;
-    } else if (imp === 3) {
-      source.trash.total++;
-      if (isLearned) source.trash.learned++;
-    }
+    if (imp === 1) { result.minna.wajib.total++; if (isLearned) result.minna.wajib.learned++; }
+    else if (imp === 2) { result.minna.extra.total++; if (isLearned) result.minna.extra.learned++; }
+    else if (imp === 3) { result.minna.trash.total++; if (isLearned) result.minna.trash.learned++; }
     
-    // Kanji
-    if (hasKanji) {
-      source.kanji.total++;
-      if (isLearned) source.kanji.learned++;
-    }
+    if (hasKanji) { result.minna.kanji.total++; if (isLearned) result.minna.kanji.learned++; }
+  }
+
+  // Irodori Kotoba
+  for (const card of allData.irodori || []) {
+    const isLearned = fsrsStates[card.id] && fsrsStates[card.id].state !== 0;
+    const hasKanji = KANJI_REGEX.test(card.kanji);
+    const imp = card.importinity ?? 1;
+    
+    result.irodori.all.total++;
+    if (isLearned) result.irodori.all.learned++;
+    
+    if (imp === 1) { result.irodori.wajib.total++; if (isLearned) result.irodori.wajib.learned++; }
+    else if (imp === 2) { result.irodori.extra.total++; if (isLearned) result.irodori.extra.learned++; }
+    else if (imp === 3) { result.irodori.trash.total++; if (isLearned) result.irodori.trash.learned++; }
+    
+    if (hasKanji) { result.irodori.kanji.total++; if (isLearned) result.irodori.kanji.learned++; }
+  }
+
+  // Kanji
+  for (const card of allData.kanji || []) {
+    const isLearned = fsrsStates[card.id] && fsrsStates[card.id].state !== 0;
+    result.kanji.all.total++;
+    if (isLearned) result.kanji.all.learned++;
+  }
+
+  // Bunpou
+  for (const card of allData.bunpou || []) {
+    const isLearned = fsrsStates[card.id] && fsrsStates[card.id].state !== 0;
+    result.bunpou.all.total++;
+    if (isLearned) result.bunpou.all.learned++;
   }
   
   // Calculate percentages
@@ -261,12 +281,10 @@ export function getProgressBySource(fsrsStates, allCards) {
     bucket.percent = bucket.total > 0 ? Math.round((bucket.learned / bucket.total) * 100) : 0;
   }
   
-  for (const source of [result.minna, result.irodori]) {
-    calcPercent(source.all);
-    calcPercent(source.wajib);
-    calcPercent(source.extra);
-    calcPercent(source.trash);
-    calcPercent(source.kanji);
+  for (const source of Object.values(result)) {
+    for (const bucket of Object.values(source)) {
+      calcPercent(bucket);
+    }
   }
   
   return result;

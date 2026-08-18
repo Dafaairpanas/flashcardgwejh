@@ -47,12 +47,11 @@ export default function HistoryClient() {
 
   // Load all cards data
   useEffect(() => {
-    fetch('/api/kotoba')
+    fetch('/api/all-cards')
       .then(res => res.json())
       .then(data => {
-        if (data && data.cards) {
-          initializeData(data.cards);
-          setAllCardsData(data.cards);
+        if (data && !data.error) {
+          setAllCardsData(data); // Store the full cache object for progress tracking
         }
         setIsLoading(false);
       })
@@ -62,8 +61,14 @@ export default function HistoryClient() {
   // Build card lookup map
   const cardMap = useMemo(() => {
     const map = {};
-    for (const card of allCardsData) {
-      map[card.id] = card;
+    if (!allCardsData || Array.isArray(allCardsData)) return map;
+    
+    for (const source of Object.values(allCardsData)) {
+      if (Array.isArray(source)) {
+        for (const card of source) {
+          map[card.id] = card;
+        }
+      }
     }
     return map;
   }, [allCardsData]);
@@ -72,9 +77,17 @@ export default function HistoryClient() {
   const difficultCards = useMemo(() => getDifficultCards(), [refreshKey, isLoading]);
   const masteredCards = useMemo(() => getMasteredCards(), [refreshKey, isLoading]);
   const sessionHistory = useMemo(() => getSessionHistory(14), [refreshKey, isLoading]);
-  const aggStats = useMemo(() => getAggregateStats(), [refreshKey, isLoading]);
+  
+  // Custom aggStats with unique cards
+  const aggStats = useMemo(() => {
+    const stats = getAggregateStats();
+    const latestFsrsStates = fsrs._load();
+    const uniqueCardsCount = Object.keys(latestFsrsStates).length;
+    return { ...stats, uniqueCardsCount };
+  }, [refreshKey, isLoading]);
+
   const progress = useMemo(() => {
-    if (allCardsData.length === 0) return { minna: { total: 0, learned: 0, percent: 0 }, irodori: { total: 0, learned: 0, percent: 0 } };
+    if (!allCardsData || Object.keys(allCardsData).length === 0) return { minna: { total: 0, learned: 0, percent: 0 }, irodori: { total: 0, learned: 0, percent: 0 } };
     
     // Force load from localStorage to ensure we have the absolute latest data,
     // bypassing any module caching or hydration staleness issues.
@@ -182,14 +195,18 @@ export default function HistoryClient() {
           </div>
 
           {/* Aggregate Stats Row */}
-          <div className="history-agg-row">
+          <div className="history-agg-row" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(100px, 1fr))', gap: '12px' }}>
             <div className="history-agg-item">
               <div className="history-agg-value">{aggStats.totalSessions}</div>
               <div className="history-agg-label">Total Sesi</div>
             </div>
             <div className="history-agg-item">
-              <div className="history-agg-value">{aggStats.totalCards}</div>
+              <div className="history-agg-value">{aggStats.uniqueCardsCount}</div>
               <div className="history-agg-label">Total Kartu</div>
+            </div>
+            <div className="history-agg-item">
+              <div className="history-agg-value">{aggStats.totalCards}</div>
+              <div className="history-agg-label">Total Review</div>
             </div>
             <div className="history-agg-item">
               <div className="history-agg-value">{aggStats.totalMinutes}m</div>
@@ -412,22 +429,50 @@ export default function HistoryClient() {
                   </div>
 
                   {/* ── Irodori ── */}
-                  <div>
+                  <div style={{ marginBottom: '24px' }}>
                     <div style={{ fontSize: '1rem', fontWeight: 700, color: '#fff', marginBottom: '14px', display: 'flex', alignItems: 'center', gap: '8px' }}>
                       <span style={{ width: '10px', height: '10px', borderRadius: '3px', background: 'var(--accent-cyan)', display: 'inline-block' }}></span>
                       Irodori
                       <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)', fontWeight: 400 }}>
-                        ({progress.irodori.all.learned}/{progress.irodori.all.total})
+                        ({progress.irodori?.all?.learned || 0}/{progress.irodori?.all?.total || 0})
                       </span>
                     </div>
 
-                    <ProgressBar label="Wajib" data={progress.irodori.wajib} gradient="linear-gradient(90deg, #7dd3fc, #bae6fd)" />
-                    <ProgressBar label="Extra" data={progress.irodori.extra} gradient="linear-gradient(90deg, #6ee7b7, #a7f3d0)" />
-                    {progress.irodori.trash.total > 0 && (
+                    <ProgressBar label="Wajib" data={progress.irodori?.wajib || {total:0}} gradient="linear-gradient(90deg, #7dd3fc, #bae6fd)" />
+                    <ProgressBar label="Extra" data={progress.irodori?.extra || {total:0}} gradient="linear-gradient(90deg, #6ee7b7, #a7f3d0)" />
+                    {progress.irodori?.trash?.total > 0 && (
                       <ProgressBar label="Trash" data={progress.irodori.trash} gradient="linear-gradient(90deg, #6b7280, #9ca3af)" />
                     )}
-                    <ProgressBar label="Kanji" data={progress.irodori.kanji} gradient="linear-gradient(90deg, #fcd34d, #fde68a)" />
+                    <ProgressBar label="Kanji" data={progress.irodori?.kanji || {total:0}} gradient="linear-gradient(90deg, #fcd34d, #fde68a)" />
                   </div>
+
+                  {/* ── Kanji ── */}
+                  {progress.kanji?.all?.total > 0 && (
+                    <div style={{ marginBottom: '24px' }}>
+                      <div style={{ fontSize: '1rem', fontWeight: 700, color: '#fff', marginBottom: '14px', display: 'flex', alignItems: 'center', gap: '8px' }}>
+                        <span style={{ width: '10px', height: '10px', borderRadius: '3px', background: 'var(--accent-amber)', display: 'inline-block' }}></span>
+                        Kanji Deck
+                        <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)', fontWeight: 400 }}>
+                          ({progress.kanji.all.learned}/{progress.kanji.all.total})
+                        </span>
+                      </div>
+                      <ProgressBar label="Semua Level" data={progress.kanji.all} gradient="linear-gradient(90deg, #f59e0b, #fcd34d)" />
+                    </div>
+                  )}
+
+                  {/* ── Bunpou ── */}
+                  {progress.bunpou?.all?.total > 0 && (
+                    <div>
+                      <div style={{ fontSize: '1rem', fontWeight: 700, color: '#fff', marginBottom: '14px', display: 'flex', alignItems: 'center', gap: '8px' }}>
+                        <span style={{ width: '10px', height: '10px', borderRadius: '3px', background: 'var(--accent-emerald)', display: 'inline-block' }}></span>
+                        Tata Bahasa (Bunpou)
+                        <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)', fontWeight: 400 }}>
+                          ({progress.bunpou.all.learned}/{progress.bunpou.all.total})
+                        </span>
+                      </div>
+                      <ProgressBar label="Semua Bab" data={progress.bunpou.all} gradient="linear-gradient(90deg, #10b981, #6ee7b7)" />
+                    </div>
+                  )}
                 </div>
               </div>
             )}
