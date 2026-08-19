@@ -1,10 +1,19 @@
 [
   {
+    "id": "new-1787105085852",
+    "kanji": "",
+    "hiragana": "こうじょう",
+    "romaji": "koujou",
+    "meaning": "Pabrik",
+    "level": "-",
+    "importinity": 1
+  },
+  {
     "id": "mn-24-001",
     "kanji": "[お]菓子",
     "hiragana": "[お]かし",
     "romaji": "[o]kashi",
-    "meaning": "kue",
+    "meaning": "cemilan",
     "level": "N2",
     "importinity": 1,
     "chapter": "Bab 24"
@@ -63,8 +72,8 @@
     "id": "mn-24-007",
     "kanji": "案内します",
     "hiragana": "あんないしますⅢ",
-    "romaji": "annaishimasuⅢ",
-    "meaning": "mengantarkan",
+    "romaji": "annaishimasu",
+    "meaning": "Memandu, Menemani ",
     "level": "-",
     "importinity": 1,
     "chapter": "Bab 24"
@@ -164,7 +173,7 @@
     "kanji": "連れて 行きます",
     "hiragana": "つれて いきますⅠ",
     "romaji": "tsurete ikimasuⅠ",
-    "meaning": "membawa, mengajak pergi",
+    "meaning": "mengajak pergi",
     "level": "N3",
     "importinity": 1,
     "chapter": "Bab 24"
@@ -174,7 +183,7 @@
     "kanji": "連れて 来ます",
     "hiragana": "つれて きますⅢ",
     "romaji": "tsurete kimasuⅢ",
-    "meaning": "membawa datang, mengajak datang",
+    "meaning": "mengajak datang",
     "level": "N3",
     "importinity": 1,
     "chapter": "Bab 24"
