@@ -10,6 +10,7 @@ export const useStore = create(
       jlptFilter: 'all',    // 'all' | 'n5' | 'n4' | 'n3' | 'n2' | 'n1'
       studyMode: 1,         // 1-4
       soundEnabled: false,
+      showChapterBadge: true, // Show/hide chapter badge on flashcards
       jpFont: typeof window !== 'undefined' ? (localStorage.getItem('gw_jp_font') || '"Noto Sans JP", sans-serif') : '"Noto Sans JP", sans-serif',
       
       // Data
@@ -39,6 +40,7 @@ export const useStore = create(
       setJlptFilter: (filter) => set({ jlptFilter: filter }),
       setStudyMode: (mode) => set({ studyMode: mode }),
       toggleSound: () => set((state) => ({ soundEnabled: !state.soundEnabled })),
+      toggleChapterBadge: () => set((state) => ({ showChapterBadge: !state.showChapterBadge })),
       setJpFont: (font) => {
         if (typeof window !== 'undefined') localStorage.setItem('gw_jp_font', font);
         set({ jpFont: font });
@@ -52,6 +54,7 @@ export const useStore = create(
         jlptFilter: state.jlptFilter,
         studyMode: state.studyMode,
         soundEnabled: state.soundEnabled,
+        showChapterBadge: state.showChapterBadge,
       }),
     }
   )

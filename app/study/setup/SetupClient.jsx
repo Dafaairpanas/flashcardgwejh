@@ -5,6 +5,8 @@ import { useSearchParams, useRouter } from 'next/navigation';
 import { useStore } from '../../../src/store/useStore';
 import { initializeData, getChapterStats, chapterDisplayName, getCardsByChapters } from '../../../src/data';
 import { fsrs } from '../../../src/state';
+import jftKanjiData from '../../../src/data/renshuu/jfta2kanji.json';
+import irodoriExtraData from '../../../src/data/renshuu/irodori_extra.json';
 
 function SetupContent() {
   const searchParams = useSearchParams();
@@ -41,8 +43,88 @@ function SetupContent() {
   const soundEnabled = useStore((state) => state.soundEnabled);
   const toggleSound = useStore((state) => state.toggleSound);
 
+  const showChapterBadge = useStore((state) => state.showChapterBadge);
+  const toggleChapterBadge = useStore((state) => state.toggleChapterBadge);
+
   const setAllCards = useStore((state) => state.setAllCards);
   const setChapters = useStore((state) => state.setChapters);
+  
+  const setCustomCards = useStore((state) => state.setCustomCards);
+  const setCustomFsrs = useStore((state) => state.setCustomFsrs);
+
+  const [kanjiLimit, setKanjiLimit] = React.useState(50);
+  const [showJftModal, setShowJftModal] = React.useState(false);
+  const [jftStats, setJftStats] = React.useState(null);
+
+  const [irodoriLimit, setIrodoriLimit] = React.useState(50);
+  const [showIrodoriModal, setShowIrodoriModal] = React.useState(false);
+  const [irodoriStats, setIrodoriStats] = React.useState(null);
+  const [irodoriMode, setIrodoriMode] = React.useState(1); // 1: Kotoba, 2: Kanji, 3: Reverse
+  const [selectedIrodoriBatches, setSelectedIrodoriBatches] = React.useState([0]);
+
+  const irodoriTotalBatches = Math.ceil((irodoriExtraData?.length || 0) / 50);
+  const irodoriBatchOptions = Array.from({ length: irodoriTotalBatches }, (_, i) => i);
+  const selectedIrodoriCardsCount = useMemo(() => {
+    if (!irodoriExtraData) return 0;
+    return irodoriExtraData.filter((_, idx) => selectedIrodoriBatches.includes(Math.floor(idx / 50))).length;
+  }, [selectedIrodoriBatches]);
+
+  useEffect(() => {
+    if (irodoriLimit > selectedIrodoriCardsCount && selectedIrodoriCardsCount > 0) {
+      setIrodoriLimit(selectedIrodoriCardsCount);
+    }
+  }, [selectedIrodoriCardsCount, irodoriLimit]);
+
+  const toggleIrodoriBatch = (bIdx) => {
+    if (selectedIrodoriBatches.includes(bIdx)) {
+      setSelectedIrodoriBatches(prev => prev.filter(b => b !== bIdx));
+    } else {
+      setSelectedIrodoriBatches(prev => [...prev, bIdx]);
+    }
+  };
+
+  const startJftKanji = () => {
+    if (jftKanjiData && jftKanjiData.length > 0) {
+      const sortedQueue = fsrs.getSortedQueue(jftKanjiData);
+      const queueToStudy = sortedQueue.slice(0, kanjiLimit);
+      setCustomCards(queueToStudy);
+      setCustomFsrs(true);
+      setStudyMode(2);
+      router.push('/study');
+    } else {
+      alert("Data kanji tidak ditemukan!");
+    }
+  };
+
+  const startIrodoriExtra = () => {
+    if (irodoriExtraData && irodoriExtraData.length > 0) {
+      const pool = irodoriExtraData.filter((_, idx) => selectedIrodoriBatches.includes(Math.floor(idx / 50)));
+      if (pool.length === 0) {
+        alert("Pilih minimal satu batch!");
+        return;
+      }
+      const sortedQueue = fsrs.getSortedQueue(pool);
+      const queueToStudy = sortedQueue.slice(0, Math.min(irodoriLimit, pool.length));
+      setCustomCards(queueToStudy);
+      setCustomFsrs(true);
+      setStudyMode(irodoriMode);
+      router.push('/study');
+    } else {
+      alert("Data tidak ditemukan!");
+    }
+  };
+
+  const handleResetJft = () => {
+    const ids = jftKanjiData.map(c => c.id);
+    fsrs.resetCards(ids);
+    setJftStats(fsrs.getStats(jftKanjiData || [])); 
+  };
+
+  const handleResetIrodori = () => {
+    const ids = irodoriExtraData.map(c => c.id);
+    fsrs.resetCards(ids);
+    setIrodoriStats(fsrs.getStats(irodoriExtraData || []));
+  };
 
   // Initialize data from API
   useEffect(() => {
@@ -66,6 +148,7 @@ function SetupContent() {
   const chaptersToDisplay = useMemo(() => {
     if (filter === 'minna') return chapters.filter(ch => ch.startsWith('Bab'));
     if (filter === 'irodori') return chapters.filter(ch => ch.startsWith('ir') || ch.startsWith('Iro'));
+    if (filter === 'other') return [];
     return chapters;
   }, [chapters, filter]);
 
@@ -243,6 +326,21 @@ function SetupContent() {
               }}>
               Irodori
             </button>
+            <button 
+              onClick={() => router.push('/study/setup?filter=other')}
+              style={{
+                background: filter === 'other' ? 'rgba(255,255,255,0.15)' : 'transparent',
+                color: filter === 'other' ? '#fff' : 'var(--text-secondary)',
+                border: 'none',
+                padding: '6px 16px',
+                borderRadius: '16px',
+                fontSize: '0.9rem',
+                fontWeight: filter === 'other' ? 600 : 400,
+                cursor: 'pointer',
+                transition: 'all 0.2s'
+              }}>
+              Other
+            </button>
           </div>
           <button className="btn btn-ghost btn-icon" onClick={toggleSound} title={soundEnabled ? "Mute" : "Unmute"}>
             {soundEnabled ? (
@@ -273,8 +371,9 @@ function SetupContent() {
         <div className="view setup-view active" id="setup-view">
           <div className="bento-container">
             {/* Sidebar (Acts as Modal on Mobile) */}
-            <aside className={`bento-sidebar ${isMobileModalOpen ? 'modal-active' : ''}`}>
-              {/* Mobile Close Button */}
+            {filter !== 'other' && (
+              <aside className={`bento-sidebar ${isMobileModalOpen ? 'modal-active' : ''}`}>
+                {/* Mobile Close Button */}
               <div className="mobile-modal-header" style={{ display: 'none', justifyContent: 'space-between', alignItems: 'center', marginBottom: '20px' }}>
                 <h2 style={{ margin: 0, fontSize: '1.5rem' }}>Pengaturan</h2>
                 <button className="btn btn-ghost btn-icon" onClick={() => setIsMobileModalOpen(false)}>
@@ -309,11 +408,40 @@ function SetupContent() {
               {/* Study Mode */}
               <div className="bento-card bento-mode">
                 <div className="bento-header"><h3>Study Mode</h3></div>
-                <div className="filter-group-wrap">
+                <div className="filter-group-wrap" style={{ marginBottom: '12px' }}>
                   <button className={`filter-btn-sm ${studyMode === 1 ? 'active' : ''}`} onClick={() => setStudyMode(1)}>Standard</button>
                   <button className={`filter-btn-sm ${studyMode === 2 ? 'active' : ''}`} onClick={() => setStudyMode(2)}>Kanji</button>
                   <button className={`filter-btn-sm ${studyMode === 3 ? 'active' : ''}`} onClick={() => setStudyMode(3)}>Reverse</button>
                   <button className={`filter-btn-sm ${studyMode === 4 ? 'active' : ''}`} onClick={() => setStudyMode(4)}>Audio</button>
+                </div>
+                
+                {/* Tampilkan Bab Switch (Full width below mode buttons) */}
+                <div style={{ 
+                  display: 'flex', alignItems: 'center', justifyContent: 'space-between', 
+                  padding: '12px', background: 'rgba(0,0,0,0.2)', borderRadius: '12px',
+                  border: '1px solid rgba(255,255,255,0.05)'
+                }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                    <svg viewBox="0 0 24 24" fill="none" stroke="var(--text-secondary)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ width: '16px', height: '16px' }}>
+                      <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
+                      <polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
+                      <line x1="12" y1="22.08" x2="12" y2="12"></line>
+                    </svg>
+                    <span style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--text-secondary)' }}>Tampilkan Label Bab</span>
+                  </div>
+                  <label style={{ display: 'flex', alignItems: 'center', cursor: 'pointer' }}>
+                    <input type="checkbox" checked={showChapterBadge} onChange={toggleChapterBadge} style={{ display: 'none' }} />
+                    <div style={{
+                      width: '36px', height: '20px', background: showChapterBadge ? 'var(--color-primary)' : 'rgba(255,255,255,0.1)',
+                      borderRadius: '10px', position: 'relative', transition: 'all 0.3s',
+                      boxShadow: showChapterBadge ? '0 0 10px rgba(168, 85, 247, 0.4)' : 'none'
+                    }}>
+                      <div style={{
+                        width: '14px', height: '14px', background: '#fff', borderRadius: '50%',
+                        position: 'absolute', top: '3px', left: showChapterBadge ? '19px' : '3px', transition: 'all 0.3s'
+                      }}></div>
+                    </div>
+                  </label>
                 </div>
               </div>
 
@@ -324,6 +452,7 @@ function SetupContent() {
                 </button>
               </div>
             </aside>
+            )}
 
             {/* Main Content */}
             <main className="bento-main">
@@ -359,9 +488,25 @@ function SetupContent() {
                   }}>
                   Irodori
                 </button>
+                <button 
+                  onClick={() => router.push('/study/setup?filter=other')}
+                  style={{
+                    background: filter === 'other' ? 'rgba(255,255,255,0.15)' : 'transparent',
+                    color: filter === 'other' ? '#fff' : 'var(--text-secondary)',
+                    border: 'none',
+                    padding: '6px 20px',
+                    borderRadius: '16px',
+                    fontSize: '0.95rem',
+                    fontWeight: filter === 'other' ? 600 : 400,
+                    cursor: 'pointer',
+                    transition: 'all 0.2s'
+                  }}>
+                  Other
+                </button>
               </div>
-              <div className="bento-stats-row">
-                <div className="bento-card stat-item-card">
+              {filter !== 'other' && (
+                <div className="bento-stats-row">
+                  <div className="bento-card stat-item-card">
                   <div className="stat-value text-cyan">{stats.total}</div>
                   <div className="stat-label">TOTAL CARDS</div>
                 </div>
@@ -383,15 +528,77 @@ function SetupContent() {
                   <div className="stat-label">HISTORY</div>
                 </div>
               </div>
+              )}
 
               <div className="bento-card bento-chapters">
                 <div className="bento-header">
                   <h3>Library Select</h3>
-                  <span className="badge">{selectedChapters.length} Selected</span>
+                  {filter !== 'other' && <span className="badge">{selectedChapters.length} Selected</span>}
                 </div>
                 <div style={{ overflowY: 'auto', display: 'flex', flexDirection: 'column', gap: '12px', paddingRight: '4px', marginBottom: '16px', minHeight: 0 }}>
-                  {groupedChapters.map((group, gIdx) => (
-                    <div key={gIdx} style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+                  {filter === 'other' ? (
+                    <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(250px, 1fr))', gap: '16px', padding: '8px' }}>
+                      <div className="bento-card" style={{ 
+                        padding: '24px', display: 'flex', flexDirection: 'column', gap: '16px', 
+                        alignItems: 'center', textAlign: 'center', background: 'rgba(255,255,255,0.02)',
+                        border: '1px solid rgba(255,255,255,0.05)'
+                      }}>
+                        <div style={{ fontSize: '32px', fontWeight: '400', fontFamily: 'var(--font-jp)', color: 'var(--text-primary)' }}>
+                          漢字
+                        </div>
+                        <div>
+                          <h3 style={{ fontSize: '1.1rem', margin: '0 0 4px 0', fontWeight: 700, color: 'var(--text-primary)' }}>JFT A2 Kanji</h3>
+                          <p style={{ color: 'var(--text-secondary)', fontSize: '0.8rem', margin: 0 }}>Latihan {jftKanjiData ? jftKanjiData.length : 0} Kanji khusus.</p>
+                        </div>
+                        <button 
+                          onClick={() => {
+                            const stats = fsrs.getStats(jftKanjiData || []);
+                            setJftStats(stats);
+                            setShowJftModal(true);
+                          }}
+                          className="btn"
+                          style={{ 
+                            width: '100%', padding: '10px', fontSize: '0.9rem', fontWeight: 600, 
+                            background: 'var(--color-primary)', color: '#ffffff', border: 'none', 
+                            borderRadius: '12px', cursor: 'pointer'
+                          }}
+                        >
+                          Mulai Latihan
+                        </button>
+                      </div>
+                      
+                      <div className="bento-card" style={{ 
+                        padding: '24px', display: 'flex', flexDirection: 'column', gap: '16px', 
+                        alignItems: 'center', textAlign: 'center', background: 'rgba(255,255,255,0.02)',
+                        border: '1px solid rgba(255,255,255,0.05)'
+                      }}>
+                        <div style={{ fontSize: '32px', fontWeight: '400', fontFamily: 'var(--font-jp)', color: 'var(--text-primary)' }}>
+                          語彙
+                        </div>
+                        <div>
+                          <h3 style={{ fontSize: '1.1rem', margin: '0 0 4px 0', fontWeight: 700, color: 'var(--text-primary)' }}>Minna Extra Irodori</h3>
+                          <p style={{ color: 'var(--text-secondary)', fontSize: '0.8rem', margin: 0 }}>Latihan {irodoriExtraData ? irodoriExtraData.length : 0} kosakata tambahan.</p>
+                        </div>
+                        <button 
+                          onClick={() => {
+                            const stats = fsrs.getStats(irodoriExtraData || []);
+                            setIrodoriStats(stats);
+                            setShowIrodoriModal(true);
+                          }}
+                          className="btn"
+                          style={{ 
+                            width: '100%', padding: '10px', fontSize: '0.9rem', fontWeight: 600, 
+                            background: 'var(--color-primary)', color: '#ffffff', border: 'none', 
+                            borderRadius: '12px', cursor: 'pointer'
+                          }}
+                        >
+                          Mulai Latihan
+                        </button>
+                      </div>
+                    </div>
+                  ) : (
+                    groupedChapters.map((group, gIdx) => (
+                      <div key={gIdx} style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
                       {group.name && (
                         <div style={{ fontSize: '0.8rem', fontWeight: 600, color: 'var(--text-muted)', borderBottom: '1px solid rgba(255,255,255,0.05)', paddingBottom: '4px', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
                           {group.name}
@@ -426,12 +633,12 @@ function SetupContent() {
                         })}
                       </div>
                     </div>
-                  ))}
+                  )))}
                 </div>
               </div>
               
               {/* Mobile Next Button */}
-              <div className="mobile-setup-bar" style={{ marginTop: '24px', position: 'sticky', bottom: '24px', zIndex: 10 }}>
+              <div className="mobile-setup-bar mobile-only" style={{ display: filter === 'other' ? 'none' : 'block', marginTop: '24px', position: 'sticky', bottom: '24px', zIndex: 10 }}>
                 <button 
                   className="btn btn-primary" 
                   style={{ width: '100%', padding: '16px', fontSize: '1.1rem', boxShadow: '0 10px 25px rgba(168, 85, 247, 0.4)' }}
@@ -444,6 +651,325 @@ function SetupContent() {
             </main>
           </div>
         </div>
+
+        {/* Modal Pengaturan Latihan JFT */}
+        {showJftModal && (
+          <div style={{
+            position: 'fixed',
+            top: 0, left: 0, right: 0, bottom: 0,
+            background: 'rgba(0,0,0,0.6)',
+            backdropFilter: 'blur(4px)',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            zIndex: 1000,
+            padding: '20px'
+          }} onClick={() => setShowJftModal(false)}>
+            <div style={{
+              background: 'var(--bg-glass)',
+              border: '1px solid var(--border-glass)',
+              padding: '24px',
+              borderRadius: '24px',
+              width: '90%',
+              maxWidth: '400px',
+              maxHeight: '90vh',
+              overflowY: 'auto',
+              boxShadow: '0 20px 40px rgba(0,0,0,0.4)',
+            }} onClick={e => e.stopPropagation()}>
+              
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '20px' }}>
+                <h3 style={{ fontSize: '1.25rem', margin: 0, fontWeight: 700, color: 'var(--text-primary)' }}>Pengaturan Latihan</h3>
+                <button 
+                  onClick={() => setShowJftModal(false)}
+                  style={{ background: 'none', border: 'none', color: 'var(--text-muted)', cursor: 'pointer', padding: '4px' }}
+                >
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{width: '24px', height: '24px'}}><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+                </button>
+              </div>
+
+              {jftStats && (
+                <div style={{ background: 'rgba(0,0,0,0.2)', padding: '16px', borderRadius: '16px', marginBottom: '24px', textAlign: 'center' }}>
+                  <p style={{ color: 'var(--text-muted)', fontSize: '0.85rem', margin: '0 0 4px 0' }}>Progress Hafalan</p>
+                  <div style={{ fontSize: '1.5rem', fontWeight: '700', color: 'var(--text-primary)' }}>
+                    <span style={{ color: 'var(--color-primary)' }}>{jftStats.reviewCount}</span> 
+                    <span style={{ fontSize: '1rem', color: 'var(--text-muted)', margin: '0 4px' }}>/</span> 
+                    <span style={{ fontSize: '1.2rem' }}>{jftStats.total}</span>
+                  </div>
+                  <p style={{ color: 'var(--text-muted)', fontSize: '0.75rem', marginTop: '4px', marginBottom: 0 }}>Kanji telah dikuasai</p>
+                </div>
+              )}
+
+              <div style={{ width: '100%', marginBottom: '24px' }}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '12px' }}>
+                  <span style={{ fontSize: '0.9rem', fontWeight: 600, color: 'var(--text-secondary)' }}>Show Label</span>
+                </div>
+                <div style={{ 
+                  display: 'flex', alignItems: 'center', justifyContent: 'space-between', 
+                  padding: '12px', background: 'rgba(0,0,0,0.2)', borderRadius: '12px',
+                  border: '1px solid rgba(255,255,255,0.05)', marginBottom: '24px'
+                }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                    <svg viewBox="0 0 24 24" fill="none" stroke="var(--text-secondary)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ width: '16px', height: '16px' }}>
+                      <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
+                      <polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
+                      <line x1="12" y1="22.08" x2="12" y2="12"></line>
+                    </svg>
+                    <span style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--text-secondary)' }}>Tampilkan Label Bab</span>
+                  </div>
+                  <label style={{ display: 'flex', alignItems: 'center', cursor: 'pointer' }}>
+                    <input type="checkbox" checked={showChapterBadge} onChange={toggleChapterBadge} style={{ display: 'none' }} />
+                    <div style={{
+                      width: '36px', height: '20px', background: showChapterBadge ? 'var(--color-primary)' : 'rgba(255,255,255,0.1)',
+                      borderRadius: '10px', position: 'relative', transition: 'all 0.3s',
+                      boxShadow: showChapterBadge ? '0 0 10px rgba(168, 85, 247, 0.4)' : 'none'
+                    }}>
+                      <div style={{
+                        width: '14px', height: '14px', background: '#fff', borderRadius: '50%',
+                        position: 'absolute', top: '3px', left: showChapterBadge ? '19px' : '3px', transition: 'all 0.3s'
+                      }}></div>
+                    </div>
+                  </label>
+                </div>
+                <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px', fontSize: '0.9rem', fontWeight: 600, color: 'var(--text-secondary)' }}>
+                  <span>Jumlah Kartu per Sesi</span>
+                  <span style={{ color: 'var(--text-primary)' }}>{kanjiLimit}</span>
+                </div>
+                <input 
+                  type="range" 
+                  min="1" 
+                  max={jftKanjiData ? jftKanjiData.length : 1} 
+                  value={kanjiLimit} 
+                  onChange={(e) => setKanjiLimit(Number(e.target.value))}
+                  style={{ width: '100%', accentColor: 'var(--color-primary)' }}
+                />
+              </div>
+
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
+                <button 
+                  onClick={startJftKanji}
+                  className="btn"
+                  style={{ 
+                    width: '100%', padding: '14px', fontSize: '1rem', fontWeight: 600, 
+                    background: 'var(--color-primary)', color: '#ffffff', border: 'none', 
+                    borderRadius: '12px', cursor: 'pointer', transition: 'transform 0.1s, opacity 0.2s'
+                  }}
+                  onMouseOver={(e) => e.currentTarget.style.opacity = '0.9'}
+                  onMouseOut={(e) => e.currentTarget.style.opacity = '1'}
+                  onMouseDown={(e) => e.currentTarget.style.transform = 'scale(0.98)'}
+                  onMouseUp={(e) => e.currentTarget.style.transform = 'scale(1)'}
+                >
+                  Mulai Sekarang
+                </button>
+                
+                <button 
+                  onClick={handleResetJft}
+                  style={{ 
+                    width: '100%', padding: '12px', fontSize: '0.85rem', fontWeight: 600, 
+                    background: 'transparent', border: '1px solid rgba(239, 68, 68, 0.3)', color: '#ef4444', 
+                    borderRadius: '12px', cursor: 'pointer', display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '6px'
+                  }}
+                >
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{width: '14px', height: '14px'}}><path d="M3 2v6h6"></path><path d="M3 13a9 9 0 1 0 3-7.7L3 8"></path></svg>
+                  Reset Progress
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* Modal Pengaturan Latihan Minna Extra Irodori */}
+        {showIrodoriModal && (
+          <div style={{
+            position: 'fixed',
+            top: 0, left: 0, right: 0, bottom: 0,
+            background: 'rgba(0,0,0,0.6)',
+            backdropFilter: 'blur(4px)',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            zIndex: 1000,
+            padding: '20px'
+          }} onClick={() => setShowIrodoriModal(false)}>
+            <div style={{
+              background: 'var(--bg-glass)',
+              border: '1px solid var(--border-glass)',
+              padding: '24px',
+              borderRadius: '24px',
+              width: '90%',
+              maxWidth: '480px',
+              maxHeight: '90vh',
+              overflowY: 'auto',
+              boxShadow: '0 20px 40px rgba(0,0,0,0.4)',
+            }} onClick={e => e.stopPropagation()}>
+              
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '20px' }}>
+                <h3 style={{ fontSize: '1.25rem', margin: 0, fontWeight: 700, color: 'var(--text-primary)' }}>Minna Extra Irodori</h3>
+                <button 
+                  onClick={() => setShowIrodoriModal(false)}
+                  style={{ background: 'none', border: 'none', color: 'var(--text-muted)', cursor: 'pointer', padding: '4px' }}
+                >
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{width: '24px', height: '24px'}}><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+                </button>
+              </div>
+
+              {irodoriStats && (
+                <div style={{ background: 'rgba(0,0,0,0.2)', padding: '16px', borderRadius: '16px', marginBottom: '24px', textAlign: 'center' }}>
+                  <p style={{ color: 'var(--text-muted)', fontSize: '0.85rem', margin: '0 0 4px 0' }}>Progress Hafalan</p>
+                  <div style={{ fontSize: '1.5rem', fontWeight: '700', color: 'var(--text-primary)' }}>
+                    <span style={{ color: 'var(--color-primary)' }}>{irodoriStats.reviewCount}</span> 
+                    <span style={{ fontSize: '1rem', color: 'var(--text-muted)', margin: '0 4px' }}>/</span> 
+                    <span style={{ fontSize: '1.2rem' }}>{irodoriStats.total}</span>
+                  </div>
+                  <p style={{ color: 'var(--text-muted)', fontSize: '0.75rem', marginTop: '4px', marginBottom: 0 }}>Kosakata telah dikuasai</p>
+                </div>
+              )}
+
+              <div style={{ width: '100%', marginBottom: '20px' }}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                  <span style={{ fontSize: '0.95rem', fontWeight: 600, color: 'var(--text-secondary)' }}>Batch (Per 50 Kosakata)</span>
+                  <div style={{ display: 'flex', gap: '4px', background: 'rgba(255,255,255,0.05)', borderRadius: '8px', padding: '2px' }}>
+                    <button onClick={() => setSelectedIrodoriBatches(irodoriBatchOptions)} style={{ background: selectedIrodoriBatches.length === irodoriBatchOptions.length ? 'rgba(255,255,255,0.1)' : 'transparent', border: 'none', color: selectedIrodoriBatches.length === irodoriBatchOptions.length ? '#fff' : 'var(--text-muted)', fontSize: '0.75rem', padding: '4px 8px', borderRadius: '6px', cursor: 'pointer', transition: 'all 0.2s' }}>Semua</button>
+                    <button onClick={() => setSelectedIrodoriBatches([])} style={{ background: selectedIrodoriBatches.length === 0 ? 'rgba(255,255,255,0.1)' : 'transparent', border: 'none', color: selectedIrodoriBatches.length === 0 ? '#fff' : 'var(--text-muted)', fontSize: '0.75rem', padding: '4px 8px', borderRadius: '6px', cursor: 'pointer', transition: 'all 0.2s' }}>Reset</button>
+                  </div>
+                </div>
+                
+                <div style={{ 
+                  display: 'grid', 
+                  gridTemplateColumns: 'repeat(auto-fill, minmax(55px, 1fr))', 
+                  gap: '8px', 
+                  maxHeight: '180px', 
+                  overflowY: 'auto', 
+                  marginTop: '12px',
+                  paddingRight: '4px'
+                }}>
+                  {irodoriBatchOptions.map(bIdx => {
+                    const isSelected = selectedIrodoriBatches.includes(bIdx);
+                    return (
+                      <div 
+                        key={bIdx}
+                        onClick={() => toggleIrodoriBatch(bIdx)}
+                        className={`chapter-chip ${isSelected ? 'selected' : ''}`}
+                        style={{ padding: '8px 4px', fontSize: '0.85rem' }}
+                      >
+                        B-{bIdx + 1}
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+
+              <div style={{ width: '100%', marginBottom: '20px' }}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '12px' }}>
+                  <span style={{ fontSize: '0.9rem', fontWeight: 600, color: 'var(--text-secondary)' }}>Study Mode</span>
+                </div>
+                <div style={{ display: 'flex', gap: '8px', background: 'rgba(0,0,0,0.2)', padding: '4px', borderRadius: '12px', marginBottom: '12px' }}>
+                  <button 
+                    onClick={() => setIrodoriMode(1)}
+                    style={{ flex: 1, padding: '8px', borderRadius: '8px', border: 'none', fontSize: '0.85rem', fontWeight: 600, cursor: 'pointer',
+                      background: irodoriMode === 1 ? 'rgba(255,255,255,0.15)' : 'transparent',
+                      color: irodoriMode === 1 ? '#fff' : 'var(--text-secondary)',
+                      transition: 'all 0.2s'
+                    }}>
+                    Kotoba
+                  </button>
+                  <button 
+                    onClick={() => setIrodoriMode(2)}
+                    style={{ flex: 1, padding: '8px', borderRadius: '8px', border: 'none', fontSize: '0.85rem', fontWeight: 600, cursor: 'pointer',
+                      background: irodoriMode === 2 ? 'rgba(255,255,255,0.15)' : 'transparent',
+                      color: irodoriMode === 2 ? '#fff' : 'var(--text-secondary)',
+                      transition: 'all 0.2s'
+                    }}>
+                    Kanji
+                  </button>
+                  <button 
+                    onClick={() => setIrodoriMode(3)}
+                    style={{ flex: 1, padding: '8px', borderRadius: '8px', border: 'none', fontSize: '0.85rem', fontWeight: 600, cursor: 'pointer',
+                      background: irodoriMode === 3 ? 'rgba(255,255,255,0.15)' : 'transparent',
+                      color: irodoriMode === 3 ? '#fff' : 'var(--text-secondary)',
+                      transition: 'all 0.2s'
+                    }}>
+                    Reverse
+                  </button>
+                </div>
+
+                {/* Tampilkan Bab Switch */}
+                <div style={{ 
+                  display: 'flex', alignItems: 'center', justifyContent: 'space-between', 
+                  padding: '12px', background: 'rgba(0,0,0,0.2)', borderRadius: '12px',
+                  border: '1px solid rgba(255,255,255,0.05)'
+                }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                    <svg viewBox="0 0 24 24" fill="none" stroke="var(--text-secondary)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ width: '16px', height: '16px' }}>
+                      <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
+                      <polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
+                      <line x1="12" y1="22.08" x2="12" y2="12"></line>
+                    </svg>
+                    <span style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--text-secondary)' }}>Tampilkan Label Bab</span>
+                  </div>
+                  <label style={{ display: 'flex', alignItems: 'center', cursor: 'pointer' }}>
+                    <input type="checkbox" checked={showChapterBadge} onChange={toggleChapterBadge} style={{ display: 'none' }} />
+                    <div style={{
+                      width: '36px', height: '20px', background: showChapterBadge ? 'var(--color-primary)' : 'rgba(255,255,255,0.1)',
+                      borderRadius: '10px', position: 'relative', transition: 'all 0.3s',
+                      boxShadow: showChapterBadge ? '0 0 10px rgba(168, 85, 247, 0.4)' : 'none'
+                    }}>
+                      <div style={{
+                        width: '14px', height: '14px', background: '#fff', borderRadius: '50%',
+                        position: 'absolute', top: '3px', left: showChapterBadge ? '19px' : '3px', transition: 'all 0.3s'
+                      }}></div>
+                    </div>
+                  </label>
+                </div>
+              </div>
+
+              <div style={{ width: '100%', marginBottom: '24px' }}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px', fontSize: '0.9rem', fontWeight: 600, color: 'var(--text-secondary)' }}>
+                  <span>Jumlah Kartu per Sesi</span>
+                  <span style={{ color: 'var(--text-primary)' }}>{selectedIrodoriCardsCount === 0 ? 0 : irodoriLimit} <span style={{ color: 'var(--text-muted)', fontSize: '0.8rem', fontWeight: 400 }}>/ {selectedIrodoriCardsCount}</span></span>
+                </div>
+                <input 
+                  type="range" 
+                  min="1" 
+                  max={selectedIrodoriCardsCount || 1} 
+                  value={irodoriLimit} 
+                  onChange={(e) => setIrodoriLimit(Number(e.target.value))}
+                  style={{ width: '100%', accentColor: 'var(--color-primary)' }}
+                  disabled={selectedIrodoriCardsCount === 0}
+                />
+              </div>
+
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
+                <button 
+                  onClick={startIrodoriExtra}
+                  className="btn"
+                  style={{ 
+                    width: '100%', padding: '14px', fontSize: '1rem', fontWeight: 600, 
+                    background: 'var(--color-primary)', color: '#ffffff', border: 'none', 
+                    borderRadius: '12px', cursor: 'pointer', transition: 'transform 0.1s, opacity 0.2s'
+                  }}
+                  onMouseOver={(e) => e.currentTarget.style.opacity = '0.9'}
+                  onMouseOut={(e) => e.currentTarget.style.opacity = '1'}
+                  onMouseDown={(e) => e.currentTarget.style.transform = 'scale(0.98)'}
+                  onMouseUp={(e) => e.currentTarget.style.transform = 'scale(1)'}
+                >
+                  Mulai Sekarang
+                </button>
+                
+                <button 
+                  onClick={handleResetIrodori}
+                  style={{ 
+                    width: '100%', padding: '12px', fontSize: '0.85rem', fontWeight: 600, 
+                    background: 'transparent', border: '1px solid rgba(239, 68, 68, 0.3)', color: '#ef4444', 
+                    borderRadius: '12px', cursor: 'pointer', display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '6px'
+                  }}
+                >
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{width: '14px', height: '14px'}}><path d="M3 2v6h6"></path><path d="M3 13a9 9 0 1 0 3-7.7L3 8"></path></svg>
+                  Reset Progress
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
       </main>
     </div>
   );

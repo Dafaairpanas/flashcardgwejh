@@ -30,6 +30,7 @@ export default function StudyView() {
   const jlptFilter = useStore((state) => state.jlptFilter);
   const studyMode = useStore((state) => state.studyMode);
   const soundEnabled = useStore((state) => state.soundEnabled);
+  const showChapterBadge = useStore((state) => state.showChapterBadge);
   const toggleSound = useStore((state) => state.toggleSound);
   const setSessionResult = useStore((state) => state.setSessionResult);
   
@@ -374,7 +375,9 @@ export default function StudyView() {
                 )}
               </div>
               {/* Single chapter tag — always visible, not duplicated */}
-              <div className="card-chapter-tag">{currentCard.chapter}</div>
+              {showChapterBadge && (
+                <div className="card-chapter-tag">{currentCard.chapter}</div>
+              )}
             </div>
           </div>
 
