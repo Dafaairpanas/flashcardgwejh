@@ -423,9 +423,8 @@ function SetupContent() {
                 }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
                     <svg viewBox="0 0 24 24" fill="none" stroke="var(--text-secondary)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ width: '16px', height: '16px' }}>
-                      <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
-                      <polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
-                      <line x1="12" y1="22.08" x2="12" y2="12"></line>
+                      <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                      <circle cx="12" cy="12" r="3"></circle>
                     </svg>
                     <span style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--text-secondary)' }}>Tampilkan Label Bab</span>
                   </div>
@@ -535,6 +534,35 @@ function SetupContent() {
                   <h3>Library Select</h3>
                   {filter !== 'other' && <span className="badge">{selectedChapters.length} Selected</span>}
                 </div>
+                {filter === 'minna' && (
+                  <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px', marginBottom: '12px' }}>
+                    <button className="btn btn-ghost btn-sm" onClick={() => {
+                      const range = Array.from({length: 10}, (_, i) => `Bab${(i+1).toString().padStart(2, '0')}`);
+                      setSelectedChapters(range.filter(ch => chaptersToDisplay.includes(ch)));
+                    }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>1-10</button>
+                    <button className="btn btn-ghost btn-sm" onClick={() => {
+                      const range = Array.from({length: 15}, (_, i) => `Bab${(i+11).toString().padStart(2, '0')}`);
+                      setSelectedChapters(range.filter(ch => chaptersToDisplay.includes(ch)));
+                    }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>11-25</button>
+                    <button className="btn btn-ghost btn-sm" onClick={() => {
+                      const range = Array.from({length: 25}, (_, i) => `Bab${(i+1).toString().padStart(2, '0')}`);
+                      setSelectedChapters(range.filter(ch => chaptersToDisplay.includes(ch)));
+                    }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>1-25</button>
+                    <button className="btn btn-ghost btn-sm" onClick={() => {
+                      const range = Array.from({length: 12}, (_, i) => `Bab${(i+26).toString().padStart(2, '0')}`);
+                      setSelectedChapters(range.filter(ch => chaptersToDisplay.includes(ch)));
+                    }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>26-37</button>
+                    <button className="btn btn-ghost btn-sm" onClick={() => {
+                      const range = Array.from({length: 13}, (_, i) => `Bab${(i+38).toString().padStart(2, '0')}`);
+                      setSelectedChapters(range.filter(ch => chaptersToDisplay.includes(ch)));
+                    }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>38-50</button>
+                    <button className="btn btn-ghost btn-sm" onClick={() => {
+                      const range = Array.from({length: 50}, (_, i) => `Bab${(i+1).toString().padStart(2, '0')}`);
+                      setSelectedChapters(range.filter(ch => chaptersToDisplay.includes(ch)));
+                    }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>1-50</button>
+                    <button className="btn btn-ghost btn-sm" onClick={handleClearAll} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(239, 68, 68, 0.1)', color: '#ef4444', borderRadius: '12px', border: '1px solid rgba(239, 68, 68, 0.2)', cursor: 'pointer' }}>Clear</button>
+                  </div>
+                )}
                 <div style={{ overflowY: 'auto', display: 'flex', flexDirection: 'column', gap: '12px', paddingRight: '4px', marginBottom: '16px', minHeight: 0 }}>
                   {filter === 'other' ? (
                     <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(250px, 1fr))', gap: '16px', padding: '8px' }}>
@@ -710,9 +738,8 @@ function SetupContent() {
                 }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
                     <svg viewBox="0 0 24 24" fill="none" stroke="var(--text-secondary)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ width: '16px', height: '16px' }}>
-                      <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
-                      <polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
-                      <line x1="12" y1="22.08" x2="12" y2="12"></line>
+                      <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                      <circle cx="12" cy="12" r="3"></circle>
                     </svg>
                     <span style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--text-secondary)' }}>Tampilkan Label Bab</span>
                   </div>
@@ -900,9 +927,8 @@ function SetupContent() {
                 }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
                     <svg viewBox="0 0 24 24" fill="none" stroke="var(--text-secondary)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ width: '16px', height: '16px' }}>
-                      <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
-                      <polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
-                      <line x1="12" y1="22.08" x2="12" y2="12"></line>
+                      <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                      <circle cx="12" cy="12" r="3"></circle>
                     </svg>
                     <span style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--text-secondary)' }}>Tampilkan Label Bab</span>
                   </div>
