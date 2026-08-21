@@ -408,5 +408,225 @@
     "level": "N3",
     "importinity": 2,
     "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-042",
+    "kanji": "参加します",
+    "hiragana": "さんかします",
+    "romaji": "sankashimasu",
+    "meaning": "ikut serta",
+    "level": "N3",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-043",
+    "kanji": "パーティー",
+    "hiragana": "パーティー",
+    "romaji": "paatii",
+    "meaning": "pesta",
+    "level": "N5",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-044",
+    "kanji": "乾杯する",
+    "hiragana": "かんぱいする",
+    "romaji": "kanpai suru",
+    "meaning": "bersulang / tos",
+    "level": "N3",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-045",
+    "kanji": "広場",
+    "hiragana": "ひろば",
+    "romaji": "hiroba",
+    "meaning": "lapangan",
+    "level": "N3",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-046",
+    "kanji": "妊娠する",
+    "hiragana": "にんしんする",
+    "romaji": "ninshin suru",
+    "meaning": "hamil",
+    "level": "N2",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-047",
+    "kanji": "出産する",
+    "hiragana": "しゅっさんする",
+    "romaji": "shussan suru",
+    "meaning": "melahirkan",
+    "level": "N2",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-048",
+    "kanji": "生まれる",
+    "hiragana": "うまれる",
+    "romaji": "umareru",
+    "meaning": "lahir / telah lahir",
+    "level": "N5",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-049",
+    "kanji": "合格",
+    "hiragana": "ごうかく",
+    "romaji": "goukaku",
+    "meaning": "lulus",
+    "level": "N3",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-050",
+    "kanji": "美しい",
+    "hiragana": "うつくしい",
+    "romaji": "utsukushii",
+    "meaning": "indah",
+    "level": "N3",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-051",
+    "kanji": "嬉しい",
+    "hiragana": "うれしい",
+    "romaji": "ureshii",
+    "meaning": "senang",
+    "level": "N3",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-052",
+    "kanji": "幸せ",
+    "hiragana": "しあわせ",
+    "romaji": "shiawase",
+    "meaning": "senang / bahagia",
+    "level": "N3",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-053",
+    "kanji": "お祝い",
+    "hiragana": "おいわい",
+    "romaji": "oiwai",
+    "meaning": "perayaan",
+    "level": "N4",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-054",
+    "kanji": "可愛い",
+    "hiragana": "かわいい",
+    "romaji": "kawaii",
+    "meaning": "sayang kepada orang cantik / seseorang (imut)",
+    "level": "N5",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-055",
+    "kanji": "怖い",
+    "hiragana": "こわい",
+    "romaji": "kowai",
+    "meaning": "takut",
+    "level": "N4",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-056",
+    "kanji": "調理する",
+    "hiragana": "ちょうりする",
+    "romaji": "chouri suru",
+    "meaning": "memasak",
+    "level": "N3",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-057",
+    "kanji": "ダイエットする",
+    "hiragana": "ダイエットする",
+    "romaji": "daietto suru",
+    "meaning": "diet",
+    "level": "N3",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-058",
+    "kanji": "結構",
+    "hiragana": "けっこう",
+    "romaji": "kekkou",
+    "meaning": "cukup",
+    "level": "N4",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-059",
+    "kanji": "プレゼント",
+    "hiragana": "プレゼント",
+    "romaji": "purezento",
+    "meaning": "hadiah",
+    "level": "N5",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-060",
+    "kanji": "貯金する",
+    "hiragana": "ちょきんする",
+    "romaji": "chokin suru",
+    "meaning": "menabung",
+    "level": "N4",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-061",
+    "kanji": "遅れます",
+    "hiragana": "おくれます",
+    "romaji": "okuremasu",
+    "meaning": "terlambat (jadwal)",
+    "level": "N5",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-062",
+    "kanji": "遅刻する",
+    "hiragana": "ちこくする",
+    "romaji": "chikoku suru",
+    "meaning": "terlambat (kehadiran)",
+    "level": "N4",
+    "importinity": 2,
+    "chapter": "Bab 25"
+  },
+  {
+    "id": "mn-25-063",
+    "kanji": "遅くなる",
+    "hiragana": "おそくなる",
+    "romaji": "osoku naru",
+    "meaning": "terlambat (menjadi larut)",
+    "level": "N5",
+    "importinity": 2,
+    "chapter": "Bab 25"
   }
 ]
