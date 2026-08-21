@@ -56,7 +56,7 @@
     "romaji": "edoyasutoa",
     "meaning": "toko fiksi",
     "level": "-",
-    "importinity": 1,
+    "importinity": 3,
     "chapter": "Bab 26"
   },
   {
@@ -344,7 +344,7 @@
     "kanji": "診ます",
     "hiragana": "みます",
     "romaji": "mimasu",
-    "meaning": "melihat, MEMERIKSA",
+    "meaning": "Memeriksa",
     "level": "-",
     "importinity": 1,
     "chapter": "Bab 26"
@@ -356,7 +356,7 @@
     "romaji": "hoshideakihiko",
     "meaning": "astronot Jepang (1968-)",
     "level": "-",
-    "importinity": 1,
+    "importinity": 3,
     "chapter": "Bab 26"
   },
   {
@@ -461,7 +461,7 @@
   },
   {
     "id": "mn-26-047",
-    "kanji": "盆踊り",
+    "kanji": "",
     "hiragana": "ぼんおどり",
     "romaji": "bon'odori",
     "meaning": "tarian Bon",
