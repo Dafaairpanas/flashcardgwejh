@@ -14,10 +14,11 @@ export async function fetchAllCards() {
   const dataDir = path.join(process.cwd(), 'src', 'data');
   let allCards = [];
 
-  // ═══ Minna no Nihongo (50 chapters) ═══
+  // ═══ Minna no Nihongo (51 chapters, where 51 is Extra) ═══
   const minnaDir = path.join(dataDir, 'minna');
-  for (let i = 1; i <= 50; i++) {
-    const num = String(i).padStart(2, '0');
+  for (let i = 1; i <= 51; i++) {
+    const num = i === 51 ? 'extra' : String(i).padStart(2, '0');
+    const chapterLabel = i === 51 ? 'Bab51' : `Bab${num}`;
     const filePath = path.join(minnaDir, `bab-${num}.json`);
     try {
       const raw = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
@@ -30,7 +31,7 @@ export async function fetchAllCards() {
         level: card.level || '-',
         importantity: card.importinity ?? 1,
         isExtra: (card.importinity ?? 1) === 2,
-        chapter: `Bab${num}`,
+        chapter: chapterLabel,
         source: 'minna',
         cleanedHiragana: cleanReading(card.hiragana || ''),
       }));
@@ -169,8 +170,9 @@ export async function fetchAllSearchData() {
   // 1. Minna Kotoba
   const minnaDir = path.join(dataDir, 'minna');
   if (fs.existsSync(minnaDir)) {
-    for (let i = 1; i <= 50; i++) {
-      const num = String(i).padStart(2, '0');
+    for (let i = 1; i <= 51; i++) {
+      const num = i === 51 ? 'extra' : String(i).padStart(2, '0');
+      const chapterLabel = i === 51 ? 'Bab Extra' : `Bab ${num}`;
       const data = safeReadJSON(path.join(minnaDir, `bab-${num}.json`));
       if (data) {
         data.forEach(item => {
@@ -182,7 +184,7 @@ export async function fetchAllSearchData() {
             meaning: item.meaning || '',
             level: item.level || '-',
             importinity: item.importinity || 1,
-            chapter: `Bab ${num}`,
+            chapter: chapterLabel,
             _category: 'minna'
           });
         });

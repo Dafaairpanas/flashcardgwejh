@@ -553,13 +553,13 @@ function SetupContent() {
                       setSelectedChapters(range.filter(ch => chaptersToDisplay.includes(ch)));
                     }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>26-37</button>
                     <button className="btn btn-ghost btn-sm" onClick={() => {
-                      const range = Array.from({length: 13}, (_, i) => `Bab${(i+38).toString().padStart(2, '0')}`);
+                      const range = Array.from({length: 14}, (_, i) => `Bab${(i+38).toString().padStart(2, '0')}`);
                       setSelectedChapters(range.filter(ch => chaptersToDisplay.includes(ch)));
-                    }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>38-50</button>
+                    }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>38-Extra</button>
                     <button className="btn btn-ghost btn-sm" onClick={() => {
-                      const range = Array.from({length: 50}, (_, i) => `Bab${(i+1).toString().padStart(2, '0')}`);
+                      const range = Array.from({length: 51}, (_, i) => `Bab${(i+1).toString().padStart(2, '0')}`);
                       setSelectedChapters(range.filter(ch => chaptersToDisplay.includes(ch)));
-                    }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>1-50</button>
+                    }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>All Minna</button>
                     <button className="btn btn-ghost btn-sm" onClick={handleClearAll} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(239, 68, 68, 0.1)', color: '#ef4444', borderRadius: '12px', border: '1px solid rgba(239, 68, 68, 0.2)', cursor: 'pointer' }}>Clear</button>
                   </div>
                 )}

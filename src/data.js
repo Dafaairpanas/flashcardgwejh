@@ -151,6 +151,7 @@ export function chapterDisplayName(chapter) {
     return `Irodori ${num}`;
   }
   const num = chapter.replace('Bab', '');
+  if (num === '51') return 'Bab Extra';
   return `Bab ${num}`;
 }
 

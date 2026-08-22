@@ -1,0 +1,342 @@
+[
+  {
+    "id": "mn-51-001",
+    "kanji": "乾杯する",
+    "hiragana": "かんぱいする",
+    "romaji": "kanpai suru",
+    "meaning": "bersulang / tos",
+    "level": "N3",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-002",
+    "kanji": "広場",
+    "hiragana": "ひろば",
+    "romaji": "hiroba",
+    "meaning": "lapangan",
+    "level": "N3",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-003",
+    "kanji": "妊娠する",
+    "hiragana": "にんしんする",
+    "romaji": "ninshin suru",
+    "meaning": "hamil",
+    "level": "N2",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-004",
+    "kanji": "出産する",
+    "hiragana": "しゅっさんする",
+    "romaji": "shussan suru",
+    "meaning": "melahirkan",
+    "level": "N2",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-005",
+    "kanji": "生まれる",
+    "hiragana": "うまれる",
+    "romaji": "umareru",
+    "meaning": "lahir / telah lahir",
+    "level": "N5",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-006",
+    "kanji": "合格",
+    "hiragana": "ごうかく",
+    "romaji": "goukaku",
+    "meaning": "lulus",
+    "level": "N3",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-007",
+    "kanji": "美しい",
+    "hiragana": "うつくしい",
+    "romaji": "utsukushii",
+    "meaning": "indah",
+    "level": "N3",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-008",
+    "kanji": "嬉しい",
+    "hiragana": "うれしい",
+    "romaji": "ureshii",
+    "meaning": "senang",
+    "level": "N3",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-009",
+    "kanji": "幸せ",
+    "hiragana": "しあわせ",
+    "romaji": "shiawase",
+    "meaning": "senang / bahagia",
+    "level": "N3",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-010",
+    "kanji": "お祝い",
+    "hiragana": "おいわい",
+    "romaji": "oiwai",
+    "meaning": "perayaan",
+    "level": "N4",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-011",
+    "kanji": "可愛い",
+    "hiragana": "かわいい",
+    "romaji": "kawaii",
+    "meaning": "sayang kepada orang cantik / seseorang (imut)",
+    "level": "N5",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-012",
+    "kanji": "怖い",
+    "hiragana": "こわい",
+    "romaji": "kowai",
+    "meaning": "takut",
+    "level": "N4",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-013",
+    "kanji": "調理する",
+    "hiragana": "ちょうりする",
+    "romaji": "chouri suru",
+    "meaning": "memasak",
+    "level": "N3",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-014",
+    "kanji": "ダイエットする",
+    "hiragana": "ダイエットする",
+    "romaji": "daietto suru",
+    "meaning": "diet",
+    "level": "N3",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-015",
+    "kanji": "結構",
+    "hiragana": "けっこう",
+    "romaji": "kekkou",
+    "meaning": "cukup",
+    "level": "N4",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-016",
+    "kanji": "プレゼント",
+    "hiragana": "プレゼント",
+    "romaji": "purezento",
+    "meaning": "hadiah",
+    "level": "N5",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-017",
+    "kanji": "貯金する",
+    "hiragana": "ちょきんする",
+    "romaji": "chokin suru",
+    "meaning": "menabung",
+    "level": "N4",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-018",
+    "kanji": "遅れます",
+    "hiragana": "おくれます",
+    "romaji": "okuremasu",
+    "meaning": "terlambat (jadwal)",
+    "level": "N5",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-019",
+    "kanji": "遅刻する",
+    "hiragana": "ちこくする",
+    "romaji": "chikoku suru",
+    "meaning": "terlambat (kehadiran)",
+    "level": "N4",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-020",
+    "kanji": "遅くなる",
+    "hiragana": "おそくなる",
+    "romaji": "osoku naru",
+    "meaning": "terlambat (menjadi larut)",
+    "level": "N5",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-021",
+    "kanji": "参加します",
+    "hiragana": "さんかします",
+    "romaji": "sankashimasu",
+    "meaning": "ikut serta",
+    "level": "N3",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-022",
+    "kanji": "パーティー",
+    "hiragana": "パーティー",
+    "romaji": "paatii",
+    "meaning": "pesta",
+    "level": "N5",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-023",
+    "kanji": "床",
+    "hiragana": "ゆか",
+    "romaji": "yuka",
+    "meaning": "lantai",
+    "level": "N4",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-024",
+    "kanji": "壁",
+    "hiragana": "かべ",
+    "romaji": "kabe",
+    "meaning": "tembok",
+    "level": "N4",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-025",
+    "kanji": "牛",
+    "hiragana": "うし",
+    "romaji": "ushi",
+    "meaning": "sapi",
+    "level": "N5",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-026",
+    "kanji": "生魚",
+    "hiragana": "なまざかな",
+    "romaji": "namazakana",
+    "meaning": "ikan mentah",
+    "level": "N3",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-027",
+    "kanji": "生きます",
+    "hiragana": "いきます",
+    "romaji": "ikimasu",
+    "meaning": "hidup",
+    "level": "N4",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-028",
+    "kanji": "信じます",
+    "hiragana": "しんじます",
+    "romaji": "shinjimasu",
+    "meaning": "percaya",
+    "level": "N3",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-029",
+    "kanji": "得意",
+    "hiragana": "とくい",
+    "romaji": "tokui",
+    "meaning": "pintar (skill)",
+    "level": "N3",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-030",
+    "kanji": "苦手",
+    "hiragana": "にがて",
+    "romaji": "nigate",
+    "meaning": "tidak pintar (skill)",
+    "level": "N3",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-031",
+    "kanji": "偉い",
+    "hiragana": "えらい",
+    "romaji": "erai",
+    "meaning": "pandai, hebat, terpuji",
+    "level": "N3",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-032",
+    "kanji": "工場",
+    "hiragana": "こうじょう",
+    "romaji": "koujou",
+    "meaning": "pabrik",
+    "level": "N4",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-033",
+    "kanji": "緊張",
+    "hiragana": "きんちょう",
+    "romaji": "kinchou",
+    "meaning": "gugup",
+    "level": "N3",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  },
+  {
+    "id": "mn-51-034",
+    "kanji": "厳しい",
+    "hiragana": "きびしい",
+    "romaji": "kibishii",
+    "meaning": "ketat",
+    "level": "N3",
+    "importinity": 1,
+    "chapter": "Bab 51"
+  }
+]
