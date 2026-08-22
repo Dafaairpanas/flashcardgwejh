@@ -72,7 +72,7 @@
   {
     "id": "mn-27-008",
     "kanji": "できます",
-    "hiragana": "できます",
+    "hiragana": "できます ~ [ みち ] が",
     "romaji": "dekimasu",
     "meaning": "[jalan] dibuat",
     "level": "N4",
@@ -86,7 +86,7 @@
     "romaji": "doraemon",
     "meaning": "nama peran komik",
     "level": "-",
-    "importinity": 1,
+    "importinity": 3,
     "chapter": "Bab 27"
   },
   {
@@ -182,7 +182,7 @@
   {
     "id": "mn-27-019",
     "kanji": "開きます",
-    "hiragana": "ひらきます",
+    "hiragana": "ひらきます ~を",
     "romaji": "hirakimasu",
     "meaning": "membuka/mengadakan [kelas]",
     "level": "N4",
@@ -222,7 +222,7 @@
   {
     "id": "mn-27-023",
     "kanji": "見えます",
-    "hiragana": "みえます",
+    "hiragana": "みえます ~が",
     "romaji": "miemasu",
     "meaning": "[gunung] terlihat",
     "level": "N4",
@@ -402,7 +402,7 @@
   {
     "id": "mn-27-041",
     "kanji": "聞こえます",
-    "hiragana": "きこえます",
+    "hiragana": "きこえます ~が",
     "romaji": "kikoemasu",
     "meaning": "[bunyi] terdengar",
     "level": "N4",
