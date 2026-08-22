@@ -571,12 +571,12 @@
   },
   {
     "id": "mn-26-058",
-    "kanji": "参加します（パーティーに）",
-    "hiragana": "さんかします",
+    "kanji": "参加します",
+    "hiragana": "さんかします （パーティーに）",
     "romaji": "sankashimasu",
     "meaning": "Turut serta, ikut, berpartisipasi",
     "level": "N3",
-    "importinity": 2,
+    "importinity": 1,
     "chapter": "Bab 26"
   },
   {
@@ -616,7 +616,7 @@
     "romaji": "moushikomimasu",
     "meaning": "Mendaftar",
     "level": "N4",
-    "importinity": 2,
+    "importinity": 1,
     "chapter": "Bab 26"
   },
   {
