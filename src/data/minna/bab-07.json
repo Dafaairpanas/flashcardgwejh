@@ -481,7 +481,7 @@
   },
   {
     "id": "mn-07-049",
-    "kanji": "おくさん",
+    "kanji": "奥さん",
     "hiragana": "おくさん",
     "romaji": "okusan",
     "meaning": "Istri (orang lain)",
@@ -491,7 +491,7 @@
   },
   {
     "id": "mn-07-050",
-    "kanji": "おこさん",
+    "kanji": "お子さん",
     "hiragana": "おこさん",
     "romaji": "okosan",
     "meaning": "Anak (orang lain)",
@@ -501,7 +501,7 @@
   },
   {
     "id": "mn-07-051",
-    "kanji": "おじいさん",
+    "kanji": "お爺さん, お祖父さん",
     "hiragana": "おじいさん",
     "romaji": "ojiisan",
     "meaning": "Kakek (orang lain)",
@@ -521,7 +521,7 @@
   },
   {
     "id": "mn-07-053",
-    "kanji": "おにいさん",
+    "kanji": "お兄さん",
     "hiragana": "おにいさん",
     "romaji": "oniisan",
     "meaning": "Kakak laki-laki (orang lain)",
@@ -531,7 +531,7 @@
   },
   {
     "id": "mn-07-054",
-    "kanji": "おねえさん",
+    "kanji": "お姉さん",
     "hiragana": "おねえさん",
     "romaji": "oneesan",
     "meaning": "Kakak perempuan (orang lain)",
@@ -541,7 +541,7 @@
   },
   {
     "id": "mn-07-055",
-    "kanji": "おばあさん",
+    "kanji": "お祖母さん, お婆さん",
     "hiragana": "おばあさん",
     "romaji": "obaasan",
     "meaning": "Nenek (orang lain)",
