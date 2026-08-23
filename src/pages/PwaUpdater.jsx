@@ -51,7 +51,7 @@ export default function PwaUpdater() {
     }
   }, []);
 
-  if (!show) return null;
+  if (!show || status !== 'ready') return null;
 
   return (
     <div style={{
@@ -81,27 +81,12 @@ export default function PwaUpdater() {
           from { opacity: 0; transform: translate(-50%, 20px); }
           to { opacity: 1; transform: translate(-50%, 0); }
         }
-        @keyframes spinLoading {
-          from { transform: rotate(0deg); }
-          to { transform: rotate(360deg); }
-        }
       `}} />
       
-      {status === 'downloading' ? (
-        <>
-          <svg style={{ animation: 'spinLoading 1.2s linear infinite' }} width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M12 2V6M12 18V22M6 12H2M22 12H18M19.0784 19.0784L16.25 16.25M19.0784 4.92157L16.25 7.75M4.92157 19.0784L7.75 16.25M4.92157 4.92157L7.75 7.75" stroke="rgba(255,255,255,0.7)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-          </svg>
-          Mengunduh data offline...
-        </>
-      ) : (
-        <>
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M20 6L9 17L4 12" stroke="#4ade80" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"/>
-          </svg>
-          Siap digunakan offline!
-        </>
-      )}
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M20 6L9 17L4 12" stroke="#4ade80" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"/>
+      </svg>
+      Aplikasi siap digunakan offline!
     </div>
   );
 }
