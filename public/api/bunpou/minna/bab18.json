@@ -1,0 +1,132 @@
+[
+  {
+    "id": "m_bab18_1",
+    "chapter": "Bab 18",
+    "source": "minna",
+    "title": "Kata Benda / Kata Kerja Bentuk Kamus こと が できます",
+    "romajiTitle": "Kata Benda / Kata Kerja Bentuk Kamus koto ga dekimasu",
+    "meaning": "できます adalah Kata Kerja yang menunjukkan hal yang dapat dilakukan atas kemampuan yang dimiliki orang itu, atau aksi yang memungkinkan dengan kondisi itu (Dapat/Bisa...).",
+    "formula": "Kata Benda / Kata Kerja (Bentuk Kamus) + こと + が できます",
+    "examples": [
+      {
+        "jp": "ミラーさんは 日本語が できます。",
+        "romaji": "Miraa-san wa nihongo ga dekimasu.",
+        "id_translation": "Sdr. Miller bisa berbahasa Jepang."
+      },
+      {
+        "jp": "雪が たくさん 降りましたから、ことしは スキーが できます。",
+        "romaji": "Yuki ga takusan furimashita kara, kotoshi wa sukii ga dekimasu.",
+        "id_translation": "Karena salju turun banyak, tahun ini dapat bermain ski."
+      },
+      {
+        "jp": "ミラーさんは 漢字を 読む ことが できます。",
+        "romaji": "Miraa-san wa kanji o yomu koto ga dekimasu.",
+        "id_translation": "Sdr. Miller bisa membaca Kanji."
+      },
+      {
+        "jp": "カードで 払う ことが できます。",
+        "romaji": "Kaado de harau koto ga dekimasu.",
+        "id_translation": "Dapat membayar dengan kartu."
+      }
+    ],
+    "notes": "Objek untuk できます ditunjuk dengan が. Untuk Kata Benda, dipakai yang bersifat aksi (seperti mengemudi, belanja, ski, dansa) atau yang menunjukkan keterampilan (seperti bahasa, piano).",
+    "tags": ["N5", "Kata Kerja", "Kemampuan/Kemungkinan"]
+  },
+  {
+    "id": "m_bab18_2",
+    "chapter": "Bab 18",
+    "source": "minna",
+    "title": "わたしの 趣味は Kata Benda / Kata Kerja Bentuk Kamus こと です",
+    "romajiTitle": "Watashi no shumi wa Kata Benda / Kata Kerja Bentuk Kamus koto desu",
+    "meaning": "Pola kalimat ini digunakan untuk menyatakan hobi. Jika memakai Kata Kerja Bentuk Kamus + こと, maka dapat menunjukkan isi hobi secara lebih konkret dibandingkan sekadar menggunakan Kata Benda.",
+    "formula": "わたしの 趣味は + Kata Benda / Kata Kerja (Bentuk Kamus) + こと + です",
+    "examples": [
+      {
+        "jp": "わたしの 趣味は 音楽です。",
+        "romaji": "Watashi no shumi wa ongaku desu.",
+        "id_translation": "Hobi saya adalah musik."
+      },
+      {
+        "jp": "わたしの 趣味は 音楽を 聞く ことです。",
+        "romaji": "Watashi no shumi wa ongaku o kiku koto desu.",
+        "id_translation": "Hobi saya adalah mendengarkan musik."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Pola Kalimat", "Hobi"]
+  },
+  {
+    "id": "m_bab18_3",
+    "chapter": "Bab 18",
+    "source": "minna",
+    "title": "Kata Kerja1 Bentuk Kamus / Kata Benda の / Kata Keterangan Bilangan (jangka waktu) まえに、Kata Kerja2",
+    "romajiTitle": "Kata Kerja1 Bentuk Kamus / Kata Benda no / Kata Keterangan Bilangan (jangka waktu) mae ni, Kata Kerja2",
+    "meaning": "Menyatakan bahwa sebelum terjadi Kata Kerja1 (atau acara/waktu tertentu), terjadi aksi pada Kata Kerja2 (Sebelum..., melakukan...).",
+    "formula": "Kata Kerja (Bentuk Kamus) / Kata Benda + の / Keterangan Waktu + まえに、～",
+    "examples": [
+      {
+        "jp": "日本へ 来る まえに、日本語を 勉強 しました。",
+        "romaji": "Nihon e kuru mae ni, nihongo o benkyou shimashita.",
+        "id_translation": "Sebelum datang di Jepang, belajar bahasa Jepang."
+      },
+      {
+        "jp": "寝る まえに、本を 読みます。",
+        "romaji": "Neru mae ni, hon o yomimasu.",
+        "id_translation": "Sebelum tidur, membaca buku."
+      },
+      {
+        "jp": "食事の まえに、手を 洗います。",
+        "romaji": "Shokuji no mae ni, te o araimasu.",
+        "id_translation": "Sebelum makan mencuci tangan."
+      },
+      {
+        "jp": "田中さんは 1時間まえに、出かけました。",
+        "romaji": "Tanaka-san wa ichijikan mae ni, dekakemashita.",
+        "id_translation": "Sdr. Tanaka telah keluar sejam yang lalu."
+      }
+    ],
+    "notes": "Kata Kerja di depan まえに selalu berbentuk Bentuk Kamus, terlepas dari waktu lampau atau bukan lampau pada kalimat induk (Kata Kerja2). Kata Benda di depan の biasanya bersifat aksi. Kata keterangan bilangan tidak perlu memakai の.",
+    "tags": ["N5", "Kata Keterangan", "Urutan Waktu"]
+  },
+  {
+    "id": "m_bab18_4",
+    "chapter": "Bab 18",
+    "source": "minna",
+    "title": "なかなか",
+    "romajiTitle": "nakanaka",
+    "meaning": "Kata keterangan ini menyertai ekspresi negatif di belakangnya, dan menunjukkan arti yang tidak mudah untuk melakukan atau tidak dapat melakukan sebagaimana apa yang diharapkan.",
+    "formula": "なかなか + Kata Kerja (Bentuk Negatif)",
+    "examples": [
+      {
+        "jp": "日本では なかなか 馬を 見る ことが できません。",
+        "romaji": "Nihon de wa nakanaka uma o miru koto ga dekimasen.",
+        "id_translation": "Di Jepang tidak mudah untuk melihat kuda."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Kata Keterangan", "Tingkat Kesulitan"]
+  },
+  {
+    "id": "m_bab18_5",
+    "chapter": "Bab 18",
+    "source": "minna",
+    "title": "ぜひ",
+    "romajiTitle": "zehi",
+    "meaning": "Dipakai bersama dengan ekspresi yang menunjukkan harapan si pembicara, dan berfungsi untuk menekankannya (seperti \"Ingin sekali...\" atau \"Sungguh diharapkan...\").",
+    "formula": "ぜひ + Ekspresi Harapan (～たいです / ～て ください)",
+    "examples": [
+      {
+        "jp": "ぜひ 北海道へ 行きたいです。",
+        "romaji": "Zehi Hokkaidou e ikitai desu.",
+        "id_translation": "Ingin sekali pergi ke Hokkaido."
+      },
+      {
+        "jp": "ぜひ 遊びに 来て ください。",
+        "romaji": "Zehi asobi ni kite kudasai.",
+        "id_translation": "Sungguh diharapkan untuk datang bermain."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Kata Keterangan", "Penekanan"]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "m_bab09_1",
+    "chapter": "Bab 09",
+    "source": "minna",
+    "title": "Kata Benda が あります／わかります | Kata Benda が 好きです／嫌いです／上手です／下手です",
+    "romajiTitle": "Kata Benda ga arimasu / wakarimasu | Kata Benda ga suki desu / kirai desu / jouzu desu / heta desu",
+    "meaning": "Sebagian Kata Kerja (seperti mengerti, punya) atau Kata Sifat (seperti suka, benci, pandai, kurang pandai) menunjukkan objeknya dengan partikel が, bukan を.",
+    "formula": "Kata Benda + が + (わかります/あります/好きです/嫌いです/上手です/下手です)",
+    "examples": [
+      {
+        "jp": "わたしは イタリア料理が 好きです。",
+        "romaji": "Watashi wa Itaria ryouri ga suki desu.",
+        "id_translation": "Saya suka masakan Italia."
+      },
+      {
+        "jp": "わたしは 日本語が わかります。",
+        "romaji": "Watashi wa nihongo ga wakarimasu.",
+        "id_translation": "Saya mengerti bahasa Jepang."
+      },
+      {
+        "jp": "わたしは 車が あります。",
+        "romaji": "Watashi wa kuruma ga arimasu.",
+        "id_translation": "Saya mempunyai mobil."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Partikel", "Objek Khusus"]
+  },
+  {
+    "id": "m_bab09_2",
+    "chapter": "Bab 09",
+    "source": "minna",
+    "title": "どんな Kata Benda",
+    "romajiTitle": "donna Kata Benda",
+    "meaning": "Digunakan untuk menanyakan kategori atau jenis yang lebih spesifik dari suatu kelompok benda/hal.",
+    "formula": "どんな + Kata Benda (Umum)",
+    "examples": [
+      {
+        "jp": "どんな スポーツが 好きですか。……サッカーが 好きです。",
+        "romaji": "Donna spootsu ga suki desu ka. ......Sakkaa ga suki desu.",
+        "id_translation": "Suka olahraga apa? ……Suka sepak bola."
+      }
+    ],
+    "notes": "Selain cara menjawab yang telah dipelajari pada Pelajaran 8, dapat dijawab juga dengan memberikan nama secara kongkret.",
+    "tags": ["N5", "Kata Tanya", "Jenis/Kategori"]
+  },
+  {
+    "id": "m_bab09_3",
+    "chapter": "Bab 09",
+    "source": "minna",
+    "title": "よく／だいたい／たくさん／少し／あまり／全然",
+    "romajiTitle": "yoku / daitai / takusan / sukoshi / amari / zenzen",
+    "meaning": "Kata Keterangan yang diletakkan di depan Kata Kerja untuk menerangkan tingkat atau kuantitasnya. よく (dengan baik), だいたい (kira-kira/sebagian besar), たくさん (banyak), dan 少し (sedikit) digunakan pada kalimat positif. あまり (tidak begitu) dan 全然 (tidak sama sekali) digunakan pada kalimat negatif.",
+    "formula": "Kata Keterangan + Kata Kerja (Positif/Negatif sesuai keterangan)",
+    "examples": [
+      {
+        "jp": "英語が よく わかります。",
+        "romaji": "Eigo ga yoku wakarimasu.",
+        "id_translation": "Mengerti bahasa Inggris dengan baik."
+      },
+      {
+        "jp": "英語が 少し わかります。",
+        "romaji": "Eigo ga sukoshi wakarimasu.",
+        "id_translation": "Mengerti bahasa Inggris sedikit."
+      },
+      {
+        "jp": "英語が あまり わかりません。",
+        "romaji": "Eigo ga amari wakarimasen.",
+        "id_translation": "Tidak begitu mengerti bahasa Inggris."
+      },
+      {
+        "jp": "お金が たくさん あります。",
+        "romaji": "Okane ga takusan arimasu.",
+        "id_translation": "Uang ada banyak."
+      },
+      {
+        "jp": "お金が 全然 ありません。",
+        "romaji": "Okane ga zenzen arimasen.",
+        "id_translation": "Uang tidak ada sama sekali."
+      }
+    ],
+    "notes": "すこし, ぜんぜん, dan あまり juga dapat menerangkan Kata Sifat (Contoh: ここは 少し 寒いです - Di sini sedikit dingin).",
+    "tags": ["N5", "Kata Keterangan", "Tingkat/Kuantitas"]
+  },
+  {
+    "id": "m_bab09_4",
+    "chapter": "Bab 09",
+    "source": "minna",
+    "title": "～から、～",
+    "romajiTitle": "~ kara, ~",
+    "meaning": "Hal yang dinyatakan di depan から merupakan alasan dari kalimat yang dinyatakan di belakangnya. (Karena..., maka...).",
+    "formula": "Kalimat 1 (Alasan) + から、+ Kalimat 2 (Hasil/Kesimpulan)",
+    "examples": [
+      {
+        "jp": "時間が ありませんから、新聞を 読みません。",
+        "romaji": "Jikan ga arimasen kara, shinbun o yomimasen.",
+        "id_translation": "Karena tidak ada waktu, tidak membaca surat kabar."
+      },
+      {
+        "jp": "毎朝 新聞を 読みますか。……いいえ、読みません。時間が ありませんから。",
+        "romaji": "Maiasa shinbun o yomimasu ka. ......Iie, yomimasen. Jikan ga arimasen kara.",
+        "id_translation": "Apakah membaca surat kabar setiap pagi? ……Tidak, tidak membaca. Karena tidak ada waktu."
+      }
+    ],
+    "notes": "Bisa juga digunakan dengan menyebutkan kesimpulan/hasilnya dulu, lalu menambahkan alasan di kalimat berikutnya berakhiran から.",
+    "tags": ["N5", "Kata Sambung", "Alasan"]
+  },
+  {
+    "id": "m_bab09_5",
+    "chapter": "Bab 09",
+    "source": "minna",
+    "title": "どうして",
+    "romajiTitle": "doushite",
+    "meaning": "どうして adalah Kata Tanya untuk menanyakan alasan (Mengapa/Kenapa?). Pada akhir kalimat jawaban dibubuhkan から untuk menyatakan alasannya.",
+    "formula": "Tanya: どうして + Kalimat Tanya? | Jawab: Kalimat Alasan + からです。",
+    "examples": [
+      {
+        "jp": "どうして 朝 新聞を 読みませんか。……時間が ありませんから。",
+        "romaji": "Doushite asa shinbun o yomimasen ka. ......Jikan ga arimasen kara.",
+        "id_translation": "Mengapa pada pagi hari tidak membaca surat kabar? ……Sebab tidak ada waktu."
+      },
+      {
+        "jp": "きょうは 早く 帰ります。……どうしてですか。……子どもの 誕生日ですから。",
+        "romaji": "Kyou wa hayaku kaerimasu. ......Doushite desu ka. ......Kodomo no tanjoubi desu kara.",
+        "id_translation": "Hari ini cepat pulang. ……Mengapa? ……Sebab hari ulang tahun anak."
+      }
+    ],
+    "notes": "Jika menanyakan alasan dari hal yang dikatakan oleh lawan bicara secara langsung, cukup mengatakan 'どうしてですか' tanpa mengulangi kata-kata lawan bicara.",
+    "tags": ["N5", "Kata Tanya", "Menanyakan Alasan"]
+  }
+]

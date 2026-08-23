@@ -1,0 +1,112 @@
+[
+  {
+    "id": "m_bab34_1",
+    "chapter": "Bab 34",
+    "source": "minna",
+    "title": "動詞1た形／辞書形 ＋ とおりに、動詞2",
+    "romajiTitle": "Doushi 1 ta-kei / jishokei + toori ni, Doushi 2",
+    "meaning": "Menyatakan bahwa melakukan Kata Kerja 2 dengan keadaan atau cara yang sama dengan Kata Kerja 1 (Sesuai dengan / Seperti yang).",
+    "formula": "Kata Kerja 1 (Bentuk た / Bentuk Kamus) + とおりに、Kata Kerja 2",
+    "examples": [
+      {
+        "jp": "わたしがやったとおりに、やってください。",
+        "romaji": "Watashi ga yatta toori ni, yatte kudasai.",
+        "id_translation": "Silakan lakukan sama seperti yang saya buat!"
+      },
+      {
+        "jp": "見たとおりに、話してください。",
+        "romaji": "Mita toori ni, hanashite kudasai.",
+        "id_translation": "Silakan berbicara sama seperti yang Anda lihat!"
+      }
+    ],
+    "notes": "",
+    "tags": ["N4", "Pola Kalimat", "Kesamaan Cara/Keadaan"]
+  },
+  {
+    "id": "m_bab34_2",
+    "chapter": "Bab 34",
+    "source": "minna",
+    "title": "名詞 の ＋ とおりに、動詞",
+    "romajiTitle": "Meishi no + toori ni, Doushi",
+    "meaning": "Menyatakan hal yang melakukan aksi tanpa terlepas dari standar yang ditunjuk oleh Kata Benda (Sesuai dengan).",
+    "formula": "Kata Benda + の + とおりに、Kata Kerja",
+    "examples": [
+      {
+        "jp": "線のとおりに、紙を切ってください。",
+        "romaji": "Sen no toori ni, kami o kitte kudasai.",
+        "id_translation": "Silakan menggunting kertas sesuai dengan garis!"
+      },
+      {
+        "jp": "説明書のとおりに、組み立てました。",
+        "romaji": "Setsumeisho no toori ni, kumitatemashita.",
+        "id_translation": "(Saya) Memasang sesuai dengan petunjuk."
+      }
+    ],
+    "notes": "Kata とおり adalah Kata Benda, maka langsung menyertai Kata Tunjuk seperti この, その, あの untuk menyatakan bermaksud keadaan atau cara yang sama (contoh: このとおりに、書いてください = Silakan tulis sama seperti ini!).",
+    "tags": ["N4", "Pola Kalimat", "Kesesuaian Standar"]
+  },
+  {
+    "id": "m_bab34_3",
+    "chapter": "Bab 34",
+    "source": "minna",
+    "title": "動詞1た形／名詞 の ＋ あとで、動詞2",
+    "romajiTitle": "Doushi 1 ta-kei / Meishi no + ato de, Doushi 2",
+    "meaning": "Menyatakan bahwa Kata Kerja 2 terjadi setelah Kata Kerja 1, atau setelah Kata Benda.",
+    "formula": "Kata Kerja 1 (Bentuk た) / Kata Benda + の + あとで、Kata Kerja 2",
+    "examples": [
+      {
+        "jp": "新しいのを買ったあとで、なくした時計が見つかりました。",
+        "romaji": "Atarashii no o katta ato de, nakushita tokei ga mitsukarimashita.",
+        "id_translation": "Setelah membeli yang baru, ditemukan arloji yang hilang."
+      },
+      {
+        "jp": "仕事のあとで、飲みにいきませんか。",
+        "romaji": "Shigoto no ato de, nomi ni ikimasen ka.",
+        "id_translation": "Setelah selesai bekerja, bagaimana kalau pergi minum?"
+      }
+    ],
+    "notes": "Jika dibandingkan dengan Kata Kerja Bentuk てから, menggunakan あとで lebih memfokuskan hubungan waktu yang pra dan pasca (urutan murni), tanpa nuansa bahwa Kata Kerja 1 adalah dasar pikiran atau aksi persiapan untuk Kata Kerja 2.",
+    "tags": ["N4", "Pola Kalimat", "Urutan Waktu (Setelah)"]
+  },
+  {
+    "id": "m_bab34_4",
+    "chapter": "Bab 34",
+    "source": "minna",
+    "title": "動詞1て形／ない形ないで ＋ 動詞2",
+    "romajiTitle": "Doushi 1 te-kei / nai-kei nai de + Doushi 2",
+    "meaning": "Kata Kerja 1 menyatakan kondisi/keadaan yang menyertai Kata Kerja 2. Misalnya, menjelaskan apakah aksi utama dilakukan DENGAN memakai kecap asin (Bentuk て) atau TANPA memakai kecap asin (Bentuk ないで).",
+    "formula": "Kata Kerja 1 (Bentuk て) / Kata Kerja 1 (Bentuk ない + で) + Kata Kerja 2",
+    "examples": [
+      {
+        "jp": "しょうゆをつけて食べます。",
+        "romaji": "Shouyu o tsukete tabemasu.",
+        "id_translation": "Makan dibubuhkan kecap asin."
+      },
+      {
+        "jp": "しょうゆをつけないで食べます。",
+        "romaji": "Shouyu o tsukenai de tabemasu.",
+        "id_translation": "Makan tanpa kecap asin."
+      }
+    ],
+    "notes": "Aksi dari unsur pokok kalimat adalah Kata Kerja 2.",
+    "tags": ["N4", "Kata Kerja", "Kondisi Penyerta"]
+  },
+  {
+    "id": "m_bab34_5",
+    "chapter": "Bab 34",
+    "source": "minna",
+    "title": "動詞1ない形ないで ＋ 動詞2 (Pilihan Alternatif)",
+    "romajiTitle": "Doushi 1 nai-kei nai de + Doushi 2 (Pilihan Alternatif)",
+    "meaning": "Terdapat pula cara penggunaan untuk menyatakan memilih salah satunya di antara aksi yang tidak dapat dilakukan secara bersamaan (Membatalkan Kata Kerja 1, lalu melakukan Kata Kerja 2).",
+    "formula": "Kata Kerja 1 (Bentuk ない + で)、Kata Kerja 2",
+    "examples": [
+      {
+        "jp": "日曜日はどこも行かないで、うちでゆっくり休みます。",
+        "romaji": "Nichiyoubi wa doko mo ikanai de, uchi de yukkuri yasumimasu.",
+        "id_translation": "Hari Minggu tidak pergi ke mana-mana, tetapi beristirahat santai-santai di rumah."
+      }
+    ],
+    "notes": "",
+    "tags": ["N4", "Kata Kerja", "Alternatif Tindakan"]
+  }
+]

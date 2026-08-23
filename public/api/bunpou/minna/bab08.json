@@ -1,0 +1,181 @@
+[
+{
+"id": "m_bab08_1",
+"chapter": "Bab 08",
+"source": "minna",
+"title": "Kata Benda は Kata Sifat な［な］です ／ Kata Sifat い（～い）です",
+"romajiTitle": "Kata Benda wa Kata Sifat na [na] desu / Kata Sifat i (~i) desu",
+"meaning": "Kata Sifat berfungsi sebagai predikat untuk menunjukkan kondisi Kata Benda. Kalimat positif waktu non lampau diakhiri です untuk menunjukkan sikap hormat. Kata Sifat な disambung dengan です tanpa な, sedangkan Kata Sifat い disambung dengan bentuk yang sama.",
+"formula": "Kata Benda + は + Kata Sifat な (tanpa な) / Kata Sifat い + です",
+"examples": [
+{
+"jp": "ワット先生は 親切です。",
+"romaji": "Watto-sensei wa shinsetsu desu.",
+"id_translation": "Bapak Watt baik hati."
+},
+{
+"jp": "富士山は 高いです。",
+"romaji": "Fujisan wa takai desu.",
+"id_translation": "Gunung Fuji tinggi."
+},
+{
+"jp": "ペキンは 寒いですか。……はい、寒いです。",
+"romaji": "Pekin wa samui desu ka. ......Hai, samui desu.",
+"id_translation": "Apakah Beijing dingin? ……Ya, dingin."
+}
+],
+"notes": "Untuk kalimat tanya, cara menjawabnya menggunakan Kata Sifat langsung, dan tidak dapat dijawab dengan menggunakan そうです atau ちがいます.",
+"tags": ["N5", "Kata Sifat", "Predikat"]
+},
+{
+"id": "m_bab08_2",
+"chapter": "Bab 08",
+"source": "minna",
+"title": "Kata Sifat な［な］じゃ（では）ありません ／ Kata Sifat い（～い） → ～くないです",
+"romajiTitle": "Kata Sifat na [na] ja (dewa) arimasen / Kata Sifat i (~i) -> ~kunai desu",
+"meaning": "Bentuk negatif waktu non lampau untuk Kata Sifat. Untuk Kata Sifat な dibuat dengan menambahkan じゃ（では）ありません. Untuk Kata Sifat い dibuat dengan menghilangkan akhiran い lalu ditambahkan くないです.",
+"formula": "Kata Sifat な (tanpa な) + じゃ（では）ありません | Kata Sifat い (tanpa い) + くないです",
+"examples": [
+{
+"jp": "あそこは 静かじゃ（では）ありません。",
+"romaji": "Asoko wa shizuka ja (dewa) arimasen.",
+"id_translation": "Di sana tidak sunyi."
+},
+{
+"jp": "この 本は おもしろくないです。",
+"romaji": "Kono hon wa omoshirokunai desu.",
+"id_translation": "Buku ini tidak menarik."
+}
+],
+"notes": "Pengecualian: Negatif untuk いいです (baik/bagus) adalah よくないです.",
+"tags": ["N5", "Kata Sifat", "Negatif"]
+},
+{
+"id": "m_bab08_3",
+"chapter": "Bab 08",
+"source": "minna",
+"title": "Kata Sifat な［な］ Kata Benda ／ Kata Sifat い（～い） Kata Benda",
+"romajiTitle": "Kata Sifat na [na] Kata Benda / Kata Sifat i (~i) Kata Benda",
+"meaning": "Jika Kata Sifat menerangkan Kata Benda, letaknya adalah di depan Kata Benda tersebut. Kata Sifat な yang menerangkan Kata Benda selalu diikuti akhiran な.",
+"formula": "Kata Sifat な + な + Kata Benda | Kata Sifat い + Kata Benda",
+"examples": [
+{
+"jp": "ワット先生は 親切な 先生です。",
+"romaji": "Watto-sensei wa shinsetsu na sensei desu.",
+"id_translation": "Bapak Watt adalah guru yang baik hati."
+},
+{
+"jp": "富士山は 高い 山です。",
+"romaji": "Fujisan wa takai yama desu.",
+"id_translation": "Gunung Fuji adalah gunung yang tinggi."
+}
+],
+"notes": "",
+"tags": ["N5", "Kata Sifat", "Menerangkan Benda"]
+},
+{
+"id": "m_bab08_4",
+"chapter": "Bab 08",
+"source": "minna",
+"title": "～が、～",
+"romajiTitle": "~ ga, ~",
+"meaning": "Partikel が menyambungkan kalimat yang menyatakan hal sebelum dan sesudah secara paradoksal (berarti 'tetapi'). Jika hal di depan positif, maka di belakang negatif, dan sebaliknya.",
+"formula": "Kalimat 1 + が、+ Kalimat 2",
+"examples": [
+{
+"jp": "日本の 食べ物は おいしいですが、高いです。",
+"romaji": "Nihon no tabemono wa oishii desu ga, takai desu.",
+"id_translation": "Makanan Jepang enak, tetapi mahal."
+}
+],
+"notes": "",
+"tags": ["N5", "Partikel", "Konjungsi"]
+},
+{
+"id": "m_bab08_5",
+"chapter": "Bab 08",
+"source": "minna",
+"title": "とても／あまり",
+"romajiTitle": "totemo / amari",
+"meaning": "Kata keterangan yang menyatakan tingkat dan diletakkan di depan Kata Sifat. とても (sangat) digunakan pada kalimat positif. あまり (tidak begitu) digunakan bersamaan dengan kalimat negatif.",
+"formula": "とても + Kata Sifat (Positif) | あまり + Kata Sifat (Negatif)",
+"examples": [
+{
+"jp": "ペキンは とても 寒いです。",
+"romaji": "Pekin wa totemo samui desu.",
+"id_translation": "Beijing sangat dingin."
+},
+{
+"jp": "これは とても 有名な 映画です。",
+"romaji": "Kore wa totemo yuumei na eiga desu.",
+"id_translation": "Ini film yang sangat terkenal."
+},
+{
+"jp": "シャンハイは あまり 寒くないです。",
+"romaji": "Shanhai wa amari samukunai desu.",
+"id_translation": "Shanghai tidak begitu dingin."
+},
+{
+"jp": "さくら大学は あまり 有名な 大学じゃ ありません。",
+"romaji": "Sakura-daigaku wa amari yuumei na daigaku ja arimasen.",
+"id_translation": "Universitas Sakura adalah universitas yang tidak begitu terkenal."
+}
+],
+"notes": "",
+"tags": ["N5", "Kata Keterangan", "Tingkatan"]
+},
+{
+"id": "m_bab08_6",
+"chapter": "Bab 08",
+"source": "minna",
+"title": "Kata Benda は どうですか",
+"romajiTitle": "Kata Benda wa dou desu ka",
+"meaning": "Menanyakan citra, pendapat, dan kesan mengenai hal yang dialami tentang tempat yang telah dikunjungi atau orang yang pernah dijumpai oleh lawan bicara (Bagaimana...?).",
+"formula": "Kata Benda + は + どうですか",
+"examples": [
+{
+"jp": "日本の 生活は どうですか。……楽しいです。",
+"romaji": "Nihon no seikatsu wa dou desu ka. ......Tanoshii desu.",
+"id_translation": "Bagaimana kehidupan di Jepang? ……Senang."
+}
+],
+"notes": "",
+"tags": ["N5", "Kata Tanya", "Kesan/Pendapat"]
+},
+{
+"id": "m_bab08_7",
+"chapter": "Bab 08",
+"source": "minna",
+"title": "Kata Benda1 は どんな Kata Benda2 ですか",
+"romajiTitle": "Kata Benda1 wa donna Kata Benda2 desu ka",
+"meaning": "どんな adalah Kata Tanya untuk menanyakan keadaan atau sifat orang dan benda, kemudian digunakan untuk menerangkan Kata Benda.",
+"formula": "Kata Benda1 + は + どんな + Kata Benda2 + ですか",
+"examples": [
+{
+"jp": "奈良は どんな 町ですか。……古い 町です。",
+"romaji": "Nara wa donna machi desu ka. ......Furui machi desu.",
+"id_translation": "Nara kota bagaimana? ……Kota yang lama."
+}
+],
+"notes": "",
+"tags": ["N5", "Kata Tanya", "Keadaan/Sifat"]
+},
+{
+"id": "m_bab08_8",
+"chapter": "Bab 08",
+"source": "minna",
+"title": "そうですね",
+"romajiTitle": "sou desu ne",
+"meaning": "Selain menyatakan persetujuan, そうですね juga dapat menunjukkan sikap dari lawan bicara yang sedang berpikir sebelum menjawab (bermakna 'Ya...').",
+"formula": "そうですね",
+"examples": [
+{
+"jp": "お仕事は どうですか。……そうですね。忙しいですが、おもしろいです。",
+"romaji": "Oshigoto wa dou desu ka. ......Sou desu ne. Isogashii desu ga, omoshiroi desu.",
+"id_translation": "Bagaimana pekerjaannya? ……Ya... Sibuk, tetapi menyenangkan."
+}
+],
+"notes": "",
+"tags": ["N5", "Ungkapan", "Jeda Berpikir"]
+}
+]

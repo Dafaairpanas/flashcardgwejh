@@ -1,0 +1,160 @@
+[
+  {
+    "id": "m_bab29_1",
+    "chapter": "Bab 29",
+    "source": "minna",
+    "title": "動詞て形 います",
+    "romajiTitle": "Doushi te-kei imasu",
+    "meaning": "Digunakan untuk menyatakan hal yang berlangsung atas akibat dari aksi (keadaan/hasil dari suatu perbuatan yang masih berlanjut). Kata kerja yang digunakan adalah kata kerja yang mengalami perubahan sebelum dan sesudah aksi tersebut (intransitif) seperti あきます, しまります, つきます, きえます, こわれます, われます.",
+    "formula": "Kata Kerja (Bentuk て) + います",
+    "examples": [
+      {
+        "jp": "窓が割れています。",
+        "romaji": "Mado ga warete imasu.",
+        "id_translation": "Kaca jendela pecah."
+      },
+      {
+        "jp": "電気がついています。",
+        "romaji": "Denki ga tsuite imasu.",
+        "id_translation": "Listrik menyala."
+      },
+      {
+        "jp": "このいすは壊れています。",
+        "romaji": "Kono isu wa kowarete imasu.",
+        "id_translation": "Kursi ini rusak."
+      }
+    ],
+    "notes": "Jika menggambarkan keadaan di depan mata secara langsung, subjek dinyatakan dengan partikel が. Jika subjek dianggap sebagai topik (sudah diketahui/dibicarakan), digunakan partikel は.",
+    "tags": ["N4", "Kata Kerja", "Keadaan Berlanjut"]
+  },
+  {
+    "id": "m_bab29_2",
+    "chapter": "Bab 29",
+    "source": "minna",
+    "title": "動詞て形 しまいました／しまいます",
+    "romajiTitle": "Doushi te-kei shimaimashita / shimaimasu",
+    "meaning": "～てしまいました menyatakan bahwa aksi telah selesai (secara total). ～てしまいます menyatakan bahwa aksi akan selesai pada suatu titik di masa depan. Selain itu, pola ini adakalanya digunakan untuk menyatakan perasaan penyesalan, kesulitan, atau kekecewaan si pembicara.",
+    "formula": "Kata Kerja (Bentuk て) + しまいました / しまいます",
+    "examples": [
+      {
+        "jp": "シュミットさんが持って来たワインはみんなで飲んでしまいました。",
+        "romaji": "Shumitto-san ga motte kita wain wa minna de nonde shimaimashita.",
+        "id_translation": "Anggur yang dibawa oleh sdr. Schmidt telah diminum oleh semuanya."
+      },
+      {
+        "jp": "漢字の宿題はもうやってしまいました。",
+        "romaji": "Kanji no shukudai wa mou yatte shimaimashita.",
+        "id_translation": "PR mengenai huruf Kanji telah saya selesaikan."
+      },
+      {
+        "jp": "昼ごはんまでにレポートを書いてしまいます。",
+        "romaji": "Hirugohan made ni repooto o kaite shimaimasu.",
+        "id_translation": "Sampai dengan makan siang, saya akan menyelesaikan menulis laporan."
+      },
+      {
+        "jp": "パスポートをなくしてしまいました。",
+        "romaji": "Pasupooto o nakushite shimaimashita.",
+        "id_translation": "(Saya) Kehilangan paspor."
+      },
+      {
+        "jp": "パソコンが故障してしまいました。",
+        "romaji": "Pasokon ga koshou shite shimaimashita.",
+        "id_translation": "PC rusak."
+      }
+    ],
+    "notes": "Penggunaan yang mengandung unsur 'penyesalan' biasanya digunakan pada situasi yang merugikan atau tidak terduga, seperti kehilangan barang atau barang rusak.",
+    "tags": ["N4", "Kata Kerja", "Selesai/Penyesalan"]
+  },
+  {
+    "id": "m_bab29_3",
+    "chapter": "Bab 29",
+    "source": "minna",
+    "title": "名詞（場所）に 行きます／来ます／帰ります",
+    "romajiTitle": "Meishi (Basho) ni ikimasu / kimasu / kaerimasu",
+    "meaning": "Untuk menggantikan Kata Bantu へ yang menunjuk arah, digunakan Kata Bantu に untuk menyatakan titik sampainya. Kata kerja seperti いきます, きます, dan かえります dapat menggunakan partikel へ atau partikel に untuk tempat tujuan.",
+    "formula": "Kata Benda (Tempat) + に + 行きます / 来ます / 帰ります",
+    "examples": [
+      {
+        "jp": "どこかで財布を落としてしまったんです。……それは大変ですね。すぐ交番に行かないと。",
+        "romaji": "Dokoka de saifu o otoshite shimattan desu. ......Sore wa taihen desu ne. Sugu kouban ni ikanai to.",
+        "id_translation": "Dompet (Saya) terjatuh di suatu tempat. ......Susah, ya. Harus pergi ke pos polisi dengan segera."
+      }
+    ],
+    "notes": "",
+    "tags": ["N4", "Partikel", "Titik Sampai/Tujuan"]
+  },
+  {
+    "id": "m_bab29_4",
+    "chapter": "Bab 29",
+    "source": "minna",
+    "title": "それ／その／そう",
+    "romajiTitle": "Sore / Sono / Sou",
+    "meaning": "Kata petunjuk (Kelompok そ) yang digunakan untuk menunjuk isi yang dijelaskan oleh lawan bicara tepat sebelumnya dalam percakapan, atau menunjukkan isi dari kalimat yang terdapat pada kalimat sebelumnya dalam suatu cerita.",
+    "formula": "それ / その (Kata Benda) / そう (Kata Kerja)",
+    "examples": [
+      {
+        "jp": "来月から大阪の本社に転勤なんです。……それはおめでとうございます。",
+        "romaji": "Raigetsu kara Oosaka no honsha ni tenkin nan desu. ......Sore wa omedetou gozaimasu.",
+        "id_translation": "Mulai bulan depan, (saya) pindah ke kantor pusat di Osaka. ......Oh, saya mengucapkan selamat!"
+      },
+      {
+        "jp": "あのう、途中でやめたい場合は？……その場合は、近くの係員に名前を言って、帰ってください。",
+        "romaji": "Anou, tochuu de yametai baai wa? ......Sono baai wa, chikaku no kakariin ni namae o itte, kaette kudasai.",
+        "id_translation": "Anu..., kalau mau berhenti setengah jalan? ......Untuk masalah itu, beritahukan nama (Anda) kepada staf terdekat, lalu silakan pulang."
+      },
+      {
+        "jp": "うちへ帰って、休んだほうがいいですよ。……ええ、そうします。",
+        "romaji": "Uchi e kaette, yasunda hou ga ii desu yo. ......Ee, sou shimasu.",
+        "id_translation": "Lebih baik pulang ke rumah, dan beristirahat. ......Ya, benar."
+      },
+      {
+        "jp": "一人でコンサートや展覧会に出かけると、いいでしょう。そのとき会った人が将来の恋人になるかもしれません。",
+        "romaji": "Hitori de konsaato ya tenrankai ni dekakeru to, ii deshou. Sono toki atta hito ga shourai no koibito ni naru kamo shiremasen.",
+        "id_translation": "Bagus juga kalau pergi ke konser atau pameran sendirian. Siapa tahu kalau orang yang Anda jumpai pada saat itu yang menjadi pacar untuk masa depan."
+      }
+    ],
+    "notes": "Penggunaan そ merujuk pada hal yang sudah sama-sama diketahui konteksnya melalui kalimat yang baru saja diucapkan.",
+    "tags": ["N4", "Kata Petunjuk", "Referensi Konteks"]
+  },
+  {
+    "id": "m_bab29_5",
+    "chapter": "Bab 29",
+    "source": "minna",
+    "title": "ありました",
+    "romajiTitle": "Arimashita",
+    "meaning": "Kata ありました di sini bukan bermaksud bahwa 'pernah ada tas di situ' di masa lalu, melainkan menyatakan bahwa pembicara (atau lawan bicara) baru saja 'menemukan keberadaan' benda yang sedang dicari. (Akhirnya ketemu / Ada).",
+    "formula": "[Benda が] ありました",
+    "examples": [
+      {
+        "jp": "［かばんが］ありましたよ。",
+        "romaji": "[Kaban ga] arimashita yo.",
+        "id_translation": "[Tasnya] Ada."
+      }
+    ],
+    "notes": "",
+    "tags": ["N4", "Kata Kerja", "Penemuan Benda"]
+  },
+  {
+    "id": "m_bab29_6",
+    "chapter": "Bab 29",
+    "source": "minna",
+    "title": "どこかで／どこかに",
+    "romajiTitle": "Dokoka de / Dokoka ni",
+    "meaning": "Kata bantu へ dan を di belakang どこか (suatu tempat) dan なにか (sesuatu) dapat dihilangkan, sedangkan Kata Bantu で dan に di belakang どこかで dan どこかに tidak dapat dihilangkan.",
+    "formula": "どこか + で / に + Kata Kerja",
+    "examples": [
+      {
+        "jp": "どこかで財布をなくしてしまいました。",
+        "romaji": "Dokoka de saifu o nakushite shimaimashita.",
+        "id_translation": "Entah di mana (saya) kehilangan dompet."
+      },
+      {
+        "jp": "どこかに電話がありますか。",
+        "romaji": "Dokoka ni denwa ga arimasu ka.",
+        "id_translation": "Apakah ada telepon dari suatu tempat?"
+      }
+    ],
+    "notes": "Partikel で digunakan jika di suatu tempat itu terjadi suatu aktivitas (hilang), partikel に digunakan jika menunjuk titik lokasi keberadaan (ada).",
+    "tags": ["N4", "Partikel", "Kata Tanya Tak Tentu"]
+  }
+]

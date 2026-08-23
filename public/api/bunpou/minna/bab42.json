@@ -1,0 +1,99 @@
+[
+  {
+    "id": "m_bab42_1",
+    "chapter": "Bab 42",
+    "source": "minna",
+    "title": "動詞辞書形／名詞 の ＋ ために、～",
+    "romajiTitle": "Doushi jishokei / Meishi no + tame ni, ~",
+    "meaning": "Menyatakan tujuan (untuk / demi). Jika menggunakan Kata Benda のために, adakalanya digunakan dengan maksud menguntungkan Kata Benda tersebut.",
+    "formula": "Kata Kerja (Bentuk Kamus) / Kata Benda + の + ために、～",
+    "examples": [
+      {
+        "jp": "自分の店を持つために、貯金しています。",
+        "romaji": "Jibun no mise o motsu tame ni, chokin shite imasu.",
+        "id_translation": "Saya menabung uang untuk memiliki toko sendiri."
+      },
+      {
+        "jp": "引っ越しのために、車を借ります。",
+        "romaji": "Hikkoshi no tame ni, kuruma o karimasu.",
+        "id_translation": "Saya meminjam/menyewa mobil untuk pindah rumah."
+      },
+      {
+        "jp": "健康のために、毎朝走っています。",
+        "romaji": "Kenkou no tame ni, maiasa hashitte imasu.",
+        "id_translation": "Saya berlari setiap pagi demi kesehatan."
+      },
+      {
+        "jp": "家族のために、うちを建てます。",
+        "romaji": "Kazoku no tame ni, uchi o tatemasu.",
+        "id_translation": "Saya membangun rumah untuk keluarga."
+      }
+    ],
+    "notes": "Berbeda dengan ～ように (Pel. 36). Sebelum ために digunakan Kata Kerja Keinginan Bentuk Kamus (kemauan pembicara), sedangkan sebelum ように digunakan Kata Kerja Non-Keinginan (seperti potensial) atau Bentuk Negatif.",
+    "tags": ["N4", "Kata Sambung", "Tujuan/Alasan"]
+  },
+  {
+    "id": "m_bab42_2",
+    "chapter": "Bab 42",
+    "source": "minna",
+    "title": "動詞辞書形 の ／ 名詞 ＋ に、～",
+    "romajiTitle": "Doushi jishokei no / Meishi + ni, ~",
+    "meaning": "Pola kalimat ini digunakan bersama dengan kata sifat/kerja yang menyatakan penilaian atau ukuran (seperti つかいます, いいです, べんりです, やくにたちます, [じかん/おかね が] かかります dan lain-lainnya) untuk menyatakan kegunaan atau tujuannya.",
+    "formula": "Kata Kerja (Bentuk Kamus) + の + に / Kata Benda + に + [Kata Kerja/Sifat Kegunaan]",
+    "examples": [
+      {
+        "jp": "このはさみは花を切るのに使います。",
+        "romaji": "Kono hasami wa hana o kiru no ni tsukaimasu.",
+        "id_translation": "Gunting ini digunakan untuk memotong bunga."
+      },
+      {
+        "jp": "このかばんは大きくて、旅行に便利です。",
+        "romaji": "Kono kaban wa ookikute, ryokou ni benri desu.",
+        "id_translation": "Tas ini besar sehingga praktis untuk perjalanan."
+      },
+      {
+        "jp": "電話番号を調べるのに時間がかかりました。",
+        "romaji": "Denwabangou o shiraberu no ni jikan ga kakarimashita.",
+        "id_translation": "Memakan waktu lama untuk memeriksa nomor telepon."
+      }
+    ],
+    "notes": "Partikel に di sini menyatakan tujuan untuk suatu tindakan atau kegunaan spesifik.",
+    "tags": ["N4", "Partikel", "Kegunaan/Tujuan"]
+  },
+  {
+    "id": "m_bab42_3",
+    "chapter": "Bab 42",
+    "source": "minna",
+    "title": "数量詞 は／も",
+    "romajiTitle": "Suuryoushi wa / mo",
+    "meaning": "Kata Bantu は yang dibubuhkan pada Kata Keterangan Bilangan menyatakan batas minimal yang dikisarkan oleh pembicara (setidaknya/paling tidak). Sedangkan Kata Bantu も menyatakan bahwa pembicara merasa jumlahnya banyak (sampai/hingga).",
+    "formula": "Kata Keterangan Bilangan (Jumlah/Kuantitas) + は / も",
+    "examples": [
+      {
+        "jp": "わたしは［ボーナスの］半分は貯金するつもりです。……えっ、半分も貯金するんですか。",
+        "romaji": "Watashi wa [boonasu no] hanbun wa chokin suru tsumori desu. ......E', hanbun mo chokin surun desu ka.",
+        "id_translation": "Saya berencana menabung separuhnya [bonus]. ……Eh! menabung separuhnya?"
+      }
+    ],
+    "notes": "",
+    "tags": ["N4", "Partikel", "Batas Minimal/Penekanan Jumlah"]
+  },
+  {
+    "id": "m_bab42_4",
+    "chapter": "Bab 42",
+    "source": "minna",
+    "title": "名詞（人） によって 動詞（受身形）",
+    "romajiTitle": "Meishi (hito) ni yotte Doushi (ukemikei)",
+    "meaning": "Jika Kata Kerja yang menyatakan penciptaan atau penemuan digunakan dalam bentuk pasif (Contoh: かきます, はつめいします, はっけんします dan lain-lainnya), maka subjek pelakunya ditunjuk dengan partikel によって, bukan dengan に.",
+    "formula": "Kata Benda (Pelaku/Penemu) + によって + Kata Kerja Pasif (Penciptaan/Penemuan)",
+    "examples": [
+      {
+        "jp": "チキンラーメンは1958年に安藤百福さんによって発明されました。",
+        "romaji": "Chikin raamen wa senkyuuhyakugojuuhachinen ni Andou Momofuku-san ni yotte hatsumei saremashita.",
+        "id_translation": "Chicken Ramen diciptakan oleh Bapak Ando Momofuku pada tahun 1958."
+      }
+    ],
+    "notes": "",
+    "tags": ["N4", "Partikel", "Pelaku Pasif/Pencipta"]
+  }
+]

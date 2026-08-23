@@ -1,0 +1,142 @@
+[
+  {
+    "id": "m_bab15_1",
+    "chapter": "Bab 15",
+    "source": "minna",
+    "title": "Kata Kerja Bentuk ても いいですか",
+    "romajiTitle": "Kata Kerja Bentuk te mo ii desu ka",
+    "meaning": "Ini adalah ungkapan untuk meminta izin (Boleh......?).",
+    "formula": "Kata Kerja (Bentuk て) + も いいですか",
+    "examples": [
+      {
+        "jp": "写真を 撮っても いいですか。",
+        "romaji": "Shashin o totte mo ii desu ka.",
+        "id_translation": "Boleh mengambil foto?"
+      },
+      {
+        "jp": "ここで たばこを 吸っても いいですか。……ええ、［吸っても］ いいですよ。",
+        "romaji": "Koko de tabako o sutte mo ii desu ka. ......Ee, [sutte mo] ii desu yo.",
+        "id_translation": "Boleh merokok di sini? ……Ya, boleh [merokok]."
+      },
+      {
+        "jp": "ここで たばこを 吸っても いいですか。……すみません、ちょっと……。",
+        "romaji": "Koko de tabako o sutte mo ii desu ka. ......Sumimasen, chotto.......",
+        "id_translation": "Boleh merokok di sini? ……Maaf, tidak boleh. (Menolak secara tidak langsung)"
+      }
+    ],
+    "notes": "Untuk menjawab tidak memberi izin, bisa dengan menolak secara tidak langsung (すみません、ちょっと……) atau memakai ekspresi larangan (～てはいけません) sambil memberikan alasan.",
+    "tags": ["N5", "Kata Kerja", "Meminta Izin"]
+  },
+  {
+    "id": "m_bab15_2",
+    "chapter": "Bab 15",
+    "source": "minna",
+    "title": "Kata Kerja Bentuk ては いけません",
+    "romajiTitle": "Kata Kerja Bentuk te wa ikemasen",
+    "meaning": "Ekspresi ini menunjukkan arti larangan (Tidak boleh......).",
+    "formula": "Kata Kerja (Bentuk て) + は いけません",
+    "examples": [
+      {
+        "jp": "ここで たばこを 吸っては いけません。禁煙ですから。",
+        "romaji": "Koko de tabako o sutte wa ikemasen. Kin'en desu kara.",
+        "id_translation": "Tidak boleh merokok di sini. Sebab dilarang merokok."
+      },
+      {
+        "jp": "ここに 入っては いけません。",
+        "romaji": "Koko ni haitte wa ikemasen.",
+        "id_translation": "Tidak boleh masuk ke sini."
+      }
+    ],
+    "notes": "Ekspresi ini tidak dapat dipakai oleh bawahan terhadap atasan.",
+    "tags": ["N5", "Kata Kerja", "Larangan"]
+  },
+  {
+    "id": "m_bab15_3",
+    "chapter": "Bab 15",
+    "source": "minna",
+    "title": "Kata Kerja Bentuk て います (Keadaan & Kebiasaan)",
+    "romajiTitle": "Kata Kerja Bentuk te imasu (Keadaan & Kebiasaan)",
+    "meaning": "Selain menunjukkan aksi yang sedang berlangsung, pola ini juga menunjukkan keadaan yang berlanjut sebagai hasil dari suatu tindakan di masa lalu (seperti menikah, tahu, punya, tinggal), serta menunjukkan perbuatan dari kebiasaan/pekerjaan yang berlangsung berulang-ulang dalam jangka waktu lama.",
+    "formula": "Kata Kerja (Bentuk て) + います",
+    "examples": [
+      {
+        "jp": "わたしは 結婚して います。",
+        "romaji": "Watashi wa kekkon shite imasu.",
+        "id_translation": "Saya telah menikah. (Keadaan)"
+      },
+      {
+        "jp": "わたしは 田中さんを 知って います。",
+        "romaji": "Watashi wa Tanaka-san o shitte imasu.",
+        "id_translation": "Saya kenal Sdr. Tanaka. (Keadaan)"
+      },
+      {
+        "jp": "わたしは 大阪に 住んで います。",
+        "romaji": "Watashi wa Oosaka ni sunde imasu.",
+        "id_translation": "Saya tinggal di Osaka. (Keadaan)"
+      },
+      {
+        "jp": "IMC は コンピューターソフトを 作って います。",
+        "romaji": "IMC wa konpyuutaa sofuto o tsukutte imasu.",
+        "id_translation": "IMC memproduksi perangkat lunak komputer. (Kebiasaan/Pekerjaan)"
+      },
+      {
+        "jp": "ミラーさんは IMC で 働いて います。",
+        "romaji": "Miraa-san wa IMC de hataraite imasu.",
+        "id_translation": "Sdr. Miller bekerja di IMC. (Pekerjaan/Status)"
+      }
+    ],
+    "notes": "Bentuk negatif dari 知って います (tahu) adalah 知りません (tidak tahu), BUKAN 知って いません. もって います mempunyai dua arti: sedang memegang dan memiliki.",
+    "tags": ["N5", "Kata Kerja", "Keadaan", "Kebiasaan"]
+  },
+  {
+    "id": "m_bab15_4",
+    "chapter": "Bab 15",
+    "source": "minna",
+    "title": "Kata Benda に Kata Kerja",
+    "romajiTitle": "Kata Benda ni Kata Kerja",
+    "meaning": "Partikel に digunakan bersama Kata Kerja tertentu (seperti はいります, すわります, のります, dll) untuk menunjukkan titik/tempat akhir di mana subjek berada setelah melakukan aksi tersebut.",
+    "formula": "Kata Benda (Tempat) + に + Kata Kerja",
+    "examples": [
+      {
+        "jp": "ここに 座っても いいですか。",
+        "romaji": "Koko ni suwatte mo ii desu ka.",
+        "id_translation": "Boleh duduk di sini?"
+      },
+      {
+        "jp": "ここに 入っては いけません。",
+        "romaji": "Koko ni haitte wa ikemasen.",
+        "id_translation": "Tidak boleh masuk ke sini."
+      },
+      {
+        "jp": "京都駅から 16番の バスに 乗って ください。",
+        "romaji": "Kyouto-eki kara juuroku-ban no basu ni notte kudasai.",
+        "id_translation": "Silakan naik bus nomor 16 dari stasiun Kyoto."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Partikel", "Titik Tujuan"]
+  },
+  {
+    "id": "m_bab15_5",
+    "chapter": "Bab 15",
+    "source": "minna",
+    "title": "Kata Benda1 に Kata Benda2 を Kata Kerja",
+    "romajiTitle": "Kata Benda1 ni Kata Benda2 o Kata Kerja",
+    "meaning": "Partikel に menunjukkan tempat di mana objek (Kata Benda2) berada atau ditempatkan akibat dari melakukan sebuah aksi.",
+    "formula": "Kata Benda1 (Tempat) + に + Kata Benda2 (Objek) + を + Kata Kerja",
+    "examples": [
+      {
+        "jp": "ここに 車を 止めて ください。",
+        "romaji": "Koko ni kuruma o tomete kudasai.",
+        "id_translation": "Hentikan mobil di sini."
+      },
+      {
+        "jp": "ここに 住所を 書いて ください。",
+        "romaji": "Koko ni juusho o kaite kudasai.",
+        "id_translation": "Tuliskan alamat di sini."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Partikel", "Lokasi Hasil Tindakan"]
+  }
+]

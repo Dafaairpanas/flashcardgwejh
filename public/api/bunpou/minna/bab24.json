@@ -1,0 +1,97 @@
+[
+  {
+    "id": "m_bab24_1",
+    "chapter": "Bab 24",
+    "source": "minna",
+    "title": "くれます",
+    "romajiTitle": "kuremasu",
+    "meaning": "Digunakan jika orang lain yang memberikan sesuatu kepada pembicara (diri sendiri) atau keluarga si pembicara. Berbeda dengan あげます yang tidak bisa digunakan untuk konteks ini.",
+    "formula": "Pemberi (Orang lain) は Penerima (Saya/Keluarga) に Kata Benda を くれます",
+    "examples": [
+      {
+        "jp": "佐藤さんは わたしに クリスマスカードを くれました。",
+        "romaji": "Satou-san wa watashi ni kurisumasukaado o kuremashita.",
+        "id_translation": "Sdr. Sato memberikan saya kartu Natal."
+      },
+      {
+        "jp": "佐藤さんは 妹に お菓子を くれました。",
+        "romaji": "Satou-san wa imouto ni okashi o kuremashita.",
+        "id_translation": "Sdr. Sato memberikan adik kue."
+      }
+    ],
+    "notes": "Kata あげます tidak dapat dipakai jika orang lain memberikan sesuatu kepada kita.",
+    "tags": ["N5", "Kata Kerja", "Memberi (ke saya)"]
+  },
+  {
+    "id": "m_bab24_2",
+    "chapter": "Bab 24",
+    "source": "minna",
+    "title": "Kata Kerja Bentuk て あげます",
+    "romajiTitle": "Kata Kerja Bentuk te agemasu",
+    "meaning": "Dipakai ketika menunjukkan bahwa perbuatan tersebut memberikan kebaikan atau keuntungan dari pelaku (subjek) kepada orang lain.",
+    "formula": "Kata Kerja (Bentuk て) + あげます",
+    "examples": [
+      {
+        "jp": "わたしは 木村さんに 本を 貸して あげました。",
+        "romaji": "Watashi wa Kimura-san ni hon o kashite agemashita.",
+        "id_translation": "Saya meminjamkan Sdr. Kimura buku."
+      }
+    ],
+    "notes": "Perlu hati-hati menggunakan ungkapan ini kepada atasan karena memberi kesan memaksa orang untuk menerima kebaikan. Untuk atasan lebih baik gunakan ~ましょうか.",
+    "tags": ["N5", "Kata Kerja", "Membantu/Melakukan untuk orang lain"]
+  },
+  {
+    "id": "m_bab24_3",
+    "chapter": "Bab 24",
+    "source": "minna",
+    "title": "Kata Kerja Bentuk て もらいます",
+    "romajiTitle": "Kata Kerja Bentuk te moraimasu",
+    "meaning": "Menunjukkan bahwa si penerima bantuan dijadikan subjek dan dengan perbuatan itu si pembicara (atau subjek) menerima kebaikan/keuntungan dari orang lain.",
+    "formula": "Kata Kerja (Bentuk て) + もらいます",
+    "examples": [
+      {
+        "jp": "わたしは 山田さんに 図書館の 電話番号を 教えて もらいました。",
+        "romaji": "Watashi wa Yamada-san ni toshokan no denwabangou o oshiete moraimashita.",
+        "id_translation": "Saya diberikan nomor telepon perpustakaan oleh Sdr. Yamada."
+      }
+    ],
+    "notes": "Jika subjeknya わたし, biasanya subjek itu dihilangkan.",
+    "tags": ["N5", "Kata Kerja", "Menerima perbuatan baik"]
+  },
+  {
+    "id": "m_bab24_4",
+    "chapter": "Bab 24",
+    "source": "minna",
+    "title": "Kata Kerja Bentuk て くれます",
+    "romajiTitle": "Kata Kerja Bentuk te kuremasu",
+    "meaning": "Menunjukkan bahwa pelaku dijadikan subjek dan dengan perbuatan itu si pembicara dianggap sebagai penerima kebaikan atau keuntungan.",
+    "formula": "Kata Kerja (Bentuk て) + くれます",
+    "examples": [
+      {
+        "jp": "母は ［わたしに］ セーターを 送って くれました。",
+        "romaji": "Haha wa [watashi ni] seetaa o okutte kuremashita.",
+        "id_translation": "Ibu saya mengirimkan saya sweater."
+      }
+    ],
+    "notes": "Penerima perbuatan biasanya わたし, dan partikel penunjuk penerima seperti わたしに, わたしを, atau わたしの sering dihilangkan.",
+    "tags": ["N5", "Kata Kerja", "Orang lain melakukan untuk saya"]
+  },
+  {
+    "id": "m_bab24_5",
+    "chapter": "Bab 24",
+    "source": "minna",
+    "title": "Kata Benda1 は Kata Benda2 が Kata Kerja",
+    "romajiTitle": "Kata Benda1 wa Kata Benda2 ga Kata Kerja",
+    "meaning": "Pola ini digunakan ketika objek dari sebuah kalimat (Kata Benda1) dijadikan sebagai topik pembicaraan. Subjek pelaku (Kata Benda2) kemudian ditandai dengan partikel が.",
+    "formula": "Kata Benda1 (Objek/Topik) + は + Kata Benda2 (Subjek/Pelaku) + が + Kata Kerja",
+    "examples": [
+      {
+        "jp": "おいしい ワインですね。……ええ、［この ワインは］ 佐藤さんが くれました。",
+        "romaji": "Oishii wain desu ne. ...... Ee, [kono wain wa] Satou-san ga kuremashita.",
+        "id_translation": "Anggur yang enak ya. ……Ya, [anggur ini] Sdr. Sato yang berikan."
+      }
+    ],
+    "notes": "Topik (Kata Benda1 は) dapat dihilangkan jika sudah saling dipahami oleh pembicara dan lawan bicara.",
+    "tags": ["N5", "Partikel", "Topik Objek"]
+  }
+]

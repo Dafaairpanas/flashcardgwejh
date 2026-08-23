@@ -1,0 +1,135 @@
+[
+  {
+    "id": "m_bab17_1",
+    "chapter": "Bab 17",
+    "source": "minna",
+    "title": "Kata Kerja Bentuk ない",
+    "romajiTitle": "Kata Kerja Bentuk nai",
+    "meaning": "Bentuk yang disambung pada ない disebut bentuk ない. Ini merupakan dasar konjugasi untuk kalimat negatif dan pola kalimat tertentu.",
+    "formula": "Kelompok I: Bunyi kolom い diganti kolom あ + ない | Kelompok II: Bentuk ます diganti + ない | Kelompok III: します -> しない, きます -> こない",
+    "examples": [
+      {
+        "jp": "かきます → かかない",
+        "romaji": "kakimasu -> kakanai",
+        "id_translation": "menulis -> tidak menulis"
+      },
+      {
+        "jp": "たべます → たべない",
+        "romaji": "tabemasu -> tabenai",
+        "id_translation": "makan -> tidak makan"
+      },
+      {
+        "jp": "べんきょうします → べんきょうしない",
+        "romaji": "benkyoushimasu -> benkyoushinai",
+        "id_translation": "belajar -> tidak belajar"
+      }
+    ],
+    "notes": "Pengecualian untuk Kelompok I: Jika bunyi terakhirnya vokal い (contoh: かいます), maka tidak diganti dengan あ melainkan わ (contoh: かわない).",
+    "tags": ["N5", "Kata Kerja", "Konjugasi"]
+  },
+  {
+    "id": "m_bab17_2",
+    "chapter": "Bab 17",
+    "source": "minna",
+    "title": "Kata Kerja (Bentuk ない) ないで ください",
+    "romajiTitle": "Kata Kerja (Bentuk nai) naide kudasai",
+    "meaning": "Pola kalimat ini dipakai jika meminta atau memerintah kepada lawan bicara supaya tidak melakukan sesuatu hal (Jangan......!). Dapat juga menyatakan perhatian kepada lawan bicara untuk tidak perlu berbuat sesuatu hal.",
+    "formula": "Kata Kerja (Bentuk ない) + で ください",
+    "examples": [
+      {
+        "jp": "ここで 写真を 撮らないで ください。",
+        "romaji": "Koko de shashin o toranaide kudasai.",
+        "id_translation": "Jangan mengambil foto di sini!"
+      },
+      {
+        "jp": "わたしは 元気ですから、心配しないで ください。",
+        "romaji": "Watashi wa genki desu kara, shinpai shinaide kudasai.",
+        "id_translation": "Karena saya sehat, jangan khawatir."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Kata Kerja", "Larangan"]
+  },
+  {
+    "id": "m_bab17_3",
+    "chapter": "Bab 17",
+    "source": "minna",
+    "title": "Kata Kerja (Bentuk ない) なければ なりません",
+    "romajiTitle": "Kata Kerja (Bentuk nai) nakereba narimasen",
+    "meaning": "Pola kalimat ini menunjukkan keharusan (Harus......).",
+    "formula": "Kata Kerja (Bentuk ない, hilangkan い) + ければ なりません",
+    "examples": [
+      {
+        "jp": "薬を 飲まなければ なりません。",
+        "romaji": "Kusuri o nomanakereba narimasen.",
+        "id_translation": "Harus minum obat."
+      }
+    ],
+    "notes": "Perlu hati-hati bahwa meskipun menggunakan bentuk negatif, pola kalimat ini TIDAK berarti negatif, melainkan bermakna positif/keharusan.",
+    "tags": ["N5", "Kata Kerja", "Keharusan"]
+  },
+  {
+    "id": "m_bab17_4",
+    "chapter": "Bab 17",
+    "source": "minna",
+    "title": "Kata Kerja (Bentuk ない) なくても いいです",
+    "romajiTitle": "Kata Kerja (Bentuk nai) nakute mo ii desu",
+    "meaning": "Pola kalimat ini menunjukkan bahwa tidak perlu melakukan sesuatu hal (Tidak perlu......).",
+    "formula": "Kata Kerja (Bentuk ない, hilangkan い) + くても いいです",
+    "examples": [
+      {
+        "jp": "あした 来なくても いいです。",
+        "romaji": "Ashita konakute mo ii desu.",
+        "id_translation": "Besok tidak perlu datang."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Kata Kerja", "Tidak Harus"]
+  },
+  {
+    "id": "m_bab17_5",
+    "chapter": "Bab 17",
+    "source": "minna",
+    "title": "Pentopikan Objek (Objek は)",
+    "romajiTitle": "Pentopikan Objek (Objek wa)",
+    "meaning": "Jika menyatakan objek langsung sebagai topik, maka partikel を dihilangkan kemudian membubuhkan partikel は, lalu diletakkan paling di depan dalam kalimat.",
+    "formula": "Kata Benda (Objek) + は + [Keterangan] + Kata Kerja",
+    "examples": [
+      {
+        "jp": "荷物は ここに 置かないで ください。",
+        "romaji": "Nimotsu wa koko ni okanaide kudasai.",
+        "id_translation": "Barangnya jangan diletakkan di sini."
+      },
+      {
+        "jp": "昼ごはんは 会社の 食堂で 食べます。",
+        "romaji": "Hirugohan wa kaisha no shokudou de tabemasu.",
+        "id_translation": "Makan siangnya makan di kantin perusahaan."
+      }
+    ],
+    "notes": "Bentuk aslinya adalah kalimat dengan partikel を (contoh: 昼ごはんを 食べます). Partikel を diganti dengan は untuk menyoroti objek tersebut sebagai topik pembicaraan.",
+    "tags": ["N5", "Partikel", "Topik"]
+  },
+  {
+    "id": "m_bab17_6",
+    "chapter": "Bab 17",
+    "source": "minna",
+    "title": "Kata Benda (waktu) までに Kata Kerja",
+    "romajiTitle": "Kata Benda (waktu) made ni Kata Kerja",
+    "meaning": "Menunjukkan batas waktu aksi atau peristiwa harus diselesaikan.",
+    "formula": "Kata Benda (waktu) + までに + Kata Kerja",
+    "examples": [
+      {
+        "jp": "会議は 5時までに 終わります。",
+        "romaji": "Kaigi wa goji made ni owarimasu.",
+        "id_translation": "Rapat selesai sebelum pukul lima."
+      },
+      {
+        "jp": "土曜日までに 本を 返さなければ なりません。",
+        "romaji": "Doyoubi made ni hon o kaesanakereba narimasen.",
+        "id_translation": "Mengembalikan buku sampai dengan hari Sabtu."
+      }
+    ],
+    "notes": "Perlu hati-hati untuk tidak menyamakannya dengan partikel まで. まで menunjukkan titik akhir aksi yang sedang berlangsung (contoh: 5時まで 働きます - Bekerja sampai pukul lima), sedangkan までに menunjukkan batas waktu (tenggat waktu/deadline).",
+    "tags": ["N5", "Partikel", "Batas Waktu"]
+  }
+]

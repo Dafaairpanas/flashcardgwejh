@@ -1,0 +1,127 @@
+[
+  {
+    "id": "m_bab40_1",
+    "chapter": "Bab 40",
+    "source": "minna",
+    "title": "疑問詞 ＋ 普通形 か、～",
+    "romajiTitle": "Gimonshi + Futsuukei ka, ~",
+    "meaning": "Pola kalimat ini digunakan jika Kalimat Tanya yang mengandung Kata Tanya (seperti apa, kapan, dll) dimasukkan ke dalam kalimat lain (sebagai anak kalimat).",
+    "formula": "Kata Tanya + Kata Kerja / Kata Sifat-i / Kata Sifat-na / Kata Benda (Bentuk Biasa) + か、～",
+    "examples": [
+      {
+        "jp": "JL107便は何時に到着するか、調べてください。",
+        "romaji": "JL107 bin wa nanji ni touchaku suru ka, shirabete kudasai.",
+        "id_translation": "Tolong dicek pukul berapa kedatangan penerbangan dengan nomor JL107!"
+      },
+      {
+        "jp": "結婚のお祝いは何がいいか、話しています。",
+        "romaji": "Kekkon no oiwai wa nani ga ii ka, hanashite imasu.",
+        "id_translation": "Sedang membicarakan tentang hadiah apa yang cocok untuk pernikahan."
+      },
+      {
+        "jp": "わたしたちが初めて会ったのはいつか、覚えていますか。",
+        "romaji": "Watashitachi ga hajimete atta no wa itsu ka, oboete imasu ka.",
+        "id_translation": "Apakah (Anda) masih ingat kapan pertama kali kita bertemu?"
+      }
+    ],
+    "notes": "Dengan catatan bahwa untuk Kata Sifat-na dan Kata Benda, bentuk biasannya (～だ) dihilangkan sebelum ditambah か.",
+    "tags": ["N4", "Pola Kalimat", "Anak Kalimat Tanya"]
+  },
+  {
+    "id": "m_bab40_2",
+    "chapter": "Bab 40",
+    "source": "minna",
+    "title": "普通形 かどうか、～",
+    "romajiTitle": "Futsuukei ka dou ka, ~",
+    "meaning": "Pola kalimat ini digunakan jika Kalimat Tanya yang TIDAK mengandung Kata Tanya (pertanyaan Ya/Tidak) dimasukkan ke dalam kalimat lain.",
+    "formula": "Kata Kerja / Kata Sifat-i / Kata Sifat-na / Kata Benda (Bentuk Biasa) + かどうか、～",
+    "examples": [
+      {
+        "jp": "忘年会に出席するかどうか、20日までに返事をください。",
+        "romaji": "Bounenkai ni shusseki suru ka dou ka, hatsuka made ni henji o kudasai.",
+        "id_translation": "Tolong berikan jawaban sampai dengan tanggal 20 bahwa apakah bisa hadir pada pesta akhir tahun atau tidak."
+      },
+      {
+        "jp": "その話はほんとうかどうか、わかりません。",
+        "romaji": "Sono hanashi wa hontou ka dou ka, wakarimasen.",
+        "id_translation": "(Saya) Kurang tahu apakah cerita itu benar atau tidak."
+      },
+      {
+        "jp": "まちがいがないかどうか、調べてください。",
+        "romaji": "Machigai ga nai ka dou ka, shirabete kudasai.",
+        "id_translation": "Tolong diperiksa apakah ada kesalahan tidak!"
+      }
+    ],
+    "notes": "Berhati-hatilah karena di belakang Bentuk Biasa か perlu ditambahkan どうか. Pada contoh ke-3, digunakan 'まちがいがないかどうか' (bukan あるかどうか) karena pembicara ingin memastikan hal yang 'まちがいがない' (tidak ada kesalahan).",
+    "tags": ["N4", "Pola Kalimat", "Anak Kalimat Tanya (Ya/Tidak)"]
+  },
+  {
+    "id": "m_bab40_3",
+    "chapter": "Bab 40",
+    "source": "minna",
+    "title": "動詞て形 みます",
+    "romajiTitle": "Doushi te-kei mimasu",
+    "meaning": "Pola kalimat ini menyatakan arti melakukan aksi sebagai percobaan (mencoba melakukan sesuatu).",
+    "formula": "Kata Kerja (Bentuk て) + みます",
+    "examples": [
+      {
+        "jp": "もう一度考えてみます。",
+        "romaji": "Mou ichido kangaete mimasu.",
+        "id_translation": "Coba berpikir sekali lagi."
+      },
+      {
+        "jp": "このズボンをはいてみてもいいですか。",
+        "romaji": "Kono zubon o haite mite mo ii desu ka.",
+        "id_translation": "Bolehkah mencoba memakai celana ini?"
+      },
+      {
+        "jp": "北海道へ行ってみたいです。",
+        "romaji": "Hokkaidou e itte mitai desu.",
+        "id_translation": "(Saya) Ingin pergi ke Hokkaido."
+      }
+    ],
+    "notes": "Seperti contoh ke-3, kalau memakai bentuk ～てみたい (ingin coba), dapat menyampaikan harapan diri sendiri secara lunak atau secara tidak langsung daripada sekadar memakai ～たい.",
+    "tags": ["N4", "Kata Kerja", "Percobaan"]
+  },
+  {
+    "id": "m_bab40_4",
+    "chapter": "Bab 40",
+    "source": "minna",
+    "title": "形容詞い（～い） → ～さ",
+    "romajiTitle": "Keiyoushi-i (~i) -> ~sa",
+    "meaning": "Kata Sifat い dengan mengubah い ke さ pada akhir kata, dapat membuat Kata Benda (menyatakan tingkat/ukuran).",
+    "formula": "Kata Sifat い (hilangkan い) + さ",
+    "examples": [
+      {
+        "jp": "山の高さはどうやって測るか、知っていますか。",
+        "romaji": "Yama no takasa wa douyatte hakaru ka, shitte imasu ka.",
+        "id_translation": "Apakah (Anda) tahu bagaimana caranya untuk mengukur tingginya gunung?"
+      },
+      {
+        "jp": "新しい橋の長さは3,911メートルです。",
+        "romaji": "Atarashii hashi no nagasa wa sanzen kyuuhyaku juuichi meetoru desu.",
+        "id_translation": "Panjangnya jembatan baru 3.911 meter."
+      }
+    ],
+    "notes": "Contoh: 高い (tinggi) -> 高さ (tingginya), 長い (panjang) -> 長さ (panjangnya), 速い (cepat) -> 速さ (kecepatannya).",
+    "tags": ["N4", "Perubahan Kata", "Nominalisasi Kata Sifat"]
+  },
+  {
+    "id": "m_bab40_5",
+    "chapter": "Bab 40",
+    "source": "minna",
+    "title": "～でしょうか",
+    "romajiTitle": "~deshou ka",
+    "meaning": "Kalau ～でしょう digunakan pada Kalimat Pertanyaan, ungkapannya tidak meminta jawaban yang pasti (tidak mendesak), maka dapat memberi kesan yang lembut terhadap lawan bicara.",
+    "formula": "Kalimat + でしょうか",
+    "examples": [
+      {
+        "jp": "ハンスは学校でどうでしょうか。",
+        "romaji": "Hansu wa gakkou de dou deshou ka.",
+        "id_translation": "Bagaimana Hans di sekolah?"
+      }
+    ],
+    "notes": "",
+    "tags": ["N4", "Pola Kalimat", "Pertanyaan Sopan/Halus"]
+  }
+]

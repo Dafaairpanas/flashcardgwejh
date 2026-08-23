@@ -1,0 +1,76 @@
+[
+  {
+    "id": "m_bab22_1",
+    "chapter": "Bab 22",
+    "source": "minna",
+    "title": "Anak Kalimat (Menerangkan Kata Benda)",
+    "romajiTitle": "Anak Kalimat (Menerangkan Kata Benda)",
+    "meaning": "Kata atau frase yang menerangkan diletakkan di depan Kata Benda. Kata Kerja, Kata Sifat, dan Kata Benda yang terdapat di dalam anak kalimat menggunakan Bentuk Biasa. Subjek di dalam anak kalimat ditunjukkan dengan partikel が.",
+    "formula": "Kata Kerja / Kata Sifat い (Bentuk Biasa) + Kata Benda | Kata Sifat な (+ な) + Kata Benda | Kata Benda (+ の) + Kata Benda",
+    "examples": [
+      {
+        "jp": "京都へ 行く 人",
+        "romaji": "Kyouto e iku hito",
+        "id_translation": "orang yang pergi ke Kyoto"
+      },
+      {
+        "jp": "これは ミラーさんが 住んで いた うちです。",
+        "romaji": "Kore wa Miraa-san ga sunde ita uchi desu.",
+        "id_translation": "Ini adalah rumah yang dihuni Sdr. Miller."
+      },
+      {
+        "jp": "わたしは カリナさんが かいた 絵が 好きです。",
+        "romaji": "Watashi wa Karina-san ga kaita e ga suki desu.",
+        "id_translation": "Saya suka lukisan yang dilukis oleh Sdr. Karina."
+      }
+    ],
+    "notes": "Anak kalimat dapat dipakai dalam berbagai pola kalimat. Untuk Kata Sifat Bentuk な menjadi ～な, sedangkan untuk Kata Benda menjadi ～の.",
+    "tags": ["N5", "Kata Benda", "Menerangkan Kata Benda"]
+  },
+  {
+    "id": "m_bab22_2",
+    "chapter": "Bab 22",
+    "source": "minna",
+    "title": "Kata Kerja Bentuk Kamus 時間／約束／用事",
+    "romajiTitle": "Kata Kerja Bentuk Kamus jikan / yakusoku / youji",
+    "meaning": "Jika menunjukkan waktu ketika melakukan sesuatu, ada janji, dan ada urusan, maka aksi tersebut dijadikan Bentuk Kamus kemudian diletakkan di depan Kata Benda 時間 (waktu), 約束 (janji), atau 用事 (urusan).",
+    "formula": "Kata Kerja (Bentuk Kamus) + 時間 / 約束 / 用事",
+    "examples": [
+      {
+        "jp": "わたしは 朝ごはんを 食べる 時間が ありません。",
+        "romaji": "Watashi wa asagohan o taberu jikan ga arimasen.",
+        "id_translation": "Saya tidak ada waktu untuk makan pagi."
+      },
+      {
+        "jp": "わたしは 友達と 映画を 見る 約束が あります。",
+        "romaji": "Watashi wa tomodachi to eiga o miru yakusoku ga arimasu.",
+        "id_translation": "Saya ada janji dengan teman untuk menonton film."
+      },
+      {
+        "jp": "きょうは 市役所へ 行く 用事が あります。",
+        "romaji": "Kyou wa shiyakusho e iku youji ga arimasu.",
+        "id_translation": "Hari ini ada urusan pergi ke kantor wali kota."
+      }
+    ],
+    "notes": "",
+    "tags": ["N5", "Kata Kerja", "Keterangan Waktu"]
+  },
+  {
+    "id": "m_bab22_3",
+    "chapter": "Bab 22",
+    "source": "minna",
+    "title": "Kata Kerja (Bentuk ます) ましょうか",
+    "romajiTitle": "Kata Kerja (Bentuk masu) mashou ka",
+    "meaning": "Berarti 'Bagaimana kalau...?'. Ekspresi ini digunakan oleh si pembicara untuk menawarkan diri kepada lawan bicara agar bersama-sama melakukan sesuatu.",
+    "formula": "Kata Kerja (Bentuk ます dihilangkan) + ましょうか",
+    "examples": [
+      {
+        "jp": "この 部屋、きょう 見る ことが できますか。……ええ。今から 行きましょうか。",
+        "romaji": "Kono heya, kyou miru koto ga dekimasu ka. ......Ee. Ima kara ikimashou ka.",
+        "id_translation": "Apakah kamar ini dapat saya lihat hari ini? ……Ya. Bagaimana kalau pergi sekarang?"
+      }
+    ],
+    "notes": "Berbeda dengan Pelajaran 14 (menawarkan bantuan sepihak), dalam konteks ini ekspresi disajikan untuk menawarkan melakukan sesuatu secara bersama-sama.",
+    "tags": ["N5", "Kata Kerja", "Tawaran Bersama"]
+  }
+]

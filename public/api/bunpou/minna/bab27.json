@@ -1,0 +1,165 @@
+[
+  {
+    "id": "m_bab27_1",
+    "chapter": "Bab 27",
+    "source": "minna",
+    "title": "可能動詞",
+    "romajiTitle": "Kanou doushi (Kata Kerja Potensial)",
+    "meaning": "Menyatakan kemampuan dari pelaku, atau kemungkinan untuk melakukan suatu perbuatan dalam kondisi tertentu. Kata Kerja Potensial tidak menyatakan gerakan, melainkan keadaan. Objek dari Kata Kerja Transitif yang awalnya menggunakan を berubah menjadi が.",
+    "formula": "Gol I: ~います -> ~えます | Gol II: ~ます -> ~られます | Gol III: きます -> こられます, します -> できます",
+    "examples": [
+      {
+        "jp": "わたしは日本語が話せます。",
+        "romaji": "Watashi wa nihongo ga hanasemasu.",
+        "id_translation": "Saya bisa berbahasa Jepang."
+      },
+      {
+        "jp": "一人で病院へ行けますか。",
+        "romaji": "Hitori de byouin e ikemasu ka.",
+        "id_translation": "Bisa pergi ke rumah sakit sendiri?"
+      },
+      {
+        "jp": "ミラーさんは漢字が読めます。",
+        "romaji": "Miraa-san wa kanji ga yomemasu.",
+        "id_translation": "Sdr. Miller bisa membaca huruf Kanji."
+      },
+      {
+        "jp": "この銀行でドルが換えられます。",
+        "romaji": "Kono ginkou de doru ga kaeraremasu.",
+        "id_translation": "Di bank ini dolar dapat ditukar."
+      }
+    ],
+    "notes": "Kata Kerja Potensial dikonjugasi sebagai Kata Kerja Kelompok II. 'わかります' sudah bermakna kebisaan, maka tidak diubah menjadi 'わかれます'.",
+    "tags": ["N4", "Kata Kerja", "Kemampuan/Kemungkinan"]
+  },
+  {
+    "id": "m_bab27_2",
+    "chapter": "Bab 27",
+    "source": "minna",
+    "title": "見えます / 聞こえます",
+    "romajiTitle": "Miemasu / Kikoemasu",
+    "meaning": "Menyatakan suatu objek yang dapat ditangkap dalam wawasan secara alami (見えます), atau bunyi yang sampai di telinga secara alami (聞こえます), dengan tidak sengaja. Berbeda dengan 見られます / 聞けます yang merupakan bentuk potensial dan memerlukan kesengajaan.",
+    "formula": "Kata Benda + が + 見えます / 聞こえます",
+    "examples": [
+      {
+        "jp": "新幹線から富士山が見えます。",
+        "romaji": "Shinkansen kara Fujisan ga miemasu.",
+        "id_translation": "Dari Shinkansen terlihat Gunung Fuji."
+      },
+      {
+        "jp": "ラジオの音が聞こえます。",
+        "romaji": "Rajio no oto ga kikoemasu.",
+        "id_translation": "Terdengar suara radio."
+      },
+      {
+        "jp": "新宿で今黒沢の映画が見られます。",
+        "romaji": "Shinjuku de ima Kurosawa no eiga ga miraremasu.",
+        "id_translation": "Di Shinjuku sekarang kita bisa menonton film karya sutradara Kurosawa."
+      },
+      {
+        "jp": "電話で天気予報が聞けます。",
+        "romaji": "Denwa de tenkiyohou ga kikemasu.",
+        "id_translation": "Melalui telepon dapat mendengar prakiraan cuaca."
+      }
+    ],
+    "notes": "Objek untuk 見えます dan 聞こえます dinyatakan dengan partikel が.",
+    "tags": ["N4", "Kata Kerja", "Persepsi Spontan"]
+  },
+  {
+    "id": "m_bab27_3",
+    "chapter": "Bab 27",
+    "source": "minna",
+    "title": "できます (Selesai/Rampung)",
+    "romajiTitle": "Dekimasu",
+    "meaning": "Kata できます di sini bermakna 'menimbulkan', 'rampung', 'selesai', atau 'dibuat'.",
+    "formula": "Kata Benda + が + できます",
+    "examples": [
+      {
+        "jp": "駅の前に大きいスーパーができました。",
+        "romaji": "Eki no mae ni ookii suupaa ga dekimashita.",
+        "id_translation": "Di depan stasiun, telah dibangun pasar swalayan besar."
+      },
+      {
+        "jp": "時計の修理はいつできますか。",
+        "romaji": "Tokei no shuuri wa itsu dekimasu ka.",
+        "id_translation": "Kapan perbaikan jam akan selesai?"
+      }
+    ],
+    "notes": "",
+    "tags": ["N4", "Kata Kerja", "Penyelesaian"]
+  },
+  {
+    "id": "m_bab27_4",
+    "chapter": "Bab 27",
+    "source": "minna",
+    "title": "～しか～ません",
+    "romajiTitle": "~shika ~masen",
+    "meaning": "しか dibubuhkan pada Kata Benda atau Keterangan Bilangan dan selalu diikuti kata kerja bentuk negatif. Bermakna 'hanya' dengan menyangkal semua yang lain (bernuansa tidak sempurna/terbatas).",
+    "formula": "Kata Benda / Kata Keterangan Bilangan + しか + Kata Kerja Negatif (ません)",
+    "examples": [
+      {
+        "jp": "ローマ字しか書けません。",
+        "romaji": "Roomaji shika kakemasen.",
+        "id_translation": "Hanya bisa menulis huruf latin saja."
+      },
+      {
+        "jp": "ローマ字だけ書けます。",
+        "romaji": "Roomaji dake kakemasu.",
+        "id_translation": "Bisa menulis huruf latin saja."
+      }
+    ],
+    "notes": "Jika dibubuhkan pada Kata Benda, partikel が atau を dihilangkan. Berbeda dengan だけ yang bisa digunakan bersama kalimat bernuansa positif.",
+    "tags": ["N4", "Partikel", "Pembatasan Negatif"]
+  },
+  {
+    "id": "m_bab27_5",
+    "chapter": "Bab 27",
+    "source": "minna",
+    "title": "名詞 は (Perbandingan)",
+    "romajiTitle": "Meishi wa (Perbandingan)",
+    "meaning": "Selain untuk menyatakan topik, partikel は berfungsi untuk menyatakan perbandingan atau kekontrasan antara dua hal.",
+    "formula": "Kata Benda 1 + は + Kalimat 1 が、 Kata Benda 2 + は + Kalimat 2",
+    "examples": [
+      {
+        "jp": "ワインは飲みますが、ビールは飲みません。",
+        "romaji": "Wain wa nomimasu ga, biiru wa nomimasen.",
+        "id_translation": "(Saya) Minum anggur, tetapi tidak minum bir."
+      },
+      {
+        "jp": "きのうは山が見えましたが、きょうは見えません。",
+        "romaji": "Kinou wa yama ga miemashita ga, kyou wa miemasen.",
+        "id_translation": "Kemarin gunung terlihat, tetapi hari ini tidak terlihat."
+      }
+    ],
+    "notes": "",
+    "tags": ["N4", "Partikel", "Perbandingan/Kontras"]
+  },
+  {
+    "id": "m_bab27_6",
+    "chapter": "Bab 27",
+    "source": "minna",
+    "title": "助詞 ＋ は",
+    "romajiTitle": "Joshi + wa",
+    "meaning": "Jika partikel は (sebagai topik) dibubuhkan pada Kata Benda yang sudah disertai partikel lain (selain が dan を), maka partikel は dibubuhkan di belakangnya (misal: には, では, からは).",
+    "formula": "Kata Benda + Partikel (selain が/を) + は",
+    "examples": [
+      {
+        "jp": "日本では馬を見ることができません。",
+        "romaji": "Nihon de wa uma o miru koto ga dekimasen.",
+        "id_translation": "Di Jepang tidak bisa melihat kuda."
+      },
+      {
+        "jp": "天気のいい日には海が見えるんです。",
+        "romaji": "Tenki no ii hi ni wa umi ga mierun desu.",
+        "id_translation": "Pada hari yang bercuaca baik, laut terlihat."
+      },
+      {
+        "jp": "ここからは東京スカイツリーが見えません。",
+        "romaji": "Koko kara wa Toukyou Sukaitsurii ga miemasen.",
+        "id_translation": "Dari sini, Tokyo Sky Tree tidak terlihat."
+      }
+    ],
+    "notes": "Jika partikel aslinya adalah が atau を, partikel tersebut dihilangkan dan diganti langsung dengan は.",
+    "tags": ["N4", "Partikel", "Topikalisasi"]
+  }
+]
