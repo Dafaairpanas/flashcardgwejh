@@ -11,7 +11,7 @@ export default defineConfig({
         globPatterns: ['**/*.{js,css,html,ico,png,svg,woff2,json,mp3,wav}'],
         maximumFileSizeToCacheInBytes: 10 * 1024 * 1024, // 10MB limit for JSON files
       },
-      includeAssets: ['favicon.svg', 'icon192_rounded.png', 'icon512_rounded.png'],
+      includeAssets: ['favicon.svg'],
       manifest: {
         name: 'AditFlashcard',
         short_name: 'AditFlashcard',
@@ -22,28 +22,10 @@ export default defineConfig({
         start_url: '/',
         icons: [
           {
-            src: '/icon192_rounded.png',
-            sizes: '192x192',
-            type: 'image/png',
-            purpose: 'any'
-          },
-          {
-            src: '/icon192_maskable.png',
-            sizes: '192x192',
-            type: 'image/png',
-            purpose: 'maskable'
-          },
-          {
-            src: '/icon512_rounded.png',
-            sizes: '512x512',
-            type: 'image/png',
-            purpose: 'any'
-          },
-          {
-            src: '/icon512_maskable.png',
-            sizes: '512x512',
-            type: 'image/png',
-            purpose: 'maskable'
+            src: '/favicon.svg',
+            sizes: 'any',
+            type: 'image/svg+xml',
+            purpose: 'any maskable'
           }
         ]
       }

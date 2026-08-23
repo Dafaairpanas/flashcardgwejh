@@ -180,18 +180,6 @@ body {
   width: 28px;
   height: 28px;
   display: block;
-  stroke: none !important;
-}
-
-.logo-svg rect {
-  fill: #141416 !important;
-  stroke: none !important;
-}
-
-.logo-svg text {
-  font-family: 'Noto Serif JP', 'Yu Mincho', 'MS Mincho', serif !important;
-  font-weight: 900 !important;
-  fill: var(--accent-violet) !important;
 }
 
 .navbar-brand h1 {
