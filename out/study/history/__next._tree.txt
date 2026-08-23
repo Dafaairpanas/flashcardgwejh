@@ -1,3 +1,0 @@
-:HL["/_next/static/css/bae5bc8a1e2c5bb8.css","style"]
-:HL["/_next/static/css/04240b3ba1fff7aa.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"study","param":null,"prefetchHints":4192,"slots":{"children":{"name":"history","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"3_h3ZjdyuoCEafFcnL00r"}
