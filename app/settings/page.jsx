@@ -12,10 +12,8 @@ export default function SettingsPage() {
 
   const FONT_OPTIONS = [
     { value: '"Noto Sans JP", sans-serif', label: 'Noto Sans JP (Modern & Bersih)' },
+    { value: '"Noto Serif JP", serif', label: 'Noto Serif JP (Klasik & Elegan)' },
     { value: '"Klee One", cursive', label: 'Klee One (Mirip Tulisan Tangan)' },
-    { value: '"Zen Maru Gothic", sans-serif', label: 'Zen Maru Gothic (Membulat & Santai)' },
-    { value: '"Hiragino Kaku Gothic Pro", sans-serif', label: 'Hiragino Kaku (Klasik Apple)' },
-    { value: '"Yu Gothic", sans-serif', label: 'Yu Gothic (Standar Windows)' }
   ];
 
   return (

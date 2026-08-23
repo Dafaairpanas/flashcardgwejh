@@ -207,8 +207,8 @@ export default function StudyView() {
   useEffect(() => {
     if (showHint) {
       setTimeout(() => window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' }), 50);
-      // Play audio on flip for Kanji Mode
-      if (soundEnabled && studyMode === 2 && currentCard) {
+      // Play audio on flip for Kanji, Reverse, and Audio Mode
+      if (soundEnabled && (studyMode === 2 || studyMode === 3 || studyMode === 4) && currentCard) {
         speak(currentCard.hiragana);
       }
     } else {

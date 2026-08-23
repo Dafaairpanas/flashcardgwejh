@@ -70,33 +70,21 @@ export default function BunpouPage() {
               ))}
             </div>
           ) : (
-            <div style={{ display: 'flex', flexDirection: 'column', gap: '32px' }}>
-              {irodoriLevels.map(level => (
-                <div key={level.id}>
-                  <h3 style={{ 
-                    fontSize: '1.2rem', 
-                    fontWeight: 700, 
-                    marginBottom: '16px', 
-                    paddingLeft: '12px', 
-                    borderLeft: '4px solid var(--text-accent)',
-                    color: 'var(--text-primary)'
-                  }}>
-                    {level.title}
-                  </h3>
-                  <div className="chapter-grid" style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(100px, 1fr))', gap: '12px' }}>
-                    {irodoriChapters.map(chap => (
-                      <Link 
-                        href={`/bunpou/${level.path}/${chap.toLowerCase().replace(' ', '')}`} 
-                        key={chap} 
-                        className="chapter-chip"
-                        style={{ textDecoration: 'none', height: '48px', fontSize: '0.9rem' }}
-                      >
-                        {chap}
-                      </Link>
-                    ))}
-                  </div>
-                </div>
-              ))}
+            <div style={{ 
+              display: 'flex', 
+              flexDirection: 'column', 
+              alignItems: 'center', 
+              justifyContent: 'center',
+              padding: '80px 20px',
+              gap: '16px',
+              opacity: 0.5
+            }}>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" style={{ width: '48px', height: '48px', color: 'var(--text-muted)' }}>
+                <circle cx="12" cy="12" r="10"></circle>
+                <polyline points="12 6 12 12 16 14"></polyline>
+              </svg>
+              <p style={{ fontSize: '1.2rem', fontWeight: 600, color: 'var(--text-secondary)', margin: 0 }}>Coming Soon</p>
+              <p style={{ fontSize: '0.85rem', color: 'var(--text-muted)', margin: 0 }}>Bunpou Irodori sedang dalam pengembangan.</p>
             </div>
           )}
 

@@ -31,21 +31,22 @@ export default function RenshuuPage() {
             </Link>
           </div>
           
-          <div style={{ textAlign: 'center', marginBottom: '16px', marginTop: '100px' }}>
-            <h2 style={{ fontSize: '3rem', marginBottom: '8px', fontWeight: 800 }}>Renshuu</h2>
-            <div style={{ 
-              display: 'inline-block',
-              padding: '8px 24px', 
-              background: 'rgba(168, 85, 247, 0.1)', 
-              color: 'var(--color-primary)', 
-              borderRadius: '30px',
-              fontSize: '1.2rem',
-              fontWeight: 600,
-              marginTop: '16px',
-              border: '1px solid rgba(168, 85, 247, 0.2)'
-            }}>
-              Coming Soon
-            </div>
+          <div style={{ 
+            display: 'flex', 
+            flexDirection: 'column', 
+            alignItems: 'center', 
+            justifyContent: 'center',
+            padding: '80px 20px',
+            gap: '16px',
+            opacity: 0.5,
+            marginTop: '40px'
+          }}>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" style={{ width: '48px', height: '48px', color: 'var(--text-muted)' }}>
+              <circle cx="12" cy="12" r="10"></circle>
+              <polyline points="12 6 12 12 16 14"></polyline>
+            </svg>
+            <p style={{ fontSize: '1.2rem', fontWeight: 600, color: 'var(--text-secondary)', margin: 0 }}>Coming Soon</p>
+            <p style={{ fontSize: '0.85rem', color: 'var(--text-muted)', margin: 0 }}>Renshuu sedang dalam pengembangan.</p>
           </div>
           
         </div>
