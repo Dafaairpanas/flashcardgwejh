@@ -274,7 +274,7 @@
     "kanji": "実は",
     "hiragana": "じつは",
     "romaji": "jitsuha",
-    "meaning": "solanya/sebenarnya",
+    "meaning": "soalnya/sebenarnya",
     "level": "N4",
     "importinity": 1,
     "chapter": "Bab 28"
@@ -392,9 +392,9 @@
   {
     "id": "mn-28-040",
     "kanji": "通います",
-    "hiragana": "かよいます",
+    "hiragana": "かよいます ~に",
     "romaji": "kayoimasu",
-    "meaning": "pergi [ke universitas]",
+    "meaning": "pergi",
     "level": "N4",
     "importinity": 1,
     "chapter": "Bab 28"
@@ -431,10 +431,10 @@
   },
   {
     "id": "mn-28-044",
-    "kanji": "売れます",
-    "hiragana": "うれます",
+    "kanji": "売れます ",
+    "hiragana": "うれます ~が",
     "romaji": "uremasu",
-    "meaning": "[roti] terjual",
+    "meaning": "terjual",
     "level": "N4",
     "importinity": 1,
     "chapter": "Bab 28"
