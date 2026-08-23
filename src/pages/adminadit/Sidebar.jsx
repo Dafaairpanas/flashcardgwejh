@@ -15,7 +15,7 @@ export default function Sidebar({ fileTree, onSelectFile, currentFile, onLogout,
             <rect x="3" y="3" width="18" height="18" rx="5"></rect>
             <text x="50%" y="54%" fontFamily="sans-serif" fontWeight="800" fontSize="12" fill="currentColor" stroke="none" textAnchor="middle" dominantBaseline="middle">日</text>
           </svg>
-          <h2 style={{ fontSize: '1.2rem', margin: 0, fontWeight: 700 }}>Portify CMS</h2>
+          <h2 style={{ fontSize: '1.2rem', margin: 0, fontWeight: 700 }}>AditFlashcard CMS</h2>
         </div>
       </div>
 

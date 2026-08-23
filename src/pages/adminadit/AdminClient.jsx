@@ -133,7 +133,7 @@ export default function AdminClient({ allData }) {
               <rect x="3" y="3" width="18" height="18" rx="5"></rect>
               <text x="50%" y="54%" fontFamily="sans-serif" fontWeight="800" fontSize="12" fill="currentColor" stroke="none" textAnchor="middle" dominantBaseline="middle">日</text>
             </svg>
-            <h2>Portify CMS</h2>
+            <h2>AditFlashcard CMS</h2>
           </div>
           
           <form onSubmit={handleLogin} className="admin-form">
@@ -205,7 +205,7 @@ export default function AdminClient({ allData }) {
               <div className="admin-dashboard-home" style={{padding: '24px', maxWidth: '800px', margin: '0 auto', overflowY: 'auto', height: '100%', width: '100%'}}>
               <div style={{marginBottom: '32px', textAlign: 'center'}}>
                 <div className="admin-empty-icon" style={{fontSize: '48px', marginBottom: '16px'}}>📊</div>
-                <h2 style={{fontSize: '24px', fontWeight: 'bold', marginBottom: '8px'}}>Selamat Datang di Portify CMS</h2>
+                <h2 style={{fontSize: '24px', fontWeight: 'bold', marginBottom: '8px'}}>Selamat Datang di AditFlashcard CMS</h2>
                 <p style={{color: 'var(--text-muted)'}}>Pilih file JSON dari sidebar di sebelah kiri untuk mulai mengelola kosakata atau tata bahasa (bunpou).</p>
               </div>
               

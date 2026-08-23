@@ -1,12 +1,15 @@
+import React, { useEffect, useState } from 'react';
 import AdminClient from './AdminClient';
 
-export const metadata = {
-  title: 'Dashboard Admin - AditFlashcard',
-  description: 'Manage flashcard data via GitHub API',
-  robots: 'noindex, nofollow',
-};
+export default function AdminPage() {
+  const [allData, setAllData] = useState(null);
 
-export default async function AdminPage() {
-  const allData = await fetchAllSearchData();
+  useEffect(() => {
+    fetch('/api/all-search-data.json')
+      .then(res => res.json())
+      .then(data => setAllData(data))
+      .catch(console.error);
+  }, []);
+
   return <AdminClient allData={allData} />;
 }

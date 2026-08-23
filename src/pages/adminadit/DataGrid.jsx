@@ -60,7 +60,7 @@ export default function DataGrid({ filePath, octokit, authConfig }) {
     const lower = searchTerm.toLowerCase();
     return data.filter(item => {
       if (isBunpou) {
-        return (item.pattern || '').toLowerCase().includes(lower) || 
+        return (item.title || '').toLowerCase().includes(lower) || 
                (item.meaning || '').toLowerCase().includes(lower);
       }
       return (item.kanji || '').toLowerCase().includes(lower) ||
@@ -96,7 +96,7 @@ export default function DataGrid({ filePath, octokit, authConfig }) {
     } else {
       // Create new template
       if (isBunpou) {
-        setEditingItem({ id: `new-${Date.now()}`, pattern: '', meaning: '', explanation: '', examples: [] });
+        setEditingItem({ id: `new-${Date.now()}`, title: '', romajiTitle: '', formula: '', meaning: '', examples: [], notes: '', tags: [] });
       } else {
         setEditingItem({ id: `new-${Date.now()}`, kanji: '', hiragana: '', romaji: '', meaning: '', level: '-', importinity: 1 });
       }
@@ -261,7 +261,7 @@ export default function DataGrid({ filePath, octokit, authConfig }) {
               <th>ID</th>
               {isBunpou ? (
                 <>
-                  <th>Pattern</th>
+                  <th>Title</th>
                   <th>Meaning</th>
                 </>
               ) : (
@@ -284,7 +284,7 @@ export default function DataGrid({ filePath, octokit, authConfig }) {
                 <td className="admin-cell-muted">{item.id}</td>
                 {isBunpou ? (
                   <>
-                    <td className="admin-cell-bold">{item.pattern}</td>
+                    <td className="admin-cell-bold">{item.title}</td>
                     <td>{item.meaning}</td>
                   </>
                 ) : (
@@ -328,20 +328,38 @@ export default function DataGrid({ filePath, octokit, authConfig }) {
               {isBunpou ? (
                 <>
                   <div className="form-group">
-                    <label>Pattern (Pola)</label>
-                    <input type="text" value={editingItem.pattern} onChange={e => setEditingItem({...editingItem, pattern: e.target.value})} required />
+                    <label>Title (Judul Tata Bahasa)</label>
+                    <input type="text" value={editingItem.title || ''} onChange={e => setEditingItem({...editingItem, title: e.target.value})} required />
+                  </div>
+                  <div className="form-group">
+                    <label>Romaji Title</label>
+                    <input type="text" value={editingItem.romajiTitle || ''} onChange={e => setEditingItem({...editingItem, romajiTitle: e.target.value})} />
+                  </div>
+                  <div className="form-group">
+                    <label>Formula (Rumus)</label>
+                    <input type="text" value={editingItem.formula || ''} onChange={e => setEditingItem({...editingItem, formula: e.target.value})} />
                   </div>
                   <div className="form-group">
                     <label>Meaning (Arti)</label>
-                    <input type="text" value={editingItem.meaning} onChange={e => setEditingItem({...editingItem, meaning: e.target.value})} required />
+                    <textarea value={editingItem.meaning || ''} onChange={e => setEditingItem({...editingItem, meaning: e.target.value})} rows="3" required />
                   </div>
                   <div className="form-group">
-                    <label>Explanation</label>
-                    <textarea value={editingItem.explanation || ''} onChange={e => setEditingItem({...editingItem, explanation: e.target.value})} rows="3" />
+                    <label>Notes (Catatan)</label>
+                    <textarea value={editingItem.notes || ''} onChange={e => setEditingItem({...editingItem, notes: e.target.value})} rows="2" />
                   </div>
-                  {/* For Examples, since it's an array of objects, we use a simple text area for raw JSON editing to save time, or a dedicated field set. Raw JSON is easiest for power users */}
                   <div className="form-group">
-                    <label>Examples (JSON Array)</label>
+                    <label>Tags (Comma separated)</label>
+                    <input 
+                      type="text" 
+                      value={(editingItem.tags || []).join(', ')} 
+                      onChange={e => {
+                        const tagsArray = e.target.value.split(',').map(t => t.trim()).filter(Boolean);
+                        setEditingItem({...editingItem, tags: tagsArray});
+                      }} 
+                    />
+                  </div>
+                  <div className="form-group">
+                    <label>Examples (JSON Array [{`{"jp":"","romaji":"","id_translation":""}`}, ...])</label>
                     <textarea 
                       value={JSON.stringify(editingItem.examples || [], null, 2)} 
                       onChange={e => {
@@ -349,7 +367,7 @@ export default function DataGrid({ filePath, octokit, authConfig }) {
                           const parsed = JSON.parse(e.target.value);
                           setEditingItem({...editingItem, examples: parsed});
                         } catch (err) {
-                          // just don't update if invalid json during typing
+                          // Allow typing invalid json temporarily
                         }
                       }} 
                       rows="6"

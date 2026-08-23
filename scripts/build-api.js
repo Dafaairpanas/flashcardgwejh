@@ -29,6 +29,27 @@ const searchCache = {
   renshuu: []
 };
 
+const seenGlobalIds = new Set();
+
+function ensureUniqueId(item) {
+  let id = item.id;
+  if (!id) {
+    // Generate an ID if it's completely missing
+    id = item.kanji || item.pattern || item.title || `gen-${Date.now()}-${Math.random().toString(36).substr(2, 5)}`;
+  }
+  
+  if (seenGlobalIds.has(id)) {
+    let suffix = 1;
+    while (seenGlobalIds.has(`${id}-dup${suffix}`)) {
+      suffix++;
+    }
+    id = `${id}-dup${suffix}`;
+  }
+  seenGlobalIds.add(id);
+  item.id = id;
+  return item;
+}
+
 // 1. Minna Kotoba
 const minnaDir = path.join(dataDir, 'minna');
 if (fs.existsSync(minnaDir)) {
@@ -38,10 +59,11 @@ if (fs.existsSync(minnaDir)) {
       const data = JSON.parse(fs.readFileSync(path.join(minnaDir, file), 'utf8'));
       const chapterLabel = formatMinnaChapter(file);
       data.forEach(item => {
-        const card = { ...item, chapter: chapterLabel, source: 'minna' };
+        const uniqueItem = ensureUniqueId(item);
+        const card = { ...uniqueItem, chapter: chapterLabel, source: 'minna' };
         allCards.push(card);
         kotobaCards.push(card);
-        searchCache.minna.push({ ...item, chapter: chapterLabel, _category: 'minna' });
+        searchCache.minna.push({ ...uniqueItem, chapter: chapterLabel, _category: 'minna' });
       });
     } catch (e) {}
   });
@@ -57,10 +79,11 @@ if (fs.existsSync(minnaDir)) {
         const data = JSON.parse(fs.readFileSync(path.join(sectionDir, file), 'utf8'));
         const chapterLabel = formatIrodoriChapter(folder, file);
         data.forEach(item => {
-          const card = { ...item, chapter: chapterLabel, source: 'irodori' };
+          const uniqueItem = ensureUniqueId(item);
+          const card = { ...uniqueItem, chapter: chapterLabel, source: 'irodori' };
           allCards.push(card);
           kotobaCards.push(card);
-          searchCache.irodori.push({ ...item, chapter: file.replace('.json', ''), _category: 'irodori' });
+          searchCache.irodori.push({ ...uniqueItem, chapter: file.replace('.json', ''), _category: 'irodori' });
         });
       } catch (e) {}
     });
@@ -69,22 +92,26 @@ if (fs.existsSync(minnaDir)) {
 
 // 3. Kanji
 const kanjiDir = path.join(dataDir, 'kanji');
-const seenKanjiIds = new Set();
 if (fs.existsSync(kanjiDir)) {
   const files = fs.readdirSync(kanjiDir).filter(f => f.endsWith('.json') && f !== 'irodorikanjidasar.json');
   files.forEach(file => {
     try {
       const data = JSON.parse(fs.readFileSync(path.join(kanjiDir, file), 'utf8'));
       const chapterLabel = file.replace('.json', '');
+      
+      // Keep track of exact duplicates to drop them entirely for Kanji
+      const exactSeen = new Set();
+      
       data.forEach(item => {
-        const id = item.id || item.kanji;
-        if (seenKanjiIds.has(id)) return;
-        seenKanjiIds.add(id);
+        const checkId = item.id || item.kanji;
+        if (exactSeen.has(checkId)) return;
+        exactSeen.add(checkId);
         
-        const card = { ...item, chapter: chapterLabel, source: 'kanji', _sourceFile: file };
+        const uniqueItem = ensureUniqueId(item);
+        const card = { ...uniqueItem, chapter: chapterLabel, source: 'kanji', _sourceFile: file };
         allCards.push(card);
         kanjiCards.push(card);
-        searchCache.kanji.push({ ...item, chapter: chapterLabel, _category: 'kanji' });
+        searchCache.kanji.push({ ...uniqueItem, chapter: chapterLabel, _category: 'kanji' });
       });
     } catch (e) {}
   });
@@ -106,10 +133,13 @@ if (fs.existsSync(bunpouDir)) {
       files.forEach(file => {
         try {
           const rawData = fs.readFileSync(path.join(subDir, file), 'utf8');
-          fs.writeFileSync(path.join(apiSubDir, file), rawData); // Copy for direct fetch
-          
           const data = JSON.parse(rawData);
-          data.forEach(item => {
+          
+          // Ensure unique IDs before writing the processed JSON back out
+          const processedData = data.map(item => ensureUniqueId(item));
+          fs.writeFileSync(path.join(apiSubDir, file), JSON.stringify(processedData));
+          
+          processedData.forEach(item => {
             searchCache.bunpou.push({ ...item, chapter: item.chapter || file.replace('.json', ''), _category: 'bunpou' });
           });
         } catch (e) {}
@@ -126,7 +156,8 @@ if (fs.existsSync(renshuuDir)) {
     try {
       const data = JSON.parse(fs.readFileSync(path.join(renshuuDir, file), 'utf8'));
       data.forEach(item => {
-        searchCache.renshuu.push({ ...item, chapter: item.chapter || file.replace('.json', ''), _category: 'renshuu' });
+        const uniqueItem = ensureUniqueId(item);
+        searchCache.renshuu.push({ ...uniqueItem, chapter: uniqueItem.chapter || file.replace('.json', ''), _category: 'renshuu' });
       });
     } catch (e) {}
   });
