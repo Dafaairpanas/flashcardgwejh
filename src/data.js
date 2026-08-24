@@ -14,7 +14,7 @@ let ALL_CARDS = [];
 export function initializeData(cards) {
   ALL_CARDS = cards.map(c => ({
     ...c,
-    importantity: c.importantity ?? 1,
+    importantity: c.importantity ?? c.importinity ?? 1,
     get isExtra() { return this.importantity === 2; },
     cleanedHiragana: c.cleanedHiragana || cleanReading(c.hiragana || ''),
     romaji: c.romaji || toRomaji(cleanReading(c.hiragana || '')),
