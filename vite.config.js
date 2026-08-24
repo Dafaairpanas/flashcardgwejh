@@ -6,8 +6,9 @@ export default defineConfig({
   plugins: [
     react(),
     VitePWA({
-      registerType: 'prompt',
+      registerType: 'autoUpdate',
       workbox: {
+        cleanupOutdatedCaches: true,
         globPatterns: ['**/*.{js,css,html,ico,png,svg,woff2,json,mp3,wav}'],
         maximumFileSizeToCacheInBytes: 10 * 1024 * 1024, // 10MB limit for JSON files
       },
