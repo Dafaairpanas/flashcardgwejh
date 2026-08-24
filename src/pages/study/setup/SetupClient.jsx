@@ -536,29 +536,63 @@ function SetupContent() {
                 {filter === 'minna' && (
                   <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px', marginBottom: '12px' }}>
                     <button className="btn btn-ghost btn-sm" onClick={() => {
-                      const range = Array.from({length: 10}, (_, i) => `Bab${(i+1).toString().padStart(2, '0')}`);
-                      setSelectedChapters(range.filter(ch => chaptersToDisplay.includes(ch)));
+                      const range = chaptersToDisplay.filter(ch => {
+                        const num = parseInt(ch.replace(/\D/g, ''), 10);
+                        return num >= 1 && num <= 10;
+                      });
+                      setSelectedChapters(range);
                     }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>1-10</button>
                     <button className="btn btn-ghost btn-sm" onClick={() => {
-                      const range = Array.from({length: 15}, (_, i) => `Bab${(i+11).toString().padStart(2, '0')}`);
-                      setSelectedChapters(range.filter(ch => chaptersToDisplay.includes(ch)));
+                      const range = chaptersToDisplay.filter(ch => {
+                        const num = parseInt(ch.replace(/\D/g, ''), 10);
+                        return num >= 11 && num <= 25;
+                      });
+                      setSelectedChapters(range);
                     }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>11-25</button>
                     <button className="btn btn-ghost btn-sm" onClick={() => {
-                      const range = Array.from({length: 25}, (_, i) => `Bab${(i+1).toString().padStart(2, '0')}`);
-                      setSelectedChapters(range.filter(ch => chaptersToDisplay.includes(ch)));
+                      const range = chaptersToDisplay.filter(ch => {
+                        const num = parseInt(ch.replace(/\D/g, ''), 10);
+                        return num >= 1 && num <= 25;
+                      });
+                      setSelectedChapters(range);
                     }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>1-25</button>
                     <button className="btn btn-ghost btn-sm" onClick={() => {
-                      const range = Array.from({length: 12}, (_, i) => `Bab${(i+26).toString().padStart(2, '0')}`);
-                      setSelectedChapters(range.filter(ch => chaptersToDisplay.includes(ch)));
+                      const range = chaptersToDisplay.filter(ch => {
+                        const num = parseInt(ch.replace(/\D/g, ''), 10);
+                        return num >= 26 && num <= 37;
+                      });
+                      setSelectedChapters(range);
                     }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>26-37</button>
                     <button className="btn btn-ghost btn-sm" onClick={() => {
-                      const range = Array.from({length: 14}, (_, i) => `Bab${(i+38).toString().padStart(2, '0')}`);
-                      setSelectedChapters(range.filter(ch => chaptersToDisplay.includes(ch)));
-                    }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>38-Extra</button>
+                      const range = chaptersToDisplay.filter(ch => {
+                        const num = parseInt(ch.replace(/\D/g, ''), 10);
+                        return num >= 38 && num <= 50;
+                      });
+                      setSelectedChapters(range);
+                    }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>38-50</button>
                     <button className="btn btn-ghost btn-sm" onClick={() => {
-                      const range = Array.from({length: 51}, (_, i) => `Bab${(i+1).toString().padStart(2, '0')}`);
-                      setSelectedChapters(range.filter(ch => chaptersToDisplay.includes(ch)));
+                      setSelectedChapters([...chaptersToDisplay]);
                     }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>All Minna</button>
+                    <button className="btn btn-ghost btn-sm" onClick={handleClearAll} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(239, 68, 68, 0.1)', color: '#ef4444', borderRadius: '12px', border: '1px solid rgba(239, 68, 68, 0.2)', cursor: 'pointer' }}>Clear</button>
+                  </div>
+                )}
+                {filter === 'irodori' && (
+                  <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px', marginBottom: '12px' }}>
+                    <button className="btn btn-ghost btn-sm" onClick={() => {
+                      const range = chaptersToDisplay.filter(ch => ch.startsWith('irA1'));
+                      setSelectedChapters(range);
+                    }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>A1</button>
+                    <button className="btn btn-ghost btn-sm" onClick={() => {
+                      const range = chaptersToDisplay.filter(ch => ch.startsWith('irA2.1'));
+                      setSelectedChapters(range);
+                    }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>A2.1</button>
+                    <button className="btn btn-ghost btn-sm" onClick={() => {
+                      const range = chaptersToDisplay.filter(ch => ch.startsWith('irA2.2'));
+                      setSelectedChapters(range);
+                    }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>A2.2</button>
+                    <button className="btn btn-ghost btn-sm" onClick={() => {
+                      setSelectedChapters([...chaptersToDisplay]);
+                    }} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(255,255,255,0.05)', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.1)', cursor: 'pointer', color: 'var(--text-secondary)' }}>All Irodori</button>
                     <button className="btn btn-ghost btn-sm" onClick={handleClearAll} style={{ fontSize: '0.8rem', padding: '4px 12px', background: 'rgba(239, 68, 68, 0.1)', color: '#ef4444', borderRadius: '12px', border: '1px solid rgba(239, 68, 68, 0.2)', cursor: 'pointer' }}>Clear</button>
                   </div>
                 )}
