@@ -1,5 +1,5 @@
 
-import React, { useState, useEffect, useRef, useCallback } from 'react';
+import React, { useState, useEffect, useRef, useCallback, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useStore } from '@/store/useStore';
 import { getCardsByChapters } from '@/data';
@@ -39,6 +39,13 @@ export default function StudyView() {
   const totalCorrectRef = useRef(0);
   const totalReviewedRef = useRef(0);
   const isInitialized = useRef(false);
+  const isProcessingRef = useRef(false);
+  const queueRef = useRef([]);
+
+  // Keep queueRef in sync with queue state
+  useEffect(() => {
+    queueRef.current = queue;
+  }, [queue]);
 
   const speak = useCallback((text) => {
     if (!soundEnabled) return;
@@ -46,12 +53,6 @@ export default function StudyView() {
     ut.lang = 'ja-JP';
     speechSynthesis.speak(ut);
   }, [soundEnabled]);
-
-  const playAudio = useCallback(() => {
-    if (currentCard && studyMode !== 2) { // Mode 2 is Kanji
-      speak(currentCard.hiragana);
-    }
-  }, [currentCard, studyMode, speak]);
 
   useEffect(() => {
     if (isInitialized.current) return;
@@ -111,7 +112,8 @@ export default function StudyView() {
   }, [selectedChapters, selectedGrades, jlptFilter, studyMode, customCards, setCustomCards, router, soundEnabled, speak]);
 
   const handleRating = useCallback((rating) => {
-    if (!currentCard || animState) return;
+    if (!currentCard || animState || isProcessingRef.current) return;
+    isProcessingRef.current = true; // Synchronous guard against rapid key presses
 
     if (rating <= 2) {
       setAnimState('wrong');
@@ -137,12 +139,14 @@ export default function StudyView() {
       fsrs.reviewCard(currentCard.id, rating);
       recordCardResponse(currentCard.id, rating);
       
-      let newQueue = [...queue.slice(1)];
+      // Use queueRef for fresh data (avoids stale closure in setTimeout)
+      const currentQueue = queueRef.current;
+      let newQueue = currentQueue.slice(1).filter(c => c.id !== currentCard.id);
       
       let copiesToAdd = 0;
       if (rating === 1) copiesToAdd = 3;
       else if (rating === 2) copiesToAdd = 2;
-      else if (rating === 3) copiesToAdd = 1;
+      else if (rating === 3) copiesToAdd = 0; // Good tidak perlu diulang di sesi ini
 
       for (let i = 0; i < copiesToAdd; i++) {
         if (newQueue.length === 0) {
@@ -184,8 +188,9 @@ export default function StudyView() {
           setTimeout(() => speak(newQueue[0].hiragana), 100);
         }
       }
-    }, animDuration); // Wait for animation
-  }, [currentCard, queue, router, soundEnabled, speak, studyMode, animState]);
+      isProcessingRef.current = false; // Release guard
+    }, animDuration);
+  }, [currentCard, router, soundEnabled, speak, studyMode, animState]);
 
   useEffect(() => {
     const handleKeyDown = (e) => {
@@ -224,6 +229,17 @@ export default function StudyView() {
       setOverrideTheme(null);
     };
   }, [setOverrideTheme, generateRandomTheme]);
+
+  // Compute dynamic interval texts based on current card's FSRS state
+  const intervalTexts = useMemo(() => {
+    if (!currentCard) return { 1: '<1m', 2: '5m', 3: '10m', 4: '1d' };
+    return {
+      1: fsrs.getIntervalText(currentCard.id, 1),
+      2: fsrs.getIntervalText(currentCard.id, 2),
+      3: fsrs.getIntervalText(currentCard.id, 3),
+      4: fsrs.getIntervalText(currentCard.id, 4),
+    };
+  }, [currentCard]);
 
   if (!currentCard) return <div style={{color:'white', padding: '20px'}}>Memuat Flashcard...</div>;
 
@@ -385,19 +401,19 @@ export default function StudyView() {
             <div className="rating-buttons">
               <button className="rating-btn rating-btn-again" onClick={() => handleRating(1)}>
                 <span className="rating-label">Again</span>
-                <span className="rating-interval" id="interval-again">&lt;1m</span>
+                <span className="rating-interval" id="interval-again">{intervalTexts[1]}</span>
               </button>
               <button className="rating-btn rating-btn-hard" onClick={() => handleRating(2)}>
                 <span className="rating-label">Hard</span>
-                <span className="rating-interval" id="interval-hard">5m</span>
+                <span className="rating-interval" id="interval-hard">{intervalTexts[2]}</span>
               </button>
               <button className="rating-btn rating-btn-good" onClick={() => handleRating(3)}>
                 <span className="rating-label">Good</span>
-                <span className="rating-interval" id="interval-good">10m</span>
+                <span className="rating-interval" id="interval-good">{intervalTexts[3]}</span>
               </button>
               <button className="rating-btn rating-btn-easy" onClick={() => handleRating(4)}>
                 <span className="rating-label">Easy</span>
-                <span className="rating-interval" id="interval-easy">1d</span>
+                <span className="rating-interval" id="interval-easy">{intervalTexts[4]}</span>
               </button>
             </div>
             <div className="shortcut-hints">
