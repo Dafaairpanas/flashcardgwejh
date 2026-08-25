@@ -457,7 +457,7 @@ function SetupContent() {
                   </div>
                   
                   <div style={{ 
-                    display: 'flex', alignItems: 'center', justifyContent: 'space-between', 
+                    display: 'none', alignItems: 'center', justifyContent: 'space-between', 
                     padding: '10px 12px', background: 'rgba(0,0,0,0.2)', borderRadius: '10px',
                     border: '1px solid rgba(255,255,255,0.05)'
                   }}>
