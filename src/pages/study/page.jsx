@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import { useStore } from '@/store/useStore';
 import { getCardsByChapters } from '@/data';
 import { fsrs } from '@/state';
-import { recordCardResponse } from '@/historyManager';
+import { recordCardResponse, getMasteredCards } from '@/historyManager';
 
 import { useTheme } from '../ThemeProvider';
 
@@ -30,6 +30,7 @@ export default function StudyView() {
   const studyMode = useStore((state) => state.studyMode);
   const soundEnabled = useStore((state) => state.soundEnabled);
   const showChapterBadge = useStore((state) => state.showChapterBadge);
+  const hideMastered = useStore((state) => state.hideMastered);
   const toggleSound = useStore((state) => state.toggleSound);
   const setSessionResult = useStore((state) => state.setSessionResult);
   
@@ -68,6 +69,10 @@ export default function StudyView() {
       setCustomFsrs(false); // Reset for next time
     } else {
       cards = getCardsByChapters(selectedChapters, selectedGrades, jlptFilter, studyMode);
+      if (hideMastered) {
+        const masteredIds = new Set(getMasteredCards().map(m => m.cardId));
+        cards = cards.filter(c => !masteredIds.has(c.id));
+      }
     }
     
     isInitialized.current = true;
@@ -106,10 +111,10 @@ export default function StudyView() {
     sessionStartTimeRef.current = Date.now();
 
     // Play audio for the first card
-    if (soundEnabled && studyMode !== 2 && studyMode !== 3 && studyQueue[0]) {
+    if (soundEnabled && studyMode !== 2 && studyMode !== 3 && studyMode !== 5 && studyQueue[0]) {
       setTimeout(() => speak(studyQueue[0].hiragana), 300);
     }
-  }, [selectedChapters, selectedGrades, jlptFilter, studyMode, customCards, setCustomCards, router, soundEnabled, speak]);
+  }, [selectedChapters, selectedGrades, jlptFilter, studyMode, customCards, setCustomCards, router, soundEnabled, speak, hideMastered]);
 
   const handleRating = useCallback((rating) => {
     if (!currentCard || animState || isProcessingRef.current) return;
@@ -183,8 +188,8 @@ export default function StudyView() {
           cardsUntilThemeChange.current = Math.floor(Math.random() * 5) + 8; // Reset to 8-12
         }
 
-        // Play audio automatically if mode is not 2 (Kanji) and not 3 (Reverse)
-        if (soundEnabled && studyMode !== 2 && studyMode !== 3 && newQueue[0]) {
+        // Play audio automatically if mode is not 2 (Kanji), not 3 (Reverse), not 5 (Mix)
+        if (soundEnabled && studyMode !== 2 && studyMode !== 3 && studyMode !== 5 && newQueue[0]) {
           setTimeout(() => speak(newQueue[0].hiragana), 100);
         }
       }
@@ -211,8 +216,8 @@ export default function StudyView() {
   useEffect(() => {
     if (showHint) {
       setTimeout(() => window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' }), 50);
-      // Play audio on flip for Kanji, Reverse, and Audio Mode
-      if (soundEnabled && (studyMode === 2 || studyMode === 3 || studyMode === 4) && currentCard) {
+      // Play audio on flip for Kanji, Reverse, Audio, and Mix Mode
+      if (soundEnabled && (studyMode === 2 || studyMode === 3 || studyMode === 4 || studyMode === 5) && currentCard) {
         speak(currentCard.hiragana);
       }
     } else {
@@ -321,7 +326,7 @@ export default function StudyView() {
               <div className="flashcard-face flashcard-front" id="card-front">
                 {studyMode === 1 && (
                   <>
-                    {!currentCard.hideFuriganaFront && <div className="card-furigana">{currentCard.hiragana}</div>}
+                    {!currentCard.hideFuriganaFront && currentCard.kanji !== currentCard.hiragana && <div className="card-furigana">{currentCard.hiragana}</div>}
                     {currentCard.kanji !== currentCard.hiragana ? (
                       <div className="card-kanji">{currentCard.kanji}</div>
                     ) : (
@@ -364,13 +369,53 @@ export default function StudyView() {
                     ••••
                   </div>
                 )}
+                {studyMode === 5 && (
+                  <>
+                    {(() => {
+                      const hasKanji = /[\u4e00-\u9faf]/.test(currentCard.kanji);
+                      if (hasKanji) {
+                        return (
+                          <div className="card-kanji">
+                            {(() => {
+                              const isPureKana = currentCard.kanji === currentCard.hiragana;
+                              const text = isPureKana ? currentCard.hiragana : currentCard.kanji;
+                              if (!text) return null;
+                              if (isPureKana) {
+                                return <span>{text}</span>;
+                              }
+                              const parts = text.split(/([ぁ-んァ-ヶー]+)/g);
+                              return parts.map((part, i) => {
+                                if (!part) return null;
+                                if (/^[ぁ-んァ-ヶー]+$/.test(part)) {
+                                  return <span key={i} style={{ opacity: 0.2 }}>{part}</span>;
+                                }
+                                return <span key={i}>{part}</span>;
+                              });
+                            })()}
+                          </div>
+                        );
+                      } else {
+                        return (
+                          <>
+                            {!currentCard.hideFuriganaFront && currentCard.kanji !== currentCard.hiragana && <div className="card-furigana">{currentCard.hiragana}</div>}
+                            {currentCard.kanji !== currentCard.hiragana ? (
+                              <div className="card-kanji">{currentCard.kanji}</div>
+                            ) : (
+                              <div className="card-kanji">{currentCard.hiragana}</div>
+                            )}
+                          </>
+                        );
+                      }
+                    })()}
+                  </>
+                )}
                 {/* Tap hint — hides smoothly when flipped */}
                 <div className={`card-tap-hint ${showHint ? 'fade-out' : ''}`}>TAP UNTUK MEMBALIK</div>
               </div>
               <div className={`flashcard-face flashcard-back ${!showHint ? 'hidden' : ''}`} id="card-back">
                 {studyMode === 3 ? (
                   <>
-                    <div className="card-furigana">{currentCard.hiragana}</div>
+                    {currentCard.kanji !== currentCard.hiragana && <div className="card-furigana">{currentCard.hiragana}</div>}
                     {currentCard.kanji !== currentCard.hiragana ? (
                       <div className="card-kanji" style={{ fontSize: '3.5rem' }}>{currentCard.kanji}</div>
                     ) : (
@@ -380,7 +425,7 @@ export default function StudyView() {
                 ) : (
                   <>
                     <div className="card-meaning">{currentCard.meaning}</div>
-                    {(studyMode === 1 || studyMode === 2 || studyMode === 4) && currentCard.hiragana && currentCard.hiragana !== 'Tidak ada bacaan' && currentCard.hiragana !== currentCard.kanji && (
+                    {(studyMode === 1 || studyMode === 2 || studyMode === 4 || studyMode === 5) && currentCard.hiragana && currentCard.hiragana !== 'Tidak ada bacaan' && currentCard.hiragana !== currentCard.kanji && (
                       <div className="card-romaji">{currentCard.hiragana}</div>
                     )}
                     {studyMode === 4 && currentCard.kanji && (

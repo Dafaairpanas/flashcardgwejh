@@ -4,6 +4,7 @@ import { useSearchParams, useNavigate } from 'react-router-dom';
 import { useStore } from '@/store/useStore';
 import { initializeData, getChapterStats, chapterDisplayName, getCardsByChapters } from '@/data';
 import { fsrs } from '@/state';
+import { getMasteredCards } from '@/historyManager';
 import jftKanjiData from '@/data/renshuu/jfta2kanji.json';
 import irodoriExtraData from '@/data/renshuu/irodori_extra.json';
 
@@ -44,6 +45,9 @@ function SetupContent() {
 
   const showChapterBadge = useStore((state) => state.showChapterBadge);
   const toggleChapterBadge = useStore((state) => state.toggleChapterBadge);
+
+  const hideMastered = useStore((state) => state.hideMastered);
+  const toggleHideMastered = useStore((state) => state.toggleHideMastered);
 
   const setAllCards = useStore((state) => state.setAllCards);
   const setChapters = useStore((state) => state.setChapters);
@@ -179,7 +183,14 @@ function SetupContent() {
 
   // Derived Stats
   const allCards = useStore((state) => state.allCards);
-  const cards = useMemo(() => getCardsByChapters(selectedChapters, selectedGrades, jlptFilter, studyMode), [selectedChapters, selectedGrades, jlptFilter, studyMode, allCards]);
+  const cards = useMemo(() => {
+    let base = getCardsByChapters(selectedChapters, selectedGrades, jlptFilter, studyMode);
+    if (hideMastered) {
+      const masteredIds = new Set(getMasteredCards().map(m => m.cardId));
+      base = base.filter(c => !masteredIds.has(c.id));
+    }
+    return base;
+  }, [selectedChapters, selectedGrades, jlptFilter, studyMode, allCards, hideMastered]);
   
   const stats = useMemo(() => {
     try {
@@ -410,36 +421,68 @@ function SetupContent() {
                 <div className="filter-group-wrap" style={{ marginBottom: '12px' }}>
                   <button className={`filter-btn-sm ${studyMode === 1 ? 'active' : ''}`} onClick={() => setStudyMode(1)}>Standard</button>
                   <button className={`filter-btn-sm ${studyMode === 2 ? 'active' : ''}`} onClick={() => setStudyMode(2)}>Kanji</button>
+                  <button className={`filter-btn-sm ${studyMode === 5 ? 'active' : ''}`} onClick={() => setStudyMode(5)}>Mix</button>
                   <button className={`filter-btn-sm ${studyMode === 3 ? 'active' : ''}`} onClick={() => setStudyMode(3)}>Reverse</button>
                   <button className={`filter-btn-sm ${studyMode === 4 ? 'active' : ''}`} onClick={() => setStudyMode(4)}>Audio</button>
                 </div>
                 
-                {/* Tampilkan Bab Switch (Full width below mode buttons) */}
-                <div style={{ 
-                  display: 'flex', alignItems: 'center', justifyContent: 'space-between', 
-                  padding: '12px', background: 'rgba(0,0,0,0.2)', borderRadius: '12px',
-                  border: '1px solid rgba(255,255,255,0.05)'
-                }}>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                    <svg viewBox="0 0 24 24" fill="none" stroke="var(--text-secondary)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ width: '16px', height: '16px' }}>
-                      <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
-                      <circle cx="12" cy="12" r="3"></circle>
-                    </svg>
-                    <span style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--text-secondary)' }}>Tampilkan Label Bab</span>
-                  </div>
-                  <label style={{ display: 'flex', alignItems: 'center', cursor: 'pointer' }}>
-                    <input type="checkbox" checked={showChapterBadge} onChange={toggleChapterBadge} style={{ display: 'none' }} />
-                    <div style={{
-                      width: '36px', height: '20px', background: showChapterBadge ? 'var(--color-primary)' : 'rgba(255,255,255,0.1)',
-                      borderRadius: '10px', position: 'relative', transition: 'all 0.3s',
-                      boxShadow: showChapterBadge ? '0 0 10px rgba(168, 85, 247, 0.4)' : 'none'
-                    }}>
-                      <div style={{
-                        width: '14px', height: '14px', background: '#fff', borderRadius: '50%',
-                        position: 'absolute', top: '3px', left: showChapterBadge ? '19px' : '3px', transition: 'all 0.3s'
-                      }}></div>
+                {/* Toggles */}
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(135px, 1fr))', gap: '8px' }}>
+                  <div style={{ 
+                    display: 'flex', alignItems: 'center', justifyContent: 'space-between', 
+                    padding: '10px 12px', background: 'rgba(0,0,0,0.2)', borderRadius: '10px',
+                    border: '1px solid rgba(255,255,255,0.05)'
+                  }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                      <svg viewBox="0 0 24 24" fill="none" stroke="var(--text-secondary)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ width: '14px', height: '14px', flexShrink: 0 }}>
+                        <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                        <circle cx="12" cy="12" r="3"></circle>
+                      </svg>
+                      <span style={{ fontSize: '0.8rem', fontWeight: 600, color: 'var(--text-secondary)', whiteSpace: 'nowrap' }}>Label Bab</span>
                     </div>
-                  </label>
+                    <label style={{ display: 'flex', alignItems: 'center', cursor: 'pointer' }}>
+                      <input type="checkbox" checked={showChapterBadge} onChange={toggleChapterBadge} style={{ display: 'none' }} />
+                      <div style={{
+                        width: '32px', height: '18px', background: showChapterBadge ? 'var(--color-primary)' : 'rgba(255,255,255,0.1)',
+                        borderRadius: '9px', position: 'relative', transition: 'all 0.3s',
+                        boxShadow: showChapterBadge ? '0 0 10px rgba(168, 85, 247, 0.4)' : 'none',
+                        flexShrink: 0
+                      }}>
+                        <div style={{
+                          width: '12px', height: '12px', background: '#fff', borderRadius: '50%',
+                          position: 'absolute', top: '3px', left: showChapterBadge ? '17px' : '3px', transition: 'all 0.3s'
+                        }}></div>
+                      </div>
+                    </label>
+                  </div>
+                  
+                  <div style={{ 
+                    display: 'flex', alignItems: 'center', justifyContent: 'space-between', 
+                    padding: '10px 12px', background: 'rgba(0,0,0,0.2)', borderRadius: '10px',
+                    border: '1px solid rgba(255,255,255,0.05)'
+                  }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                      <svg viewBox="0 0 24 24" fill="none" stroke="var(--text-secondary)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ width: '14px', height: '14px', flexShrink: 0 }}>
+                        <circle cx="12" cy="12" r="10"></circle>
+                        <line x1="4.93" y1="4.93" x2="19.07" y2="19.07"></line>
+                      </svg>
+                      <span style={{ fontSize: '0.8rem', fontWeight: 600, color: 'var(--text-secondary)', whiteSpace: 'nowrap' }}>Skip Dikuasai</span>
+                    </div>
+                    <label style={{ display: 'flex', alignItems: 'center', cursor: 'pointer' }}>
+                      <input type="checkbox" checked={hideMastered} onChange={toggleHideMastered} style={{ display: 'none' }} />
+                      <div style={{
+                        width: '32px', height: '18px', background: hideMastered ? 'var(--color-primary)' : 'rgba(255,255,255,0.1)',
+                        borderRadius: '9px', position: 'relative', transition: 'all 0.3s',
+                        boxShadow: hideMastered ? '0 0 10px rgba(168, 85, 247, 0.4)' : 'none',
+                        flexShrink: 0
+                      }}>
+                        <div style={{
+                          width: '12px', height: '12px', background: '#fff', borderRadius: '50%',
+                          position: 'absolute', top: '3px', left: hideMastered ? '17px' : '3px', transition: 'all 0.3s'
+                        }}></div>
+                      </div>
+                    </label>
+                  </div>
                 </div>
               </div>
 
