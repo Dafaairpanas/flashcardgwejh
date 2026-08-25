@@ -461,7 +461,7 @@ export default function HistoryClient() {
 
                   {/* ── Bunpou ── */}
                   {progress.bunpou?.all?.total > 0 && (
-                    <div>
+                    <div style={{ marginBottom: '24px' }}>
                       <div style={{ fontSize: '1rem', fontWeight: 700, color: '#fff', marginBottom: '14px', display: 'flex', alignItems: 'center', gap: '8px' }}>
                         <span style={{ width: '10px', height: '10px', borderRadius: '3px', background: 'var(--accent-emerald)', display: 'inline-block' }}></span>
                         Tata Bahasa (Bunpou)
@@ -470,6 +470,20 @@ export default function HistoryClient() {
                         </span>
                       </div>
                       <ProgressBar label="Semua Bab" data={progress.bunpou.all} gradient="linear-gradient(90deg, #10b981, #6ee7b7)" />
+                    </div>
+                  )}
+
+                  {/* ── Renshuu (JFT A2) ── */}
+                  {progress.renshuu?.all?.total > 0 && (
+                    <div>
+                      <div style={{ fontSize: '1rem', fontWeight: 700, color: '#fff', marginBottom: '14px', display: 'flex', alignItems: 'center', gap: '8px' }}>
+                        <span style={{ width: '10px', height: '10px', borderRadius: '3px', background: 'var(--accent-rose)', display: 'inline-block' }}></span>
+                        Lainnya (JFT A2)
+                        <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)', fontWeight: 400 }}>
+                          ({progress.renshuu.all.learned}/{progress.renshuu.all.total})
+                        </span>
+                      </div>
+                      <ProgressBar label="Semua Kartu" data={progress.renshuu.all} gradient="linear-gradient(90deg, #f43f5e, #fda4af)" />
                     </div>
                   )}
                 </div>

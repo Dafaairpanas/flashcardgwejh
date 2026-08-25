@@ -354,6 +354,13 @@ export class FSRSStateManager {
   }
 
   /**
+   * Check if a card has graduated (reached REVIEW state)
+   */
+  isGraduated(cardId) {
+    return this.states[cardId] && this.states[cardId].state === State.REVIEW;
+  }
+
+  /**
    * Get cards sorted by due date (due first, then new)
    * @param {Array} cards - Array of card objects with 'id' field
    * @param {Date} now

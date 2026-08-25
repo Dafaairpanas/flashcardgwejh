@@ -12,6 +12,8 @@
 const STORAGE_KEY = 'gw_history';
 const MAX_SESSION_DAYS = 90; // Keep max 90 days of session data
 
+import { fsrs } from '@/state';
+
 function getDefaultData() {
   return {
     sessions: [],       // [{ date, cardsPlayed, durationSec, accuracy, totalCorrect, totalReviewed }]
@@ -98,8 +100,9 @@ export function recordCardResponse(cardId, rating) {
     };
     // If it was mastered before, it's no longer mastered
     delete data.masteredCards[cardId];
-  } else if (rating === 4) {
-    // Easy: add to mastered, but do NOT remove from difficult.
+  } else if (rating === 4 || fsrs.isGraduated(cardId)) {
+    // Easy OR the card has graduated (reached REVIEW state, e.g. via Good)
+    // Add to mastered, but do NOT remove from difficult.
     // A card that was Hard then Easy in the same session should stay
     // in the difficult list — because the user struggled with it.
     // It only leaves difficult via manual removal by the user.
@@ -225,6 +228,9 @@ export function getProgressBySource(fsrsStates, allData) {
     },
     bunpou: {
       all: makeBucket(),
+    },
+    renshuu: {
+      all: makeBucket(),
     }
   };
   
@@ -232,7 +238,7 @@ export function getProgressBySource(fsrsStates, allData) {
 
   // Minna Kotoba
   for (const card of allData.minna || []) {
-    const isLearned = fsrsStates[card.id] && fsrsStates[card.id].state !== 0;
+    const isLearned = fsrsStates[card.id] && fsrsStates[card.id].state === 2; // state === 2 is REVIEW (graduated)
     const hasKanji = KANJI_REGEX.test(card.kanji);
     const imp = card.importinity ?? 1;
     
@@ -248,7 +254,7 @@ export function getProgressBySource(fsrsStates, allData) {
 
   // Irodori Kotoba
   for (const card of allData.irodori || []) {
-    const isLearned = fsrsStates[card.id] && fsrsStates[card.id].state !== 0;
+    const isLearned = fsrsStates[card.id] && fsrsStates[card.id].state === 2; // state === 2 is REVIEW (graduated)
     const hasKanji = KANJI_REGEX.test(card.kanji);
     const imp = card.importinity ?? 1;
     
@@ -264,16 +270,23 @@ export function getProgressBySource(fsrsStates, allData) {
 
   // Kanji
   for (const card of allData.kanji || []) {
-    const isLearned = fsrsStates[card.id] && fsrsStates[card.id].state !== 0;
+    const isLearned = fsrsStates[card.id] && fsrsStates[card.id].state === 2;
     result.kanji.all.total++;
     if (isLearned) result.kanji.all.learned++;
   }
 
   // Bunpou
   for (const card of allData.bunpou || []) {
-    const isLearned = fsrsStates[card.id] && fsrsStates[card.id].state !== 0;
+    const isLearned = fsrsStates[card.id] && fsrsStates[card.id].state === 2;
     result.bunpou.all.total++;
     if (isLearned) result.bunpou.all.learned++;
+  }
+
+  // Renshuu (JFT A2)
+  for (const card of allData.renshuu || []) {
+    const isLearned = fsrsStates[card.id] && fsrsStates[card.id].state === 2;
+    result.renshuu.all.total++;
+    if (isLearned) result.renshuu.all.learned++;
   }
   
   // Calculate percentages
