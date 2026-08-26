@@ -151,15 +151,32 @@ export default function StudyView() {
       let copiesToAdd = 0;
       if (rating === 1) copiesToAdd = 3;
       else if (rating === 2) copiesToAdd = 2;
-      else if (rating === 3) copiesToAdd = 0; // Good tidak perlu diulang di sesi ini
+      else if (rating === 3) copiesToAdd = 1; // Good diulang 1 kali
 
       for (let i = 0; i < copiesToAdd; i++) {
         if (newQueue.length === 0) {
           newQueue.push(currentCard);
         } else {
-          const minIdx = Math.min(1, newQueue.length);
-          const randomIdx = Math.floor(Math.random() * (newQueue.length - minIdx + 1)) + minIdx;
-          newQueue.splice(randomIdx, 0, currentCard);
+          // Cari index penempatan yang tidak berdekatan dengan kartu yang sama
+          let validIndices = [];
+          for (let j = 1; j <= newQueue.length; j++) {
+            let prevCard = newQueue[j - 1];
+            let nextCard = newQueue[j];
+            if ((!prevCard || prevCard.id !== currentCard.id) && 
+                (!nextCard || nextCard.id !== currentCard.id)) {
+              validIndices.push(j);
+            }
+          }
+          
+          if (validIndices.length > 0) {
+            const randomIdx = validIndices[Math.floor(Math.random() * validIndices.length)];
+            newQueue.splice(randomIdx, 0, currentCard);
+          } else {
+            // Fallback jika tidak ada slot kosong, taruh secara random
+            const minIdx = Math.min(1, newQueue.length);
+            const randomIdx = Math.floor(Math.random() * (newQueue.length - minIdx + 1)) + minIdx;
+            newQueue.splice(randomIdx, 0, currentCard);
+          }
         }
       }
 
