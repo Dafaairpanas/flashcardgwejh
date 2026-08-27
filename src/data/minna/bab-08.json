@@ -61,7 +61,7 @@
   },
   {
     "id": "mn-08-007",
-    "kanji": "おいしい",
+    "kanji": "美味しい",
     "hiragana": "おいしい",
     "romaji": "oishii",
     "meaning": "Enak",
@@ -71,7 +71,7 @@
   },
   {
     "id": "mn-08-008",
-    "kanji": "おもしろい",
+    "kanji": "面白い",
     "hiragana": "おもしろい",
     "romaji": "omoshiroi",
     "meaning": "Menarik",
@@ -91,7 +91,7 @@
   },
   {
     "id": "mn-08-010",
-    "kanji": "きれい（な）",
+    "kanji": "綺麗",
     "hiragana": "きれい（な）",
     "romaji": "kirei(na)",
     "meaning": "Cantik / bersih",
@@ -111,7 +111,7 @@
   },
   {
     "id": "mn-08-012",
-    "kanji": "すてき（な）",
+    "kanji": "素敵",
     "hiragana": "すてき（な）",
     "romaji": "suteki(na)",
     "meaning": "Bagus",
@@ -181,7 +181,7 @@
   },
   {
     "id": "mn-08-019",
-    "kanji": "にぎやか（な）",
+    "kanji": "賑やか",
     "hiragana": "にぎやか（な）",
     "romaji": "nigiyaka(na)",
     "meaning": "Ramai",
@@ -251,7 +251,7 @@
   },
   {
     "id": "mn-08-026",
-    "kanji": "暇（な）",
+    "kanji": "暇",
     "hiragana": "ひま（な）",
     "romaji": "hima(na)",
     "meaning": "Senggang",
@@ -281,7 +281,7 @@
   },
   {
     "id": "mn-08-029",
-    "kanji": "元気（な）",
+    "kanji": "元気",
     "hiragana": "げんき（な）",
     "romaji": "genki(na)",
     "meaning": "Sehat",
@@ -431,7 +431,7 @@
   },
   {
     "id": "mn-08-044",
-    "kanji": "静か（な）",
+    "kanji": "静か",
     "hiragana": "しずか（な）",
     "romaji": "shizuka(na)",
     "meaning": "Sunyi / tenang",
@@ -511,7 +511,7 @@
   },
   {
     "id": "mn-08-052",
-    "kanji": "便利（な）",
+    "kanji": "便利",
     "hiragana": "べんり（な）",
     "romaji": "benri(na)",
     "meaning": "Praktis",
@@ -531,7 +531,7 @@
   },
   {
     "id": "mn-08-054",
-    "kanji": "有名（な）",
+    "kanji": "有名",
     "hiragana": "ゆうめい（な）",
     "romaji": "yuumei(na)",
     "meaning": "Terkenal",
