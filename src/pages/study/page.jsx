@@ -36,12 +36,14 @@ export default function StudyView() {
   
   const sessionStartTimeRef = useRef(Date.now());
   const weakCardsRef = useRef(new Map());
+  const firstRatingRef = useRef(new Map());
   const streakRef = useRef(0);
   const totalCorrectRef = useRef(0);
   const totalReviewedRef = useRef(0);
   const isInitialized = useRef(false);
   const isProcessingRef = useRef(false);
   const queueRef = useRef([]);
+  const isReviewLagiRef = useRef(false);
 
   // Keep queueRef in sync with queue state
   useEffect(() => {
@@ -76,6 +78,7 @@ export default function StudyView() {
     }
     
     isInitialized.current = true;
+    isReviewLagiRef.current = isReviewLagi;
     
     if (cards.length === 0) {
       alert('Tidak ada kartu! Kembali ke menu.');
@@ -141,12 +144,13 @@ export default function StudyView() {
       }
       totalReviewedRef.current += 1;
 
-      fsrs.reviewCard(currentCard.id, rating);
-      recordCardResponse(currentCard.id, rating);
+      if (!firstRatingRef.current.has(currentCard.id)) {
+        firstRatingRef.current.set(currentCard.id, rating);
+      }
       
       // Use queueRef for fresh data (avoids stale closure in setTimeout)
       const currentQueue = queueRef.current;
-      let newQueue = currentQueue.slice(1).filter(c => c.id !== currentCard.id);
+      let newQueue = currentQueue.slice(1);
       
       let copiesToAdd = 0;
       if (rating === 1) copiesToAdd = 3;
@@ -178,6 +182,16 @@ export default function StudyView() {
             newQueue.splice(randomIdx, 0, currentCard);
           }
         }
+      }
+
+      // ONLY save to FSRS and history when the card is completely cleared from the session queue
+      const hasMoreCopies = newQueue.some(c => c.id === currentCard.id);
+      if (!hasMoreCopies) {
+        const actualRating = firstRatingRef.current.get(currentCard.id) || rating;
+        if (!isReviewLagiRef.current) {
+          fsrs.reviewCard(currentCard.id, actualRating);
+        }
+        recordCardResponse(currentCard.id, actualRating);
       }
 
       if (newQueue.length === 0) {
