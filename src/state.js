@@ -8,7 +8,7 @@ export const state = {
   studyMode: 1,         // 1-4
   soundEnabled: true,
   // Font
-  jpFont: typeof window !== 'undefined' ? (localStorage.getItem('gw_jp_font') || '"Noto Sans JP", sans-serif') : '"Noto Sans JP", sans-serif',
+  jpFont: typeof window !== 'undefined' ? (localStorage.getItem('gw_jp_font') || '"UDDigiKyokasho", sans-serif') : '"UDDigiKyokasho", sans-serif',
 
   // Study session
   sessionQueue: null,       // SessionQueue instance

@@ -12,7 +12,7 @@ export const useStore = create(
       soundEnabled: false,
       showChapterBadge: true, // Show/hide chapter badge on flashcards
       hideMastered: false, // Don't show mastered cards
-      jpFont: typeof window !== 'undefined' ? (localStorage.getItem('gw_jp_font') || '"Noto Sans JP", sans-serif') : '"Noto Sans JP", sans-serif',
+      jpFont: typeof window !== 'undefined' ? (localStorage.getItem('gw_jp_font') || '"UDDigiKyokasho", sans-serif') : '"UDDigiKyokasho", sans-serif',
       
       // Data
       allCards: [],

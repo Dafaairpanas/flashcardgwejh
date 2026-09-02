@@ -13,6 +13,7 @@ export default function SettingsPage() {
     { value: '"Noto Sans JP", sans-serif', label: 'Noto Sans JP (Modern & Bersih)' },
     { value: '"Noto Serif JP", serif', label: 'Noto Serif JP (Klasik & Elegan)' },
     { value: '"Klee One", cursive', label: 'Klee One (Mirip Tulisan Tangan)' },
+    { value: '"UDDigiKyokasho", sans-serif', label: 'UD Digi Kyokasho (Buku Pelajaran)' },
   ];
 
   return (

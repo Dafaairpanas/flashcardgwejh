@@ -6,6 +6,7 @@ const VALID_FONTS = [
   '"Noto Sans JP", sans-serif',
   '"Noto Serif JP", serif',
   '"Klee One", cursive',
+  '"UDDigiKyokasho", sans-serif',
 ];
 
 // Google Fonts CSS URLs for fonts that aren't self-hosted
@@ -23,7 +24,7 @@ export default function FontProvider() {
   useEffect(() => {
     // Migrate removed fonts (Zen Maru Gothic, Hiragino Kaku, Yu Gothic) to default
     if (!VALID_FONTS.includes(jpFont)) {
-      setJpFont('"Noto Sans JP", sans-serif');
+      setJpFont('"UDDigiKyokasho", sans-serif');
       return;
     }
     document.documentElement.style.setProperty('--font-jp', jpFont);

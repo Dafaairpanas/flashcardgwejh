@@ -58,7 +58,7 @@
 
   /* Typography */
   --font-ui: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-  --font-jp: 'Noto Sans JP', 'Hiragino Kaku Gothic Pro', 'Yu Gothic', sans-serif;
+  --font-jp: 'UDDigiKyokasho', 'Noto Sans JP', 'Hiragino Kaku Gothic Pro', 'Yu Gothic', sans-serif;
 
   /* Rating colors */
   --color-again: #ef4444;
