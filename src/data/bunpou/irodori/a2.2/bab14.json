@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "id": "i_bab14_1",
+    "chapter": "Bab 14",
+    "source": "irodori",
+    "title": "ナA-に／イA-く V (NaA-ni / IA-ku V) — Melakukan V dengan Cara ...",
+    "romajiTitle": "NaA-ni / IA-ku V",
+    "meaning": "Pola untuk menyatakan cara melakukan suatu tindakan dengan mengubah kata sifat menjadi kata keterangan. Untuk kata sifat-na (ナA), ubah menjadi 'に'; untuk kata sifat-i (イA), ubah 'い' menjadi 'く'. Sangat berguna saat memberikan instruksi di salon atau menjelaskan cara melakukan sesuatu. Artinya 'Melakukan V dengan cara [sifat]' atau 'Melakukan V secara [sifat]'.",
+    "formula": "[Kata Sifat-na] + に + [Kata Kerja] / [Kata Sifat-i tanpa い] + く + [Kata Kerja]",
+    "examples": [
+      {
+        "jp": "全体的に短く切ってください。",
+        "romaji": "Zentaiteki ni mijikaku katte kudasai.",
+        "id_translation": "Tolong potong secara keseluruhan dengan pendek."
+      },
+      {
+        "jp": "ゆっくり話してください。",
+        "romaji": "Yukkuri hanashite kudasai.",
+        "id_translation": "Tolong bicara pelan-pelan."
+      }
+    ],
+    "notes": "Contoh lain: 静かにする (melakukan dengan tenang), 早く走る (berlari cepat), きれいに掃除する (membersihkan dengan rapi). Untuk kata sifat-i: 安くする (membuat menjadi murah), 大きくする (membuat menjadi besar). '全体的に' (secara keseluruhan) adalah kata keterangan yang sering digunakan di salon.",
+    "tags": ["B1", "Cara", "Instruksi", "Salon"]
+  },
+  {
+    "id": "i_bab14_2",
+    "chapter": "Bab 14",
+    "source": "irodori",
+    "title": "Nのために、〜 (N no tame ni, ~) — Untuk N / Demi N",
+    "romajiTitle": "N no tame ni",
+    "meaning": "Pola untuk menyatakan tujuan atau manfaat untuk seseorang atau sesuatu. 'ために' berarti 'untuk' atau 'demi' dan digunakan dengan kata benda. Sangat berguna saat menjelaskan layanan yang disediakan untuk orang asing atau tujuan tertentu. Artinya 'Untuk [N]' atau 'Demi [N]'.",
+    "formula": "[Kata Benda] + のために、[Tindakan/Layanan]",
+    "examples": [
+      {
+        "jp": "外国の方のために、いろいろなサービスがあります。",
+        "romaji": "Gaikoku no kata no tame ni, iroirona saabisu ga arimasu.",
+        "id_translation": "Untuk orang asing, ada berbagai layanan."
+      },
+      {
+        "jp": "健康のために、毎日運動しています。",
+        "romaji": "Kenkou no tame ni, mainichi undou shite imasu.",
+        "id_translation": "Demi kesehatan, saya berolahraga setiap hari."
+      }
+    ],
+    "notes": "Untuk kata kerja, gunakan 'V-るために' (untuk melakukan V). Contoh: 日本に住むために、日本語を勉強しています (Saya belajar bahasa Jepang untuk tinggal di Jepang). Perbedaan: 'ために' untuk tujuan yang spesifik dan terencana, 'ように' untuk tujuan/usaha yang lebih umum. 'Nのために' bisa juga berarti 'karena N' dalam konteks tertentu.",
+    "tags": ["B1", "Tujuan", "Layanan", "Manfaat"]
+  }
+]

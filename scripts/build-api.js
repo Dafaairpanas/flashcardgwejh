@@ -123,9 +123,16 @@ const apiBunpouDir = path.join(process.cwd(), 'public', 'api', 'bunpou');
 if (!fs.existsSync(apiBunpouDir)) fs.mkdirSync(apiBunpouDir, { recursive: true });
 
 if (fs.existsSync(bunpouDir)) {
-  ['minna'].forEach(sub => {
-    const subDir = path.join(bunpouDir, sub);
-    const apiSubDir = path.join(apiBunpouDir, sub);
+  const bunpouSections = [
+    { subPath: 'minna', apiTarget: 'minna', sourceName: 'minna' },
+    { subPath: path.join('irodori', 'a1'), apiTarget: 'irodori-a1', sourceName: 'irodori' },
+    { subPath: path.join('irodori', 'a2.1'), apiTarget: 'irodori-a2-1', sourceName: 'irodori' },
+    { subPath: path.join('irodori', 'a2.2'), apiTarget: 'irodori-a2-2', sourceName: 'irodori' }
+  ];
+
+  bunpouSections.forEach(({ subPath, apiTarget, sourceName }) => {
+    const subDir = path.join(bunpouDir, subPath);
+    const apiSubDir = path.join(apiBunpouDir, apiTarget);
     if (!fs.existsSync(apiSubDir)) fs.mkdirSync(apiSubDir, { recursive: true });
     
     if (fs.existsSync(subDir)) {
@@ -136,13 +143,33 @@ if (fs.existsSync(bunpouDir)) {
           const data = JSON.parse(rawData);
           
           // Ensure unique IDs before writing the processed JSON back out
-          const processedData = data.map(item => ensureUniqueId(item));
+          const rawList = Array.isArray(data)
+            ? data
+            : (data && typeof data === 'object' && Object.keys(data).length > 0 ? [data] : []);
+          const processedData = rawList.map(item => ensureUniqueId(item));
           fs.writeFileSync(path.join(apiSubDir, file), JSON.stringify(processedData));
+
+          // Also mirror for dot/dash aliases (e.g. irodori-a2-1 <-> irodori-a2.1)
+          const altApiTarget = apiTarget.includes('a2-')
+            ? apiTarget.replace('a2-', 'a2.')
+            : apiTarget.replace('a2.', 'a2-');
+          if (altApiTarget !== apiTarget) {
+            const altSubDir = path.join(apiBunpouDir, altApiTarget);
+            if (!fs.existsSync(altSubDir)) fs.mkdirSync(altSubDir, { recursive: true });
+            fs.writeFileSync(path.join(altSubDir, file), JSON.stringify(processedData));
+          }
           
           processedData.forEach(item => {
-            searchCache.bunpou.push({ ...item, chapter: item.chapter || file.replace('.json', ''), _category: 'bunpou' });
+            searchCache.bunpou.push({
+              ...item,
+              chapter: item.chapter || file.replace('.json', ''),
+              source: item.source || sourceName,
+              _category: 'bunpou'
+            });
           });
-        } catch (e) {}
+        } catch (e) {
+          console.error(`Error processing bunpou file ${path.join(subDir, file)}:`, e);
+        }
       });
     }
   });

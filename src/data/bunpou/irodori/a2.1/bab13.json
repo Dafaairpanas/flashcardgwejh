@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "id": "i_bab13_1",
+    "chapter": "Bab 13",
+    "source": "irodori",
+    "title": "〜んですが… (~n desu ga…) — Maaf, ...",
+    "romajiTitle": "~n desu ga",
+    "meaning": "Pola kalimat untuk mengawali laporan atau pertanyaan tentang masalah yang sedang terjadi, terutama di tempat kerja. 'んですが' adalah bentuk penjelasan + penghubung yang sopan untuk mengantarkan laporan atau permintaan bantuan. Digunakan untuk melaporkan kesulitan atau masalah kepada atasan/rekan kerja. Artinya '(Maaf), [keadaan/masalah] (sebenarnya)...'",
+    "formula": "[Keadaan/Masalah] + んですが",
+    "examples": [
+      {
+        "jp": "会議室の電気がつかないんですが…。",
+        "romaji": "Kaigishitsu no denki ga tsukanai n desu ga…",
+        "id_translation": "Lampu ruang rapat tidak menyala (sebenarnya)..."
+      },
+      {
+        "jp": "パソコンが動かないんですが…。",
+        "romaji": "Pasokon ga ugokanai n desu ga…",
+        "id_translation": "Komputer tidak berfungsi (sebenarnya)..."
+      }
+    ],
+    "notes": "'んですが' (atau 'のですが') membuat laporan lebih halus dan sopan. Biasanya diikuti dengan permintaan bantuan atau saran. Untuk melaporkan ke atasan, gunakan '〜んですが、どうしたらいいですか？' (..., apa yang harus saya lakukan?). 'んですが' juga bisa digunakan saat memulai percakapan untuk meminta bantuan.",
+    "tags": ["A2", "Tempat Kerja", "Laporan", "Masalah"]
+  },
+  {
+    "id": "i_bab13_2",
+    "chapter": "Bab 13",
+    "source": "irodori",
+    "title": "V-そうです (V-sou desu) — Kelihatannya Akan ...",
+    "romajiTitle": "V-sou desu",
+    "meaning": "Pola kalimat untuk menyatakan prediksi atau dugaan berdasarkan apa yang terlihat atau dirasakan, terutama untuk sesuatu yang akan terjadi. Berbeda dengan kata sifat 'そうです' (kelihatannya), untuk kata kerja gunakan bentuk 'ます' tanpa 'ます' + 'そうです'. Artinya 'Kelihatannya akan [melakukan V]' atau 'Sepertinya akan [V]'.",
+    "formula": "[Kata Kerja Bentuk Masu tanpa masu] + そうです",
+    "examples": [
+      {
+        "jp": "どのぐらいかかりそうですか？",
+        "romaji": "Dono gurai kakarisou desu ka?",
+        "id_translation": "Kelihatannya akan butuh waktu berapa lama?"
+      },
+      {
+        "jp": "もうすぐ終わりそうです。",
+        "romaji": "Mou sugu owarisou desu.",
+        "id_translation": "Kelihatannya akan segera selesai."
+      }
+    ],
+    "notes": "Perbedaan: Kata sifat 'そう' (kelihatannya [sifat]) vs Kata kerja 'そう' (kelihatannya akan [V]). Untuk kata sifat: おいしそう (kelihatan enak). Untuk kata kerja: 降りそう (kelihatan akan turun hujan), 遅れそう (kelihatan akan terlambat). Bentuk negatif: なさそう (sepertinya tidak akan V).",
+    "tags": ["A2", "Prediksi", "Estimasi", "Tempat Kerja"]
+  },
+  {
+    "id": "i_bab13_3",
+    "chapter": "Bab 13",
+    "source": "irodori",
+    "title": "V-ると、〜 (V-ru to, ~) — Kalau V, Maka ...",
+    "romajiTitle": "V-ru to",
+    "meaning": "Pola kalimat untuk menyatakan hubungan sebab-akibat yang pasti atau konsekuensi alami. 'と' berarti 'kalau' atau 'ketika', dan menunjukkan bahwa jika A terjadi, maka B akan terjadi secara otomatis. Sangat berguna saat menjelaskan cara kerja mesin atau instruksi. Artinya 'Kalau [V], maka [akibat]'.",
+    "formula": "[Kata Kerja Bentuk Kamus] + と、[Akibat]",
+    "examples": [
+      {
+        "jp": "このスタートボタンを押すと、コピーが始まります。",
+        "romaji": "Kono sutaato botan wo osu to, kopii ga hajimarimasu.",
+        "id_translation": "Kalau tekan tombol start ini, mesin fotokopi akan mulai."
+      },
+      {
+        "jp": "このボタンを押すと、電気がつきます。",
+        "romaji": "Kono botan wo osu to, denki ga tsukimasu.",
+        "id_translation": "Kalau tekan tombol ini, lampu akan menyala."
+      }
+    ],
+    "notes": "'と' menyatakan hubungan yang pasti (bukan kemungkinan). Berbeda dengan 'たら' yang menyatakan kondisi hipotetis. Contoh: 春になると、花が咲く (Kalau musim semi tiba, bunga mekar - fakta umum). 'と' tidak bisa digunakan untuk menyatakan keinginan, ajakan, atau permintaan. Untuk instruksi manual, 'と' sangat umum digunakan.",
+    "tags": ["A2", "Kondisi", "Instruksi", "Tempat Kerja"]
+  }
+]

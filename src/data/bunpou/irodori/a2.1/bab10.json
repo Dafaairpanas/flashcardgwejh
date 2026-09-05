@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": "i_bab10_1",
+    "chapter": "Bab 10",
+    "source": "irodori",
+    "title": "V-てみたいんですが… (V-te mitai n desu ga…) — Saya Mau Coba ...",
+    "romajiTitle": "V-te mitai n desu ga",
+    "meaning": "Pola kalimat untuk menyatakan keinginan mencoba melakukan sesuatu untuk pertama kalinya. 'V-てみる' berarti 'mencoba melakukan', dan 'たい' menyatakan keinginan. 'んですが' adalah bentuk sopan untuk mengantarkan pertanyaan. Sangat berguna saat menanyakan tentang kursus atau aktivitas baru. Artinya 'Saya mau mencoba [melakukan] (sebenarnya)...'.",
+    "formula": "[Kata Kerja Bentuk te] + みたいんですが",
+    "examples": [
+      {
+        "jp": "合気道をやってみたいんですが…。",
+        "romaji": "Aikido wo yatte mitai n desu ga…",
+        "id_translation": "Saya mau mencoba aikido (sebenarnya)..."
+      },
+      {
+        "jp": "日本語のクラスに参加してみたいんですが。",
+        "romaji": "Nihongo no kurasu ni sanka shite mitai n desu ga.",
+        "id_translation": "Saya mau mencoba ikut kelas bahasa Jepang."
+      }
+    ],
+    "notes": "'V-てみる' berarti 'mencoba melakukan' dengan nuansa 'eksperimen' atau 'coba-coba'. Berbeda dengan 'V-る' yang berarti melakukan secara serius. Contoh: 食べてみる (Mencoba makan) vs 食べる (Makan). Untuk menanyakan informasi lebih lanjut, tambahkan pertanyaan setelah 'んですが'.",
+    "tags": ["A2", "Mencoba", "Keinginan", "Kursus"]
+  },
+  {
+    "id": "i_bab10_2",
+    "chapter": "Bab 10",
+    "source": "irodori",
+    "title": "【durasi】に〜回 ([Durasi] ni ~kai) — ... Kali dalam ...",
+    "romajiTitle": "[Durasi] ni ~kai",
+    "meaning": "Pola untuk menyatakan frekuensi suatu kegiatan dalam jangka waktu tertentu. '〜回' (kai) berarti 'kali', dan partikel 'に' menunjukkan periode waktu. Sangat berguna saat menjelaskan jadwal kursus atau kegiatan rutin. Artinya '[Jumlah] kali dalam [durasi]'.",
+    "formula": "[Periode Waktu] に [Jumlah] 回",
+    "examples": [
+      {
+        "jp": "日本語クラスは週に1回です。",
+        "romaji": "Nihongo kurasu wa shuu ni ikkai desu.",
+        "id_translation": "Kelas bahasa Jepang seminggu sekali."
+      },
+      {
+        "jp": "この教室は月に2回開かれます。",
+        "romaji": "Kono kyoushitsu wa tsuki ni nikai hirakaremasu.",
+        "id_translation": "Kelas ini diadakan sebulan dua kali."
+      }
+    ],
+    "notes": "Counter untuk frekuensi: 1回 (ikkai), 2回 (nikai), 3回 (sankai), 4回 (yonkai), 5回 (gokai), 6回 (rokkai), 7回 (nanakai), 8回 (hakkai), 9回 (kyuukai), 10回 (jukkai). Untuk 'setiap hari' gunakan '毎日' (mainichi), 'setiap minggu' gunakan '毎週' (maishuu).",
+    "tags": ["A2", "Frekuensi", "Jadwal", "Kursus"]
+  },
+  {
+    "id": "i_bab10_3",
+    "chapter": "Bab 10",
+    "source": "irodori",
+    "title": "V-ましょうか？ (V-mashou ka?) — Mau Saya ...?",
+    "romajiTitle": "V-mashou ka?",
+    "meaning": "Pola kalimat untuk menawarkan bantuan atau melakukan sesuatu untuk orang lain. 'V-ましょう' berarti 'ayo lakukan' atau 'saya akan lakukan', dan 'か' di akhir menjadikannya pertanyaan tawaran. Sangat berguna saat menawarkan bantuan kepada teman atau rekan kerja. Artinya 'Mau saya [lakukan]?' atau 'Bagaimana kalau saya [lakukan]?'.",
+    "formula": "[Kata Kerja Bentuk Masu tanpa masu] + ましょうか？",
+    "examples": [
+      {
+        "jp": "教室のチラシを持って来ましょうか？",
+        "romaji": "Kyoushitsu no chirashi wo motte kimashou ka?",
+        "id_translation": "Mau saya bawakan selebaran kelasnya?"
+      },
+      {
+        "jp": "手伝いましょうか？",
+        "romaji": "Tetsudaimashou ka?",
+        "id_translation": "Mau saya bantu?"
+      }
+    ],
+    "notes": "Cara merespon tawaran: Menerima: はい、お願いします (Ya, tolong) / ありがとうございます (Terima kasih). Menolak dengan sopan: 大丈夫です (Tidak apa-apa) / 結構です (Tidak perlu - sopan). 'V-ましょうか' adalah tawaran, sedangkan 'V-ませんか' adalah ajakan (bersama-sama).",
+    "tags": ["A2", "Tawaran", "Bantuan", "Sopan"]
+  },
+  {
+    "id": "i_bab10_4",
+    "chapter": "Bab 10",
+    "source": "irodori",
+    "title": "Balik Bertanya — Menanyakan Makna",
+    "romajiTitle": "Balik Bertanya",
+    "meaning": "Pola untuk menanyakan makna atau arti dari suatu kata atau frasa yang tidak dimengerti. Ini adalah cara sopan untuk meminta klarifikasi dalam percakapan. Sangat berguna saat belajar bahasa Jepang atau mendengar kata baru. Artinya 'Maaf, apa arti [kata]?'.",
+    "formula": "すみません。「[Kata]」はどういう意味ですか？",
+    "examples": [
+      {
+        "jp": "すみません。「ぼご」はどういう意味ですか？",
+        "romaji": "Sumimasen. 「Bogo」wa dou iu imi desu ka?",
+        "id_translation": "Maaf, apa arti 'bogo'?"
+      },
+      {
+        "jp": "「よろしく」はどういう意味ですか？",
+        "romaji": "「Yoroshiku」wa dou iu imi desu ka?",
+        "id_translation": "Apa arti 'yoroshiku'?"
+      }
+    ],
+    "notes": "Cara lain menanyakan makna: 〜は何ですか？ (Apa itu ~?), 〜は英語で何と言いますか？ (Bagaimana mengatakan ~ dalam bahasa Inggris?). Untuk meminta penjelasan lebih lanjut: どういうことですか？ (Apa maksudnya?). Sangat penting untuk tidak ragu bertanya saat belajar.",
+    "tags": ["A2", "Pertanyaan", "Makna", "Belajar"]
+  },
+  {
+    "id": "i_bab10_5",
+    "chapter": "Bab 10",
+    "source": "irodori",
+    "title": "Nのとき／ナA-なとき／イA-いとき (N no toki / NaA-na toki / IA-i toki) — Pada Saat ...",
+    "romajiTitle": "N no toki / NaA-na toki / IA-i toki",
+    "meaning": "Pola untuk menyatakan waktu atau momen tertentu saat suatu kejadian terjadi. 'とき' berarti 'saat' atau 'ketika'. Untuk kata benda (N) gunakan 'のとき', untuk kata sifat-na (ナA) gunakan 'なとき', untuk kata sifat-i (イA) langsung 'いとき'. Sangat berguna saat menceritakan pengalaman masa lalu. Artinya 'Pada saat [N/sifat]'.",
+    "formula": "[N] のとき / [ナA] なとき / [イA-i] とき",
+    "examples": [
+      {
+        "jp": "高校のとき、少し日本語を勉強しました。",
+        "romaji": "Koukou no toki, sukoshi Nihongo wo benkyou shimashita.",
+        "id_translation": "Pada saat SMA, saya belajar bahasa Jepang sedikit."
+      },
+      {
+        "jp": "静かなとき、勉強しやすいです。",
+        "romaji": "Shizuka na toki, benkyou shiyasui desu.",
+        "id_translation": "Saat sedang sepi, mudah belajar."
+      },
+      {
+        "jp": "忙しいとき、休みたいです。",
+        "romaji": "Isogashii toki, yasumitai desu.",
+        "id_translation": "Saat sedang sibuk, saya ingin istirahat."
+      }
+    ],
+    "notes": "Untuk kata kerja: [Kata Kerja Bentuk Kamus/Formal] + とき (saat akan melakukan V) dan [Kata Kerja Bentuk Lampau] + とき (saat sudah melakukan V). Contoh: 日本に行くとき (Saat akan pergi ke Jepang) vs 日本に行ったとき (Saat sudah pergi ke Jepang).",
+    "tags": ["A2", "Waktu", "Saat", "Pengalaman"]
+  }
+]

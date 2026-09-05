@@ -1,1 +1,76 @@
-[]
+[
+  {
+    "id": "i_bab03_1",
+    "chapter": "Bab 03",
+    "source": "irodori",
+    "title": "今日はいい天気ですね (Kyou wa ii tenki desu ne)",
+    "romajiTitle": "Kyou wa ii tenki desu ne",
+    "meaning": "Pola kalimat untuk menyatakan cuaca yang sedang berlangsung. '今日は' berarti 'hari ini', 'いい天気' berarti 'cuaca bagus', dan 'ですね' di akhir berarti 'ya' (mencari persetujuan). Sangat umum digunakan sebagai sapaan atau pembuka percakapan tentang cuaca. Artinya 'Cuaca hari ini bagus ya.'",
+    "formula": "[Hari] は [Cuaca] ですね",
+    "examples": [
+      {
+        "jp": "今日はいい天気ですね。",
+        "romaji": "Kyou wa ii tenki desu ne.",
+        "id_translation": "Cuaca hari ini bagus ya."
+      },
+      {
+        "jp": "昨日はすごい雨でしたね。",
+        "romaji": "Kinou wa sugoi ame deshita ne.",
+        "id_translation": "Kemarin hujan deras ya."
+      }
+    ],
+    "notes": "Membicarakan cuaca adalah cara yang umum untuk memulai percakapan di Jepang. 'ですね' di akhir menunjukkan bahwa Anda mencari persetujuan dari lawan bicara. Kata sifat untuk cuaca: いい (bagus), 悪い (buruk), 暑い (panas), 寒い (dingin), 暖かい (hangat), 涼しい (sejuk).",
+    "tags": ["A2", "Cuaca", "Salam", "Musim"]
+  },
+  {
+    "id": "i_bab03_2",
+    "chapter": "Bab 03",
+    "source": "irodori",
+    "title": "V-ています ③ (V-te imasu) — Keadaan Berlangsung",
+    "romajiTitle": "V-te imasu",
+    "meaning": "Pola kalimat untuk menyatakan bahwa suatu keadaan atau fenomena sedang berlangsung (termasuk cuaca). Fungsi ketiga dari 'V-ています' untuk menyatakan perubahan yang sedang terjadi atau keadaan yang terus berlanjut. Digunakan untuk cuaca dan fenomena alam. Artinya 'Sedang [keadaan]' atau 'Terus [keadaan]'.",
+    "formula": "[Kata Kerja Bentuk te] + います",
+    "examples": [
+      {
+        "jp": "今も少し雨が降っています。",
+        "romaji": "Ima mo sukoshi ame ga futte imasu.",
+        "id_translation": "Sekarang pun masih hujan sedikit."
+      },
+      {
+        "jp": "雪が積もっています。",
+        "romaji": "Yuki ga tsumotte imasu.",
+        "id_translation": "Salju sedang menumpuk."
+      }
+    ],
+    "notes": "Untuk cuaca, 'V-ています' digunakan untuk menyatakan keadaan yang sedang berlangsung. Contoh: 雨が降っています (Sedang hujan), 風が吹いています (Angin sedang bertiup), 雪が降っています (Sedang turun salju). Berbeda dengan 'V-ます' yang menyatakan kebiasaan atau fakta umum.",
+    "tags": ["A2", "Cuaca", "Keadaan", "Fenomena Alam"]
+  },
+  {
+    "id": "i_bab03_3",
+    "chapter": "Bab 03",
+    "source": "irodori",
+    "title": "N／ナA-／イA-い／ V-る でしょう (N / NaA / IA-i / V-ru deshou) — Mungkin",
+    "romajiTitle": "N / NaA / IA-i / V-ru deshou",
+    "meaning": "Pola kalimat untuk menyatakan prediksi, perkiraan, atau kemungkinan tentang sesuatu di masa depan. 'でしょう' berarti 'mungkin' atau 'akan'. Dapat digunakan dengan kata benda (N), kata sifat-na (ナA), kata sifat-i (イA), atau kata kerja (V). Sangat berguna saat berbicara tentang prakiraan cuaca atau prediksi. Artinya 'Mungkin [N/sifat/aktivitas]'.",
+    "formula": "[N / ナA / イA-i / V-ru] + でしょう",
+    "examples": [
+      {
+        "jp": "明日は晴れるでしょう。",
+        "romaji": "Ashita wa hareru deshou.",
+        "id_translation": "Besok mungkin akan cerah."
+      },
+      {
+        "jp": "明日は雨でしょう。",
+        "romaji": "Ashita wa ame deshou.",
+        "id_translation": "Besok mungkin hujan."
+      },
+      {
+        "jp": "明日は寒いでしょう。",
+        "romaji": "Ashita wa samui deshou.",
+        "id_translation": "Besok mungkin dingin."
+      }
+    ],
+    "notes": "'でしょう' adalah bentuk yang lebih sopan dari 'だろう' (kasual). Untuk prediksi cuaca: 晴れるでしょう (akan cerah), 雨が降るでしょう (akan hujan), 曇るでしょう (akan mendung). Untuk menyatakan prediksi dengan lebih pasti, gunakan 'でしょう' tanpa ragu.",
+    "tags": ["A2", "Prediksi", "Cuaca", "Kemungkinan"]
+  }
+]

@@ -1,1 +1,94 @@
-[]
+[
+  {
+    "id": "i_bab12_1",
+    "chapter": "Bab 12",
+    "source": "irodori",
+    "title": "【tanggal】に【tempat】で【acara】があります ([Tanggal] ni [tempat] de [acara] ga arimasu)",
+    "romajiTitle": "[Tanggal] ni [tempat] de [acara] ga arimasu",
+    "meaning": "Pola kalimat untuk menyatakan bahwa suatu acara akan diadakan pada waktu dan tempat tertentu. 'に' menunjukkan waktu, 'で' menunjukkan tempat, dan 'があります' berarti 'ada'. Sangat berguna saat membaca pengumuman atau undangan acara. Artinya 'Ada acara [acara] di [tempat] pada [tanggal]'.",
+    "formula": "[Tanggal] に [Tempat] で [Acara] が あります",
+    "examples": [
+      {
+        "jp": "日曜日にさくら公園でタイフェスティバルがあります。",
+        "romaji": "Nichiyoubi ni Sakura Kouen de Tai Fesutibaru ga arimasu.",
+        "id_translation": "Ada festival Thailand di Taman Sakura pada hari Minggu."
+      },
+      {
+        "jp": "来週の土曜日に市民ホールでコンサートがあります。",
+        "romaji": "Raishuu no doyoubi ni Shimin Hooru de konsaato ga arimasu.",
+        "id_translation": "Ada konser di Balai Warga pada hari Sabtu minggu depan."
+      }
+    ],
+    "notes": "Urutan dalam kalimat: [Waktu] に [Tempat] で [Acara] が あります。Untuk waktu yang spesifik seperti hari dan tanggal, gunakan partikel 'に'. Untuk waktu yang lebih umum (seperti 'besok' atau 'minggu depan'), 'に' bisa dihilangkan.",
+    "tags": ["A1", "Acara", "Undangan", "Lokasi", "Waktu"]
+  },
+  {
+    "id": "i_bab12_2",
+    "chapter": "Bab 12",
+    "source": "irodori",
+    "title": "Nに行きます (N ni ikimasu)",
+    "romajiTitle": "N ni ikimasu",
+    "meaning": "Pola kalimat untuk menyatakan pergi ke suatu acara atau tempat. 'に' menunjukkan tujuan, dan '行きます' berarti 'pergi'. Digunakan untuk menanyakan atau menyatakan kehadiran di suatu acara. Artinya 'Pergi ke [acara/tempat]'.",
+    "formula": "[Acara/Tempat] に 行きます",
+    "examples": [
+      {
+        "jp": "明日の忘年会に行きますか？",
+        "romaji": "Ashita no bounenkai ni ikimasu ka?",
+        "id_translation": "Apakah kamu pergi ke pesta akhir tahun besok?"
+      },
+      {
+        "jp": "夏祭りに行きます。",
+        "romaji": "Natsu-matsuri ni ikimasu.",
+        "id_translation": "Saya pergi ke festival musim panas."
+      }
+    ],
+    "notes": "Untuk tujuan berupa tempat fisik (bukan acara), tetap gunakan pola yang sama: 東京に行きます (Pergi ke Tokyo). Untuk pertanyaan, tambahkan 'か' di akhir. Untuk menyatakan tidak pergi, gunakan: 行きません (tidak pergi).",
+    "tags": ["A1", "Acara", "Pergi", "Kehadiran"]
+  },
+  {
+    "id": "i_bab12_3",
+    "chapter": "Bab 12",
+    "source": "irodori",
+    "title": "V-ませんか？ (V-masen ka?) — Ajakan",
+    "romajiTitle": "V-masen ka?",
+    "meaning": "Pola kalimat untuk mengajak seseorang melakukan sesuatu bersama. Bentuk negatif dari kata kerja + 'か' digunakan sebagai ajakan yang sopan. Secara harfiah berarti 'Tidak mau [aktivitas]?', tetapi dalam praktiknya berarti 'Mau [aktivitas] bersama?' atau 'Bagaimana kalau kita [aktivitas]?'. Sangat umum digunakan untuk mengajak teman atau rekan kerja.",
+    "formula": "[Kata Kerja Bentuk Masu tanpa masu] + ませんか？",
+    "examples": [
+      {
+        "jp": "いっしょに行きませんか？",
+        "romaji": "Issho ni ikimasen ka?",
+        "id_translation": "Bagaimana kalau kita pergi bersama?"
+      },
+      {
+        "jp": "映画を見ませんか？",
+        "romaji": "Eiga wo mimasen ka?",
+        "id_translation": "Bagaimana kalau kita menonton film?"
+      }
+    ],
+    "notes": "Cara merespon ajakan: Menerima: はい、いいですね (Ya, bagus). / はい、行きましょう (Ya, ayo pergi). Menolak dengan sopan: すみません、ちょっと… (Maaf, agak...). / また今度お願いします (Lain kali saja). 'V-ませんか' lebih sopan daripada 'V-ましょうか'.",
+    "tags": ["A1", "Ajakan", "Sopan", "Komunikasi"]
+  },
+  {
+    "id": "i_bab12_4",
+    "chapter": "Bab 12",
+    "source": "irodori",
+    "title": "V-ましょう (V-mashou) — Ayo ...",
+    "romajiTitle": "V-mashou",
+    "meaning": "Pola kalimat untuk mengajak atau menawarkan melakukan sesuatu bersama, atau menyatakan niat untuk melakukan sesuatu. Bentuk ini lebih langsung daripada 'V-ませんか' dan sering digunakan saat sudah ada kesepakatan atau saat menyatakan rencana. Artinya 'Ayo [aktivitas]' atau 'Saya akan [aktivitas]'.",
+    "formula": "[Kata Kerja Bentuk Masu tanpa masu] + ましょう",
+    "examples": [
+      {
+        "jp": "また今度行きましょう。",
+        "romaji": "Mata kondo ikimashou.",
+        "id_translation": "Ayo pergi lain kali."
+      },
+      {
+        "jp": "みんなで食べに行きましょう。",
+        "romaji": "Minna de tabe ni ikimashou.",
+        "id_translation": "Ayo pergi makan bersama-sama."
+      }
+    ],
+    "notes": "Perbedaan: 'V-ませんか' = ajakan yang lebih sopan (masih menanyakan pendapat), 'V-ましょう' = ajakan yang lebih tegas/bersemangat (sudah ada kesepakatan). Contoh penggunaan: A: 映画を見ませんか？ (Mau nonton film?) B: いいですね。見ましょう！ (Bagus! Ayo nonton!)",
+    "tags": ["A1", "Ajakan", "Rencana", "Komunikasi"]
+  }
+]

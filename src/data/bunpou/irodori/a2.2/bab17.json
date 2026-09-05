@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "i_bab17_1",
+    "chapter": "Bab 17",
+    "source": "irodori",
+    "title": "V-（られ）るようになりました (V-（rare）ru you ni narimashita) — Menjadi Bisa V (Sekarang)",
+    "romajiTitle": "V-（rare）ru you ni narimashita",
+    "meaning": "Pola untuk menyatakan bahwa seseorang telah mencapai kemampuan baru atau keadaan baru yang sebelumnya tidak bisa dilakukan. 'V-（られ）る' adalah bentuk potensial (bisa V), 'ようになる' berarti 'menjadi seperti' atau 'menjadi bisa'. Sangat berguna saat menceritakan perkembangan kemampuan bahasa Jepang atau adaptasi dengan kehidupan di Jepang. Artinya 'Menjadi bisa [melakukan V] (sekarang)'.",
+    "formula": "[Kata Kerja Potensial] + ようになりました",
+    "examples": [
+      {
+        "jp": "最近は、ほかの人にお店の情報を教えられるようになりました。",
+        "romaji": "Saikin wa, hoka no hito ni omise no jouhou wo oshierareru you ni narimashita.",
+        "id_translation": "Akhir-akhir ini, saya menjadi bisa memberi informasi toko kepada orang lain."
+      },
+      {
+        "jp": "日本語が話せるようになりました。",
+        "romaji": "Nihongo ga hanaseru you ni narimashita.",
+        "id_translation": "Saya menjadi bisa berbicara bahasa Jepang."
+      },
+      {
+        "jp": "日本の生活に慣れるようになりました。",
+        "romaji": "Nihon no seikatsu ni nareru you ni narimashita.",
+        "id_translation": "Saya menjadi bisa terbiasa dengan kehidupan di Jepang."
+      }
+    ],
+    "notes": "'V-るようになりました' digunakan untuk perubahan keadaan secara umum (bukan hanya kemampuan). Contoh: 毎日運動するようになりました (Saya menjadi biasa berolahraga setiap hari). Untuk menyatakan 'menjadi tidak bisa V' atau 'menjadi tidak V lagi', gunakan 'V-なくなります': 最近、食べなくなった (Akhir-akhir ini menjadi tidak makan). 'ようになる' menunjukkan perubahan bertahap dari waktu ke waktu.",
+    "tags": ["B1", "Perubahan", "Kemampuan", "Adaptasi"]
+  }
+]

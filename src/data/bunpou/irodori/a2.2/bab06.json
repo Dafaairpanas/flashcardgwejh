@@ -1,1 +1,117 @@
-[]
+[
+  {
+    "id": "i_bab06_1",
+    "chapter": "Bab 06",
+    "source": "irodori",
+    "title": "V-るつもりです (V-ru tsumori desu) — Berniat / Berencana V",
+    "romajiTitle": "V-ru tsumori desu",
+    "meaning": "Pola untuk menyatakan niat atau rencana yang sudah dipikirkan dengan matang. 'つもり' berarti 'niat' atau 'maksud'. Berbeda dengan 'V-たいです' (ingin) yang menunjukkan keinginan, 'V-るつもり' menunjukkan niat yang lebih kuat dan sudah direncanakan. Sangat berguna saat menceritakan rencana perjalanan. Artinya 'Saya berniat [melakukan V]'.",
+    "formula": "[Kata Kerja Bentuk Kamus] + つもりです",
+    "examples": [
+      {
+        "jp": "明日は、中禅寺湖に行くつもりです。",
+        "romaji": "Ashita wa, Chuzenji-ko ni iku tsumori desu.",
+        "id_translation": "Saya berniat pergi ke Danau Chuzenji besok."
+      },
+      {
+        "jp": "来年、日本に戻るつもりです。",
+        "romaji": "Rainen, Nihon ni modoru tsumori desu.",
+        "id_translation": "Saya berniat kembali ke Jepang tahun depan."
+      }
+    ],
+    "notes": "Bentuk negatif: V-ないつもりです (berniat tidak V). Contoh: 行かないつもりです (Berniat tidak pergi). Untuk menyatakan rencana yang lebih pasti, gunakan 'V-る予定です' (berencana V). 'つもり' juga bisa berarti 'anggap' dalam konteks lain: わかったつもり (Anggap sudah paham).",
+    "tags": ["B1", "Rencana", "Niat", "Perjalanan"]
+  },
+  {
+    "id": "i_bab06_2",
+    "chapter": "Bab 06",
+    "source": "irodori",
+    "title": "V-（られ）て、〜／V-（られ）なくて、〜 — Karena Bisa V / Karena Tidak Bisa V",
+    "romajiTitle": "V-（rare）te / V-（rare）nakute",
+    "meaning": "Pola untuk menyatakan alasan perasaan senang atau kecewa berdasarkan kemampuan atau ketidakmampuan melakukan sesuatu. 'V-られて' (bisa V, jadi...) dan 'V-られなくて' (tidak bisa V, jadi...) menggunakan bentuk 'て' dari potensial. Sangat berguna saat menyatakan kesan perjalanan. Artinya 'Karena bisa V, [perasaan]' / 'Karena tidak bisa V, [perasaan]'.",
+    "formula": "[Kata Kerja Potensial Bentuk te] + [Perasaan] / [Kata Kerja Potensial Negatif Bentuk te] + [Perasaan]",
+    "examples": [
+      {
+        "jp": "いろいろなところに行けて、よかったです。",
+        "romaji": "Iroirona tokoro ni ikete, yokatta desu.",
+        "id_translation": "Karena bisa pergi ke berbagai tempat, itu bagus."
+      },
+      {
+        "jp": "ショーが見られなくて、残念でした。",
+        "romaji": "Shou ga mirarenakute, zannen deshita.",
+        "id_translation": "Karena tidak bisa melihat pertunjukan, itu disayangkan."
+      }
+    ],
+    "notes": "Pola ini menggunakan bentuk 'て' dari potensial: 行ける→行けて, 見られる→見られて. Untuk negatif: 行けない→行けなくて, 見られない→見られなくて. Sangat natural untuk menyatakan kesan dalam bahasa Jepang. Contoh lain: 温泉に入れて、気持ちよかったです (Karena bisa masuk onsen, terasa enak).",
+    "tags": ["B1", "Kesan", "Alasan", "Perjalanan"]
+  },
+  {
+    "id": "i_bab06_3",
+    "chapter": "Bab 06",
+    "source": "irodori",
+    "title": "S1し、S2し、〜 — Selain S1, Juga S2 ...",
+    "romajiTitle": "S1 shi, S2 shi",
+    "meaning": "Pola untuk menyatakan beberapa alasan atau informasi secara bersamaan. 'し' digunakan di akhir setiap klausa untuk menunjukkan bahwa ada beberapa poin yang disebutkan. Sangat berguna saat memberikan alasan mengapa suatu perjalanan menyenangkan. Artinya '[Klausa1], dan juga [Klausa2], [Klausa3], ...'.",
+    "formula": "[Klausa 1] + し、[Klausa 2] + し、[Klausa 3]",
+    "examples": [
+      {
+        "jp": "海で泳げたし、船に乗れたし、楽しかったです。",
+        "romaji": "Umi de oyogeta shi, fune ni noreta shi, tanoshikatta desu.",
+        "id_translation": "Bisa berenang di laut, juga bisa naik kapal, jadi menyenangkan."
+      },
+      {
+        "jp": "景色がきれいだし、食べ物もおいしかったし、また行きたいです。",
+        "romaji": "Keshiki ga kirei da shi, tabemono mo oishikatta shi, mata ikitai desu.",
+        "id_translation": "Pemandangan indah, makanannya juga enak, jadi saya ingin pergi lagi."
+      }
+    ],
+    "notes": "Menggunakan minimal 2 klausa dengan 'し'. Klausa terakhir tidak perlu diikuti 'し' jika sudah jelas. Untuk kata sifat-na dan kata benda, gunakan 'だし': 静かだし, 便利だし. 'し' juga bisa berarti 'dan juga' atau 'apalagi', memberikan nuansa bahwa ada alasan lain yang tidak disebutkan.",
+    "tags": ["B1", "Alasan", "Kesan", "Penghubung"]
+  },
+  {
+    "id": "i_bab06_4",
+    "chapter": "Bab 06",
+    "source": "irodori",
+    "title": "V-る／V-ている／V-た とき、〜 — Pada Saat V ...",
+    "romajiTitle": "V-ru / V-te iru / V-ta toki",
+    "meaning": "Pola untuk menyatakan waktu atau momen tertentu saat suatu kejadian terjadi. 'とき' berarti 'saat' atau 'ketika'. Bentuk kata kerja sebelum 'とき' menunjukkan waktu relatif: bentuk kamus (saat akan V), bentuk 'ている' (saat sedang V), bentuk lampau (saat sudah V). Sangat berguna saat menceritakan pengalaman perjalanan. Artinya 'Pada saat [V]'.",
+    "formula": "[Kata Kerja Bentuk Kamus/ている/た] + とき",
+    "examples": [
+      {
+        "jp": "道を歩いているとき、リスを見ました。",
+        "romaji": "Michi wo aruite iru toki, risu wo mimashita.",
+        "id_translation": "Saat sedang berjalan di jalan, saya melihat tupai."
+      },
+      {
+        "jp": "日本に行くとき、カメラを買いました。",
+        "romaji": "Nihon ni iku toki, kamera wo kaimashita.",
+        "id_translation": "Saat akan pergi ke Jepang, saya membeli kamera."
+      }
+    ],
+    "notes": "Perbedaan: 行くとき (saat akan pergi), 行っているとき (saat sedang pergi), 行ったとき (saat sudah pergi). 'とき' sering diikuti 'に' untuk menunjukkan waktu spesifik. Contoh: 子供のとき (saat masih anak-anak), 大学生のとき (saat mahasiswa).",
+    "tags": ["B1", "Waktu", "Saat", "Pengalaman"]
+  },
+  {
+    "id": "i_bab06_5",
+    "chapter": "Bab 06",
+    "source": "irodori",
+    "title": "【orang】と【jumlah orang】で — Dengan ... Sebanyak ... Orang",
+    "romajiTitle": "[Orang] to [jumlah orang] de",
+    "meaning": "Pola untuk menyatakan jumlah orang yang melakukan aktivitas bersama. 'と' berarti 'dengan' (orang yang bersama), 'で' menunjukkan jumlah total orang. Sangat berguna saat menjelaskan dengan siapa dan berapa orang pergi. Artinya 'Dengan [orang], total [jumlah] orang'.",
+    "formula": "[Orang] と [Jumlah] 人で",
+    "examples": [
+      {
+        "jp": "友だちと2人でハウステンボスに行って来ました。",
+        "romaji": "Tomodachi to futari de Hausu Ten Bosu ni itte kimashita.",
+        "id_translation": "Saya pergi ke Huis Ten Bosch dengan teman, total 2 orang."
+      },
+      {
+        "jp": "家族と4人で旅行しました。",
+        "romaji": "Kazoku to yonin de ryokou shimashita.",
+        "id_translation": "Saya bepergian dengan keluarga, total 4 orang."
+      }
+    ],
+    "notes": "Cara menghitung orang: 1人 (hitori), 2人 (futari), 3人 (sannin), 4人 (yonin), 5人 (gonin). 'で' di sini menunjukkan 'dengan total'. Perhatikan bahwa 'と' digunakan untuk orang yang diajak, sedangkan 'で' digunakan untuk total jumlah. Contoh: 1人で行きました (Saya pergi sendirian - tanpa 'と').",
+    "tags": ["B1", "Jumlah", "Bersama", "Perjalanan"]
+  }
+]

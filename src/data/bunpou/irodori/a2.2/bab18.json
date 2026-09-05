@@ -1,1 +1,117 @@
-[]
+[
+  {
+    "id": "i_bab18_1",
+    "chapter": "Bab 18",
+    "source": "irodori",
+    "title": "V-（よ）うと思います／思っています (V-（yo）u to omoimasu / omotte imasu) — Saya Berpikir untuk V (Berniat)",
+    "romajiTitle": "V-（yo）u to omoimasu / omotte imasu",
+    "meaning": "Pola untuk menyatakan niat atau rencana masa depan. 'V-（よ）う' adalah bentuk ajakan/keinginan (volitional), dan '思います' berarti 'berpikir'. '思っています' menunjukkan bahwa niat tersebut sudah dipikirkan dan dipertimbangkan lebih lama. Sangat berguna saat menyatakan cita-cita atau rencana. Artinya 'Saya berniat [melakukan V]'.",
+    "formula": "[Kata Kerja Bentuk Volitional] + と思います / 思っています",
+    "examples": [
+      {
+        "jp": "将来は、タイで自分の会社を作ろうと思います。",
+        "romaji": "Shourai wa, Tai de jibun no kaisha wo tsukurou to omoimasu.",
+        "id_translation": "Saya berniat membuat perusahaan sendiri di Thailand di masa depan."
+      },
+      {
+        "jp": "日本に住もうと思っています。",
+        "romaji": "Nihon ni sumou to omotte imasu.",
+        "id_translation": "Saya berencana untuk tinggal di Jepang."
+      }
+    ],
+    "notes": "Bentuk volitional: Kelompok 1: 行く→行こう, 話す→話そう, 作る→作ろう. Kelompok 2: 食べる→食べよう, 見る→見よう. Kelompok 3: する→しよう, 来る→来よう. Perbedaan: '思います' untuk niat yang baru dipikirkan, '思っています' untuk niat yang sudah dipertimbangkan lebih lama.",
+    "tags": ["B1", "Niat", "Rencana", "Masa Depan"]
+  },
+  {
+    "id": "i_bab18_2",
+    "chapter": "Bab 18",
+    "source": "irodori",
+    "title": "V-るために、〜 (V-ru tame ni, ~) — Untuk V (Tujuan)",
+    "romajiTitle": "V-ru tame ni",
+    "meaning": "Pola untuk menyatakan tujuan spesifik melakukan suatu tindakan. 'ために' berarti 'untuk' dan digunakan dengan bentuk kamus kata kerja. Berbeda dengan 'ように' (tujuan/usaha yang lebih umum), 'ために' digunakan untuk tujuan yang lebih konkret dan terencana. Sangat berguna saat menjelaskan alasan belajar atau bekerja. Artinya 'Untuk [melakukan V]'.",
+    "formula": "[Kata Kerja Bentuk Kamus] + ために、[Tindakan]",
+    "examples": [
+      {
+        "jp": "日本に住むために、もっと日本語をがんばろうと思います。",
+        "romaji": "Nihon ni sumu tame ni, motto Nihongo wo ganbarou to omoimasu.",
+        "id_translation": "Untuk tinggal di Jepang, saya berniat lebih giat belajar bahasa Jepang."
+      },
+      {
+        "jp": "試験に合格するために、毎日勉強しています。",
+        "romaji": "Shiken ni goukaku suru tame ni, mainichi benkyou shite imasu.",
+        "id_translation": "Untuk lulus ujian, saya belajar setiap hari."
+      }
+    ],
+    "notes": "Untuk kata benda, gunakan 'Nのために'. Contoh: 家族のために働きます (Bekerja untuk keluarga). Perbedaan: 'ために' untuk tujuan spesifik/terencana, 'ように' untuk tujuan/usaha yang lebih umum. 'ために' diikuti tindakan yang disengaja, sedangkan 'ように' bisa diikuti tindakan yang tidak disengaja.",
+    "tags": ["B1", "Tujuan", "Rencana", "Masa Depan"]
+  },
+  {
+    "id": "i_bab18_3",
+    "chapter": "Bab 18",
+    "source": "irodori",
+    "title": "V-てあげます (V-te agemasu) — Saya Memberi / Melakukan untuk Orang Lain",
+    "romajiTitle": "V-te agemasu",
+    "meaning": "Pola untuk menyatakan bahwa pembicara melakukan sesuatu untuk orang lain (atau orang lain melakukan untuk orang lain). 'あげる' berarti 'memberi' dan dalam konteks ini berarti 'melakukan untuk'. Sangat berguna saat menyatakan niat membantu atau memberikan sesuatu kepada orang lain. Artinya 'Saya [melakukan V] untuk [orang lain]'.",
+    "formula": "[Kata Kerja Bentuk te] + あげます",
+    "examples": [
+      {
+        "jp": "両親に、家を建ててあげるつもりです。",
+        "romaji": "Ryoushin ni, ie wo tatete ageru tsumori desu.",
+        "id_translation": "Saya berniat membangunkan rumah untuk orang tua."
+      },
+      {
+        "jp": "友だちに本を貸してあげました。",
+        "romaji": "Tomodachi ni hon wo kashite agemashita.",
+        "id_translation": "Saya meminjamkan buku untuk teman."
+      }
+    ],
+    "notes": "Arah pemberian: あげる (dari pembicara ke orang lain), くれる (dari orang lain ke pembicara), もらう (pembicara menerima dari orang lain). 'あげる' tidak boleh digunakan untuk atasan atau orang yang lebih tua (kurang sopan), gunakan '差し上げる' (sashiageru) untuk yang lebih formal/sopan.",
+    "tags": ["B1", "Memberi", "Tindakan", "Orang Lain"]
+  },
+  {
+    "id": "i_bab18_4",
+    "chapter": "Bab 18",
+    "source": "irodori",
+    "title": "V-てもらいます (V-te moraimasu) — Saya Menerima (Orang Lain Melakukan untuk Saya)",
+    "romajiTitle": "V-te moraimasu",
+    "meaning": "Pola untuk menyatakan bahwa pembicara menerima tindakan dari orang lain. 'もらう' berarti 'menerima' dan menunjukkan bahwa seseorang melakukan sesuatu untuk pembicara. Sangat berguna saat mengucapkan terima kasih atas bantuan atau kebaikan orang lain. Artinya 'Saya menerima [tindakan] dari [orang lain]' atau '[Orang lain] [melakukan V] untuk saya'.",
+    "formula": "[Kata Kerja Bentuk te] + もらいます",
+    "examples": [
+      {
+        "jp": "JF工業のみなさんには、とても親切にしてもらいました。",
+        "romaji": "JF Kougyou no minasan ni wa, totemo shinsetsu ni shite moraimashita.",
+        "id_translation": "Saya menerima kebaikan yang sangat baik dari semua orang di JF Kogyo."
+      },
+      {
+        "jp": "先生に日本語を教えてもらいました。",
+        "romaji": "Sensei ni Nihongo wo oshiete moraimashita.",
+        "id_translation": "Saya menerima pelajaran bahasa Jepang dari guru."
+      }
+    ],
+    "notes": "Arah pemberian: あげる (saya ke orang lain), くれる (orang lain ke saya), もらう (saya menerima dari orang lain). 'もらう' fokus pada penerima (pembicara). Bentuk sopan: 'いただく' (itadaku). Contoh: 先生に教えていただきました (Saya menerima pelajaran dari guru - sangat sopan).",
+    "tags": ["B1", "Menerima", "Bantuan", "Orang Lain"]
+  },
+  {
+    "id": "i_bab18_5",
+    "chapter": "Bab 18",
+    "source": "irodori",
+    "title": "V-てくれます (V-te kuremasu) — Orang Lain Melakukan untuk Saya",
+    "romajiTitle": "V-te kuremasu",
+    "meaning": "Pola untuk menyatakan bahwa orang lain melakukan sesuatu untuk pembicara (atau untuk orang yang dekat dengan pembicara). 'くれる' berarti 'memberi' dan menunjukkan tindakan dari orang lain yang menguntungkan pembicara. Sangat berguna saat mengucapkan terima kasih atau menyatakan rasa syukur. Artinya '[Orang lain] [melakukan V] untuk saya'.",
+    "formula": "[Kata Kerja Bentuk te] + くれます",
+    "examples": [
+      {
+        "jp": "山内さんは、私にたくさん日本語を教えてくれました。",
+        "romaji": "Yamauchi-san wa, watashi ni takusan Nihongo wo oshiete kuremashita.",
+        "id_translation": "Yamauchi mengajari saya banyak bahasa Jepang."
+      },
+      {
+        "jp": "友だちが手伝ってくれました。",
+        "romaji": "Tomodachi ga tetsudatte kuremashita.",
+        "id_translation": "Teman membantu saya."
+      }
+    ],
+    "notes": "Arah pemberian: あげる (saya ke orang lain), くれる (orang lain ke saya - dari sudut pandang penerima), もらう (saya menerima dari orang lain). 'くれる' fokus pada pemberi dan digunakan ketika pembicara menerima manfaat. Bentuk sopan: 'くださる' (kudasaru). Contoh: 先生が教えてくださいました (Guru mengajari saya - sangat sopan).",
+    "tags": ["B1", "Menerima", "Bantuan", "Orang Lain"]
+  }
+]

@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "id": "i_bab08_1",
+    "chapter": "Bab 08",
+    "source": "irodori",
+    "title": "もうV-ました／まだV-て（い）ません (Mou V-mashita / Mada V-te (i)masen) — Sudah V / Belum V",
+    "romajiTitle": "Mou V-mashita / Mada V-te (i)masen",
+    "meaning": "Pola untuk menanyakan atau menyatakan apakah suatu tindakan sudah selesai dilakukan atau belum. 'もう' berarti 'sudah' dan diikuti bentuk lampau positif. 'まだ' berarti 'belum' dan diikuti bentuk negatif. Sangat berguna saat menanyakan status acara atau pendaftaran. Artinya 'Sudah [V]?' / 'Belum [V]'.",
+    "formula": "もう [Kata Kerja Bentuk Lampau] + か？ / まだ [Kata Kerja Bentuk te] + いません",
+    "examples": [
+      {
+        "jp": "A: スピーチコンテストは、もう始まりましたか？ B: まだ始まってません。",
+        "romaji": "A: Supiichi kontesuto wa, mou hajimarimashita ka? B: Mada hajimatte masen.",
+        "id_translation": "A: Lomba pidato sudah dimulai? B: Belum dimulai."
+      },
+      {
+        "jp": "もう申し込みましたか？",
+        "romaji": "Mou moushikomimashita ka?",
+        "id_translation": "Sudah mendaftar?"
+      }
+    ],
+    "notes": "'まだV-ていません' adalah bentuk formal, sedangkan 'まだV-てません' adalah bentuk kasual yang sering digunakan dalam percakapan. Jawaban untuk 'もう〜ましたか？': はい、もう〜ました (Ya, sudah) / いいえ、まだです (Tidak, belum). Untuk 'まだ〜ていません', jawabannya bisa: はい、まだです (Ya, belum) atau いいえ、もう〜ました (Tidak, sudah).",
+    "tags": ["B1", "Status", "Acara", "Pendaftaran"]
+  },
+  {
+    "id": "i_bab08_2",
+    "chapter": "Bab 08",
+    "source": "irodori",
+    "title": "まだV-ます (Mada V-masu) — Masih V",
+    "romajiTitle": "Mada V-masu",
+    "meaning": "Pola untuk menyatakan bahwa suatu aktivitas masih berlangsung atau belum selesai. 'まだ' berarti 'masih' dan diikuti bentuk positif dari kata kerja. Berbeda dengan 'まだV-ていません' yang berarti 'belum', 'まだV-ます' berarti 'masih melakukan'. Sangat berguna saat menanyakan apakah acara masih berlangsung. Artinya 'Masih [melakukan V]'.",
+    "formula": "まだ + [Kata Kerja] + ます",
+    "examples": [
+      {
+        "jp": "イベント、まだやってますか？",
+        "romaji": "Ibento, mada yattemasu ka?",
+        "id_translation": "Acaranya masih berlangsung?"
+      },
+      {
+        "jp": "まだ開いていますか？",
+        "romaji": "Mada aite imasu ka?",
+        "id_translation": "Masih buka?"
+      }
+    ],
+    "notes": "Perbedaan penting: 'まだV-ています' = masih melakukan V (sedang berlangsung), 'まだV-ていません' = belum melakukan V (belum dimulai). Contoh: まだ食べています (Masih makan) vs まだ食べていません (Belum makan). Dalam konteks acara, 'まだやってます' berarti acara masih berlangsung, 'まだ始まっていません' berarti acara belum dimulai.",
+    "tags": ["B1", "Status", "Berlangsung", "Acara"]
+  },
+  {
+    "id": "i_bab08_3",
+    "chapter": "Bab 08",
+    "source": "irodori",
+    "title": "【kata tanya】＋ S（bentuk biasa）か、〜 — Apakah (S) ...?",
+    "romajiTitle": "【kata tanya】+ S (biasa) ka",
+    "meaning": "Pola untuk membuat pertanyaan tidak langsung dengan kata tanya. 'か' digunakan di dalam klausa untuk menunjukkan pertanyaan, dan diikuti kata kerja seperti 'わかります' (tahu) atau '教えてください' (tolong beri tahu). Sangat berguna saat bertanya tentang informasi acara. Artinya 'Apakah [S]?' atau 'Tahukah Anda [S]?'.",
+    "formula": "[Kata Tanya] + [Klausa (Bentuk Biasa)] + か + [Kata Kerja]",
+    "examples": [
+      {
+        "jp": "明日のフリーマーケットは、何時からか、わかりますか？",
+        "romaji": "Ashita no furiimaaketto wa, nan-ji kara ka, wakarimasu ka?",
+        "id_translation": "Apakah Anda tahu pasar loak besok mulai jam berapa?"
+      },
+      {
+        "jp": "このイベントに、どうやって申し込むか教えてください。",
+        "romaji": "Kono ibento ni, dou yatte moushikomu ka oshiete kudasai.",
+        "id_translation": "Tolong beri tahu cara mendaftar untuk acara ini."
+      }
+    ],
+    "notes": "Klausa di dalam 'か' harus dalam bentuk biasa (bukan bentuk sopan): 何時からか (bukan 何時からですかか). Kata tanya yang umum: 何 (apa), どこ (di mana), いつ (kapan), 誰 (siapa), どのように (bagaimana). Untuk pertanyaan ya/tidak, gunakan 'かどうか': 行くかどうかわかりますか？ (Apakah Anda tahu akan pergi atau tidak?).",
+    "tags": ["B1", "Pertanyaan", "Informasi", "Acara"]
+  }
+]

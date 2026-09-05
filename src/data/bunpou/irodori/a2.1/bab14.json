@@ -1,1 +1,94 @@
-[]
+[
+  {
+    "id": "i_bab14_1",
+    "chapter": "Bab 14",
+    "source": "irodori",
+    "title": "V-てもいいですか？ (V-te mo ii desu ka?) — Boleh ...?",
+    "romajiTitle": "V-te mo ii desu ka?",
+    "meaning": "Pola kalimat untuk meminta izin melakukan sesuatu kepada rekan kerja atau atasan. 'V-ても' berarti 'bahkan jika V', dan 'いいですか' berarti 'apakah boleh?'. Digunakan saat ingin meninggalkan tempat kerja atau melakukan tindakan tertentu. Artinya 'Apakah boleh [melakukan]?'",
+    "formula": "[Kata Kerja Bentuk te] + もいいですか？",
+    "examples": [
+      {
+        "jp": "トイレに行って来てもいいですか？",
+        "romaji": "Toire ni itte kite mo ii desu ka?",
+        "id_translation": "Apakah boleh pergi ke toilet (dan kembali)?"
+      },
+      {
+        "jp": "窓を開けてもいいですか？",
+        "romaji": "Mado wo akete mo ii desu ka?",
+        "id_translation": "Apakah boleh membuka jendela?"
+      }
+    ],
+    "notes": "Cara merespon: Menerima: はい、いいですよ (Ya, boleh) / どうぞ (Silakan). Menolak: すみません、ちょっと… (Maaf, agak...) / それはちょっと… (Itu agak...). Untuk izin yang lebih formal, gunakan 'V-てもよろしいですか？' (lebih sopan).",
+    "tags": ["A2", "Izin", "Tempat Kerja", "Sopan"]
+  },
+  {
+    "id": "i_bab14_2",
+    "chapter": "Bab 14",
+    "source": "irodori",
+    "title": "V-てもいいでしょうか？ (V-te mo ii deshou ka?) — Apakah Boleh ...? (Lebih Sopan)",
+    "romajiTitle": "V-te mo ii deshou ka?",
+    "meaning": "Pola yang lebih sopan untuk meminta izin, terutama kepada atasan atau orang yang lebih tua. 'でしょうか' adalah bentuk lebih sopan dan hati-hati dari 'ですか'. Memberikan nuansa keraguan dan rasa hormat yang lebih tinggi. Sangat cocok untuk situasi formal di tempat kerja. Artinya 'Apakah boleh [melakukan]?' (sangat sopan).",
+    "formula": "[Kata Kerja Bentuk te] + もいいでしょうか？",
+    "examples": [
+      {
+        "jp": "明日の午後、早退してもいいでしょうか？",
+        "romaji": "Ashita no gogo, soutai shite mo ii deshou ka?",
+        "id_translation": "Apakah boleh pulang lebih awal besok siang?"
+      },
+      {
+        "jp": "来週、休みを取ってもいいでしょうか？",
+        "romaji": "Raishuu, yasumi wo totte mo ii deshou ka?",
+        "id_translation": "Apakah boleh mengambil cuti minggu depan?"
+      }
+    ],
+    "notes": "Tingkat kesopanan: V-てもいいですか？ (standar) < V-てもいいでしょうか？ (sangat sopan) < V-てもよろしいでしょうか？ (paling sopan). Gunakan 'でしょうか' saat meminta izin kepada atasan langsung atau dalam situasi formal. Jawaban yang diharapkan: はい、結構ですよ (Ya, tidak apa-apa) / はい、大丈夫です (Ya, boleh).",
+    "tags": ["A2", "Izin", "Tempat Kerja", "Sangat Sopan"]
+  },
+  {
+    "id": "i_bab14_3",
+    "chapter": "Bab 14",
+    "source": "irodori",
+    "title": "V-なければなりません (V-nakereba narimasen) — Harus ...",
+    "romajiTitle": "V-nakereba narimasen",
+    "meaning": "Pola kalimat untuk menyatakan kewajiban atau keharusan melakukan sesuatu. 'V-なければ' berarti 'jika tidak V', dan 'なりません' berarti 'tidak menjadi' → 'tidak boleh tidak V' = 'harus V'. Digunakan untuk menjelaskan alasan ketidakhadiran atau kewajiban. Artinya 'Harus [melakukan V]'.",
+    "formula": "[Kata Kerja Bentuk Negatif tanpa nai] + なければなりません",
+    "examples": [
+      {
+        "jp": "ちょっと、役所に行かなければならないんです。",
+        "romaji": "Chotto, yakusho ni ikanakereba naranai n desu.",
+        "id_translation": "Saya harus pergi ke kantor pemerintah sebentar."
+      },
+      {
+        "jp": "毎日、日本語を勉強しなければなりません。",
+        "romaji": "Mainichi, Nihongo wo benkyou shinakereba narimasen.",
+        "id_translation": "Saya harus belajar bahasa Jepang setiap hari."
+      }
+    ],
+    "notes": "Bentuk kasual: V-なきゃ (ikanakya - harus pergi) atau V-なくちゃ (ikanakucha). Bentuk sopan: V-なければなりません. Dalam percakapan sehari-hari, 'なければなりません' sering disingkat menjadi 'なきゃ' atau 'なくちゃ'. Contoh: 行かなきゃ (Harus pergi - kasual).",
+    "tags": ["A2", "Kewajiban", "Keharusan", "Alasan"]
+  },
+  {
+    "id": "i_bab14_4",
+    "chapter": "Bab 14",
+    "source": "irodori",
+    "title": "〜んです ① (~n desu) — Penjelasan / Alasan",
+    "romajiTitle": "~n desu",
+    "meaning": "Pola kalimat untuk memberikan penjelasan, alasan, atau informasi tambahan yang mendasari suatu situasi. 'ん' adalah bentuk kasual dari 'の' yang berfungsi sebagai nominalisasi, dan 'です' membuatnya sopan. Digunakan untuk menjelaskan mengapa seseorang melakukan sesuatu atau mengapa situasi terjadi. Artinya '(Faktanya) [penjelasan]'.",
+    "formula": "[Kalimat Penjelasan] + んです",
+    "examples": [
+      {
+        "jp": "東京から、国の友だちが来るんです。",
+        "romaji": "Toukyou kara, kuni no tomodachi ga kuru n desu.",
+        "id_translation": "(Faktanya) teman dari negara saya datang dari Tokyo."
+      },
+      {
+        "jp": "明日、病院に行くんです。",
+        "romaji": "Ashita, byouin ni iku n desu.",
+        "id_translation": "(Faktanya) saya pergi ke rumah sakit besok."
+      }
+    ],
+    "notes": "Bentuk '〜んです' sering digunakan untuk memberikan konteks atau alasan. Dalam bentuk pertanyaan: どうして遅れたんですか？ (Mengapa terlambat? - meminta penjelasan). Jawaban: 電車が遅れたんです (Kereta terlambat - penjelasan). Juga digunakan untuk menekankan informasi baru.",
+    "tags": ["A2", "Penjelasan", "Alasan", "Konteks"]
+  }
+]

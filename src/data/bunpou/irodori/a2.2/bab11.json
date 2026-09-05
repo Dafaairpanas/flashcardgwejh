@@ -1,1 +1,140 @@
-[]
+[
+  {
+    "id": "i_bab11_1",
+    "chapter": "Bab 11",
+    "source": "irodori",
+    "title": "V-てみてもいいですか？ (V-te mite mo ii desu ka?) — Bolehkah Saya Coba V?",
+    "romajiTitle": "V-te mite mo ii desu ka?",
+    "meaning": "Pola untuk meminta izin mencoba sesuatu, terutama pakaian atau barang di toko. 'V-てみる' berarti 'mencoba melakukan', 'てもいいですか' berarti 'apakah boleh?'. Sangat berguna saat berbelanja pakaian. Artinya 'Bolehkah saya mencoba [melakukan V]?'.",
+    "formula": "[Kata Kerja Bentuk te] + みてもいいですか？",
+    "examples": [
+      {
+        "jp": "このセーター、着てみてもいいですか？",
+        "romaji": "Kono seetaa, kite mite mo ii desu ka?",
+        "id_translation": "Bolehkah saya mencoba memakai sweter ini?"
+      },
+      {
+        "jp": "この靴を履いてみてもいいですか？",
+        "romaji": "Kono kutsu wo haite mite mo ii desu ka?",
+        "id_translation": "Bolehkah saya mencoba memakai sepatu ini?"
+      }
+    ],
+    "notes": "Untuk meminta mencoba di toko: 試着してもいいですか？ (Bolehkah saya mencoba? - untuk pakaian). 'V-てみる' memiliki nuansa 'coba-coba' atau 'eksperimen'. Contoh lain: 食べてみてもいいですか？ (Bolehkah saya mencoba makan?). Untuk jawaban: はい、どうぞ (Ya, silakan) / すみません、ちょっと… (Maaf, agak...).",
+    "tags": ["B1", "Mencoba", "Berbelanja", "Izin"]
+  },
+  {
+    "id": "i_bab11_2",
+    "chapter": "Bab 11",
+    "source": "irodori",
+    "title": "ナA-／イA-すぎます (NaA / IA-sugimasu) — Terlalu ...",
+    "romajiTitle": "NaA / IA-sugimasu",
+    "meaning": "Pola untuk menyatakan bahwa suatu sifat berlebihan atau melewati batas yang diinginkan. Untuk kata sifat-na (ナA), tambahkan 'すぎます' langsung setelah kata sifat. Untuk kata sifat-i (イA), hilangkan 'い' dan tambahkan 'すぎます'. Sangat berguna saat memberikan pendapat tentang warna atau ukuran pakaian. Artinya 'Terlalu [sifat]'.",
+    "formula": "[Kata Sifat-na] + すぎます / [Kata Sifat-i tanpa い] + すぎます",
+    "examples": [
+      {
+        "jp": "この色はちょっと派手すぎます。",
+        "romaji": "Kono iro wa chotto hadesugimasu.",
+        "id_translation": "Warna ini agak terlalu mencolok."
+      },
+      {
+        "jp": "このサイズは大きすぎます。",
+        "romaji": "Kono saizu wa ookisugimasu.",
+        "id_translation": "Ukuran ini terlalu besar."
+      }
+    ],
+    "notes": "Juga bisa digunakan dengan kata kerja: 飲みすぎました (Terlalu banyak minum), 食べすぎました (Terlalu banyak makan). Bentuk negatif: すぎない (tidak terlalu). Untuk kata sifat-i: 安い→安すぎる (terlalu murah), 高い→高すぎる (terlalu mahal). Untuk kata sifat-na: 静か→静かすぎる (terlalu sepi), 便利→便利すぎる (terlalu praktis).",
+    "tags": ["B1", "Berlebihan", "Pendapat", "Berbelanja"]
+  },
+  {
+    "id": "i_bab11_3",
+    "chapter": "Bab 11",
+    "source": "irodori",
+    "title": "ナA-な／イA-い の (NaA-na / IA-i no) — Yang (Ukuran/Warna) ...",
+    "romajiTitle": "NaA-na / IA-i no",
+    "meaning": "Pola untuk meminta barang dengan sifat tertentu tanpa menyebutkan kata bendanya. 'の' berfungsi sebagai pengganti kata benda (nominalisasi). Untuk kata sifat-na, gunakan 'なの'; untuk kata sifat-i, gunakan 'いの'. Sangat berguna saat menanyakan ukuran atau warna lain di toko. Artinya 'Yang [sifat]'.",
+    "formula": "[Kata Sifat-na] + なの / [Kata Sifat-i] + の",
+    "examples": [
+      {
+        "jp": "もうちょっと大きいの、ありますか？",
+        "romaji": "Mou chotto ookii no, arimasu ka?",
+        "id_translation": "Apakah ada yang sedikit lebih besar?"
+      },
+      {
+        "jp": "赤いのはありますか？",
+        "romaji": "Akai no wa arimasu ka?",
+        "id_translation": "Apakah ada yang merah?"
+      }
+    ],
+    "notes": "'の' di sini menggantikan kata benda seperti '服' (pakaian) atau '靴' (sepatu). Contoh: 大きいのがいいです (Yang besar lebih baik). Untuk kata sifat-na: 静かなのがいいです (Yang tenang lebih baik). Juga bisa digunakan untuk meminta ukuran: 小さいの (yang kecil), 大きいの (yang besar).",
+    "tags": ["B1", "Ukuran", "Warna", "Berbelanja"]
+  },
+  {
+    "id": "i_bab11_4",
+    "chapter": "Bab 11",
+    "source": "irodori",
+    "title": "Nを V-（ら）れます (Pasif ③) — (Saya) Di-V (Barang Saya)",
+    "romajiTitle": "N wo V-（rare）masu",
+    "meaning": "Pola pasif khusus untuk menyatakan bahwa sesuatu yang dimiliki seseorang mengalami tindakan dari orang lain. Dalam pola ini, objek (barang yang dimiliki) menjadi fokus, dan pelaku tidak selalu disebutkan. Sangat berguna saat melaporkan kehilangan atau pencurian. Artinya 'Barang saya [di-V]'.",
+    "formula": "[Barang] を [Kata Kerja Pasif]",
+    "examples": [
+      {
+        "jp": "（私は）自転車を盗まれました。",
+        "romaji": "(Watashi wa) jitensha wo nusumaremashita.",
+        "id_translation": "Sepeda saya dicuri."
+      },
+      {
+        "jp": "バッグをとられました。",
+        "romaji": "Baggu wo toraremashita.",
+        "id_translation": "Tas saya diambil (dicuri)."
+      }
+    ],
+    "notes": "Ini adalah 'suffer passive' (pasif penderitaan) di mana pembicara mengalami kerugian. Pelaku tidak perlu disebutkan. Contoh lain: 財布を落とされました (Dompet saya dijatuhkan/dicuri), ケーキを食べられました (Kue saya dimakan orang). Untuk menyebutkan pelaku: 泥棒に財布を盗まれました (Dompet saya dicuri oleh pencuri).",
+    "tags": ["B1", "Pasif", "Kehilangan", "Masalah"]
+  },
+  {
+    "id": "i_bab11_5",
+    "chapter": "Bab 11",
+    "source": "irodori",
+    "title": "S（bentuk biasa）かもしれません (S (biasa) kamoshiremasen) — Mungkin S",
+    "romajiTitle": "S (biasa) kamoshiremasen",
+    "meaning": "Pola untuk menyatakan kemungkinan atau ketidakpastian tentang suatu hal. 'かもしれません' berarti 'mungkin' dan digunakan dengan bentuk biasa dari kata kerja/kata sifat. Sangat berguna saat berspekulasi tentang kejadian yang tidak pasti, seperti kehilangan barang. Artinya 'Mungkin [S]'.",
+    "formula": "[Klausa (Bentuk Biasa)] + かもしれません",
+    "examples": [
+      {
+        "jp": "もしかしたら、バッグをとられたかもしれません。",
+        "romaji": "Moshikashitara, baggu wo torareta kamoshiremasen.",
+        "id_translation": "Mungkin tas saya diambil (dicuri)."
+      },
+      {
+        "jp": "明日は雨かもしれません。",
+        "romaji": "Ashita wa ame kamoshiremasen.",
+        "id_translation": "Besok mungkin hujan."
+      }
+    ],
+    "notes": "Bentuk kasual: かも (kamo). 'もしかしたら' sering digunakan bersama 'かもしれません' untuk menekankan ketidakpastian. Untuk kata sifat-na dan kata benda, gunakan 'だ' sebelum 'かもしれません': 静かかもしれません (Mungkin tenang), 学生かもしれません (Mungkin pelajar).",
+    "tags": ["B1", "Kemungkinan", "Ketidakpastian", "Masalah"]
+  },
+  {
+    "id": "i_bab11_6",
+    "chapter": "Bab 11",
+    "source": "irodori",
+    "title": "V-てしまいました (V-te shimaimashita) — Tidak Sengaja / Sayangnya V",
+    "romajiTitle": "V-te shimaimashita",
+    "meaning": "Pola untuk menyatakan bahwa suatu tindakan terjadi secara tidak sengaja, tidak diinginkan, atau disayangkan. 'V-てしまう' memiliki dua nuansa: (1) menyelesaikan tindakan dengan sengaja, dan (2) terjadi tanpa sengaja/disayangkan. Dalam konteks berbelanja, sering digunakan untuk melaporkan kesalahan. Artinya 'Tidak sengaja [V]' / 'Sayangnya [V]'.",
+    "formula": "[Kata Kerja Bentuk te] + しまいました",
+    "examples": [
+      {
+        "jp": "ポイントカード、忘れてしまいました。",
+        "romaji": "Pointo kaado, wasurete shimaimashita.",
+        "id_translation": "Sayangnya saya lupa kartu poin."
+      },
+      {
+        "jp": "お金を落としてしまいました。",
+        "romaji": "Okane wo otoshite shimaimashita.",
+        "id_translation": "Saya tidak sengaja menjatuhkan uang."
+      }
+    ],
+    "notes": "Bentuk kasual: V-ちゃった (untuk てしまった). Contoh: 忘れちゃった (Lupa - sayangnya). 'しまいました' menunjukkan penyesalan atau ketidak-sengajaan. Untuk tindakan yang sengaja diselesaikan, gunakan 'V-てしまいました' juga bisa berarti 'selesai' tanpa nuansa negatif: 読み終わってしまいました (Sudah selesai membaca).",
+    "tags": ["B1", "Tidak Sengaja", "Penyesalan", "Masalah"]
+  }
+]

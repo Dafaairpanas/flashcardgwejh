@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "id": "i_bab17_1",
+    "chapter": "Bab 17",
+    "source": "irodori",
+    "title": "〜から持って来た飾りです (~kara motte kita kazari desu) — Ini Hiasan yang Dibawa dari ...",
+    "romajiTitle": "~kara motte kita kazari desu",
+    "meaning": "Pola kalimat untuk menjelaskan asal atau sumber suatu benda yang dibawa. '〜から' berarti 'dari', '持って来た' adalah bentuk lampau dari '持って来る' (membawa datang), dan '飾り' berarti 'hiasan' atau benda yang dibawa. Digunakan saat memberikan oleh-oleh atau menjelaskan benda yang dibawa saat berkunjung. Artinya 'Ini adalah hiasan/benda yang dibawa dari [tempat]'.",
+    "formula": "[Tempat] から 持って来た [Benda] です",
+    "examples": [
+      {
+        "jp": "ネパールから持って来た飾りです。",
+        "romaji": "Nepaaru kara motte kita kazari desu.",
+        "id_translation": "Ini adalah hiasan yang saya bawa dari Nepal."
+      },
+      {
+        "jp": "インドネシアから持って来たお土産です。",
+        "romaji": "Indoneshia kara motte kita omiyage desu.",
+        "id_translation": "Ini adalah oleh-oleh yang saya bawa dari Indonesia."
+      }
+    ],
+    "notes": "Untuk menyebutkan benda lain selain hiasan: お土産 (oleh-oleh), お菓子 (makanan ringan), お酒 (minuman beralkohol). Bentuk lampau '持って来た' (membawa datang) menunjukkan bahwa benda tersebut sudah dibawa ke tempat sekarang. '持って行った' (membawa pergi) digunakan jika benda dibawa ke tempat lain.",
+    "tags": ["A2", "Oleh-oleh", "Berkunjung", "Sumber"]
+  },
+  {
+    "id": "i_bab17_2",
+    "chapter": "Bab 17",
+    "source": "irodori",
+    "title": "〜にもらったんです (~ni moratta n desu) — Menerima dari ...",
+    "romajiTitle": "~ni moratta n desu",
+    "meaning": "Pola kalimat untuk menyatakan bahwa seseorang menerima sesuatu dari orang lain. '〜に' menunjukkan pemberi (orang yang memberikannya), 'もらった' adalah bentuk lampau dari 'もらう' (menerima), dan 'んです' memberikan penjelasan. Digunakan saat menjelaskan asal usul benda yang dimiliki atau diterima. Artinya '(Saya) menerima [benda] dari [orang]'.",
+    "formula": "[Orang] に [Benda] を もらったんです",
+    "examples": [
+      {
+        "jp": "このマグカップ、誕生日に友だちにもらったんです。",
+        "romaji": "Kono magukappu, tanjoubi ni tomodachi ni moratta n desu.",
+        "id_translation": "Mug ini, saya terima dari teman pada hari ulang tahun."
+      },
+      {
+        "jp": "このペンは先生にもらったんです。",
+        "romaji": "Kono pen wa sensei ni moratta n desu.",
+        "id_translation": "Pena ini, saya terima dari guru."
+      }
+    ],
+    "notes": "Perbedaan: 'もらう' (menerima) dari sudut pandang penerima, 'あげる' (memberi) dari sudut pandang pemberi, 'くれる' (memberi) dari sudut pandang penerima untuk pemberi yang dekat. Contoh: 友達がくれた (Teman memberi saya - dari sudut pandang penerima). 'もらったんです' memberikan nuansa penjelasan tentang bagaimana benda itu didapatkan.",
+    "tags": ["A2", "Menerima", "Pemberian", "Penjelasan"]
+  },
+  {
+    "id": "i_bab17_3",
+    "chapter": "Bab 17",
+    "source": "irodori",
+    "title": "〜がくれたものです (~ga kureta mono desu) — Diberi oleh ...",
+    "romajiTitle": "~ga kureta mono desu",
+    "meaning": "Pola kalimat untuk menyatakan bahwa seseorang memberi sesuatu kepada pembicara. '〜が' menunjukkan pemberi (subjek yang memberi), 'くれた' adalah bentuk lampau dari 'くれる' (memberi kepada saya), dan 'ものです' berarti 'benda yang'. Digunakan saat menjelaskan sumber benda yang diterima, dengan fokus pada pemberi. Artinya '(Ini adalah) benda yang diberikan oleh [orang]'.",
+    "formula": "[Orang] が くれた [Benda] です",
+    "examples": [
+      {
+        "jp": "これは、兄がくれたお守りです。",
+        "romaji": "Kore wa, ani ga kureta omamori desu.",
+        "id_translation": "Ini adalah azimat yang diberikan oleh kakak laki-laki saya."
+      },
+      {
+        "jp": "これは彼女がくれたプレゼントです。",
+        "romaji": "Kore wa kanojo ga kureta purezento desu.",
+        "id_translation": "Ini adalah hadiah yang diberikan oleh pacar saya."
+      }
+    ],
+    "notes": "'くれる' digunakan ketika pemberi memberikan sesuatu KEPADA pembicara atau orang yang dekat dengan pembicara. Berbeda dengan 'あげる' yang digunakan ketika pemberi (pembicara) memberikan sesuatu KEPADA orang lain. 'くれたものです' bisa disingkat menjadi 'くれたの' dalam percakapan kasual.",
+    "tags": ["A2", "Memberi", "Pemberian", "Penjelasan"]
+  }
+]

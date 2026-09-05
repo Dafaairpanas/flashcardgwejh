@@ -1,1 +1,76 @@
-[]
+[
+  {
+    "id": "i_bab17_1",
+    "chapter": "Bab 17",
+    "source": "irodori",
+    "title": "V-ました / V-ませんでした (V-mashita / V-masen deshita)",
+    "romajiTitle": "V-mashita / V-masen deshita",
+    "meaning": "Pola kalimat untuk menyatakan tindakan yang sudah dilakukan (bentuk lampau positif) dan yang tidak dilakukan (bentuk lampau negatif) di masa lalu. 'V-ました' adalah bentuk lampau sopan dari kata kerja, dan 'V-ませんでした' adalah bentuk negatif lampau sopan. Sangat berguna saat menceritakan kegiatan liburan atau pengalaman masa lalu. Artinya 'Telah melakukan [aktivitas]' / 'Tidak melakukan [aktivitas]'.",
+    "formula": "[Kata Kerja Bentuk Masu tanpa masu] + ました / ませんでした",
+    "examples": [
+      {
+        "jp": "家でゆっくりしました。",
+        "romaji": "Ie de yukkuri shimashita.",
+        "id_translation": "Saya bersantai di rumah."
+      },
+      {
+        "jp": "映画を見ました。",
+        "romaji": "Eiga wo mimashita.",
+        "id_translation": "Saya menonton film."
+      },
+      {
+        "jp": "週末は、何もしませんでした。",
+        "romaji": "Shuumatsu wa, nani mo shimasen deshita.",
+        "id_translation": "Akhir pekan, saya tidak melakukan apa pun."
+      }
+    ],
+    "notes": "Bentuk lampau ini sangat penting untuk bercerita tentang kegiatan di masa lalu. Untuk kata kerja 'する' (suru - melakukan), bentuk lampaunya adalah 'しました' (positif) dan 'しませんでした' (negatif). Untuk pertanyaan lampau: 何をしましたか？ (Apa yang kamu lakukan?).",
+    "tags": ["A1", "Lampau", "Kegiatan", "Liburan", "Cerita"]
+  },
+  {
+    "id": "i_bab17_2",
+    "chapter": "Bab 17",
+    "source": "irodori",
+    "title": "何もV-ませんでした (Nani mo V-masen deshita)",
+    "romajiTitle": "Nani mo V-masen deshita",
+    "meaning": "Pola kalimat untuk menyatakan bahwa tidak ada satu pun tindakan yang dilakukan. '何も' berarti 'apa pun' dan selalu diikuti bentuk negatif. Digunakan untuk menekankan bahwa sama sekali tidak melakukan aktivitas tertentu di masa lalu. Artinya 'Tidak melakukan apa pun'.",
+    "formula": "何も + [Kata Kerja Bentuk Negatif Lampau]",
+    "examples": [
+      {
+        "jp": "週末は何もしませんでした。",
+        "romaji": "Shuumatsu wa nani mo shimasen deshita.",
+        "id_translation": "Akhir pekan saya tidak melakukan apa pun."
+      },
+      {
+        "jp": "昨日は何も食べませんでした。",
+        "romaji": "Kinou wa nani mo tabemasen deshita.",
+        "id_translation": "Kemarin saya tidak makan apa pun."
+      }
+    ],
+    "notes": "Pola serupa: 'どこにも' (tidak ke mana pun), 'だれにも' (tidak bertemu siapa pun), '何も' (tidak melakukan apa pun). Semua diikuti bentuk negatif. Contoh: どこにも行きませんでした。 (Saya tidak pergi ke mana pun.)",
+    "tags": ["A1", "Negatif", "Tidak Ada", "Lampau"]
+  },
+  {
+    "id": "i_bab17_3",
+    "chapter": "Bab 17",
+    "source": "irodori",
+    "title": "ナA-でした / イA-かったです (NaA-deshita / IA-katta desu) — Kesan Lampau",
+    "romajiTitle": "NaA-deshita / IA-katta desu",
+    "meaning": "Pola kalimat untuk menyatakan kesan atau perasaan tentang sesuatu di masa lalu. Untuk kata sifat-na (ナA), bentuk lampaunya adalah '〜でした' (deshita). Untuk kata sifat-i (イA), bentuk lampaunya adalah mengubah 'い' menjadi 'かったです' (katta desu). Sangat berguna saat menceritakan pengalaman atau memberikan ulasan. Artinya '[Sifat] di masa lalu'.",
+    "formula": "[Kata Sifat-na] でした / [Kata Sifat-i] かったです",
+    "examples": [
+      {
+        "jp": "「ゴジラ」は、まあまあでした。",
+        "romaji": "「Gojira」wa, maamaa deshita.",
+        "id_translation": "'Godzilla' lumayan saja. (ナA lampau)"
+      },
+      {
+        "jp": "国際フェスティバルは、とても楽しかったです。",
+        "romaji": "Kokusai Fesutibaru wa, totemo tanoshikatta desu.",
+        "id_translation": "Festival internasional sangat menyenangkan. (イA lampau)"
+      }
+    ],
+    "notes": "Bentuk negatif lampau: ナA: 〜じゃなかったです (tidak ... di masa lalu), イA: 〜くなかったです (tidak ... di masa lalu). Contoh: あまり面白くなかったです (Tidak terlalu menarik). Perhatikan bahwa untuk kata sifat-i, '楽しい' (tanoshii) menjadi '楽しかった' (tanoshikatta) - 'い' berubah menjadi 'かった'.",
+    "tags": ["A1", "Kesan", "Lampau", "Kata Sifat", "Ulasan"]
+  }
+]

@@ -1,1 +1,117 @@
-[]
+[
+  {
+    "id": "i_bab09_1",
+    "chapter": "Bab 09",
+    "source": "irodori",
+    "title": "Nで (N de) — Dengan / Menggunakan",
+    "romajiTitle": "N de",
+    "meaning": "Pola untuk menyatakan alat, cara, atau media yang digunakan untuk melakukan sesuatu. 'で' menunjukkan sarana atau metode. Sangat berguna saat menceritakan bagaimana cara belajar bahasa Jepang atau melakukan suatu aktivitas. Artinya 'Dengan [N]' atau 'Menggunakan [N]'.",
+    "formula": "[Alat/Media] + で + [Kata Kerja]",
+    "examples": [
+      {
+        "jp": "アニメで日本語を勉強しました。",
+        "romaji": "Anime de Nihongo wo benkyou shimashita.",
+        "id_translation": "Saya belajar bahasa Jepang dengan anime."
+      },
+      {
+        "jp": "インターネットで調べました。",
+        "romaji": "Intaanetto de shirabemashita.",
+        "id_translation": "Saya mencari di internet."
+      }
+    ],
+    "notes": "'で' untuk alat/cara berbeda dengan 'で' untuk lokasi. Contoh: 車で行きます (Pergi dengan mobil - alat), 学校で勉強します (Belajar di sekolah - lokasi). Untuk bahasa: 日本語で話します (Berbicara dalam bahasa Jepang - media). Juga bisa digunakan untuk bahan: 木で作ります (Membuat dari kayu).",
+    "tags": ["A2", "Cara", "Alat", "Belajar"]
+  },
+  {
+    "id": "i_bab09_2",
+    "chapter": "Bab 09",
+    "source": "irodori",
+    "title": "N1はN2が 〜です (N1 wa N2 ga ~ desu) — N1 memiliki N2 yang ...",
+    "romajiTitle": "N1 wa N2 ga ~ desu",
+    "meaning": "Pola untuk mendeskripsikan suatu hal dengan menyebutkan bagian atau aspek tertentu yang menonjol. 'N1は' adalah topik utama, 'N2が' adalah bagian yang dideskripsikan, dan kata sifat di akhir menunjukkan sifatnya. Sangat berguna saat menjelaskan karakteristik bahasa, orang, atau benda. Artinya '[N1] memiliki [N2] yang [sifat]'.",
+    "formula": "[Topik] は [Bagian] が [Kata Sifat] です",
+    "examples": [
+      {
+        "jp": "日本語は文字が難しいです。",
+        "romaji": "Nihongo wa moji ga muzukashii desu.",
+        "id_translation": "Bahasa Jepang memiliki huruf yang sulit (hurufnya sulit)."
+      },
+      {
+        "jp": "この映画はストーリーが面白いです。",
+        "romaji": "Kono eiga wa sutoorii ga omoshiroi desu.",
+        "id_translation": "Film ini memiliki cerita yang menarik."
+      }
+    ],
+    "notes": "Pola ini sangat umum untuk mendeskripsikan bagian dari sesuatu. Contoh lain: 彼は髪が長いです (Dia memiliki rambut panjang), この町は人が多いです (Kota ini memiliki banyak orang). Perhatikan bahwa subjek utama (N1) dan bagian yang dideskripsikan (N2) dihubungkan dengan partikel 'は' dan 'が'.",
+    "tags": ["A2", "Deskripsi", "Karakteristik", "Bahasa"]
+  },
+  {
+    "id": "i_bab09_3",
+    "chapter": "Bab 09",
+    "source": "irodori",
+    "title": "NはV-るのが 〜です (N wa V-ru no ga ~ desu) — Melakukan N itu ...",
+    "romajiTitle": "N wa V-ru no ga ~ desu",
+    "meaning": "Pola untuk menyatakan pendapat tentang suatu aktivitas. 'Nは' adalah topik, 'V-るのが' mengubah kata kerja menjadi kata benda, dan kata sifat di akhir menunjukkan kesan atau pendapat. Sangat berguna saat memberikan komentar tentang belajar bahasa atau aktivitas lain. Artinya 'Melakukan [N] itu [sifat]'.",
+    "formula": "[Topik] は [Kata Kerja] のが [Kata Sifat] です",
+    "examples": [
+      {
+        "jp": "日本語は話すのが大変です。",
+        "romaji": "Nihongo wa hanasu no ga taihen desu.",
+        "id_translation": "(Kalau) bahasa Jepang, berbicara itu sulit/berat."
+      },
+      {
+        "jp": "日本語は読むのが少し難しいです。",
+        "romaji": "Nihongo wa yomu no ga sukoshi muzukashii desu.",
+        "id_translation": "(Kalau) bahasa Jepang, membaca itu agak sulit."
+      }
+    ],
+    "notes": "Pola ini membandingkan aspek berbeda dari suatu topik. Contoh: 日本語は話すのは簡単だけど、読むのは難しいです (Bahasa Jepang, berbicara itu mudah tapi membaca itu sulit). 'の' berfungsi sebagai nominalisasi (mengubah kata kerja menjadi kata benda).",
+    "tags": ["A2", "Pendapat", "Aktivitas", "Bahasa"]
+  },
+  {
+    "id": "i_bab09_4",
+    "chapter": "Bab 09",
+    "source": "irodori",
+    "title": "V-てもらえませんか？ (V-te moraemasen ka?) — Bisa Minta Tolong ...?",
+    "romajiTitle": "V-te moraemasen ka?",
+    "meaning": "Pola permintaan yang sangat sopan untuk meminta bantuan seseorang melakukan sesuatu. 'V-てもらう' berarti 'menerima tindakan dari orang lain', dan bentuk negatif tanya 'もらえませんか' berarti 'tidak bisakah saya menerima...?' = 'bisakah Anda...?'. Sangat sopan dan umum digunakan di tempat kerja. Artinya 'Bisakah saya minta tolong [melakukan]?'.",
+    "formula": "[Kata Kerja Bentuk te] + もらえませんか？",
+    "examples": [
+      {
+        "jp": "日本語をチェックしてもらえませんか？",
+        "romaji": "Nihongo wo chekku shite moraemasen ka?",
+        "id_translation": "Bisakah saya minta tolong untuk memeriksa bahasa Jepang saya?"
+      },
+      {
+        "jp": "この書類を確認してもらえませんか？",
+        "romaji": "Kono shorui wo kakunin shite moraemasen ka?",
+        "id_translation": "Bisakah saya minta tolong untuk memeriksa dokumen ini?"
+      }
+    ],
+    "notes": "Tingkat kesopanan: V-てください (tolong - standar) → V-ていただけますか？ (lebih sopan) → V-てもらえませんか？ (sangat sopan). Untuk permintaan yang lebih santai: V-てくれる？ (bisa tolong? - kasual). Gunakan bentuk ini saat meminta bantuan kepada atasan atau orang yang lebih tua.",
+    "tags": ["A2", "Permintaan", "Sopan", "Bantuan"]
+  },
+  {
+    "id": "i_bab09_5",
+    "chapter": "Bab 09",
+    "source": "irodori",
+    "title": "V-方 (V-kata) — Cara Melakukan V",
+    "romajiTitle": "V-kata",
+    "meaning": "Pola untuk menyatakan cara atau metode melakukan suatu tindakan. '方' (kata) berarti 'cara', dan digabungkan dengan bentuk 'ます' tanpa 'ます' dari kata kerja. Sangat berguna saat menanyakan cara membaca, menulis, atau melakukan sesuatu. Artinya 'Cara [melakukan V]'.",
+    "formula": "[Kata Kerja Bentuk Masu tanpa masu] + 方",
+    "examples": [
+      {
+        "jp": "この書類の書き方がよくわかりません。",
+        "romaji": "Kono shorui no kakikata ga yoku wakarimasen.",
+        "id_translation": "Saya tidak begitu mengerti cara mengisi dokumen ini."
+      },
+      {
+        "jp": "この漢字の読み方を教えてください。",
+        "romaji": "Kono kanji no yomikata wo oshiete kudasai.",
+        "id_translation": "Tolong ajari saya cara membaca kanji ini."
+      }
+    ],
+    "notes": "Contoh lain: 使い方 (tsukaikata - cara menggunakan), 作り方 (tsukurikata - cara membuat), 言い方 (iikata - cara mengucapkan). Untuk menanyakan cara melakukan sesuatu: どうやって + V-ますか？ (Bagaimana cara V?). '〜方' sering digunakan dengan kata benda menggunakan 'の': 日本語の勉強の仕方 (cara belajar bahasa Jepang).",
+    "tags": ["A2", "Cara", "Metode", "Pertanyaan"]
+  }
+]

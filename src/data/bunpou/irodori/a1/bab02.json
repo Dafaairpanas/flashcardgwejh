@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "id": "i_bab02_1",
+    "chapter": "Bab 02",
+    "source": "irodori",
+    "title": "もういちど、お願いします (Mou ichido, onegaishimasu)",
+    "romajiTitle": "Mou ichido, onegaishimasu",
+    "meaning": "Ungkapan yang digunakan untuk meminta lawan bicara mengulang kembali apa yang baru saja dikatakan. Setara dengan 'Mohon sekali lagi' atau 'Bisa diulang lagi?'. Diucapkan ketika tidak mendengar atau tidak memahami perkataan lawan bicara.",
+    "formula": "もういちど、お願いします。",
+    "examples": [
+      {
+        "jp": "もういちど、お願いします。",
+        "romaji": "Mou ichido, onegaishimasu.",
+        "id_translation": "Mohon sekali lagi."
+      },
+      {
+        "jp": "すみません、もういちどお願いします。",
+        "romaji": "Sumimasen, mou ichido onegaishimasu.",
+        "id_translation": "Maaf, mohon diulang sekali lagi."
+      }
+    ],
+    "notes": "Bisa ditambahkan 'すみません' (sumimasen) di depan untuk membuatnya lebih sopan. Dalam situasi kasual, cukup gunakan 'もういちど' tanpa 'お願いします'.",
+    "tags": ["A1", "Meminta Pengulangan", "Komunikasi"]
+  },
+  {
+    "id": "i_bab02_2",
+    "chapter": "Bab 02",
+    "source": "irodori",
+    "title": "〜は日本語で何と言いますか？ (~wa nihongo de nan to iimasu ka?)",
+    "romajiTitle": "~wa nihongo de nan to iimasu ka?",
+    "meaning": "Pola kalimat untuk menanyakan bagaimana cara menyatakan suatu kata atau frasa dalam bahasa Jepang. '〜は' diisi dengan kata yang ingin ditanyakan, '日本語で' berarti 'dalam bahasa Jepang', dan '何と言いますか' berarti 'apa ucapannya?'. Setara dengan 'Bagaimana mengatakan ... dalam bahasa Jepang?'.",
+    "formula": "[Kata/Frasa] + は日本語で何と言いますか？",
+    "examples": [
+      {
+        "jp": "これは日本語で何と言いますか？",
+        "romaji": "Kore wa nihongo de nan to iimasu ka?",
+        "id_translation": "Bagaimana mengatakan ini dalam bahasa Jepang?"
+      },
+      {
+        "jp": "「ありがとう」は英語で何と言いますか？",
+        "romaji": "「Arigatou」wa eigo de nan to iimasu ka?",
+        "id_translation": "Bagaimana mengatakan 'arigatou' dalam bahasa Inggris?"
+      },
+      {
+        "jp": "「meja」は日本語で何と言いますか？",
+        "romaji": "「Meja」wa nihongo de nan to iimasu ka?",
+        "id_translation": "Bagaimana mengatakan 'meja' dalam bahasa Jepang?"
+      }
+    ],
+    "notes": "Kata tanya '何' dibaca 'nan' dalam pola ini. Untuk menanyakan bahasa lain, ganti '日本語' dengan nama bahasa lain, misalnya '英語で' (dalam bahasa Inggris), 'インドネシア語で' (dalam bahasa Indonesia).",
+    "tags": ["A1", "Bertanya", "Bahasa Jepang", "Komunikasi"]
+  }
+]

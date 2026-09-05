@@ -1,1 +1,94 @@
-[]
+[
+  {
+    "id": "i_bab16_1",
+    "chapter": "Bab 16",
+    "source": "irodori",
+    "title": "V-るといいですよ (V-ru to ii desu yo) — Sebaiknya ...",
+    "romajiTitle": "V-ru to ii desu yo",
+    "meaning": "Pola kalimat untuk memberikan saran atau rekomendasi kepada seseorang. 'V-ると' berarti 'jika V', dan 'いいですよ' berarti 'bagus lho'. Digunakan untuk memberikan saran kesehatan atau tips yang bermanfaat. Artinya 'Sebaiknya [melakukan V]' atau 'Akan lebih baik jika [V]'.",
+    "formula": "[Kata Kerja Bentuk Kamus] + といいですよ",
+    "examples": [
+      {
+        "jp": "よく眠れないときは、ぬるいお風呂にゆっくり入るといいですよ。",
+        "romaji": "Yoku nemurenai toki wa, nurui ofuro ni yukkuri hairu to ii desu yo.",
+        "id_translation": "Saat tidak bisa tidur nyenyak, sebaiknya berendam pelan-pelan di air hangat."
+      },
+      {
+        "jp": "野菜をたくさん食べるといいですよ。",
+        "romaji": "Yasai wo takusan taberu to ii desu yo.",
+        "id_translation": "Sebaiknya makan banyak sayur."
+      }
+    ],
+    "notes": "Bentuk kasual: V-るといいよ. Untuk memberikan saran yang lebih lembut, gunakan 'V-たらいいですよ' (sama artinya, tetapi lebih lembut). Contoh: 休んだらいいですよ (Sebaiknya istirahat). 'といいです' juga bisa berarti 'semoga' dalam konteks lain: いい天気になりますように (Semoga cuaca menjadi bagus).",
+    "tags": ["A2", "Saran", "Kesehatan", "Rekomendasi"]
+  },
+  {
+    "id": "i_bab16_2",
+    "chapter": "Bab 16",
+    "source": "irodori",
+    "title": "V-すぎます (V-sugimasu) — Terlalu ...",
+    "romajiTitle": "V-sugimasu",
+    "meaning": "Pola untuk menyatakan bahwa suatu tindakan atau keadaan berlebihan. 'すぎます' berarti 'terlalu' dan ditambahkan ke bentuk 'ます' tanpa 'ます' dari kata kerja. Digunakan untuk mengakui kebiasaan buruk atau perilaku berlebihan yang mempengaruhi kesehatan. Artinya 'Terlalu [melakukan V]'.",
+    "formula": "[Kata Kerja Bentuk Masu tanpa masu] + すぎます",
+    "examples": [
+      {
+        "jp": "昨日、飲みすぎました。",
+        "romaji": "Kinou, nomisugimashita.",
+        "id_translation": "Kemarin saya terlalu banyak minum (alkohol)."
+      },
+      {
+        "jp": "食べすぎないようにしています。",
+        "romaji": "Tabesuginai you ni shite imasu.",
+        "id_translation": "Saya berusaha untuk tidak kebanyakan makan."
+      }
+    ],
+    "notes": "Bisa juga digunakan dengan kata sifat: 大きすぎます (terlalu besar), 高すぎます (terlalu mahal), 暑すぎます (terlalu panas). Untuk kata sifat-i, hilangkan 'い' dan tambahkan 'すぎます': あつい → あつすぎます. Untuk kata sifat-na: 静かすぎます (terlalu sepi). Bentuk negatif: すぎない (tidak terlalu).",
+    "tags": ["A2", "Berlebihan", "Kebiasaan", "Kesehatan"]
+  },
+  {
+    "id": "i_bab16_3",
+    "chapter": "Bab 16",
+    "source": "irodori",
+    "title": "V1-たり、V2-たりします (V1-tari, V2-tari shimasu) — Kadang ... Kadang ...",
+    "romajiTitle": "V1-tari, V2-tari shimasu",
+    "meaning": "Pola untuk menyatakan contoh-contoh aktivitas yang dilakukan (tidak lengkap). '〜たり' digunakan setelah bentuk lampau (bentuk 'た') dari kata kerja, dan diakhiri dengan 'します'. Digunakan untuk menjelaskan berbagai kegiatan yang dilakukan untuk menjaga kesehatan. Artinya 'Kadang [V1], kadang [V2], dan lain-lain'.",
+    "formula": "[Kata Kerja Bentuk Lampau た] + り、[Kata Kerja Bentuk Lampau た] + りします",
+    "examples": [
+      {
+        "jp": "ジョギングしたり、ときどき家でヨガをしたりしてます。",
+        "romaji": "Jogingu shitari, tokidoki ie de yoga wo shitari shitemasu.",
+        "id_translation": "Saya jogging, dan kadang-kadang yoga di rumah, dan lain-lain."
+      },
+      {
+        "jp": "休みの日は、映画を見たり、本を読んだりします。",
+        "romaji": "Yasumi no hi wa, eiga wo mitari, hon wo yondari shimasu.",
+        "id_translation": "Di hari libur, saya menonton film, membaca buku, dan lain-lain."
+      }
+    ],
+    "notes": "'〜たり〜たり' digunakan untuk memberikan contoh, bukan daftar lengkap. Bisa digunakan dengan hanya satu 'たり': 本を読んだりします (Melakukan hal-hal seperti membaca buku). Untuk kata sifat: 暑かったり寒かったり (Kadang panas, kadang dingin). Bentuk kasual: たりする.",
+    "tags": ["A2", "Contoh", "Aktivitas", "Kebiasaan"]
+  },
+  {
+    "id": "i_bab16_4",
+    "chapter": "Bab 16",
+    "source": "irodori",
+    "title": "V-るようにしています (V-ru you ni shite imasu) — Saya Berusaha untuk ...",
+    "romajiTitle": "V-ru you ni shite imasu",
+    "meaning": "Pola untuk menyatakan usaha atau kebiasaan yang dilakukan secara sadar untuk mencapai tujuan. 'ように' berarti 'agar' atau 'sehingga', dan 'しています' berarti 'melakukan'. Digunakan untuk menjelaskan upaya menjaga kesehatan atau kebiasaan baik. Artinya 'Saya berusaha untuk [melakukan V]' atau 'Saya membiasakan diri untuk [V]'.",
+    "formula": "[Kata Kerja Bentuk Kamus] + ようにしています",
+    "examples": [
+      {
+        "jp": "できるだけ、野菜をたくさん食べるようにしています。",
+        "romaji": "Dekiru dake, yasai wo takusan taberu you ni shite imasu.",
+        "id_translation": "Saya berusaha untuk makan sayur sebanyak mungkin."
+      },
+      {
+        "jp": "健康のために、食べすぎないようにしています。",
+        "romaji": "Kenkou no tame ni, tabesuginai you ni shite imasu.",
+        "id_translation": "Demi kesehatan, saya berusaha untuk tidak kebanyakan makan."
+      }
+    ],
+    "notes": "Bentuk negatif: V-ないようにしています (Saya berusaha untuk tidak V). Contoh: 夜遅くに食べないようにしています (Saya berusaha untuk tidak makan larut malam). Berbeda dengan 'V-ています' yang hanya menyatakan kebiasaan, 'V-るようにしています' menekankan usaha sadar untuk melakukan atau tidak melakukan sesuatu.",
+    "tags": ["A2", "Usaha", "Kebiasaan", "Kesehatan"]
+  }
+]

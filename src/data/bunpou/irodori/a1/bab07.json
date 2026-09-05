@@ -1,1 +1,117 @@
-[]
+[
+  {
+    "id": "i_bab07_1",
+    "chapter": "Bab 07",
+    "source": "irodori",
+    "title": "ここは【tempat】です (Koko wa [tempat] desu)",
+    "romajiTitle": "Koko wa [tempat] desu",
+    "meaning": "Pola kalimat untuk menyatakan 'ini adalah [tempat/ruangan]'. 'ここ' berarti 'di sini' (dekat dengan pembicara). Digunakan saat menunjukkan atau menjelaskan letak suatu ruangan atau tempat. Sangat berguna saat memandu orang berkeliling rumah atau menjelaskan tata letak.",
+    "formula": "ここは [Tempat/Ruangan] です",
+    "examples": [
+      {
+        "jp": "ここは玄関です。",
+        "romaji": "Koko wa genkan desu.",
+        "id_translation": "Ini adalah pintu masuk/ruang depan."
+      },
+      {
+        "jp": "ここは台所です。",
+        "romaji": "Koko wa daidokoro desu.",
+        "id_translation": "Ini adalah dapur."
+      }
+    ],
+    "notes": "Untuk menunjukkan tempat yang jauh dari pembicara, gunakan 'そこ' (di situ - dekat lawan bicara) atau 'あそこ' (di sana - jauh dari keduanya). Contoh: そこはトイレです。 (Itu adalah toilet - di dekat lawan bicara).",
+    "tags": ["A1", "Rumah", "Lokasi", "Penunjuk"]
+  },
+  {
+    "id": "i_bab07_2",
+    "chapter": "Bab 07",
+    "source": "irodori",
+    "title": "【tempat】にNがあります ([Tempat] ni N ga arimasu)",
+    "romajiTitle": "[Tempat] ni N ga arimasu",
+    "meaning": "Pola kalimat untuk menyatakan keberadaan benda mati di suatu tempat. 'に' menunjukkan lokasi, 'が' menunjukkan subjek (benda yang ada), dan 'あります' berarti 'ada'. Digunakan untuk menjelaskan apa saja yang ada di dalam ruangan atau rumah.",
+    "formula": "[Tempat] に [Benda] が あります",
+    "examples": [
+      {
+        "jp": "ここに階段があります。",
+        "romaji": "Koko ni kaidan ga arimasu.",
+        "id_translation": "Di sini ada tangga."
+      },
+      {
+        "jp": "1階に部屋が4つあります。",
+        "romaji": "Ikkai ni heya ga yottsu arimasu.",
+        "id_translation": "Di lantai 1 ada 4 kamar."
+      }
+    ],
+    "notes": "Untuk benda hidup (orang, hewan), gunakan 'います' bukan 'あります'. Contoh: ここに犬がいます。 (Di sini ada anjing). Untuk menyebutkan jumlah, gunakan counter yang sesuai. Perhatikan urutan: [Tempat] に [Benda] が [Jumlah] あります.",
+    "tags": ["A1", "Rumah", "Keberadaan", "Partikel"]
+  },
+  {
+    "id": "i_bab07_3",
+    "chapter": "Bab 07",
+    "source": "irodori",
+    "title": "Nはありません / ないです (N wa arimasen / nai desu)",
+    "romajiTitle": "N wa arimasen / nai desu",
+    "meaning": "Bentuk negatif dari 'あります'. Digunakan untuk menyatakan bahwa suatu barang tidak ada. 'ありません' adalah bentuk negatif standar yang lebih formal, sedangkan 'ないです' adalah bentuk negatif kasual yang juga sopan. Keduanya berarti 'tidak ada N'.",
+    "formula": "[Benda] は ありません / ないです",
+    "examples": [
+      {
+        "jp": "トースターはありません。",
+        "romaji": "Toosutaa wa arimasen.",
+        "id_translation": "Tidak ada pemanggang roti."
+      },
+      {
+        "jp": "ベッドはないです。",
+        "romaji": "Beddo wa nai desu.",
+        "id_translation": "Tidak ada tempat tidur."
+      }
+    ],
+    "notes": "'ありません' lebih formal, sering digunakan di tempat kerja atau situasi resmi. 'ないです' lebih natural dalam percakapan sehari-hari. Perhatikan bahwa 'は' digunakan sebagai penanda topik, yang berarti 'kalau N-nya, tidak ada'.",
+    "tags": ["A1", "Rumah", "Negatif", "Keberadaan"]
+  },
+  {
+    "id": "i_bab07_4",
+    "chapter": "Bab 07",
+    "source": "irodori",
+    "title": "Kata Sifat: ナA-です / イA-いです (Na-keiyoushi / I-keiyoushi)",
+    "romajiTitle": "Na-keiyoushi / I-keiyoushi",
+    "meaning": "Pola kalimat untuk menjelaskan sifat atau kondisi suatu benda atau tempat menggunakan kata sifat. Ada dua jenis kata sifat dalam bahasa Jepang: ナA (kata sifat-na) dan イA (kata sifat-i). Keduanya diakhiri dengan 'です' untuk bentuk sopan. 'ナA' diakhiri dengan 'な' saat menerangkan kata benda, sedangkan 'イA' berakhiran 'い'.",
+    "formula": "[Benda/Tempat] は [Kata Sifat] です",
+    "examples": [
+      {
+        "jp": "家は静かです。",
+        "romaji": "Ie wa shizuka desu.",
+        "id_translation": "Rumahnya tenang. (ナA)"
+      },
+      {
+        "jp": "ちょっとせまいです。",
+        "romaji": "Chotto semai desu.",
+        "id_translation": "Agak sempit. (イA)"
+      }
+    ],
+    "notes": "Perbedaan: Kata sifat-na (ナA): 静か (shizuka), 便利 (benri), 有名 (yuumei). Kata sifat-i (イA): せまい (semai), ひろい (hiroi), 新しい (atarashii). Kata sifat-na tidak berubah saat diikuti 'です', sedangkan kata sifat-i tetap 'い' + 'です'.",
+    "tags": ["A1", "Rumah", "Kata Sifat", "Deskripsi"]
+  },
+  {
+    "id": "i_bab07_5",
+    "chapter": "Bab 07",
+    "source": "irodori",
+    "title": "Bentuk Negatif Kata Sifat: ナA-じゃないです / イA-くないです (Na-keiyoushi janai desu / I-keiyoushi kunai desu)",
+    "romajiTitle": "Na-keiyoushi janai desu / I-keiyoushi kunai desu",
+    "meaning": "Bentuk negatif dari kata sifat. Untuk kata sifat-na (ナA), bentuk negatifnya adalah '〜じゃないです' (atau '〜ではありません' untuk lebih formal). Untuk kata sifat-i (イA), bentuk negatifnya adalah mengubah 'い' menjadi 'くないです'. Keduanya berarti 'tidak [sifat]'.",
+    "formula": "[Benda/Tempat] は [ナA-じゃないです] / [イA-くないです]",
+    "examples": [
+      {
+        "jp": "アパートはあまり静かじゃないです。",
+        "romaji": "Apaato wa amari shizuka janai desu.",
+        "id_translation": "Apartemennya tidak terlalu tenang. (ナA negatif)"
+      },
+      {
+        "jp": "寮は広くないです。",
+        "romaji": "Ryou wa hirokunai desu.",
+        "id_translation": "Asrama tidak luas. (イA negatif)"
+      }
+    ],
+    "notes": "Bentuk negatif kata sifat-na: 静かじゃないです (tidak tenang), 便利じゃないです (tidak praktis). Bentuk negatif kata sifat-i: 広くないです (tidak luas), 新しくないです (tidak baru). 'あまり' sering digunakan bersama bentuk negatif untuk berarti 'tidak terlalu...'.",
+    "tags": ["A1", "Rumah", "Kata Sifat", "Negatif", "Deskripsi"]
+  }
+]

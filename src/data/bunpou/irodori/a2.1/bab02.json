@@ -1,1 +1,140 @@
-[]
+[
+  {
+    "id": "i_bab02_1",
+    "chapter": "Bab 02",
+    "source": "irodori",
+    "title": "V-ることです (V-ru koto desu) — Menyatakan Hobi",
+    "romajiTitle": "V-ru koto desu",
+    "meaning": "Pola kalimat untuk menyatakan suatu kegiatan sebagai hobi atau aktivitas yang disukai. 'こと' mengubah kata kerja menjadi kata benda (nominalisasi). Digunakan untuk menjawab pertanyaan 'Apa hobimu?' atau menjelaskan aktivitas tertentu. Artinya 'Adalah melakukan [aktivitas]'.",
+    "formula": "[Kata Kerja Bentuk Kamus] + ことです",
+    "examples": [
+      {
+        "jp": "趣味は映画を見ることです。",
+        "romaji": "Shumi wa eiga wo miru koto desu.",
+        "id_translation": "Hobi saya adalah menonton film."
+      },
+      {
+        "jp": "趣味は料理をすることです。",
+        "romaji": "Shumi wa ryouri wo suru koto desu.",
+        "id_translation": "Hobi saya adalah memasak."
+      }
+    ],
+    "notes": "'V-ること' adalah cara untuk mengubah kata kerja menjadi kata benda. Untuk kata kerja 'する' (suru - melakukan), menjadi 'すること'. Untuk kata kerja '見る' (miru - melihat), menjadi '見ること'. Berguna saat menjelaskan hobi atau aktivitas favorit.",
+    "tags": ["A2", "Hobi", "Nominalisasi", "Aktivitas"]
+  },
+  {
+    "id": "i_bab02_2",
+    "chapter": "Bab 02",
+    "source": "irodori",
+    "title": "V-るのが好きです (V-ru no ga suki desu) — Suka Melakukan",
+    "romajiTitle": "V-ru no ga suki desu",
+    "meaning": "Pola kalimat untuk menyatakan bahwa seseorang suka melakukan suatu aktivitas. 'の' berfungsi sebagai nominalisasi (mengubah kata kerja menjadi kata benda), dan 'が好きです' berarti 'suka'. Berbeda dengan 'V-ること', pola ini langsung menyatakan kesukaan. Artinya 'Suka melakukan [aktivitas]'.",
+    "formula": "[Kata Kerja Bentuk Kamus] + のが好きです",
+    "examples": [
+      {
+        "jp": "ゲームをするのが好きです。",
+        "romaji": "Geemu wo suru no ga suki desu.",
+        "id_translation": "Saya suka bermain game."
+      },
+      {
+        "jp": "音楽を聞くのが好きです。",
+        "romaji": "Ongaku wo kiku no ga suki desu.",
+        "id_translation": "Saya suka mendengarkan musik."
+      }
+    ],
+    "notes": "Perbedaan dengan 'V-ることです': 'V-ることです' digunakan untuk mendefinisikan (A adalah B), sedangkan 'V-るのが好きです' digunakan untuk menyatakan kesukaan langsung. Contoh: 趣味は料理をすることです (Hobi saya adalah memasak) vs 料理をするのが好きです (Saya suka memasak).",
+    "tags": ["A2", "Hobi", "Suka", "Preferensi"]
+  },
+  {
+    "id": "i_bab02_3",
+    "chapter": "Bab 02",
+    "source": "irodori",
+    "title": "【orang】と【tempat】でV-ます ([Orang] to [tempat] de V-masu) — Melakukan Bersama",
+    "romajiTitle": "[Orang] to [tempat] de V-masu",
+    "meaning": "Pola kalimat untuk menyatakan bahwa seseorang melakukan aktivitas bersama orang lain di suatu tempat. 'と' berarti 'dengan' (bersama), dan 'で' menunjukkan lokasi aktivitas. Sangat berguna saat menceritakan kegiatan liburan atau hobi yang dilakukan bersama teman. Artinya 'Melakukan [aktivitas] dengan [orang] di [tempat]'.",
+    "formula": "[Orang] と [Tempat] で [Kata Kerja]",
+    "examples": [
+      {
+        "jp": "友だちと体育館でバドミントンをします。",
+        "romaji": "Tomodachi to taikukan de badominton wo shimasu.",
+        "id_translation": "Saya bermain bulutangkis dengan teman di gedung olahraga."
+      },
+      {
+        "jp": "家族と公園でピクニックをします。",
+        "romaji": "Kazoku to kouen de pikunikku wo shimasu.",
+        "id_translation": "Saya piknik dengan keluarga di taman."
+      }
+    ],
+    "notes": "Urutan dalam kalimat: [Orang] と [Tempat] で [Aktivitas] を [Kata Kerja]. 'と' untuk orang (siapa yang bersama), 'で' untuk tempat (di mana melakukan). Jika hanya menyebutkan orang tanpa tempat: 友だちと映画を見ます (Menonton film dengan teman).",
+    "tags": ["A2", "Aktivitas", "Bersama", "Lokasi"]
+  },
+  {
+    "id": "i_bab02_4",
+    "chapter": "Bab 02",
+    "source": "irodori",
+    "title": "V1-て、V2 (V1-te, V2) — Melakukan Lalu",
+    "romajiTitle": "V1-te, V2",
+    "meaning": "Pola kalimat untuk menyatakan urutan tindakan: melakukan V1 terlebih dahulu, lalu melakukan V2. Bentuk 'て' (te-form) digunakan untuk menghubungkan dua kata kerja atau lebih. Sangat berguna saat menceritakan rangkaian kegiatan dalam sehari atau liburan. Artinya 'Lakukan V1, lalu V2'.",
+    "formula": "[Kata Kerja 1 Bentuk te] + [Kata Kerja 2]",
+    "examples": [
+      {
+        "jp": "バドミントンをして、そのあとご飯を食べます。",
+        "romaji": "Badominton wo shite, sono ato gohan wo tabemasu.",
+        "id_translation": "Bermain bulutangkis, lalu setelah itu makan."
+      },
+      {
+        "jp": "家に帰って、テレビを見ます。",
+        "romaji": "Ie ni kaette, terebi wo mimasu.",
+        "id_translation": "Pulang ke rumah, lalu menonton TV."
+      }
+    ],
+    "notes": "Bentuk 'て' dari kata kerja: する→して (suru→shite), 食べる→食べて (taberu→tabete), 行く→行って (iku→itte). Dapat menghubungkan lebih dari 2 kegiatan: 起きて、シャワーを浴びて、朝ご飯を食べます (Bangun, mandi, lalu sarapan).",
+    "tags": ["A2", "Urutan", "Rutinitas", "Kata Kerja"]
+  },
+  {
+    "id": "i_bab02_5",
+    "chapter": "Bab 02",
+    "source": "irodori",
+    "title": "V-ています ② (V-te imasu) — Hobi / Kebiasaan",
+    "romajiTitle": "V-te imasu",
+    "meaning": "Pola kalimat untuk menyatakan kegiatan yang dilakukan secara rutin sebagai hobi atau kebiasaan (bukan hanya saat ini). Berbeda dengan fungsi pertama (sedang melakukan), fungsi kedua ini menyatakan aktivitas berulang atau kebiasaan yang sedang dijalani. Artinya 'Sedang melakukan [aktivitas] (sebagai kebiasaan/hobi)'.",
+    "formula": "[Kata Kerja Bentuk te] + います (untuk kebiasaan/hobi)",
+    "examples": [
+      {
+        "jp": "いけばなを習っています。",
+        "romaji": "Ikebana wo naratte imasu.",
+        "id_translation": "Saya sedang belajar ikebana (sebagai hobi)."
+      },
+      {
+        "jp": "ギターを練習しています。",
+        "romaji": "Gitaa wo renshuu shite imasu.",
+        "id_translation": "Saya sedang berlatih gitar (sebagai kebiasaan)."
+      }
+    ],
+    "notes": "Perbedaan dengan 'V-ます': 'V-ます' menyatakan kebiasaan umum (毎日、日本語を勉強します - Saya belajar bahasa Jepang setiap hari), sedangkan 'V-ています' untuk hobi/kebiasaan yang sedang digeluti saat ini (最近、日本語を勉強しています - Saya sedang belajar bahasa Jepang akhir-akhir ini).",
+    "tags": ["A2", "Hobi", "Kebiasaan", "Keadaan"]
+  },
+  {
+    "id": "i_bab02_6",
+    "chapter": "Bab 02",
+    "source": "irodori",
+    "title": "Nができます (N ga dekimasu) — Bisa N",
+    "romajiTitle": "N ga dekimasu",
+    "meaning": "Pola kalimat untuk menyatakan kemampuan atau keahlian dalam melakukan sesuatu. 'ができます' berarti 'dapat' atau 'bisa' untuk kata benda (bukan kata kerja). Untuk kata kerja, gunakan bentuk potensial. Sangat berguna saat menyebutkan bahasa yang bisa digunakan atau keahlian khusus. Artinya 'Bisa [N]'.",
+    "formula": "[Kata Benda] が できます",
+    "examples": [
+      {
+        "jp": "日本語ができます。",
+        "romaji": "Nihongo ga dekimasu.",
+        "id_translation": "Saya bisa bahasa Jepang."
+      },
+      {
+        "jp": "英語、日本語、インドネシア語ができます。",
+        "romaji": "Eigo, Nihongo, Indoneshiago ga dekimasu.",
+        "id_translation": "Saya bisa bahasa Inggris, Jepang, dan Indonesia."
+      }
+    ],
+    "notes": "Untuk kata kerja, gunakan 'V-ることができます' (bisa melakukan V). Contoh: 日本語を話すことができます (Saya bisa berbicara bahasa Jepang). 'できます' juga bisa berarti 'terbuat dari' dalam konteks tertentu: この机は木でできています (Meja ini terbuat dari kayu).",
+    "tags": ["A2", "Kemampuan", "Bahasa", "Keahlian"]
+  }
+]

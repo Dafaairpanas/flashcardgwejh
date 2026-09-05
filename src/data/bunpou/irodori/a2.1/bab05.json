@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "id": "i_bab05_1",
+    "chapter": "Bab 05",
+    "source": "irodori",
+    "title": "Nで、〜 / ナA-で、〜 / イA-くて、〜 — Penghubung Sifat",
+    "romajiTitle": "N de / NaA de / IA-kute",
+    "meaning": "Pola untuk menggabungkan dua kata sifat atau lebih untuk mendeskripsikan suatu benda atau tempat. Untuk kata benda (N) dan kata sifat-na (ナA), gunakan 'で' sebagai penghubung. Untuk kata sifat-i (イA), ubah 'い' menjadi 'くて'. Sangat berguna saat memberikan kesan tentang suatu tempat. Artinya '[Sifat1], dan [Sifat2]'.",
+    "formula": "[N/ナA] + で + [Sifat2] / [イA-い] → [イA-くて] + [Sifat2]",
+    "examples": [
+      {
+        "jp": "この町はにぎやかで便利です。",
+        "romaji": "Kono machi wa nigiyaka de benri desu.",
+        "id_translation": "Kota ini ramai dan praktis. (ナA+ナA)"
+      },
+      {
+        "jp": "この店は安くておいしいです。",
+        "romaji": "Kono mise wa yasukute oishii desu.",
+        "id_translation": "Toko ini murah dan enak. (イA+イA)"
+      }
+    ],
+    "notes": "Untuk kata benda (N): 学生で、日本語を勉強しています (Saya pelajar dan sedang belajar bahasa Jepang). Untuk kata sifat-na: 静かで、広いです (Tenang dan luas). Untuk kata sifat-i: 新しくて、きれいです (Baru dan bersih). Bisa menggabungkan lebih dari 2 sifat dengan pola yang sama.",
+    "tags": ["A2", "Penghubung", "Kata Sifat", "Deskripsi"]
+  },
+  {
+    "id": "i_bab05_2",
+    "chapter": "Bab 05",
+    "source": "irodori",
+    "title": "Nだ／ナA-だ／イA-い けど、〜 — ... tapi ...",
+    "romajiTitle": "N da / NaA da / IA-i kedo",
+    "meaning": "Pola untuk menggabungkan dua kalimat dengan makna kontras atau bertentangan. 'けど' (atau 'けれども' lebih formal) berarti 'tetapi' atau 'meskipun'. Untuk kata benda (N) dan kata sifat-na (ナA), gunakan 'だ' sebelum 'けど'. Untuk kata sifat-i (イA), langsung tambahkan 'けど'. Artinya '[Kalimat1], tetapi [Kalimat2]'.",
+    "formula": "[N/ナA-だ] + けど、[Kalimat2] / [イA-い] + けど、[Kalimat2]",
+    "examples": [
+      {
+        "jp": "場所は不便だけど、きれいですよ。",
+        "romaji": "Basho wa fuben da kedo, kirei desu yo.",
+        "id_translation": "Tempatnya tidak praktis, tapi bersih/indah lho."
+      },
+      {
+        "jp": "この町は静かだけど、ちょっと遠いです。",
+        "romaji": "Kono machi wa shizuka da kedo, chotto tooi desu.",
+        "id_translation": "Kota ini tenang, tapi agak jauh."
+      }
+    ],
+    "notes": "'けど' adalah bentuk kasual dari 'けれども' yang lebih formal. Dalam percakapan sehari-hari, 'けど' sangat umum digunakan. Untuk kata benda: 学生だけど、働いています (Meskipun pelajar, saya bekerja). Untuk kata sifat-i: 安いけど、おいしいです (Meskipun murah, enak).",
+    "tags": ["A2", "Kontras", "Penghubung", "Deskripsi"]
+  },
+  {
+    "id": "i_bab05_3",
+    "chapter": "Bab 05",
+    "source": "irodori",
+    "title": "V-ることができます (V-ru koto ga dekimasu) — Dapat Melakukan",
+    "romajiTitle": "V-ru koto ga dekimasu",
+    "meaning": "Pola kalimat untuk menyatakan kemampuan atau kemungkinan melakukan suatu tindakan. 'こと' mengubah kata kerja menjadi kata benda, dan 'ができます' berarti 'dapat' atau 'bisa'. Berbeda dengan 'Nができます' (bisa N) yang untuk kata benda, pola ini untuk kata kerja. Artinya 'Dapat melakukan [aktivitas]'.",
+    "formula": "[Kata Kerja Bentuk Kamus] + ことができます",
+    "examples": [
+      {
+        "jp": "一年中、いろいろな花を見ることができます。",
+        "romaji": "Ichinenjuu, iroirona hana wo miru koto ga dekimasu.",
+        "id_translation": "Sepanjang tahun, Anda dapat melihat berbagai macam bunga."
+      },
+      {
+        "jp": "この公園でジョギングをすることができます。",
+        "romaji": "Kono kouen de jogingu wo suru koto ga dekimasu.",
+        "id_translation": "Anda dapat jogging di taman ini."
+      }
+    ],
+    "notes": "Bentuk potensial lain: 'V-られます' (bisa V) juga bisa digunakan, tetapi 'V-ることができます' lebih formal dan umum digunakan untuk menyatakan kemungkinan/kemampuan secara umum. Contoh: ここで泳ぐことができます (Anda bisa berenang di sini). Untuk negatif: ことができません (tidak bisa).",
+    "tags": ["A2", "Kemampuan", "Kemungkinan", "Aktivitas"]
+  }
+]

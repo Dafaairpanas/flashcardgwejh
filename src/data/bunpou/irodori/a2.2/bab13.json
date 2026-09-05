@@ -1,1 +1,117 @@
-[]
+[
+  {
+    "id": "i_bab13_1",
+    "chapter": "Bab 13",
+    "source": "irodori",
+    "title": "V-（ら）れます (Pasif ④) — (Bangunan) Dibangun/Dibuat",
+    "romajiTitle": "V-（rare）masu",
+    "meaning": "Pola kalimat pasif untuk menyatakan bahwa suatu bangunan atau fasilitas dibangun, didirikan, atau dibuat oleh seseorang. Sangat umum digunakan dalam penjelasan tentang fasilitas umum atau sejarah bangunan. Artinya '[Bangunan] di-[V]'.",
+    "formula": "[Bangunan/Fasilitas] が [Kata Kerja Pasif]",
+    "examples": [
+      {
+        "jp": "この建物は、2年前に建てられました。",
+        "romaji": "Kono tatemono wa, ni-nen mae ni tateraremashita.",
+        "id_translation": "Bangunan ini dibangun 2 tahun lalu."
+      },
+      {
+        "jp": "この図書館は、1980年に建てられました。",
+        "romaji": "Kono toshokan wa, sen-kyuu-hyaku-hachi-juu-nen ni tateraremashita.",
+        "id_translation": "Perpustakaan ini dibangun pada tahun 1980."
+      }
+    ],
+    "notes": "Bentuk pasif untuk '建てる' (membangun) adalah '建てられる'. Kata kerja lain yang umum dalam pasif untuk bangunan: 作られる (dibuat), 設計される (didirikan), 改装される (direnovasi). Dalam kalimat pasif, pelaku (arsitek/kontraktor) jarang disebutkan, hanya fokus pada bangunan itu sendiri.",
+    "tags": ["B1", "Pasif", "Bangunan", "Fasilitas"]
+  },
+  {
+    "id": "i_bab13_2",
+    "chapter": "Bab 13",
+    "source": "irodori",
+    "title": "V-てあります (V-te arimasu) — Sudah di-V (Keadaan Hasil)",
+    "romajiTitle": "V-te arimasu",
+    "meaning": "Pola untuk menyatakan hasil dari suatu tindakan yang sudah selesai dan masih terlihat/berlaku. 'V-てあります' menunjukkan bahwa seseorang telah melakukan suatu tindakan, dan hasilnya masih terlihat. Berbeda dengan 'V-ています' yang menunjukkan tindakan sedang berlangsung. Sangat berguna saat menjelaskan persiapan atau pameran. Artinya 'Sudah [di-V] (dan masih dalam keadaan itu)'.",
+    "formula": "[Kata Kerja Bentuk te] + あります",
+    "examples": [
+      {
+        "jp": "昔、使われた道具とか、いろいろな資料を展示してあります。",
+        "romaji": "Mukashi, tsukawareta dougu toka, iroirona shiryou wo tenji shite arimasu.",
+        "id_translation": "Alat-alat yang dulu digunakan dan berbagai dokumen telah dipamerkan (dan masih terpajang)."
+      },
+      {
+        "jp": "窓が開けてあります。",
+        "romaji": "Mado ga akete arimasu.",
+        "id_translation": "Jendela sudah dibuka (dan masih terbuka)."
+      }
+    ],
+    "notes": "Perbedaan: 'V-てあります' (hasil tindakan - fokus pada keadaan) vs 'V-ています' (tindakan berlangsung - fokus pada aktivitas). Contoh: 電気が消してあります (Lampu sudah dimatikan - dalam keadaan mati) vs 電気が消えています (Lampu sedang mati - keadaan alami). 'V-てあります' biasanya menggunakan kata kerja transitif (memerlukan objek).",
+    "tags": ["B1", "Keadaan", "Hasil", "Fasilitas"]
+  },
+  {
+    "id": "i_bab13_3",
+    "chapter": "Bab 13",
+    "source": "irodori",
+    "title": "N1だけじゃなくて、N2も〜 (N1 dake janakute, N2 mo ~) — Tidak Hanya N1, Tapi Juga N2",
+    "romajiTitle": "N1 dake janakute, N2 mo",
+    "meaning": "Pola untuk menyatakan bahwa tidak hanya satu hal, tetapi juga hal lain yang termasuk. 'だけじゃなくて' berarti 'tidak hanya', dan 'も' berarti 'juga'. Sangat berguna saat menjelaskan berbagai fasilitas atau layanan yang tersedia. Artinya 'Tidak hanya N1, tetapi juga N2'.",
+    "formula": "[N1] だけじゃなくて、[N2] も [Predikat]",
+    "examples": [
+      {
+        "jp": "本だけじゃなくて、CDとか、DVDもただで借りられます。",
+        "romaji": "Hon dake janakute, CD toka, DVD mo tada de kariremasu.",
+        "id_translation": "Tidak hanya buku, tetapi CD dan DVD juga bisa dipinjam gratis."
+      },
+      {
+        "jp": "日本語だけじゃなくて、英語も話せます。",
+        "romaji": "Nihongo dake janakute, Eigo mo hanasemasu.",
+        "id_translation": "Saya bisa berbicara tidak hanya bahasa Jepang, tetapi juga bahasa Inggris."
+      }
+    ],
+    "notes": "Bentuk formal: だけでなく (dake de naku). Contoh: 本だけでなく、CDも借りられます (Tidak hanya buku, tetapi CD juga bisa dipinjam). 'だけじゃなくて' lebih kasual dan sering digunakan dalam percakapan. Untuk menambahkan lebih dari dua item, gunakan 'も' untuk setiap tambahan.",
+    "tags": ["B1", "Tambahan", "Fasilitas", "Layanan"]
+  },
+  {
+    "id": "i_bab13_4",
+    "chapter": "Bab 13",
+    "source": "irodori",
+    "title": "Nなら、〜 (N nara, ~) — Kalau N, ...",
+    "romajiTitle": "N nara",
+    "meaning": "Pola untuk menyatakan kondisi atau topik tertentu, sering digunakan saat memberikan penjelasan tentang aturan atau kebijakan. 'なら' berarti 'kalau' atau 'mengenai' dan menunjukkan bahwa pembicaraan terfokus pada topik yang disebutkan. Sangat berguna saat menjelaskan aturan perpustakaan. Artinya 'Kalau [N], ...' atau 'Mengenai [N], ...'.",
+    "formula": "[Topik] + なら、[Penjelasan]",
+    "examples": [
+      {
+        "jp": "返却は、市内の図書館なら、どこに返してもいいです。",
+        "romaji": "Henkyaku wa, shinai no toshokan nara, doko ni kaeshite mo ii desu.",
+        "id_translation": "Mengenai pengembalian, kalau perpustakaan dalam kota, bisa dikembalikan di mana saja."
+      },
+      {
+        "jp": "図書館なら、ここが一番大きいです。",
+        "romaji": "Toshokan nara, koko ga ichiban ookii desu.",
+        "id_translation": "Kalau perpustakaan, di sini yang terbesar."
+      }
+    ],
+    "notes": "'なら' berbeda dengan 'と' dan 'ば' karena digunakan ketika topik sudah disebutkan atau diketahui. Contoh: 学生なら割引があります (Kalau pelajar, ada diskon). Sering digunakan untuk memberikan informasi spesifik tentang topik yang sedang dibicarakan.",
+    "tags": ["B1", "Kondisi", "Aturan", "Perpustakaan"]
+  },
+  {
+    "id": "i_bab13_5",
+    "chapter": "Bab 13",
+    "source": "irodori",
+    "title": "【kata tanya】V-ても、〜 — Meskipun V di Mana Pun ...",
+    "romajiTitle": "【kata tanya】V-te mo",
+    "meaning": "Pola untuk menyatakan bahwa sesuatu berlaku tidak peduli bagaimana, di mana, atau kapan. '〜ても' berarti 'meskipun' atau 'bahkan jika', dan dengan kata tanya menjadi 'di mana pun', 'kapan pun', dll. Sangat berguna saat menjelaskan aturan yang fleksibel. Artinya 'Di mana pun [V], [akibat]'.",
+    "formula": "[Kata Tanya] + [Kata Kerja Bentuk te] + も、[Akibat]",
+    "examples": [
+      {
+        "jp": "返却は、市内の図書館なら、どこに返してもいいです。",
+        "romaji": "Henkyaku wa, shinai no toshokan nara, doko ni kaeshite mo ii desu.",
+        "id_translation": "Mengenai pengembalian, kalau perpustakaan dalam kota, bisa dikembalikan di mana saja."
+      },
+      {
+        "jp": "いつ来てもいいですよ。",
+        "romaji": "Itsu kite mo ii desu yo.",
+        "id_translation": "Kapan pun datang boleh kok."
+      }
+    ],
+    "notes": "Contoh dengan kata tanya lain: 誰に聞いても (Tanya siapa pun), 何を食べても (Makan apa pun), どうやっても (Bagaimana pun caranya). '〜ても' dengan kata tanya berarti 'tidak peduli [kata tanya]' atau '[kata tanya] pun'. Sangat berguna untuk menjelaskan aturan yang fleksibel.",
+    "tags": ["B1", "Fleksibilitas", "Aturan", "Perpustakaan"]
+  }
+]

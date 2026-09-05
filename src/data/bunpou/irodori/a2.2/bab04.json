@@ -1,1 +1,117 @@
-[]
+[
+  {
+    "id": "i_bab04_1",
+    "chapter": "Bab 04",
+    "source": "irodori",
+    "title": "Nなら、〜 (N nara, ~) — Kalau N, ...",
+    "romajiTitle": "N nara",
+    "meaning": "Pola untuk menyatakan kondisi atau topik tertentu, sering digunakan saat memberikan rekomendasi. 'なら' berarti 'kalau' atau 'mengenai' dan menunjukkan bahwa pembicaraan terfokus pada topik yang disebutkan. Sangat berguna saat merekomendasikan restoran atau tempat. Artinya 'Kalau [N], ...' atau 'Mengenai [N], ...'.",
+    "formula": "[Topik] + なら、[Rekomendasi/Saran]",
+    "examples": [
+      {
+        "jp": "この近くなら、「平兵衛」がおすすめです。",
+        "romaji": "Kono chikaku nara, 「Heibee」ga osusume desu.",
+        "id_translation": "Kalau di dekat sini, 'Heibee' yang saya rekomendasikan."
+      },
+      {
+        "jp": "ラーメンなら、あの店が一番おいしいです。",
+        "romaji": "Raamen nara, ano mise ga ichiban oishii desu.",
+        "id_translation": "Kalau ramen, toko itu yang paling enak."
+      }
+    ],
+    "notes": "Perbedaan dengan 'と' dan 'ば': 'なら' digunakan ketika topik sudah disebutkan atau diketahui. 'なら' sering digunakan dalam percakapan untuk merespon pertanyaan: A: いいレストランはありますか？ (Ada restoran bagus?) B: イタリアンなら、あそこがいいですよ (Kalau masakan Italia, di sana bagus).",
+    "tags": ["B1", "Rekomendasi", "Kondisi", "Restoran"]
+  },
+  {
+    "id": "i_bab04_2",
+    "chapter": "Bab 04",
+    "source": "irodori",
+    "title": "V-て、〜／V-ないで、〜 — Lakukan dengan ... / Tanpa ...",
+    "romajiTitle": "V-te / V-naide",
+    "meaning": "Pola untuk memberikan instruksi tentang cara melakukan sesuatu, terutama cara makan. 'V-て' menunjukkan cara melakukan suatu tindakan, sedangkan 'V-ないで' menunjukkan cara tanpa melakukan sesuatu. Sangat berguna saat menjelaskan cara menyantap masakan. Artinya 'Lakukan [V1], lalu [V2]' / 'Tanpa [V1], [V2]'.",
+    "formula": "[Kata Kerja Bentuk te] + [Tindakan] / [Kata Kerja Negatif + で] + [Tindakan]",
+    "examples": [
+      {
+        "jp": "こちらの野菜の天ぷらは、つゆにつけて食べてください。",
+        "romaji": "Kochira no yasai no tempura wa, tsuyu ni tsukete tabete kudasai.",
+        "id_translation": "Tempura sayur yang ini, tolong makan dengan dicelupkan ke kuah."
+      },
+      {
+        "jp": "エビはつゆにつけないで、塩をかけて食べてください。",
+        "romaji": "Ebi wa tsuyu ni tsukenaide, shio wo kakete tabete kudasai.",
+        "id_translation": "Udang, tolong makan tanpa dicelupkan ke kuah, tapi diberi garam."
+      }
+    ],
+    "notes": "'V-ないで' adalah bentuk negatif dari 'V-て' yang berarti 'tanpa melakukan V'. Contoh: 砂糖を入れないでコーヒーを飲みます (Minum kopi tanpa gula). 'V-て' juga bisa berarti 'dengan cara' atau 'setelah melakukan'. Dalam instruksi makan, '〜てください' sering digunakan untuk meminta melakukan sesuatu.",
+    "tags": ["B1", "Instruksi", "Cara Makan", "Restoran"]
+  },
+  {
+    "id": "i_bab04_3",
+    "chapter": "Bab 04",
+    "source": "irodori",
+    "title": "V-ちゃだめです (V-cha dame desu) — Tidak Boleh V",
+    "romajiTitle": "V-cha dame desu",
+    "meaning": "Pola untuk menyatakan larangan atau hal yang tidak boleh dilakukan. 'ちゃ' adalah bentuk kasual dari 'ては', dan 'だめです' berarti 'tidak boleh' atau 'tidak baik'. Digunakan untuk memberikan peringatan tentang cara memasak atau makan yang salah. Artinya 'Tidak boleh [melakukan V]'.",
+    "formula": "[Kata Kerja Bentuk te] + ちゃだめです",
+    "examples": [
+      {
+        "jp": "一度にそんなにたくさんお肉を入れちゃだめですよ。",
+        "romaji": "Ichido ni sonna ni takusan oniku wo irecha dame desu yo.",
+        "id_translation": "Tidak boleh memasukkan daging sebanyak itu sekaligus lho."
+      },
+      {
+        "jp": "熱いから、触っちゃだめですよ。",
+        "romaji": "Atsui kara, sawaccha dame desu yo.",
+        "id_translation": "Karena panas, tidak boleh disentuh lho."
+      }
+    ],
+    "notes": "Bentuk lebih sopan: V-てはいけません. 'ちゃ' adalah kependekan dari 'ては' dalam percakapan sehari-hari. Contoh: ここで食べてはいけません (Tidak boleh makan di sini) → ここで食べちゃだめ (kasual). Gunakan 'ちゃだめ' untuk peringatan ringan, dan 'てはいけません' untuk aturan resmi.",
+    "tags": ["B1", "Larangan", "Peringatan", "Memasak"]
+  },
+  {
+    "id": "i_bab04_4",
+    "chapter": "Bab 04",
+    "source": "irodori",
+    "title": "V-てから、〜 (V-te kara, ~) — Setelah V, ...",
+    "romajiTitle": "V-te kara",
+    "meaning": "Pola untuk menyatakan urutan waktu: melakukan tindakan pertama, lalu melakukan tindakan kedua setelahnya. 'V-てから' berarti 'setelah melakukan V'. Sangat berguna saat memberikan instruksi memasak atau urutan makan. Artinya 'Setelah [V1], [V2]'.",
+    "formula": "[Kata Kerja 1 Bentuk te] + から、[Kata Kerja 2]",
+    "examples": [
+      {
+        "jp": "うどんは、お肉と野菜を食べてから、入れましょう。",
+        "romaji": "Udon wa, oniku to yasai wo tabete kara, iremashou.",
+        "id_translation": "Untuk udon, setelah makan daging dan sayuran, masukkan (udon) ya."
+      },
+      {
+        "jp": "手を洗ってから、食べてください。",
+        "romaji": "Te wo aratte kara, tabete kudasai.",
+        "id_translation": "Setelah cuci tangan, tolong makan."
+      }
+    ],
+    "notes": "Berbeda dengan 'V-て' (lalu) yang hanya menyatakan urutan, 'V-てから' menekankan bahwa tindakan pertama harus selesai sepenuhnya sebelum tindakan kedua dimulai. Contoh: 日本に来てから、日本語を勉強しました (Setelah datang ke Jepang, saya belajar bahasa Jepang).",
+    "tags": ["B1", "Urutan", "Setelah", "Instruksi"]
+  },
+  {
+    "id": "i_bab04_5",
+    "chapter": "Bab 04",
+    "source": "irodori",
+    "title": "S1が、S2 (S1 ga, S2) — S1, Tetapi S2",
+    "romajiTitle": "S1 ga, S2",
+    "meaning": "Pola untuk menyatakan kontras atau pertentangan antara dua klausa. 'が' berarti 'tetapi' atau 'meskipun'. Berbeda dengan 'けど' yang lebih kasual, 'が' lebih formal dan sering digunakan dalam tulisan atau situasi formal. Sangat berguna dalam ulasan restoran. Artinya '[S1], tetapi [S2]'.",
+    "formula": "[Klausa 1] + が、[Klausa 2]",
+    "examples": [
+      {
+        "jp": "お店は新しくてきれいですが、お昼は混んでいます。",
+        "romaji": "Omise wa atarashikute kirei desu ga, ohiru wa konde imasu.",
+        "id_translation": "Restorannya baru dan bersih, tetapi siang hari ramai."
+      },
+      {
+        "jp": "この料理はおいしいですが、ちょっと高いです。",
+        "romaji": "Kono ryouri wa oishii desu ga, chotto takai desu.",
+        "id_translation": "Masakan ini enak, tetapi agak mahal."
+      }
+    ],
+    "notes": "Perbedaan: 'が' (tetapi - formal) vs 'けど' (tetapi - kasual) vs 'けれども' (tetapi - sangat formal). 'が' juga bisa digunakan sebagai partikel penanda subjek dalam fungsi lain. Dalam ulasan, 'が' sangat umum digunakan untuk memberikan kelebihan dan kekurangan. Contoh: サービスはいいですが、値段が高いです (Pelayanannya bagus, tetapi harganya mahal).",
+    "tags": ["B1", "Kontras", "Ulasan", "Penghubung"]
+  }
+]

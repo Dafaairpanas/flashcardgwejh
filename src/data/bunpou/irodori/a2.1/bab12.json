@@ -1,1 +1,94 @@
-[]
+[
+  {
+    "id": "i_bab12_1",
+    "chapter": "Bab 12",
+    "source": "irodori",
+    "title": "ナA-／イA- そうです (NaA / IA sou desu) — Kelihatannya ...",
+    "romajiTitle": "NaA / IA sou desu",
+    "meaning": "Pola kalimat untuk menyatakan kesan atau dugaan berdasarkan apa yang terlihat (penampilan). 'そうです' berarti 'kelihatannya' atau 'sepertinya'. Untuk kata sifat-na (ナA), gunakan langsung kata sifat + 'そうです'. Untuk kata sifat-i (イA), hilangkan 'い' dan tambahkan 'そうです'. Sangat berguna saat mengomentari makanan berdasarkan penampilan. Artinya 'Kelihatannya [sifat]'.",
+    "formula": "[ナA] + そうです / [イA-i] → [イA-] + そうです",
+    "examples": [
+      {
+        "jp": "そのお弁当、おいしそうですね。",
+        "romaji": "Sono obentou, oishisou desu ne.",
+        "id_translation": "Bekal itu kelihatannya enak ya."
+      },
+      {
+        "jp": "この料理、辛そうですね。",
+        "romaji": "Kono ryouri, karasou desu ne.",
+        "id_translation": "Masakan ini kelihatannya pedas ya."
+      }
+    ],
+    "notes": "Untuk kata sifat-i: おいしい (enak) → おいしそう (kelihatan enak), 辛い (pedas) → 辛そう (kelihatan pedas), 甘い (manis) → 甘そう (kelihatan manis). Untuk kata sifat-na: きれい (cantik) → きれいそう (kelihatan cantik), 便利 (praktis) → 便利そう (kelihatan praktis). Jangan gunakan untuk kata kerja.",
+    "tags": ["A2", "Kesan", "Penampilan", "Makanan"]
+  },
+  {
+    "id": "i_bab12_2",
+    "chapter": "Bab 12",
+    "source": "irodori",
+    "title": "イA-くて、〜 — Rasanya ... dan ...",
+    "romajiTitle": "IA-kute",
+    "meaning": "Pola untuk menggabungkan dua kata sifat-i (イA) untuk mendeskripsikan rasa atau kualitas makanan. Ubah kata sifat pertama dengan mengubah 'い' menjadi 'くて', lalu diikuti kata sifat kedua. Sangat berguna saat memberikan kesan tentang makanan yang baru dicicipi. Artinya '[Sifat1], dan [Sifat2]'.",
+    "formula": "[イA-い] → [イA-くて] + [イA]",
+    "examples": [
+      {
+        "jp": "この卵焼き、甘くておいしいですね。",
+        "romaji": "Kono tamagoyaki, amakute oishii desu ne.",
+        "id_translation": "Telur dadar gulung ini manis dan enak ya."
+      },
+      {
+        "jp": "このスープ、熱くて辛いです。",
+        "romaji": "Kono suupu, atsukute karai desu.",
+        "id_translation": "Sup ini panas dan pedas."
+      }
+    ],
+    "notes": "Untuk kata sifat-na (ナA), gunakan 'で' sebagai penghubung: にぎやかで便利です (ramai dan praktis). Untuk menggabungkan kata sifat-i (イA) dan kata sifat-na (ナA): 甘くて、おしゃれなケーキ (Kue yang manis dan modis). Bisa juga menggabungkan lebih dari 2 sifat dengan pola yang sama.",
+    "tags": ["A2", "Rasa", "Deskripsi", "Makanan"]
+  },
+  {
+    "id": "i_bab12_3",
+    "chapter": "Bab 12",
+    "source": "irodori",
+    "title": "V-てみます (V-te mimasu) — Mencoba Melakukan",
+    "romajiTitle": "V-te mimasu",
+    "meaning": "Pola kalimat untuk menyatakan bahwa seseorang mencoba melakukan sesuatu, biasanya untuk pertama kalinya atau untuk melihat bagaimana hasilnya. 'V-てみる' berarti 'mencoba melakukan'. Digunakan saat mencicipi makanan baru atau mencoba pengalaman baru. Artinya 'Mencoba [melakukan]'.",
+    "formula": "[Kata Kerja Bentuk te] + みます",
+    "examples": [
+      {
+        "jp": "よかったら、この卵焼き、食べてみてください。",
+        "romaji": "Yokattara, kono tamagoyaki, tabete mite kudasai.",
+        "id_translation": "Kalau mau, coba makan telur dadar gulung ini."
+      },
+      {
+        "jp": "このケーキを食べてみました。",
+        "romaji": "Kono keeki wo tabete mimashita.",
+        "id_translation": "Saya mencoba makan kue ini."
+      }
+    ],
+    "notes": "'V-てみる' memiliki nuansa 'eksperimen' atau 'coba-coba'. Berbeda dengan 'V-る' yang berarti melakukan secara serius. Contoh: 行ってみる (Mencoba pergi - mungkin baru pertama kali atau hanya coba) vs 行く (Pergi - pasti pergi). Bentuk lampau: 食べてみました (Sudah mencoba makan).",
+    "tags": ["A2", "Mencoba", "Pengalaman", "Makanan"]
+  },
+  {
+    "id": "i_bab12_4",
+    "chapter": "Bab 12",
+    "source": "irodori",
+    "title": "〜とか (〜toka) — Seperti ...",
+    "romajiTitle": "~toka",
+    "meaning": "Pola untuk memberikan contoh atau daftar hal-hal yang tidak lengkap. 'とか' digunakan di antara kata benda untuk menunjukkan bahwa ada hal-hal lain selain yang disebutkan. Sangat berguna saat menjelaskan bahan makanan atau isi suatu masakan. Artinya 'Seperti [N1], [N2], dan lain-lain'.",
+    "formula": "[N1] とか [N2] とか",
+    "examples": [
+      {
+        "jp": "鶏肉とか、エビとか、きのことかが入ってます。",
+        "romaji": "Toriniku toka, ebi toka, kinoko toka ga haittemasu.",
+        "id_translation": "Ada ayam, udang, jamur, dan lain-lain di dalamnya."
+      },
+      {
+        "jp": "果物とか、野菜とかを食べます。",
+        "romaji": "Kudamono toka, yasai toka wo tabemasu.",
+        "id_translation": "Saya makan buah-buahan, sayuran, dan lain-lain."
+      }
+    ],
+    "notes": "'とか' adalah bentuk kasual dari 'や' (dan - daftar tidak lengkap). Perbedaan dengan 'や': 'や' lebih sering digunakan dalam tulisan, sedangkan 'とか' lebih sering digunakan dalam percakapan. Bisa juga menggunakan '〜たり〜たり' untuk daftar aktivitas: 食べたり飲んだり (makan, minum, dan lain-lain).",
+    "tags": ["A2", "Contoh", "Bahan", "Makanan"]
+  }
+]

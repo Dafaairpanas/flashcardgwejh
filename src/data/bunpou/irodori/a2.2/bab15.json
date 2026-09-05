@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "id": "i_bab15_1",
+    "chapter": "Bab 15",
+    "source": "irodori",
+    "title": "V-たままです (V-ta mama desu) — Masih dalam Keadaan V (Tidak Berubah)",
+    "romajiTitle": "V-ta mama desu",
+    "meaning": "Pola untuk menyatakan bahwa suatu keadaan masih berlangsung tanpa perubahan sejak tindakan dilakukan. 'まま' berarti 'keadaan' atau 'sebagaimana adanya', dan digunakan dengan bentuk lampau kata kerja. Sangat berguna saat melaporkan kondisi yang seharusnya sudah berubah (seperti lampu yang masih menyala). Artinya 'Masih dalam keadaan [V]'.",
+    "formula": "[Kata Kerja Bentuk Lampau] + ままです",
+    "examples": [
+      {
+        "jp": "会議室の電気がついたままでしたよ。",
+        "romaji": "Kaigishitsu no denki ga tsuita mama deshita yo.",
+        "id_translation": "Lampu ruang rapat masih menyala lho (tidak dimatikan)."
+      },
+      {
+        "jp": "窓が開いたままです。",
+        "romaji": "Mado ga aita mama desu.",
+        "id_translation": "Jendela masih terbuka (tidak ditutup)."
+      }
+    ],
+    "notes": "Pola ini sering digunakan untuk menyatakan bahwa sesuatu tidak berubah dari keadaan sebelumnya, sering dengan nuansa 'seharusnya sudah berubah'. Contoh: 靴を履いたまま入らないでください (Tolong jangan masuk dengan masih memakai sepatu). Untuk menyatakan 'tanpa melakukan V': V-ないで + まま (Contoh: 何も食べないで出かけました - Pergi tanpa makan apa pun).",
+    "tags": ["B1", "Keadaan", "Lingkungan", "Hemat Energi"]
+  },
+  {
+    "id": "i_bab15_2",
+    "chapter": "Bab 15",
+    "source": "irodori",
+    "title": "V-るのにいいです (V-ru noni ii desu) — Bagus untuk V",
+    "romajiTitle": "V-ru noni ii desu",
+    "meaning": "Pola untuk menyatakan bahwa sesuatu berguna atau efektif untuk tujuan tertentu. 'のに' berarti 'untuk' (dalam konteks tujuan/kegunaan), dan diikuti 'いいです' berarti 'bagus'. Sangat berguna saat menjelaskan produk ramah lingkungan atau tips hemat energi. Artinya 'Bagus untuk [melakukan V]'.",
+    "formula": "[Kata Kerja Bentuk Kamus] + のにいいです",
+    "examples": [
+      {
+        "jp": "マイストローは、ごみを減らすのにいいんですよ。",
+        "romaji": "Mai sutoroo wa, gomi wo herasu noni ii n desu yo.",
+        "id_translation": "Sedotan pribadi itu bagus untuk mengurangi sampah lho."
+      },
+      {
+        "jp": "このアプリは、日本語を勉強するのにいいですよ。",
+        "romaji": "Kono apuri wa, Nihongo wo benkyou suru noni ii desu yo.",
+        "id_translation": "Aplikasi ini bagus untuk belajar bahasa Jepang lho."
+      }
+    ],
+    "notes": "Perbedaan: 'のに' (untuk tujuan/kegunaan) vs 'ために' (untuk tujuan spesifik). Contoh: 勉強するのにいい (Bagus untuk belajar - secara umum) vs 試験に合格するために (Untuk lulus ujian - tujuan spesifik). 'いい' bisa diganti dengan '役に立つ' (berguna) atau '便利' (praktis).",
+    "tags": ["B1", "Tujuan", "Lingkungan", "Kegunaan"]
+  }
+]

@@ -1,1 +1,94 @@
-[]
+[
+  {
+    "id": "i_bab15_1",
+    "chapter": "Bab 15",
+    "source": "irodori",
+    "title": "〜んです ② (~n desu) — Penjelasan Gejala",
+    "romajiTitle": "~n desu",
+    "meaning": "Pola kalimat untuk memberikan penjelasan atau alasan tentang kondisi kesehatan. '〜んです' (atau '〜のです' lebih formal) digunakan untuk menjelaskan situasi atau gejala yang sedang dialami. Diucapkan saat berkonsultasi dengan dokter atau memberi tahu orang lain tentang kondisi sakit. Artinya '(Faktanya) [gejala/penjelasan]'.",
+    "formula": "[Kalimat Gejala] + んです",
+    "examples": [
+      {
+        "jp": "昨日から38度の熱があって、のどがすごく痛いんです。",
+        "romaji": "Kinou kara san-juu-hachi-do no netsu ga atte, nodo ga sugoku itai n desu.",
+        "id_translation": "Saya demam 38 derajat sejak kemarin, dan tenggorokan sangat sakit."
+      },
+      {
+        "jp": "頭が痛くて、気持ちが悪いんです。",
+        "romaji": "Atama ga itakute, kimochi ga warui n desu.",
+        "id_translation": "Saya sakit kepala dan mual."
+      }
+    ],
+    "notes": "'〜んです' sangat berguna saat menjelaskan kondisi ke dokter. Biasanya diikuti dengan pertanyaan atau permintaan: 熱があるんですけど、どうしたらいいですか？ (Saya demam, apa yang harus saya lakukan?). Untuk gejala yang sedang berlangsung, gunakan bentuk 'V-ています': 咳が出ています (Saya batuk-batuk).",
+    "tags": ["A2", "Kesehatan", "Gejala", "Penjelasan"]
+  },
+  {
+    "id": "i_bab15_2",
+    "chapter": "Bab 15",
+    "source": "irodori",
+    "title": "V-ないでください (V-nai de kudasai) — Tolong Jangan ...",
+    "romajiTitle": "V-nai de kudasai",
+    "meaning": "Pola permintaan yang sopan untuk meminta seseorang tidak melakukan sesuatu. 'V-ないで' adalah bentuk negatif dari 'V-て' (bentuk te), dan 'ください' berarti 'tolong'. Digunakan oleh dokter untuk memberikan instruksi atau larangan kepada pasien. Artinya 'Tolong jangan [melakukan V]'.",
+    "formula": "[Kata Kerja Bentuk Negatif] + でください",
+    "examples": [
+      {
+        "jp": "今週は仕事を休んで、できるだけ人に会わないでください。",
+        "romaji": "Konshuu wa shigoto wo yasunde, dekiru dake hito ni awanaide kudasai.",
+        "id_translation": "Istirahat dari kerja minggu ini, dan tolong jangan bertemu orang sebisa mungkin."
+      },
+      {
+        "jp": "この薬を飲んだら、車を運転しないでください。",
+        "romaji": "Kono kusuri wo nondara, kuruma wo unten shinaide kudasai.",
+        "id_translation": "Setelah minum obat ini, tolong jangan mengemudi."
+      }
+    ],
+    "notes": "Bentuk lebih sopan: V-ないでいただけますか？ (Bisakah tolong tidak V?). Untuk instruksi di rumah sakit: アルコールを飲まないでください (Tolong jangan minum alkohol). 'V-ないで' juga digunakan untuk menyatakan cara negatif: 塩をつけないで食べます (Makan tanpa garam).",
+    "tags": ["A2", "Larangan", "Instruksi", "Kesehatan"]
+  },
+  {
+    "id": "i_bab15_3",
+    "chapter": "Bab 15",
+    "source": "irodori",
+    "title": "V-る前に／V-たあと (V-ru mae ni / V-ta ato) — Sebelum / Sesudah V",
+    "romajiTitle": "V-ru mae ni / V-ta ato",
+    "meaning": "Pola untuk menyatakan urutan waktu: sebelum atau sesudah melakukan suatu tindakan. '前に' berarti 'sebelum' dan menggunakan bentuk kamus (V-ru). 'あと' berarti 'sesudah' dan menggunakan bentuk lampau (V-ta). Sangat berguna saat menjelaskan cara minum obat atau instruksi medis. Artinya 'Sebelum [V]' / 'Setelah [V]'.",
+    "formula": "[Kata Kerja Bentuk Kamus] + 前に / [Kata Kerja Bentuk Lampau] + あと",
+    "examples": [
+      {
+        "jp": "1日1回、寝る前に飲んでください。",
+        "romaji": "Ichi-niichi ikkai, neru mae ni nonde kudasai.",
+        "id_translation": "Sekali sehari, tolong minum sebelum tidur."
+      },
+      {
+        "jp": "飲んだあと、運転しないでくださいね。",
+        "romaji": "Nonda ato, unten shinaide kudasai ne.",
+        "id_translation": "Setelah minum, tolong jangan mengemudi ya."
+      }
+    ],
+    "notes": "Untuk kata benda, gunakan 'Nの前に' dan 'Nのあとで'. Contoh: 食事の前に (sebelum makan), 食事のあとで (setelah makan). '前に' dan 'あとで' adalah pasangan yang sangat umum dalam instruksi medis dan jadwal minum obat.",
+    "tags": ["A2", "Urutan", "Instruksi", "Kesehatan"]
+  },
+  {
+    "id": "i_bab15_4",
+    "chapter": "Bab 15",
+    "source": "irodori",
+    "title": "〜とき（に） (~toki (ni)) — Saat ...",
+    "romajiTitle": "~toki (ni)",
+    "meaning": "Pola untuk menyatakan waktu atau kondisi tertentu saat suatu tindakan dilakukan. 'とき' berarti 'saat' atau 'ketika'. Digunakan dalam instruksi obat untuk menunjukkan kapan obat harus diminum. Artinya 'Pada saat [kondisi]'.",
+    "formula": "[Kalimat Kondisi] + とき（に）",
+    "examples": [
+      {
+        "jp": "この薬は、痛くてがまんできないときに飲んでください。",
+        "romaji": "Kono kusuri wa, itakute gaman dekinai toki ni nonde kudasai.",
+        "id_translation": "Obat ini, tolong minum saat sakit dan tidak tahan."
+      },
+      {
+        "jp": "熱があるときは、この薬を飲んでください。",
+        "romaji": "Netsu ga aru toki wa, kono kusuri wo nonde kudasai.",
+        "id_translation": "Saat demam, tolong minum obat ini."
+      }
+    ],
+    "notes": "Untuk kondisi yang spesifik: 頭が痛いとき (saat sakit kepala), 咳が出るとき (saat batuk). 'とき' bisa digunakan dengan bentuk kamus (saat akan melakukan), bentuk lampau (saat sudah melakukan), atau bentuk negatif. Partikel 'に' sering ditambahkan untuk menunjukkan waktu spesifik.",
+    "tags": ["A2", "Kondisi", "Waktu", "Instruksi"]
+  }
+]

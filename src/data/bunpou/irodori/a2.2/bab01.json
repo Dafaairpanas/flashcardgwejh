@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": "i_bab01_1",
+    "chapter": "Bab 01",
+    "source": "irodori",
+    "title": "N1というN2 (N1 to iu N2) — N2 yang Disebut N1",
+    "romajiTitle": "N1 to iu N2",
+    "meaning": "Pola untuk menjelaskan atau mendefinisikan sesuatu dengan menyebutkan nama atau istilahnya. 'という' berarti 'yang disebut' atau 'yang bernama'. Digunakan saat memperkenalkan nama tempat, orang, atau istilah baru. Sangat berguna saat menjelaskan arti kata atau memperkenalkan tempat asal. Artinya '[N2] yang disebut [N1]' atau '[N1] berarti [N2]'.",
+    "formula": "[Nama] という [Penjelasan]",
+    "examples": [
+      {
+        "jp": "ホアは「花」という意味です。",
+        "romaji": "Hoa wa 「hana」to iu imi desu.",
+        "id_translation": "'Hoa' berarti 'bunga'."
+      },
+      {
+        "jp": "ジョグジャカルタという町があります。",
+        "romaji": "Jogujakaruta to iu machi ga arimasu.",
+        "id_translation": "Ada kota yang bernama Yogyakarta."
+      }
+    ],
+    "notes": "Untuk menjelaskan arti kata: [Kata] は [Arti] という意味です. Untuk memperkenalkan nama: [Nama] という [Kategori]. Contoh: 富士山という山 (Gunung yang bernama Fuji), 田中さんという人 (Orang yang bernama Tanaka).",
+    "tags": ["B1", "Perkenalan", "Penjelasan", "Definisi"]
+  },
+  {
+    "id": "i_bab01_2",
+    "chapter": "Bab 01",
+    "source": "irodori",
+    "title": "V-たばかりです (V-ta bakari desu) — Baru Saja Melakukan V",
+    "romajiTitle": "V-ta bakari desu",
+    "meaning": "Pola untuk menyatakan bahwa suatu tindakan baru saja selesai dilakukan. 'たばかり' berarti 'baru saja' dan digunakan untuk menunjukkan bahwa waktu yang berlalu sejak tindakan itu sangat singkat. Sangat berguna saat memperkenalkan diri sebagai pendatang baru. Artinya 'Baru saja [melakukan V]'.",
+    "formula": "[Kata Kerja Bentuk Lampau] + ばかりです",
+    "examples": [
+      {
+        "jp": "先週、日本に来たばかりです。",
+        "romaji": "Senshuu, Nihon ni kita bakari desu.",
+        "id_translation": "Saya baru saja datang ke Jepang minggu lalu."
+      },
+      {
+        "jp": "この仕事を始めたばかりです。",
+        "romaji": "Kono shigoto wo hajimeta bakari desu.",
+        "id_translation": "Saya baru saja memulai pekerjaan ini."
+      }
+    ],
+    "notes": "Berbeda dengan 'V-たところです' yang juga berarti 'baru saja', tetapi 'V-たばかり' memiliki nuansa 'masih sangat baru' dan bisa merujuk pada waktu yang lebih lama (hari, minggu) daripada 'V-たところ' yang biasanya merujuk pada beberapa menit yang lalu. Contoh: 日本に来たばかりで、まだよくわかりません (Saya baru saja datang ke Jepang, jadi masih belum begitu paham).",
+    "tags": ["B1", "Waktu", "Baru Saja", "Pengalaman"]
+  },
+  {
+    "id": "i_bab01_3",
+    "chapter": "Bab 01",
+    "source": "irodori",
+    "title": "V-ていました (V-te imashita) — (Dulu) Sedang Melakukan / Kebiasaan Lampau",
+    "romajiTitle": "V-te imashita",
+    "meaning": "Pola untuk menyatakan kegiatan yang sedang berlangsung di masa lalu atau kebiasaan yang dilakukan di masa lalu. Bentuk lampau dari 'V-ています'. Digunakan saat menceritakan pengalaman kerja sebelumnya atau kegiatan yang dulu biasa dilakukan. Artinya '(Dulu) sedang [melakukan V]' atau 'Dulu biasa [melakukan V]'.",
+    "formula": "[Kata Kerja Bentuk te] + いました",
+    "examples": [
+      {
+        "jp": "ベトナムでは、ホテルで働いていました。",
+        "romaji": "Betonamu de wa, hoteru de hataraite imashita.",
+        "id_translation": "Di Vietnam, saya (dulu) bekerja di hotel."
+      },
+      {
+        "jp": "学生のとき、よく図書館で勉強していました。",
+        "romaji": "Gakusei no toki, yoku toshokan de benkyou shite imashita.",
+        "id_translation": "Saat masih pelajar, saya sering belajar di perpustakaan."
+      }
+    ],
+    "notes": "'V-ていました' adalah bentuk lampau dari 'V-ています'. Digunakan untuk menyatakan: (1) Aktivitas yang sedang berlangsung di masa lalu: 昨日の3時に、テレビを見ていました (Saya sedang menonton TV jam 3 kemarin). (2) Kebiasaan di masa lalu: 子供のとき、よく泳いでいました (Waktu kecil, saya sering berenang).",
+    "tags": ["B1", "Lampau", "Kebiasaan", "Pengalaman"]
+  },
+  {
+    "id": "i_bab01_4",
+    "chapter": "Bab 01",
+    "source": "irodori",
+    "title": "それ／そこ (Sore / Soko) — Kata Penunjuk Kontekstual",
+    "romajiTitle": "Sore / Soko",
+    "meaning": "Kata penunjuk yang merujuk pada sesuatu yang sudah disebutkan sebelumnya dalam percakapan atau teks. 'それ' digunakan untuk benda/informasi, 'そこ' digunakan untuk tempat. Sangat berguna untuk menghindari pengulangan kata dan membuat kalimat lebih alami. Artinya 'Itu' / 'Di situ'.",
+    "formula": "[Informasi Sebelumnya] → それ / そこ",
+    "examples": [
+      {
+        "jp": "ジョグジャカルタという町があります。そこからバスで4時間です。",
+        "romaji": "Jogujakaruta to iu machi ga arimasu. Soko kara basu de yo-jikan desu.",
+        "id_translation": "Ada kota bernama Yogyakarta. Dari sana (Yogyakarta) 4 jam dengan bus."
+      },
+      {
+        "jp": "新しいレストランがオープンしました。それに行きました。",
+        "romaji": "Atarashii resutoran ga oopun shimashita. Sore ni ikimashita.",
+        "id_translation": "Restoran baru telah buka. Saya pergi ke itu."
+      }
+    ],
+    "notes": "Perbedaan: 'これ/ここ' (ini/di sini - dekat pembicara), 'それ/そこ' (itu/di situ - dekat lawan bicara atau sudah disebutkan), 'あれ/あそこ' (itu/di sana - jauh dari keduanya). Dalam konteks merujuk pada informasi sebelumnya, 'それ' dan 'そこ' paling sering digunakan.",
+    "tags": ["B1", "Penunjuk", "Konteks", "Referensi"]
+  },
+  {
+    "id": "i_bab01_5",
+    "chapter": "Bab 01",
+    "source": "irodori",
+    "title": "Penghubung Kalimat: 〜て / 〜から / 〜けど (~te / ~kara / ~kedo)",
+    "romajiTitle": "~te / ~kara / ~kedo",
+    "meaning": "Tiga pola untuk menghubungkan kalimat dengan makna yang berbeda. '〜て' untuk urutan atau sebab-akibat ringan, '〜から' untuk sebab/alasan yang jelas, '〜けど' untuk kontras. Sangat berguna saat menceritakan tentang tempat asal atau pengalaman. Artinya '[Kalimat1], dan/lalu/karena/tetapi [Kalimat2]'.",
+    "formula": "[Kalimat1] + て / から / けど + [Kalimat2]",
+    "examples": [
+      {
+        "jp": "お茶の畑がたくさんあって、のんびりしています。",
+        "romaji": "Ocha no hatake ga takusan atte, nonbiri shite imasu.",
+        "id_translation": "Ada banyak kebun teh, dan suasananya santai. (〜て - dan)"
+      },
+      {
+        "jp": "ここは静かだから、勉強しやすいです。",
+        "romaji": "Koko wa shizuka da kara, benkyou shiyasui desu.",
+        "id_translation": "Karena di sini tenang, mudah belajar. (〜から - karena)"
+      },
+      {
+        "jp": "田舎だけど、住みやすいです。",
+        "romaji": "Inaka da kedo, sumiyasui desu.",
+        "id_translation": "Meskipun pedesaan, mudah untuk tinggal. (〜けど - meskipun)"
+      }
+    ],
+    "notes": "'〜て' paling umum digunakan untuk menghubungkan kalimat dengan makna 'dan' atau 'lalu'. '〜から' menunjukkan alasan yang kuat. '〜けど' (atau '〜けれど' lebih formal) menunjukkan kontras. Untuk kata sifat-na, gunakan 'で' (静かで...), untuk kata sifat-i gunakan 'くて' (安くて...), untuk kata benda gunakan 'で' (学生で...).",
+    "tags": ["B1", "Penghubung", "Sebab", "Kontras"]
+  }
+]

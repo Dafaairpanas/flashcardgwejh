@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "id": "i_bab12_1",
+    "chapter": "Bab 12",
+    "source": "irodori",
+    "title": "V-るまで、〜 (V-ru made, ~) — Sampai V ...",
+    "romajiTitle": "V-ru made",
+    "meaning": "Pola untuk menyatakan batas waktu atau titik akhir suatu tindakan. 'まで' berarti 'sampai' dan digunakan dengan bentuk kamus kata kerja. Sangat berguna saat menjelaskan durasi pengiriman atau waktu tunggu. Artinya 'Sampai [V], [akibat]'.",
+    "formula": "[Kata Kerja Bentuk Kamus] + まで、[Klausa]",
+    "examples": [
+      {
+        "jp": "手元に届くまで、2日しかかかりませんでした。",
+        "romaji": "Temoto ni todoku made, futsuka shika kakarimasen deshita.",
+        "id_translation": "Sampai tiba di tangan, hanya butuh 2 hari."
+      },
+      {
+        "jp": "店が閉まるまで、買い物をしていました。",
+        "romaji": "Mise ga shimaru made, kaimono wo shite imashita.",
+        "id_translation": "Saya berbelanja sampai toko tutup."
+      }
+    ],
+    "notes": "Untuk menyatakan 'dari ... sampai ...', gunakan '〜から〜まで': 9時から5時まで (dari jam 9 sampai jam 5). 'まで' dengan kata kerja bentuk negatif berarti 'sebelum': 来るまで (sampai datang) vs 来ないまで (sebelum datang - jarang digunakan, lebih umum '前に').",
+    "tags": ["B1", "Batas Waktu", "Durasi", "Pengiriman"]
+  },
+  {
+    "id": "i_bab12_2",
+    "chapter": "Bab 12",
+    "source": "irodori",
+    "title": "V-やすいです／V-にくいです (V-yasui desu / V-nikui desu) — Mudah V / Sulit V",
+    "romajiTitle": "V-yasui desu / V-nikui desu",
+    "meaning": "Pola untuk menyatakan kemudahan atau kesulitan melakukan suatu tindakan. 'やすい' berarti 'mudah' dan 'にくい' berarti 'sulit'. Digabungkan dengan bentuk 'ます' tanpa 'ます' dari kata kerja. Sangat berguna saat membandingkan produk elektronik. Artinya 'Mudah [V]' / 'Sulit [V]'.",
+    "formula": "[Kata Kerja Bentuk Masu tanpa masu] + やすいです / にくいです",
+    "examples": [
+      {
+        "jp": "どっちが使いやすいですか？",
+        "romaji": "Docchi ga tsukaiyasui desu ka?",
+        "id_translation": "Mana yang lebih mudah digunakan?"
+      },
+      {
+        "jp": "この掃除機は、重くて使いにくいですね。",
+        "romaji": "Kono soujiki wa, omokute tsukainikui desu ne.",
+        "id_translation": "Vakum ini berat dan sulit digunakan ya."
+      }
+    ],
+    "notes": "Contoh lain: 読みやすい (mudah dibaca), 書きにくい (sulit ditulis), 見やすい (mudah dilihat). Untuk kata sifat 'やすい' dan 'にくい' bisa dikonjugasikan seperti kata sifat-i: 使いやすかった (mudah digunakan - lampau), 使いやすくない (tidak mudah digunakan). Sangat berguna dalam ulasan produk.",
+    "tags": ["B1", "Kemudahan", "Kesulitan", "Produk"]
+  },
+  {
+    "id": "i_bab12_3",
+    "chapter": "Bab 12",
+    "source": "irodori",
+    "title": "N1とN2（と）、どちら／どっちが〜か？ (N1 to N2 (to), dochira / docchi ga ~ ka?) — Mana yang Lebih ...?",
+    "romajiTitle": "N1 to N2, dochira / docchi ga ~ ka?",
+    "meaning": "Pola untuk membandingkan dua hal dan menanyakan mana yang lebih memiliki suatu sifat. 'どちら' adalah bentuk formal, 'どっち' adalah bentuk kasual. Sangat berguna saat memilih antara dua produk. Artinya 'N1 dan N2, mana yang lebih [sifat]?'.",
+    "formula": "[N1] と [N2]（と）、どちら / どっち が [Kata Sifat] か？",
+    "examples": [
+      {
+        "jp": "A: どっちが使いやすいですか？ B: セーシバの掃除機のほうがスギシタより軽くて、動かしやすいですよ。",
+        "romaji": "A: Docchi ga tsukaiyasui desu ka? B: Seeshiba no soujiki no hou ga Sugishita yori karukute, ugokashiyasui desu yo.",
+        "id_translation": "A: Mana yang lebih mudah digunakan? B: Vakum Seeshiba lebih ringan dan lebih mudah digerakkan daripada Sugishita."
+      },
+      {
+        "jp": "このカメラとあのカメラ、どちらがいいですか？",
+        "romaji": "Kono kamera to ano kamera, dochira ga ii desu ka?",
+        "id_translation": "Kamera ini dan kamera itu, mana yang lebih baik?"
+      }
+    ],
+    "notes": "Untuk memberikan jawaban: [B]のほうが〜です ([B] lebih ...). Contoh: こちらのほうが安いです (Yang ini lebih murah). 'より' digunakan untuk menyatakan standar perbandingan: AよりBのほうが〜 (B lebih ... daripada A). Untuk membandingkan lebih dari dua hal, gunakan 'どれ' (yang mana).",
+    "tags": ["B1", "Perbandingan", "Pilihan", "Produk"]
+  }
+]

@@ -1,1 +1,117 @@
-[]
+[
+  {
+    "id": "i_bab08_1",
+    "chapter": "Bab 08",
+    "source": "irodori",
+    "title": "もうV-ましたか？ (Mou V-mashita ka?) — Sudah ...?",
+    "romajiTitle": "Mou V-mashita ka?",
+    "meaning": "Pola pertanyaan untuk menanyakan apakah seseorang sudah melakukan suatu tindakan di masa lalu. 'もう' berarti 'sudah', dan 'V-ましたか' adalah bentuk lampau sopan dari kata kerja. Digunakan untuk menanyakan pengalaman atau status suatu kegiatan. Artinya 'Apakah sudah [melakukan]?'.",
+    "formula": "もう + [Kata Kerja Bentuk Lampau] + か？",
+    "examples": [
+      {
+        "jp": "新しいアウトレットモール、もう行きましたか？",
+        "romaji": "Atarashii autoretto mooru, mou ikimashita ka?",
+        "id_translation": "Apakah sudah pergi ke outlet mall yang baru?"
+      },
+      {
+        "jp": "もう昼ご飯を食べましたか？",
+        "romaji": "Mou hiru-gohan wo tabemashita ka?",
+        "id_translation": "Apakah sudah makan siang?"
+      }
+    ],
+    "notes": "Untuk jawaban positif: はい、もう行きました (Ya, sudah pergi). Untuk jawaban negatif: いいえ、まだです (Belum) atau いいえ、まだ行っていません (Belum pergi). 'もう' digunakan untuk tindakan yang sudah selesai, sedangkan 'まだ' untuk tindakan yang belum selesai.",
+    "tags": ["A2", "Pengalaman", "Pertanyaan", "Lampau"]
+  },
+  {
+    "id": "i_bab08_2",
+    "chapter": "Bab 08",
+    "source": "irodori",
+    "title": "V-たことがあります (V-ta koto ga arimasu) — Pernah ...",
+    "romajiTitle": "V-ta koto ga arimasu",
+    "meaning": "Pola kalimat untuk menyatakan pengalaman masa lalu. 'V-た' adalah bentuk lampau dari kata kerja, 'こと' mengubahnya menjadi kata benda, dan 'があります' berarti 'ada'. Digunakan untuk menceritakan pengalaman atau menanyakan apakah seseorang pernah melakukan sesuatu. Artinya 'Pernah [melakukan]'.",
+    "formula": "[Kata Kerja Bentuk Lampau] + ことがあります",
+    "examples": [
+      {
+        "jp": "プロレスを見たことがありますか？",
+        "romaji": "Puroresu wo mita koto ga arimasu ka?",
+        "id_translation": "Apakah pernah menonton gulat profesional?"
+      },
+      {
+        "jp": "すしを食べたことがあります。",
+        "romaji": "Sushi wo tabeta koto ga arimasu.",
+        "id_translation": "Saya pernah makan sushi."
+      }
+    ],
+    "notes": "Bentuk negatif: 見たことがありません (Belum pernah melihat). Untuk jawaban positif: はい、あります (Ya, pernah). Untuk jawaban negatif: いいえ、ありません (Tidak, belum pernah). Berbeda dengan 'V-ました' yang menanyakan tindakan spesifik, 'V-たことがあります' menanyakan pengalaman secara umum.",
+    "tags": ["A2", "Pengalaman", "Pertanyaan", "Lampau"]
+  },
+  {
+    "id": "i_bab08_3",
+    "chapter": "Bab 08",
+    "source": "irodori",
+    "title": "V-に行きませんか？ (V-ni ikimasen ka?) — Mau Pergi ...?",
+    "romajiTitle": "V-ni ikimasen ka?",
+    "meaning": "Pola ajakan untuk pergi melakukan suatu aktivitas bersama. 'V-に' menunjukkan tujuan dari tindakan, dan '行きませんか' berarti 'tidak mau pergi?' yang secara sopan berarti 'mau pergi?'. Sangat berguna saat mengajak teman atau rekan kerja. Artinya 'Bagaimana kalau pergi [melakukan]?'.",
+    "formula": "[Kata Kerja Bentuk Masu tanpa masu] + に行きませんか？",
+    "examples": [
+      {
+        "jp": "いっしょに食べに行きませんか？",
+        "romaji": "Issho ni tabe ni ikimasen ka?",
+        "id_translation": "Bagaimana kalau pergi makan bersama?"
+      },
+      {
+        "jp": "映画を見に行きませんか？",
+        "romaji": "Eiga wo mi ni ikimasen ka?",
+        "id_translation": "Bagaimana kalau pergi menonton film?"
+      }
+    ],
+    "notes": "Pola ini juga bisa digunakan dengan '来ます' (datang): 遊びに来てください (Tolong datang untuk bermain). Untuk kata kerja yang memiliki objek, gunakan 'を' sebelum 'に': 映画を見に行く (Pergi menonton film), 買い物をしに行く (Pergi berbelanja).",
+    "tags": ["A2", "Ajakan", "Pergi", "Aktivitas"]
+  },
+  {
+    "id": "i_bab08_4",
+    "chapter": "Bab 08",
+    "source": "irodori",
+    "title": "Nの前に／あとで (N no mae ni / ato de) — Sebelum / Sesudah N",
+    "romajiTitle": "N no mae ni / ato de",
+    "meaning": "Pola kalimat untuk menyatakan urutan waktu: sebelum atau sesudah melakukan suatu kegiatan. '前に' berarti 'sebelum' dan 'あとで' berarti 'sesudah'. Digunakan untuk merencanakan aktivitas atau menjelaskan urutan tindakan. Artinya 'Sebelum [N]' / 'Setelah [N]'.",
+    "formula": "[N] の前に / [N] のあとで",
+    "examples": [
+      {
+        "jp": "食事の前にお金をおろしたいです。",
+        "romaji": "Shokuji no mae ni okane wo oroshitai desu.",
+        "id_translation": "Saya ingin mengambil uang sebelum makan."
+      },
+      {
+        "jp": "買い物のあとで、ゲームコーナーに行きませんか？",
+        "romaji": "Kaimono no ato de, geemu koonaa ni ikimasen ka?",
+        "id_translation": "Setelah belanja, bagaimana kalau pergi ke sudut game?"
+      }
+    ],
+    "notes": "Untuk kata kerja, gunakan: [Kata Kerja Bentuk Kamus] + 前に (sebelum V) dan [Kata Kerja Bentuk Lampau] + あとで (setelah V). Contoh: 食べる前に手を洗います (Cuci tangan sebelum makan), 食べたあとで歯を磨きます (Sikat gigi setelah makan).",
+    "tags": ["A2", "Urutan", "Waktu", "Rencana"]
+  },
+  {
+    "id": "i_bab08_5",
+    "chapter": "Bab 08",
+    "source": "irodori",
+    "title": "V-たいんですが… (V-tai n desu ga…) — Saya Mau ...",
+    "romajiTitle": "V-tai n desu ga",
+    "meaning": "Pola kalimat untuk menyatakan keinginan melakukan sesuatu, diikuti dengan pertanyaan atau permintaan bantuan. 'V-たい' berarti 'ingin melakukan', 'んですが' adalah bentuk penjelasan + penghubung yang sopan. Sangat berguna saat memulai percakapan di toko atau dengan staf. Artinya 'Saya mau [melakukan] (sebenarnya)...'.",
+    "formula": "[Kata Kerja Bentuk Masu tanpa masu] + たいんですが、[Pertanyaan/Permintaan]",
+    "examples": [
+      {
+        "jp": "ジョギングシューズを買いたいんですが…。",
+        "romaji": "Jogingu shuuzu wo kaitai n desu ga…",
+        "id_translation": "Saya mau membeli sepatu jogging (sebenarnya)..."
+      },
+      {
+        "jp": "新しいスマホを買いたいんですが、何がおすすめですか？",
+        "romaji": "Atarashii sumaho wo kaitai n desu ga, nani ga osusume desu ka?",
+        "id_translation": "Saya mau membeli smartphone baru, apa rekomendasinya?"
+      }
+    ],
+    "notes": "'んですが' (atau 'のですが') membuat pernyataan lebih halus dan sopan, terutama saat memulai percakapan dengan staf toko atau orang yang tidak dikenal. Untuk keinginan memiliki benda, gunakan 'Nがほしいんですが' (Saya mau N).",
+    "tags": ["A2", "Keinginan", "Berbelanja", "Sopan"]
+  }
+]

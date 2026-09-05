@@ -2,15 +2,69 @@ import React, { useState, useEffect } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import ChapterSelect from './ChapterSelect';
 
+const bunpouModules = import.meta.glob('/src/data/bunpou/**/*.json');
+
+function normalizeBunpouData(raw) {
+  if (Array.isArray(raw)) return raw.filter(Boolean);
+  if (raw && typeof raw === 'object' && Object.keys(raw).length > 0) return [raw];
+  return null;
+}
+
 async function getBunpouData(source, chapter) {
-  try {
-    const res = await fetch(`/api/bunpou/${source}/${chapter}.json`);
-    if (!res.ok) return null;
-    return await res.json();
-  } catch (error) {
-    console.error("Error reading bunpou data:", error);
-    return null;
+  const chap = (chapter || '').toLowerCase();
+  const src = (source || '').toLowerCase();
+  
+  // Resolve paths in src/data/bunpou
+  let targetPaths = [];
+  if (src === 'minna') {
+    targetPaths = [`/src/data/bunpou/minna/${chap}.json`];
+  } else if (src === 'irodori-a1' || src === 'a1') {
+    targetPaths = [`/src/data/bunpou/irodori/a1/${chap}.json`];
+  } else if (src === 'irodori-a2-1' || src === 'irodori-a2.1' || src === 'a2-1' || src === 'a2.1') {
+    targetPaths = [
+      `/src/data/bunpou/irodori/a2.1/${chap}.json`,
+      `/src/data/bunpou/irodori/a2-1/${chap}.json`
+    ];
+  } else if (src === 'irodori-a2-2' || src === 'irodori-a2.2' || src === 'a2-2' || src === 'a2.2') {
+    targetPaths = [
+      `/src/data/bunpou/irodori/a2.2/${chap}.json`,
+      `/src/data/bunpou/irodori/a2-2/${chap}.json`
+    ];
   }
+
+  // 1. Try local module import (instant hot-reload during dev!)
+  for (const p of targetPaths) {
+    if (bunpouModules[p]) {
+      try {
+        const mod = await bunpouModules[p]();
+        const raw = mod.default || mod;
+        const data = normalizeBunpouData(raw);
+        if (data && data.length > 0) return data;
+      } catch (err) {
+        console.error("Error loading bunpou module:", p, err);
+      }
+    }
+  }
+
+  // 2. Fallback to /api/bunpou/...
+  const apiSources = [source];
+  if (source.includes('.')) apiSources.push(source.replace(/\./g, '-'));
+  if (source.includes('-')) apiSources.push(source.replace(/-/g, '.'));
+  
+  for (const s of apiSources) {
+    try {
+      const res = await fetch(`/api/bunpou/${s}/${chap}.json`);
+      if (res.ok) {
+        const raw = await res.json();
+        const data = normalizeBunpouData(raw);
+        if (data && data.length > 0) return data;
+      }
+    } catch (error) {
+      console.error("Error reading bunpou data from api:", error);
+    }
+  }
+
+  return null;
 }
 
 export default function BunpouChapterPage() {
@@ -36,11 +90,17 @@ export default function BunpouChapterPage() {
   // Format chapter name nicely (e.g. bab01 -> Bab 01)
   const displayChapter = chapter ? chapter.replace('bab', 'Bab ') : '';
   
+  const srcLower = (source || '').toLowerCase();
   let displaySource = source;
-  if (source === 'minna') displaySource = 'Minna no Nihongo';
-  else if (source === 'irodori-a1') displaySource = 'Irodori A1';
-  else if (source === 'irodori-a2-1') displaySource = 'Irodori A2.1';
-  else if (source === 'irodori-a2-2') displaySource = 'Irodori A2.2';
+  if (srcLower === 'minna') displaySource = 'Minna no Nihongo';
+  else if (srcLower === 'irodori-a1' || srcLower === 'a1') displaySource = 'Irodori A1';
+  else if (srcLower === 'irodori-a2-1' || srcLower === 'irodori-a2.1' || srcLower === 'a2-1' || srcLower === 'a2.1') displaySource = 'Irodori A2.1';
+  else if (srcLower === 'irodori-a2-2' || srcLower === 'irodori-a2.2' || srcLower === 'a2-2' || srcLower === 'a2.2') displaySource = 'Irodori A2.2';
+
+  const currentNum = parseInt((chapter || '').replace(/\D/g, '') || '1', 10);
+  const maxChapters = srcLower === 'minna' ? 50 : 18;
+  const prevChapter = currentNum > 1 ? `bab${String(currentNum - 1).padStart(2, '0')}` : null;
+  const nextChapter = currentNum < maxChapters ? `bab${String(currentNum + 1).padStart(2, '0')}` : null;
 
   return (
     <div id="app" style={isLightMode ? {
@@ -217,6 +277,43 @@ export default function BunpouChapterPage() {
             </div>
           )}
           
+          {/* Chapter Navigation Footer */}
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: '48px', paddingTop: '24px', borderTop: '1px solid var(--border-glass)' }}>
+            {prevChapter ? (
+              <Link 
+                to={`/bunpou/${source}/${prevChapter}`} 
+                className="btn btn-ghost" 
+                style={{ textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '8px', padding: '8px 16px' }}
+              >
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ width: '16px', height: '16px' }}>
+                  <polyline points="15 18 9 12 15 6"></polyline>
+                </svg>
+                {prevChapter.replace('bab', 'Bab ')}
+              </Link>
+            ) : <div />}
+            
+            <Link 
+              to="/bunpou" 
+              className="btn btn-ghost btn-sm" 
+              style={{ textDecoration: 'none', color: 'var(--text-muted)' }}
+            >
+              Semua Bab
+            </Link>
+
+            {nextChapter ? (
+              <Link 
+                to={`/bunpou/${source}/${nextChapter}`} 
+                className="btn btn-ghost" 
+                style={{ textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '8px', padding: '8px 16px' }}
+              >
+                {nextChapter.replace('bab', 'Bab ')}
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ width: '16px', height: '16px' }}>
+                  <polyline points="9 18 15 12 9 6"></polyline>
+                </svg>
+              </Link>
+            ) : <div />}
+          </div>
+
         </div>
       </main>
     </div>

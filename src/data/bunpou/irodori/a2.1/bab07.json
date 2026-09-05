@@ -1,1 +1,94 @@
-[]
+[
+  {
+    "id": "i_bab07_1",
+    "chapter": "Bab 07",
+    "source": "irodori",
+    "title": "Nはどうですか？ (N wa dou desu ka?) — Bagaimana dengan N?",
+    "romajiTitle": "N wa dou desu ka?",
+    "meaning": "Pola pertanyaan untuk menanyakan pendapat atau persetujuan tentang suatu usulan, terutama waktu atau tempat. 'は' menunjukkan topik yang ditanyakan, dan 'どうですか' berarti 'bagaimana?'. Sangat berguna saat menentukan jadwal pertemuan atau janji. Artinya 'Bagaimana dengan [N]?' atau 'Bagaimana kalau [N]?'.",
+    "formula": "[Usulan] は どうですか？",
+    "examples": [
+      {
+        "jp": "6時はどうですか？",
+        "romaji": "Roku-ji wa dou desu ka?",
+        "id_translation": "Bagaimana kalau jam 6?"
+      },
+      {
+        "jp": "日曜日はどうですか？",
+        "romaji": "Nichiyoubi wa dou desu ka?",
+        "id_translation": "Bagaimana kalau hari Minggu?"
+      }
+    ],
+    "notes": "Untuk menanyakan tempat: ここはどうですか？ (Bagaimana kalau di sini?). Untuk merespon: いいですね (Bagus ya) / ちょっと… (Agak...) / それはちょっと… (Itu agak...). Juga bisa digunakan untuk menanyakan pendapat tentang sesuatu: このレストランはどうですか？ (Bagaimana restoran ini?).",
+    "tags": ["A2", "Janjian", "Pertanyaan", "Usulan"]
+  },
+  {
+    "id": "i_bab07_2",
+    "chapter": "Bab 07",
+    "source": "irodori",
+    "title": "Nでもいいですか？ (N demo ii desu ka?) — Boleh N juga?",
+    "romajiTitle": "N demo ii desu ka?",
+    "meaning": "Pola pertanyaan untuk meminta persetujuan tentang suatu usulan alternatif. 'でも' berarti 'bahkan' atau 'juga', dan 'いいですか' berarti 'apakah boleh?'. Digunakan untuk menawarkan alternatif atau mengonfirmasi apakah suatu usulan dapat diterima. Artinya 'Apakah [N] juga boleh?' atau 'Bagaimana kalau [N]?'.",
+    "formula": "[Usulan] でも いいですか？",
+    "examples": [
+      {
+        "jp": "6時半でもいいですか？",
+        "romaji": "Roku-ji-han demo ii desu ka?",
+        "id_translation": "Apakah jam 6.30 juga boleh?"
+      },
+      {
+        "jp": "ここでもいいですか？",
+        "romaji": "Koko demo ii desu ka?",
+        "id_translation": "Apakah di sini juga boleh?"
+      }
+    ],
+    "notes": "Untuk merespon: はい、いいですよ (Ya, boleh) / すみません、ちょっと… (Maaf, agak...) / いいです (Boleh) vs いいです (Tidak perlu - dengan nada berbeda). 'でも' juga berarti 'atau' dalam pertanyaan: コーヒーでもいかがですか？ (Bagaimana kalau kopi? - tawaran).",
+    "tags": ["A2", "Janjian", "Persetujuan", "Usulan"]
+  },
+  {
+    "id": "i_bab07_3",
+    "chapter": "Bab 07",
+    "source": "irodori",
+    "title": "Nで、〜／V-て、〜 (Alasan/Sebab)",
+    "romajiTitle": "N de / V-te (Alasan)",
+    "meaning": "Pola untuk menyatakan alasan atau penyebab suatu kejadian. Untuk kata benda (N), gunakan 'で' yang berarti 'karena [N]'. Untuk kata kerja (V), gunakan bentuk 'て' yang berarti 'karena [V]' atau 'setelah [V]'. Sangat berguna saat menjelaskan keterlambatan atau masalah. Artinya 'Karena [N/V], [akibat]'.",
+    "formula": "[N] で、[Akibat] / [V-te]、[Akibat]",
+    "examples": [
+      {
+        "jp": "事故で電車が止まりました。",
+        "romaji": "Jiko de densha ga tomarimashita.",
+        "id_translation": "Kereta berhenti karena kecelakaan."
+      },
+      {
+        "jp": "寝坊して、今、起きました。",
+        "romaji": "Nebou shite, ima, okimashita.",
+        "id_translation": "Karena kesiangan, saya baru bangun sekarang."
+      }
+    ],
+    "notes": "Untuk alasan dengan kata benda: 台風で (karena topan), 雨で (karena hujan), 地震で (karena gempa). Untuk alasan dengan kata kerja: 道が混んでいて (karena jalan macet), 電車が遅れて (karena kereta terlambat). Pola ini sangat umum digunakan dalam pesan keterlambatan.",
+    "tags": ["A2", "Alasan", "Keterlambatan", "Sebab"]
+  },
+  {
+    "id": "i_bab07_4",
+    "chapter": "Bab 07",
+    "source": "irodori",
+    "title": "Sね — Simpati / Empati",
+    "romajiTitle": "S ne",
+    "meaning": "Partikel 'ね' di akhir kalimat untuk menunjukkan simpati, empati, atau mencari persetujuan. Dalam konteks mendengar cerita orang lain, 'ね' menunjukkan bahwa pembicara memahami dan merasakan apa yang dikatakan lawan bicara. Artinya 'Ya' (dengan nuansa simpati).",
+    "formula": "[Kalimat] + ね",
+    "examples": [
+      {
+        "jp": "大変でしたね。",
+        "romaji": "Taihen deshita ne.",
+        "id_translation": "Itu berat ya. (simpati)"
+      },
+      {
+        "jp": "遅くなってすみませんね。",
+        "romaji": "Osoku natte sumimasen ne.",
+        "id_translation": "Maaf terlambat ya. (dengan rasa bersalah)"
+      }
+    ],
+    "notes": "'ね' memiliki banyak fungsi: (1) Mencari persetujuan: いい天気ですね (Cuaca bagus ya), (2) Menyatakan simpati: 大変ですね (Berat ya), (3) Menegaskan: そうですよね (Benar kan), (4) Mengingatkan: 忘れないでね (Jangan lupa ya). Dalam pesan tertulis, 'ね' sering diganti dengan 'ネ' atau emotikon.",
+    "tags": ["A2", "Partikel", "Simpati", "Empati"]
+  }
+]

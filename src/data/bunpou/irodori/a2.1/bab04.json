@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "id": "i_bab04_1",
+    "chapter": "Bab 04",
+    "source": "irodori",
+    "title": "今日はいい天気ですね (Kyou wa ii tenki desu ne)",
+    "romajiTitle": "Kyou wa ii tenki desu ne",
+    "meaning": "Pola kalimat untuk menyatakan cuaca yang sedang berlangsung. '今日は' berarti 'hari ini', 'いい天気' berarti 'cuaca bagus', dan 'ですね' di akhir berarti 'ya' (mencari persetujuan). Sangat umum digunakan sebagai sapaan atau pembuka percakapan tentang cuaca. Artinya 'Cuaca hari ini bagus ya.'",
+    "formula": "[Hari] は [Cuaca] ですね",
+    "examples": [
+      {
+        "jp": "今日はいい天気ですね。",
+        "romaji": "Kyou wa ii tenki desu ne.",
+        "id_translation": "Cuaca hari ini bagus ya."
+      },
+      {
+        "jp": "いいお天気ですね。",
+        "romaji": "Ii o-tenki desu ne.",
+        "id_translation": "Cuaca yang bagus ya. (lebih sopan dengan お)"
+      }
+    ],
+    "notes": "Membicarakan cuaca adalah cara yang umum untuk memulai percakapan di Jepang. 'ですね' di akhir menunjukkan bahwa Anda mencari persetujuan dari lawan bicara. Kata sifat untuk cuaca: いい (bagus), 悪い (buruk), 暑い (panas), 寒い (dingin), 暖かい (hangat), 涼しい (sejuk). Tambahkan 'お' di depan '天気' untuk membuatnya lebih sopan.",
+    "tags": ["A2", "Cuaca", "Salam", "Musim"]
+  },
+  {
+    "id": "i_bab04_2",
+    "chapter": "Bab 04",
+    "source": "irodori",
+    "title": "昨日はすごい雨でしたね (Kinou wa sugoi ame deshita ne)",
+    "romajiTitle": "Kinou wa sugoi ame deshita ne",
+    "meaning": "Pola kalimat untuk menyatakan cuaca di masa lalu. '昨日は' berarti 'kemarin', 'すごい雨' berarti 'hujan deras', dan 'でしたね' adalah bentuk lampau sopan + partikel konfirmasi. Digunakan untuk mengingat atau mengomentari cuaca hari sebelumnya. Artinya 'Kemarin hujan deras ya.'",
+    "formula": "[Waktu Lampau] は [Cuaca] でしたね",
+    "examples": [
+      {
+        "jp": "昨日はすごい雨でしたね。",
+        "romaji": "Kinou wa sugoi ame deshita ne.",
+        "id_translation": "Kemarin hujan deras ya."
+      },
+      {
+        "jp": "昨日はとても暑かったですね。",
+        "romaji": "Kinou wa totemo atsukatta desu ne.",
+        "id_translation": "Kemarin sangat panas ya."
+      }
+    ],
+    "notes": "Untuk kata sifat-i (イA), bentuk lampaunya adalah mengubah 'い' menjadi 'かったです'. Contoh: 暑い (panas) → 暑かったです (telah panas). Untuk kata sifat-na (ナA), bentuk lampaunya adalah 'でした'. Contoh: 静か (tenang) → 静かでした (telah tenang).",
+    "tags": ["A2", "Cuaca", "Lampau", "Komentar"]
+  },
+  {
+    "id": "i_bab04_3",
+    "chapter": "Bab 04",
+    "source": "irodori",
+    "title": "V-ています ③ (V-te imasu) — Keadaan Cuaca Berlangsung",
+    "romajiTitle": "V-te imasu",
+    "meaning": "Pola kalimat untuk menyatakan bahwa fenomena cuaca atau keadaan alam sedang berlangsung saat ini. Fungsi ketiga dari 'V-ています' untuk menyatakan perubahan atau keadaan yang terus berlanjut, seperti hujan, angin, atau salju yang sedang terjadi. Artinya 'Sedang [cuaca/keadaan]'.",
+    "formula": "[Kata Kerja Cuaca Bentuk te] + います",
+    "examples": [
+      {
+        "jp": "今も少し雨が降っています。",
+        "romaji": "Ima mo sukoshi ame ga futte imasu.",
+        "id_translation": "Sekarang pun masih hujan sedikit."
+      },
+      {
+        "jp": "外は雪が降っています。",
+        "romaji": "Soto wa yuki ga futte imasu.",
+        "id_translation": "Di luar sedang turun salju."
+      },
+      {
+        "jp": "風が強く吹いています。",
+        "romaji": "Kaze ga tsuyoku fuite imasu.",
+        "id_translation": "Angin sedang bertiup kencang."
+      }
+    ],
+    "notes": "Kata kerja cuaca yang sering digunakan: 降る (furu - turun/hujan), 吹く (fuku - bertiup/angin), 積もる (tsumoru - menumpuk/salju). '降っています' adalah bentuk 'te-iru' dari '降る' yang berarti 'sedang turun (hujan/salju)'.",
+    "tags": ["A2", "Cuaca", "Keadaan", "Fenomena Alam"]
+  },
+  {
+    "id": "i_bab04_4",
+    "chapter": "Bab 04",
+    "source": "irodori",
+    "title": "N／ナA-／イA-い／V-る でしょう (N / NaA / IA-i / V-ru deshou) — Prediksi",
+    "romajiTitle": "N / NaA / IA-i / V-ru deshou",
+    "meaning": "Pola kalimat untuk menyatakan prediksi, perkiraan, atau kemungkinan tentang cuaca atau kejadian di masa depan. 'でしょう' berarti 'mungkin' atau 'akan'. Dapat digunakan dengan kata benda (N), kata sifat-na (ナA), kata sifat-i (イA), atau kata kerja (V). Sangat berguna untuk prakiraan cuaca. Artinya 'Mungkin akan [cuaca/sifat/aktivitas]'.",
+    "formula": "[N / ナA / イA-i / V-ru] + でしょう",
+    "examples": [
+      {
+        "jp": "明日は晴れるでしょう。",
+        "romaji": "Ashita wa hareru deshou.",
+        "id_translation": "Besok mungkin akan cerah."
+      },
+      {
+        "jp": "明日は雨でしょう。",
+        "romaji": "Ashita wa ame deshou.",
+        "id_translation": "Besok mungkin hujan."
+      },
+      {
+        "jp": "明日は寒いでしょう。",
+        "romaji": "Ashita wa samui deshou.",
+        "id_translation": "Besok mungkin dingin."
+      }
+    ],
+    "notes": "'でしょう' adalah bentuk yang lebih sopan dari 'だろう' (kasual). Untuk prakiraan cuaca yang lebih pasti: 晴れるでしょう (akan cerah), 雨が降るでしょう (akan hujan), 曇るでしょう (akan mendung). Untuk menanyakan prediksi: 明日はどうでしょう？ (Bagaimana dengan besok?).",
+    "tags": ["A2", "Prediksi", "Cuaca", "Prakiraan"]
+  }
+]

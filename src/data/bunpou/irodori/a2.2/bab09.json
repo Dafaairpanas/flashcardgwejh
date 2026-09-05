@@ -1,1 +1,209 @@
-[]
+[
+  {
+    "id": "i_bab09_1",
+    "chapter": "Bab 09",
+    "source": "irodori",
+    "title": "〜んですか？ (~n desu ka?) — Bertanya untuk Penjelasan",
+    "romajiTitle": "~n desu ka?",
+    "meaning": "Pola pertanyaan untuk meminta penjelasan atau informasi lebih lanjut tentang suatu hal. 'んですか' (atau 'のですか' lebih formal) digunakan ketika pembicara melihat atau mendengar sesuatu dan ingin tahu penjelasannya. Sangat berguna saat menanyakan tentang acara atau tradisi yang tidak diketahui. Artinya '[Penjelasan]?' atau 'Apa maksudnya [informasi]?'.",
+    "formula": "[Klausa] + んですか？",
+    "examples": [
+      {
+        "jp": "成人の日は、何をするんですか？",
+        "romaji": "Seijin no hi wa, nani wo suru n desu ka?",
+        "id_translation": "Apa yang dilakukan pada Hari Kedewasaan?"
+      },
+      {
+        "jp": "どうしてそれを祝うんですか？",
+        "romaji": "Doushite sore wo iwau n desu ka?",
+        "id_translation": "Mengapa merayakannya?"
+      }
+    ],
+    "notes": "'んですか' sering digunakan untuk menanyakan alasan: どうして遅れたんですか？ (Mengapa terlambat?). Jawaban biasanya menggunakan 'んです' untuk memberikan penjelasan. Untuk kata sifat-na dan kata benda, gunakan 'なんですか': 静かなんですか？ (Apakah tenang?).",
+    "tags": ["B1", "Pertanyaan", "Penjelasan", "Tradisi"]
+  },
+  {
+    "id": "i_bab09_2",
+    "chapter": "Bab 09",
+    "source": "irodori",
+    "title": "Nしか＋ negatif (N shika + negatif) — Hanya N (Tidak Lebih)",
+    "romajiTitle": "N shika + negatif",
+    "meaning": "Pola untuk menyatakan bahwa hanya ada satu hal atau jumlah yang terbatas, dan tidak lebih dari itu. 'しか' berarti 'hanya' dan selalu diikuti bentuk negatif. Berbeda dengan 'だけ' yang netral, 'しか' memiliki nuansa 'kekurangan' atau 'tidak cukup'. Sangat berguna saat menceritakan pengalaman liburan dengan keterbatasan. Artinya 'Hanya [N] (tidak lebih)'.",
+    "formula": "[Kata Benda] + しか + [Bentuk Negatif]",
+    "examples": [
+      {
+        "jp": "乗り物に3つしか乗れませんでした。",
+        "romaji": "Norimono ni mittsu shika noremasen deshita.",
+        "id_translation": "Saya hanya bisa naik 3 wahana (tidak lebih)."
+      },
+      {
+        "jp": "1時間しか寝ませんでした。",
+        "romaji": "Ichi-jikan shika nemasen deshita.",
+        "id_translation": "Saya hanya tidur 1 jam (tidak lebih)."
+      }
+    ],
+    "notes": "'しか' dengan negatif menyiratkan 'hanya' dan sering memiliki nuansa 'tidak cukup' atau 'kurang dari yang diharapkan'. Contoh: 1000円しかありません (Hanya punya 1000 yen - tidak cukup). Untuk 'hanya' yang netral (tanpa nuansa kekurangan), gunakan 'だけ': 一人だけ来ました (Hanya satu orang yang datang).",
+    "tags": ["B1", "Keterbatasan", "Hanya", "Pengalaman"]
+  },
+  {
+    "id": "i_bab09_3",
+    "chapter": "Bab 09",
+    "source": "irodori",
+    "title": "Nだけ (N dake) — Hanya N",
+    "romajiTitle": "N dake",
+    "meaning": "Pola untuk menyatakan bahwa hanya ada satu hal atau jumlah tertentu, tanpa nuansa kekurangan. 'だけ' berarti 'hanya' dan netral (tidak menyiratkan 'kurang'). Berbeda dengan 'しか' yang memiliki nuansa negatif. Sangat berguna saat menjelaskan aktivitas liburan secara sederhana. Artinya 'Hanya [N]'.",
+    "formula": "[Kata Benda] + だけ",
+    "examples": [
+      {
+        "jp": "今年は、1日だけ実家に帰りました。",
+        "romaji": "Kotoshi wa, ichi-nichi dake jikka ni kaerimashita.",
+        "id_translation": "Tahun ini, saya hanya pulang ke rumah orang tua 1 hari."
+      },
+      {
+        "jp": "お茶だけ飲みました。",
+        "romaji": "Ocha dake nomimashita.",
+        "id_translation": "Saya hanya minum teh."
+      }
+    ],
+    "notes": "Perbedaan: 'だけ' (hanya - netral), 'しか' (hanya - dengan nuansa kekurangan). Contoh: これだけです (Hanya ini - netral) vs これしかありません (Hanya ini - tidak cukup). 'だけ' juga bisa digunakan dengan kata kerja: 見るだけ (Hanya melihat - tidak melakukan yang lain).",
+    "tags": ["B1", "Hanya", "Keterbatasan", "Pengalaman"]
+  },
+  {
+    "id": "i_bab09_4",
+    "chapter": "Bab 09",
+    "source": "irodori",
+    "title": "V-たりして、〜 (V-tari shite, ~) — Melakukan Hal-hal Seperti V",
+    "romajiTitle": "V-tari shite",
+    "meaning": "Pola untuk memberikan contoh aktivitas yang dilakukan, dengan nuansa 'dan lain-lain'. '〜たり' digunakan setelah bentuk lampau kata kerja, dan diikuti 'して' untuk menunjukkan contoh. Sangat berguna saat menceritakan kegiatan liburan secara ringkas. Artinya 'Melakukan hal-hal seperti [V1], [V2], dan lain-lain'.",
+    "formula": "[Kata Kerja Bentuk Lampau] + りして",
+    "examples": [
+      {
+        "jp": "友だちといっしょに買い物をしたりして、楽しかったです。",
+        "romaji": "Tomodachi to issho ni kaimono wo shitari shite, tanoshikatta desu.",
+        "id_translation": "Saya melakukan hal-hal seperti berbelanja dengan teman, dan menyenangkan."
+      },
+      {
+        "jp": "映画を見たり、食事をしたりして過ごしました。",
+        "romaji": "Eiga wo mitari, shokuji wo shitari shite sugoshimashita.",
+        "id_translation": "Saya menghabiskan waktu dengan menonton film, makan, dan lain-lain."
+      }
+    ],
+    "notes": "'〜たり〜たりする' adalah bentuk lengkap dengan dua contoh atau lebih. '〜たりして' adalah bentuk yang lebih ringkas dan natural dalam percakapan, hanya dengan satu contoh yang mewakili. Contoh lain: 本を読んだりして過ごす (Menghabiskan waktu dengan membaca, dan lain-lain).",
+    "tags": ["B1", "Contoh", "Aktivitas", "Liburan"]
+  },
+  {
+    "id": "i_bab09_5",
+    "chapter": "Bab 09",
+    "source": "irodori",
+    "title": "V-なくちゃならない (V-nakucha naranai) — Harus V",
+    "romajiTitle": "V-nakucha naranai",
+    "meaning": "Pola kasual untuk menyatakan keharusan atau kewajiban. 'なくちゃ' adalah bentuk kasual dari 'なければ', dan 'ならない' berarti 'tidak boleh tidak'. Sangat umum dalam percakapan sehari-hari. Lebih kasual daripada 'V-なければなりません'. Artinya 'Harus [melakukan V]'.",
+    "formula": "[Kata Kerja Bentuk Negatif tanpa nai] + くちゃならない",
+    "examples": [
+      {
+        "jp": "甥や姪にお年玉をあげなくちゃならないし、大変でした。",
+        "romaji": "Oi ya mei ni otoshidama wo agenakucha naranai shi, taihen deshita.",
+        "id_translation": "Saya harus memberi uang tahun baru kepada keponakan laki-laki dan perempuan, jadi berat."
+      },
+      {
+        "jp": "早く行かなくちゃ。",
+        "romaji": "Hayaku ikanakucha.",
+        "id_translation": "Harus cepat pergi."
+      }
+    ],
+    "notes": "Bentuk kasual lainnya: V-なきゃ (ikanakya - harus pergi), V-なくちゃ (ikanakucha - harus pergi). Tingkat kesopanan: なければなりません (formal) → なきゃ / なくちゃ (kasual). Dalam percakapan sehari-hari, 'なくちゃ' sangat umum digunakan.",
+    "tags": ["B1", "Keharusan", "Kasual", "Kewajiban"]
+  },
+  {
+    "id": "i_bab09_6",
+    "chapter": "Bab 09",
+    "source": "irodori",
+    "title": "V-れます (Potensial ③) — Bisa V (Bentuk Percakapan)",
+    "romajiTitle": "V-remasu",
+    "meaning": "Bentuk potensial yang lebih kasual, sering digunakan dalam percakapan sehari-hari. Untuk kata kerja kelompok 2 (ichidan), bentuk 'られる' sering disingkat menjadi 'れる' dalam percakapan. Meskipun dianggap kurang formal, sangat umum digunakan dalam bahasa lisan. Artinya 'Dapat [melakukan V]'.",
+    "formula": "[Kata Kerja Kelompok 2 Bentuk Potensial Kasual]",
+    "examples": [
+      {
+        "jp": "DVDもたくさん見れました。",
+        "romaji": "DVD mo takusan miremashita.",
+        "id_translation": "Saya juga bisa menonton banyak DVD."
+      },
+      {
+        "jp": "久しぶりに、実家の母の料理を食べれてよかったです。",
+        "romaji": "Hisashiburi ni, jikka no haha no ryouri wo taberete yokatta desu.",
+        "id_translation": "Senang bisa makan masakan ibu di rumah orang tua setelah lama tidak."
+      }
+    ],
+    "notes": "Bentuk potensial kasual: 食べる→食べれる (bisa makan - bukan 食べられる), 見る→見れる (bisa lihat - bukan 見られる). Ini disebut 'ra-nuki kotoba' (kata tanpa 'ra') dan sering digunakan dalam percakapan, tetapi dianggap tidak tepat dalam tulisan formal. Gunakan bentuk formal '食べられます' dalam situasi resmi.",
+    "tags": ["B1", "Potensial", "Kasual", "Percakapan"]
+  },
+  {
+    "id": "i_bab09_7",
+    "chapter": "Bab 09",
+    "source": "irodori",
+    "title": "S（bentuk biasa）＋人が〜 — Orang yang S ...",
+    "romajiTitle": "S (biasa) + hito ga",
+    "meaning": "Pola untuk mendeskripsikan orang atau kelompok berdasarkan tindakan atau karakteristiknya. 'S' adalah klausa dalam bentuk biasa, dan '人が' berarti 'orang yang'. Sangat berguna saat menjelaskan tradisi atau kebiasaan masyarakat. Artinya 'Orang yang [S]'.",
+    "formula": "[Klausa (Bentuk Biasa)] + 人が [Predikat]",
+    "examples": [
+      {
+        "jp": "春節は、田舎に帰る人が多いです。",
+        "romaji": "Shunsetsu wa, inaka ni kaeru hito ga ooi desu.",
+        "id_translation": "Pada Tahun Baru Imlek, banyak orang yang pulang ke kampung halaman."
+      },
+      {
+        "jp": "最近では、海外に旅行する人もいます。",
+        "romaji": "Saikin de wa, kaigai ni ryokou suru hito mo imasu.",
+        "id_translation": "Akhir-akhir ini, ada juga orang yang bepergian ke luar negeri."
+      }
+    ],
+    "notes": "Klausa sebelum '人' harus dalam bentuk biasa: 帰る人 (orang yang pulang), 行った人 (orang yang pergi), 学生の人 (orang yang pelajar). Untuk kata sifat-na, gunakan 'な': 静かな人 (orang yang tenang). Pola ini sangat berguna untuk menjelaskan demografi atau kebiasaan.",
+    "tags": ["B1", "Deskripsi", "Orang", "Kebiasaan"]
+  },
+  {
+    "id": "i_bab09_8",
+    "chapter": "Bab 09",
+    "source": "irodori",
+    "title": "V-ながら、〜 (V-nagara, ~) — Sambil V",
+    "romajiTitle": "V-nagara",
+    "meaning": "Pola untuk menyatakan dua tindakan yang dilakukan secara bersamaan. 'ながら' berarti 'sambil' dan diikuti kata kerja utama. Kata kerja pertama (yang dilakukan bersamaan) menggunakan bentuk '〜ながら'. Sangat berguna saat menjelaskan aktivitas festival atau tradisi. Artinya 'Sambil [melakukan V1], [V2]'.",
+    "formula": "[Kata Kerja Bentuk Masu tanpa masu] + ながら、[Kata Kerja Utama]",
+    "examples": [
+      {
+        "jp": "ソンクラーンは、町を歩きながら、みんなで水をかけ合います。",
+        "romaji": "Sonkuraan wa, machi wo arukinagara, minna de mizu wo kakeaimasu.",
+        "id_translation": "Pada Songkran, sambil berjalan di kota, semua orang saling menyiram air."
+      },
+      {
+        "jp": "音楽を聞きながら、勉強します。",
+        "romaji": "Ongaku wo kikinagara, benkyou shimasu.",
+        "id_translation": "Saya belajar sambil mendengarkan musik."
+      }
+    ],
+    "notes": "Kata kerja pertama (sebelum 'ながら') adalah tindakan yang terjadi bersamaan, bukan urutan. Contoh: 歩きながら話す (Berbicara sambil berjalan). 'ながら' hanya bisa digunakan untuk tindakan yang dilakukan oleh subjek yang sama. Tidak bisa digunakan untuk tindakan oleh orang yang berbeda.",
+    "tags": ["B1", "Bersamaan", "Aktivitas", "Tradisi"]
+  },
+  {
+    "id": "i_bab09_9",
+    "chapter": "Bab 09",
+    "source": "irodori",
+    "title": "Nによって (N ni yotte) — Tergantung N",
+    "romajiTitle": "N ni yotte",
+    "meaning": "Pola untuk menyatakan bahwa sesuatu berbeda atau bervariasi tergantung pada faktor tertentu. 'によって' berarti 'tergantung pada' atau 'menurut'. Sangat berguna saat menjelaskan perbedaan tradisi atau kebiasaan antar budaya. Artinya 'Tergantung [N]'.",
+    "formula": "[Faktor] + によって [Berbeda/Bervariasi]",
+    "examples": [
+      {
+        "jp": "レバランは、年によって違います。",
+        "romaji": "Rebaran wa, toshi ni yotte chigaimasu.",
+        "id_translation": "Lebaran berbeda tergantung tahunnya."
+      },
+      {
+        "jp": "国によって、習慣が違います。",
+        "romaji": "Kuni ni yotte, shuukan ga chigaimasu.",
+        "id_translation": "Kebiasaan berbeda tergantung negaranya."
+      }
+    ],
+    "notes": "'によって' juga bisa berarti 'oleh' (dalam kalimat pasif): この本は山田さんによって書かれました (Buku ini ditulis oleh Yamada). Dalam konteks perbandingan, 'によって' sering diikuti kata kerja seperti '違う' (berbeda) atau '変わる' (berubah).",
+    "tags": ["B1", "Perbedaan", "Tergantung", "Tradisi"]
+  }
+]

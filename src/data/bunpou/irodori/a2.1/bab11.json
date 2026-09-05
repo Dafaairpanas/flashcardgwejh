@@ -1,1 +1,94 @@
-[]
+[
+  {
+    "id": "i_bab11_1",
+    "chapter": "Bab 11",
+    "source": "irodori",
+    "title": "V-て行きます／来ます (V-te ikimasu / kimasu) — Membawa ... (Pergi / Datang)",
+    "romajiTitle": "V-te ikimasu / kimasu",
+    "meaning": "Pola kalimat untuk menyatakan bahwa seseorang membawa sesuatu saat pergi ke suatu tempat (て行きます) atau saat datang ke suatu tempat (て来ます). Kata kerja bentuk 'て' + '行きます' berarti 'pergi dengan melakukan' atau 'membawa untuk pergi', sedangkan 'て来ます' berarti 'datang dengan melakukan' atau 'membawa untuk datang'. Sangat berguna saat membicarakan persiapan acara atau pesta. Artinya 'Membawa [barang] untuk pergi/datang'.",
+    "formula": "[Kata Kerja Bentuk te] + 行きます / 来ます",
+    "examples": [
+      {
+        "jp": "肉と野菜は、私が買って行きますよ。",
+        "romaji": "Niku to yasai wa, watashi ga katte ikimasu yo.",
+        "id_translation": "Daging dan sayur, saya yang akan membelinya (untuk dibawa pergi)."
+      },
+      {
+        "jp": "ケーキを持って来ました。",
+        "romaji": "Keeki wo motte kimashita.",
+        "id_translation": "Saya membawa kue (untuk datang ke sini)."
+      }
+    ],
+    "notes": "Perbedaan: '買って行く' = membeli dan membawa pergi (dari lokasi sekarang ke tempat lain), '買って来る' = membeli dan membawa datang (ke lokasi sekarang). Contoh lain: 傘を持って行ってください (Tolong bawa payungnya pergi), お土産を買って来ました (Saya membeli oleh-oleh dan membawanya ke sini).",
+    "tags": ["A2", "Membawa", "Arah", "Persiapan"]
+  },
+  {
+    "id": "i_bab11_2",
+    "chapter": "Bab 11",
+    "source": "irodori",
+    "title": "N1とN2、どっちがいいですか？ (N1 to N2, docchi ga ii desu ka?) — Mana yang Lebih Baik?",
+    "romajiTitle": "N1 to N2, docchi ga ii desu ka?",
+    "meaning": "Pola pertanyaan untuk menanyakan pilihan antara dua hal. 'どっち' berarti 'mana' dan digunakan saat membandingkan dua pilihan. 'がいいですか' berarti 'yang bagus/mana yang lebih baik?'. 'どちら' adalah bentuk lebih formal dari 'どっち'. Sangat berguna saat memilih makanan atau barang di toko. Artinya 'N1 dan N2, mana yang lebih baik?'.",
+    "formula": "[N1] と [N2]、どっちがいいですか？",
+    "examples": [
+      {
+        "jp": "チョコレートケーキとチーズケーキ、どっちがいいですか？",
+        "romaji": "Chokoreeto keeki to chiizu keeki, docchi ga ii desu ka?",
+        "id_translation": "Kue coklat dan kue keju, mana yang lebih baik?"
+      },
+      {
+        "jp": "赤と青、どっちがいいですか？",
+        "romaji": "Aka to ao, docchi ga ii desu ka?",
+        "id_translation": "Merah dan biru, mana yang lebih baik?"
+      }
+    ],
+    "notes": "Jika membandingkan lebih dari dua hal, gunakan 'どれ' (yang mana): これとそれとあれ、どれがいいですか？ (Ini, itu, dan itu, mana yang lebih baik?). 'どちら' lebih sopan daripada 'どっち' dan digunakan dalam situasi formal.",
+    "tags": ["A2", "Perbandingan", "Pilihan", "Pertanyaan"]
+  },
+  {
+    "id": "i_bab11_3",
+    "chapter": "Bab 11",
+    "source": "irodori",
+    "title": "Nのほうがいいです (N no hou ga ii desu) — N Lebih Baik",
+    "romajiTitle": "N no hou ga ii desu",
+    "meaning": "Pola untuk menyatakan bahwa satu pilihan lebih baik dari yang lain. 'ほう' berarti 'sisi' atau 'arah', dan 'がいいです' berarti 'yang lebih baik'. Digunakan untuk memberikan pendapat atau rekomendasi saat memilih antara dua hal. Artinya '[N] yang lebih baik'.",
+    "formula": "[N] のほうがいいです",
+    "examples": [
+      {
+        "jp": "塩のほうがいいです。",
+        "romaji": "Sio no hou ga ii desu.",
+        "id_translation": "Yang lebih baik adalah garam."
+      },
+      {
+        "jp": "こちらのほうが安いですよ。",
+        "romaji": "Kochira no hou ga yasui desu yo.",
+        "id_translation": "Yang ini lebih murah lho."
+      }
+    ],
+    "notes": "Pola lengkap untuk membandingkan: [A] より [B] のほうが [sifat] です ([B] lebih [sifat] daripada [A]). Contoh: これよりあれのほうが大きいです (Itu lebih besar daripada ini). 'より' menunjukkan standar perbandingan. Dalam percakapan kasual, 'ほう' sering disingkat menjadi 'ほ'.",
+    "tags": ["A2", "Perbandingan", "Pilihan", "Rekomendasi"]
+  },
+  {
+    "id": "i_bab11_4",
+    "chapter": "Bab 11",
+    "source": "irodori",
+    "title": "何でもいいです (Nan demo ii desu) — Apa Saja Boleh",
+    "romajiTitle": "Nan demo ii desu",
+    "meaning": "Pola untuk menyatakan bahwa tidak ada preferensi khusus atau apapun boleh/diterima. '何でも' berarti 'apa saja', dan 'いいです' berarti 'boleh' atau 'baik'. Sangat berguna saat ditanya pilihan dan tidak ingin repot memilih. Artinya 'Apa saja boleh'.",
+    "formula": "何でも いいです",
+    "examples": [
+      {
+        "jp": "A：何が食べたいですか？ B：何でもいいです。",
+        "romaji": "A: Nani ga tabetai desu ka? B: Nan demo ii desu.",
+        "id_translation": "A: Mau makan apa? B: Apa saja boleh."
+      },
+      {
+        "jp": "A：どれにしますか？ B：何でもいいですよ。",
+        "romaji": "A: Dore ni shimasu ka? B: Nan demo ii desu yo.",
+        "id_translation": "A: Mau ambil yang mana? B: Apa saja boleh kok."
+      }
+    ],
+    "notes": "Variasi: どこでもいい (di mana saja boleh), いつでもいい (kapan saja boleh), だれでもいい (siapa saja boleh). Untuk situasi formal, gunakan 'どちらでも結構です' (sama saja / mana saja baik). Hati-hati menggunakan '何でもいい' karena terkadang dianggap tidak sopan jika terlalu sering digunakan.",
+    "tags": ["A2", "Pilihan", "Preferensi", "Kasual"]
+  }
+]

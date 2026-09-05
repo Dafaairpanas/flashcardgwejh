@@ -1,1 +1,117 @@
-[]
+[
+  {
+    "id": "i_bab05_1",
+    "chapter": "Bab 05",
+    "source": "irodori",
+    "title": "V-（られ）ます (Bentuk Potensial) — Dapat / Bisa Melakukan V",
+    "romajiTitle": "V-（rare）masu",
+    "meaning": "Pola untuk menyatakan kemampuan atau kemungkinan melakukan suatu tindakan. Bentuk potensial dibuat dengan mengubah kata kerja menjadi bentuk 'られる' (untuk kata kerja kelompok 2 dan 3) atau 'える' (untuk kata kerja kelompok 1). Sangat berguna saat menjelaskan apa yang bisa dilakukan di tempat wisata. Artinya 'Dapat [melakukan V]'.",
+    "formula": "[Kata Kerja Kelompok 1] + えます / [Kelompok 2 & 3] + られます",
+    "examples": [
+      {
+        "jp": "新鮮なカニとかウニとか食べられますよ。",
+        "romaji": "Shinsen na kani toka uni toka taberaremasu yo.",
+        "id_translation": "Anda bisa makan kepiting segar, bulu babi, dan lain-lain lho."
+      },
+      {
+        "jp": "ここで泳げますか？",
+        "romaji": "Koko de oyogemasu ka?",
+        "id_translation": "Bisa berenang di sini?"
+      }
+    ],
+    "notes": "Bentuk potensial untuk kelompok 1 (godan): 読む→読める (bisa baca), 書く→書ける (bisa tulis), 話す→話せる (bisa bicara). Kelompok 2 (ichidan): 食べる→食べられる (bisa makan), 見る→見られる (bisa lihat). Kelompok 3: する→できる (bisa lakuakn), 来る→来られる (bisa datang). Dalam percakapan kasual, 'られる' sering disingkat menjadi 'れる' (例: 食べれる - bisa makan).",
+    "tags": ["B1", "Kemampuan", "Potensial", "Wisata"]
+  },
+  {
+    "id": "i_bab05_2",
+    "chapter": "Bab 05",
+    "source": "irodori",
+    "title": "〜ところ (~tokoro) — Tempat untuk ...",
+    "romajiTitle": "~tokoro",
+    "meaning": "Pola untuk menyatakan tempat di mana suatu aktivitas dapat dilakukan. 'ところ' berarti 'tempat' atau 'bagian'. Digunakan bersama kata kerja potensial atau kata kerja biasa untuk menunjukkan tempat yang cocok untuk suatu aktivitas. Sangat berguna saat mencari tempat wisata atau fasilitas. Artinya 'Tempat untuk [melakukan V]'.",
+    "formula": "[Kata Kerja] + ところ",
+    "examples": [
+      {
+        "jp": "遊べるところはありますか？",
+        "romaji": "Asoberu tokoro wa arimasu ka?",
+        "id_translation": "Ada tempat untuk bermain?"
+      },
+      {
+        "jp": "食事するところを教えてください。",
+        "romaji": "Shokuji suru tokoro wo oshiete kudasai.",
+        "id_translation": "Tolong beri tahu tempat untuk makan."
+      }
+    ],
+    "notes": "'〜ところ' juga bisa berarti 'saat akan' (V-るところ - akan segera V), 'saat sedang' (V-ているところ - sedang V), atau 'baru saja' (V-たところ - baru saja V). Dalam konteks tempat, gunakan bentuk kamus atau potensial. Contoh: 買い物するところ (tempat untuk berbelanja), 見学するところ (tempat untuk melihat).",
+    "tags": ["B1", "Tempat", "Wisata", "Fasilitas"]
+  },
+  {
+    "id": "i_bab05_3",
+    "chapter": "Bab 05",
+    "source": "irodori",
+    "title": "S（bentuk biasa）って聞きました／言っていました — Mendengar / Orang Bilang bahwa ...",
+    "romajiTitle": "S (biasa) tte kikimashita / itte imashita",
+    "meaning": "Pola untuk melaporkan informasi yang didengar dari orang lain. 'って' adalah partikel kutipan kasual yang berarti 'bahwa', dan diikuti kata kerja '聞きました' (mendengar) atau '言っていました' (mengatakan). Sangat berguna saat berbagi rekomendasi wisata. Artinya 'Saya mendengar bahwa [informasi]' / '[Orang] mengatakan bahwa [informasi]'.",
+    "formula": "[Informasi (Bentuk Biasa)] + って聞きました / 言っていました",
+    "examples": [
+      {
+        "jp": "うどんがおいしいって聞きました。",
+        "romaji": "Udon ga oishii tte kikimashita.",
+        "id_translation": "Saya mendengar bahwa udon itu enak."
+      },
+      {
+        "jp": "バスが安くて便利だって先輩が言っていました。",
+        "romaji": "Basu ga yasukute benri da tte senpai ga itte imashita.",
+        "id_translation": "Senior mengatakan bahwa bus itu murah dan praktis."
+      }
+    ],
+    "notes": "'って' adalah bentuk kasual dari 'と' (kutipan). Dalam situasi formal, gunakan 'と': うどんがおいしいと聞きました. Untuk kata sifat-na dan kata benda, bentuk biasa 'だ' digunakan sebelum 'って': 便利だって, 学生だって. '〜そうです' (kabarnya) adalah alternatif yang lebih sopan.",
+    "tags": ["B1", "Informasi", "Kutipan", "Rekomendasi"]
+  },
+  {
+    "id": "i_bab05_4",
+    "chapter": "Bab 05",
+    "source": "irodori",
+    "title": "【kata tanya】V-たらいいですか？ — Sebaiknya Bagaimana?",
+    "romajiTitle": "【kata tanya】V-tara ii desu ka?",
+    "meaning": "Pola untuk menanyakan cara atau metode terbaik untuk melakukan sesuatu. 'たら' adalah bentuk kondisional, dan 'いいですか' berarti 'apakah baik?'. Digunakan untuk meminta saran tentang transportasi, rute, atau rencana perjalanan. Artinya '[Kata tanya] yang terbaik?' atau 'Sebaiknya [kata tanya]?'.",
+    "formula": "[Kata Tanya] + [Kata Kerja Bentuk Lampau] + らいいですか？",
+    "examples": [
+      {
+        "jp": "日光に行くんですけど、何で行ったらいいですか？",
+        "romaji": "Nikkou ni iku n desu kedo, nani de ittara ii desu ka?",
+        "id_translation": "Saya mau pergi ke Nikko, sebaiknya naik apa?"
+      },
+      {
+        "jp": "何時に出発したらいいですか？",
+        "romaji": "Nan-ji ni shuppatsu shitara ii desu ka?",
+        "id_translation": "Jam berapa sebaiknya berangkat?"
+      }
+    ],
+    "notes": "Pola ini menggunakan bentuk lampau + ら (contoh: 行く→行ったら, する→したら). Untuk pertanyaan tanpa kata tanya: どうしたらいいですか？ (Apa yang sebaiknya saya lakukan?). Untuk saran yang lebih langsung: V-たらいいですよ (Sebaiknya V).",
+    "tags": ["B1", "Saran", "Pertanyaan", "Wisata"]
+  },
+  {
+    "id": "i_bab05_5",
+    "chapter": "Bab 05",
+    "source": "irodori",
+    "title": "V-たほうがいいです／V-ないほうがいいです — Sebaiknya V / Sebaiknya Tidak V",
+    "romajiTitle": "V-ta hou ga ii desu / V-nai hou ga ii desu",
+    "meaning": "Pola untuk memberikan saran atau rekomendasi tentang tindakan yang sebaiknya dilakukan atau dihindari. 'ほうがいい' berarti 'lebih baik'. Menggunakan bentuk lampau untuk saran positif, dan bentuk negatif untuk saran negatif. Sangat berguna saat memberi tips perjalanan. Artinya 'Sebaiknya [V]' / 'Sebaiknya tidak [V]'.",
+    "formula": "[Kata Kerja Bentuk Lampau] + ほうがいいです / [Kata Kerja Negatif] + ほうがいいです",
+    "examples": [
+      {
+        "jp": "厚い上着を持って行ったほうがいいですよ。",
+        "romaji": "Atsui uwagi wo motte itta hou ga ii desu yo.",
+        "id_translation": "Sebaiknya bawa jaket tebal lho."
+      },
+      {
+        "jp": "できれば、日曜日は行かないほうがいいですよ。",
+        "romaji": "Dekireba, nichiyoubi wa ikanai hou ga ii desu yo.",
+        "id_translation": "Kalau bisa, sebaiknya tidak pergi hari Minggu lho."
+      }
+    ],
+    "notes": "Bentuk kasual: V-たほうがいい / V-ないほうがいい. Untuk saran yang lebih lembut, gunakan: V-たほうがいいかもしれません (Mungkin lebih baik V). Jangan gunakan 'V-るほうがいい' (salah secara tata bahasa), selalu gunakan bentuk lampau untuk saran positif.",
+    "tags": ["B1", "Saran", "Rekomendasi", "Wisata"]
+  }
+]

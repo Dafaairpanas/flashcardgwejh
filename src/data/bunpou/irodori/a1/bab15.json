@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "id": "i_bab15_1",
+    "chapter": "Bab 15",
+    "source": "irodori",
+    "title": "Nがほしいんですが (N ga hoshii n desu ga)",
+    "romajiTitle": "N ga hoshii n desu ga",
+    "meaning": "Pola kalimat untuk menyatakan keinginan memiliki atau membeli suatu barang, sekaligus mengawali pertanyaan atau permintaan. 'がほしい' berarti 'ingin [N]', 'んですが' adalah bentuk penjelasan + penghubung yang halus untuk mengantarkan pertanyaan. Sangat berguna saat berbelanja atau mencari barang. Artinya 'Saya mau N (sebenarnya)...' atau 'Saya butuh N...'.",
+    "formula": "[Barang] が ほしいんですが、[Pertanyaan/Permintaan]",
+    "examples": [
+      {
+        "jp": "電池がほしいんですが、どこで買えますか？",
+        "romaji": "Denchi ga hoshii n desu ga, doko de kaemasu ka?",
+        "id_translation": "Saya mau baterai, di mana bisa membelinya?"
+      },
+      {
+        "jp": "延長コードがほしいんですが…。",
+        "romaji": "Enchou koodo ga hoshii n desu ga...",
+        "id_translation": "Saya mau kabel ekstensi (sebenarnya)..."
+      }
+    ],
+    "notes": "'んですが' (atau 'のですが') di akhir memberikan nuansa 'sebenarnya...' dan membuat pertanyaan lebih sopan. Bisa juga diikuti langsung dengan permintaan: これがほしいんですが、ください。 (Saya mau ini, tolong berikan.) Untuk barang yang lebih abstrak (bukan benda fisik), gunakan '〜たいです' (ingin melakukan).",
+    "tags": ["A1", "Berbelanja", "Keinginan", "Pertanyaan", "Sopan"]
+  },
+  {
+    "id": "i_bab15_2",
+    "chapter": "Bab 15",
+    "source": "irodori",
+    "title": "ナA-ですね / イA-いですね (NaA desu ne / IA-i desu ne) — Komentar Produk",
+    "romajiTitle": "NaA desu ne / IA-i desu ne",
+    "meaning": "Pola kalimat untuk memberikan komentar atau kesan tentang suatu produk saat berbelanja. Untuk kata sifat-na (ナA), gunakan langsung kata sifat + 'ですね'. Untuk kata sifat-i (イA), gunakan bentuk 'い' + 'ですね'. Digunakan untuk memulai percakapan dengan teman atau staf toko. Artinya '[Produk] [sifat] ya.'",
+    "formula": "[Produk] は [Kata Sifat-na] ですね / [Produk] は [Kata Sifat-i] い ですね",
+    "examples": [
+      {
+        "jp": "このコート、おしゃれですね。",
+        "romaji": "Kono kooto, oshare desu ne.",
+        "id_translation": "Mantel ini modis ya. (ナA)"
+      },
+      {
+        "jp": "この傘、おもしろいですね。",
+        "romaji": "Kono kasa, omoshiroi desu ne.",
+        "id_translation": "Payung ini menarik ya. (イA)"
+      },
+      {
+        "jp": "このバッグ、かわいい！",
+        "romaji": "Kono baggu, kawaii!",
+        "id_translation": "Tas ini, lucu! (bentuk kasual tanpa ですね)"
+      }
+    ],
+    "notes": "Dalam percakapan kasual, 'ですね' sering disingkat menjadi 'だね' atau dihilangkan sama sekali, seperti contoh 'かわいい！'. Untuk kata sifat-na (ナA), bentuk kasualnya: おしゃれだね (Modis ya). Untuk kata sifat-i (イA): おもしろいね (Menarik ya). Ini adalah cara alami untuk menunjukkan ketertarikan atau memulai percakapan di toko.",
+    "tags": ["A1", "Berbelanja", "Komentar", "Produk", "Kata Sifat"]
+  }
+]

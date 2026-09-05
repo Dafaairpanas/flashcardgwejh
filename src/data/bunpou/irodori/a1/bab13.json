@@ -1,1 +1,94 @@
-[]
+[
+  {
+    "id": "i_bab13_1",
+    "chapter": "Bab 13",
+    "source": "irodori",
+    "title": "この【kendaraan】は【tempat】に行きますか？ (Kono [kendaraan] wa [tempat] ni ikimasu ka?)",
+    "romajiTitle": "Kono [kendaraan] wa [tempat] ni ikimasu ka?",
+    "meaning": "Pola pertanyaan untuk menanyakan apakah suatu kendaraan (bus, kereta, dll.) menuju ke tempat tertentu. 'この' berarti 'ini' (kendaraan yang dimaksud), 'に' menunjukkan tujuan, dan '行きますか' berarti 'apakah pergi?'. Sangat berguna saat berada di stasiun atau halte bus. Artinya 'Apakah [kendaraan] ini pergi ke [tempat]?'.",
+    "formula": "この [Kendaraan] は [Tempat] に 行きますか？",
+    "examples": [
+      {
+        "jp": "このバスは空港に行きますか？",
+        "romaji": "Kono basu wa kuukou ni ikimasu ka?",
+        "id_translation": "Apakah bus ini menuju ke bandara?"
+      },
+      {
+        "jp": "この電車は東京に行きますか？",
+        "romaji": "Kono densha wa Toukyou ni ikimasu ka?",
+        "id_translation": "Apakah kereta ini menuju ke Tokyo?"
+      }
+    ],
+    "notes": "Untuk menanyakan tujuan secara umum: これはどこに行きますか？ (Ke mana ini pergi?). Untuk menunjukkan kendaraan yang jauh, gunakan 'その' (itu - dekat lawan bicara) atau 'あの' (itu - jauh). Contoh: あのバスはどこに行きますか？ (Ke mana bus itu pergi?).",
+    "tags": ["A1", "Transportasi", "Rute", "Pertanyaan"]
+  },
+  {
+    "id": "i_bab13_2",
+    "chapter": "Bab 13",
+    "source": "irodori",
+    "title": "【kendaraan】で来ます ([Kendaraan] de kimasu)",
+    "romajiTitle": "[Kendaraan] de kimasu",
+    "meaning": "Pola kalimat untuk menyatakan moda transportasi yang digunakan untuk datang ke suatu tempat. 'で' menunjukkan alat/medium yang digunakan, dan '来ます' berarti 'datang'. Juga bisa digunakan dengan '行きます' (pergi). Artinya 'Datang dengan [kendaraan]' atau 'Menggunakan [kendaraan] untuk datang'.",
+    "formula": "[Kendaraan] で 来ます / 行きます",
+    "examples": [
+      {
+        "jp": "バイクで来ます。",
+        "romaji": "Baiku de kimasu.",
+        "id_translation": "Saya datang dengan motor."
+      },
+      {
+        "jp": "電車で会社に行きます。",
+        "romaji": "Densha de kaisha ni ikimasu.",
+        "id_translation": "Saya pergi ke kantor dengan kereta."
+      }
+    ],
+    "notes": "Untuk berjalan kaki, gunakan '歩いて' (aruite) bukan '足で'. Contoh: 歩いて来ます (Saya datang berjalan kaki). Untuk naik kendaraan, gunakan '乗ります' (norimasu): バスに乗ります (Naik bus). Perbedaan: 'で' untuk alat transportasi, 'に' untuk tujuan: 車で東京に行きます (Pergi ke Tokyo dengan mobil).",
+    "tags": ["A1", "Transportasi", "Moda", "Cara"]
+  },
+  {
+    "id": "i_bab13_3",
+    "chapter": "Bab 13",
+    "source": "irodori",
+    "title": "【waktu】かかります ([Waktu] kakarimasu)",
+    "romajiTitle": "[Waktu] kakarimasu",
+    "meaning": "Pola kalimat untuk menyatakan waktu yang dibutuhkan untuk melakukan sesuatu (perjalanan, pekerjaan, dll.). 'かかります' berarti 'memakan waktu' atau 'butuh waktu'. Digunakan untuk menjelaskan durasi perjalanan atau estimasi waktu. Artinya 'Butuh waktu [durasi]'.",
+    "formula": "[Durasi] かかります",
+    "examples": [
+      {
+        "jp": "1時間半かかります。",
+        "romaji": "Ichi-jikan-han kakarimasu.",
+        "id_translation": "Butuh waktu 1,5 jam."
+      },
+      {
+        "jp": "家から駅まで10分かかります。",
+        "romaji": "Ie kara eki made juu-pun kakarimasu.",
+        "id_translation": "Dari rumah ke stasiun butuh waktu 10 menit."
+      }
+    ],
+    "notes": "Untuk menanyakan waktu yang dibutuhkan: どのぐらいかかりますか？ (Berapa lama waktu yang dibutuhkan?). Juga bisa menggunakan '時間' (jikan) untuk jam, '分' (pun) untuk menit. Contoh: 2時間かかります (Butuh 2 jam). Untuk waktu yang singkat: すぐに着きます (Segera sampai).",
+    "tags": ["A1", "Waktu", "Durasi", "Perjalanan"]
+  },
+  {
+    "id": "i_bab13_4",
+    "chapter": "Bab 13",
+    "source": "irodori",
+    "title": "【tempat】で【kendaraan】に乗ります / を降ります ([Tempat] de [kendaraan] ni norimasu / wo orimasu)",
+    "romajiTitle": "[Tempat] de [kendaraan] ni norimasu / wo orimasu",
+    "meaning": "Pola kalimat untuk menyatakan tempat naik dan turun dari kendaraan. 'で' menunjukkan lokasi, 'に乗ります' berarti 'naik', dan 'を降ります' berarti 'turun'. Sangat berguna saat memberikan atau menerima petunjuk arah. Artinya 'Naik [kendaraan] di [tempat]' / 'Turun dari [kendaraan] di [tempat]'.",
+    "formula": "[Tempat] で [Kendaraan] に 乗ります / を 降ります",
+    "examples": [
+      {
+        "jp": "バスセンターでバスを降ります。",
+        "romaji": "Basu Sentaa de basu wo orimasu.",
+        "id_translation": "Saya turun dari bus di pusat bus."
+      },
+      {
+        "jp": "新宿駅で電車に乗ります。",
+        "romaji": "Shinjuku-eki de densha ni norimasu.",
+        "id_translation": "Saya naik kereta di stasiun Shinjuku."
+      }
+    ],
+    "notes": "Perhatikan partikel: 'に乗ります' (naik ke dalam kendaraan), 'を降ります' (turun dari kendaraan). Untuk kendaraan kecil seperti mobil/taksi: 'に乗ります' untuk naik, 'を降ります' untuk turun (sama). Untuk pesawat: 'に乗ります' / 'を降ります'.",
+    "tags": ["A1", "Transportasi", "Naik", "Turun", "Lokasi"]
+  }
+]

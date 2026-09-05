@@ -1,1 +1,140 @@
-[]
+[
+  {
+    "id": "i_bab05_1",
+    "chapter": "Bab 05",
+    "source": "irodori",
+    "title": "Nが好きです / 好きじゃないです (N ga suki desu / suki janai desu)",
+    "romajiTitle": "N ga suki desu / suki janai desu",
+    "meaning": "Pola kalimat untuk menyatakan suka atau tidak suka terhadap sesuatu (biasanya makanan, minuman, atau aktivitas). '好き' adalah kata sifat yang berarti 'suka', dan partikel 'が' menunjukkan objek yang disukai. Bentuk negatifnya adalah '好きじゃないです' (tidak suka).",
+    "formula": "[Benda/Aktivitas] + が好きです / が好きじゃないです",
+    "examples": [
+      {
+        "jp": "肉と野菜が好きです。",
+        "romaji": "Niku to yasai ga suki desu.",
+        "id_translation": "Saya suka daging dan sayuran."
+      },
+      {
+        "jp": "魚は好きじゃないです。",
+        "romaji": "Sakana wa suki janai desu.",
+        "id_translation": "Saya tidak suka ikan."
+      }
+    ],
+    "notes": "Subjek (watashi wa) sering dihilangkan karena sudah jelas dari konteks. Untuk menyatakan lebih dari satu benda, gunakan partikel 'と' (dan). Perhatikan bahwa meskipun '好き' dalam bahasa Jepang mirip kata sifat, secara tata bahasa diikuti partikel 'が', bukan 'を'.",
+    "tags": ["A1", "Makanan", "Preferensi"]
+  },
+  {
+    "id": "i_bab05_2",
+    "chapter": "Bab 05",
+    "source": "irodori",
+    "title": "Nはちょっと… (N wa chotto...)",
+    "romajiTitle": "N wa chotto...",
+    "meaning": "Cara halus dan sopan untuk menyatakan ketidaksukaan tanpa menolak secara langsung. 'ちょっと' berarti 'agak' atau 'sedikit', dan diakhiri dengan '...' (ditahan) untuk memberi kesan ragu-ragu. Ini adalah strategi komunikasi yang umum dalam budaya Jepang untuk menghindari konfrontasi langsung.",
+    "formula": "[Benda] + はちょっと…",
+    "examples": [
+      {
+        "jp": "わさびは、ちょっと…。",
+        "romaji": "Wasabi wa, chotto...",
+        "id_translation": "Wasabi itu, agak (kurang suka)."
+      },
+      {
+        "jp": "辛いものは、ちょっと…。",
+        "romaji": "Karai mono wa, chotto...",
+        "id_translation": "Makanan pedas itu, agak (kurang suka)."
+      }
+    ],
+    "notes": "Ini adalah bentuk penolakan yang sopan. Lawan bicara biasanya akan memahami bahwa Anda tidak menyukai sesuatu tanpa Anda harus mengatakan 'tidak suka' secara langsung. Sangat berguna saat berada di restoran atau ditawari makanan tertentu.",
+    "tags": ["A1", "Makanan", "Sopan", "Preferensi"]
+  },
+  {
+    "id": "i_bab05_3",
+    "chapter": "Bab 05",
+    "source": "irodori",
+    "title": "V-ますか？ / V-る？ (V-masu ka? / V-ru?)",
+    "romajiTitle": "V-masu ka? / V-ru?",
+    "meaning": "Dua bentuk pertanyaan untuk menanyakan apakah seseorang mau melakukan sesuatu. 'V-ますか' adalah bentuk sopan yang digunakan dengan orang yang lebih tua atau belum akrab. 'V-る' (bentuk kamus/dictionary form) adalah bentuk kasual untuk teman dekat atau orang yang lebih muda.",
+    "formula": "[Kata Kerja Bentuk Masu/Kamus] + か？ / ？",
+    "examples": [
+      {
+        "jp": "お茶、飲みますか？",
+        "romaji": "O-cha, nomimasu ka?",
+        "id_translation": "Apakah mau minum teh? (sopan)"
+      },
+      {
+        "jp": "何、飲む？",
+        "romaji": "Nani, nomu?",
+        "id_translation": "Mau minum apa? (kasual)"
+      }
+    ],
+    "notes": "Bentuk 'V-ますか' adalah bentuk sopan standar. 'V-る' (bentuk kamus) digunakan dalam percakapan kasual, dan sering diucapkan dengan intonasi naik di akhir kalimat tanpa partikel 'か'. Untuk menawarkan sesuatu secara lebih sopan, bisa gunakan '〜はいかがですか' (misalnya: お茶はいかがですか？ = Bagaimana dengan teh?).",
+    "tags": ["A1", "Pertanyaan", "Minuman", "Komunikasi"]
+  },
+  {
+    "id": "i_bab05_4",
+    "chapter": "Bab 05",
+    "source": "irodori",
+    "title": "NをV-ます (N o V-masu)",
+    "romajiTitle": "N o V-masu",
+    "meaning": "Pola kalimat untuk menyatakan bahwa seseorang memakan atau meminum sesuatu. Partikel 'を' menunjukkan objek yang dikenai tindakan (apa yang dimakan/diminum). Diikuti oleh kata kerja seperti '食べます' (makan) atau '飲みます' (minum).",
+    "formula": "[Benda/Makanan/Minuman] + を + [Kata Kerja]",
+    "examples": [
+      {
+        "jp": "シリアルを食べます。",
+        "romaji": "Shiriaru wo tabemasu.",
+        "id_translation": "Saya makan sereal."
+      },
+      {
+        "jp": "コーヒーを飲みます。",
+        "romaji": "Koohii wo nomimasu.",
+        "id_translation": "Saya minum kopi."
+      }
+    ],
+    "notes": "Partikel 'を' dibaca 'o' (bukan 'wo'). Dalam percakapan sehari-hari, partikel 'を' sering dihilangkan, terutama dalam situasi kasual. Contoh: コーヒー飲む？ (Mau minum kopi?). Kata kerja yang umum digunakan dengan partikel ini: 食べます (makan), 飲みます (minum), 買います (beli), 読みます (baca).",
+    "tags": ["A1", "Makanan", "Minuman", "Partikel"]
+  },
+  {
+    "id": "i_bab05_5",
+    "chapter": "Bab 05",
+    "source": "irodori",
+    "title": "V-ません / V-ないです (V-masen / V-nai desu)",
+    "romajiTitle": "V-masen / V-nai desu",
+    "meaning": "Dua bentuk negatif dari kata kerja yang sama-sama sopan. 'V-ません' adalah bentuk negatif sopan standar (lebih sering digunakan dalam situasi formal). 'V-ないです' adalah bentuk negatif sopan kasual (lebih sering digunakan dalam percakapan sehari-hari). Keduanya berarti 'tidak melakukan V'.",
+    "formula": "[Kata Kerja Bentuk Masu] + ません / [Kata Kerja Bentuk Kamus] + ないです",
+    "examples": [
+      {
+        "jp": "朝ご飯はあまり食べません。",
+        "romaji": "Asa-gohan wa amari tabemasen.",
+        "id_translation": "Saya tidak banyak makan sarapan."
+      },
+      {
+        "jp": "私も、食べないです。",
+        "romaji": "Watashi mo, tabenai desu.",
+        "id_translation": "Saya juga tidak makan."
+      }
+    ],
+    "notes": "'V-ません' dianggap sedikit lebih formal daripada 'V-ないです', tetapi keduanya bisa digunakan dalam situasi sehari-hari. 'V-ないです' sering lebih natural dalam percakapan santai. Bentuk negatif dari 'あります' (ada) adalah 'ありません' atau 'ないです'.",
+    "tags": ["A1", "Negatif", "Makanan"]
+  },
+  {
+    "id": "i_bab05_6",
+    "chapter": "Bab 05",
+    "source": "irodori",
+    "title": "Frekuensi: よく / あまり〜ません (Yoku / Amari ~masen)",
+    "romajiTitle": "Yoku / Amari ~masen",
+    "meaning": "Kata keterangan frekuensi yang sering digunakan dalam percakapan tentang makanan dan kebiasaan. 'よく' berarti 'sering' dan digunakan dengan pernyataan positif. 'あまり' berarti 'tidak terlalu' dan HARUS diikuti dengan bentuk negatif (〜ません / 〜ないです).",
+    "formula": "[Subjek] + よく + V-ます / [Subjek] + あまり + V-ません",
+    "examples": [
+      {
+        "jp": "パンと卵とヨーグルトをよく食べます。",
+        "romaji": "Pan to tamago to yooguruto wo yoku tabemasu.",
+        "id_translation": "Saya sering makan roti, telur, dan yoghurt."
+      },
+      {
+        "jp": "朝ご飯はあまり食べません。",
+        "romaji": "Asa-gohan wa amari tabemasen.",
+        "id_translation": "Saya tidak terlalu banyak makan sarapan."
+      }
+    ],
+    "notes": "Kata keterangan frekuensi lainnya: 'いつも' (selalu), 'たいてい' (biasanya), 'ときどき' (kadang-kadang), 'ぜんぜん' (tidak pernah - harus diikuti negatif). 'あまり' dan 'ぜんぜん' selalu diikuti bentuk negatif. 'よく' dan 'ときどき' diikuti bentuk positif.",
+    "tags": ["A1", "Frekuensi", "Kebiasaan", "Makanan"]
+  }
+]

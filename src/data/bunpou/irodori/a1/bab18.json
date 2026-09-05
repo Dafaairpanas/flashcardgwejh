@@ -1,1 +1,99 @@
-[]
+[
+  {
+    "id": "i_bab18_1",
+    "chapter": "Bab 18",
+    "source": "irodori",
+    "title": "V-たいです (V-tai desu)",
+    "romajiTitle": "V-tai desu",
+    "meaning": "Pola kalimat untuk menyatakan keinginan melakukan suatu tindakan. Dibentuk dengan mengubah kata kerja bentuk 'ます' (tanpa 'ます') menjadi 'たい' dan menambahkan 'です'. Digunakan untuk mengungkapkan apa yang ingin dilakukan, bukan keinginan memiliki benda. Artinya 'Ingin melakukan [aktivitas]'.",
+    "formula": "[Kata Kerja Bentuk Masu tanpa masu] + たいです",
+    "examples": [
+      {
+        "jp": "炊飯器が買いたいです。",
+        "romaji": "Suihanki ga kaitai desu.",
+        "id_translation": "Saya ingin membeli penanak nasi."
+      },
+      {
+        "jp": "温泉に入りたいです。",
+        "romaji": "Onsen ni hairitai desu.",
+        "id_translation": "Saya ingin berendam di pemandian air panas."
+      }
+    ],
+    "notes": "Partikel yang digunakan biasanya 'が' untuk objek yang diinginkan, tetapi 'を' juga bisa digunakan dalam percakapan modern. Contoh: コーヒーを飲みたいです (Saya ingin minum kopi). Untuk menyatakan tidak ingin: V-たくないです. Contoh: 行きたくないです (Tidak ingin pergi).",
+    "tags": ["A1", "Keinginan", "Rencana", "Liburan"]
+  },
+  {
+    "id": "i_bab18_2",
+    "chapter": "Bab 18",
+    "source": "irodori",
+    "title": "どこかV-ます (Dokoka V-masu)",
+    "romajiTitle": "Dokoka V-masu",
+    "meaning": "Pola kalimat untuk menyatakan pergi ke suatu tempat yang tidak spesifik atau belum ditentukan. 'どこか' berarti 'suatu tempat' atau 'ke mana saja'. Digunakan saat ingin menyatakan keinginan pergi ke suatu tempat tanpa menyebutkan tujuan spesifik. Artinya 'Pergi ke suatu tempat' atau 'Ke mana saja'.",
+    "formula": "どこか + [Kata Kerja]",
+    "examples": [
+      {
+        "jp": "どこか旅行したいです。",
+        "romaji": "Dokoka ryokou shitai desu.",
+        "id_translation": "Saya ingin pergi bepergian ke suatu tempat."
+      },
+      {
+        "jp": "どこか行きましょう。",
+        "romaji": "Dokoka ikimashou.",
+        "id_translation": "Ayo pergi ke suatu tempat."
+      }
+    ],
+    "notes": "Pola serupa: '何か' (sesuatu), '誰か' (seseorang). Semua digunakan untuk menyatakan 'sesuatu yang tidak spesifik'. Contoh: 何か食べたいです (Saya ingin makan sesuatu). 'どこか' selalu diikuti kata kerja positif (bukan negatif). Untuk negatif gunakan 'どこも' (tidak ke mana pun).",
+    "tags": ["A1", "Keinginan", "Tempat", "Rencana"]
+  },
+  {
+    "id": "i_bab18_3",
+    "chapter": "Bab 18",
+    "source": "irodori",
+    "title": "【tempat】へ行きます ([Tempat] e ikimasu)",
+    "romajiTitle": "[Tempat] e ikimasu",
+    "meaning": "Pola kalimat untuk menyatakan tujuan pergi ke suatu tempat. Partikel 'へ' (dibaca 'e') menunjukkan arah tujuan, dan '行きます' berarti 'pergi'. Mirip dengan partikel 'に', tetapi 'へ' lebih menekankan arah daripada tujuan spesifik. Sering digunakan dalam perencanaan perjalanan. Artinya 'Pergi ke [tempat]'.",
+    "formula": "[Tempat] へ 行きます",
+    "examples": [
+      {
+        "jp": "京都へ行きたいです。",
+        "romaji": "Kyouto e ikitai desu.",
+        "id_translation": "Saya ingin pergi ke Kyoto."
+      },
+      {
+        "jp": "北海道へ旅行します。",
+        "romaji": "Hokkaidou e ryokou shimasu.",
+        "id_translation": "Saya bepergian ke Hokkaido."
+      }
+    ],
+    "notes": "Partikel 'へ' dan 'に' sering digunakan bergantian untuk tujuan. Perbedaan halus: 'に' lebih menekankan pada titik tujuan, 'へ' lebih menekankan pada arah. Dalam percakapan sehari-hari, keduanya bisa digunakan. Contoh: 東京に行きます (Pergi ke Tokyo) / 東京へ行きます (Menuju Tokyo).",
+    "tags": ["A1", "Tujuan", "Pergi", "Liburan", "Partikel"]
+  },
+  {
+    "id": "i_bab18_4",
+    "chapter": "Bab 18",
+    "source": "irodori",
+    "title": "S1。あと / それから / それに / でも S2。 (Penghubung Kalimat)",
+    "romajiTitle": "S1. Ato / Sorekara / Soreni / Demo S2.",
+    "meaning": "Berbagai kata penghubung untuk menggabungkan kalimat dan memberikan informasi tambahan atau kontras. 'あと' berarti 'lagi' atau 'dan juga'. 'それから' berarti 'lalu' atau 'dan kemudian'. 'それに' berarti 'di samping itu' atau 'apalagi'. 'でも' berarti 'tetapi' atau 'meskipun demikian'. Sangat berguna untuk menulis postingan liburan yang natural.",
+    "formula": "[Kalimat 1]。あと / それから / それに / でも [Kalimat 2]。",
+    "examples": [
+      {
+        "jp": "気持ちよかったです。それに、景色もきれいでした。",
+        "romaji": "Kimochi yokatta desu. Sore ni, keshiki mo kirei deshita.",
+        "id_translation": "Perasaannya enak. Di samping itu, pemandangannya juga indah."
+      },
+      {
+        "jp": "おいしかったです。でも、ちょっと高かったです。",
+        "romaji": "Oishikatta desu. Demo, chotto takakatta desu.",
+        "id_translation": "Enak. Tapi, agak mahal."
+      },
+      {
+        "jp": "雪が見たいです。あと、温泉に入りたいです。",
+        "romaji": "Yuki ga mitai desu. Ato, onsen ni hairitai desu.",
+        "id_translation": "Saya ingin melihat salju. Dan juga, ingin berendam di onsen."
+      }
+    ],
+    "notes": "Perbedaan: 'あと' dan 'それから' untuk menambahkan informasi (seperti 'dan juga'). 'それに' untuk menambahkan informasi positif (seperti 'apalagi'). 'でも' untuk kontras (seperti 'tetapi'). Dalam postingan media sosial, gunakan ini untuk membuat tulisan lebih mengalir dan natural.",
+    "tags": ["A1", "Penghubung", "Liburan", "Menulis", "Kesan"]
+  }
+]

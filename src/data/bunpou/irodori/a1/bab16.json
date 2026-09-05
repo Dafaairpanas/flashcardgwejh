@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "id": "i_bab16_1",
+    "chapter": "Bab 16",
+    "source": "irodori",
+    "title": "これ/それ/あれはいくらですか？ (Kore/Sore/Are wa ikura desu ka?)",
+    "romajiTitle": "Kore/Sore/Are wa ikura desu ka?",
+    "meaning": "Pola pertanyaan untuk menanyakan harga suatu barang dengan menggunakan kata penunjuk. 'これ' (ini - dekat pembicara), 'それ' (itu - dekat lawan bicara), 'あれ' (itu - jauh dari keduanya). 'いくら' berarti 'berapa harga'. Sangat berguna saat berbelanja. Artinya 'Berapa harga ini/itu?'.",
+    "formula": "[これ/それ/あれ] は いくらですか？",
+    "examples": [
+      {
+        "jp": "これ、いくらですか？",
+        "romaji": "Kore, ikura desu ka?",
+        "id_translation": "Berapa harga ini?"
+      },
+      {
+        "jp": "あれはいくらですか？",
+        "romaji": "Are wa ikura desu ka?",
+        "id_translation": "Berapa harga itu?"
+      }
+    ],
+    "notes": "Partikel 'は' sering dihilangkan dalam percakapan sehari-hari. Contoh: これいくら？ (Ini berapa? - kasual). Untuk menanyakan harga secara lebih sopan: これはいくらですか？ atau これはおいくらですか？ (lebih sopan dengan 'お' di depan).",
+    "tags": ["A1", "Harga", "Berbelanja", "Pertanyaan", "Penunjuk"]
+  },
+  {
+    "id": "i_bab16_2",
+    "chapter": "Bab 16",
+    "source": "irodori",
+    "title": "この/その/あのN (Kono/Sono/Ano N)",
+    "romajiTitle": "Kono/Sono/Ano N",
+    "meaning": "Pola untuk menunjukkan benda tertentu dengan kata penunjuk + kata benda. 'この' berarti 'ini' (benda di dekat pembicara), 'その' berarti 'itu' (benda di dekat lawan bicara), 'あの' berarti 'itu' (benda jauh dari keduanya). Berbeda dengan 'これ/それ/あれ' yang berdiri sendiri, 'この/その/あの' harus diikuti kata benda. Artinya '[Benda] ini/itu'.",
+    "formula": "[この/その/あの] + [Kata Benda]",
+    "examples": [
+      {
+        "jp": "そのカレンダー、いくらですか？",
+        "romaji": "Sono karendaa, ikura desu ka?",
+        "id_translation": "Berapa harga kalender itu?"
+      },
+      {
+        "jp": "この靴はいくらですか？",
+        "romaji": "Kono kutsu wa ikura desu ka?",
+        "id_translation": "Berapa harga sepatu ini?"
+      }
+    ],
+    "notes": "Perbedaan: 'これ' (ini - kata benda sendiri) vs 'この[N]' ([N] ini). Contoh: これはいいです (Ini bagus) vs この本はいいです (Buku ini bagus). Untuk pertanyaan 'yang mana', gunakan 'どの' (which): どのカレンダーですか？ (Kalender yang mana?).",
+    "tags": ["A1", "Harga", "Berbelanja", "Penunjuk", "Pertanyaan"]
+  },
+  {
+    "id": "i_bab16_3",
+    "chapter": "Bab 16",
+    "source": "irodori",
+    "title": "【kuantitas】ずつ ([Kuantitas] zutsu)",
+    "romajiTitle": "[Kuantitas] zutsu",
+    "meaning": "Pola untuk menyatakan bahwa setiap item memiliki jumlah yang sama atau memesan beberapa jenis barang dengan jumlah yang sama. 'ずつ' berarti 'masing-masing' atau 'setiap'. Digunakan saat memesan beberapa jenis barang dengan jumlah yang sama, misalnya 2 buah kue coklat dan 2 buah kue keju. Artinya '[Jumlah] masing-masing'.",
+    "formula": "[Jumlah] ずつ",
+    "examples": [
+      {
+        "jp": "チョコレートケーキとチーズケーキ、2個ずつお願いします。",
+        "romaji": "Chokoreeto keeki to chiizu keeki, ni-ko zutsu onegaishimasu.",
+        "id_translation": "Kue coklat dan kue keju, masing-masing 2 potong."
+      },
+      {
+        "jp": "りんごを3つずつください。",
+        "romaji": "Ringo wo mittsu zutsu kudasai.",
+        "id_translation": "Tolong apel masing-masing 3 buah."
+      }
+    ],
+    "notes": "'ずつ' juga bisa digunakan untuk menyatakan 'sedikit demi sedikit': 少しずつ (sedikit demi sedikit). Atau 'satu per satu': 一つずつ (satu per satu). Sangat berguna di toko makanan atau saat membeli oleh-oleh.",
+    "tags": ["A1", "Jumlah", "Berbelanja", "Memesan", "Counter"]
+  }
+]

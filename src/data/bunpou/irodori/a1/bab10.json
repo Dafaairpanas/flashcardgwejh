@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "id": "i_bab10_1",
+    "chapter": "Bab 10",
+    "source": "irodori",
+    "title": "V-てください (V-te kudasai)",
+    "romajiTitle": "V-te kudasai",
+    "meaning": "Pola kalimat untuk meminta atau memerintah seseorang melakukan sesuatu dengan sopan. 'て' adalah bentuk sambung kata kerja, dan 'ください' berarti 'tolong'. Digunakan di tempat kerja atau situasi sehari-hari untuk memberi instruksi atau permintaan. Artinya 'Tolong lakukan [aktivitas]'.",
+    "formula": "[Kata Kerja Bentuk te] + ください",
+    "examples": [
+      {
+        "jp": "ちょっと手伝ってください。",
+        "romaji": "Chotto tetsudatte kudasai.",
+        "id_translation": "Tolong bantu sebentar."
+      },
+      {
+        "jp": "この書類をコピーしてください。",
+        "romaji": "Kono shorui wo kopii shite kudasai.",
+        "id_translation": "Tolong fotokopi dokumen ini."
+      }
+    ],
+    "notes": "Bentuk kasualnya adalah 'V-て' saja (tanpa ください) untuk teman dekat. Contoh: 手伝って。 (Tolong bantu.) Untuk permintaan yang lebih sopan, gunakan 'V-ていただけますか？' (Bisa tolong ...?). Perhatikan bahwa kata kerja bentuk 'て' memiliki aturan konjugasi yang berbeda-beda tergantung jenis kata kerjanya.",
+    "tags": ["A1", "Instruksi", "Permintaan", "Tempat Kerja", "Sopan"]
+  },
+  {
+    "id": "i_bab10_2",
+    "chapter": "Bab 10",
+    "source": "irodori",
+    "title": "Nですね (N desu ne) — Konfirmasi",
+    "romajiTitle": "N desu ne",
+    "meaning": "Pola kalimat untuk mengonfirmasi atau memverifikasi informasi yang baru saja didengar. 'ですね' di akhir kalimat berarti '... ya?' atau '... kan?'. Digunakan untuk memastikan bahwa pemahaman Anda benar, terutama saat menerima instruksi di tempat kerja. Sangat berguna untuk menghindari kesalahpahaman.",
+    "formula": "[Informasi] + ですね",
+    "examples": [
+      {
+        "jp": "30ですね。",
+        "romaji": "San-juu desu ne.",
+        "id_translation": "30 ya? (untuk mengonfirmasi jumlah)"
+      },
+      {
+        "jp": "コピーは30枚ですね。",
+        "romaji": "Kopii wa san-juu-mai desu ne.",
+        "id_translation": "Fotokopinya 30 lembar ya?"
+      }
+    ],
+    "notes": "Partikel 'ね' memiliki banyak fungsi: (1) Konfirmasi: そうですね (Ya, benar), (2) Mencari persetujuan: いい天気ですね (Cuaca bagus ya?), (3) Menegaskan: そうですよね (Benar kan?). Dalam konteks kerja, gunakan untuk memastikan instruksi: これでよろしいですね？ (Ini sudah benar ya?).",
+    "tags": ["A1", "Konfirmasi", "Tempat Kerja", "Verifikasi"]
+  },
+  {
+    "id": "i_bab10_3",
+    "chapter": "Bab 10",
+    "source": "irodori",
+    "title": "N、貸してください / 借りてもいいですか？ (N, kashite kudasai / karite mo ii desu ka?)",
+    "romajiTitle": "N, kashite kudasai / karite mo ii desu ka?",
+    "meaning": "Dua pola untuk meminjam barang di tempat kerja. '貸してください' berarti 'Tolong pinjamkan' (meminta orang lain meminjamkan barangnya). '借りてもいいですか' berarti 'Bolehkah saya pinjam?' (meminta izin untuk meminjam). Keduanya sopan dan umum digunakan di kantor.",
+    "formula": "[Barang] + 貸してください / [Barang] + 借りてもいいですか？",
+    "examples": [
+      {
+        "jp": "ホチキス、貸してください。",
+        "romaji": "Hochikisu, kashite kudasai.",
+        "id_translation": "Tolong pinjamkan stapler."
+      },
+      {
+        "jp": "すみません。借りてもいいですか？",
+        "romaji": "Sumimasen. Karite mo ii desu ka?",
+        "id_translation": "Maaf, bolehkah saya pinjam?"
+      }
+    ],
+    "notes": "Perbedaan: '貸す' (kasu) = meminjamkan (dari pembicara ke orang lain). '借りる' (kariru) = meminjam (dari orang lain ke pembicara). Bentuk lain: '使ってもいいですか？' (Bolehkah saya pakai?) untuk barang yang tidak perlu dipinjam, hanya digunakan di tempat.",
+    "tags": ["A1", "Meminjam", "Tempat Kerja", "Permintaan", "Sopan"]
+  }
+]

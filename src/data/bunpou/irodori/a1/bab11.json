@@ -1,1 +1,99 @@
-[]
+[
+  {
+    "id": "i_bab11_1",
+    "chapter": "Bab 11",
+    "source": "irodori",
+    "title": "Nは何ですか？ (N wa nan desu ka?)",
+    "romajiTitle": "N wa nan desu ka?",
+    "meaning": "Pola pertanyaan untuk menanyakan sesuatu tentang topik tertentu. 'Nは' adalah topik yang dibicarakan, dan '何ですか' berarti 'apa?'. Sangat berguna untuk menanyakan hobi, pekerjaan, atau informasi lain tentang seseorang. Artinya 'Apa [topik]nya?'.",
+    "formula": "[Topik] は 何ですか？",
+    "examples": [
+      {
+        "jp": "趣味は何ですか？",
+        "romaji": "Shumi wa nan desu ka?",
+        "id_translation": "Apa hobimu?"
+      },
+      {
+        "jp": "仕事は何ですか？",
+        "romaji": "Shigoto wa nan desu ka?",
+        "id_translation": "Apa pekerjaanmu?"
+      }
+    ],
+    "notes": "Bisa juga digunakan untuk menanyakan hal lain: これは何ですか？ (Apa ini?). Untuk jawaban, gunakan pola yang sudah dipelajari: 趣味は映画を見ることです (Hobi saya adalah menonton film).",
+    "tags": ["A1", "Hobi", "Pertanyaan", "Informasi Pribadi"]
+  },
+  {
+    "id": "i_bab11_2",
+    "chapter": "Bab 11",
+    "source": "irodori",
+    "title": "どんなN (Donna N)",
+    "romajiTitle": "Donna N",
+    "meaning": "Pola pertanyaan untuk menanyakan jenis atau tipe dari suatu kata benda. 'どんな' berarti 'seperti apa' atau 'jenis apa'. Digunakan untuk menanyakan preferensi yang lebih spesifik. Artinya 'N seperti apa?' atau 'Jenis N apa?'.",
+    "formula": "どんな [Kata Benda]",
+    "examples": [
+      {
+        "jp": "どんなスポーツが好きですか？",
+        "romaji": "Donna supootsu ga suki desu ka?",
+        "id_translation": "Olahraga seperti apa yang kamu suka?"
+      },
+      {
+        "jp": "どんな音楽を聞きますか？",
+        "romaji": "Donna ongaku wo kikimasu ka?",
+        "id_translation": "Musik seperti apa yang kamu dengar?"
+      }
+    ],
+    "notes": "Perbedaan: '何' (nan) = 'apa' (benda tertentu), 'どんな' (donna) = 'seperti apa' (jenis/kategori). Contoh: 何の本？ (Buku apa? - judul spesifik) vs どんな本？ (Buku seperti apa? - genre/kategori).",
+    "tags": ["A1", "Hobi", "Pertanyaan", "Preferensi"]
+  },
+  {
+    "id": "i_bab11_3",
+    "chapter": "Bab 11",
+    "source": "irodori",
+    "title": "あまり〜ない (Amari ~nai)",
+    "romajiTitle": "Amari ~nai",
+    "meaning": "Kata keterangan yang berarti 'tidak terlalu' atau 'tidak begitu'. Selalu diikuti dengan bentuk negatif (〜ない). Digunakan untuk menyatakan bahwa sesuatu tidak terlalu sering terjadi atau tidak terlalu disukai. Artinya 'tidak begitu [aktivitas/sifat]'.",
+    "formula": "あまり + [Bentuk Negatif]",
+    "examples": [
+      {
+        "jp": "スポーツはあまり好きじゃないです。",
+        "romaji": "Supootsu wa amari suki janai desu.",
+        "id_translation": "Saya tidak begitu suka olahraga."
+      },
+      {
+        "jp": "あまり食べません。",
+        "romaji": "Amari tabemasen.",
+        "id_translation": "Saya tidak begitu banyak makan."
+      }
+    ],
+    "notes": "Kata keterangan frekuensi yang selalu diikuti negatif: 'あまり' (tidak terlalu) dan 'ぜんぜん' (tidak sama sekali). Contoh: ぜんぜん食べません (Tidak makan sama sekali). 'あまり' bisa digunakan dengan kata sifat juga: あまり大きくない (Tidak begitu besar).",
+    "tags": ["A1", "Frekuensi", "Negatif", "Preferensi"]
+  },
+  {
+    "id": "i_bab11_4",
+    "chapter": "Bab 11",
+    "source": "irodori",
+    "title": "Frekuensi: いつも / たいてい / よく / ときどき / あまり / ぜんぜん",
+    "romajiTitle": "Itsumo / Taitei / Yoku / Tokidoki / Amari / Zenzen",
+    "meaning": "Kata keterangan frekuensi untuk menyatakan seberapa sering suatu kegiatan dilakukan. Dari yang paling sering (100%) hingga tidak pernah (0%). 'いつも' (selalu), 'たいてい' (biasanya), 'よく' (sering), 'ときどき' (kadang-kadang), 'あまり' (tidak terlalu - dengan negatif), 'ぜんぜん' (tidak pernah - dengan negatif).",
+    "formula": "[Frekuensi] + [Kata Kerja]",
+    "examples": [
+      {
+        "jp": "休みの日はたいてい映画を見ます。",
+        "romaji": "Yasumi no hi wa taitei eiga wo mimasu.",
+        "id_translation": "Di hari libur, biasanya saya menonton film."
+      },
+      {
+        "jp": "よく友だちと遊びます。",
+        "romaji": "Yoku tomodachi to asobimasu.",
+        "id_translation": "Saya sering bermain dengan teman."
+      },
+      {
+        "jp": "ときどき公園を散歩します。",
+        "romaji": "Tokidoki kouen wo sanpo shimasu.",
+        "id_translation": "Kadang-kadang saya jalan-jalan di taman."
+      }
+    ],
+    "notes": "Urutan frekuensi dari tinggi ke rendah: いつも (100%) > たいてい (80%) > よく (60%) > ときどき (40%) > あまり〜ない (20%) > ぜんぜん〜ない (0%). 'ぜんぜん' dan 'あまり' harus diikuti bentuk negatif. Posisi dalam kalimat: sebelum kata kerja.",
+    "tags": ["A1", "Frekuensi", "Kebiasaan", "Rutinitas"]
+  }
+]

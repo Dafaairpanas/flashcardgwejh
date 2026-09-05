@@ -1,1 +1,94 @@
-[]
+[
+  {
+    "id": "i_bab03_1",
+    "chapter": "Bab 03",
+    "source": "irodori",
+    "title": "S1ので、S2 (S1 node, S2) — Karena S1, Maka S2",
+    "romajiTitle": "S1 node, S2",
+    "meaning": "Pola untuk menyatakan alasan atau sebab dengan sopan. 'ので' berarti 'karena' dan digunakan untuk menghubungkan klausa alasan (S1) dengan klausa akibat (S2). Lebih sopan dan formal daripada 'から'. Sangat berguna saat menjelaskan alasan tidak bisa makan sesuatu atau membatalkan pesanan. Artinya 'Karena [S1], maka [S2]'.",
+    "formula": "[Klausa Alasan] + ので、[Klausa Akibat]",
+    "examples": [
+      {
+        "jp": "今日は自転車で来たので、飲めないんです。",
+        "romaji": "Kyou wa jitensha de kita node, nomenai n desu.",
+        "id_translation": "Karena saya datang dengan sepeda hari ini, jadi tidak bisa minum (alkohol)."
+      },
+      {
+        "jp": "卵アレルギーがあるので、食べられません。",
+        "romaji": "Tamago arerugii ga aru node, taberaremasen.",
+        "id_translation": "Karena saya alergi telur, jadi tidak bisa makan."
+      }
+    ],
+    "notes": "Perbedaan dengan 'から': 'ので' lebih sopan dan objektif, sedangkan 'から' lebih subjektif dan kasual. Dalam situasi formal di restoran, gunakan 'ので'. Untuk kata sifat-na dan kata benda, gunakan 'なので' (contoh: 静かなので - karena tenang, 学生なので - karena pelajar).",
+    "tags": ["B1", "Alasan", "Sebab", "Restoran"]
+  },
+  {
+    "id": "i_bab03_2",
+    "chapter": "Bab 03",
+    "source": "irodori",
+    "title": "Sよね (S yo ne) — ... Kan? (Konfirmasi)",
+    "romajiTitle": "S yo ne",
+    "meaning": "Pola untuk mengonfirmasi atau memverifikasi informasi dengan sopan. 'よね' adalah kombinasi dari 'よ' (informasi baru) dan 'ね' (konfirmasi). Digunakan saat memastikan sesuatu dengan lawan bicara, seperti menanyakan apakah suatu makanan mengandung bahan tertentu. Artinya '... kan?' atau '... ya, kan?'.",
+    "formula": "[Kalimat] + よね",
+    "examples": [
+      {
+        "jp": "おすし、わさび、入ってますよね。",
+        "romaji": "Osushi, wasabi, haittemasu yo ne.",
+        "id_translation": "Sushi, wasabi-nya ada kan?"
+      },
+      {
+        "jp": "このメニューは、卵を使ってますよね。",
+        "romaji": "Kono menyuu wa, tamago wo tsukattemasu yo ne.",
+        "id_translation": "Menu ini pakai telur kan?"
+      }
+    ],
+    "notes": "'よね' memberikan nuansa bahwa pembicara yakin tetapi ingin konfirmasi. Untuk pertanyaan yang lebih netral, gunakan 'か' saja: 入っていますか？ (Apakah ada?). 'よね' sering digunakan saat memesan makanan untuk memastikan bahan yang tidak bisa dikonsumsi.",
+    "tags": ["B1", "Konfirmasi", "Restoran", "Verifikasi"]
+  },
+  {
+    "id": "i_bab03_3",
+    "chapter": "Bab 03",
+    "source": "irodori",
+    "title": "Nで〜 (N de ~) — Dengan N (Menyatakan Pilihan)",
+    "romajiTitle": "N de",
+    "meaning": "Pola untuk menyatakan pilihan atau preferensi, sering digunakan saat memilih tempat duduk atau layanan. 'で' berarti 'dengan' atau 'dalam hal'. Digunakan saat memilih antara dua opsi yang ditawarkan. Sangat berguna saat menjawab pertanyaan staf restoran. Artinya 'Dengan [pilihan]' atau 'Saya pilih [pilihan]'.",
+    "formula": "[Pilihan] + でお願いします",
+    "examples": [
+      {
+        "jp": "A：テーブルと座敷がございますが…。 B：テーブルでお願いします。",
+        "romaji": "A: Teeburu to zashiki ga gozaimasu ga... B: Teeburu de onegaishimasu.",
+        "id_translation": "A: Ada meja dan ruang tatami... B: Dengan meja (saya pilih meja) mohon."
+      },
+      {
+        "jp": "禁煙席でお願いします。",
+        "romaji": "Kin'en-seki de onegaishimasu.",
+        "id_translation": "Dengan kursi non-rokok (saya pilih kursi non-rokok)."
+      }
+    ],
+    "notes": "Pola ini biasanya digunakan bersama dengan 'お願いします' (mohon). Contoh lain: 窓側でお願いします (Dengan kursi dekat jendela, mohon). 和食でお願いします (Dengan masakan Jepang, mohon). 'で' dalam konteks ini berarti 'saya pilih' atau 'saya ambil'.",
+    "tags": ["B1", "Pilihan", "Restoran", "Pemesanan"]
+  },
+  {
+    "id": "i_bab03_4",
+    "chapter": "Bab 03",
+    "source": "irodori",
+    "title": "〜のは、Nです (~no wa, N desu) — Yang ... Adalah N",
+    "romajiTitle": "~no wa, N desu",
+    "meaning": "Pola untuk menekankan atau menyoroti suatu informasi dengan menempatkannya di awal kalimat. '〜のは' menjadikan klausa sebagai topik, dan 'Nです' memberikan informasi penjelas. Sangat berguna saat menjelaskan menu yang paling populer atau memberikan rekomendasi. Artinya 'Yang [aktivitas/sifat] adalah [N]'.",
+    "formula": "[Kata Kerja/Kata Sifat] + のは + [Penjelasan] です",
+    "examples": [
+      {
+        "jp": "人気があるのは、お刺身定食です。",
+        "romaji": "Ninki ga aru no wa, osashimi teishoku desu.",
+        "id_translation": "Yang populer adalah paket sashimi."
+      },
+      {
+        "jp": "おすすめなのは、今日の日替わりランチです。",
+        "romaji": "Osusume na no wa, kyou no higawari ranchi desu.",
+        "id_translation": "Yang direkomendasikan adalah menu makan siang hari ini."
+      }
+    ],
+    "notes": "'の' berfungsi sebagai nominalisasi (mengubah klausa menjadi kata benda). Untuk kata sifat-na, gunakan 'なの': 静かなのはこの部屋です (Yang tenang adalah ruangan ini). Untuk kata kerja, gunakan bentuk kamus: 行くのは明日です (Yang pergi adalah besok). Pola ini sangat berguna untuk memberikan rekomendasi.",
+    "tags": ["B1", "Penekanan", "Rekomendasi", "Restoran"]
+  }
+]
